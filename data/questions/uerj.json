@@ -1768,5 +1768,221 @@
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
     }
+  },
+  {
+    "id": "uerj-2020-q54",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "CERCO DE TRUMP DÁ FORMA À ARTE NA BIENAL DE HAVANA\n\nUm peso que pesa outro peso, e este outro, e assim por diante, até chegar a seis balanças romanas encadeadas, que se sustentam entre si de um modo inverossímil – metáfora de como funciona atualmente a economia cubana, sempre em um precário equilíbrio que se mantém enquanto uma força não interferir.\n\nTrata-se de uma instalação do artista Marco Castillo, chamada 'Gabriel'. Feita de aço e chumbo, mede quase cinco metros de altura e é parte de Intercessões, uma das muitas exposições inauguradas na 13ª Bienal de Havana, sob o título 'A construção do possível', em cujo programa figuram mais de 300 criadores de 50 países.\n\nAdaptado de brasil.elpais.com, 24/04/2019.\n\nNa 13ª Bienal de Havana, muitas obras dialogavam com aspectos atuais das condições de vida em Cuba, indicando transformações econômicas ocorridas recentemente.\n\nUm fator determinante para esse novo cenário econômico é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "modernização agrícola"
+      },
+      {
+        "letter": "B",
+        "text": "dinamização do comércio"
+      },
+      {
+        "letter": "C",
+        "text": "regulamentação trabalhista"
+      },
+      {
+        "letter": "D",
+        "text": "ampliação da informalidade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O recrudescimento do embargo (bloqueio) dos Estados Unidos sob o governo Trump agravou a escassez e o precário equilíbrio da economia cubana, empurrando parte da população para atividades econômicas informais como estratégia de sobrevivência — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q55",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 55,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "[O Morro do Castelo] ouve sempre cochichos suspeitos nos quais um estribilho soa insistente: precisamos arrasar o Morro do Castelo! Percebe que virou negócio, que o verdadeiro tesouro oculto em suas entranhas não é a imagem de ouro maciço de Santo Inácio, e sim o panamá do arrasamento. Os homens de hoje são negocistas sem alma. Querem dinheiro. Para obtê-lo venderão tudo, venderiam até a alma se a tivessem. Como pode ele, pois, resistir à maré, se suas credenciais - velhice, beleza, pitoresco, historicidade - não são valores de cotação na bolsa?\n\nMONTEIRO LOBATO. Adaptado de A onda verde. São Paulo: Monteiro Lobato & Cia Editores, 1922.\n\nNa administração do engenheiro e prefeito Carlos Sampaio (1920-1922), o Morro do Castelo foi totalmente demolido. A decisão causou muita polêmica, tendo sido criticada por vários intelectuais, como, por exemplo, Monteiro Lobato.\n\nDe acordo com a crítica de Monteiro Lobato, o arrasamento do Morro do Castelo expressou a seguinte perspectiva de intervenção urbana:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "remoção de população pobre"
+      },
+      {
+        "letter": "B",
+        "text": "saneamento de área degradada"
+      },
+      {
+        "letter": "C",
+        "text": "desqualificação do passado colonial"
+      },
+      {
+        "letter": "D",
+        "text": "modernização do transporte público"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Lobato denuncia que valores como 'velhice, beleza, pitoresco, historicidade' — associados ao patrimônio colonial do morro — não tinham 'cotação na bolsa', isto é, foram desqualificados e descartados em nome do lucro imobiliário e da especulação, revelando uma desqualificação do passado colonial da cidade — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q56",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 56,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "O gueto do Norte tinha se transformado numa espécie de área colonial. A colônia era impotente porque todas as decisões importantes que afetavam a comunidade vinham de fora. Muitos de seus habitantes chegavam a ter sua vida diária dominada pelo agente da previdência e pelo policial. Os lucros obtidos por senhorios e comerciantes eram retirados e raramente reinvestidos. A única coisa positiva que a sociedade mais ampla via na favela era o fato de ela ser uma fonte de mão de obra excedente barata em tempos de prosperidade.\n\nAdaptado de CARSON, C. A autobiografia de Martin Luther King. Rio de Janeiro: Zahar, 2014.\n\nNo fragmento, Martin Luther King, líder do movimento pelos direitos civis, estabelece uma comparação entre o colonialismo territorial e os eventos ocorridos no gueto negro de Lawndale, na cidade de Chicago, onde ele morou com sua família.\n\nEssa comparação está fundamentada no seguinte processo social:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imposição cultural"
+      },
+      {
+        "letter": "B",
+        "text": "totalitarismo político"
+      },
+      {
+        "letter": "C",
+        "text": "drenagem econômica"
+      },
+      {
+        "letter": "D",
+        "text": "manipulação ideológica"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "King destaca que os lucros gerados no gueto eram extraídos por senhorios e comerciantes de fora e raramente reinvestidos na própria comunidade — o mesmo padrão de extração de riqueza sem retorno característico do colonialismo, ou seja, uma drenagem econômica — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q58",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 58,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Cadê o meu? Cadê o meu, ó meu? Dizem que você se defendeu. É o milagre brasileiro.\n\nEm 1974, final do governo Médici, o Brasil crescia como poucos países, e o salário mínimo valia muito pouco. O ministro da fazenda da época, Delfim Netto, pedia para o povo ficar calmo: 'Temos que esperar o bolo crescer para depois distribuir os pedaços.' O bolo ficou enorme, e o povo não deu nem uma mordida! Chico Buarque, usando o pseudônimo de Julinho de Adelaide, compôs a música 'Milagre brasileiro'.\n\nAdaptado de DINIZ, A.; CUNHA, D. A República cantada: do choro ao funk, a história do Brasil através da música. Rio de Janeiro: Zahar, 2014.\n\nQuatro gráficos apresentam possíveis distribuições, por quintil de renda (do quinto mais pobre ao quinto mais rico), da parcela da renda nacional total no Brasil em 1989:\n\n(A) 8,10% / 12,10% / 16,70% / 25,30% / 37,80%\n(B) 4,60% / 10,60% / 16,50% / 23,70% / 44,60%\n(C) 6,46% / 11,58% / 15,87% / 24,06% / 42,03%\n(D) 2,48% / 4,92% / 9,15% / 18,27% / 65,18%\n\nO gráfico que expressa, para o ano de 1989, a distribuição social da riqueza resultante da política econômica implementada ao longo do período histórico abordado no texto é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A"
+      },
+      {
+        "letter": "B",
+        "text": "B"
+      },
+      {
+        "letter": "C",
+        "text": "C"
+      },
+      {
+        "letter": "D",
+        "text": "D"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O 'milagre econômico' dos governos militares concentrou fortemente a renda nacional: em 1989, o Brasil tinha um dos piores índices de concentração de renda do mundo, com os 20% mais ricos detendo cerca de dois terços (65%) da renda nacional, enquanto os 20% mais pobres ficavam com pouco mais de 2% — o padrão de distribuição mais desigual entre as opções — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q59",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 59,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Esboçamos as preocupações fundamentais que a nossa peça procura refletir. A primeira e mais importante de todas se refere a uma face da sociedade brasileira que ganhou relevo nos últimos anos: a experiência capitalista que se vem implantando aqui - radical, violentamente predatória, impiedosamente seletiva - adquiriu um trágico dinamismo. O santo que produziu o milagre é conhecido por todas as pessoas de boa-fé e bom nível de informação: a brutal concentração da riqueza elevou a capacidade de consumo de bens duráveis de uma parte da população, enquanto a maioria ficou no ora veja.\n\nEncenada pela primeira vez em 1975, a premiada peça de teatro Gota d'água foi reapresentada diversas vezes. No momento em que foi escrita, como indicam seus autores, a peça buscou explicitar questionamentos sobre mudanças que afetaram a sociedade brasileira durante os governos militares.\n\nCREONTE: (...) O trem atrasa o quê? Nem meia hora / E o cara quebra tudo... Acha que é certo, Jasão?...\n\nJASÃO: Não discuto quebrar... Agora, quem às três da manhã tá de olho aberto, se espreme pra chegar no emprego às sete, lá passa o dia todo, volta às onze da noite pra acordar de novo às três, tinha que ser de bronze para fazer isso sempre, todo dia, levando na marmita arroz, feijão e humilhação... (...) O cara já tá por aqui. Tá perto de explodir, um trem que atrasa, ele mata, quebra mesmo, é a gota d'água...\n\nBUARQUE, C.; PONTES, P. Gota d'água: uma tragédia brasileira. Rio de Janeiro: Civilização Brasileira, 2018.\n\nTendo como base o diálogo citado acima, entre os personagens Creonte e Jasão, um dos efeitos dessas mudanças na experiência capitalista do Brasil da época foi a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "padronização dos valores salariais"
+      },
+      {
+        "letter": "B",
+        "text": "precarização das atividades laborais"
+      },
+      {
+        "letter": "C",
+        "text": "privatização das empresas ferroviárias"
+      },
+      {
+        "letter": "D",
+        "text": "hierarquização dos investimentos produtivos"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A fala de Jasão descreve uma rotina de trabalho exaustiva (das 3h às 23h), mal remunerada ('arroz, feijão e humilhação') e desumanizante, retratando a precarização das condições e atividades laborais da classe trabalhadora sob o 'milagre econômico' — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q60",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 60,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "A história de Pureza Lopes Loiola alerta sobre a permanência do trabalho análogo ao escravo na sociedade brasileira na atualidade.\n\nUm dos principais fatores que possibilitam essa permanência é a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "legislação permissiva"
+      },
+      {
+        "letter": "B",
+        "text": "fiscalização ineficiente"
+      },
+      {
+        "letter": "C",
+        "text": "concentração fundiária"
+      },
+      {
+        "letter": "D",
+        "text": "modernização tecnológica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A persistência do trabalho escravo contemporâneo no Brasil está fortemente associada à fiscalização ineficiente — a dificuldade do Estado em monitorar e coibir essas práticas, especialmente em áreas rurais remotas, permite que elas continuem ocorrendo impunemente — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
   }
 ]
