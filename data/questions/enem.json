@@ -17240,5 +17240,333 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2016-q58",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A minimização do tempo e custo de uma reação química, bem como o aumento na sua taxa de conversão, caracterizam a eficiência de um processo químico. Um dos parâmetros que mede a eficiência de uma reação química é o seu rendimento molar (R, em %), definido como R = (n_produto / n_reagente limitante) × 100, em que n corresponde ao número de mols. O metanol pode ser obtido pela reação entre brometo de metila e hidróxido de sódio, conforme a equação química:\n\nCH3Br + NaOH → CH3OH + NaBr\n\nAs massas molares (em g/mol) desses elementos são: H = 1; C = 12; O = 16; Na = 23; Br = 80.\n\nO rendimento molar da reação, em que 32 g de metanol foram obtidos a partir de 142,5 g de brometo de metila e 80 g de hidróxido de sódio, é mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22%."
+      },
+      {
+        "letter": "B",
+        "text": "40%."
+      },
+      {
+        "letter": "C",
+        "text": "50%."
+      },
+      {
+        "letter": "D",
+        "text": "67%."
+      },
+      {
+        "letter": "E",
+        "text": "75%."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "M(CH3Br) = 95 g/mol → 142,5/95 = 1,5 mol. M(NaOH) = 40 g/mol → 80/40 = 2 mol. Como a proporção é 1:1, o reagente limitante é o CH3Br (1,5 mol), que produziria no máximo 1,5 mol × 32 g/mol = 48 g de metanol. O rendimento real é 32/48 × 100 ≈ 67% — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q61",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Um pesquisador investigou o papel da predação por peixes na densidade e tamanho das presas, como possível controle de populações de espécies exóticas em costões rochosos. No experimento colocou uma tela sobre uma área da comunidade, impedindo o acesso dos peixes ao alimento, e comparou o resultado com uma área adjacente na qual os peixes tinham acesso livre. Após 15 dias, os resultados foram (densidade em indivíduos/m², tamanho médio em cm):\n\nAlga: com tela — 100 ind./m², 15 cm; sem tela — 110 ind./m², 18 cm.\nCraca: com tela — 300 ind./m², 2 cm; sem tela — 150 ind./m², 1,5 cm.\nMexilhão: com tela — 380 ind./m², 3 cm; sem tela — 200 ind./m², 6 cm.\nAscídia: com tela — 55 ind./m², 4 cm; sem tela — 58 ind./m², 3,8 cm.\n\nO pesquisador concluiu corretamente que os peixes controlam a densidade dos(as)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "algas, estimulando seu crescimento."
+      },
+      {
+        "letter": "B",
+        "text": "cracas, predando especialmente animais pequenos."
+      },
+      {
+        "letter": "C",
+        "text": "mexilhões, predando especialmente animais pequenos."
+      },
+      {
+        "letter": "D",
+        "text": "quatro espécies testadas, predando indivíduos pequenos."
+      },
+      {
+        "letter": "E",
+        "text": "ascídias, apesar de não representarem os menores organismos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Apenas os mexilhões mostram, na área sem tela (com acesso dos peixes), queda acentuada de densidade (380→200) acompanhada de aumento do tamanho médio (3→6 cm): um padrão típico de predação seletiva sobre os indivíduos menores, que reduz a densidade e eleva o tamanho médio dos sobreviventes — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q62",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Ao percorrer o trajeto de uma cadeia alimentar, o carbono, elemento essencial e majoritário da matéria orgânica que compõe os indivíduos, ora se encontra em sua forma inorgânica, ora se encontra em sua forma orgânica. Em uma cadeia alimentar composta por fitoplâncton, zooplâncton, moluscos, crustáceos e peixes ocorre a transição desse elemento da forma inorgânica para a orgânica.\n\nEm qual grupo de organismos ocorre essa transição?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fitoplâncton."
+      },
+      {
+        "letter": "B",
+        "text": "Zooplâncton."
+      },
+      {
+        "letter": "C",
+        "text": "Moluscos."
+      },
+      {
+        "letter": "D",
+        "text": "Crustáceos."
+      },
+      {
+        "letter": "E",
+        "text": "Peixes."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O fitoplâncton, como produtor primário fotossintetizante, fixa o carbono inorgânico (CO2 dissolvido) em moléculas orgânicas por meio da fotossíntese, sendo o ponto de entrada do carbono orgânico na cadeia alimentar — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q64",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Biocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos, liberando elétrons que fluem por um circuito externo até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica utiliza o acetato como substrato.\n\nAQUINO NETO, S. Preparação e caracterização de bioanodos para biocélula a combustível etanol/O2. Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado).\n\nPara as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais:\n\n2 CO2 + 7 H+ + 8 e− → CH3COO− + 2 H2O, E°' = −0,3 V\nO2 + 4 H+ + 4 e− → 2 H2O, E°' = 0,8 V\n\nSCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and applications. Woodhead Publishing Series in Energy, n. 88, 2016 (adaptado).\n\nNessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "9"
+      },
+      {
+        "letter": "E",
+        "text": "15"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A ddp de cada célula é E°cátodo − E°ânodo = 0,8 − (−0,3) = 1,1 V. Em série, as tensões se somam: 4,4/1,1 = 4 células — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q65",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.\n\nConsiderando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "moluscos fitófagos."
+      },
+      {
+        "letter": "B",
+        "text": "moscas saprófagas."
+      },
+      {
+        "letter": "C",
+        "text": "pássaros carnívoros."
+      },
+      {
+        "letter": "D",
+        "text": "morcegos frugívoros."
+      },
+      {
+        "letter": "E",
+        "text": "mosquitos hematófagos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Animais hematófagos, como mosquitos que se alimentam de sangue, produzem substâncias anticoagulantes na saliva para impedir a coagulação durante a alimentação — fonte natural de compostos com potencial farmacológico anticoagulante — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q67",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.\n\nPLATÃO. Timeu-Crítias. Coimbra: CECH, 2011.\n\nDo ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.\n\nExcetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "troca de átomos entre as diferentes moléculas do material."
+      },
+      {
+        "letter": "B",
+        "text": "transmutação nuclear dos elementos químicos do material."
+      },
+      {
+        "letter": "C",
+        "text": "redistribuição de prótons entre os diferentes átomos do material."
+      },
+      {
+        "letter": "D",
+        "text": "mudança na estrutura espacial formada pelos diferentes constituintes do material."
+      },
+      {
+        "letter": "E",
+        "text": "alteração nas proporções dos diferentes isótopos de cada elemento presente no material."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As mudanças de estado físico (sólido, líquido, gasoso) não alteram a composição química das substâncias, apenas o arranjo espacial (organização) de suas moléculas ou átomos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q68",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Para cada litro de etanol produzido em uma indústria de cana-de-açúcar são gerados cerca de 18 L de vinhaça que é utilizada na irrigação das plantações de cana-de-açúcar, já que contém teores médios de nutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2.034 mg/L, respectivamente.\n\nSILVA, M. A. S.; GRIEBELER, N. P.; BORGES, L. C. Uso de vinhaça e impactos nas propriedades do solo e lençol freático. Revista Brasileira de Engenharia Agrícola e Ambiental, n. 1, 2007 (adaptado).\n\nNa produção de 27.000 L de etanol, a quantidade total de fósforo, em kg, disponível na vinhaça será mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "29."
+      },
+      {
+        "letter": "C",
+        "text": "60."
+      },
+      {
+        "letter": "D",
+        "text": "170."
+      },
+      {
+        "letter": "E",
+        "text": "1 000."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O volume de vinhaça gerado é 27.000 × 18 = 486.000 L. A massa de fósforo é 486.000 L × 60 mg/L = 29.160.000 mg ≈ 29 kg — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q69",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Recentemente um estudo feito em campos de trigo mostrou que níveis elevados de dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.\n\nBLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO2 in field-grown wheat. Nature Climate Change, n. 4, abr. 2014 (adaptado).\n\nNesse contexto, a qualidade nutricional do grão de trigo será modificada primariamente pela redução de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "amido."
+      },
+      {
+        "letter": "B",
+        "text": "frutose."
+      },
+      {
+        "letter": "C",
+        "text": "lipídeos."
+      },
+      {
+        "letter": "D",
+        "text": "celulose."
+      },
+      {
+        "letter": "E",
+        "text": "proteínas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O nitrato absorvido pelas plantas é a principal fonte de nitrogênio usada na síntese de aminoácidos e, consequentemente, de proteínas. Reduzir a absorção de nitrato compromete diretamente o teor proteico do grão — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
