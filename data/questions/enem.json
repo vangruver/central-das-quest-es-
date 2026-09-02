@@ -19044,5 +19044,374 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q63",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.\n\nA dificuldade extra para reabrir a geladeira ocorre porque o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "volume de ar dentro da geladeira diminuiu."
+      },
+      {
+        "letter": "B",
+        "text": "motor da geladeira está funcionando com potência máxima."
+      },
+      {
+        "letter": "C",
+        "text": "força exercida pelo ímã fixado na porta da geladeira aumenta."
+      },
+      {
+        "letter": "D",
+        "text": "pressão no interior da geladeira está abaixo da pressão externa."
+      },
+      {
+        "letter": "E",
+        "text": "temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao fechar a porta, o ar quente que entrou é resfriado rapidamente, reduzindo sua pressão interna abaixo da pressão atmosférica externa; essa diferença de pressão dificulta reabrir a porta logo em seguida — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q64",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.\n\nDisponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado).\n\nSupondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5,4×10² J."
+      },
+      {
+        "letter": "B",
+        "text": "6,5×10³ J."
+      },
+      {
+        "letter": "C",
+        "text": "8,6×10³ J."
+      },
+      {
+        "letter": "D",
+        "text": "1,3×10⁴ J."
+      },
+      {
+        "letter": "E",
+        "text": "3,2×10⁴ J."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pelo teorema trabalho-energia, o trabalho realizado é igual à variação de energia cinética: W = (1/2)mv² = 0,5 × 90 × 12² = 0,5 × 90 × 144 = 6480 J ≈ 6,5×10³ J — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q65",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Uma garrafa térmica tem como função evitar a troca de calor entre o líquido nela contido e o ambiente, mantendo a temperatura de seu conteúdo constante. Uma forma de orientar os consumidores na compra de uma garrafa térmica seria criar um selo de qualidade, informando a variação de temperatura do conteúdo da garrafa, depois de decorridas seis horas de seu fechamento, por meio de uma porcentagem do valor inicial da temperatura de equilíbrio do líquido na garrafa. As categorias do selo são: A (menor que 10%), B (entre 10% e 25%), C (entre 25% e 40%), D (entre 40% e 55%), E (maior que 55%).\n\nPara atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10 °C e outra a 40 °C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16 °C.\n\nQual selo deveria ser posto na garrafa térmica testada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A"
+      },
+      {
+        "letter": "B",
+        "text": "B"
+      },
+      {
+        "letter": "C",
+        "text": "C"
+      },
+      {
+        "letter": "D",
+        "text": "D"
+      },
+      {
+        "letter": "E",
+        "text": "E"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A temperatura de equilíbrio inicial é (1/3)×10 + (2/3)×40 = 30 °C. A variação após 6h foi de 30°C para 16°C, ou seja, uma queda de 14°C, que representa 14/30 ≈ 46,7% do valor inicial — dentro da faixa de 40% a 55% (categoria D) — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q66",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.\n\nA alteração cromossômica da criança pode ser classificada como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estrutural, do tipo deleção."
+      },
+      {
+        "letter": "B",
+        "text": "numérica, do tipo euploidia."
+      },
+      {
+        "letter": "C",
+        "text": "numérica, do tipo poliploidia."
+      },
+      {
+        "letter": "D",
+        "text": "estrutural, do tipo duplicação."
+      },
+      {
+        "letter": "E",
+        "text": "numérica, do tipo aneuploidia."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A fórmula 47, XY, +18 indica um cromossomo 18 extra (trissomia do 18), ou seja, uma alteração numérica do tipo aneuploidia (número de cromossomos diferente de um múltiplo exato do conjunto haploide) — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q67",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.\n\nNessa situação o sistema excretor dos estudantes",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aumentou a filtração glomerular."
+      },
+      {
+        "letter": "B",
+        "text": "produziu maior volume de urina."
+      },
+      {
+        "letter": "C",
+        "text": "produziu urina com menos ureia."
+      },
+      {
+        "letter": "D",
+        "text": "produziu urina com maior concentração de sais."
+      },
+      {
+        "letter": "E",
+        "text": "reduziu a reabsorção de glicose e aminoácidos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Diante da desidratação, o hormônio antidiurético (ADH) aumenta a reabsorção de água nos túbulos renais, concentrando a urina — resultando em menor volume, mas maior concentração de solutos como sais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q71",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Vários ácidos são utilizados em indústrias que descartam seus efluentes nos corpos d'água, como rios e lagos, podendo afetar o equilíbrio ambiental. Para neutralizar a acidez, o sal carbonato de cálcio pode ser adicionado ao efluente, em quantidades apropriadas, pois produz bicarbonato, que neutraliza a água. As equações envolvidas no processo são:\n\n(I) CaCO3 (s) + CO2 (g) + H2O (l) ⇌ Ca²⁺ (aq) + 2 HCO3⁻ (aq)\n(II) HCO3⁻ (aq) ⇌ H⁺ (aq) + CO3²⁻ (aq), K1 = 3,0×10⁻¹¹\n(III) CaCO3 (s) ⇌ Ca²⁺ (aq) + CO3²⁻ (aq), K2 = 6,0×10⁻⁹\n(IV) CO2 (g) + H2O (l) ⇌ H⁺ (aq) + HCO3⁻ (aq), K3 = 2,5×10⁻⁷\n\nCom base nos valores das constantes de equilíbrio das reações II, III e IV a 25 °C, qual é o valor numérico da constante de equilíbrio da reação I?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4,5×10⁻²⁶"
+      },
+      {
+        "letter": "B",
+        "text": "5,0×10⁻⁵"
+      },
+      {
+        "letter": "C",
+        "text": "0,8×10⁻⁹"
+      },
+      {
+        "letter": "D",
+        "text": "0,2×10⁵"
+      },
+      {
+        "letter": "E",
+        "text": "2,2×10²⁶"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A reação I é a soma de III + IV + (II invertida): sua constante é K_I = (K2 × K3) / K1 = (6,0×10⁻⁹ × 2,5×10⁻⁷) / 3,0×10⁻¹¹ = 1,5×10⁻¹⁵ / 3,0×10⁻¹¹ = 5,0×10⁻⁵ — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q72",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Tanto a febre amarela quanto a dengue são doenças causadas por vírus do grupo dos arbovírus, pertencentes ao gênero Flavivirus, existindo quatro sorotipos para o vírus causador da dengue. A transmissão de ambas acontece por meio da picada de mosquitos, como o Aedes aegypti. Entretanto, embora compartilhem essas características, hoje somente existe vacina, no Brasil, para a febre amarela e nenhuma vacina efetiva para a dengue.\n\nMINISTÉRIO DA SAÚDE. Fundação Nacional de Saúde. Dengue: Instruções para pessoal de combate ao vetor. Manual de Normas Técnicas. Disponível em: http://portal.saude.gov.br. Acesso em: 7 ago. 2012 (adaptado).\n\nEsse fato pode ser atribuído à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "maior taxa de mutação do vírus da febre amarela do que do vírus da dengue."
+      },
+      {
+        "letter": "B",
+        "text": "alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela."
+      },
+      {
+        "letter": "C",
+        "text": "menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela."
+      },
+      {
+        "letter": "D",
+        "text": "presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela."
+      },
+      {
+        "letter": "E",
+        "text": "baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A existência de quatro sorotipos distintos do vírus da dengue (alta variabilidade antigênica) dificulta o desenvolvimento de uma vacina única eficaz, ao contrário da febre amarela, que possui apenas um sorotipo — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q73",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A bomba reduz neutros e neutrinos, e abana-se com o leque da reação em cadeia\n\nANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento).\n\nNesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fissão do 235U ocorre liberação de grande quantidade de calor, que dá continuidade à reação."
+      },
+      {
+        "letter": "B",
+        "text": "fissão de 235U ocorre liberação de energia, que vai desintegrando o isótopo 238U, enriquecendo-o em mais 235U."
+      },
+      {
+        "letter": "C",
+        "text": "fissão do 235U ocorre uma liberação de nêutrons, que bombardearão outros núcleos."
+      },
+      {
+        "letter": "D",
+        "text": "fusão do 235U com 238U ocorre formação de neutrino, que bombardeará outros núcleos radioativos."
+      },
+      {
+        "letter": "E",
+        "text": "fusão do 235U com 238U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na fissão do ²³⁵U, além dos fragmentos de fissão e energia, são liberados nêutrons, que ao atingirem outros núcleos de ²³⁵U provocam novas fissões, sustentando a reação em cadeia — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q74",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A palavra “biotecnologia” surgiu no século XX, quando o cientista Herbert Boyer introduziu a informação responsável pela fabricação da insulina humana em uma bactéria, para que ela passasse a produzir a substância.\n\nDisponível em: www.brasil.gov.br. Acesso em: 28 jul. 2012 (adaptado).\n\nAs bactérias modificadas por Herbert Boyer passaram a produzir insulina humana porque receberam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a sequência de DNA codificante de insulina humana."
+      },
+      {
+        "letter": "B",
+        "text": "a proteína sintetizada por células humanas."
+      },
+      {
+        "letter": "C",
+        "text": "um RNA recombinante de insulina humana."
+      },
+      {
+        "letter": "D",
+        "text": "o RNA mensageiro de insulina humana."
+      },
+      {
+        "letter": "E",
+        "text": "um cromossomo da espécie humana."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A técnica de DNA recombinante insere o próprio gene (sequência de DNA) codificante da insulina no genoma bacteriano, permitindo que a maquinaria da bactéria transcreva e traduza essa informação, produzindo a proteína — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
