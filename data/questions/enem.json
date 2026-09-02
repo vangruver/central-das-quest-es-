@@ -17568,5 +17568,661 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2016-q70",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Pesquisadores recuperaram DNA de ossos de mamute (Mammuthus primigenius) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.\n\nFAPESP. DNA de mamute é revelado. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).\n\nA técnica de datação apresentada no texto só é possível devido à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos."
+      },
+      {
+        "letter": "B",
+        "text": "decomposição de todo o carbono-12 presente no organismo após a morte."
+      },
+      {
+        "letter": "C",
+        "text": "fixação maior do carbono-14 nos tecidos de organismos após a morte."
+      },
+      {
+        "letter": "D",
+        "text": "emissão de carbono-12 pelos tecidos de organismos após a morte."
+      },
+      {
+        "letter": "E",
+        "text": "transformação do carbono-12 em carbono-14 ao longo dos anos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A datação por carbono-14 compara a proporção de C-14 (que decai com meia-vida conhecida) em relação ao C-12 (estável), conhecendo-se a proporção atmosférica constante desses isótopos ao longo do tempo — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q71",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.\n\nAs características descritas referem-se a plantas adaptadas ao bioma:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cerrado."
+      },
+      {
+        "letter": "B",
+        "text": "Pampas."
+      },
+      {
+        "letter": "C",
+        "text": "Pantanal."
+      },
+      {
+        "letter": "D",
+        "text": "Manguezal."
+      },
+      {
+        "letter": "E",
+        "text": "Mata de Cocais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Raízes de ancoragem em substrato lamacento, raízes verticais para captar oxigênio em solo pouco oxigenado e glândulas de sal são adaptações clássicas das plantas de manguezal, ambiente salino e alagado — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q72",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a: o vapor de água quente passa através das folhas, carregando consigo os óleos essenciais voláteis liberados por elas.\n\nQual processo de separação é responsável pela aromatização promovida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Filtração simples."
+      },
+      {
+        "letter": "B",
+        "text": "Destilação simples."
+      },
+      {
+        "letter": "C",
+        "text": "Extração por arraste."
+      },
+      {
+        "letter": "D",
+        "text": "Sublimação fracionada."
+      },
+      {
+        "letter": "E",
+        "text": "Decantação sólido-líquido."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O vapor de água que passa pelas folhas carrega os óleos essenciais voláteis presentes nelas: esse é o princípio da extração por arraste a vapor, técnica clássica para obter óleos essenciais aromáticos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q73",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Os ecossistemas degradados por intensa atividade agrícola apresentam, geralmente, diminuição de sua diversidade e perda de sua estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversificada.\n\nDisponível em: saf.cnpgc.embrapa.br. Acesso em: 21 jan. 2012 (adaptado).\n\nEssa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "substitui gradativamente as espécies cultiváveis por espécies arbóreas."
+      },
+      {
+        "letter": "B",
+        "text": "intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas."
+      },
+      {
+        "letter": "C",
+        "text": "promove maior diversidade de vida no solo com o aumento da matéria orgânica."
+      },
+      {
+        "letter": "D",
+        "text": "favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais."
+      },
+      {
+        "letter": "E",
+        "text": "cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A integração de árvores aos cultivos aumenta o aporte de matéria orgânica (folhas, raízes) ao solo, o que sustenta maior diversidade de organismos decompositores e melhora a fertilidade — recuperando o ecossistema enquanto se produz — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q75",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "A figura ilustra o movimento da seiva xilêmica em uma planta, da raiz até as folhas, mesmo contra a força da gravidade.\n\nCORREIA, S. Teoria da tensão-coesão-adesão. Revista de Ciência Elementar, n. 1, 2014 (adaptado).\n\nMesmo que essa planta viesse a sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.\n\nO que garante o transporte dessa seiva é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gutação."
+      },
+      {
+        "letter": "B",
+        "text": "gravidade."
+      },
+      {
+        "letter": "C",
+        "text": "respiração."
+      },
+      {
+        "letter": "D",
+        "text": "fotossíntese."
+      },
+      {
+        "letter": "E",
+        "text": "transpiração."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Pela teoria da tensão-coesão-adesão, a perda de água por transpiração nas folhas gera uma tensão que “puxa” a coluna de água coesa pelo xilema, mecanismo que funciona independentemente da orientação da planta em relação à gravidade — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q76",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Nucleófilos (Nu−) são bases de Lewis que reagem com haletos de alquila, por meio de uma reação chamada substituição nucleofílica (SN), como mostrado no esquema:\n\nR–X + Nu− → R–Nu + X− (R = grupo alquila e X = halogênio)\n\nA reação de SN entre metóxido de sódio (Nu− = CH3O−) e brometo de metila fornece um composto orgânico pertencente à função",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "éter."
+      },
+      {
+        "letter": "B",
+        "text": "éster."
+      },
+      {
+        "letter": "C",
+        "text": "álcool."
+      },
+      {
+        "letter": "D",
+        "text": "haleto."
+      },
+      {
+        "letter": "E",
+        "text": "hidrocarboneto."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A reação entre CH3O− e CH3Br produz CH3–O–CH3 (dimetil éter): a ligação C–O–C formada caracteriza a função éter — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q77",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova (carrinhos) podem se mover com atrito desprezível. Em um trilho horizontal com dois carrinhos (1 e 2), realiza-se um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1 se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Sensores eletrônicos registraram: carrinho 1 sozinho, antes da colisão, na posição 15,0 cm no instante 0,0 s e na posição 30,0 cm no instante 1,0 s; após a colisão, os carrinhos unidos estavam na posição 75,0 cm no instante 8,0 s e na posição 90,0 cm no instante 11,0 s.\n\nCom base nos dados experimentais, o valor da massa do carrinho 2 é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "50,0 g."
+      },
+      {
+        "letter": "B",
+        "text": "250,0 g."
+      },
+      {
+        "letter": "C",
+        "text": "300,0 g."
+      },
+      {
+        "letter": "D",
+        "text": "450,0 g."
+      },
+      {
+        "letter": "E",
+        "text": "600,0 g."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Velocidade do carrinho 1 antes da colisão: (30,0−15,0)cm / 1,0s = 15,0 cm/s. Velocidade conjunta após a colisão: (90,0−75,0)cm / 3,0s = 5,0 cm/s. Pela conservação do momento: 150,0 × 15,0 = (150,0 + m2) × 5,0 → 2250 = 750 + 5m2 → m2 = 300,0 g — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q78",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Após seu desgaste completo, os pneus podem ser queimados para a geração de energia. Dentre os gases gerados na combustão completa da borracha vulcanizada, alguns são poluentes e provocam a chuva ácida. Para evitar que escapem para a atmosfera, esses gases podem ser borbulhados em uma solução aquosa contendo uma substância adequada. Considere as informações de equilíbrio em solução aquosa das substâncias:\n\nFenol: C6H5OH + H2O ⇌ C6H5O− + H3O+, Ka = 1,3×10⁻¹⁰\nPiridina: C5H5N + H2O ⇌ C5H5NH+ + OH−, Kb = 1,7×10⁻⁹\nMetilamina: CH3NH2 + H2O ⇌ CH3NH3+ + OH−, Kb = 4,4×10⁻⁴\nHidrogenofosfato de potássio: HPO4²⁻ + H2O ⇌ H2PO4⁻ + OH−, Kb = 2,8×10⁻²\nHidrogenosulfato de potássio: HSO4⁻ + H2O ⇌ SO4²⁻ + H3O+, Ka = 3,1×10⁻²\n\nDentre as substâncias listadas no quadro, aquela capaz de remover com maior eficiência os gases poluentes é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fenol."
+      },
+      {
+        "letter": "B",
+        "text": "piridina."
+      },
+      {
+        "letter": "C",
+        "text": "metilamina."
+      },
+      {
+        "letter": "D",
+        "text": "hidrogenofosfato de potássio."
+      },
+      {
+        "letter": "E",
+        "text": "hidrogenosulfato de potássio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para neutralizar gases ácidos poluentes é necessária uma base forte. Entre as substâncias básicas listadas (piridina, metilamina, hidrogenofosfato), o hidrogenofosfato de potássio tem a maior constante de basicidade (Kb = 2,8×10⁻²), sendo o mais eficiente na remoção dos gases ácidos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q80",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "O Painel Intergovernamental de Mudanças Climáticas (na sigla em inglês, IPCC) prevê que nas próximas décadas o planeta passará por mudanças climáticas e propõe estratégias de mitigação e adaptação a elas. As estratégias de mitigação são direcionadas à causa dessas mudanças, procurando reduzir a concentração de gases de efeito estufa na atmosfera. As estratégias de adaptação, por sua vez, são direcionadas aos efeitos dessas mudanças, procurando preparar os sistemas humanos às mudanças climáticas já em andamento, de modo a reduzir seus efeitos negativos.\n\nIPCC, 2014. Climate Change 2014: synthesis report. Disponível em: http://ar5-syr.ipcc.ch. Acesso em: 22 out. 2015 (adaptado).\n\nConsiderando as informações do texto, qual ação representa uma estratégia de adaptação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Construção de usinas eólicas."
+      },
+      {
+        "letter": "B",
+        "text": "Tratamento de resíduos sólidos."
+      },
+      {
+        "letter": "C",
+        "text": "Aumento da eficiência dos veículos."
+      },
+      {
+        "letter": "D",
+        "text": "Adoção de agricultura sustentável de baixo carbono."
+      },
+      {
+        "letter": "E",
+        "text": "Criação de diques de contenção em regiões costeiras."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Diques de contenção não reduzem a causa das mudanças climáticas (emissão de gases), mas preparam as regiões costeiras para lidar com um de seus efeitos (elevação do nível do mar): trata-se de uma estratégia de adaptação, não de mitigação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q81",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A lipofilia é um dos fatores fundamentais para o planejamento de um fármaco. Ela mede o grau de afinidade que a substância tem com ambientes apolares, podendo ser avaliada por seu coeficiente de partição. Considere a testosterona (que possui um grupo hidroxila, X = OH, em determinada posição da molécula) e dois derivados estruturais: o Composto 1 (em que esse grupo é substituído por hidrogênio, X = H) e o Composto 2 (em que esse grupo é substituído por metila, X = CH3).\n\nNOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal e a importância da lipofilia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e de Hansch. Revista Virtual de Química, n. 3, 2009 (adaptado).\n\nEm relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "menor e menor que a lipofilia da testosterona."
+      },
+      {
+        "letter": "B",
+        "text": "menor e maior que a lipofilia da testosterona."
+      },
+      {
+        "letter": "C",
+        "text": "maior e menor que a lipofilia da testosterona."
+      },
+      {
+        "letter": "D",
+        "text": "maior e maior que a lipofilia da testosterona."
+      },
+      {
+        "letter": "E",
+        "text": "menor e igual à lipofilia da testosterona."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A substituição do grupo hidroxila polar (–OH, capaz de fazer ligações de hidrogênio com a água) por hidrogênio ou por um grupo metila apolar remove a capacidade de interação com a água, aumentando a afinidade por ambientes apolares em ambos os compostos: assim, tanto o Composto 1 quanto o Composto 2 são mais lipofílicos que a testosterona — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q83",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.\n\nSANDES, A. R. R.; BLASI, G. Biodiversidade e diversidade química e genética. Disponível em: http://novastecnologias.com.br. Acesso em: 22 set. 2015 (adaptado).\n\nO incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.\n\nEssa troca de segmentos é determinante na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "produção de indivíduos mais férteis."
+      },
+      {
+        "letter": "B",
+        "text": "transmissão de novas características adquiridas."
+      },
+      {
+        "letter": "C",
+        "text": "recombinação genética na formação dos gametas."
+      },
+      {
+        "letter": "D",
+        "text": "ocorrência de mutações somáticas nos descendentes."
+      },
+      {
+        "letter": "E",
+        "text": "variação do número de cromossomos característico da espécie."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A permuta (crossing-over) entre cromátides não irmãs durante a meiose embaralha os alelos presentes nos cromossomos homólogos, promovendo a recombinação genética que aumenta a variabilidade dos gametas formados — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q84",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Num experimento, um professor deixa duas bandejas de mesma massa, uma de plástico e outra de alumínio, sobre a mesa do laboratório, ambas em equilíbrio térmico com o ambiente. Após algumas horas, ele pede aos alunos que avaliem a temperatura das duas bandejas, usando para isso o tato. Seus alunos afirmam, categoricamente, que a bandeja de alumínio encontra-se numa temperatura mais baixa. Intrigado, ele propõe uma segunda atividade, em que coloca um cubo de gelo sobre cada uma das bandejas e os questiona em qual delas a taxa de derretimento do gelo será maior.\n\nO aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico."
+      },
+      {
+        "letter": "B",
+        "text": "mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio."
+      },
+      {
+        "letter": "C",
+        "text": "mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio."
+      },
+      {
+        "letter": "D",
+        "text": "mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico."
+      },
+      {
+        "letter": "E",
+        "text": "com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Apesar de ambas as bandejas estarem à mesma temperatura real (equilíbrio térmico com o ambiente) — a sensação de “mais fria” no alumínio vem apenas de sua maior condutividade térmica, que retira calor da mão mais rápido —, essa mesma alta condutividade faz o alumínio conduzir calor do ambiente para o gelo mais rapidamente, derretendo-o primeiro — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q87",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Portadores de diabetes insipidus reclamam da confusão feita pelos profissionais da saúde quanto aos dois tipos de diabetes: mellitus e insipidus. Enquanto o primeiro tipo está associado aos níveis ou à ação da insulina, o segundo não está ligado à deficiência desse hormônio. O diabetes insipidus é caracterizado por um distúrbio na produção ou no funcionamento do hormônio antidiurético (na sigla em inglês, ADH), secretado pela neuro-hipófise para controlar a reabsorção de água pelos túbulos renais.\n\nTendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Alta taxa de glicose no sangue."
+      },
+      {
+        "letter": "B",
+        "text": "Aumento da pressão arterial."
+      },
+      {
+        "letter": "C",
+        "text": "Ganho de massa corporal."
+      },
+      {
+        "letter": "D",
+        "text": "Anemia crônica."
+      },
+      {
+        "letter": "E",
+        "text": "Desidratação."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Sem ADH funcional, os túbulos renais não reabsorvem água adequadamente, causando eliminação excessiva de urina diluída (poliúria) e, como consequência, desidratação do paciente — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q88",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A magnetohipertermia é um procedimento terapêutico que se baseia na elevação da temperatura das células de uma região específica do corpo que estejam afetadas por um tumor. Nesse tipo de tratamento, nanopartículas magnéticas são fagocitadas pelas células tumorais, e um campo magnético alternado externo é utilizado para promover a agitação das nanopartículas e consequente aquecimento da célula.\n\nA elevação de temperatura descrita ocorre porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor."
+      },
+      {
+        "letter": "B",
+        "text": "o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito."
+      },
+      {
+        "letter": "C",
+        "text": "as nanopartículas interagem magneticamente com as células do corpo, transferindo calor."
+      },
+      {
+        "letter": "D",
+        "text": "o campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo."
+      },
+      {
+        "letter": "E",
+        "text": "as nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O campo magnético alternado faz com que os momentos magnéticos das nanopartículas se realinhem constantemente, girando-as rapidamente; esse movimento gera calor por atrito com o meio celular ao redor — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q89",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. Um gráfico mostra a taxa de aquecimento, sob irradiação de micro-ondas, de cinco solventes: água, metanol, etanol, propanol e n-hexano, ao longo de 80 segundos.\n\nBARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. Química Nova, n. 6, 2001 (adaptado).\n\nNo gráfico, qual solvente apresenta taxa média de aquecimento mais próxima de zero, no intervalo de 0 s a 40 s?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "H2O"
+      },
+      {
+        "letter": "B",
+        "text": "CH3OH"
+      },
+      {
+        "letter": "C",
+        "text": "CH3CH2OH"
+      },
+      {
+        "letter": "D",
+        "text": "CH3CH2CH2OH"
+      },
+      {
+        "letter": "E",
+        "text": "CH3CH2CH2CH2CH2CH3"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O n-hexano é uma molécula apolar, praticamente sem momento de dipolo permanente; por isso, interage muito pouco com a radiação de micro-ondas e sua taxa de aquecimento é próxima de zero, ao contrário dos álcoois e da água, que são polares — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q90",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Apesar da grande diversidade biológica, a hipótese de que a vida na Terra tenha tido uma única origem comum é aceita pela comunidade científica. Uma evidência que apoia essa hipótese é a observação de processos biológicos comuns a todos os seres vivos atualmente existentes.\n\nUm exemplo de tal processo é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desenvolvimento embrionário."
+      },
+      {
+        "letter": "B",
+        "text": "reprodução sexuada."
+      },
+      {
+        "letter": "C",
+        "text": "respiração aeróbica."
+      },
+      {
+        "letter": "D",
+        "text": "excreção urinária."
+      },
+      {
+        "letter": "E",
+        "text": "síntese proteica."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O mecanismo de síntese proteica (transcrição e tradução, com o código genético praticamente universal) é compartilhado por todos os seres vivos conhecidos, sendo uma forte evidência de ancestralidade comum — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
