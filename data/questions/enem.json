@@ -9405,5 +9405,950 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
     }
+  },
+  {
+    "id": "enem-2017-q06",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Romanos usavam redes sociais há dois mil anos, diz livro\n\nAo tuitar ou comentar embaixo do post de um de seus vários amigos no Facebook, você provavelmente se sente privilegiado por viver em um tempo na história em que é possível alcançar de forma imediata uma vasta rede de contatos por meio de um simples clique no botão “enviar”. Você talvez também reflita sobre como as gerações passadas puderam viver sem mídias sociais, desprovidas da capacidade de verem e serem vistas, de receber, gerar e interagir com uma imensa carga de informações. Mas o que você talvez não saiba é que os seres humanos usam ferramentas de interação social há mais de dois mil anos. É o que afirma Tom Standage, autor do livro Writing on the Wall — Social Media, The first 2 000 Years.\n\nSegundo Standage, Marco Túlio Cícero, filósofo e político romano, teria sido, junto com outros membros da elite romana, precursor do uso de redes sociais. O autor relata como Cícero usava um escravo, que posteriormente tornou-se seu escriba, para redigir mensagens em rolos de papiro que eram enviados a uma espécie de rede de contatos. Estas pessoas, por sua vez, copiavam seu texto, acrescentavam seus próprios comentários e repassavam adiante. “Hoje temos computadores e banda larga, mas os romanos tinham escravos e escribas que transmitiam suas mensagens”, disse Standage à BBC Brasil. “Membros da elite romana escreviam entre si constantemente, comentando sobre as últimas movimentações políticas e expressando opiniões.”\n\nAlém do papiro, outra plataforma comumente utilizada pelos romanos era uma tábua de cera do tamanho e da forma de um tablet moderno, em que escreviam recados, perguntas ou transmitiam os principais pontos da acta diurna, um “jornal” exposto diariamente no Fórum de Roma. Essa tábua, o “iPad da Roma Antiga”, era levada por um mensageiro até o destinatário, que respondia embaixo da mensagem.\n\nNIDECKER, F. Disponível em: www.bbc.co.uk. Acesso em: 7 nov. 2013 (adaptado).\n\nNa reportagem, há uma comparação entre tecnologias de comunicação antigas e atuais. Quanto ao gênero mensagem, identifica-se como característica que perdura ao longo dos tempos o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imediatismo das respostas."
+      },
+      {
+        "letter": "B",
+        "text": "compartilhamento de informações."
+      },
+      {
+        "letter": "C",
+        "text": "interferência direta de outros no texto original."
+      },
+      {
+        "letter": "D",
+        "text": "recorrência de seu uso entre membros da elite."
+      },
+      {
+        "letter": "E",
+        "text": "perfil social dos envolvidos na troca comunicativa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Tanto na Roma antiga (mensagens copiadas e repassadas por rolos e tábuas) quanto hoje (compartilhar posts) o que persiste é o compartilhamento de informações entre uma rede de contatos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q07",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Garcia tinha-se chegado ao cadáver, levantara o lenço e contemplara por alguns instantes as feições defuntas. Depois, como se a morte espiritualizasse tudo, inclinou-se e beijou-a na testa. Foi nesse momento que Fortunato chegou à porta. Estacou assombrado; não podia ser o beijo da amizade, podia ser o epílogo de um livro adúltero [...].\n\nEntretanto, Garcia inclinou-se ainda para beijar outra vez o cadáver, mas então não pôde mais. O beijo rebentou em soluços, e os olhos não puderam conter as lágrimas, que vieram em borbotões, lágrimas de amor calado, e irremediável desespero. Fortunato, à porta, onde ficara, saboreou tranquilo essa explosão de dor moral que foi longa, muito longa, deliciosamente longa.\n\nASSIS, M. A causa secreta. Disponível em: www.dominiopublico.gov.br. Acesso em: 9 out. 2015.\n\nNo fragmento, o narrador adota um ponto de vista que acompanha a perspectiva de Fortunato. O que singulariza esse procedimento narrativo é o registro do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indignação face à suspeita do adultério da esposa."
+      },
+      {
+        "letter": "B",
+        "text": "tristeza compartilhada pela perda da mulher amada."
+      },
+      {
+        "letter": "C",
+        "text": "espanto diante da demonstração de afeto de Garcia."
+      },
+      {
+        "letter": "D",
+        "text": "prazer da personagem em relação ao sofrimento alheio."
+      },
+      {
+        "letter": "E",
+        "text": "superação do ciúme pela comoção decorrente da morte."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A narração destaca que Fortunato “saboreou tranquilo” a dor de Garcia, chamando-a de “deliciosamente longa”: o narrador registra o prazer sádico da personagem diante do sofrimento alheio, traço central do conto machadiano — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q08",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Mas assim que penetramos no universo da web, descobrimos que ele constitui não apenas um imenso “território” em expansão acelerada, mas que também oferece inúmeros “mapas”, filtros, seleções para ajudar o navegante a orientar-se. O melhor guia para a web é a própria web. Ainda que seja preciso ter a paciência de explorá-la. Ainda que seja preciso arriscar-se a ficar perdido, aceitar “a perda de tempo” para familiarizar-se com esta terra estranha. Talvez seja preciso ceder por um instante a seu aspecto lúdico para descobrir, no desvio de um link, os sites que mais se aproximam de nossos interesses profissionais ou de nossas paixões e que poderão, portanto, alimentar da melhor maneira possível nossa jornada pessoal.\n\nLÉVY, P. Cibercultura. São Paulo: Editora 34, 1999.\n\nO usuário iniciante sente-se não raramente desorientado no oceano de informações e possibilidades disponíveis na rede mundial de computadores. Nesse sentido, Pierre Lévy destaca como um dos principais aspectos da internet o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "espaço aberto para a aprendizagem."
+      },
+      {
+        "letter": "B",
+        "text": "grande número de ferramentas de pesquisa."
+      },
+      {
+        "letter": "C",
+        "text": "ausência de mapas ou guias explicativos."
+      },
+      {
+        "letter": "D",
+        "text": "infinito número de páginas virtuais."
+      },
+      {
+        "letter": "E",
+        "text": "dificuldade de acesso aos sites de pesquisa."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Lévy defende que “o melhor guia para a web é a própria web” e que explorá-la, mesmo perdendo-se, alimenta a jornada pessoal: a internet é descrita como um espaço aberto de aprendizagem exploratória — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q12",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "A língua tupi no Brasil\n\nHá 300 anos, morar na vila de São Paulo de Piratininga (peixe seco, em tupi) era quase sinônimo de falar língua de índio. Em cada cinco habitantes da cidade, só dois conheciam o português. Por isso, em 1698, o governador da província, Artur de Sá e Meneses, implorou a Portugal que só mandasse padres que soubessem “a língua geral dos índios”, pois “aquela gente não se explica em outro idioma”.\n\nDerivado do dialeto de São Vicente, o tupi de São Paulo se desenvolveu e se espalhou no século XVII, graças ao isolamento geográfico da cidade e à atividade pouco cristã dos mamelucos paulistas: as bandeiras, expedições ao sertão em busca de escravos índios. Muitos bandeirantes nem sequer falavam o português ou se expressavam mal. Domingos Jorge Velho, o paulista que destruiu o Quilombo dos Palmares em 1694, foi descrito pelo bispo de Pernambuco como “um bárbaro que nem falar sabe”. Em suas andanças, essa gente batizou lugares como Avanhandava (lugar onde o índio corre), Pindamonhangaba (lugar de fazer anzol) e Itu (cachoeira). E acabou inventando uma nova língua.\n\n“Os escravos dos bandeirantes vinham de mais de 100 tribos diferentes”, conta o historiador e antropólogo John Monteiro, da Universidade Estadual de Campinas. “Isso mudou o tupi paulista, que, além da influência do português, ainda recebia palavras de outros idiomas.” O resultado da mistura ficou conhecido como língua geral do sul, uma espécie de tupi facilitado.\n\nÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).\n\nO texto trata de aspectos sócio-históricos da formação linguística nacional. Quanto ao papel do tupi na formação do português brasileiro, depreende-se que essa língua indígena",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados."
+      },
+      {
+        "letter": "B",
+        "text": "originou o português falado em São Paulo no século XVII, em cuja base gramatical também está a fala de variadas etnias indígenas."
+      },
+      {
+        "letter": "C",
+        "text": "desenvolveu-se sob influência dos trabalhos de catequese dos padres portugueses, vindos de Lisboa."
+      },
+      {
+        "letter": "D",
+        "text": "misturou-se aos falares africanos, em razão das interações entre portugueses e negros nas investidas contra o Quilombo dos Palmares."
+      },
+      {
+        "letter": "E",
+        "text": "expandiu-se paralelamente ao português falado pelo colonizador, e juntos originaram a língua dos bandeirantes paulistas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto cita topônimos de origem tupi que descrevem características dos lugares (Avanhandava — “lugar onde o índio corre”, Pindamonhangaba — “lugar de fazer anzol”, Itu — “cachoeira”), evidenciando a contribuição lexical do tupi ao português — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q13",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "O farrista\n\nQuando o almirante Cabral\nPôs as patas no Brasil\nO anjo da guarda dos índios\nEstava passeando em Paris.\nQuando ele voltou de viagem\nO holandês já está aqui.\nO anjo respira alegre:\n“Não faz mal, isto é boa gente,\nVou arejar outra vez.”\nO anjo transpôs a barra,\nDiz adeus a Pernambuco,\nFaz barulho, vuco-vuco,\nTal e qual o zepelim\nMas deu um vento no anjo,\nEle perdeu a memória...\nE não voltou nunca mais.\n\nMENDES, M. História do Brasil. Rio de Janeiro: Nova Fronteira, 1992.\n\nA obra de Murilo Mendes situa-se na fase inicial do Modernismo, cujas propostas estéticas transparecem, no poema, por um eu lírico que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "configura um ideal de nacionalidade pela integração regional."
+      },
+      {
+        "letter": "B",
+        "text": "remonta ao colonialismo assente sob um viés iconoclasta."
+      },
+      {
+        "letter": "C",
+        "text": "repercute as manifestações do sincretismo religioso."
+      },
+      {
+        "letter": "D",
+        "text": "descreve a gênese da formação do povo brasileiro."
+      },
+      {
+        "letter": "E",
+        "text": "promove inovações no repertório linguístico."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O poema faz humor irreverente com episódios da colonização (Cabral, invasão holandesa) usando linguagem coloquial (“pôs as patas”, “vuco-vuco”): trata-se de um olhar iconoclasta e irônico sobre o colonialismo, típico do primeiro Modernismo — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q14",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "PROPAGANDA — O exame dos textos e mensagens de Propaganda revela que ela apresenta posições parciais, que refletem apenas o pensamento de uma minoria, como se exprimissem, em vez disso, a convicção de uma população; trata-se, no fundo, de convencer o ouvinte ou o leitor de que, em termos de opinião, está fora do caminho certo, e de induzi-lo a aderir às teses que lhes são apresentadas, por um mecanismo bem conhecido da psicologia social, o do conformismo induzido por pressões do grupo sobre o indivíduo isolado.\n\nBOBBIO, N.; MATTEUCCI, N.; PASQUINO, G. Dicionário de política. Brasília: UnB, 1998 (adaptado).\n\nDe acordo com o texto, as estratégias argumentativas e o uso da linguagem na produção da propaganda favorecem a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reflexão da sociedade sobre os produtos anunciados."
+      },
+      {
+        "letter": "B",
+        "text": "difusão do pensamento e das preferências das grandes massas."
+      },
+      {
+        "letter": "C",
+        "text": "imposição das ideias e posições de grupos específicos."
+      },
+      {
+        "letter": "D",
+        "text": "decisão consciente do consumidor a respeito de sua compra."
+      },
+      {
+        "letter": "E",
+        "text": "identificação dos interesses do responsável pelo produto divulgado."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto explica que a propaganda faz uma minoria parecer maioria, usando o conformismo induzido para convencer o indivíduo a aderir a posições de grupos específicos, e não da população em geral — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q15",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 15,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Sítio Gerimum\n\nEste é o meu lugar [...]\nMeu Gerimum é com g\nVocê pode ter estranhado\nGerimum em abundância\nAqui era plantado\nE com a letra g\nMeu lugar foi registrado.\n\nOLIVEIRA, H. D. Língua Portuguesa, n. 88, fev. 2013 (fragmento).\n\nNos versos de um menino de 12 anos, o emprego da palavra “Gerimum” grafada com a letra “g” tem por objetivo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorizar usos informais caracterizadores da norma nacional."
+      },
+      {
+        "letter": "B",
+        "text": "confirmar o uso da norma-padrão em contexto da linguagem poética."
+      },
+      {
+        "letter": "C",
+        "text": "enfatizar um processo recorrente na transformação da língua portuguesa."
+      },
+      {
+        "letter": "D",
+        "text": "registrar a diversidade étnica e linguística presente no território brasileiro."
+      },
+      {
+        "letter": "E",
+        "text": "reafirmar discursivamente a forte relação do falante com seu lugar de origem."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O menino defende explicitamente a grafia “Gerimum com g” como marca de identidade do nome do seu sítio (“meu lugar foi registrado”): a variante linguística reafirma sua ligação afetiva e identitária com o lugar de origem — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q16",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "TEXTO I\n\nCriatividade em publicidade: teorias e reflexões\n\nResumo: O presente artigo aborda uma questão primordial na publicidade: a criatividade. Apesar de aclamada pelos departamentos de criação das agências, devemos ter a consciência de que nem todo anúncio é, de fato, criativo. A partir do resgate teórico, no qual os conceitos são tratados à luz da publicidade, busca-se estabelecer a compreensão dos temas. Para elucidar tais questões, é analisada uma campanha impressa da marca XXXX. As reflexões apontam que a publicidade criativa é essencialmente simples e apresenta uma releitura do cotidiano.\n\nDEPEXE, S. D. Travessias: Pesquisas em Educação, Cultura, Linguagem e Artes, n. 2, 2008.\n\nTEXTO II\n\nHomenagem ao Dia das Mães 2012: um anúncio publicitário que brinca com o duplo sentido da palavra “criação”, associando o ato de criar filhos ao ato de criar (produzir) uma peça publicitária.\n\nDisponível em: www.comunicacao.com. Acesso em: 3 ago. 2012 (adaptado).\n\nOs dois textos apresentados versam sobre o tema criatividade. O Texto I é um resumo de caráter científico e o Texto II, uma homenagem promovida por um site de publicidade. De que maneira o Texto II exemplifica o conceito de criatividade em publicidade apresentado no Texto I?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fazendo menção ao difícil trabalho das mães em criar seus filhos."
+      },
+      {
+        "letter": "B",
+        "text": "Promovendo uma leitura simplista do papel materno em seu trabalho de criar os filhos."
+      },
+      {
+        "letter": "C",
+        "text": "Explorando a polissemia do termo “criação”."
+      },
+      {
+        "letter": "D",
+        "text": "Recorrendo a uma estrutura linguística simples."
+      },
+      {
+        "letter": "E",
+        "text": "Utilizando recursos gráficos diversificados."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O anúncio brinca com os dois sentidos da palavra “criação” — criar filhos e criar uma peça publicitária —, explorando justamente a polissemia do termo, o que exemplifica a “releitura do cotidiano” simples e criativa descrita no Texto I — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q17",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Textos e hipertextos: procurando o equilíbrio\n\nHá um medo por parte dos pais e de alguns professores de as crianças desaprenderem quando navegam, medo de elas viciarem, de obterem informação não confiável, de elas se isolarem do mundo real, como se o computador fosse um agente do mal, um vilão. Esse medo é reforçado pela mídia, que costuma apresentar o computador como um agente negativo na aprendizagem e na socialização dos usuários. Nós sabemos que ninguém corre o risco de desaprender quando navega, seja em ambientes digitais ou em materiais impressos, mas é preciso ver o que se está aprendendo e algumas vezes interferir nesse processo a fim de otimizar ou orientar a aprendizagem, mostrando aos usuários outros temas, outros caminhos, outras possibilidades diferentes daquelas que eles encontraram sozinhos ou daquelas que eles costumam usar. É preciso, algumas vezes, negociar o uso para que ele não seja exclusivo, uma vez que há outros meios de comunicação, outros meios de informação e outras alternativas de lazer. É uma questão de equilibrar e não de culpar.\n\nCOSCARELLI, C. V. Linguagem em (Dis)curso, n. 3, set.-dez. 2009.\n\nA autora incentiva o uso da internet pelos estudantes, ponderando sobre a necessidade de orientação a esse uso, pois essa tecnologia",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "está repleta de informações confiáveis que constituem fonte única para a aprendizagem dos alunos."
+      },
+      {
+        "letter": "B",
+        "text": "exige dos pais e professores que proíbam seu uso abusivo para evitar que se torne um vício."
+      },
+      {
+        "letter": "C",
+        "text": "tende a se tornar um agente negativo na aprendizagem e na socialização de crianças e jovens."
+      },
+      {
+        "letter": "D",
+        "text": "possibilita maior ampliação do conhecimento de mundo quando a aprendizagem é direcionada."
+      },
+      {
+        "letter": "E",
+        "text": "leva ao isolamento do mundo real e ao uso exclusivo do computador se a navegação for desmedida."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A autora defende que é preciso “interferir” e “orientar” o uso da internet, mostrando “outros temas, outros caminhos”, o que amplia o conhecimento de mundo quando essa aprendizagem é direcionada — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q18",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "O mundo revivido\n\nSobre esta casa e as árvores\nque o tempo esqueceu de levar.\nSobre o curral de pedra e paz\ne de outras vacas tristes\nchorando a lua e a noite sem bezerros.\n\nSobre a parede larga deste açude\nonde outras cobras verdes se arrastavam,\ne pondo o sol nos seus olhos parados\niam colhendo sua safra de sapos.\n\nSob as constelações do sul\nque a noite armava e desarmava:\nas Três Marias, o Cruzeiro distante\ne o Sete-Estrelo.\n\nSobre este mundo revivido em vão,\na lembrança de primos, de cavalos,\nde silêncio perdido para sempre.\n\nDOBAL, H. A província deserta. Rio de Janeiro: Artenova, 1974.\n\nNo processo de reconstituição do tempo vivido, o eu lírico projeta um conjunto de imagens cujo lirismo se fundamenta no",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inventário das memórias evocadas afetivamente."
+      },
+      {
+        "letter": "B",
+        "text": "reflexo da saudade no desejo de voltar à infância."
+      },
+      {
+        "letter": "C",
+        "text": "sentimento de inadequação com o presente vivido."
+      },
+      {
+        "letter": "D",
+        "text": "ressentimento com as perdas materiais e humanas."
+      },
+      {
+        "letter": "E",
+        "text": "lapso no fluxo temporal dos eventos trazidos à cena."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O eu lírico enumera afetivamente elementos do passado (casa, curral, açude, constelações, primos, cavalos): o lirismo do poema se constrói justamente nesse inventário de memórias evocadas com afeto — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q19",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "A ascensão social por meio do esporte mexe com o imaginário das pessoas, pois em poucos anos um adolescente pode se tornar milionário caso tenha um bom desempenho esportivo. Muitos meninos de famílias pobres jogam com o objetivo de conseguir dinheiro para oferecer uma boa qualidade de vida à família. Isso aproximou mais ainda o futebol das camadas mais pobres da sociedade, tornando-o cada vez mais popular.\n\nAcontece que esses jovens sonham com fama e dinheiro, enxergando no futebol o único caminho possível para o sucesso. No entanto, eles não sabem da grande dificuldade que existe no início dessa jornada em que a minoria alcança a carreira profissional. Esses garotos abandonam a escola pela ilusão de vencer no futebol, à qual a maioria sucumbe.\n\nO caminho até o profissionalismo acontece por meio de um longo processo seletivo que os jovens têm de percorrer. Caso não seja selecionado, esse atleta poderá ter que abandonar a carreira involuntariamente por falta de uma equipe que o acolha. Alguns podem acabar em subempregos, à margem da sociedade, ou até mesmo em vícios decorrentes desse fracasso e dessa desilusão. Isso acontece porque no auge da sua formação escolar e na condição juvenil de desenvolvimento, eles não se preparam e não são devidamente orientados para buscar alternativas de experiências mais amplas de ocupação fora e além do futebol.\n\nBALZANO, O. N.; MORAIS, J. S. A formação do jogador de futebol e sua relação com a escola. EFDeportes, n. 172, set. 2012 (adaptado).\n\nAo abordar o fato de, no Brasil, muitos jovens depositarem suas esperanças de futuro no futebol, o texto critica o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "despreparo dos jogadores de futebol para ajudarem suas famílias a superar a miséria."
+      },
+      {
+        "letter": "B",
+        "text": "garantia de ascensão social dos jovens pela carreira de jogador de futebol."
+      },
+      {
+        "letter": "C",
+        "text": "falta de investimento dos clubes para que os atletas possam atuar profissionalmente e viver do futebol."
+      },
+      {
+        "letter": "D",
+        "text": "investimento reduzido dos atletas profissionais em sua formação escolar, gerando frustração e desilusão profissional no esporte."
+      },
+      {
+        "letter": "E",
+        "text": "despreocupação dos sujeitos com uma formação paralela à esportiva, para habilitá-los a atuar em outros setores da vida."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto critica o fato de os jovens abandonarem a escola e não se prepararem para “alternativas de experiências mais amplas de ocupação fora e além do futebol”, isto é, a falta de uma formação paralela ao esporte — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q20",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Declaração de amor\n\nEsta é uma confissão de amor: amo a língua portuguesa. Ela não é fácil. Não é maleável. [...] A língua portuguesa é um verdadeiro desafio para quem escreve. Sobretudo para quem escreve tirando das coisas e das pessoas a primeira capa de superficialismo. Às vezes ela reage diante de um pensamento mais complicado. Às vezes se assusta com o imprevisível de uma frase. Eu gosto de manejá-la — como gostava de estar montada num cavalo e guiá-lo pelas rédeas, às vezes a galope. Eu queria que a língua portuguesa chegasse ao máximo em minhas mãos. E este desejo todos os que escrevem têm. Um Camões e outros iguais não bastaram para nos dar para sempre uma herança de língua já feita. Todos nós que escrevemos estamos fazendo do túmulo do pensamento alguma coisa que lhe dê vida. Essas dificuldades, nós as temos. Mas não falei do encantamento de lidar com uma língua que não foi aprofundada. O que recebi de herança não me chega. Se eu fosse muda e também não pudesse escrever, e me perguntassem a que língua eu queria pertencer, eu diria: inglês, que é preciso e belo. Mas, como não nasci muda e pude escrever, tornou-se absolutamente claro para mim que eu queria mesmo era escrever em português. Eu até queria não ter aprendido outras línguas: só para que a minha abordagem do português fosse virgem e límpida.\n\nLISPECTOR, C. A descoberta do mundo. Rio de Janeiro: Rocco, 1999 (adaptado).\n\nO trecho em que Clarice Lispector declara seu amor pela língua portuguesa, acentuando seu caráter patrimonial e sua capacidade de renovação, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "“A língua portuguesa é um verdadeiro desafio para quem escreve.”"
+      },
+      {
+        "letter": "B",
+        "text": "“Um Camões e outros iguais não bastaram para nos dar para sempre uma herança de língua já feita.”"
+      },
+      {
+        "letter": "C",
+        "text": "“Todos nós que escrevemos estamos fazendo do túmulo do pensamento alguma coisa que lhe dê vida.”"
+      },
+      {
+        "letter": "D",
+        "text": "“Mas não falei do encantamento de lidar com uma língua que não foi aprofundada.”"
+      },
+      {
+        "letter": "E",
+        "text": "“Eu até queria não ter aprendido outras línguas: só para que a minha abordagem do português fosse virgem e límpida.”"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase sobre Camões evoca a língua como herança (patrimônio) ao mesmo tempo em que afirma que essa herança “não bastou” — ou seja, ainda pode e precisa ser renovada por quem escreve hoje —, unindo os dois aspectos pedidos: patrimônio e renovação — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q46",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "No império africano do Mali, no século XIV, Tombuctu foi centro de um comércio internacional onde tudo era negociado — sal, escravos, marfim etc. Havia também um grande comércio de livros de história, medicina, astronomia e matemática, além de grande concentração de estudantes. A importância cultural de Tombuctu pode ser percebida por meio de um velho provérbio: “O sal vem do norte, o ouro vem do sul, mas as palavras de Deus e os tesouros da sabedoria vêm de Tombuctu”.\n\nASSUMPÇÃO, J. E. África: uma história a ser reescrita. In: MACEDO, J. R. (Org.). Desvendando a história da África. Porto Alegre: UFRGS, 2008 (adaptado).\n\nUma explicação para o dinamismo dessa cidade e sua importância histórica no período mencionado era o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "isolamento geográfico do Saara ocidental."
+      },
+      {
+        "letter": "B",
+        "text": "exploração intensiva de recursos naturais."
+      },
+      {
+        "letter": "C",
+        "text": "posição relativa nas redes de circulação."
+      },
+      {
+        "letter": "D",
+        "text": "tráfico transatlântico de mão de obra servil."
+      },
+      {
+        "letter": "E",
+        "text": "competição econômica dos reinos da região."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Tombuctu se destacava por sua posição estratégica nas rotas transaarianas de comércio (sal, ouro, escravos, livros), conectando o norte e o sul da África — sua importância vinha justamente dessa posição privilegiada nas redes de circulação — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q47",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Após a Declaração Universal dos Direitos Humanos pela ONU, em 1948, a Unesco publicou estudos de cientistas de todo o mundo que desqualificaram as doutrinas racistas e demonstraram a unidade do gênero humano. Desde então, a maioria dos próprios cientistas europeus passou a reconhecer o caráter discriminatório da pretensa superioridade racial do homem branco e a condenar as aberrações cometidas em seu nome.\n\nSILVEIRA, R. Os selvagens e a massa: papel do racismo científico na montagem da hegemonia ocidental. Afro-Ásia, n. 23, 1999 (adaptado).\n\nA posição assumida pela Unesco, a partir de 1948, foi motivada por acontecimentos então recentes, dentre os quais se destacava o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ataque feito pelos japoneses à base militar americana de Pearl Harbor."
+      },
+      {
+        "letter": "B",
+        "text": "desencadeamento da Guerra Fria e de novas rivalidades entre nações."
+      },
+      {
+        "letter": "C",
+        "text": "morte de milhões de soldados nos combates da Segunda Guerra Mundial."
+      },
+      {
+        "letter": "D",
+        "text": "execução de judeus e eslavos presos em guetos e campos de concentração nazistas."
+      },
+      {
+        "letter": "E",
+        "text": "lançamento de bombas atômicas em Hiroshima e Nagasaki pelas forças norte-americanas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A condenação do racismo científico pela Unesco em 1948 respondeu diretamente ao horror do Holocausto — o extermínio sistemático de judeus e eslavos em campos de concentração nazistas, justificado por teorias de superioridade racial — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q48",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "A moralidade, Bentham exortava, não é uma questão de agradar a Deus, muito menos de fidelidade a regras abstratas. A moralidade é a tentativa de criar a maior quantidade de felicidade possível neste mundo. Ao decidir o que fazer, deveríamos, portanto, perguntar qual curso de conduta promoveria a maior quantidade de felicidade para todos aqueles que serão afetados.\n\nRACHELS, J. Os elementos da filosofia moral. Barueri-SP: Manole, 2006.\n\nOs parâmetros da ação indicados no texto estão em conformidade com uma",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fundamentação científica de viés positivista."
+      },
+      {
+        "letter": "B",
+        "text": "convenção social de orientação normativa."
+      },
+      {
+        "letter": "C",
+        "text": "transgressão comportamental religiosa."
+      },
+      {
+        "letter": "D",
+        "text": "racionalidade de caráter pragmático."
+      },
+      {
+        "letter": "E",
+        "text": "inclinação de natureza passional."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O utilitarismo de Bentham avalia as ações por seus efeitos práticos (maximizar a felicidade dos afetados), e não por regras abstratas ou vontade divina: trata-se de uma racionalidade de caráter pragmático — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q49",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Fala-se muito nos dias de hoje em direitos do homem. Pois bem: foi no século XVIII — em 1789, precisamente — que uma Assembleia Constituinte produziu e proclamou em Paris a Declaração dos Direitos do Homem e do Cidadão. Essa Declaração se impôs como necessária para um grupo de revolucionários, por ter sido preparada por uma mudança no plano das ideias e das mentalidades: o Iluminismo.\n\nFORTES, L. R. S. O Iluminismo e os reis filósofos. São Paulo: Brasiliense, 1981 (adaptado).\n\nCorrelacionando temporalidades históricas, o texto apresenta uma concepção de pensamento que tem como uma de suas bases a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "modernização da educação escolar."
+      },
+      {
+        "letter": "B",
+        "text": "atualização da disciplina moral cristã."
+      },
+      {
+        "letter": "C",
+        "text": "divulgação de costumes aristocráticos."
+      },
+      {
+        "letter": "D",
+        "text": "socialização do conhecimento científico."
+      },
+      {
+        "letter": "E",
+        "text": "universalização do princípio da igualdade civil."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A Declaração dos Direitos do Homem e do Cidadão de 1789, fruto do Iluminismo, consagrou a ideia de direitos válidos para todos os cidadãos, isto é, a universalização do princípio da igualdade civil — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q50",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.\n\nBRASIL. Constituição da República Federativa do Brasil de 1988. Disponível em: www.planalto.gov.br. Acesso em: 27 abr. 2017.\n\nA persistência das reivindicações relativas à aplicação desse preceito normativo tem em vista a vinculação histórica fundamental entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "etnia e miscigenação racial."
+      },
+      {
+        "letter": "B",
+        "text": "sociedade e igualdade jurídica."
+      },
+      {
+        "letter": "C",
+        "text": "espaço e sobrevivência cultural."
+      },
+      {
+        "letter": "D",
+        "text": "progresso e educação ambiental."
+      },
+      {
+        "letter": "E",
+        "text": "bem-estar e modernização econômica."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A demarcação de terras indígenas é reivindicada porque o território é condição para a manutenção da organização social, costumes, línguas e crenças dos povos indígenas — ou seja, existe uma vinculação fundamental entre espaço (terra) e sobrevivência cultural — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q51",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Fotografia de Augusto Gomes Leal e da ama de leite Mônica, cartão de visita de 1860, mostrando a ama negra, bem vestida, segurando a criança branca no colo, num retrato formal típico da época.\n\nKOUTSOUKOS, S. S. M. Amas mercenárias: o discurso dos doutores em medicina e os retratos de amas – Brasil, segunda metade do século XIX. História, Ciência, Saúde-Manguinhos, 2009. Disponível em: http://dx.doi.org. Acesso em: 8 maio 2013.\n\nA fotografia, datada de 1860, é um indício da cultura escravista no Brasil, ao expressar a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ambiguidade do trabalho doméstico exercido pela ama de leite, desenvolvendo uma relação de proximidade e subordinação em relação aos senhores."
+      },
+      {
+        "letter": "B",
+        "text": "integração dos escravos aos valores das classes médias, cultivando a família como pilar da sociedade imperial."
+      },
+      {
+        "letter": "C",
+        "text": "melhoria das condições de vida dos escravos observada pela roupa luxuosa, associando o trabalho doméstico a privilégios para os cativos."
+      },
+      {
+        "letter": "D",
+        "text": "esfera da vida privada, centralizando a figura feminina para afirmar o trabalho da mulher na educação letrada dos infantes."
+      },
+      {
+        "letter": "E",
+        "text": "distinção étnica entre senhores e escravos, demarcando a convivência entre estratos sociais como meio para superar a mestiçagem."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A ama de leite escrava mantinha uma relação de intimidade física e afetiva com a criança que amamentava e criava, mas permanecia, ao mesmo tempo, subordinada e escravizada por essa mesma família — uma ambiguidade típica da sociedade escravista — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q52",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A configuração do espaço urbano da região do Entorno do Distrito Federal assemelha-se às demais aglomerações urbanas e regiões metropolitanas do país, onde é facilmente identificável a constituição de um centro dinâmico e desenvolvido, onde se concentram as oportunidades de trabalho e os principais serviços, e a constituição de uma região periférica concentradora de população de baixa renda, com acesso restrito às principais atividades com capacidade de acumulação e produtividade, e aos serviços sociais e infraestrutura básica.\n\nCAIADO, M. C. A migração intrametropolitana e o processo de estruturação do espaço urbano da Região Integrada de Desenvolvimento do Distrito Federal e Entorno. In: HOGAN, D. J. et al. (Org.). Migração e ambiente nas aglomerações urbanas. Campinas: Nepo/Unicamp, 2002.\n\nA organização interna do aglomerado urbano descrito é resultado da ocorrência do processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão vertical."
+      },
+      {
+        "letter": "B",
+        "text": "polarização nacional."
+      },
+      {
+        "letter": "C",
+        "text": "emancipação municipal."
+      },
+      {
+        "letter": "D",
+        "text": "segregação socioespacial."
+      },
+      {
+        "letter": "E",
+        "text": "desregulamentação comercial."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A divisão entre um centro concentrador de riqueza e serviços e uma periferia pobre e carente de infraestrutura é a expressão clássica da segregação socioespacial nas metrópoles brasileiras — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q53",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "México, Colômbia, Peru e Chile decidiram seguir um caminho mais curto para a integração regional. Os quatro países, em meados de 2012, criaram a Aliança do Pacífico e eliminaram, em 2013, as tarifas aduaneiras de 90% do total de produtos comercializados entre suas fronteiras.\n\nOLIVEIRA, E. Aliança do Pacífico se fortalece e Mercosul fica à sua sombra. O Globo, 24 fev. 2013 (adaptado).\n\nO acordo descrito no texto teve como objetivo econômico para os países-membros",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promover a livre circulação de trabalhadores."
+      },
+      {
+        "letter": "B",
+        "text": "fomentar a competitividade no mercado externo."
+      },
+      {
+        "letter": "C",
+        "text": "restringir investimentos de empresas multinacionais."
+      },
+      {
+        "letter": "D",
+        "text": "adotar medidas cambiais para subsidiar o setor agrícola."
+      },
+      {
+        "letter": "E",
+        "text": "reduzir a fiscalização alfandegária para incentivar o consumo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao eliminar tarifas aduaneiras entre si, os países da Aliança do Pacífico buscavam ampliar seu comércio e ganhar competitividade conjunta no mercado externo — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q54",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Tipologia de área — % de chuva retida no local / % escoada:\n\nBacias naturais/florestas: 80 a 100% retida / 0 a 20% escoada\nBacias com ocupação agrícola/cultivos: 40 a 60% retida / 40 a 60% escoada\nBacias com ocupação residencial: 40 a 50% retida / 50 a 60% escoada\nBacias com ocupação urbana pesada: 0 a 10% retida / 90 a 100% escoada\n\nMACHADO, P. J. O.; TORRES, F. T. P. Introdução à hidrogeografia. São Paulo: Cengage Learning, 2012 (adaptado).\n\nA leitura dos dados revela que as áreas com maior cobertura vegetal têm o potencial de intensificar o processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "erosão laminar."
+      },
+      {
+        "letter": "B",
+        "text": "intemperismo físico."
+      },
+      {
+        "letter": "C",
+        "text": "enchente nas cidades."
+      },
+      {
+        "letter": "D",
+        "text": "compactação do solo."
+      },
+      {
+        "letter": "E",
+        "text": "recarga dos aquíferos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Como as bacias florestadas retêm de 80% a 100% da água da chuva (em vez de escoá-la superficialmente), essa água infiltra no solo e alimenta os lençóis freáticos, intensificando a recarga dos aquíferos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q55",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "O desgaste acelerado sempre existirá se o agricultor não tiver o devido cuidado de combater as causas, relacionadas a vários processos, tais como: empobrecimento químico e lixiviação provocados pelo esgotamento causado pelas colheitas e pela lavagem vertical de nutrientes da água que se infiltra no solo, bem como pela retirada de elementos nutritivos com as colheitas. Os nutrientes retirados, quando não repostos, são comumente substituídos por elementos tóxicos, como, por exemplo, o alumínio.\n\nLEPSCH, I. Formação e conservação dos solos. São Paulo: Oficina de Textos, 2002 (adaptado).\n\nA dinâmica ambiental exemplificada no texto gera a seguinte consequência para o solo agricultável:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Elevação da acidez."
+      },
+      {
+        "letter": "B",
+        "text": "Ampliação da salinidade."
+      },
+      {
+        "letter": "C",
+        "text": "Formação de voçorocas."
+      },
+      {
+        "letter": "D",
+        "text": "Remoção da camada superior."
+      },
+      {
+        "letter": "E",
+        "text": "Intensificação do escoamento superficial."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A lixiviação retira nutrientes (bases) do solo e os substitui por elementos como o alumínio, que tornam o solo mais ácido: a consequência direta descrita é a elevação da acidez do solo agricultável — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q56",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Os maiores consumidores da infraestrutura logística para exportação no Brasil são os produtos a granel, dentre os quais se destacam o minério de ferro, petróleo e seus derivados e a soja, que, por possuírem baixo valor agregado, e por serem movimentados em grandes volumes, necessitam de uma infraestrutura de grande porte e baixos custos. No caso da soja, a infraestrutura deixa muito a desejar, resultando em enormes filas de navios, caminhões e trens, que, por ficarem grande parte do tempo ociosos nas filas, têm seu custo majorado, onerando fortemente o exportador, afetando sua margem de lucro e ameaçando nossa competitividade internacional.\n\nFLEURY, P. F. A infraestrutura e os desafios logísticos das exportações brasileiras. Rio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).\n\nNo contexto do início do século XXI, uma ação para solucionar os problemas logísticos da soja apresentados no texto seria a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "isenção de impostos de transportes."
+      },
+      {
+        "letter": "B",
+        "text": "construção de terminais atracadouros."
+      },
+      {
+        "letter": "C",
+        "text": "diversificação dos parceiros comerciais."
+      },
+      {
+        "letter": "D",
+        "text": "contratação de trabalhadores portuários."
+      },
+      {
+        "letter": "E",
+        "text": "intensificação do policiamento das rodovias."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O problema descrito é a insuficiência de infraestrutura portuária, gerando filas de navios, caminhões e trens: a solução direta é ampliar a capacidade de escoamento com a construção de mais terminais atracadouros — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
+    }
   }
 ]
