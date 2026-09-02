@@ -25850,5 +25850,538 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
     }
+  },
+  {
+    "id": "enem-2019-q33",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Inverno! inverno! inverno! Tristes nevoeiros, frios negrumes da longa treva boreal, descampados de gelo cujo limite escapa-nos sempre, desesperadamente, para lá do horizonte, perpétua solidão inóspita, onde apenas se ouve a voz do vento que passa uivando como uma legião de lobos, através da cidade de catedrais e túmulos de cristal na planície, fantasmas que a miragem povoam e animam, tudo isto: decepções, obscuridade, solidão, desespero e a hora invisível que passa como o vento, tudo isto é o frio inverno da vida.\n\nHá no espírito o luto profundo daquele céu de bruma dos lugares onde a natureza dorme por meses, à espera do sol avaro que não vem.\n\nPOMPEIA, R. Canções sem metro. Campinas: Unicamp, 2013.\n\nReconhecido pela linguagem impressionista, Raul Pompeia desenvolveu-a na prosa poética, em que se observa a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imprecisão no sentido dos vocábulos."
+      },
+      {
+        "letter": "B",
+        "text": "dramaticidade como elemento expressivo."
+      },
+      {
+        "letter": "C",
+        "text": "subjetividade em oposição à verossimilhança."
+      },
+      {
+        "letter": "D",
+        "text": "valorização da imagem com efeito persuasivo."
+      },
+      {
+        "letter": "E",
+        "text": "plasticidade verbal vinculada à cadência melódica."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A prosa impressionista de Pompeia constrói imagens sensoriais (visuais e sonoras) por meio de um ritmo verbal cadenciado, aproximando a linguagem da musicalidade — uma plasticidade verbal associada à cadência melódica do texto — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q34",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Antes de Roma ser fundada, as colinas de Alba eram ocupadas por tribos latinas, que dividiam o ano de acordo com seus deuses. Os romanos adaptaram essa estrutura. No princípio dessa civilização o ano tinha dez meses e começava por Martius (atual março). Os outros dois teriam sido acrescentados por Numa Pompílio, o segundo rei de Roma.\n\nAté Júlio César reformar o calendário local, os meses eram lunares, mas as festas em homenagem aos deuses permaneciam designadas pelas estações. [...] Com a ajuda de matemáticos do Egito emprestados por Cleópatra, Júlio César acabou com a bagunça ao estabelecer o seguinte calendário solar: Januarius, Februarius, Martius, Aprilis, Maius, Junius, Quinctilis, Sextilis, September, October, November e December. Quase igual ao nosso, com as diferenças de que Quinctilis e Sextilis deram origem aos meses de julho e agosto.\n\nDisponível em: https://aventurasnahistoria.uol.com.br. Acesso em: 8 dez. 2018.\n\nConsiderando as informações no texto e aspectos históricos da formação da língua, a atual escrita dos meses do ano em português",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reflete a origem latina de nossa língua."
+      },
+      {
+        "letter": "B",
+        "text": "decorre de uma língua falada no Egito antigo."
+      },
+      {
+        "letter": "C",
+        "text": "tem como base um calendário criado por Cleópatra."
+      },
+      {
+        "letter": "D",
+        "text": "segue a reformulação da norma da língua proposta por Júlio César."
+      },
+      {
+        "letter": "E",
+        "text": "resulta da padronização do calendário antes da fundação de Roma."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os nomes dos meses em português (Januarius→janeiro, Februarius→fevereiro etc.) derivam diretamente dos nomes latinos estabelecidos pelos romanos, evidenciando a origem latina da língua portuguesa — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q35",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com 'seu próprio corpo'.\n\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da gestação de um novo arquétipo da felicidade. Campinas: Autores Associados; Florianópolis: UFSC, 2001.\n\nA preocupação excessiva com o 'peso' corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anorexia e bulimia."
+      },
+      {
+        "letter": "B",
+        "text": "ortorexia e vigorexia."
+      },
+      {
+        "letter": "C",
+        "text": "ansiedade e depressão."
+      },
+      {
+        "letter": "D",
+        "text": "sobrepeso e fobia social."
+      },
+      {
+        "letter": "E",
+        "text": "sedentarismo e obesidade."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os transtornos alimentares diretamente associados à distorção da autoimagem corporal e à busca obsessiva pela magreza são a anorexia nervosa (restrição extrema de alimentos) e a bulimia (compulsão seguida de purgação) — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q36",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "TEXTO I\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\nCHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\n\nTEXTO II\n\nMUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica, 152,4 cm x 121,92 cm, The Museum of Modern Art, Nova Iorque, 1977.\n\nNEVES, A. História da arte 4. Vitória: Ufes – Nead, 2011.\n\nUtilizando chocolate derretido como matéria-prima, essa obra de Vick Muniz reproduz a célebre fotografia do processo de criação de Jackson Pollock. A originalidade dessa releitura reside na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apropriação parodística das técnicas e materiais utilizados."
+      },
+      {
+        "letter": "B",
+        "text": "reflexão acerca dos sistemas de circulação da arte."
+      },
+      {
+        "letter": "C",
+        "text": "simplificação dos traços da composição pictórica."
+      },
+      {
+        "letter": "D",
+        "text": "contraposição de linguagens artísticas distintas."
+      },
+      {
+        "letter": "E",
+        "text": "crítica ao advento do abstracionismo."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao recriar com chocolate derretido — material inusitado e efêmero — a célebre fotografia da técnica de pintura gestual (dripping) de Pollock, Vick Muniz se apropria de forma parodística tanto da técnica quanto dos materiais originais da obra referenciada — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q37",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Na semana passada, os alunos do colégio do meu filho se mobilizaram, através do Twitter, para não comprarem na cantina da escola naquele dia, pois acharam o preço do pão de queijo abusivo. São adolescentes. Quase senhores das novas tecnologias, transitam nas redes sociais, varrem o mundo através dos teclados dos celulares, iPads e se organizam para fazer um movimento pacífico de não comprar lanches por um dia. Foi parar na TV e em muitas páginas da internet.\n\nGOMES, A. A revolução silenciosa e o impacto na sociedade das redes sociais. Disponível em: www.hsm.com.br. Acesso em: 31 jul. 2012.\n\nO texto aborda a temática das tecnologias da informação e comunicação, especificamente o uso de redes sociais. Muito se debate acerca dos benefícios e malefícios do uso desses recursos e, nesse sentido, o texto",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aborda a discriminação que as redes sociais sofrem de outros meios de comunicação."
+      },
+      {
+        "letter": "B",
+        "text": "mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet."
+      },
+      {
+        "letter": "C",
+        "text": "expõe a possibilidade de as redes sociais favorecerem comportamentos e manifestações violentos dos adolescentes que nelas se relacionam."
+      },
+      {
+        "letter": "D",
+        "text": "trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais."
+      },
+      {
+        "letter": "E",
+        "text": "evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que, imaturos, não utilizam a ferramenta como forma de mudança social."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O relato do movimento pacífico organizado via Twitter, que ganhou repercussão na TV e na internet, exemplifica como as redes sociais podem agregar e empoderar grupos em torno de uma causa comum, promovendo mudanças ou reivindicações coletivas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q38",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "'O computador, dando prioridade à busca pela própria felicidade, parou de trabalhar para os humanos'. É assim que termina o conto O dia em que um computador escreveu um conto, escrito por uma inteligência artificial com a ajuda de cientistas humanos.\n\nOs cientistas selecionaram palavras e frases que seriam usadas na narrativa, e definiram um roteiro geral da história, que serviria como guia para a inteligência artificial. A partir daí, o computador criou o texto combinando as frases e seguindo as diretrizes que os cientistas impuseram. Os juízes não sabem quais textos são escritos por humanos e quais são feitos por computadores, o que mostra que o conto estava bem escrito. O dia só não passou para as próximas etapas porque, de acordo com os juízes, os personagens não foram muito bem descritos, embora o texto estivesse estruturalmente impecável.\n\nA ideia dos cientistas é continuar desenvolvendo a criatividade da IA para que ela se pareça cada vez mais com a humana. Simular esse tipo de resposta é difícil, porque o computador precisa ter, primeiro, um banco de dados vasto vinculado a uma programação específica para cada tipo de projeto — escrita, pintura, música, desenho e por aí vai.\n\nD'ANGELO, H. Disponível em: https://super.abril.com.br. Acesso em: 5 dez. 2018.\n\nO êxito e as limitações da tecnologia utilizada na composição do conto evidenciam a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indistinção entre personagens produzidos por máquinas e seres humanos."
+      },
+      {
+        "letter": "B",
+        "text": "necessidade de reformulação da base de dados elaborada por cientistas."
+      },
+      {
+        "letter": "C",
+        "text": "autonomia de programas computacionais no desenvolvimento ficcional."
+      },
+      {
+        "letter": "D",
+        "text": "diferença entre a estrutura e a criatividade da linguagem humana."
+      },
+      {
+        "letter": "E",
+        "text": "qualidade artística de textos produzidos por computadores."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto mostra que a IA conseguiu reproduzir bem a estrutura textual (o conto era 'estruturalmente impecável'), mas falhou justamente no aspecto mais criativo — a construção dos personagens —, evidenciando a diferença entre estrutura e criatividade na linguagem humana — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q39",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Essa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo. E eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre. E seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo\nEm lívido silêncio. Umas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\n\nHILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia. das Letras, 2018.\n\nNo poema, o eu lírico faz um inventário de estados passados espelhados no presente. Nesse processo, aflora o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cuidado em apagar da memória os restos do amor."
+      },
+      {
+        "letter": "B",
+        "text": "amadurecimento revestido de ironia e desapego."
+      },
+      {
+        "letter": "C",
+        "text": "mosaico de alegrias formado seletivamente."
+      },
+      {
+        "letter": "D",
+        "text": "desejo reprimido convertido em delírio."
+      },
+      {
+        "letter": "E",
+        "text": "arrependimento dos erros cometidos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O eu lírico revisita, com distanciamento e certa ironia ('tudo isso te devo'), tanto momentos de plenitude quanto de dissolução ('tudo se desfez'), revelando um olhar maduro que já não se apega ao passado — amadurecimento revestido de ironia e desapego — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q40",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "1. Nós queremos cantar o amor ao perigo, o hábito da energia e da temeridade.\n2. A coragem, a audácia, a rebelião serão elementos essenciais de nossa poesia.\n3. A literatura exaltou até hoje a imobilidade pensativa, o êxtase, o sono. Nós queremos exaltar o movimento agressivo, a insônia febril, o passo de corrida, o salto mortal, o bofetão e o soco.\n4. Nós afirmamos que a magnificência do mundo enriqueceu-se de uma beleza nova: a beleza da velocidade. Um automóvel de corrida com seu cofre enfeitado com tubos grossos [...] é mais bonito que a Vitória de Samotrácia.\n5. Nós queremos entoar hinos ao homem que segura o volante [...]\n6. É preciso que o poeta prodigalize com ardor, fausto e munificiência, para aumentar o entusiástico fervor dos elementos primordiais.\n\nMARINETTI, F. T. Manifesto futurista. In: TELES, G. M. Vanguardas europeias e Modernismo brasileiro. Petrópolis: Vozes, 1985.\n\nO documento de Marinetti, de 1909, propõe os referenciais estéticos do Futurismo, que valorizam a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "composição estática."
+      },
+      {
+        "letter": "B",
+        "text": "inovação tecnológica."
+      },
+      {
+        "letter": "C",
+        "text": "suspensão do tempo."
+      },
+      {
+        "letter": "D",
+        "text": "retomada do helenismo."
+      },
+      {
+        "letter": "E",
+        "text": "manutenção das tradições."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao exaltar a velocidade, o automóvel de corrida (considerado mais belo que a estátua clássica da Vitória de Samotrácia) e o movimento agressivo em detrimento da imobilidade, o manifesto futurista valoriza a inovação tecnológica como novo referencial estético — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q41",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Ela nasceu lesma, vivia no meio das lesmas, mas não estava satisfeita com sua condição. Não passamos de criaturas desprezadas, queixava-se. Só somos conhecidas por nossa lentidão. O rastro que deixaremos na História será tão desprezível quanto a gosma que marca nossa passagem pelos pavimentos.\n\nA esta frustração correspondia um sonho: a lesma queria ser como aquele parente distante, o escargot. O simples nome já a deixava fascinada: um termo francês, elegante, sofisticado, um termo que as pessoas pronunciavam com respeito e até com admiração. Mas, lembravam as outras lesmas, os escargots são comidos, enquanto nós pelo menos temos chance de sobreviver. Este argumento não convencia a insatisfeita lesma, ao contrário: preferiria exatamente terminar sua vida desta maneira, numa mesa de toalha adamascada, entre talheres de prata e cálices de cristal. Assim como o mar é o único túmulo digno de um almirante batavo, respondia, a travessa de porcelana é a única lápide digna dos meus sonhos.\n\nSCLIAR, M. Sonho de lesma. In: ABREU, C. F. et al. A prosa do mundo. São Paulo: Global, 2009.\n\nIncorporando o devaneio da personagem, o narrador compõe uma alegoria que representa o anseio de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rejeitar metas de superação de desafios."
+      },
+      {
+        "letter": "B",
+        "text": "restaurar o estado de felicidade pregressa."
+      },
+      {
+        "letter": "C",
+        "text": "materializar expectativas de natureza utópica."
+      },
+      {
+        "letter": "D",
+        "text": "rivalizar com indivíduos de condição privilegiada."
+      },
+      {
+        "letter": "E",
+        "text": "valorizar as experiências hedonistas do presente."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O desejo da lesma de se tornar um escargot elegante e ser servida com requinte, mesmo sabendo que isso significa sua própria morte, representa uma aspiração irrealizável e idealizada — a materialização de uma expectativa utópica de status e sofisticação — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q42",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "A ciência do Homem-Aranha\n\nMuitos dos superpoderes do querido Homem-Aranha de fato se assemelham às habilidades biológicas das aranhas e são objeto de estudo para produção de novos materiais.\n\nO 'sentido-aranha' adquirido por Peter Parker funciona quase como um sexto sentido, uma espécie de habilidade premonitória e, por isso, soa como um mero elemento ficcional. No entanto, as aranhas realmente têm um sentido mais aguçado. Na verdade, elas têm um dos sistemas sensoriais mais impressionantes da natureza.\n\nOs pelos sensoriais das aranhas, que estão espalhados por todo o corpo, funcionam como uma forma muito boa de perceber o mundo e captar informações do ambiente. Em muitas espécies, esse tato por meio dos pelos tem papel mais importante que a própria visão, uma vez que muitas aranhas conseguem prender e atacar suas presas na completa escuridão. E por que os pelos humanos não são tão eficientes como órgãos sensoriais como os das aranhas? Primeiro, porque um ser humano tem em média 60 fios de pelo em cada cm² do corpo, enquanto algumas espécies de aranha podem chegar a ter 40 mil pelos por cm²; segundo, porque cada pelo das aranhas possui até 3 nervos para fazer a comunicação entre a sensação percebida e o cérebro, enquanto nós, seres humanos, temos apenas 1 nervo por pelo.\n\nDisponível em: http://cienciahoje.org.br. Acesso em: 11 dez. 2018 (adaptado).\n\nComo estratégia de progressão do texto, o autor simula uma interlocução com o público leitor ao recorrer à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revelação do 'sentido-aranha' adquirido pelo super-herói como um sexto sentido."
+      },
+      {
+        "letter": "B",
+        "text": "caracterização do afeto do público pelo super-herói marcado pela palavra 'querido'."
+      },
+      {
+        "letter": "C",
+        "text": "comparação entre os poderes do super-herói e as habilidades biológicas das aranhas."
+      },
+      {
+        "letter": "D",
+        "text": "pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas."
+      },
+      {
+        "letter": "E",
+        "text": "comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao inserir a pergunta 'E por que os pelos humanos não são tão eficientes como órgãos sensoriais como os das aranhas?', o autor simula um diálogo direto com o leitor, uma estratégia retórica que introduz e conduz a explicação seguinte — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q43",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Um texto apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade, no formato visual e estrutural de uma carta de jogo (com moldura ilustrada, atributos numerados e imagem central), combinando elementos lúdicos típicos de cartas colecionáveis com informações biográficas e acadêmicas do cientista.\n\nDisponível em: www.tecmundo.com.br. Acesso em: 10 dez. 2018 (adaptado).\n\nO texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vincular áreas distintas do conhecimento."
+      },
+      {
+        "letter": "B",
+        "text": "evidenciar a formação acadêmica do pesquisador."
+      },
+      {
+        "letter": "C",
+        "text": "relacionar o universo lúdico a informações biográficas."
+      },
+      {
+        "letter": "D",
+        "text": "especificar as contribuições mais conhecidas do pesquisador."
+      },
+      {
+        "letter": "E",
+        "text": "destacar o nome do pesquisador e sua imagem no início do texto."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao apresentar informações biográficas e acadêmicas de um cientista no formato de uma carta de jogo colecionável, o texto subverte o gênero 'carta de jogo' (tipicamente lúdico e ficcional) ao relacioná-lo com dados biográficos reais — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q44",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Toca a sirene na fábrica,\ne o apito como um chicote\nbate na manhã nascente\ne bate na tua cama\nno sono da madrugada.\nTernuras da áspera lona\npelo corpo adolescente.\nÉ o trabalho que te chama.\nÀs pressas tomas o banho,\ntomas teu café com pão,\ntomas teu lugar no bote\nno cais do Capibaribe.\nDeixas chorando na esteira\nteu filho de mãe solteira.\nLevas ao lado a marmita,\ncontendo a mesma ração\ndo meio de todo o dia,\na carne-seca e o feijão.\nDe tudo quanto ele pede\ndás só bom-dia ao patrão,\ne recomeças a luta\nna engrenagem da fiação.\n\nMOTA, M. Canto ao meio. Rio de Janeiro: Civilização Brasileira, 1964.\n\nNesse texto, a mobilização do uso padrão das formas verbais e pronominais",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ajuda a localizar o enredo num ambiente estático."
+      },
+      {
+        "letter": "B",
+        "text": "auxilia na caracterização física do personagem principal."
+      },
+      {
+        "letter": "C",
+        "text": "acrescenta informações modificadoras às ações dos personagens."
+      },
+      {
+        "letter": "D",
+        "text": "alterna os tempos da narrativa, fazendo progredir as ideias do texto."
+      },
+      {
+        "letter": "E",
+        "text": "está a serviço do projeto poético, auxiliando na distinção dos referentes."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O uso consistente da segunda pessoa ('tomas', 'deixas', 'levas', 'tua', 'te') mantém o poema centrado no interlocutor (o trabalhador), distinguindo claramente esse referente dos demais personagens mencionados (o filho, o patrão), a serviço do projeto poético de retratar sua rotina — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q45",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Irerê, meu passarinho do sertão do Cariri, Irerê, meu companheiro, Cadê viola? Cadê meu bem? Cadê Maria? Ai triste sorte a do violeiro cantadô! Ah! Sem a viola em que cantava o seu amô, Ah! Seu assobio é tua flauta de irerê: Que tua flauta do sertão quando assobia, Ah! A gente sofre sem querê! Ah! Teu canto chega lá no fundo do sertão, Ah! Como uma brisa amolecendo o coração, Ah! Ah! Irerê, solta teu canto! Canta mais! Canta mais! Prá alembrá o Cariri!\n\nVILLA-LOBOS, H. Bachianas Brasileiras n. 5 para soprano e oito violoncelos (1938-1945). Disponível em: http://euterpe.blog.br. Acesso em: 23 abr. 2019.\n\nNesses versos, há uma exaltação ao sertão do Cariri em uma ambientação linguisticamente apoiada no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uso recorrente de pronomes."
+      },
+      {
+        "letter": "B",
+        "text": "variedade popular da língua portuguesa."
+      },
+      {
+        "letter": "C",
+        "text": "referência ao conjunto da fauna nordestina."
+      },
+      {
+        "letter": "D",
+        "text": "exploração de instrumentos musicais eruditos."
+      },
+      {
+        "letter": "E",
+        "text": "predomínio de regionalismos lexicais nordestinos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Formas como 'cantadô', 'amô', 'querê' e 'alembrá' (com supressão do 'r' final e vocabulário coloquial) reproduzem a fala popular característica da região nordestina, ambientando linguisticamente a exaltação ao sertão do Cariri — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
   }
 ]
