@@ -27982,5 +27982,415 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q27",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Um diagrama relaciona a intensidade de intemperismo (muito forte, forte, moderado, fraco e muito fraco) com a precipitação média anual (variando de 400 a 2800 mm), de acordo com as condições brasileiras, mostrando que a intensidade do intemperismo cresce à medida que aumenta a precipitação média anual.\n\nFONTES, M. P. F. Intemperismo de rochas e minerais. In: KER, J. C. et al. (Org.). Pedologia: fundamentos. Viçosa (MG): SBCS, 2012 (adaptado).\n\nDe acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Tropical."
+      },
+      {
+        "letter": "B",
+        "text": "Litorâneo."
+      },
+      {
+        "letter": "C",
+        "text": "Equatorial."
+      },
+      {
+        "letter": "D",
+        "text": "Semiárido."
+      },
+      {
+        "letter": "E",
+        "text": "Subtropical."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O clima semiárido apresenta as menores taxas de precipitação entre as opções, condição associada à menor intensidade de intemperismo químico (que depende de água e calor para ocorrer de forma mais intensa) — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q31",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, formando cavidades arredondadas (marmitas) no substrato rochoso.\n\nSUERTEGARAY, D. M. A. (Org.). Terra: feições ilustradas. Porto Alegre: EdUFRGS, 2003 (adaptado).\n\nA imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fraturamento geológico, derivado da força dos agentes internos."
+      },
+      {
+        "letter": "B",
+        "text": "solapamento de camadas de argilas, transportadas pela correnteza."
+      },
+      {
+        "letter": "C",
+        "text": "movimento circular de seixos e areias, arrastados por águas turbilhonares."
+      },
+      {
+        "letter": "D",
+        "text": "decomposição das camadas sedimentares, resultante da alteração química."
+      },
+      {
+        "letter": "E",
+        "text": "assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As cavidades arredondadas (marmitas) em leitos rochosos de rios se formam pela erosão mecânica: seixos e areia são arrastados em movimento circular por correntezas turbulentas, desgastando a rocha por abrasão — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q49",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um carro solar é um veículo que utiliza apenas a energia solar para a sua locomoção. Tipicamente, o carro contém um painel fotovoltaico que converte a energia do Sol em energia elétrica que, por sua vez, alimenta um motor elétrico.\n\nDisponível em: www.physics.hku.hk. Acesso em: 3 jun. 2015.\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1000 W/m², que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.\n\nDesprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 s."
+      },
+      {
+        "letter": "B",
+        "text": "4,0 s."
+      },
+      {
+        "letter": "C",
+        "text": "10 s."
+      },
+      {
+        "letter": "D",
+        "text": "33 s."
+      },
+      {
+        "letter": "E",
+        "text": "300 s."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Potência útil do painel: P = 1000 × 9,0 × 0,30 = 2700 W. Energia cinética necessária para atingir v = 108 km/h = 30 m/s: Ec = (1/2)×200×30² = 90000 J. Tempo: t = Ec/P = 90000/2700 ≈ 33 s — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q51",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.\n\nKIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado).\n\nEssa técnica considera dois processos de separação de misturas, sendo eles, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "flotação e decantação."
+      },
+      {
+        "letter": "B",
+        "text": "decomposição e centrifugação."
+      },
+      {
+        "letter": "C",
+        "text": "floculação e separação magnética."
+      },
+      {
+        "letter": "D",
+        "text": "destilação fracionada e peneiração."
+      },
+      {
+        "letter": "E",
+        "text": "dissolução fracionada e magnetização."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A formação de agregados entre as moléculas do LCC e o petróleo caracteriza a floculação; em seguida, com a presença de nanopartículas magnéticas incorporadas aos agregados, sua remoção da água é feita por separação magnética — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q52",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A soda cáustica pode ser usada no desentupimento de encanamentos domésticos e tem, em sua composição, o hidróxido de sódio como principal componente, além de algumas impurezas. A soda normalmente é comercializada na forma sólida, mas apresenta aspecto 'derretido' quando exposta ao ar por certo período.\n\nO fenômeno de 'derretimento' decorre da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "absorção da umidade presente no ar atmosférico."
+      },
+      {
+        "letter": "B",
+        "text": "fusão do hidróxido pela troca de calor com o ambiente."
+      },
+      {
+        "letter": "C",
+        "text": "reação das impurezas do produto com o oxigênio do ar."
+      },
+      {
+        "letter": "D",
+        "text": "adsorção de gases atmosféricos na superfície do sólido."
+      },
+      {
+        "letter": "E",
+        "text": "reação do hidróxido de sódio com o gás nitrogênio presente no ar."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O hidróxido de sódio é altamente higroscópico (deliquescente): absorve a umidade do ar atmosférico e se dissolve nela mesma, formando uma solução aquosa concentrada que dá o aspecto de 'derretido' — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q53",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Certos tipos de superfícies na natureza podem refletir luz de forma a gerar um efeito de arco-íris. Essa característica é conhecida como iridescência e ocorre por causa do fenômeno da interferência de película fina. Considere uma fina camada iridescente de óleo, de espessura E, sobre uma poça d'água. Parte do feixe de luz branca incidente reflete na interface ar/óleo e sofre inversão de fase, o que equivale a uma mudança de meio comprimento de onda. A parte refratada do feixe incide na interface óleo/água e sofre reflexão sem inversão de fase. O observador enxergará aquela região do filme com coloração equivalente ao comprimento de onda que sofre interferência completamente construtiva entre os dois raios refletidos, mas essa condição só é possível para uma espessura mínima da película. Considere que o caminho adicional percorrido pelo segundo raio corresponde ao dobro da espessura E da película de óleo.\n\nDisponível em: http://2011.igem.org. Acesso em: 18 nov. 2014 (adaptado).\n\nExpressa em termos do comprimento de onda (λ), a espessura mínima é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "λ/4."
+      },
+      {
+        "letter": "B",
+        "text": "λ/2."
+      },
+      {
+        "letter": "C",
+        "text": "3λ/4."
+      },
+      {
+        "letter": "D",
+        "text": "λ."
+      },
+      {
+        "letter": "E",
+        "text": "2λ."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Como apenas um dos dois raios refletidos sofre inversão de fase (equivalente a meio comprimento de onda), a condição de interferência construtiva passa a ser 2E = λ/2 (para a menor espessura possível), logo E = λ/4 — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q54",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.\n\nMUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).\n\nO princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o fenótipo das nossas células pode mudar por influência do meio ambiente."
+      },
+      {
+        "letter": "B",
+        "text": "a dominância genética determina a expressão de alguns genes."
+      },
+      {
+        "letter": "C",
+        "text": "as mutações genéticas introduzem variabilidade no genoma."
+      },
+      {
+        "letter": "D",
+        "text": "as mitocôndrias e o seu DNA provêm do gameta materno."
+      },
+      {
+        "letter": "E",
+        "text": "as nossas células corporais provêm de um único zigoto."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A presença de células com cromossomo Y (de origem fetal masculina) nos tecidos maternos mostra que nem todas as células do corpo derivam exclusivamente do zigoto original daquele indivíduo, contrariando o princípio de que todas as células corporais provêm de um único zigoto — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q59",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Uma forma de organização de um sistema biológico é a presença de sinais diversos utilizados pelos indivíduos para se comunicarem. No caso das abelhas da espécie Apis mellifera, os sinais utilizados podem ser feromônios. Para saírem e voltarem de suas colmeias, usam um feromônio que indica a trilha percorrida por elas (Composto A, que apresenta um grupo terminal —CH2OH). Quando pressentem o perigo, expelem um feromônio de alarme (Composto B, que apresenta um grupo éster —CH3COO—), que serve de sinal para um combate coletivo. O que diferencia cada um desses sinais utilizados pelas abelhas são as estruturas e funções orgânicas dos feromônios.\n\nQUADROS, A. L. Os feromônios e o ensino de química. Química Nova na Escola, n. 7, maio 1998 (adaptado).\n\nAs funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "álcool e éster."
+      },
+      {
+        "letter": "B",
+        "text": "aldeído e cetona."
+      },
+      {
+        "letter": "C",
+        "text": "éter e hidrocarboneto."
+      },
+      {
+        "letter": "D",
+        "text": "enol e ácido carboxílico."
+      },
+      {
+        "letter": "E",
+        "text": "ácido carboxílico e amida."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O composto A apresenta um grupo hidroxila terminal (—CH2OH), característico de um álcool; o composto B apresenta o grupo —COO—, característico de um éster — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q60",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O permanganato de potássio (KMnO4) é um agente oxidante muito forte, empregado tanto em nível laboratorial quanto industrial. Na oxidação de alcenos de cadeia normal, como o 1-fenil-1-propeno (C6H5–CH=CH–CH3), o KMnO4 é utilizado para a produção de ácidos carboxílicos, por meio da clivagem oxidativa da dupla ligação.\n\nOs produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO4, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ácido benzoico e ácido etanoico."
+      },
+      {
+        "letter": "B",
+        "text": "Ácido benzoico e ácido propanoico."
+      },
+      {
+        "letter": "C",
+        "text": "Ácido etanoico e ácido 2-feniletanoico."
+      },
+      {
+        "letter": "D",
+        "text": "Ácido 2-feniletanoico e ácido metanoico."
+      },
+      {
+        "letter": "E",
+        "text": "Ácido 2-feniletanoico e ácido propanoico."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A clivagem oxidativa da dupla ligação C6H5–CH=CH–CH3 pelo KMnO4 rompe a ligação entre os dois carbonos da dupla, oxidando cada fragmento a um ácido carboxílico: o lado C6H5–CH= origina o ácido benzoico (C6H5COOH), e o lado =CH–CH3 origina o ácido etanoico (CH3COOH) — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q61",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O nitrogênio é essencial para a vida, e o maior reservatório global desse elemento é a atmosfera, na forma de N2. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.\n\nADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado).\n\nAnimais garantem suas necessidades metabólicas desse elemento pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "absorção do gás nitrogênio pela respiração."
+      },
+      {
+        "letter": "B",
+        "text": "ingestão de moléculas de carboidratos vegetais."
+      },
+      {
+        "letter": "C",
+        "text": "incorporação de nitritos dissolvidos na água consumida."
+      },
+      {
+        "letter": "D",
+        "text": "transferência da matéria orgânica pelas cadeias tróficas."
+      },
+      {
+        "letter": "E",
+        "text": "protocooperação com microrganismos fixadores de nitrogênio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao contrário dos microrganismos fixadores, os animais não conseguem assimilar o N2 atmosférico diretamente; eles obtêm nitrogênio ao se alimentar de outros organismos (vegetais ou animais), isto é, pela transferência de matéria orgânica ao longo das cadeias tróficas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
