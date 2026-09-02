@@ -22315,6 +22315,47 @@
     }
   },
   {
+    "id": "enem-2020-q09",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "É possível afirmar que muitas expressões idiomáticas transmitidas pela cultura regional possuem autores anônimos. \"Aquele é um cabra da peste\" é um bom exemplo. \"Cabra\" remete à forma com que os navegadores portugueses chamavam os índios. Já \"peste\" estaria ligada à questão da superação e resistência. Aliás, quem já não ficou de \"nhe-nhe-nhém\" por aí?\n\nDisponível em: http://leiturasdahistoria.uol.com.br. Acesso em: 13 dez. 2017.\n\nA leitura do texto permite ao leitor entrar em contato com",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "registros do inventário do português brasileiro."
+      },
+      {
+        "letter": "B",
+        "text": "justificativas da variedade linguística do país."
+      },
+      {
+        "letter": "C",
+        "text": "influências da fala do nordestino no uso da língua."
+      },
+      {
+        "letter": "D",
+        "text": "explorações do falar de um grupo social específico."
+      },
+      {
+        "letter": "E",
+        "text": "representações da mudança linguística do português."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto reúne e explica a origem popular de expressões idiomáticas regionais, funcionando como um registro (catálogo) desse inventário lexical do português brasileiro — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q10",
     "exam": "enem",
     "year": 2020,
@@ -22353,6 +22394,88 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q11",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Na sua imaginação perturbada sentia a natureza toda agitando-se para sufocá-la. Maria quis fugir, mas os membros cansados não acudiam aos ímpetos do medo e deixavam-na prostrada em uma angústia desesperada.\n\nARANHA, J. P. G. Canaã. São Paulo: Ática, 1997.\n\nNo trecho, o narrador mobiliza recursos de linguagem que geram uma expressividade centrada na percepção da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "relação entre a natureza opressiva e o desejo de libertação da personagem."
+      },
+      {
+        "letter": "B",
+        "text": "confluência entre o estado emocional da personagem e a configuração da paisagem."
+      },
+      {
+        "letter": "C",
+        "text": "prevalência do mundo natural em relação à fragilidade humana."
+      },
+      {
+        "letter": "D",
+        "text": "depreciação do sentido da vida diante da consciência da morte iminente."
+      },
+      {
+        "letter": "E",
+        "text": "instabilidade psicológica da personagem face à realidade hostil."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A natureza é descrita como 'agitando-se para sufocá-la', espelhando diretamente o estado de medo e angústia de Maria — uma confluência entre paisagem e estado emocional, recurso típico da prosa naturalista/simbolista — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q12",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "TEXTO I\n\n\"É pau, é pedra, é o fim do caminho / É um resto de toco, é um pouco sozinho / É um caco de vidro, é a vida, é o sol\"\n\nTOM JOBIM. Águas de março. O Tom de Jobim e o tal de João Bosco (disco de bolso). Salvador: Zen Produtora, 1972 (fragmento).\n\nTEXTO II\n\nA inspiração súbita e certeira do compositor serve ainda de exemplo do lema antigo: nada vem do nada. A outra é um ponto de macumba, gravado com sucesso por J. B. Carvalho.\n\nNESTROVSKI, A. O samba mais bonito do mundo. In: Três canções de Tom Jobim. São Paulo: Cosac Naify, 2004.\n\nAo situar a composição no panorama cultural brasileiro, o Texto II destaca o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diálogo que a letra da canção estabelece com diferentes tradições da cultura nacional."
+      },
+      {
+        "letter": "B",
+        "text": "singularidade com que o compositor converte referências eruditas em populares."
+      },
+      {
+        "letter": "C",
+        "text": "caráter inovador com que o compositor concebe o processo de criação artística."
+      },
+      {
+        "letter": "D",
+        "text": "relativização que a letra da canção promove na concepção tradicional de originalidade."
+      },
+      {
+        "letter": "E",
+        "text": "resgate que a letra da canção promove de obras pouco conhecidas pelo público no país."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O Texto II aproxima 'Águas de março' de um antigo provérbio ('nada vem do nada') e de um ponto de macumba, mostrando o diálogo da canção com diferentes tradições culturais brasileiras (popular, oral, religiosa afro-brasileira) — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -22397,6 +22520,47 @@
     }
   },
   {
+    "id": "enem-2020-q14",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "TEXTO I\n\nHIRST, D. Mother and Child. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993 (detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\nDisponível em: http://damienhirst.com. Acesso em: 15 jul. 2015.\n\nTEXTO II\n\nO grupo Jovens Artistas Britânicos (YABs), do qual Damien Hirst fazia parte, surgiu no final da década de 1980. Uma característica desses artistas era utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma atmosfera de niilismo, temperada por um humor mordaz.\n\nFARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante, 2011 (adaptado).\n\nA provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna."
+      },
+      {
+        "letter": "B",
+        "text": "frutífero arsenal de materiais e formas que se relacionam com os objetos construídos."
+      },
+      {
+        "letter": "C",
+        "text": "economia e problemas financeiros gerados pela recessão que tiveram grande impacto no mercado."
+      },
+      {
+        "letter": "D",
+        "text": "influência desse grupo junto aos estilos pós-modernos que surgiram nos anos 1990."
+      },
+      {
+        "letter": "E",
+        "text": "interesse em produtos indesejáveis que revela uma consciência sustentável no mercado."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O uso de materiais incomuns e não convencionais (esterco, sangue, legumes, animais em formol) amplia o repertório de materiais e formas usados na produção artística, gerando debate sobre os limites do que pode ser considerado arte — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q15",
     "exam": "enem",
     "year": 2020,
@@ -22435,6 +22599,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q16",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Fomos falar com o tal encarregado, depois com um engenheiro. Falei que a gente tinha o direito de sair quando a gente quisesse, e pronto. 50 Volts aproveitou uma parada da serra e falou que a gente não era bicho pra trabalhar daquele jeito; daí o supervisor falou que, se era falta de mulher, eles davam um jeito.\n\nPELLEGRINI, D. A maior ponte do mundo. In: Melhores contos. São Paulo: Global, 2005.\n\nAs reivindicações dos operários pela melhoria das condições de trabalho recebem algumas tentativas de neutralização dos representantes do empregador, das quais a mais forte é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sequência de atribuição de responsabilidades a terceiros."
+      },
+      {
+        "letter": "B",
+        "text": "solicitação em nome dos prejuízos e compromissos para entrega da obra."
+      },
+      {
+        "letter": "C",
+        "text": "intimidação pela discreta presença de um agente de segurança na cena."
+      },
+      {
+        "letter": "D",
+        "text": "promessa de imediato atendimento da carência sexual dos operários."
+      },
+      {
+        "letter": "E",
+        "text": "apelo pela identificação com a empresa extensiva ao amor patriótico."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Diante da reivindicação dos operários, o supervisor tenta neutralizá-la de forma degradante, insinuando resolver a questão como se fosse 'falta de mulher' — a mais grave das tentativas de desqualificar e desviar o protesto — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -22561,6 +22766,47 @@
     }
   },
   {
+    "id": "enem-2020-q20",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Por que a indústria do empreendedorismo de palco irá destruir você\n\nSe, antigamente, os livros de autoajuda cuspiam fórmulas, equações e cálculos, hoje eles dizem: \"Você irá chegar lá! Acredite, você irá vencer!\". Mindset, empoderamento, millennials, networking, coworking, deal, business, deadline, salesman com perfil hunter… tudo isso faz parte do seu vocabulário se você segue esse tipo de conteúdo.\n\nCARVALHO, Í. C. Disponível em: https://medium.com. Acesso em: 17 ago. 2017 (adaptado).\n\nDe acordo com o texto, é possível identificar o \"empreendedor de palco\" por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "livros por ele indicados."
+      },
+      {
+        "letter": "B",
+        "text": "suas habilidades em língua inglesa."
+      },
+      {
+        "letter": "C",
+        "text": "experiências por ele compartilhadas."
+      },
+      {
+        "letter": "D",
+        "text": "padrões de linguagem por ele utilizados."
+      },
+      {
+        "letter": "E",
+        "text": "preços acessíveis de seus treinamentos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto lista uma série de termos e jargões (mindset, empoderamento, networking etc.) típicos desse tipo de discurso — o 'empreendedor de palco' é identificável pelos padrões de linguagem que utiliza — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q21",
     "exam": "enem",
     "year": 2020,
@@ -22640,6 +22886,88 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q24",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "DECRETO N. 28 314, DE 28 DE SETEMBRO DE 2007\n\nDemite o Gerúndio do Distrito Federal e dá outras providências.\n\nArt. 1º Fica demitido o Gerúndio de todos os órgãos do Governo do Distrito Federal.\n\nArt. 2º Fica proibido, a partir desta data, o uso do gerúndio para desculpa de INEFICIÊNCIA.\n\nDisponível em: www.dodf.gov.br. Acesso em: 11 dez. 2017.\n\nEsse decreto pauta-se na ideia de que o uso do gerúndio, como \"desculpa de ineficiência\", indica",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conclusão de uma ação."
+      },
+      {
+        "letter": "B",
+        "text": "realização de um evento."
+      },
+      {
+        "letter": "C",
+        "text": "repetição de uma prática."
+      },
+      {
+        "letter": "D",
+        "text": "continuidade de um processo."
+      },
+      {
+        "letter": "E",
+        "text": "transferência de responsabilidade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O gerúndio expressa aspecto durativo, uma ação em curso e sem previsão de término (ex.: 'vou estar analisando') — sendo satirizado como desculpa para adiar indefinidamente uma tarefa, isto é, indica continuidade de um processo — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q25",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "A obra One and Three Chairs, de Joseph Kosuth, data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete de dicionário \"Cadeira\". Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, ao apresentar três formas diferentes (o objeto real, sua imagem fotográfica e sua definição verbal) do mesmo conceito lado a lado.\n\nKOSUTH, J. One and Three Chairs. Museu Reina Sofia, Espanha, 1965. Disponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018 (adaptado).\n\nA obra evidencia que a arte",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "não é a realidade, mas uma representação dela."
+      },
+      {
+        "letter": "B",
+        "text": "fundamenta-se na repetição, construindo variações."
+      },
+      {
+        "letter": "C",
+        "text": "não se define, pois depende da interpretação do fruidor."
+      },
+      {
+        "letter": "D",
+        "text": "resiste ao tempo, beneficiada por múltiplas formas de registro."
+      },
+      {
+        "letter": "E",
+        "text": "redesenha a verdade, aproximando-se das definições lexicais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao justapor o objeto real, sua fotografia e sua definição verbal, Kosuth evidencia que qualquer uma dessas formas é apenas uma representação da cadeira, nunca a coisa em si — a arte não é a realidade, mas uma representação dela — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -22766,6 +23094,47 @@
     }
   },
   {
+    "id": "enem-2020-q29",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Seu delegado\n\nEu sou viúvo e tenho um filho homem\nArrumei uma viúva e fui me casar\nA viúva tinha uma filha, ela mesma solteira\nMeu pai se apaixonou por ela e resolveu se casar\nAgora eu estou confuso, não sei o que fazer\nMeu pai casou com minha enteada, quer dizer que ela é\nMinha mãe e minha nora ao mesmo tempo\n\nEssa criança que agora vai nascer\nSerá irmão de meu pai e será meu neto também\nMeu pai é meu genro, e minha mulher é minha avó\nSe minha mulher é avó, eu sou neto dela também\nAcaba esse garoto sendo meu avô.\n\nTRIO FORROZÃO. Agitando a rapaziada. Rio de Janeiro: Natasha Records, 2009.\n\nNessa letra da canção, a suposição do último verso sinaliza a intenção do autor de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ironizar as relações familiares modernas."
+      },
+      {
+        "letter": "B",
+        "text": "reforçar o humor da situação representada."
+      },
+      {
+        "letter": "C",
+        "text": "expressar perplexidade em relação ao parente."
+      },
+      {
+        "letter": "D",
+        "text": "atribuir à criança a causa da dúvida existencial."
+      },
+      {
+        "letter": "E",
+        "text": "questionar os lugares predeterminados da família."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A cadeia de parentescos absurdos, culminando na criança sendo 'avô' do próprio narrador, é um exagero cômico proposital que reforça o humor da situação representada — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q30",
     "exam": "enem",
     "year": 2020,
@@ -22804,6 +23173,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q31",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Mulher tem coração clinicamente partido após morte de cachorro\n\nComo explica o The New England Journal of Medicine, a paciente, chamada Joanie Simpson, tinha sinais de infarto, mas os exames descartaram entupimento nas artérias. Os médicos diagnosticaram cardiomiopatia de Takotsubo, conhecida como síndrome do coração partido, causada por um evento estressante, como a morte de um ente querido. O caso aconteceu em Houston, nos Estados Unidos.\n\nDisponível em: https://exame.abril.com.br. Acesso em: 1 dez. 2017.\n\nPelas características do texto lido, considera-se que ele se enquadra no gênero",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conto, pois exibe a história de vida de Joanie Simpson."
+      },
+      {
+        "letter": "B",
+        "text": "depoimento, pois expõe o sofrimento da dona do animal."
+      },
+      {
+        "letter": "C",
+        "text": "reportagem, pois discute cientificamente a cardiomiopatia."
+      },
+      {
+        "letter": "D",
+        "text": "relato, pois narra um fato estressante vivido pela paciente."
+      },
+      {
+        "letter": "E",
+        "text": "notícia, pois divulga fatos sobre a síndrome do coração partido."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto relata de forma breve e objetiva um fato específico e atual (o diagnóstico de uma síndrome médica), característica típica do gênero notícia — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -22848,6 +23258,88 @@
     }
   },
   {
+    "id": "enem-2020-q33",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Poesia em cartaz\n\nO caminho habitual para o trabalho, para a escola ou para casa pode ficar mais belo com um poema colado num poste. O projeto #UmLambePorDia nasceu desta intenção: levar poesia para as ruas por meio de cartazes lambe-lambe colados em postes e muros da cidade. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte, que passou a espalhar versos de poetas conhecidos e desconhecidos pelos caminhos que percorria diariamente.\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).\n\nConsiderando-se a função que os cartazes colados em postes normalmente exercem (anúncios, avisos, propaganda), esse texto evidencia a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "disseminação da arte poética em um veículo não convencional."
+      },
+      {
+        "letter": "B",
+        "text": "manutenção da expectativa das pessoas ao andarem pelas ruas."
+      },
+      {
+        "letter": "C",
+        "text": "necessidade de exposição de poemas pequenos em diferentes suportes."
+      },
+      {
+        "letter": "D",
+        "text": "característica corriqueira do suporte lambe-lambe, muito comum nas ruas."
+      },
+      {
+        "letter": "E",
+        "text": "exposição da beleza escondida das esquinas da cidade de Belo Horizonte."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao usar o lambe-lambe — suporte tradicionalmente associado a anúncios e avisos — para divulgar poesia, o projeto dissemina a arte poética em um veículo não convencional para esse fim — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q34",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "A vida às vezes é como um jogo brincado na rua. Nunca ninguém nos avisou que aquele era mesmo o último Carnaval da Vitória, o último em que brincaríamos juntos daquele jeito. O \"dia da véspera do Carnaval\", como dizia a avó Nhé, era dia de confusão, de correria, de gente pintando o rosto e inventando fantasia com o que tinha em casa.\n\nONDJAKI. Os da minha rua. Rio de Janeiro: Língua Geral, 2007.\n\nAs significações afetivas engendradas no fragmento pressupõem o reconhecimento da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "perspectiva infantil assumida pela voz narrativa."
+      },
+      {
+        "letter": "B",
+        "text": "suspensão da linearidade temporal da narração."
+      },
+      {
+        "letter": "C",
+        "text": "tentativa de materializar lembranças da infância."
+      },
+      {
+        "letter": "D",
+        "text": "incidência da memória sobre as imagens narradas."
+      },
+      {
+        "letter": "E",
+        "text": "alternância entre impressões subjetivas e relatos factuais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O tom ingênuo e afetivo, a memória de brincadeiras de rua e a referência carinhosa à avó revelam que a narrativa é conduzida por uma perspectiva infantil — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q35",
     "exam": "enem",
     "year": 2020,
@@ -22886,6 +23378,88 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q36",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "LUTA: prática corporal imprevisível, caracterizada por determinado estado de contato proposital, que possibilita a duas ou mais pessoas se enfrentarem numa constante troca de ações ofensivas e/ou defensivas, regida por regras, com o objetivo mútuo sobre um alvo móvel personificado no oponente.\n\nGOMES, M. S. P. et al. Ensino das lutas: dos princípios condicionais aos grupos situacionais. Movimento, n. 2, abr.-jun. 2010 (adaptado).\n\nDe acordo com o texto, podemos identificar uma abordagem das lutas nas aulas de educação física quando o professor realiza uma proposta envolvendo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contato corporal intenso entre o aluno e seu oponente."
+      },
+      {
+        "letter": "B",
+        "text": "contenda entre os alunos que se agridem fisicamente."
+      },
+      {
+        "letter": "C",
+        "text": "confronto corporal em que os vencedores são previamente identificados."
+      },
+      {
+        "letter": "D",
+        "text": "combate corporal intencional com ações regulamentadas entre os oponentes."
+      },
+      {
+        "letter": "E",
+        "text": "conflito resolvido pelos alunos por meio de regras previamente estabelecidas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A definição do texto enfatiza contato 'proposital', ações ofensivas/defensivas 'regidas por regras' — ou seja, um combate corporal intencional com ações regulamentadas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q38",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Relatos de viagem: nas curvas da Nacional 222, em Portugal\n\nEm abril deste ano, fomos a Portugal para uma viagem de um mês. Que linda a \"antiga, muy nobre, sempre leal e invicta\" cidade do Porto! \"Encantei-me\", diriam eles, os visitantes de outrora, pelas belas paisagens, construções históricas com lindas fachadas. Os tripeiros, sinônimo de portuenses, têm orgulho de sua cidade e valorizam tudo o que há de bom ali, como \"a melhor estrada para se dirigir do mundo\", a Nacional 222. Pois na manhã do 25 de abril, dia da Revolução dos Cravos, resolvemos conhecer a tal maravilha. Congelados, mas maravilhados e invictos!\n\nDisponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado).\n\nNesse texto, busca-se seduzir o leitor por meio da exploração de uma voz externa sobre a identidade histórica do povo português. O trecho que evidencia esse procedimento argumentativo é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "\"Que linda a 'antiga, muy nobre, sempre leal e invicta' cidade do Porto!\"."
+      },
+      {
+        "letter": "B",
+        "text": "\"'Encantei-me', diriam eles [...] pelas belas paisagens, construções históricas com lindas fachadas [...]\"."
+      },
+      {
+        "letter": "C",
+        "text": "\"Os tripeiros, sinônimo de portuenses, têm orgulho de sua cidade [...]\"."
+      },
+      {
+        "letter": "D",
+        "text": "\"E valorizam tudo o que há de bom ali, como 'a melhor estrada para se dirigir do mundo' [...]\"."
+      },
+      {
+        "letter": "E",
+        "text": "\"Pois na manhã do 25 de abril, dia da Revolução dos Cravos, resolvemos conhecer a tal maravilha\"."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao atribuir a fala ('diriam eles') a visitantes de outrora, o autor constrói uma voz externa imaginada que reforça, de fora, a identidade histórica de encantamento com Portugal — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -22930,6 +23504,88 @@
     }
   },
   {
+    "id": "enem-2020-q40",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "— O senhor pensa que eu tenho alguma fábrica de dinheiro? Naziazeno espera que ele lhe dê as costas, vá reatar a palestra interrompida, aquelas observações sobre a questão social, comunismo e integralismo.\n\nMACHADO, D. Os ratos. São Paulo: Círculo do Livro, s/d.\n\nA ficção modernista explorou tipos humanos em situação de conflito social. No fragmento do romancista gaúcho, esse conflito revela a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sujeição moral amplificada pela pobreza."
+      },
+      {
+        "letter": "B",
+        "text": "crise econômica em expansão nas cidades."
+      },
+      {
+        "letter": "C",
+        "text": "falta de diálogo entre patrões e empregados."
+      },
+      {
+        "letter": "D",
+        "text": "perspicácia marcada pela formação intelectual."
+      },
+      {
+        "letter": "E",
+        "text": "tensão política gerada pelas ideologias vigentes."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Naziazeno, humilhado por não ter dinheiro, é forçado a suportar a indiferença alheia enquanto ideologias políticas são discutidas ao seu redor — a pobreza amplifica sua sujeição moral diante dos outros — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q41",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Policarpo Quaresma, cidadão brasileiro, funcionário público, certo de que a língua portuguesa é emprestada ao Brasil e não reflete o verdadeiro espírito nacional, vem respeitosamente pedir que o Congresso Nacional decrete o tupi-guarani como língua oficial e nacional do povo brasileiro.\n\nBARRETO, L. Triste fim de Policarpo Quaresma. Disponível em: www.dominiopublico.gov.br. Acesso em: 26 jun. 2012.\n\nNessa petição da pitoresca personagem do romance de Lima Barreto, o uso da norma-padrão justifica-se pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "situação social de enunciação representada."
+      },
+      {
+        "letter": "B",
+        "text": "divergência teórica entre gramáticos e literatos."
+      },
+      {
+        "letter": "C",
+        "text": "pouca representatividade das línguas indígenas."
+      },
+      {
+        "letter": "D",
+        "text": "atitude irônica diante da língua dos colonizadores."
+      },
+      {
+        "letter": "E",
+        "text": "tentativa de solicitação do documento demandado."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Por se tratar de uma petição formal dirigida ao Congresso Nacional, a situação social de enunciação (contexto oficial, institucional) exige o uso da norma-padrão, ainda que o conteúdo seja pitoresco — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q42",
     "exam": "enem",
     "year": 2020,
@@ -22968,6 +23624,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q43",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software. O programa eliminou, de cara, 60 de 2 000 candidatos só por causa do sexo ou da origem racial. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%.\n\nDisponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado).\n\nO texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "agilidade dos softwares."
+      },
+      {
+        "letter": "B",
+        "text": "passar dos anos."
+      },
+      {
+        "letter": "C",
+        "text": "linguagem."
+      },
+      {
+        "letter": "D",
+        "text": "preconceito."
+      },
+      {
+        "letter": "E",
+        "text": "educação."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os exemplos dados (eliminação de candidatos por sexo/raça, associação racial a antecedentes criminais) mostram como algoritmos reproduzem e amplificam o preconceito social — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -23176,6 +23873,47 @@
     }
   },
   {
+    "id": "enem-2020-q50",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A expansão das cidades e a formação das aglomerações urbanas no Brasil foram marcadas pela produção industrial e pela consolidação das metrópoles como locais de seu desenvolvimento. Na segunda metade do século XX, as metrópoles brasileiras estenderam-se por áreas de ocupação contínua, configurando densas regiões urbanizadas.\n\nMOURA, R. Arranjos urbano-regionais no Brasil: especificidades e reprodução de padrões. Disponível em: www.ub.edu. Acesso em: 11 fev. 2015.\n\nO resultado do processo geográfico descrito foi o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização da escala local."
+      },
+      {
+        "letter": "B",
+        "text": "crescimento das áreas periféricas."
+      },
+      {
+        "letter": "C",
+        "text": "densificação do transporte ferroviário."
+      },
+      {
+        "letter": "D",
+        "text": "predomínio do planejamento estadual."
+      },
+      {
+        "letter": "E",
+        "text": "inibição de consórcios intermunicipais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A expansão contínua das metrópoles brasileiras na segunda metade do século XX gerou o crescimento acelerado das áreas periféricas, incorporadas às regiões metropolitanas — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q52",
     "exam": "enem",
     "year": 2020,
@@ -23214,6 +23952,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q53",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "\"Devo estar chegando perto do centro da Terra. Deixe ver: deve ter sido mais de seis mil quilômetros, por aí...\" [...] \"mas então qual seria a latitude ou longitude em que estou?\" (Alice não tinha a menor ideia do que fosse latitude ou longitude, mas achou que eram palavras muito imponentes).\n\nCARROLL, L. Aventuras de Alice: no País das Maravilhas, Através do espelho e outros textos. São Paulo: Summus, 1980.\n\nO texto descreve uma confusão da personagem em relação",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ao tipo de projeção cartográfica."
+      },
+      {
+        "letter": "B",
+        "text": "aos contornos dos fusos horários."
+      },
+      {
+        "letter": "C",
+        "text": "à localização do norte magnético."
+      },
+      {
+        "letter": "D",
+        "text": "aos referenciais de posição relativa."
+      },
+      {
+        "letter": "E",
+        "text": "às distorções das formas continentais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Alice não compreende o significado de latitude e longitude, sistema de coordenadas usado como referencial de posição relativa na superfície terrestre — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -23258,6 +24037,47 @@
     }
   },
   {
+    "id": "enem-2020-q55",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Será que as coisas lhe pareceriam diferentes se, de fato, todas elas existissem apenas na sua mente? [...] Logo, não seria exatamente igual a um sonho ou alucinação normal, pois nesses casos há algo (o mundo real) em relação ao qual se pode dizer que a experiência é falsa; mas se todas as experiências possíveis estivessem igualmente 'na mente', a própria noção de um mundo independente delas perderia sentido.\n\nNAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011.\n\nO texto confere visibilidade a uma doutrina filosófica contemporânea conhecida como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Personalismo, que vincula a realidade circundante aos domínios do pessoal."
+      },
+      {
+        "letter": "B",
+        "text": "Falsificacionismo, que estabelece ciclos de problemas para refutar uma conjectura."
+      },
+      {
+        "letter": "C",
+        "text": "Falibilismo, que rejeita mecanismos mentais para sustentar uma crença inequívoca."
+      },
+      {
+        "letter": "D",
+        "text": "Idealismo, que nega a existência de objetos independentemente do trabalho cognoscente."
+      },
+      {
+        "letter": "E",
+        "text": "Solipsismo, que reconhece limitações cognitivas para compreender uma experiência compartilhada."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A hipótese de que tudo poderia existir 'apenas na mente', tornando sem sentido a ideia de um mundo independente da percepção, é a tese central do Idealismo filosófico — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q56",
     "exam": "enem",
     "year": 2020,
@@ -23299,6 +24119,47 @@
     }
   },
   {
+    "id": "enem-2020-q57",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "No caso do Departamento de Defesa dos Estados Unidos, a ênfase está posta no traçado de uma estratégia geral de desarticulação, não só dos inimigos reais como dos potenciais, capaz de responder a ameaças difusas e descentralizadas, sem um território ou comando único identificável. Trata-se, sem dúvida, da estratégia com pretensões mais abrangentes que se desenvolveu até agora.\n\nCECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005 (adaptado).\n\nTomando o texto como parâmetro, qual tendência contemporânea impulsiona a formulação de estratégias mais abrangentes por parte do Estado americano?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Erradicação dos conflitos em territórios."
+      },
+      {
+        "letter": "B",
+        "text": "Propagação de organizações em redes."
+      },
+      {
+        "letter": "C",
+        "text": "Eliminação das diferenças regionais."
+      },
+      {
+        "letter": "D",
+        "text": "Ampliação de modelo democrático."
+      },
+      {
+        "letter": "E",
+        "text": "Projeção da diplomacia mundial."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A necessidade de uma estratégia de 'desarticulação' de ameaças difusas e sem comando territorial único reflete a resposta a inimigos organizados em redes descentralizadas (não estatais) — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q58",
     "exam": "enem",
     "year": 2020,
@@ -23337,6 +24198,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q59",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Escudos antigos ou maciços cristalinos são blocos imensos de rochas antigas. Correspondem a 36% da área territorial e dividem-se em duas grandes porções: o Escudo das Guianas, ao norte da bacia amazônica, e o Escudo Brasileiro, que se estende por boa parte do território.\n\nDisponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015.\n\nAs estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fontes de águas termais."
+      },
+      {
+        "letter": "B",
+        "text": "afloramentos de sal-gema."
+      },
+      {
+        "letter": "C",
+        "text": "jazidas de minerais metálicos."
+      },
+      {
+        "letter": "D",
+        "text": "depósitos de calcário agrícola."
+      },
+      {
+        "letter": "E",
+        "text": "reservas de combustível fóssil."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os escudos cristalinos, formados por rochas ígneas e metamórficas muito antigas, concentram importantes jazidas de minerais metálicos (ferro, manganês, ouro) no território brasileiro — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -23422,6 +24324,47 @@
     }
   },
   {
+    "id": "enem-2020-q62",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Sexto rei sumério, ficou conhecido pelo nome de 'Khammu-rabi', foi fundador do I Império Babilônico. O nome de Hamurabi permanece indissociavelmente ligado ao código jurídico tido como o mais remoto já descoberto: o Código de Hamurabi, gravado em uma estela de diorito.\n\nDisponível em: www.direitoshumanos.usp.br. Acesso em: 12 fev. 2013 (adaptado).\n\nNesse contexto de organização da vida social, as leis contidas no Código citado tinham o sentido de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "assegurar garantias individuais aos cidadãos livres."
+      },
+      {
+        "letter": "B",
+        "text": "tipificar regras referentes aos atos dignos de punição."
+      },
+      {
+        "letter": "C",
+        "text": "conceder benefícios de indulto aos prisioneiros de guerra."
+      },
+      {
+        "letter": "D",
+        "text": "promover distribuição de terras aos desempregados urbanos."
+      },
+      {
+        "letter": "E",
+        "text": "conferir prerrogativas políticas aos descendentes de estrangeiros."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Código de Hamurabi é um dos primeiros códigos de leis escritos, célebre por tipificar crimes e suas respectivas punições (lei de talião) — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q63",
     "exam": "enem",
     "year": 2020,
@@ -23460,6 +24403,129 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q64",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "É difícil imaginar que nos anos 1990, num país com setores da população na pobreza absoluta e sem uma rede de benefícios sociais em que se apoiar, um governo possa abandonar o papel de promotor de programas de geração de emprego, de assistência social, de desenvolvimento da infraestrutura e de promoção de regiões excluídas.\n\nSORJ, B. A nova sociedade brasileira. Rio de Janeiro: Jorge Zahar, 2000 (adaptado).\n\nNesse contexto, a criticada postura dos governos frente à situação social do país coincidiu com a priorização de que medidas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Expansão dos investimentos nas empresas públicas e nos bancos estatais."
+      },
+      {
+        "letter": "B",
+        "text": "Democratização do crédito habitacional e da aquisição de moradias populares."
+      },
+      {
+        "letter": "C",
+        "text": "Enxugamento da carga fiscal individual e da contribuição tributária empresarial."
+      },
+      {
+        "letter": "D",
+        "text": "Reformulação do acesso ao ensino superior e do financiamento científico nacional."
+      },
+      {
+        "letter": "E",
+        "text": "Reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto critica governos dos anos 1990 que abandonaram políticas sociais em favor de uma agenda voltada à estabilização macroeconômica e ao controle da inflação (Plano Real e ajustes neoliberais) — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q66",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. O abrasileiramento de termos franceses deu origem, por exemplo, ao saruê (soirée), ao anarriê (en arrière) e ao anavã (en avant), comandos usados até hoje nas quadrilhas juninas brasileiras.\n\nDisponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.\n\nA característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Massificação da arte erudita."
+      },
+      {
+        "letter": "B",
+        "text": "Rejeição de hábitos elitistas."
+      },
+      {
+        "letter": "C",
+        "text": "Laicização dos rituais religiosos."
+      },
+      {
+        "letter": "D",
+        "text": "Restauração dos costumes antigos."
+      },
+      {
+        "letter": "E",
+        "text": "Apropriação de práticas estrangeiras."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os termos franceses de dança de salão (soirée, en arrière, en avant) foram incorporados e adaptados ('abrasileirados') pela cultura popular das quadrilhas juninas — uma apropriação de práticas estrangeiras — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q68",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual, de examinar os atores históricos como testemunhas, como reflexos, como reveladores de uma época.\n\nDEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009.\n\nDe acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adesão ao método positivista."
+      },
+      {
+        "letter": "B",
+        "text": "expressão do papel das elites."
+      },
+      {
+        "letter": "C",
+        "text": "resgate das narrativas heroicas."
+      },
+      {
+        "letter": "D",
+        "text": "acesso ao cotidiano das comunidades."
+      },
+      {
+        "letter": "E",
+        "text": "interpretação das manifestações do divino."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao tratar o indivíduo biografado como 'testemunha' e 'revelador de uma época', a nova história valoriza a biografia como janela de acesso ao cotidiano e às experiências das comunidades daquele tempo — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -23504,6 +24570,170 @@
     }
   },
   {
+    "id": "enem-2020-q70",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e a rivalidade entre os cidadãos não era pela glória ou pelo domínio, mas o temor do inimigo mantinha a cidade nos bons costumes. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.\n\nSALÚSTIO. A conjuração de Catilina/A guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).\n\nO acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "demarcação de terras públicas."
+      },
+      {
+        "letter": "B",
+        "text": "imposição da escravidão por dívidas."
+      },
+      {
+        "letter": "C",
+        "text": "restrição da cidadania por parentesco."
+      },
+      {
+        "letter": "D",
+        "text": "restauração de instituições ancestrais."
+      },
+      {
+        "letter": "E",
+        "text": "expansão das fronteiras extrapeninsulares."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Com a destruição de Cartago (146 a.C.) desaparece o principal rival de Roma no Mediterrâneo, o que impulsiona a expansão romana para além da península Itálica — expansão das fronteiras extrapeninsulares — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q71",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "O cântico da terra\n\nEu sou a terra, eu sou a vida.\nA ti, ó lavrador, tudo quanto é meu.\nTeu arado, tua foice, teu machado,\n[...]\nPlantemos a roça.\nLavremos a gleba.\n\nCORALINA, C. Textos e contextos: poemas dos becos de Goiás e estórias mais. São Paulo: Global, 1997 (fragmento).\n\nNo contexto das distintas formas de apropriação da terra, o poema de Cora Coralina valoriza a relação entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "grileiros e controle territorial."
+      },
+      {
+        "letter": "B",
+        "text": "meeiros e divisão do trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "camponeses e uso da natureza."
+      },
+      {
+        "letter": "D",
+        "text": "indígenas e manejo agroecológico."
+      },
+      {
+        "letter": "E",
+        "text": "latifundiários e fertilização do solo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O poema celebra o trabalho direto do lavrador com a terra ('plantemos a roça', 'lavremos a gleba'), valorizando a relação entre o camponês e o uso produtivo da natureza — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q72",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do \"eu\", do texto íntimo. Ele cria um novo processo de escrita filosófica, no qual hesitações, autocríticas, correções entram no próprio texto.\n\nCOELHO, M. Montaigne. São Paulo: Publifolha, 2001 (adaptado).\n\nO novo gênero de escrita aludido no texto é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "confissão, que relata experiências de transformação."
+      },
+      {
+        "letter": "B",
+        "text": "ensaio, que expõe concepções subjetivas de um tema."
+      },
+      {
+        "letter": "C",
+        "text": "carta, que comunica informações para um conhecido."
+      },
+      {
+        "letter": "D",
+        "text": "meditação, que propõe preparações para o conhecimento."
+      },
+      {
+        "letter": "E",
+        "text": "diálogo, que discute assuntos com diferentes interlocutores."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Michel de Montaigne é reconhecido como o criador do gênero ensaio, marcado justamente pela exposição subjetiva, hesitante e pessoal de reflexões sobre um tema — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q73",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Declaração de Salamanca — 1994\n\nAcreditamos e proclamamos que: toda criança tem direito fundamental à educação [...] sistemas educacionais deveriam ser designados e programas educacionais deveriam ser implementados no sentido de se levar em conta a vasta diversidade de tais características e necessidades.\n\nDisponível em: http://portal.mec.gov.br. Acesso em: 4 out. 2015.\n\nComo signatário da Declaração citada, o Brasil comprometeu-se com a elaboração de políticas públicas educacionais que contemplem a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criação de privilégios."
+      },
+      {
+        "letter": "B",
+        "text": "contenção dos gastos."
+      },
+      {
+        "letter": "C",
+        "text": "pluralidade dos sujeitos."
+      },
+      {
+        "letter": "D",
+        "text": "padronização do currículo."
+      },
+      {
+        "letter": "E",
+        "text": "valorização da meritocracia."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A Declaração de Salamanca defende a educação inclusiva, reconhecendo a diversidade de características e necessidades dos alunos — ou seja, a pluralidade dos sujeitos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q74",
     "exam": "enem",
     "year": 2020,
@@ -23542,6 +24772,129 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q75",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "Afirmar que a cartografia da época moderna integrou o processo de invenção da América por parte dos europeus significa que os conhecimentos dos ameríndios sobre o território foram ignorados pela cartografia europeia ou que eles foram privados de sua representação territorial e da autoridade que seus conhecimentos tinham sobre o espaço.\n\nOLIVEIRA, T. K. Desconstruindo mapas, revelando espacializações: reflexões sobre o uso da cartografia em estudos sobre o Brasil colonial. Revista Brasileira de História, n. 68, 2014 (adaptado).\n\nNa análise contida no texto, a representação cartográfica da América foi marcada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "asserção da cultura dos nativos."
+      },
+      {
+        "letter": "B",
+        "text": "avanço dos estudos do ambiente."
+      },
+      {
+        "letter": "C",
+        "text": "afirmação das formas de dominação."
+      },
+      {
+        "letter": "D",
+        "text": "exatidão da demarcação das regiões."
+      },
+      {
+        "letter": "E",
+        "text": "aprimoramento do conceito de fronteira."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao apagar o conhecimento territorial ameríndio e impor a representação europeia do espaço, a cartografia colonial afirmava e legitimava as formas de dominação europeia sobre a América — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q76",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "A principal característica da situação social dos anglo-americanos é seu caráter eminentemente democrático. Para isso contribuiu a influência das leis de sucessão. Estabelecidas de uma maneira que dividia as heranças entre todos os herdeiros, essas leis impediam que a propriedade e o poder se concentrassem em poucas mãos, dispersando-os por uma ampla classe de pequenos e médios proprietários.\n\nTOCQUEVILLE, A. A democracia na América. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1977 (adaptado).\n\nO texto tematiza o papel desempenhado por uma norma na criação de um ambiente propício ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emprego do trabalho escravo."
+      },
+      {
+        "letter": "B",
+        "text": "consolidação dos valores burgueses."
+      },
+      {
+        "letter": "C",
+        "text": "banimento das dissidências religiosas."
+      },
+      {
+        "letter": "D",
+        "text": "contenção da identificação nacionalista."
+      },
+      {
+        "letter": "E",
+        "text": "hierarquização dos agentes econômicos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao fragmentar heranças e impedir a concentração de terras, as leis de sucessão nos EUA criaram uma ampla classe de pequenos e médios proprietários — consolidando valores de propriedade e igualdade típicos da sociedade burguesa — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q77",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todos os homens realizam seus atos tendo em vista o que lhes parece bom. Se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas, incluindo em si todas as demais, visa ao mais importante de todos os bens.\n\nARISTÓTELES. Política. Brasília: UnB, 1988.\n\nNo fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ética e política, pois conduzem à eudaimonia."
+      },
+      {
+        "letter": "B",
+        "text": "Retórica e linguagem, pois cuidam dos discursos na ágora."
+      },
+      {
+        "letter": "C",
+        "text": "Metafísica e ontologia, pois tratam da filosofia primeira."
+      },
+      {
+        "letter": "D",
+        "text": "Democracia e sociedade, pois se referem a relações sociais."
+      },
+      {
+        "letter": "E",
+        "text": "Geração e corrupção, pois abarcam o campo da physis."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para Aristóteles, a vida na pólis (política) tem como finalidade o bem supremo, a felicidade (eudaimonia), que é também o objeto da ética — os dois campos, ética e política, estão intrinsecamente ligados — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -23586,6 +24939,129 @@
     }
   },
   {
+    "id": "enem-2020-q79",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O fenômeno histórico conhecido como \"tráfico de coolies\" esteve associado diretamente ao período que vai do final da década de 1840 até o ano de 1874, quando milhares de chineses foram encaminhados principalmente para Cuba e Peru para trabalhar sob regime de contrato, em condições análogas às da escravidão, e por isso foi comparado ao tráfico africano de escravos.\n\nSANTOS, M. A. Migrações e trabalho sob contrato no século XIX. História, n. 12, 2017.\n\nA comparação mencionada no texto foi possível em razão da seguinte característica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Oferta de contrato formal."
+      },
+      {
+        "letter": "B",
+        "text": "Origem étnica dos grupos de trabalhadores."
+      },
+      {
+        "letter": "C",
+        "text": "Conhecimento das tarefas desenvolvidas."
+      },
+      {
+        "letter": "D",
+        "text": "Controle opressivo das vidas dos indivíduos."
+      },
+      {
+        "letter": "E",
+        "text": "Investimento requerido dos empregadores."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Embora formalmente contratados, os trabalhadores chineses eram submetidos a condições de vida e trabalho extremamente opressivas, análogas à escravidão, o que justifica a comparação com o tráfico de escravos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q80",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Os seringueiros amazônicos eram invisíveis no cenário nacional nos anos 1970. Começaram a se articular como um movimento agrário no início dos anos 1980, reivindicando o direito à terra e à floresta em pé, obtendo a implantação das primeiras reservas extrativas após o assassinato de Chico Mendes.\n\nALMEIDA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. Revista Brasileira de Ciências Sociais, n. 55, 2004.\n\nDe acordo com o texto, a visibilidade dos seringueiros amazônicos foi estabelecida pela relação entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crescimento econômico e migração de trabalhadores."
+      },
+      {
+        "letter": "B",
+        "text": "produção de borracha e escassez de recursos naturais."
+      },
+      {
+        "letter": "C",
+        "text": "reivindicação de terra e preservação de mata nativa."
+      },
+      {
+        "letter": "D",
+        "text": "incentivo governamental e conservação de territórios."
+      },
+      {
+        "letter": "E",
+        "text": "modernização de plantio e comércio de látex."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O movimento dos seringueiros uniu a reivindicação de acesso à terra à defesa da floresta em pé, criando as reservas extrativistas — reivindicação de terra e preservação de mata nativa — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q81",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Porque todos confessamos não se poder viver sem alguns escravos, que busquem a lenha e a água, e façam cada dia o pão que se come [...]. Parece-me que a Companhia de Jesus deve ter e adquirir escravos, justamente, por meios que as Constituições permitem.\n\nLEITE, S. História da Companhia de Jesus no Brasil. Rio de Janeiro: Civilização Brasileira, 1938 (adaptado).\n\nO texto explicita premissas da expansão ultramarina portuguesa ao buscar justificar a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "propagação do ideário cristão."
+      },
+      {
+        "letter": "B",
+        "text": "valorização do trabalho braçal."
+      },
+      {
+        "letter": "C",
+        "text": "adoção do cativeiro na Colônia."
+      },
+      {
+        "letter": "D",
+        "text": "adesão ao ascetismo contemplativo."
+      },
+      {
+        "letter": "E",
+        "text": "alfabetização dos indígenas nas Missões."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O jesuíta defende explicitamente a necessidade de possuir e adquirir escravos para a manutenção da vida cotidiana da Companhia de Jesus, justificando a adoção do cativeiro na colônia — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q82",
     "exam": "enem",
     "year": 2020,
@@ -23627,6 +25103,129 @@
     }
   },
   {
+    "id": "enem-2020-q83",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Ao abrigo do teto, sua jornada de fé começava na sala de jantar. Na pequena célula cristã, dividia-se a refeição e durante elas os crentes conversavam, rezavam e liam cartas de correligionários residentes em locais diferentes do Império Romano (século II da Era Cristã).\n\nSENNET, R. Carne e pedra. Rio de Janeiro: Record, 2008.\n\nUm motivo que explica a ambientação da prática descrita no texto encontra-se no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regra judaica, que pregava a superioridade espiritual dos cultos das sinagogas."
+      },
+      {
+        "letter": "B",
+        "text": "moralismo da legislação, que dificultava as reuniões abertas da juventude livre."
+      },
+      {
+        "letter": "C",
+        "text": "adesão do patriciado, que subvertia o conceito original dos valores estrangeiros."
+      },
+      {
+        "letter": "D",
+        "text": "decisão política, que censurava as manifestações públicas da doutrina dissidente."
+      },
+      {
+        "letter": "E",
+        "text": "violência senhorial, que impunha a desestruturação forçada das famílias escravas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No século II, o cristianismo era uma religião não reconhecida oficialmente e perseguida pelo Estado romano, o que obrigava os fiéis a se reunirem em espaços privados, como salas de jantar de residências, em vez de espaços públicos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q84",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas resultantes da fusão parcial do manto.\n\nTEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000.\n\nQual feição fisiográfica é gerada pelo processo tectônico apresentado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Planícies abissais."
+      },
+      {
+        "letter": "B",
+        "text": "Planaltos cristalinos."
+      },
+      {
+        "letter": "C",
+        "text": "Depressões absolutas."
+      },
+      {
+        "letter": "D",
+        "text": "Bacias sedimentares."
+      },
+      {
+        "letter": "E",
+        "text": "Dobramentos modernos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A subducção de placa oceânica sob placa continental, com formação de arco magmático vulcânico na borda continental, é o processo responsável pela formação de cadeias de montanhas jovens — dobramentos modernos, como os Andes — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q85",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "O movimento sedicioso ocorrido na capitania de Pernambuco, no ano 1817, foi analisado de formas diferentes por dois meios de comunicação daquela época. O Correio Braziliense apontou a comoção no Brasil motivada por um descontentamento geral, ao passo que a Gazeta do Rio de Janeiro considerou o movimento como um pontual desvio de norma, restrito a uma região.\n\nJANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem Incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado).\n\nOs fragmentos das matérias jornalísticas sobre o acontecimento, embora com percepções diversas, relacionam-se a um aspecto do processo de independência da colônia luso-americana expresso em dissensões entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "quadros dirigentes em torno da abolição da ordem escravocrata."
+      },
+      {
+        "letter": "B",
+        "text": "grupos regionais acerca da configuração político-territorial."
+      },
+      {
+        "letter": "C",
+        "text": "intelectuais laicos acerca da revogação do domínio eclesiástico."
+      },
+      {
+        "letter": "D",
+        "text": "homens livres em torno da extensão do direito de voto."
+      },
+      {
+        "letter": "E",
+        "text": "elites locais acerca da ordenação do monopólio fundiário."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A Revolução Pernambucana de 1817 expressou tensões entre elites regionais e o poder central sobre a organização político-territorial da colônia, tema retomado nos debates que antecederam a independência — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2020-q86",
     "exam": "enem",
     "year": 2020,
@@ -23665,6 +25264,170 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2020-q87",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos. A forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta.\n\nMANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.\n\nNaquele contexto, a emergência do sistema de governo mencionado no excerto promoveu o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "competição para a escolha de representantes."
+      },
+      {
+        "letter": "B",
+        "text": "campanha pela revitalização das oligarquias."
+      },
+      {
+        "letter": "C",
+        "text": "estabelecimento de mandatos temporários."
+      },
+      {
+        "letter": "D",
+        "text": "declínio da sociedade civil organizada."
+      },
+      {
+        "letter": "E",
+        "text": "participação no exercício do poder."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na democracia direta ateniense, os cidadãos participavam diretamente das decisões e do exercício do poder, sem a intermediação de representantes eleitos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q88",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "O Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros. Em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva. A água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).\n\nConsiderando a análise dos textos, a condição atual desse rio tem como origem a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização do sítio urbano."
+      },
+      {
+        "letter": "B",
+        "text": "extinção da vegetação nativa."
+      },
+      {
+        "letter": "C",
+        "text": "recepção de densa carga de dejetos."
+      },
+      {
+        "letter": "D",
+        "text": "captação desordenada do regime pluvial."
+      },
+      {
+        "letter": "E",
+        "text": "expansão do uso de defensivos químicos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A ausência de oxigênio no trecho do Rio Tietê que atravessa a Região Metropolitana de São Paulo decorre do recebimento de grande volume de esgoto e dejetos urbanos e industriais — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q89",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Adão, ainda que supuséssemos que suas faculdades racionais fossem inteiramente perfeitas desde o início, não poderia ter inferido da fluidez e transparência da água que ela o sufocaria [...]. Nenhum objeto jamais revela, pelas qualidades que aparecem aos sentidos, nem as causas que o produziram, nem os efeitos que dele provirão; e tampouco nossa razão é capaz de extrair, sem auxílio da experiência, qualquer conclusão referente à existência efetiva de coisas ou questões de fato.\n\nHUME, D. Uma investigação sobre o entendimento humano. São Paulo: Unesp, 2003.\n\nSegundo o autor, qual é a origem do conhecimento humano?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A potência inata da mente."
+      },
+      {
+        "letter": "B",
+        "text": "A revelação da inspiração divina."
+      },
+      {
+        "letter": "C",
+        "text": "O estudo das tradições filosóficas."
+      },
+      {
+        "letter": "D",
+        "text": "A vivência dos fenômenos do mundo."
+      },
+      {
+        "letter": "E",
+        "text": "O desenvolvimento do raciocínio abstrato."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Hume, empirista clássico, defende que o conhecimento sobre fatos do mundo só pode vir da experiência (vivência dos fenômenos), e não da razão pura ou de ideias inatas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2020-q90",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "TEXTO I\n\nO aumento de casos suspeitos de febre amarela em Minas pode estar relacionado à tragédia de Mariana, em 2015, segundo a bióloga da Fiocruz Márcia Chame. Grande parte está na região próxima do Rio Doce, afetado pelo rompimento da Barragem de Fundão, em novembro de 2015.\n\nFORMENTI, L. Para bióloga, surto de febre amarela pode ter relação com tragédia de Mariana. O Estado de São Paulo, 14 jan. 2017.\n\nTEXTO II\n\nPor outro lado, Servio Ribeiro considera remota a possibilidade de influência da tragédia de Mariana (MG) neste surto de febre amarela em Minas Gerais. \"A febre amarela é uma doença de interior de floresta [...]\".\n\nRODRIGUES, L. Especialistas investigam relação entre febre amarela e degradação ambiental. Agência Brasil, 25 jan. 2017.\n\nSobre a tragédia de Mariana, os textos apresentam divergência quanto ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "poluição dos rios locais."
+      },
+      {
+        "letter": "B",
+        "text": "identificação da área afetada."
+      },
+      {
+        "letter": "C",
+        "text": "destruição da vegetação nativa."
+      },
+      {
+        "letter": "D",
+        "text": "aparecimento de enfermidade endêmica."
+      },
+      {
+        "letter": "E",
+        "text": "surgimento de comunidades desabrigadas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os dois textos divergem especificamente quanto à possibilidade de a tragédia de Mariana ter provocado o surto de febre amarela (uma enfermidade endêmica de áreas florestais) — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2020 - Caderno 1 Azul, 1ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {

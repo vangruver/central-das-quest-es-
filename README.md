@@ -49,7 +49,7 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-O banco já tem **781 questões reais do ENEM** (12 anos: 2013 a 2024) e **74 questões reais da UERJ** (2020 e 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes. As provas de ENEM 2013 a 2019 e 2021 a 2023 já estão processadas quase por completo (70 a 86 de 90 questões, dependendo do ano) — os demais anos do ENEM (2020, 2022, 2024) ainda têm apenas parte do caderno extraída. Da UERJ, 2020 e 2023 já passaram de pouco mais de uma dezena para 36-38 de 60 questões cada.
+O banco já tem **824 questões reais do ENEM** (12 anos: 2013 a 2024) e **74 questões reais da UERJ** (2020 e 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes. As provas de ENEM 2013 a 2023 já estão processadas quase por completo (70 a 86 de 90 questões, dependendo do ano) — 2022 e 2024, que usam uma numeração diferente (até 176) vinda de outra fonte, ainda têm apenas parte do caderno extraída. Da UERJ, 2020 e 2023 já passaram de pouco mais de uma dezena para 36-38 de 60 questões cada.
 
 **Ainda faltam:**
 - Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2012 e 2025; a aplicação PPL de vários anos ainda não foi processada).
