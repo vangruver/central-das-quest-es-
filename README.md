@@ -49,11 +49,11 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-O banco já tem **84 questões reais do ENEM**, distribuídas em 6 anos (2018, 2020, 2021, 2022, 2023, 2024), cobrindo as quatro áreas (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) em 12 matérias e mais de 20 tópicos diferentes.
+O banco já tem **84 questões reais do ENEM** (6 anos: 2018, 2020, 2021, 2022, 2023, 2024) e **10 questões reais da UERJ** (Vestibular Estadual 2023, Exame Único), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes.
 
 **Ainda faltam:**
 - Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2017, 2019 e 2025).
-- Todo o banco da UERJ (Exame de Qualificação e Exame Discursivo) — a estrutura de dados já está pronta em `data/questions/uerj.json`, mas está vazia.
+- Mais anos e mais questões da UERJ (só 2023 foi coberto até agora; faltam os demais anos e o Exame Discursivo).
 
 ### Sobre as fontes
 

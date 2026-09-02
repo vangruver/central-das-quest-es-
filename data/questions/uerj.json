@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "uerj-2023-q01",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": ["Interpretação de Texto"],
+    "statement": "TEXTO BASE — Ideias para adiar o fim do mundo\n\nQuando se completaram quinhentos anos da travessia de Cabral e companhia, recusei um convite para vir a Portugal. [...] A ideia de que os brancos europeus podiam sair colonizando o resto do mundo estava sustentada na premissa de que havia uma humanidade esclarecida que precisava ir ao encontro da humanidade obscurecida, trazendo-a para essa luz incrível. Esse chamado para o seio da civilização sempre foi justificado pela noção de que existe um jeito de estar aqui na Terra, uma certa verdade, ou uma concepção de verdade, que guiou muitas das escolhas feitas em diferentes períodos da história. [...]\n\nAILTON KRENAK. Adaptado de Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2019.\n\nEm Ideias para adiar o fim do mundo, Ailton Krenak questiona o que se convencionou chamar “humanidade”, em especial a partir do século XVI. Esse questionamento deve-se principalmente ao fato de o sentido dessa palavra poder ser associado, na perspectiva de Krenak, à ideia de:",
+    "alternatives": [
+      { "letter": "A", "text": "supremacia" },
+      { "letter": "B", "text": "radicalismo" },
+      { "letter": "C", "text": "estagnação" },
+      { "letter": "D", "text": "anacronismo" }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Krenak descreve como a colonização europeia a partir do século XVI foi justificada pela ideia de que existia “uma humanidade esclarecida” que precisava “ir ao encontro” de uma “humanidade obscurecida” — ou seja, a própria noção ocidental de “humanidade” nasceu atrelada à ideia de que uns povos (os europeus colonizadores) eram superiores e tinham o direito/dever de dominar e “civilizar” os outros. Essa hierarquização é uma ideia de supremacia (de uns sobre os outros), alternativa A. O texto não trata de radicalismo político (B), estagnação (C) ou anacronismo (D) como o sentido questionado da palavra “humanidade”.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q06",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": ["Semântica e Figuras de Linguagem"],
+    "statement": "[Trecho do romance Niketche, de Paulina Chiziane, sobre ritos de iniciação em Moçambique]\n\n“Nas práticas primitivas, solidariedade é partilhar pão, manta e sêmen. Sou do tempo moderno. Prefiro dar a minha vida e o meu sangue a quem deles precisa.” (cap. 4)\n\nA escrita do romance é bastante marcada por frases mais breves, que se aproximam da oralidade. Entre essas frases, mesmo sem a presença de conectores, é possível recuperar relações de sentido. No fragmento citado, entre a primeira frase e a segunda, e entre a segunda e a terceira, identificam-se, respectivamente, relações de:",
+    "alternatives": [
+      { "letter": "A", "text": "adversidade e consequência" },
+      { "letter": "B", "text": "comparação e alternância" },
+      { "letter": "C", "text": "adição e conformidade" },
+      { "letter": "D", "text": "condição e finalidade" }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Entre a 1ª frase (“solidariedade é partilhar pão, manta e sêmen” — um costume das “práticas primitivas”) e a 2ª (“Sou do tempo moderno”), há uma relação de sentido adversativa implícita: como se dissesse “[mas] sou do tempo moderno”, contrapondo-se ao costume descrito antes. Entre a 2ª frase e a 3ª (“Prefiro dar a minha vida e o meu sangue a quem deles precisa”), há uma relação de consequência implícita: “[por isso] prefiro dar minha vida e sangue”, decorrência de ser “do tempo moderno”. Isso corresponde à alternativa A. As demais combinações (comparação/alternância, adição/conformidade, condição/finalidade) não descrevem corretamente os sentidos implícitos entre essas três frases.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q19",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 19,
+    "subjectId": "fisica",
+    "topics": ["Mecânica"],
+    "statement": "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade.\n\nAdmita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 m/s. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 m/s. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\n\nPlaneta — Aceleração da gravidade (m/s²)\nJúpiter — 25\nMarte — 4\nNetuno — 11\nTerra — 10\nVênus — 9\n\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
+    "alternatives": [
+      { "letter": "A", "text": "Júpiter" },
+      { "letter": "B", "text": "Marte" },
+      { "letter": "C", "text": "Netuno" },
+      { "letter": "D", "text": "Vênus" }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Como v² é diretamente proporcional a g, temos v²/g = constante para a mesma altura h. Na Terra: v² = 5² = 25, g = 10, logo a constante k = 25/10 = 2,5. No planeta P: v² = 8² = 64. Logo, g(P) = 64/2,5 = 25,6 m/s². Comparando com a tabela, o valor mais próximo de 25,6 m/s² é o de Júpiter (25 m/s²), alternativa A.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q21",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 21,
+    "subjectId": "matematica",
+    "topics": ["Funções"],
+    "statement": "Observe no plano cartesiano a reta r, de equação y = 5 − 3x, sendo x ∈ ℝ, e seu ponto P, que é o ponto da reta mais próximo da origem.\n\nO ponto P tem a seguinte abscissa:",
+    "alternatives": [
+      { "letter": "A", "text": "1,3" },
+      { "letter": "B", "text": "1,5" },
+      { "letter": "C", "text": "1,7" },
+      { "letter": "D", "text": "1,9" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A distância ao quadrado de um ponto (x, y) da reta até a origem é d² = x² + y², com y = 5 − 3x. Substituindo: d²(x) = x² + (5 − 3x)² = x² + 25 − 30x + 9x² = 10x² − 30x + 25. Essa é uma função quadrática em x, com concavidade para cima (coeficiente 10 > 0); seu mínimo ocorre no vértice, em x = −b/(2a) = 30/(2×10) = 30/20 = 1,5. Logo, a abscissa do ponto P (o mais próximo da origem) é 1,5, alternativa B.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q26",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 26,
+    "subjectId": "biologia",
+    "topics": ["Fisiologia Humana"],
+    "statement": "Fome no Brasil: número de brasileiros sem ter o que comer quase dobra em dois anos de pandemia\n\nA fome avança cada vez mais rápido pelo Brasil. Um levantamento divulgado mostra que o país soma atualmente cerca de 33,1 milhões de pessoas sem ter o que comer diariamente, quase o dobro do contingente em situação de fome estimado em 2020.\n\nAdaptado de g1.globo.com, 08/06/2022.\n\nA ausência de nutrientes para a manutenção do organismo humano prejudica o funcionamento celular, gerando consequências para a saúde integral dos indivíduos. Quando submetidas a longos períodos de desnutrição, as células passam pelo seguinte processo:",
+    "alternatives": [
+      { "letter": "A", "text": "exocitose" },
+      { "letter": "B", "text": "autofagia" },
+      { "letter": "C", "text": "anabolismo" },
+      { "letter": "D", "text": "glicosilação" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em situações prolongadas de escassez de nutrientes, as células ativam a autofagia: um processo em que organelas e componentes celulares danificados ou dispensáveis são “digeridos” dentro de vesículas (autofagossomos) para reciclar seus componentes básicos (aminoácidos, açúcares) e obter energia, ajudando a célula a sobreviver à falta de nutrientes externos. Por isso a resposta é B. Exocitose (A) é o processo de expulsar substâncias da célula, o oposto do que ajudaria numa situação de carência; anabolismo (C) é a síntese de moléculas complexas, que exige energia e nutrientes disponíveis, incompatível com desnutrição; glicosilação (D) é a adição de açúcares a proteínas/lipídios, não relacionada à resposta à fome celular.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q40",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 40,
+    "subjectId": "quimica",
+    "topics": ["Química Geral e Inorgânica"],
+    "statement": "O elemento químico de menor número atômico é o mais abundante no Universo. Ele possui quantidade de prótons igual a 1 e faz parte da composição da água.\n\nEsse elemento químico é denominado:",
+    "alternatives": [
+      { "letter": "A", "text": "ferro" },
+      { "letter": "B", "text": "enxofre" },
+      { "letter": "C", "text": "chumbo" },
+      { "letter": "D", "text": "hidrogênio" }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O elemento com número atômico 1 (um próton no núcleo) é o hidrogênio (H) — o elemento mais simples e o mais abundante do Universo, presente em cerca de 75% da matéria bariônica cósmica, e um dos dois elementos que compõem a molécula da água (H₂O). Nenhum dos outros elementos listados (ferro, enxofre, chumbo) tem número atômico 1 nem é o mais abundante no Universo. Alternativa D.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q54",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 54,
+    "subjectId": "historia",
+    "topics": ["Brasil República"],
+    "statement": "Oito centímetros impediram o sepultamento de D. Pedro I\n\nO governo militar, sob a chefia do general Emílio Garrastazu Médici, não poupou esforços para transformar as comemorações dos 150 anos da Independência numa enorme celebração nacional. Seu ponto alto? A vinda de Portugal dos restos mortais de nosso primeiro imperador, Dom Pedro I. Em 1971, o presidente de Portugal concordou em transladar e presentear o Brasil com os restos mortais do imperador [...]. O presidente Médici expressou, em rede nacional de televisão e rádio: “Brasileiros, não posso esconder minha emoção. [...] no ano em que celebramos o Sesquicentenário da nossa Independência, regressará ao Brasil o corpo daquele que [...] proclamou livres estas terras.”\n\nLIZ BATISTA. Adaptado de m.acervo.estadao.com.br, 15/02/2013.\n\nConserva de imperador\n\nO governo brasileiro requereu a Portugal que, no âmbito das comemorações dos 200 anos da Independência, enviasse para o Brasil o coração de Dom Pedro, guardado numa igreja da cidade do Porto. [...] Uma celebração competente do Bicentenário da Independência devia incluir, além do coração de Dom Pedro, um rim de José Bonifácio, o pâncreas de Thomas Cochrane, o fígado de Cipriano Barata e, talvez para dar um toque de ironia à cerimônia, um dente de Tiradentes. [...]\n\nRICARDO ARAÚJO PEREIRA. Adaptado de m.folha.uol.com.br, 09/07/2022.\n\nOs textos apresentam ações governamentais associadas ao Sesquicentenário da Independência do Brasil, em 1972, e a seu Bicentenário, em 2022. Um aspecto comum dessas ações governamentais é:",
+    "alternatives": [
+      { "letter": "A", "text": "culto ufanista de protagonistas oficiais" },
+      { "letter": "B", "text": "enaltecimento patriótico da unidade lusa" },
+      { "letter": "C", "text": "reparação histórica de heranças europeias" },
+      { "letter": "D", "text": "reabilitação contemporânea da continuidade monárquica" }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tanto o governo militar em 1972 (trazendo o corpo de D. Pedro I com grande pompa nacionalista) quanto o pedido do governo brasileiro em 2022 (buscando também o coração do imperador) giram em torno de exaltar, de forma grandiosa e ufanista, a figura oficial e “heroica” de D. Pedro I como protagonista da Independência — um culto cívico a uma figura histórica oficialmente consagrada. Isso corresponde à alternativa A. Não se trata de enaltecer laços com Portugal (B, ao contrário, a Independência rompe com Portugal), de reparar heranças europeias no sentido de justiça histórica (C, que seria associado a povos indígenas/africanos, não à realeza), nem de reabilitar a monarquia como sistema de governo (D) — o texto de Ricardo Araújo Pereira, aliás, ironiza justamente esse culto exagerado às relíquias do imperador.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q55",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 55,
+    "subjectId": "historia",
+    "topics": ["Movimentos Sociais e Direitos"],
+    "statement": "Tereza de Benguela é um dos nomes esquecidos pela historiografia nacional. Nos últimos anos, passou a ser mais reconhecida, na busca de multiplicar as narrativas que revelam a formação sociopolítica brasileira. Tereza, que viveu no século XVIII, pode ter nascido no continente africano ou no Brasil. Ela chefiou o Quilombo do Quariterê, que se localizava na atual fronteira entre Mato Grosso e Bolívia. O Quilombo resistiu até 1770, quando foi destruído. Em homenagem a Tereza de Benguela, o dia 25 de julho é oficialmente, no Brasil, o Dia Nacional de Tereza de Benguela e da Mulher Negra.\n\nAdaptado de ufrb.edu.br.\n\nO reconhecimento de Tereza de Benguela e a celebração do dia 25 de julho indicam uma mudança com o intuito de multiplicar narrativas sobre a formação social brasileira. Essa mudança tem como objetivo:",
+    "alternatives": [
+      { "letter": "A", "text": "naturalizar a inclusão de personalidades marginais" },
+      { "letter": "B", "text": "garantir a homogeneização de hierarquias étnicas" },
+      { "letter": "C", "text": "promover a reparação de dívidas estruturais" },
+      { "letter": "D", "text": "valorizar a ação de protagonistas plurais" }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto explica que Tereza de Benguela foi “esquecida pela historiografia nacional” e que seu reconhecimento busca “multiplicar as narrativas que revelam a formação sociopolítica brasileira” — isto é, reconhecer que a história do Brasil teve diversos protagonistas (não apenas os tradicionalmente contados pela historiografia oficial), valorizando a atuação política de figuras plurais como uma mulher negra líder de quilombo. Isso corresponde à alternativa D. Não se trata de “naturalizar” como se fosse algo menor (A), nem de homogeneizar hierarquias étnicas (B, que seria o oposto do reconhecimento da diversidade), e “reparação de dívidas estruturais” (C) é um conceito mais amplo (políticas afirmativas, reparação econômica) que não é o foco específico do texto, centrado no reconhecimento histórico/narrativo.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q57",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": ["Geopolítica"],
+    "statement": "Parabolicamará (1992)\n\nAntes longe era distante\nPerto, só quando dava\nQuando muito, ali defronte\nE o horizonte acabava\n\nAntes mundo era pequeno\nPorque Terra era grande\nDe jangada leva uma eternidade\nDe saveiro leva uma encarnação\n\nHoje lá trás dos montes, den de* casa, camará\nÊ, volta do mundo, camará\nÊ, ê, mundo dá volta, camará\n\nHoje mundo é muito grande\nPorque Terra é pequena\nPela onda luminosa\nDo tamanho da antena\nLeva o tempo de um raio\nTempo que levava Rosa\nparabolicamará\nPra aprumar o balaio\n\nGILBERTO GIL. gilbertogil.com.br.\n\n* den de - dentro de\n\nA canção registra percepções de alguns impactos da globalização na sociedade brasileira na década de 1990. Um desses impactos está apontado em:",
+    "alternatives": [
+      { "letter": "A", "text": "subordinação das culturas locais e regionais" },
+      { "letter": "B", "text": "integração de identidades nacionais e linguísticas" },
+      { "letter": "C", "text": "desvalorização de práticas populares e tradicionais" },
+      { "letter": "D", "text": "redimensionamento das relações espaciais e comunicacionais" }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A letra contrasta o tempo antigo (“de jangada leva uma eternidade”) com a era das telecomunicações via satélite (“pela onda luminosa... leva o tempo de um raio”): o mundo passou a “parecer” maior mesmo com a Terra “pequena”, porque a informação e a comunicação viajam quase instantaneamente. Essa inversão poética (“antes mundo era pequeno porque Terra era grande; hoje mundo é muito grande porque Terra é pequena”) expressa como a globalização e as novas tecnologias de comunicação (a antena parabólica) redimensionaram a percepção humana de espaço e distância — redimensionamento das relações espaciais e comunicacionais, alternativa D. A canção não fala de subordinação cultural (A), integração linguística (B) ou desvalorização de tradições (C) como seu tema central.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "uerj-2023-q60",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 60,
+    "subjectId": "geografia",
+    "topics": ["Geografia Urbana"],
+    "statement": "Quando Carlos Lacerda assumiu a função de primeiro governador do estado da Guanabara, em 1960, as favelas estavam em expansão na cidade. Durante seu governo, iniciou-se a política de remoção, ou seja, o processo de transferência de algumas favelas para lugares distantes, o que gerou muito descontentamento e protestos. Surgiram conjuntos habitacionais como Cidade de Deus, em Jacarepaguá, Vila Kennedy, em Senador Camará, Vila Aliança, em Bangu, e Vila Esperança, em Vigário Geral, compostos por pequenas unidades padronizadas, servidas por transportes públicos insuficientes e distantes dos empregos da maioria. Hoje, quem passa pelo Parque da Catacumba, na Lagoa, pelos prédios da chamada Selva de Pedra, no Leblon, ou pelo campus da Universidade do Estado do Rio de Janeiro (Uerj), no Maracanã, nem imagina que esses espaços abrigaram as três maiores favelas da cidade nos anos 1960: Catacumba, Praia do Pinto e Esqueleto, respectivamente.\n\nAdaptado de multirio.rio.rj.gov.br.\n\nIniciada ainda no antigo estado da Guanabara, durante o governo de Carlos Lacerda, as remoções de favelas inseriam-se no projeto de intervenção estatal para expansão da cidade. Um objetivo e um efeito das remoções então efetivadas foram, respectivamente:",
+    "alternatives": [
+      { "letter": "A", "text": "redefinição da divisão distrital – captação de recursos administrativos" },
+      { "letter": "B", "text": "integração de área desabitada – racionalização de moradias populares" },
+      { "letter": "C", "text": "valorização da especulação imobiliária – gentrificação de logradouros urbanos" },
+      { "letter": "D", "text": "hierarquização da distribuição demográfica – modernização de redes rodoviárias" }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As favelas removidas (Catacumba na Lagoa, Praia do Pinto no Leblon, Esqueleto no que hoje é o campus da Uerj) ocupavam áreas nobres e valorizadas da cidade. Ao remover a população pobre para conjuntos habitacionais distantes e transferir esses terrenos centrais para outros usos, o poder público viabilizou a valorização imobiliária dessas áreas centrais e sua ocupação por população de renda mais alta — um processo de valorização da especulação imobiliária seguido de gentrificação desses logradouros, alternativa C. As demais alternativas atribuem objetivos e efeitos (divisão distrital, integração de área desabitada, hierarquização demográfica) que não correspondem ao caso descrito, em que as áreas removidas eram centrais e já ocupadas, não desabitadas ou periféricas.",
+    "source": { "institution": "UERJ", "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais." }
+  }
+]
