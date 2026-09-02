@@ -26383,5 +26383,1276 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2019 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
     }
+  },
+  {
+    "id": "enem-2019-q60",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "A cidade medieval é, antes de mais nada, uma sociedade da abundância, concentrada num pequeno espaço em meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam o artesanato e o comércio, sustentados por uma economia monetária. É também o centro de um sistema de valores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro, a inclinação para o luxo, o senso da beleza. É ainda um sistema de organização de um espaço fechado com muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\n\nLE GOFF, J.; SCHMITT, J.-C. Dicionário temático do Ocidente Medieval. Bauru: Edusc, 2006.\n\nNo texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emancipação do poder hegemônico da realeza."
+      },
+      {
+        "letter": "B",
+        "text": "aceitação das práticas usurárias dos religiosos."
+      },
+      {
+        "letter": "C",
+        "text": "independência da produção alimentar dos campos."
+      },
+      {
+        "letter": "D",
+        "text": "superação do ordenamento corporativo dos ofícios."
+      },
+      {
+        "letter": "E",
+        "text": "permanência dos elementos arquitetônicos de proteção."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Mesmo com a intensa expansão das atividades comerciais e artesanais, a cidade medieval manteve sua organização fechada por muralhas, portas e torres — elementos arquitetônicos de proteção que persistiram associados ao crescimento urbano — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q61",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "TEXTO I\n\nOuve o barulho do rio, meu filho\nDeixa esse som te embalar\nAs folhas que caem no rio, meu filho\nTerminam nas águas do mar\nQuando amanhã por acaso faltar\nUma alegria no seu coração\nLembra do som dessas águas de lá\nFaz desse rio a sua oração.\n\nMONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony; Universal Music, 2006 (fragmento).\n\nTEXTO II\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\nSANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.\n\nSão identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Exploração e romantização."
+      },
+      {
+        "letter": "B",
+        "text": "Sacralização e profanação."
+      },
+      {
+        "letter": "C",
+        "text": "Preservação e degradação."
+      },
+      {
+        "letter": "D",
+        "text": "Segregação e democratização."
+      },
+      {
+        "letter": "E",
+        "text": "Idealização e mercantilização."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No Texto I, a natureza é idealizada como fonte de consolo espiritual ('faz desse rio a sua oração'); no Texto II, a natureza é transformada em espetáculo e produto vendável para turistas — mercantilização. As posturas são, respectivamente, idealização e mercantilização — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q62",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de 2/3 das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\n\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.\n\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "asseguram as expressões multiculturais."
+      },
+      {
+        "letter": "B",
+        "text": "promovem a diversidade de etnias."
+      },
+      {
+        "letter": "C",
+        "text": "falseiam os dogmas teológicos."
+      },
+      {
+        "letter": "D",
+        "text": "estimulam os rituais sincréticos."
+      },
+      {
+        "letter": "E",
+        "text": "restringem a liberdade de credo."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A discriminação e agressão a praticantes de religiões de matriz africana em espaços públicos configura uma violação da liberdade religiosa — direito fundamental em uma sociedade laica e democrática, que deve garantir a livre prática de qualquer credo — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q63",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "TEXTO I\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficiassem a burguesia incipiente.\n\nANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva,1989 (adaptado).\n\nTEXTO II\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\nSMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).\n\nEntre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização do pacto colonial — combate à livre-iniciativa."
+      },
+      {
+        "letter": "B",
+        "text": "defesa dos monopólios régios — apoio à livre concorrência."
+      },
+      {
+        "letter": "C",
+        "text": "formação do sistema metropolitano — crítica à livre navegação."
+      },
+      {
+        "letter": "D",
+        "text": "abandono da acumulação metalista — estímulo ao livre-comércio."
+      },
+      {
+        "letter": "E",
+        "text": "eliminação das tarifas alfandegárias — incentivo ao livre-cambismo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Texto I descreve o mercantilismo, marcado pelo protecionismo estatal e pelos monopólios régios; o Texto II, de Adam Smith, critica as interferências estatais e defende a livre concorrência, sem restrições às 'leis naturais' do mercado — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q64",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "A lenda diz que, em um belo dia ensolarado, Newton estava relaxando sob uma macieira. [...] De repente, uma maçã caiu sobre a sua cabeça e ele acordou com um susto. [...] Ele, então, pensou: 'Apenas alguns minutos antes, a maçã estava pendurada na árvore. Nenhuma força externa fez ela cair. Deve haver alguma força subjacente que causa a queda das coisas para a terra'.\n\nSILVA, C. C.; MARTINS, R. A. Estudos de história e filosofia das ciências. São Paulo: Livraria da Física, 2006 (adaptado).\n\nEm contraponto a uma interpretação idealizada, o texto aponta para a seguinte dimensão fundamental da ciência moderna:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Falsificação de teses."
+      },
+      {
+        "letter": "B",
+        "text": "Negação da observação."
+      },
+      {
+        "letter": "C",
+        "text": "Proposição de hipóteses."
+      },
+      {
+        "letter": "D",
+        "text": "Contemplação da natureza."
+      },
+      {
+        "letter": "E",
+        "text": "Universalização de conclusões."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao observar o fenômeno da queda da maçã e formular a ideia de uma 'força subjacente' que a explicaria, Newton exemplifica o método científico moderno de proposição de hipóteses a partir da observação de fenômenos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q65",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Para Maquiavel, quando um homem decide dizer a verdade pondo em risco a própria integridade física, tal resolução diz respeito apenas a sua pessoa. Mas se esse mesmo homem é um chefe de Estado, os critérios pessoais não são mais adequados para decidir sobre ações cujas consequências se tornam tão amplas, já que o prejuízo não será apenas individual, mas coletivo. Nesse caso, conforme as circunstâncias e os fins a serem atingidos, pode-se decidir que o melhor para o bem comum seja mentir.\n\nARANHA, M. L. Maquiavel: a lógica da força. São Paulo: Moderna, 2006 (adaptado).\n\nO texto aponta uma inovação na teoria política na época moderna expressa na distinção entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "idealidade e efetividade da moral."
+      },
+      {
+        "letter": "B",
+        "text": "nulidade e preservabilidade da liberdade."
+      },
+      {
+        "letter": "C",
+        "text": "ilegalidade e legitimidade do governante."
+      },
+      {
+        "letter": "D",
+        "text": "verificabilidade e possibilidade da verdade."
+      },
+      {
+        "letter": "E",
+        "text": "objetividade e subjetividade do conhecimento."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Maquiavel separa a moral ideal (válida para o indivíduo comum) da moral efetiva exigida do governante, cujas ações devem ser julgadas pelos resultados práticos para o bem comum, mesmo que contrariem princípios morais idealizados — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q66",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "A criação do Sistema Único de Saúde (SUS) como uma política para todos constitui-se uma das mais importantes conquistas da sociedade brasileira no século XX. O SUS deve ser valorizado e defendido como um marco para a cidadania e o avanço civilizatório. A democracia envolve um modelo de Estado no qual políticas protegem os cidadãos e reduzem as desigualdades. O SUS é uma diretriz que fortalece a cidadania e contribui para assegurar o exercício de direitos, o pluralismo político e o bem-estar como valores de uma sociedade fraterna, pluralista e sem preconceitos, conforme prevê a Constituição Federal de 1988.\n\nRIZZOTO, M. L. F. et al. Justiça social, democracia com direitos sociais e saúde: a luta do Cebes. Revista Saúde em Debate, n. 116, jan.-mar. 2018 (adaptado).\n\nSegundo o texto, duas características da concepção da política pública analisada são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Paternalismo e filantropia."
+      },
+      {
+        "letter": "B",
+        "text": "Liberalismo e meritocracia."
+      },
+      {
+        "letter": "C",
+        "text": "Universalismo e igualitarismo."
+      },
+      {
+        "letter": "D",
+        "text": "Nacionalismo e individualismo."
+      },
+      {
+        "letter": "E",
+        "text": "Revolucionarismo e coparticipação."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O SUS é apresentado como 'política para todos' que reduz desigualdades e garante direitos a toda a população, o que caracteriza o princípio do universalismo (acesso de todos) associado ao igualitarismo (redução de desigualdades) — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q67",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "TEXTO I\n\nConsidero apropriado deter-me algum tempo na contemplação deste Deus todo perfeito, ponderar totalmente à vontade seus maravilhosos atributos, considerar, admirar e adorar a incomparável beleza dessa imensa luz.\n\nDESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.\n\nTEXTO II\n\nQual será a forma mais razoável de entender como é o mundo? Existirá alguma boa razão para acreditar que o mundo foi criado por uma divindade todo-poderosa? Não podemos dizer que a crença em Deus é 'apenas' uma questão de fé.\n\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\n\nOs textos abordam um questionamento da construção da modernidade que defende um modelo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "centrado na razão humana."
+      },
+      {
+        "letter": "B",
+        "text": "baseado na explicação mitológica."
+      },
+      {
+        "letter": "C",
+        "text": "fundamentado na ordenação imanentista."
+      },
+      {
+        "letter": "D",
+        "text": "focado na legitimação contratualista."
+      },
+      {
+        "letter": "E",
+        "text": "configurado na percepção etnocêntrica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tanto Descartes, ao buscar demonstrar racionalmente a existência de Deus, quanto Rachels, ao questionar se há 'boa razão' para crer nele, submetem a questão da divindade ao crivo da razão humana, característica central do pensamento moderno — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q68",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A comunidade de Mumbuca, em Minas Gerais, tem uma organização coletiva de tal forma expressiva que coopera para o abastecimento de mantimentos da cidade do Jequitinhonha, o que pode ser atestado pela feira aos sábados. Em Campinho da Independência, no Rio de Janeiro, o artesanato local encanta os frequentadores do litoral sul do estado, além do restaurante quilombola que atende aos turistas.\n\nALMEIDA, A. W. B. (Org.). Cadernos de debates nova cartografia social: Territórios quilombolas e conflitos. Manaus: Projeto Nova Cartografia Social da Amazônia; UEA Edições, 2010 (adaptado).\n\nNo texto, as estratégias territoriais dos grupos de remanescentes de quilombo visam garantir:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Perdão de dívidas fiscais."
+      },
+      {
+        "letter": "B",
+        "text": "Reserva de mercado local."
+      },
+      {
+        "letter": "C",
+        "text": "Inserção econômica regional."
+      },
+      {
+        "letter": "D",
+        "text": "Protecionismo comercial tarifário."
+      },
+      {
+        "letter": "E",
+        "text": "Benefícios assistenciais públicos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao abastecer a cidade vizinha com produtos da feira, vender artesanato e operar restaurante para turistas, as comunidades quilombolas descritas buscam garantir sua inserção econômica na dinâmica regional — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q69",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Localizado a 160 km da cidade de Porto Velho (capital do estado de Rondônia), nos limites da Reserva Extrativista Jaci-Paraná e Terra Indígena Karipunas, o povoado de União Bandeirantes surgiu em 2000 a partir de movimentos de camponeses, madeireiros, pecuaristas e grileiros que, à revelia do ordenamento territorial e diante da passividade governamental, demarcaram e invadiram terras na área rural fundando a vila. Atualmente, constitui-se na região de maior produção agrícola e leiteira do município de Porto Velho, fornecendo, inclusive, alimentos para a Hidrelétrica de Jirau.\n\nSILVA, R. G. C. Amazônia globalizada — o exemplo de Rondônia. Confins, n. 23, 2015 (adaptado).\n\nA dinâmica de ocupação territorial descrita foi decorrente da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mecanização do processo produtivo."
+      },
+      {
+        "letter": "B",
+        "text": "adoção da colonização dirigida."
+      },
+      {
+        "letter": "C",
+        "text": "realização de reforma agrária."
+      },
+      {
+        "letter": "D",
+        "text": "ampliação de franjas urbanas."
+      },
+      {
+        "letter": "E",
+        "text": "expansão de frentes pioneiras."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A invasão e demarcação espontânea de terras por camponeses, madeireiros, pecuaristas e grileiros, sem planejamento estatal, é característica da expansão de frentes pioneiras que avançam sobre áreas amazônicas ainda pouco ocupadas — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q70",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Em nenhuma outra época o corpo magro adquiriu um sentido de corpo ideal e esteve tão em evidência como nos dias atuais: esse corpo, nu ou vestido, exposto em diversas revistas femininas e masculinas, está na moda: é capa de revistas, matérias de jornais, manchetes publicitárias, e se transformou em sonho de consumo para milhares de pessoas. Partindo dessa concepção, o gordo passa a ter um corpo visivelmente sem comedimento, sem saúde, um corpo estigmatizado pelo desvio, o desvio pelo excesso. Entretanto, como afirma a escritora Marylin Wann, é perfeitamente possível ser gordo e saudável. Frequentemente os gordos adoecem não por causa da gordura, mas sim pelo estresse, pela opressão a que são submetidos.\n\nVASCONCELOS, N. A.; SUDO, I.; SUDO, N. Um peso na alma: o corpo gordo e a mídia. Revista Mal-Estar e Subjetividade, n. 1, mar. 2004 (adaptado).\n\nNo texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Difusão das estéticas antigas."
+      },
+      {
+        "letter": "B",
+        "text": "Exaltação das crendices populares."
+      },
+      {
+        "letter": "C",
+        "text": "Propagação das conclusões científicas."
+      },
+      {
+        "letter": "D",
+        "text": "Reiteração dos discursos hegemônicos."
+      },
+      {
+        "letter": "E",
+        "text": "Contestação dos estereótipos consolidados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A mídia reafirma e reproduz constantemente o padrão do corpo magro como ideal de saúde e beleza, sem questionar essa associação — uma reiteração dos discursos hegemônicos vigentes, criticada pelo texto — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q71",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior.\n\nHARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005 (adaptado).\n\nA condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "associação sindical."
+      },
+      {
+        "letter": "B",
+        "text": "participação eleitoral."
+      },
+      {
+        "letter": "C",
+        "text": "migração internacional."
+      },
+      {
+        "letter": "D",
+        "text": "qualificação profissional."
+      },
+      {
+        "letter": "E",
+        "text": "regulamentação funcional."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As crises capitalistas costumam elevar o patamar tecnológico e organizacional da produção, exigindo dos trabalhadores maior qualificação profissional para se manterem inseridos no novo processo produtivo — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q72",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Art. 90. As nomeações dos deputados e senadores para a Assembleia Geral, e dos membros dos Conselhos Gerais das províncias, serão feitas por eleições, elegendo a massa dos cidadãos ativos em assembleias paroquiais, os eleitores de província, e estes, os representantes da nação e província.\n\nArt. 92. São excluídos de votar nas assembleias paroquiais: I. Os menores de vinte e cinco anos [...] II. Os filhos de famílias, que estiverem na companhia de seus pais [...] III. Os criados de servir [...] IV. Os religiosos e quaisquer que vivam em comunidade claustral. V. Os que não tiverem de renda líquida anual cem mil réis por bens de raiz, indústria, comércio, ou emprego.\n\nBRASIL. Constituição de 1824. Disponível em: www.planalto.gov.br. Acesso em: 4 abr. 2015 (adaptado).\n\nDe acordo com os artigos do dispositivo legal apresentado, o sistema eleitoral instituído no início do Império é marcado pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "representação popular e sigilo individual."
+      },
+      {
+        "letter": "B",
+        "text": "voto indireto e perfil censitário."
+      },
+      {
+        "letter": "C",
+        "text": "liberdade pública e abertura política."
+      },
+      {
+        "letter": "D",
+        "text": "ética partidária e supervisão estatal."
+      },
+      {
+        "letter": "E",
+        "text": "caráter liberal e sistema parlamentar."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto mostra um sistema de eleições em dois graus (cidadãos elegem eleitores de província, que elegem os representantes — voto indireto) e uma exigência mínima de renda para votar (critério censitário) — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q73",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "O cristianismo incorporou antigas práticas relativas ao fogo para criar uma festa sincrética. A igreja retomou a distância de seis meses entre os nascimentos de Jesus Cristo e João Batista e instituiu a data de comemoração a este último de tal maneira que as festas do solstício de verão europeu com suas tradicionais fogueiras se tornaram 'fogueiras de São João'. A festa do fogo e da luz no entanto não foi imediatamente associada a São João Batista. Na Baixa Idade Média, algumas práticas tradicionais da festa (como banhos, danças e cantos) foram perseguidas por monges e bispos. A partir do Concílio de Trento (1545-1563), a Igreja resolveu adotar celebrações em torno do fogo e associá-las à doutrina cristã.\n\nCHIANCA, L. Devoção e diversão: expressões contemporâneas de festas e santos católicos. Revista Anthropológicas, n. 18, 2007 (adaptado).\n\nCom o objetivo de se fortalecer, a instituição mencionada no texto adotou as práticas descritas, que consistem em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promoção de atos ecumênicos."
+      },
+      {
+        "letter": "B",
+        "text": "fomento de orientações bíblicas."
+      },
+      {
+        "letter": "C",
+        "text": "apropriação de cerimônias seculares."
+      },
+      {
+        "letter": "D",
+        "text": "retomada de ensinamentos apostólicos."
+      },
+      {
+        "letter": "E",
+        "text": "ressignificação de rituais fundamentalistas."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A Igreja incorporou festas pagãs do solstício de verão (celebrações seculares e não cristãs) e as ressignificou dentro da doutrina cristã, associando-as a São João Batista — uma apropriação de cerimônias seculares — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q74",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural.\n\nFOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004.\n\nO texto aponta que a subjetivação se efetiva numa dimensão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "legal, pautada em preceitos jurídicos."
+      },
+      {
+        "letter": "B",
+        "text": "racional, baseada em pressupostos lógicos."
+      },
+      {
+        "letter": "C",
+        "text": "contingencial, processada em interações sociais."
+      },
+      {
+        "letter": "D",
+        "text": "transcendental, efetivada em princípios religiosos."
+      },
+      {
+        "letter": "E",
+        "text": "essencial, fundamentada em parâmetros substancialistas."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao negar um sujeito universal e fixo, Foucault defende que a subjetividade se constitui historicamente por meio de práticas de sujeição ou liberdade inseridas em contextos culturais específicos — um processo contingente, produzido nas interações sociais — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q75",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "TEXTO I\n\nOs segredos da natureza se revelam mais sob a tortura dos experimentos do que no seu curso natural.\n\nBACON, F. Novum Organum, 1620. In: HADOT, P. O véu de Ísis: ensaio sobre a história da ideia de natureza. São Paulo: Loyola, 2006.\n\nTEXTO II\n\nO ser humano, totalmente desintegrado do todo, não percebe mais as relações de equilíbrio da natureza. Age de forma totalmente desarmônica sobre o ambiente, causando grandes desequilíbrios ambientais.\n\nGUIMARÃES, M. A dimensão ambiental na educação. Campinas: Papirus, 1995.\n\nOs textos indicam uma relação da sociedade diante da natureza caracterizada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "objetificação do espaço físico."
+      },
+      {
+        "letter": "B",
+        "text": "retomada do modelo criacionista."
+      },
+      {
+        "letter": "C",
+        "text": "recuperação do legado ancestral."
+      },
+      {
+        "letter": "D",
+        "text": "infalibilidade do método científico."
+      },
+      {
+        "letter": "E",
+        "text": "formação da cosmovisão holística."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tanto a visão de Bacon, que trata a natureza como algo a ser 'torturado' pelos experimentos para revelar seus segredos, quanto a crítica de Guimarães ao ser humano desintegrado do todo natural, evidenciam uma relação em que a natureza é tratada como objeto a ser dominado — objetificação do espaço físico — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q76",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\nARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).\n\nA partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ideário nacional, que legitima as desigualdades sociais."
+      },
+      {
+        "letter": "B",
+        "text": "alienação ideológica, que justifica as ações individuais."
+      },
+      {
+        "letter": "C",
+        "text": "cosmologia religiosa, que sustenta as tradições hierárquicas."
+      },
+      {
+        "letter": "D",
+        "text": "segregação humana, que fundamenta os projetos biopolíticos."
+      },
+      {
+        "letter": "E",
+        "text": "enquadramento cultural, que favorece os comportamentos punitivos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao mostrar como a 'irrealidade' dos campos de concentração naturalizou o extermínio como algo aceitável, Arendt denuncia a segregação humana radical (a redução de pessoas a categorias descartáveis) que fundamenta os projetos biopolíticos totalitários — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q77",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Fala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).\n\nA manifestação artística apresentada no texto integra um movimento contemporâneo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regulação das relações sociais."
+      },
+      {
+        "letter": "B",
+        "text": "apropriação dos espaços públicos."
+      },
+      {
+        "letter": "C",
+        "text": "padronização das culturas urbanas."
+      },
+      {
+        "letter": "D",
+        "text": "valorização dos formalismos estéticos."
+      },
+      {
+        "letter": "E",
+        "text": "revitalização dos patrimônios históricos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A arte de rua (como o grafite), criada e exibida fora das instituições tradicionais, diretamente nos muros e becos da cidade, representa um movimento de apropriação artística dos espaços públicos urbanos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q78",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "TEXTO I\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\n\nTEXTO II\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\nFONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.\n\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Possibilidade da liberdade e obrigação da ação."
+      },
+      {
+        "letter": "B",
+        "text": "Aprioridade do juízo e importância da natureza."
+      },
+      {
+        "letter": "C",
+        "text": "Necessidade da boa vontade e crítica da metafísica."
+      },
+      {
+        "letter": "D",
+        "text": "Prescindibilidade do empírico e autoridade da razão."
+      },
+      {
+        "letter": "E",
+        "text": "Interioridade da norma e fenomenalidade do mundo."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em Kant, a lei moral é interior ao sujeito (norma interna) e o céu estrelado representa o mundo fenomênico exterior. A poeta inverte essa relação: a lei passa a 'cobrir' (exterior) e o céu estrelado passa a estar 'dentro' do eu — invertendo a interioridade da norma e a fenomenalidade do mundo — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q79",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\nCARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.\n\nNas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Controle da terra."
+      },
+      {
+        "letter": "B",
+        "text": "Liberdade de culto."
+      },
+      {
+        "letter": "C",
+        "text": "Igualdade de gênero."
+      },
+      {
+        "letter": "D",
+        "text": "Exclusão dos militares."
+      },
+      {
+        "letter": "E",
+        "text": "Exigência da alfabetização."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na pólis grega clássica, a cidadania plena estava associada, sobretudo, à posse de terra (propriedade fundiária), critério que restringia a participação política, sendo mais restrito nas oligarquias (onde a terra se concentrava em poucas mãos) e mais amplo nas democracias — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q80",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "A Revolta da Vacina (1904) mostrou claramente o aspecto defensivo, desorganizado, fragmentado da ação popular. Não se negava o Estado, não se reivindicava participação nas decisões políticas; defendiam-se valores e direitos considerados acima da intervenção do Estado.\n\nCARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi. São Paulo: Cia. das Letras, 1987 (adaptado).\n\nA mobilização analisada representou um alerta, na medida em que a ação popular questionava",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a alta de preços."
+      },
+      {
+        "letter": "B",
+        "text": "a política clientelista."
+      },
+      {
+        "letter": "C",
+        "text": "as reformas urbanas."
+      },
+      {
+        "letter": "D",
+        "text": "o arbítrio governamental."
+      },
+      {
+        "letter": "E",
+        "text": "as práticas eleitorais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Revolta da Vacina foi uma reação popular contra a imposição compulsória da vacinação e das reformas sanitárias sem consulta à população, questionando o arbítrio do poder governamental sobre o corpo e a vida dos cidadãos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q81",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro.\n\nFRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015 (adaptado).\n\nNa matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à seguinte atividade:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Coleta de drogas do sertão."
+      },
+      {
+        "letter": "B",
+        "text": "Extração de metais preciosos."
+      },
+      {
+        "letter": "C",
+        "text": "Adoção da pecuária extensiva."
+      },
+      {
+        "letter": "D",
+        "text": "Retirada de madeira do litoral."
+      },
+      {
+        "letter": "E",
+        "text": "Exploração da lavoura de tabaco."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A ascensão do Rio de Janeiro como principal porto receptor de escravizados na segunda metade do século XVIII está relacionada à mineração de ouro em Minas Gerais, cujo escoamento e abastecimento de mão de obra passavam pelo porto carioca — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q82",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Tratava-se agora de construir um ritmo novo. Para tanto, era necessário convocar todas as forças vivas da Nação, todos os homens que, com vontade de trabalhar e confiança no futuro, pudessem erguer, num tempo novo, um novo Tempo. E, à grande convocação [...] começaram a chegar de todos os cantos da imensa pátria os trabalhadores: os homens simples e quietos, com pés de raiz, rostos de couro e mãos de pedra [...] em carro de boi, em lombo de burro, em paus-de-arara, por todas as formas possíveis e imagináveis [...] Terra de sol, Terra de luz... Brasil! Brasil! Brasília!\n\nMORAES, V.; JOBIM, A. C. Brasília, sinfonia da alvorada. III — A chegada dos candangos. Disponível em: www.viniciusdemoraes.com.br. Acesso em: 14 ago. 2012 (adaptado).\n\nNo texto, a narrativa produzida sobre a construção de Brasília articula os elementos políticos e socioeconômicos indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Apelo simbólico e migração inter-regional."
+      },
+      {
+        "letter": "B",
+        "text": "Organização sindical e expansão do capital."
+      },
+      {
+        "letter": "C",
+        "text": "Segurança territorial e estabilidade financeira."
+      },
+      {
+        "letter": "D",
+        "text": "Consenso partidário e modernização rodoviária."
+      },
+      {
+        "letter": "E",
+        "text": "Perspectiva democrática e eficácia dos transportes."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto mobiliza um apelo simbólico e emocional ('Brasil! Brasília!', 'novo Tempo') como elemento político de convocação nacional, associado ao elemento socioeconômico da migração de trabalhadores vindos de diversas regiões do país (os candangos) para construir a nova capital — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q83",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a 'globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença'.\n\nDisponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado).\n\nNo texto há uma crítica ao seguinte aspecto do mundo globalizado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Liberdade política."
+      },
+      {
+        "letter": "B",
+        "text": "Mobilidade humana."
+      },
+      {
+        "letter": "C",
+        "text": "Conectividade cultural."
+      },
+      {
+        "letter": "D",
+        "text": "Disparidade econômica."
+      },
+      {
+        "letter": "E",
+        "text": "Complementaridade comercial."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao criticar a 'globalização da exclusão e da indiferença' e defender uma globalização que nasça 'entre os pobres', o discurso denuncia a disparidade econômica gerada e agravada pela globalização — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q84",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "A Declaração Universal dos Direitos Humanos, adotada e proclamada pela Assembleia Geral da ONU na Resolução 217-A, de 10 de dezembro de 1948, foi um acontecimento histórico de grande relevância. Ao afirmar, pela primeira vez em escala planetária, o papel dos direitos humanos na convivência coletiva, pode ser considerada um evento inaugural de uma nova concepção de vida internacional.\n\nLAFER, C. Declaração Universal dos Direitos Humanos (1948). In: MAGNOLI, D. (Org.). História da paz. São Paulo: Contexto, 2008.\n\nA declaração citada no texto introduziu uma nova concepção nas relações internacionais ao possibilitar a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "superação da soberania estatal."
+      },
+      {
+        "letter": "B",
+        "text": "defesa dos grupos vulneráveis."
+      },
+      {
+        "letter": "C",
+        "text": "redução da truculência belicista."
+      },
+      {
+        "letter": "D",
+        "text": "impunidade dos atos criminosos."
+      },
+      {
+        "letter": "E",
+        "text": "inibição dos choques civilizacionais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao proclamar direitos válidos para todos os seres humanos, independentemente do Estado a que pertençam, a Declaração de 1948 possibilitou, pela primeira vez em escala global, a defesa e proteção de grupos vulneráveis frente a violações praticadas inclusive por seus próprios governos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q85",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "'Nossa cultura não cabe nos seus museus'.\n\nTOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.\n\nProduzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização do mercado das obras de arte."
+      },
+      {
+        "letter": "B",
+        "text": "definição dos critérios de criação de acervos."
+      },
+      {
+        "letter": "C",
+        "text": "ampliação da rede de instituições de memória."
+      },
+      {
+        "letter": "D",
+        "text": "burocratização do acesso dos espaços expositivos."
+      },
+      {
+        "letter": "E",
+        "text": "fragmentação dos territórios das comunidades representadas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase-protesto denuncia que os critérios tradicionalmente usados pelos museus para definir o que compõe seus acervos excluem ou distorcem manifestações culturais de povos originários e populares, gerando o conflito expresso — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q86",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "A ocasião fez o ladrão: Francis Drake travava sua guerra de pirataria contra a Espanha papista quando roubou as tropas de mulas que levavam o ouro do Peru para o Panamá. Graças à cumplicidade da rainha Elizabeth I, ele reincide e saqueia as costas do Chile e do Peru antes de regressar pelo Oceano Pacífico, e depois pelo Índico. Ora, em Ternate ele oferece sua proteção a um sultão revoltado com os portugueses; assim nasce o primeiro entreposto inglês ultramarino.\n\nFERRO, M. História das colonizações. Das colonizações às independências. Séculos XIII a XX. São Paulo: Cia. das Letras, 1996.\n\nA tática adotada pela Inglaterra do século XVI, conforme citada no texto, foi o meio encontrado para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "restabelecer o crescimento da economia mercantil."
+      },
+      {
+        "letter": "B",
+        "text": "conquistar as riquezas dos territórios americanos."
+      },
+      {
+        "letter": "C",
+        "text": "legalizar a ocupação de possessões ibéricas."
+      },
+      {
+        "letter": "D",
+        "text": "ganhar a adesão das potências europeias."
+      },
+      {
+        "letter": "E",
+        "text": "fortalecer as rotas do comércio marítimo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao patrocinar a pirataria de Francis Drake contra as colônias espanholas na América, roubando o ouro e a prata extraídos pelos ibéricos, a Inglaterra encontrou um meio indireto de se apropriar das riquezas dos territórios americanos, sem arcar com os custos da colonização direta — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q87",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "O Ministério do Trabalho e Emprego (MTE) realizou 248 ações fiscais e resgatou um total de 1 590 trabalhadores da situação análoga à de escravo, em 2014, em todo o país. A análise do enfrentamento do trabalho em condições análogas às de escravo materializa a efetivação de parcerias inéditas no trato da questão, podendo ser referenciadas ações fiscais realizadas com o Ministério da Defesa, Exército Brasileiro, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).\n\nDisponível em: http://portal.mte.gov.br. Acesso em: 4 fev. 2015 (adaptado).\n\nA estratégia defendida no texto para reduzir o problema social apontado consiste em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Articular os órgãos públicos."
+      },
+      {
+        "letter": "B",
+        "text": "Pressionar o Poder Legislativo."
+      },
+      {
+        "letter": "C",
+        "text": "Ampliar a emissão das multas."
+      },
+      {
+        "letter": "D",
+        "text": "Limitar a autonomia das empresas."
+      },
+      {
+        "letter": "E",
+        "text": "Financiar as pesquisas acadêmicas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto destaca justamente as parcerias entre diferentes órgãos públicos (MTE, Ministério da Defesa, Exército, Ibama, ICMBio) nas ações de fiscalização, mostrando que a estratégia central é a articulação entre esses órgãos — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q88",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto.\n\nGOIS, A. O Globo, 5 abr. 2015 (adaptado).\n\nA ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atração de imigrantes."
+      },
+      {
+        "letter": "B",
+        "text": "elevação da carga tributária."
+      },
+      {
+        "letter": "C",
+        "text": "qualificação da mão de obra."
+      },
+      {
+        "letter": "D",
+        "text": "admissão de exilados políticos."
+      },
+      {
+        "letter": "E",
+        "text": "concessão de aposentadorias."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para aproveitar o bônus demográfico — período com grande proporção de população em idade ativa —, é fundamental investir na qualificação da mão de obra, tornando essa força de trabalho mais produtiva e capaz de impulsionar o crescimento econômico — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q89",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13 h 04 min (horário local).\n\nDisponível em: www.bbc.com. Acesso em: 16 maio 2019 (adaptado).\n\nO fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "continentalidade."
+      },
+      {
+        "letter": "B",
+        "text": "maritimidade."
+      },
+      {
+        "letter": "C",
+        "text": "longitude."
+      },
+      {
+        "letter": "D",
+        "text": "latitude."
+      },
+      {
+        "letter": "E",
+        "text": "altitude."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A ocorrência de noites polares prolongadas (meses sem luz do dia) é um fenômeno associado à alta latitude — nas regiões próximas aos polos, a inclinação do eixo terrestre faz com que o Sol não apareça no horizonte durante boa parte do inverno — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2019-q90",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la.\n\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).\n\nO texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "escala de produtividade regional."
+      },
+      {
+        "letter": "B",
+        "text": "padrão de distribuição de renda."
+      },
+      {
+        "letter": "C",
+        "text": "dificuldade de armazenamento de grãos."
+      },
+      {
+        "letter": "D",
+        "text": "crescimento da população mundial."
+      },
+      {
+        "letter": "E",
+        "text": "custo de escoamento dos produtos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Se a fome persiste mesmo havendo condições materiais (produção suficiente de alimentos) para resolvê-la, o problema não é de escassez técnica, mas de acesso desigual aos alimentos — uma questão política ligada ao padrão de distribuição de renda — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
   }
 ]
