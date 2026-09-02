@@ -18716,5 +18716,333 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q38",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.\n\nREICH, R. O trabalho das nações: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).\n\nA viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "linhas de montagem e formação de estoques."
+      },
+      {
+        "letter": "B",
+        "text": "empresas burocráticas e mão de obra barata."
+      },
+      {
+        "letter": "C",
+        "text": "controle estatal e infraestrutura consolidada."
+      },
+      {
+        "letter": "D",
+        "text": "organização em rede e tecnologia de informação."
+      },
+      {
+        "letter": "E",
+        "text": "gestão centralizada e protecionismo econômico."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A coordenação de etapas de produção espalhadas por vários países (financiamento, design, montagem, componentes, publicidade) só é viável por meio de uma organização em rede sustentada por tecnologias de informação e comunicação — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q39",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos selfies, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.\n\nSODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).\n\nA crítica contida no texto sobre a sociedade contemporânea enfatiza",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a prática identitária autorreferente."
+      },
+      {
+        "letter": "B",
+        "text": "a dinâmica política democratizante."
+      },
+      {
+        "letter": "C",
+        "text": "a produção instantânea de notícias."
+      },
+      {
+        "letter": "D",
+        "text": "os processos difusores de informações."
+      },
+      {
+        "letter": "E",
+        "text": "os mecanismos de convergência tecnológica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto critica a obsessão contemporânea por “aparecer”, ser visto e falado — a busca de “espelhamento” de si mesmo por meio de selfies e redes sociais — caracterizando uma prática identitária centrada no próprio indivíduo (autorreferente) — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q40",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.\n\nWEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).\n\nTal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "progresso civilizatório como decorrência da expansão do industrialismo."
+      },
+      {
+        "letter": "B",
+        "text": "extinção do pensamento mítico como um desdobramento do capitalismo."
+      },
+      {
+        "letter": "C",
+        "text": "emancipação como consequência do processo de racionalização da vida."
+      },
+      {
+        "letter": "D",
+        "text": "afastamento de crenças tradicionais como uma característica da modernidade."
+      },
+      {
+        "letter": "E",
+        "text": "fim do monoteísmo como condição para a consolidação da ciência."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao afirmar que “não há forças misteriosas incalculáveis” e que tudo pode ser dominado pelo cálculo racional, Weber descreve o “desencantamento do mundo”: o afastamento das explicações mágicas e tradicionais como marca da modernidade racionalizada — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q41",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.\n\nSEVCENKO, N. A corrida para o século XXI: no loop da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).\n\nO texto expõe uma tendência representativa do pensamento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "priorizar os interesses econômicos em relação aos seres humanos e à natureza."
+      },
+      {
+        "letter": "B",
+        "text": "negar a perspectiva científica e suas conquistas por causa de riscos ecológicos."
+      },
+      {
+        "letter": "C",
+        "text": "instituir o diálogo público sobre mudanças tecnológicas e suas consequências."
+      },
+      {
+        "letter": "D",
+        "text": "combater a introdução de tecnologias para travar o curso das mudanças sociais."
+      },
+      {
+        "letter": "E",
+        "text": "romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O princípio da precaução, concebido por grupos da sociedade civil, busca submeter novas tecnologias a estudos e avaliações antes de sua liberação, o que pressupõe abrir um debate e diálogo público sobre seus riscos e consequências — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q42",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam o feminino.\n\nBEAUVOIR, S. O segundo sexo. Rio de Janeiro: Nova Fronteira, 1980.\n\nNa década de 1960, a proposição de Simone de Beauvoir contribuiu para estruturar um movimento social que teve como marca o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ação do Poder Judiciário para criminalizar a violência sexual."
+      },
+      {
+        "letter": "B",
+        "text": "pressão do Poder Legislativo para impedir a dupla jornada de trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "organização de protestos públicos para garantir a igualdade de gênero."
+      },
+      {
+        "letter": "D",
+        "text": "oposição de grupos religiosos para impedir os casamentos homoafetivos."
+      },
+      {
+        "letter": "E",
+        "text": "estabelecimento de políticas governamentais para promover ações afirmativas."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A tese de Beauvoir de que o feminino é uma construção social, não biológica, forneceu base teórica ao movimento feminista que, nos anos 1960, se organizou em protestos públicos para reivindicar a igualdade de gênero — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q43",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.\n\nMANNHEIM, K. Ideologia e utopia. Porto Alegre: Globo, 1950 (adaptado).\n\nIlustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conhecimento sobre a realidade é condicionado socialmente."
+      },
+      {
+        "letter": "B",
+        "text": "submissão ao grupo manipula o conhecimento do mundo."
+      },
+      {
+        "letter": "C",
+        "text": "divergência é um privilégio de indivíduos excepcionais."
+      },
+      {
+        "letter": "D",
+        "text": "educação formal determina o conhecimento do idioma."
+      },
+      {
+        "letter": "E",
+        "text": "domínio das línguas universaliza o conhecimento."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Mannheim afirma que o indivíduo pensa e percebe o mundo por meio de palavras e significados fornecidos por seu grupo social, evidenciando que o conhecimento da realidade é condicionado socialmente — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q44",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A Unesco condenou a destruição da antiga capital assíria de Nimrod, no Iraque, pelo Estado Islâmico, com a agência da ONU considerando o ato como um crime de guerra. O grupo iniciou um processo de demolição em vários sítios arqueológicos em uma área reconhecida como um dos berços da civilização.\n\nUnesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico. Disponível em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).\n\nO tipo de atentado descrito no texto tem como consequência para as populações de países como o Iraque a desestruturação do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "homogeneidade cultural."
+      },
+      {
+        "letter": "B",
+        "text": "patrimônio histórico."
+      },
+      {
+        "letter": "C",
+        "text": "controle ocidental."
+      },
+      {
+        "letter": "D",
+        "text": "unidade étnica."
+      },
+      {
+        "letter": "E",
+        "text": "religião oficial."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A destruição de sítios arqueológicos milenares, como a cidade assíria de Nimrod, representa a perda irreparável do patrimônio histórico e cultural dessas populações — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q45",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.\n\nPORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).\n\nConsiderando as atuais concepções políticas sobre a questão ambiental, a dinâmica caracterizada no texto quanto à proteção do meio ambiente está baseada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "prática econômica sustentável."
+      },
+      {
+        "letter": "B",
+        "text": "contenção de impactos ambientais."
+      },
+      {
+        "letter": "C",
+        "text": "utilização progressiva dos recursos naturais."
+      },
+      {
+        "letter": "D",
+        "text": "proibição permanente da exploração da natureza."
+      },
+      {
+        "letter": "E",
+        "text": "definição de áreas prioritárias para a exploração econômica."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A concepção de preservação ambiental descrita no texto defende a intocabilidade da natureza, ou seja, a proibição permanente de qualquer forma de exploração econômica dos recursos naturais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
