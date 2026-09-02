@@ -27695,5 +27695,292 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2013-q02",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.\n\nMARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.\n\nA dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crescimento da população urbana e aumento da especulação imobiliária."
+      },
+      {
+        "letter": "B",
+        "text": "direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços."
+      },
+      {
+        "letter": "C",
+        "text": "delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida."
+      },
+      {
+        "letter": "D",
+        "text": "implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores."
+      },
+      {
+        "letter": "E",
+        "text": "reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O crescimento acelerado da população urbana, associado à valorização e especulação imobiliária nas áreas centrais, empurra a população de menor renda para as áreas periféricas das cidades, expandindo-as — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q07",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "A taxa de fecundidade total no Brasil apresentou uma queda contínua entre 1940 e 2010, passando de valores próximos a 6,2 filhos por mulher em meados do século XX para cerca de 1,9 filho por mulher em 2010.\n\nIBGE. Censo demográfico 2010: resultados gerais da amostra. Disponível em: ftp://ftp.ibge.gov.br. Acesso em: 12 mar. 2013.\n\nO processo registrado no gráfico gerou a seguinte consequência demográfica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Decréscimo da população absoluta."
+      },
+      {
+        "letter": "B",
+        "text": "Redução do crescimento vegetativo."
+      },
+      {
+        "letter": "C",
+        "text": "Diminuição da proporção de adultos."
+      },
+      {
+        "letter": "D",
+        "text": "Expansão de políticas de controle da natalidade."
+      },
+      {
+        "letter": "E",
+        "text": "Aumento da renovação da população economicamente ativa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A queda contínua da taxa de fecundidade reduz o número de nascimentos em relação aos óbitos, diminuindo o crescimento vegetativo (natural) da população brasileira — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q08",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "As Brigadas Internacionais foram unidades de combatentes formadas por voluntários de 53 nacionalidades dispostos a lutar em defesa da República espanhola. Estima-se que cerca de 60 mil cidadãos de várias partes do mundo – incluindo 40 brasileiros – tenham se incorporado a essas unidades. Apesar de coordenadas pelos comunistas, as Brigadas contaram com membros socialistas, liberais e de outras correntes político-ideológicas.\n\nSOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).\n\nA Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. A perspectiva política comum que promoveu a mobilização descrita foi o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crítica ao stalinismo."
+      },
+      {
+        "letter": "B",
+        "text": "combate ao fascismo."
+      },
+      {
+        "letter": "C",
+        "text": "rejeição ao federalismo."
+      },
+      {
+        "letter": "D",
+        "text": "apoio ao corporativismo."
+      },
+      {
+        "letter": "E",
+        "text": "adesão ao anarquismo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Apesar de reunir comunistas, socialistas, liberais e outras correntes políticas, o que unia os voluntários das Brigadas Internacionais era o objetivo comum de combater o avanço do fascismo, representado pelas forças de Franco na Guerra Civil Espanhola — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q09",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal 'ferramenta logística' ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.\n\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. Revista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).\n\nA necessidade de modais de transporte interligados, no território brasileiro, justifica-se pela(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "variações climáticas no território, associadas à interiorização da produção."
+      },
+      {
+        "letter": "B",
+        "text": "grandes distâncias e a busca da redução dos custos de transporte."
+      },
+      {
+        "letter": "C",
+        "text": "formação geológica do país, que impede o uso de um único modal."
+      },
+      {
+        "letter": "D",
+        "text": "proximidade entre a área de produção agrícola intensiva e os portos."
+      },
+      {
+        "letter": "E",
+        "text": "diminuição dos fluxos materiais em detrimento de fluxos imateriais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Dada a vasta extensão territorial do Brasil, a combinação de diferentes modais de transporte (intermodalidade) é essencial para reduzir os custos logísticos associados às grandes distâncias entre as áreas produtoras e os centros consumidores ou portos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q56",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A imagem representa uma ilustração retirada do livro De Motu Cordis, de autoria do médico inglês William Harvey, que fez importantes contribuições para o entendimento do processo de circulação do sangue no corpo humano. No experimento ilustrado, Harvey, após aplicar um torniquete (A) no braço de um voluntário e esperar alguns vasos incharem, pressionava-os em um ponto (H). Mantendo o ponto pressionado, deslocava o conteúdo de sangue em direção ao cotovelo, percebendo que um trecho do vaso sanguíneo permanecia vazio após esse processo (H-O), e que o sangue não retornava para preenchê-lo enquanto a pressão era mantida naquele sentido.\n\nDisponível em: www.answers.com. Acesso em: 18 dez. 2012 (adaptado).\n\nA demonstração de Harvey permite estabelecer a relação entre circulação sanguínea e",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pressão arterial."
+      },
+      {
+        "letter": "B",
+        "text": "válvulas venosas."
+      },
+      {
+        "letter": "C",
+        "text": "circulação linfática."
+      },
+      {
+        "letter": "D",
+        "text": "contração cardíaca."
+      },
+      {
+        "letter": "E",
+        "text": "transporte de gases."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao mostrar que o sangue empurrado para fora de um segmento da veia não retornava (o trecho permanecia vazio) quando a pressão era mantida em um único sentido, Harvey demonstrou a existência de válvulas venosas, que impedem o refluxo e garantem o fluxo sanguíneo em um único sentido nas veias — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q68",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para serrar ossos e carnes congeladas, um açougueiro utiliza uma serra de fita que possui três polias e um motor. O equipamento pode ser montado de duas formas diferentes, P e Q. Por questão de segurança, é necessário que a serra (a lâmina, movida pela polia 3) possua menor velocidade linear.\n\nNa montagem P, o motor está ligado à polia 1 pelo mesmo eixo (mesma frequência), e a polia 2 está ligada à polia 3 por uma correia (mesma velocidade linear periférica). Na montagem Q, o motor está ligado à polia 1 por uma correia (mesma velocidade linear periférica com a polia 2), e a polia 2 está no mesmo eixo da polia 3 (mesma frequência).\n\nPor qual montagem o açougueiro deve optar e qual a justificativa desta opção?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência."
+      },
+      {
+        "letter": "B",
+        "text": "Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico."
+      },
+      {
+        "letter": "C",
+        "text": "P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico."
+      },
+      {
+        "letter": "D",
+        "text": "P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência."
+      },
+      {
+        "letter": "E",
+        "text": "Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Polias ligadas pelo mesmo eixo compartilham a mesma frequência angular, mas a velocidade linear periférica (v=ωr) é maior quanto maior o raio. Na montagem Q, a polia 3 (lâmina) compartilha o eixo com a polia 2; escolhendo uma polia 3 de raio maior que a polia 1 (ligada ao motor via correia), obtém-se menor velocidade linear na lâmina, mais segura para o corte — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q85",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Desenvolve-se um dispositivo para abrir automaticamente uma porta no qual um botão, quando acionado, faz com que uma corrente elétrica i = 6 A percorra uma barra condutora de comprimento L = 5 cm, cujo ponto médio está preso a uma mola de constante elástica k = 5 × 10⁻² N/cm. O sistema mola-condutor está imerso em um campo magnético uniforme perpendicular ao plano. Quando acionado o botão, a barra sairá da posição de equilíbrio a uma velocidade média de 5 m/s e atingirá a catraca em 6 milissegundos, abrindo a porta.\n\nA intensidade do campo magnético, para que o dispositivo funcione corretamente, é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 × 10⁻¹ T."
+      },
+      {
+        "letter": "B",
+        "text": "5 × 10⁻² T."
+      },
+      {
+        "letter": "C",
+        "text": "5 × 10¹ T."
+      },
+      {
+        "letter": "D",
+        "text": "2 × 10⁻² T."
+      },
+      {
+        "letter": "E",
+        "text": "2 × 10⁰ T."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A distância percorrida pela barra é x = v×t = 5×0,006 = 0,03 m = 3 cm. A força da mola nessa posição é F = kx = 5×10⁻² N/cm × 3 cm = 0,15 N, que deve se igualar à força magnética F = BiL: 0,15 = B×6×0,05 = 0,3B, logo B = 0,5 T = 5×10⁻¹ T — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
