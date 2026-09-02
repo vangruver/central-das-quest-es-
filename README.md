@@ -49,11 +49,20 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-Este projeto começou com a infraestrutura completa do site e um primeiro lote real de **18 questões do ENEM 2024**, cobrindo as quatro áreas (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) em várias matérias e tópicos, para validar a estrutura de ponta a ponta (filtros, gabarito comentado, modo online e impressão em PDF).
+O banco já tem **36 questões reais do ENEM (18 de 2022 + 18 de 2024)**, cobrindo as quatro áreas (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) em 12 matérias e mais de 20 tópicos diferentes.
 
 **Ainda faltam:**
-- Mais anos do ENEM (o objetivo é cobrir 2008 em diante).
-- Todo o banco da UERJ (Exame de Qualificação e Exame Discursivo) — a estrutura de dados já está pronta em `data/questions/uerj.json`, mas está vazia.
+- Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2021 e 2023, 2025).
+- Todo o banco da UERJ (Exame de Qualificação e Exame Discursivo) — a estrutura de dados já está pronta em `data/questions/uerj.json`, mas está vazia. Não foi possível, até agora, acessar uma fonte oficial ou um espelho confiável das provas da UERJ a partir do ambiente onde este projeto é mantido (ver nota abaixo).
+
+### Por que faltam anos e a UERJ inteira
+
+O ambiente usado para montar este banco tem acesso à internet bastante restrito (política de rede da sessão): só é possível alcançar conteúdo hospedado no GitHub (`github.com`/`raw.githubusercontent.com`) e alguns poucos serviços de infraestrutura (ex.: Google Cloud Storage). Domínios como `gov.br`, `inep.gov.br`, `vestibular.uerj.br` e a maioria dos sites de terceiros (cursinhos, notícias, etc.) estão bloqueados nesse ambiente. Por isso:
+
+- As 36 questões do ENEM foram obtidas de um dataset aberto hospedado no GitHub que reproduz fielmente o texto oficial dos cadernos do INEP (2022 e 2024) — não foram inventadas.
+- Não foi encontrado, até agora, nenhum espelho equivalente para a UERJ.
+
+**Se você tiver acesso às provas da UERJ (PDF oficial ou uma cópia do texto)**, pode colá-las diretamente nesta conversa/repositório que elas são processadas e adicionadas ao banco no mesmo formato — sem precisar de acesso à internet.
 
 A expansão é feita em lotes: novas questões podem ser adicionadas diretamente nos arquivos JSON acima, seguindo o formato descrito, sem precisar mexer no HTML/CSS/JS.
 

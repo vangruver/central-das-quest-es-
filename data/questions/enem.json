@@ -376,5 +376,383 @@
     "annulled": false,
     "explanation": "Há dois lados de comprimento L (a 20 reais o metro) e dois de comprimento C (a 15 reais o metro), então o custo total é 2(20L) + 2(15C) = 40L + 30C = 6.000, ou seja, 4L + 3C = 600, logo C = (600 − 4L)/3. A área é A(L) = L·C = L(600 − 4L)/3 = (600L − 4L²)/3, uma função quadrática de L com concavidade para baixo — seu máximo ocorre no vértice, em L = −b/(2a) com a = −4/3 e b = 200 (coeficientes de A(L) = −4/3·L² + 200L), ou seja, L = 200/(2×4/3) = 75. Substituindo: C = (600 − 300)/3 = 100. Como C = 100 > L = 75, o maior lado do galinheiro mede 100 metros, alternativa B.",
     "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q02",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": ["Interpretação de Texto em Língua Espanhola"],
+    "statement": "## Los niños de nuestro olvido\n\nEscribo sobre un destino que apenas puedo tocar\nen tanto un niño se inventa con pegamento un hogar\nMientras busco las palabras para hacer esta canción\nun niño esquiva las balas que buscan su corazón\nAcurrucado en mi calle duerme un niño\ny la piedad arma lejos un pesebre y juega a la navidad\n[...]\nLa niñez de nuestro olvido pide limosna en un bar\ny lava tu parabrisas por un peso, por un pan\nSi las flores del futuro crecen con tanto dolor\nseguramente mañana será un mañana sin sol\n\nSOSA, M. In: Corazón libre. Argentina: E.D.G.E., 2004 (fragmento).\n\nEsse fragmento de canção denuncia a",
+    "alternatives": [
+      { "letter": "A", "text": "descaso diante da problemática de crianças em situação de rua." },
+      { "letter": "B", "text": "violência característica do cotidiano das grandes metrópoles." },
+      { "letter": "C", "text": "estímulo à mendicância nos centros urbanos." },
+      { "letter": "D", "text": "tendência de informalização do trabalho." },
+      { "letter": "E", "text": "falta de serviços de saúde adequados." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A letra descreve crianças que constroem um “lar” com cola, esquivam de balas, dormem encolhidas na rua e pedem esmola/lavam para-brisas por comida — cenas de abandono social e infantil. O verso final, sombrio (“um amanhã sem sol”), reforça a crítica a uma sociedade que ignora essas crianças. O tema central, portanto, é o descaso diante de crianças em situação de rua, alternativa A. As demais alternativas recortam apenas um detalhe da cena (mendicância, violência, trabalho informal, saúde) sem captar o eixo da denúncia, que é justamente a negligência social com a infância vulnerável.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q13",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Semântica e Figuras de Linguagem"],
+    "statement": "PALAVRA\n\nAs gramáticas classificam as palavras em substantivo, adjetivo, verbo, advérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as palavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso ter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se coloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas, fazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme. A palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro corre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo e alma, mas são diferentes das pessoas em vários pontos. As palavras dizem o que querem, está dito, e pronto.\n\nFALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013 (adaptado).\n\nNesse texto, seu autor",
+    "alternatives": [
+      { "letter": "A", "text": "tematiza o fazer poético, como em “Os poetas classificam as palavras pela alma”." },
+      { "letter": "B", "text": "utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma”." },
+      { "letter": "C", "text": "valoriza a gramática da língua, como em “substantivo, adjetivo, verbo, advérbio, conjunção”." },
+      { "letter": "D", "text": "estabelece comparações, como em “As palavras têm corpo e alma, mas são diferentes das pessoas”." },
+      { "letter": "E", "text": "apresenta informações pertinentes acerca do conceito de “palavra”, como em “As gramáticas classificam as palavras”." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao afirmar que “as palavras têm corpo e alma” e que “a palavra nuvem chove”, “a palavra triste chora”, o autor atribui às palavras características humanas/físicas de forma não literal — isso é justamente uma metáfora, recurso expressivo que aproxima dois campos de sentido distintos (palavra e ser vivo) sem usar conectivo comparativo. Por isso a alternativa B é a correta. A opção D erra ao chamar esse mesmo trecho de “comparação”, que exigiria um conectivo explícito (como/tal qual), o que não ocorre; as demais alternativas descrevem elementos presentes no texto (tema do fazer poético, menção à gramática, informações sobre palavra), mas não identificam o recurso linguístico predominante pedido pela questão.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q22",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Variação Linguística"],
+    "statement": "## O complexo de falar difícil\n\nO que importa realmente é que o(a) detentor(a) do notável saber jurídico saiba quando e como deve fazer uso desse português versão 2.0, até porque não tem necessidade de alguém entrar numa padaria de manhã com aquela cara de sono falando o seguinte: “Por obséquio, Vossa Senhoria teria a hipotética possibilidade de estabelecer com minha pessoa uma relação de compra e venda [...] para que seja possível a obtenção de 10 pãezinhos [...]?”.\n\nO problema é que temos uma cultura de valorizar quem demonstra ser inteligente ao invés de valorizar quem é. [...] 99,9% das pessoas que estivessem na padaria iriam ficar boquiabertas se alguém fizesse uso das palavras que eu disse acima em plenas 7 da manhã em vez de dizer: “Bom dia! O senhor poderia me vender cinco reais de pão francês?”.\n\n[...] Falar difícil é fazer uso do simples, mas com coerência e coesão, deixar tudo amarradinho gramaticalmente falando. [...] É claro que em alguns momentos não temos como fugir do português rebuscado, do juridiquês propriamente dito, como no caso de documentos jurídicos, entre outros.\n\nARAÚJO, H. Disponível em: www.diariojurista.com. Acesso em: 20 nov. 2021 (adaptado).\n\nNesse texto, o autor evidencia a necessidade de",
+    "alternatives": [
+      { "letter": "A", "text": "se ter um notável saber jurídico." },
+      { "letter": "B", "text": "valorização da inteligência do falante." },
+      { "letter": "C", "text": "falar difícil para demonstrar inteligência." },
+      { "letter": "D", "text": "coesão e da coerência em documentos jurídicos." },
+      { "letter": "E", "text": "adequação da linguagem à situação de comunicação." }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto contrasta uma fala artificialmente rebuscada (usada, de forma inadequada, para comprar pão numa padaria) com a fala simples e direta apropriada a essa situação, e reconhece que o “português rebuscado” tem seu lugar em contextos específicos (documentos jurídicos). Ou seja, o critério defendido pelo autor não é “falar difícil” nem “falar simples” em si, mas usar o registro adequado a cada situação de comunicação — isso é adequação linguística, alternativa E. As alternativas A, B e C tomam como valor exatamente aquilo que o texto critica (o prestígio do “falar difícil” fora de contexto), e D restringe a coesão/coerência apenas aos documentos jurídicos, quando o texto defende essas qualidades para qualquer registro, inclusive o coloquial.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q42",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Semântica e Figuras de Linguagem", "Variação Linguística"],
+    "statement": "TEXTO I\n\nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.\n\nFIORIN, J. L. Língua, modernidade e tradição. Diversitas, n. 2, mar.-set. 2014.\n\nTEXTO II\n\nAs expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.\n\nDisponível em: https://brasil.elpais.com. Acesso em: 22 maio 2018.\n\nO texto II exemplifica um(a)",
+    "alternatives": [
+      { "letter": "A", "text": "expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas." },
+      { "letter": "B", "text": "ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua." },
+      { "letter": "C", "text": "mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional." },
+      { "letter": "D", "text": "processo de incorporação de preconceitos que são recorrentes na história de uma sociedade." },
+      { "letter": "E", "text": "recurso de expressão marcado pela objetividade que se requer na comunicação diária." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Texto I afirma que a língua não apenas nomeia, mas classifica a realidade a partir das experiências de um povo — ou seja, o léxico carrega a visão de mundo (inclusive os preconceitos) de quem fala. O Texto II ilustra exatamente isso: expressões corriqueiras (“dia negro”, “ovelha negra”, “magia negra”) associam a cor negra a sentidos negativos, incorporando à língua um preconceito racial historicamente construído. Isso corresponde à alternativa D. As demais alternativas descrevem processos linguísticos neutros (nomear realidades novas, herdar formas do idioma, buscar objetividade), que não captam o viés discriminatório apontado no Texto II.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q46",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": ["Filosofia Antiga e Medieval"],
+    "statement": "Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios propriamente ditos, pelos quais aqueles são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio.\n\nSIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996.\n\nO texto de Simplício, ao expor a physis em Empédocles,",
+    "alternatives": [
+      { "letter": "A", "text": "exalta a investigação filosófica." },
+      { "letter": "B", "text": "transcende ao mundo sensível." },
+      { "letter": "C", "text": "evoca a discussão cosmogônica." },
+      { "letter": "D", "text": "fundamenta as paixões humanas." },
+      { "letter": "E", "text": "corresponde à explicação mitológica." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como filósofo pré-socrático, Empédocles busca explicar racionalmente a origem e a formação do mundo físico (a physis) a partir de princípios materiais (os quatro elementos) e forças que os movem (Amor e Ódio) — é uma investigação sobre a origem e a constituição do cosmos, ou seja, uma discussão cosmogônica, alternativa C. Não se trata de uma explicação mitológica (E), pois os pré-socráticos são caracterizados justamente pela ruptura com explicações mítico-religiosas em favor de princípios racionais/naturais; também não “transcende ao mundo sensível” (B), já que os quatro elementos são materiais, nem se resume a “fundamentar paixões humanas” (D), que é, no máximo, uma metáfora lateral do texto (Amor/Ódio como forças cósmicas, não emoções humanas).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q47",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": ["Geografia Urbana"],
+    "statement": "Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no número de empregos, ocupação desordenada de determinadas regiões da cidade e estigmatização de estratos sociais, que comprometem substancialmente a segurança pública urbana.\n\nSANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp, 2004.\n\nUma consequência da situação descrita no texto é o(a)",
+    "alternatives": [
+      { "letter": "A", "text": "Limitação da área ocupada." },
+      { "letter": "B", "text": "Êxodo da população do campo." },
+      { "letter": "C", "text": "Ampliação do risco habitacional." },
+      { "letter": "D", "text": "Deficiência do transporte alternativo." },
+      { "letter": "E", "text": "Crescimento da taxa de fecundidade." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto descreve a macrocefalia urbana como concentração de atividades econômicas em poucas metrópoles, gerando “redirecionamento e convergência de fluxos migratórios”. Esse fenômeno é historicamente associado, no Brasil e em outros países subdesenvolvidos, ao êxodo rural: a população do campo migra para as grandes cidades atrás de emprego e oportunidades concentradas nelas, alternativa B. As demais alternativas (limitação de área ocupada, ampliação do risco habitacional, deficiência de transporte, crescimento da fecundidade) podem até ocorrer em contextos urbanos, mas não são a consequência direta apontada pelo texto para a concentração econômica e o fluxo migratório que ele descreve.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q49",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Colonização da América"],
+    "statement": "Quando os espanhóis chegaram à América, estava em seu apogeu o império teocrático dos Incas, que estendia seu poder sobre o que hoje chamamos Peru, Bolívia e Equador, abarcava parte da Colômbia e do Chile e alcançava até o norte argentino e a selva brasileira; a confederação dos Astecas tinha conquistado um alto nível de eficiência no vale do México, e no Yucatán, na América Central, a esplêndida civilização dos Maias persistia nos povos herdeiros, organizados para o trabalho e para a guerra. Os Maias tinham sido grandes astrônomos, mediram o tempo e o espaço com assombrosa precisão, e tinham descoberto o valor do número zero antes de qualquer povo da história. No museu de Lima, podem ser vistos centenas de crânios que receberam placas de ouro e prata por parte dos cirurgiões Incas.\n\nGALEANO, E. As veias abertas da América Latina. Porto Alegre: L&PM, 2012.\n\nOs povos americanos mencionados no texto, antes da chegada dos europeus, já haviam desenvolvido",
+    "alternatives": [
+      { "letter": "A", "text": "bens religiosos inspirados na matriz cristã." },
+      { "letter": "B", "text": "materiais bélicos pilhados em batalhas coloniais." },
+      { "letter": "C", "text": "heranças culturais constituídas em saberes próprios." },
+      { "letter": "D", "text": "costumes laborais moldados em estilos estrangeiros." },
+      { "letter": "E", "text": "práticas medicinais alicerçadas no conhecimento científico." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto enumera conquistas culturais autônomas dos povos pré-colombianos — astronomia e o conceito do número zero entre os Maias, cirurgias cranianas sofisticadas entre os Incas —, todas anteriores à chegada dos europeus. Isso evidencia que essas civilizações desenvolveram heranças culturais e saberes próprios, não importados ou inspirados na cultura europeia, o que torna a alternativa C correta. As demais alternativas erram ao atribuir essas conquistas a uma origem europeia ou colonial (matriz cristã, estilos estrangeiros) ou ao classificá-las de forma anacrônica (“conhecimento científico” nos moldes ocidentais, materiais “pilhados” de batalhas coloniais que ainda nem haviam ocorrido nesse contexto pré-colombiano).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q54",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Idade Moderna"],
+    "statement": "TEXTO I\n\nManda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar nos réus maçãs, pedras, laranjas nem outra coisa qualquer.\n\nPALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).\n\nO documento revela que a Inquisição, ao regular o comportamento da população durante o auto de fé, buscava",
+    "alternatives": [
+      { "letter": "A", "text": "abrandar cerimônias de punição." },
+      { "letter": "B", "text": "favorecer anseios de violência." },
+      { "letter": "C", "text": "criticar políticas de disciplina." },
+      { "letter": "D", "text": "produzir padrões de conduta." },
+      { "letter": "E", "text": "ordenar cultos de heresia." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O edital regula minuciosamente o comportamento da população durante o auto de fé: proíbe obstruir as ruas, atravessar a procissão e agredir os réus com objetos. Isso mostra a Inquisição atuando não só sobre os acusados, mas sobre toda a população, impondo regras de conduta pública para a cerimônia — ou seja, produzindo padrões de comportamento socialmente aceitos, alternativa D. Não se trata de abrandar a punição (A, já que o castigo/auto de fé continua ocorrendo), nem de favorecer violência (B, o texto proíbe agressões aos réus), criticar a disciplina (C, o texto É a imposição da disciplina) ou ordenar heresias (E, a Inquisição combate, não ordena, heresias).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q101",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 101,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": ["Fisiologia Humana"],
+    "statement": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).\n\nA molécula produzida a partir dessa pesquisa é capaz de auxiliar no tratamento de doentes em risco de formar coágulos, com a finalidade de",
+    "alternatives": [
+      { "letter": "A", "text": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral." },
+      { "letter": "B", "text": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue." },
+      { "letter": "C", "text": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos." },
+      { "letter": "D", "text": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções." },
+      { "letter": "E", "text": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto descreve uma molécula derivada do veneno da cascavel — naturalmente associado a hemorragias — capaz de modular (regular) a coagulação sanguínea. Um fármaco que module a coagulação pode ser usado tanto para ajudar o sangue a coagular quanto, terapeuticamente, para o efeito oposto: evitar a formação excessiva de coágulos (trombos), que é a causa de eventos graves como o acidente vascular cerebral (AVC) de origem trombótica. Por isso, A é a alternativa correta. As demais alternativas (anemia, urticária, linfonodos, pressão arterial) não têm relação direta com o mecanismo de coagulação sanguínea descrito no texto.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q116",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 116,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": ["Evolução"],
+    "statement": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir:\n\nEspécie 1 – As fêmeas produzem cerca de 5.000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre, nesse ambiente, independente dos pais.\n\nEspécie 2 – As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos-d’água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento.\n\nEspécie 3 – As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d’água e aí se desenvolvem até a eclosão.\n\nEspécie 4 – As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.\n\nA análise comparativa dos padrões reprodutivos dessas espécies indica que",
+    "alternatives": [
+      { "letter": "A", "text": "as fêmeas influenciam o comportamento dos machos." },
+      { "letter": "B", "text": "o cuidado parental é necessário para o desenvolvimento." },
+      { "letter": "C", "text": "o grau de evolução determina o comportamento reprodutivo." },
+      { "letter": "D", "text": "o sucesso reprodutivo pode ser garantido por estratégias diferentes." },
+      { "letter": "E", "text": "o ambiente induz modificação na produção do número de gametas femininos." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As quatro espécies alcançam a reprodução bem-sucedida por caminhos muito diferentes: uma aposta em produzir milhares de gametas sem qualquer cuidado parental (estratégia quantitativa), enquanto outras produzem poucos gametas, mas investem em proteção ativa dos embriões pelos machos (estratégia de cuidado parental). Isso mostra que não existe uma única “receita” evolutiva de sucesso reprodutivo — diferentes estratégias, adaptadas a diferentes pressões ambientais, podem funcionar igualmente bem, alternativa D. A opção B está incorreta porque a Espécie 1 se desenvolve sem qualquer cuidado parental; C está incorreta porque a teoria da evolução não estabelece uma hierarquia linear de “graus” entre espécies atuais.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q105",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 105,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": ["Eletricidade"],
+    "statement": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V.\n\nUma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição, e que a resistência da lâmpada não se altera.\n\nNessa nova configuração, qual é a intensidade da corrente elétrica que passa a percorrer o circuito da lanterna?",
+    "alternatives": [
+      { "letter": "A", "text": "0,25 A" },
+      { "letter": "B", "text": "0,33 A" },
+      { "letter": "C", "text": "0,75 A" },
+      { "letter": "D", "text": "1,00 A" },
+      { "letter": "E", "text": "1,33 A" }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Em funcionamento normal, a lâmpada tem P = 4,5 W e V = 4,5 V, logo sua corrente nominal é I = P/V = 1 A e sua resistência é R = V/I = 4,5 Ω. Com as três pilhas corretas em série, a f.e.m. total seria 3 × 1,5 = 4,5 V — consistente com a tensão nominal da lâmpada. Ao inverter uma pilha, ela passa a se opor às outras duas: a f.e.m. total do circuito cai para 1,5 + 1,5 − 1,5 = 1,5 V (duas pilhas “ajudando”, uma “atrapalhando”). Já a resistência interna das três pilhas continua se somando normalmente (a resistência não depende da polaridade): r_total = 3 × 0,5 = 1,5 Ω. A corrente do circuito é então I = f.e.m. total / (r_total + R_lâmpada) = 1,5 / (1,5 + 4,5) = 1,5/6 = 0,25 A. Alternativa A.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q121",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 121,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": ["Mecânica"],
+    "statement": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.\n\nComparando a colisão do carro com a barreira de pneus e com a barreira de blocos deformáveis, conclui-se que:",
+    "alternatives": [
+      { "letter": "A", "text": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos." },
+      { "letter": "B", "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus." },
+      { "letter": "C", "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações." },
+      { "letter": "D", "text": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus." },
+      { "letter": "E", "text": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pelo teorema do impulso, a força média numa colisão é proporcional à variação da quantidade de movimento (F ∝ Δp), para um mesmo intervalo de tempo (o enunciado diz que as duas colisões duram o mesmo tempo). Na barreira de pneus, o carro é rebatido de volta (muda de sentido), então sua variação de velocidade — e de momento — é maior em módulo do que na barreira de blocos, em que o carro apenas para (não inverte o sentido). Logo, a força é maior na colisão com a barreira de pneus. Já a energia dissipada é justamente a energia cinética que “some” na colisão: como na barreira de pneus o carro retorna com parte da velocidade (parte da energia cinética é conservada no ricochete), sobra menos energia dissipada; na barreira de blocos, o carro não retorna, então praticamente toda a energia cinética é dissipada. Isso corresponde exatamente à alternativa A.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q109",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 109,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": ["Química Geral e Inorgânica"],
+    "statement": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO₃) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
+    "alternatives": [
+      { "letter": "A", "text": "H₂" },
+      { "letter": "B", "text": "O₂" },
+      { "letter": "C", "text": "CO₂" },
+      { "letter": "D", "text": "CO" },
+      { "letter": "E", "text": "Cl₂" }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O carbonato de cálcio (mármore) reage com o ácido clorídrico segundo a equação CaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂. O gás liberado, com efervescência visível e liberação de calor (reação exotérmica), é o dióxido de carbono, CO₂ — o mesmo princípio usado, por exemplo, para identificar rochas calcárias em campo com um pingo de ácido. Alternativa C. As demais opções (H₂, O₂, CO, Cl₂) não correspondem aos produtos dessa reação ácido-carbonato.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Alternativas com subíndices restaurados a partir do original (a extração de texto do PDF fonte corrompeu os subíndices químicos)." }
+  },
+  {
+    "id": "enem-2022-q126",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 126,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": ["Química Orgânica"],
+    "statement": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos.\n\nForam analisadas cinco amostras de diferentes tipos de cana-de-açúcar, com os seguintes dados de concentração inicial de sacarose e de microrganismos presentes:\n\n• RB72: 13,0 g/L de sacarose; 0,7 mg/L de microrganismos\n• RB84: 18,0 g/L de sacarose; 0,8 mg/L de microrganismos\n• RB92: 16,0 g/L de sacarose; 0,6 mg/L de microrganismos\n• SP79: 14,0 g/L de sacarose; 0,5 mg/L de microrganismos\n• SP80: 17,0 g/L de sacarose; 0,9 mg/L de microrganismos\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg/L de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\n\nA amostra de cana-de-açúcar que deve ser escolhida é a",
+    "alternatives": [
+      { "letter": "A", "text": "RB72" },
+      { "letter": "B", "text": "RB84" },
+      { "letter": "C", "text": "RB92" },
+      { "letter": "D", "text": "SP79" },
+      { "letter": "E", "text": "SP80" }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A concentração final de sacarose após 10h é aproximadamente a concentração inicial multiplicada por (1/2) elevado à concentração de microrganismos (cada 1,0 mg/L de microrganismos reduz a concentração à metade). Calculando para cada amostra: RB72 ≈ 13,0 × 0,5^0,7 ≈ 8,0 g/L; RB84 ≈ 18,0 × 0,5^0,8 ≈ 10,3 g/L; RB92 ≈ 16,0 × 0,5^0,6 ≈ 10,6 g/L; SP79 ≈ 14,0 × 0,5^0,5 ≈ 9,9 g/L; SP80 ≈ 17,0 × 0,5^0,9 ≈ 9,1 g/L. A amostra RB92 é a que retém a maior concentração de sacarose após 10 horas, mesmo não sendo a que tinha mais sacarose inicialmente — porque também tem uma das menores concentrações de microrganismos. Por isso a resposta é a alternativa C.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Alternativas (nomes das amostras) restauradas a partir do original — a extração de texto do PDF fonte embaralhou parte dos rótulos." }
+  },
+  {
+    "id": "enem-2022-q138",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Álgebra"],
+    "statement": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos.\n\nO número escrito pelo estudante foi",
+    "alternatives": [
+      { "letter": "A", "text": "135.000,00" },
+      { "letter": "B", "text": "1.350.000,00" },
+      { "letter": "C", "text": "13.500.000,00" },
+      { "letter": "D", "text": "135.000.000,00" },
+      { "letter": "E", "text": "1.350.000.000,00" }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Um bilhão equivale a 1.000.000.000 (um seguido de nove zeros). Logo, 1,35 bilhão é 1,35 × 1.000.000.000 = 1.350.000.000,00, escrito por extenso com todos os algarismos — alternativa E. As demais alternativas correspondem a outras ordens de grandeza (milhão, dezena de milhão, centena de milhão), um erro comum de quem confunde as casas de “milhão” e “bilhão” ao escrever o número por extenso.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q163",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Análise Combinatória"],
+    "statement": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar.\n\nQuanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• aqueles que finalizam em 1 ou 2: ambos os quartos recebem sol apenas na parte da manhã;\n• aqueles que finalizam em 3, 4, 5 ou 6: apenas um dos quartos recebe sol na parte da manhã;\n• aqueles que finalizam em 7 ou 8: ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+    "alternatives": [
+      { "letter": "A", "text": "9 × [6! / (6 − 2)!]" },
+      { "letter": "B", "text": "9 × [6! / ((6 − 2)! × 2!)]" },
+      { "letter": "C", "text": "9 × [4! / ((4 − 2)! × 2!)]" },
+      { "letter": "D", "text": "9 × [2! / ((2 − 2)! × 2!)]" },
+      { "letter": "E", "text": "9 × {[8! / ((8 − 2)! × 2!)] − 1}" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Só os apartamentos terminados em 1, 2, 3, 4, 5 ou 6 têm pelo menos um quarto com sol da manhã (os terminados em 7 ou 8 não têm nenhum quarto com sol da manhã). Isso dá 6 apartamentos “elegíveis” por andar, de um total de 8. Escolher 2 desses 6 apartamentos, sem importar a ordem, é uma combinação simples: C(6,2) = 6!/((6−2)!×2!) = 15 formas, para CADA um dos 9 andares do prédio (a escolha se repete de forma independente andar a andar, e o exercício soma as possibilidades andar por andar via multiplicação por 9). Isso dá a expressão da alternativa B: 9 × [6!/((6−2)!×2!)].",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2022-q174",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Álgebra"],
+    "statement": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4, mais um dígito verificador N5. Todos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\n\nPara a determinação de N5, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5·N1 + 4·N2 + 3·N3 + 2·N4. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.\n\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0, 1, 0, 0 (nessa ordem). Qual é o dígito verificador N5 dessa agência?",
+    "alternatives": [
+      { "letter": "A", "text": "0" },
+      { "letter": "B", "text": "6" },
+      { "letter": "C", "text": "7" },
+      { "letter": "D", "text": "8" },
+      { "letter": "E", "text": "9" }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com N1=0, N2=1, N3=0 e N4=0: S = 5×0 + 4×1 + 3×0 + 2×0 = 4. O resto da divisão de S=4 por 11 é o próprio 4 (já que 4 < 11), logo R = 4. Então N5 = 11 − R = 11 − 4 = 7. Alternativa C.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Um trecho do enunciado (a fórmula de N5) foi reconstituído a partir do original — a extração de texto do PDF fonte embaralhou um dígito solto na frase." }
+  },
+  {
+    "id": "enem-2022-q176",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 176,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Sequências e Progressões"],
+    "statement": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo (fase de grupos). A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.\n\nConsiderando que o primeiro jogo do torneio ocorra no \"dia 1\" e que cada fase seja disputada o quanto antes possível respeitando essa regra de descanso, o número mínimo de dias, incluindo o dia do primeiro jogo e o dia da final, necessários para a realização de todo o torneio é",
+    "alternatives": [
+      { "letter": "A", "text": "22" },
+      { "letter": "B", "text": "25" },
+      { "letter": "C", "text": "28" },
+      { "letter": "D", "text": "48" },
+      { "letter": "E", "text": "64" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A regra de descanso equivale a um intervalo mínimo de 4 dias entre duas partidas de uma mesma equipe (de domingo a quinta são 4 dias de diferença). Na fase de grupos, cada equipe joga uma única partida por rodada (3 rodadas, uma para cada adversário do grupo), então basta espaçar as 3 rodadas em 4 dias cada uma: rodada 1 no dia 1, rodada 2 no dia 5, rodada 3 no dia 9. A cada fase seguinte (oitavas, quartas, semifinal, final), as equipes que avançam jogam pela primeira vez desde a fase anterior, então cada nova fase também precisa esperar 4 dias após a fase anterior: oitavas no dia 13, quartas no dia 17, semifinal no dia 21, final no dia 25. Contando do dia 1 (primeiro jogo) até o dia 25 (final), inclusive, o torneio inteiro dura 25 dias — alternativa B.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
   }
 ]
