@@ -24907,5 +24907,948 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2023 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
     }
+  },
+  {
+    "id": "enem-2023-q61",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Por trás da 'mágica' do Google Assistant e de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados, que devem rotular tediosamente os dados de treinamento para que funcione. Eles ganham baixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não funciona com um pozinho mágico. Ela funciona por meio de trabalhadores que treinam algoritmos incansavelmente até que eles automatizem seus próprios trabalhos.\n\nA Inteligência Artificial (IA) da economia freelancer está vindo atrás de você. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).\n\nO texto critica a mudança tecnológica em razão da seguinte consequência:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Diversificação da função."
+      },
+      {
+        "letter": "B",
+        "text": "Mobilidade da população."
+      },
+      {
+        "letter": "C",
+        "text": "Autonomia do empregado."
+      },
+      {
+        "letter": "D",
+        "text": "Concentração da produção."
+      },
+      {
+        "letter": "E",
+        "text": "Invisibilidade do profissional."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto denuncia que, por trás da tecnologia de IA aparentemente 'mágica', existe um enorme contingente de trabalhadores subcontratados, mal pagos e não reconhecidos, cujo trabalho é essencial mas fica invisível ao usuário final — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q62",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Enormes alto-falantes sul-coreanos instalados na fronteira com o Norte costumavam transmitir desde canções em estilo K-pop até boletins climáticos e noticiário crítico ao vizinho comunista. O Norte costuma praticar atividade semelhante, transmitindo por seus alto-falantes discursos críticos a Seul e aliados. Durante os anos 1980, o governo sul-coreano construiu um mastro de 97 metros de altura para hastear sua bandeira no povoado de Daesong-dong, na fronteira com o Norte. O Norte respondeu com a construção de um mastro ainda mais alto (160 m) na cidade fronteiriça de Gijung-dong. 'Essas demonstrações são uma válvula de escape competitiva e importante entre os dois lados, fora de um possível conflito militar', diz o analista Ankit Panda.\n\nTAN, Y. Disputa de mastros e alto-falantes com K-pop: as pequenas picuinhas do conflito entre as Coreias. Disponível em: www.bbc.com. Acesso em: 7 nov. 2021 (adaptado).\n\nOs atos de competição citados têm suas origens históricas vinculadas a um contexto de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "domínio cultural-identitário de atores sociais."
+      },
+      {
+        "letter": "B",
+        "text": "disputas étnico-raciais de povos tradicionais."
+      },
+      {
+        "letter": "C",
+        "text": "divergências político-ideológicas de agentes estatais."
+      },
+      {
+        "letter": "D",
+        "text": "imposição econômico-financeira de empresas privadas."
+      },
+      {
+        "letter": "E",
+        "text": "protestos ecológico-sustentáveis de entidades ambientais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As disputas simbólicas entre Coreia do Sul e Coreia do Norte (mastros, alto-falantes) têm origem na divisão da península após a Guerra da Coreia, marcada pelo confronto ideológico entre o capitalismo do Sul e o comunismo do Norte — divergências político-ideológicas entre os dois Estados — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q64",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26: 'O clima está esquentando, os animais estão desaparecendo, os rios estão morrendo e nossas plantações não florescem como no passado. A Terra está falando: ela nos diz que não temos mais tempo.'\n\nVICK, M. Quais são as conquistas do movimento indígena na COP-26. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado).\n\nO discurso da líder indígena explicita um problema global relacionado ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manejo tradicional."
+      },
+      {
+        "letter": "B",
+        "text": "reciclagem residual."
+      },
+      {
+        "letter": "C",
+        "text": "consumo consciente."
+      },
+      {
+        "letter": "D",
+        "text": "exploração predatória."
+      },
+      {
+        "letter": "E",
+        "text": "reaproveitamento energético."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O aquecimento global, o desaparecimento de espécies, a morte dos rios e a queda na produtividade agrícola mencionados no discurso são consequências da exploração predatória dos recursos naturais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q65",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso, que procuram destrinchar uma carreira marcada pela ousadia e pela contradição.\n\nPORTO, W. Lina Bo Bardi tem sua arquitetura contraditória destrinchada em biografias. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).\n\nAs transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "equidade de gênero."
+      },
+      {
+        "letter": "B",
+        "text": "liberdade de expressão."
+      },
+      {
+        "letter": "C",
+        "text": "admissibilidade de voto."
+      },
+      {
+        "letter": "D",
+        "text": "igualdade de oportunidade."
+      },
+      {
+        "letter": "E",
+        "text": "reciprocidade de tratamento."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O apagamento histórico do trabalho de Lina Bo Bardi em favor do reconhecimento dado a seu marido reflete uma desigualdade de gênero típica da época; seu reconhecimento tardio resulta das transformações sociais promovidas pelos movimentos feministas em prol da equidade de gênero — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q66",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "TEXTO I\n\nComo é horrivel ver um filho comer e perguntar: 'Tem mais?' Esta palavra 'tem mais' fica oscilando dentro do cerebro de uma mãe que olha as panelas e não tem mais.\n\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.\n\nTEXTO II\n\nA experiência de ver os filhos com fome na década de 1950, descrita por Carolina, é vivida no Brasil de 2021 por uma moradora de Petrolândia, em Pernambuco. 'Eu trabalhava de ajudante de cabeleireira, mas a moça que tinha o salão fechou. Eu vinha me sustentando com o auxílio que tinha, mas agora eu não fui contemplada. Às vezes as pessoas me ajudam com alimentos para os meus filhos. De vez em quando, eu acho algum bico para fazer, mas é muito raro. Tem dias que não tenho nem o leite da minha bebê.'\n\nCARRANÇA, T. 'Até o feijão nos esqueceu': o livro de 1960 que poderia ter sido escrito nas favelas de 2021. Disponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado).\n\nConsiderando a realidade brasileira, os textos se aproximam ao apresentarem uma reflexão sobre o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recorrência da miséria."
+      },
+      {
+        "letter": "B",
+        "text": "planejamento da saúde."
+      },
+      {
+        "letter": "C",
+        "text": "superação da escassez."
+      },
+      {
+        "letter": "D",
+        "text": "constância da economia."
+      },
+      {
+        "letter": "E",
+        "text": "romantização da carência."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao aproximar o relato de Carolina Maria de Jesus, dos anos 1950, com a situação vivida por uma mulher em 2021, os textos evidenciam que a fome e a miséria continuam se repetindo ao longo das décadas na realidade brasileira — a recorrência da miséria — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q68",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam ponto por ali atrás dos petiscos. Perto da rua lavavam couro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado, e quando a maré secava, os urubus enchiam o papo, ciscavam a lama, passeando banzeiros pelas biqueiras dos mocambos no Recife.\n\nRÊGO, J. L. O moleque Ricardo. Rio de Janeiro: J. Olympio, 1966 (adaptado).\n\nA aglomeração urbana representada no texto resulta em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conservação do meio rural."
+      },
+      {
+        "letter": "B",
+        "text": "crescimento da vegetação ciliar."
+      },
+      {
+        "letter": "C",
+        "text": "interferência do espaço geográfico."
+      },
+      {
+        "letter": "D",
+        "text": "equilíbrio do ambiente das cidades."
+      },
+      {
+        "letter": "E",
+        "text": "controle da proliferação dos animais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A ocupação precária dos mocambos sobre o mangue, com esgoto, curtumes despejando resíduos e peixes envenenados, evidencia uma intensa interferência humana sobre o espaço geográfico natural (o manguezal), degradando o ambiente — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q69",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs estão escondidas por medo de retaliação sob o regime do Talibã. Uma delas condenou centenas de homens por violência contra as mulheres, incluindo estupro, assassinato e tortura. Mas poucos dias depois que o Talibã assumiu o controle de sua cidade e milhares de criminosos condenados foram libertados da prisão, as ameaças de morte começaram. O país sempre foi considerado um dos lugares mais difíceis e perigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 87% das mulheres e meninas serão vítimas de abuso durante a vida.\n\nDisponível em: https://g1.globo.com. Acesso em: 12 out. 2021 (adaptado).\n\nO texto evidencia situação representativa de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "afronta às estruturas sociais."
+      },
+      {
+        "letter": "B",
+        "text": "desprezo aos valores religiosos."
+      },
+      {
+        "letter": "C",
+        "text": "transgressão às normas morais."
+      },
+      {
+        "letter": "D",
+        "text": "desrespeito à dignidade humana."
+      },
+      {
+        "letter": "E",
+        "text": "oposição aos princípios hierárquicos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A perseguição às juízas, a libertação de criminosos condenados por violência contra mulheres e os altos índices de abuso relatados evidenciam um flagrante desrespeito à dignidade humana das mulheres afegãs — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q70",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "No cemitério, a sociedade religiosa encarregada do funeral, aterrorizada, apressou a cerimônia de tal forma que a mãe de Herzog perdeu o momento em que o caixão do filho começou a ser coberto pela terra. Quatro jornalistas que estavam presos no DOI chegaram para assistir ao sepultamento. Um se afastara, chorando. Dizia: Eles matam, eles matam! Não pergunte nada. Não podemos dizer nada. Eles matam mesmo. [...] O primeiro discurso, da atriz Ruth Escobar: Até quando vamos suportar tanta violência? Até quando vamos continuar enterrando nossos mortos em silêncio?\n\nGASPARI, E. A ditadura encurralada. São Paulo: Cia. das Letras, 2004.\n\nO acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a seguinte característica do regime político-institucional vigente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Incorporação da estética popular para justificar o ideal de integração nacional."
+      },
+      {
+        "letter": "B",
+        "text": "Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica."
+      },
+      {
+        "letter": "C",
+        "text": "Institucionalização de mecanismos repressivos para eliminar os focos de resistência."
+      },
+      {
+        "letter": "D",
+        "text": "Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores."
+      },
+      {
+        "letter": "E",
+        "text": "Estatização de meios de comunicação para selecionar a divulgação de atos governamentais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O assassinato do jornalista Vladimir Herzog nas dependências do DOI-CODI, e o clima de terror relatado ('eles matam mesmo'), evidenciam a institucionalização de mecanismos repressivos (prisão, tortura, morte) usados pela ditadura militar para eliminar opositores e vozes de resistência — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q71",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.\n\nOLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. Terra Livre, n. 26, jan.-jun. 2006 (adaptado).\n\nNa visão do autor, o problema central da situação descrita é desencadeado pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apropriação de áreas devolutas."
+      },
+      {
+        "letter": "B",
+        "text": "sonegação de impostos federais."
+      },
+      {
+        "letter": "C",
+        "text": "incorporação de exportação ilegal."
+      },
+      {
+        "letter": "D",
+        "text": "desoneração de setores produtivos."
+      },
+      {
+        "letter": "E",
+        "text": "flexibilização de legislação ambiental."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O autor identifica o 'tripé grileiros, madeireiros e pecuaristas' como a lógica central do desmatamento; a grilagem consiste justamente na apropriação ilegal de áreas devolutas (terras públicas não tituladas) na Amazônia — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q72",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "TEXTO I\n\nPor hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios, e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes.\n\nORLANDO, G. Corrida espacial dos bilionários pode trazer vantagens para todos. Disponível em: https://noticias.r7.com. Acesso em: 5 nov. 2021 (adaptado).\n\nTEXTO II\n\nUma charge mostra bilionários chegando ao espaço em um foguete e anunciando 'BILIONÁRIOS LANÇAM NOVA ERA DE VIAGENS AO ESPAÇO... VIEMOS EM PAZ!', enquanto um observador cético comenta: 'ACREDITE EM MIM. NÃO CONFIE NESSE PESSOAL!'\n\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.\n\nOs textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Dependência e progresso."
+      },
+      {
+        "letter": "B",
+        "text": "Expectativa e desconfiança."
+      },
+      {
+        "letter": "C",
+        "text": "Angústia e adaptação."
+      },
+      {
+        "letter": "D",
+        "text": "Pioneirismo e retrocesso."
+      },
+      {
+        "letter": "E",
+        "text": "Receio e civilidade."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Texto I apresenta uma visão otimista, de expectativa quanto aos benefícios tecnológicos futuros da corrida espacial privada; o Texto II, por meio do humor da charge, expressa desconfiança em relação às reais intenções dos bilionários envolvidos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q75",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo 'mulambo imundo', em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.\n\nQual mudança no comportamento social a proposta reportada no texto reflete?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Rejeição de costumes elitistas."
+      },
+      {
+        "letter": "B",
+        "text": "Repulsão de condutas misóginas."
+      },
+      {
+        "letter": "C",
+        "text": "Condenação do preconceito racial."
+      },
+      {
+        "letter": "D",
+        "text": "Criminalização de práticas homofóbicas."
+      },
+      {
+        "letter": "E",
+        "text": "Contestação do comportamento machista."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao pedir a retirada de um termo de origem escravista e racista da letra do hino da torcida, o movimento reflete uma crescente condenação social ao preconceito racial e à linguagem herdada da escravidão — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q76",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Dados do IBGE mostram a taxa de fecundidade no Brasil caindo de 6,3 filhos por mulher, em 1960, para 1,5 filho por mulher, em 2020, com projeção de manter-se em torno de 1,5 nas décadas seguintes.\n\nDisponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).\n\nQual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Flexibilização legal da prática de aborto."
+      },
+      {
+        "letter": "B",
+        "text": "Envelhecimento da população brasileira."
+      },
+      {
+        "letter": "C",
+        "text": "Crescimento dos casos de gravidez precoce."
+      },
+      {
+        "letter": "D",
+        "text": "Participação feminina no mercado de trabalho."
+      },
+      {
+        "letter": "E",
+        "text": "Diminuição dos benefícios na licença-maternidade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A crescente inserção da mulher no mercado de trabalho, associada ao acesso à educação e a métodos contraceptivos, é o principal fator explicativo da forte queda da taxa de fecundidade no Brasil entre 1960 e 2020 — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q77",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "Havia já muito tempo que a Europa desfrutava os benefícios da vacina e arrancava à morte milhares de inocentes, condenados a serem vítimas do terrível flagelo das bexigas, e o governo de Portugal nunca se lembrara de transmitir ao Brasil a mais útil das descobertas humanas, quando aliás nenhum país mais do que ele carecia deste salutar invento ou se atendesse às vantagens da população ou ao perdimento de imensas somas na mortandade contínua de escravos, que este flagelo devorava. O certo é que mais ocupado de seu ouro que de seus habitantes, Portugal, como em outros muitos casos, esperou que o Brasil por seu próprio impulso remediasse a este mal.\n\nPEREIRA, J. C. 12 jan. 1828 apud LOPES, M. B.; POLITO, R. Para uma história da vacina no Brasil: um manuscrito inédito de Norberto e Macedo. História, Ciências, Saúde — Manguinhos, n. 2, abr.-jun. 2007 (adaptado).\n\nEscrito em 1828, o texto expressa a seguinte ideia de origem iluminista:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "As leis observáveis regem o mundo material."
+      },
+      {
+        "letter": "B",
+        "text": "O monarca racional promove a sociedade justa."
+      },
+      {
+        "letter": "C",
+        "text": "O direito natural justifica a liberdade dos homens."
+      },
+      {
+        "letter": "D",
+        "text": "A produção da terra garante a riqueza das nações."
+      },
+      {
+        "letter": "E",
+        "text": "A responsabilidade dos governantes assegura a saúde dos povos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao criticar Portugal por não ter levado a vacina contra a varíola ao Brasil, priorizando o ouro em vez do bem-estar de seus habitantes, o texto expressa a ideia iluminista de que cabe aos governantes a responsabilidade de zelar pela saúde da população — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q78",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próprios costumes, como — e cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais, sem nenhuma referência anterior com o campo, passam a se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo o percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.\n\nPORTILHO, M.; RODRIGUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no arranjo local da Penha: a mobilização de mulheres a partir das práticas de agricultura urbana na favela. Cidades, Comunidades e Territórios, n. 42, jun. 2021.\n\nA prática agrícola destacada no texto apresenta como vantagem no espaço urbano a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ocupação de lugares ociosos."
+      },
+      {
+        "letter": "B",
+        "text": "densificação da área central."
+      },
+      {
+        "letter": "C",
+        "text": "valorização do mercado externo."
+      },
+      {
+        "letter": "D",
+        "text": "priorização de insumos químicos."
+      },
+      {
+        "letter": "E",
+        "text": "mecanização de técnicas de cultivo."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A agricultura urbana aproveita espaços vazios e subutilizados dentro da cidade (quintais, lotes, terrenos ociosos) para produção de alimentos, aproximando produtores e consumidores — vantagem que é a ocupação de lugares ociosos — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q79",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "TEXTO I\n\nGerineldo dorme porque já está conformado com o seu mundo. Porque já sabe tudo o que lhe pode acontecer após haver submetido todos os objetos que o rodeiam a um minucioso inventário de possibilidades. Seu apartamento, mais que um apartamento, é uma teoria de sorte e de azar. Melhor que ninguém, Gerineldo conhece o coeficiente da dilatação de suas janelas e mantém marcado no termômetro, com uma linha vermelha, o ponto em que se quebrarão os vidros, despedaçados em estilhaços de morte. Sabe que os arquitetos e os engenheiros já previram tudo, menos o que nunca já aconteceu.\n\nMÁRQUEZ, G. G. O pessimista. In: Textos do Caribe. Rio de Janeiro: Record, 1981.\n\nTEXTO II\n\nA situação é o sujeito inteiro (ele não é nada a não ser a sua situação) e é também a coisa inteira (nunca há mais nada senão as coisas). É o sujeito a elucidar as coisas pela sua própria superação, se assim quisermos; ou são as coisas a reenviar ao sujeito a imagem dele. É a total facticidade, a contingência absoluta do mundo, do meu nascimento, do meu lugar, do meu passado, dos meus redores — e é a minha liberdade sem limites que faz com que haja para mim uma facticidade.\n\nSARTRE, J.-P. O ser e o nada: ensaio de ontologia fenomenológica. Petrópolis: Vozes, 1997 (adaptado).\n\nA postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida no pensamento filosófico de Sartre porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "evidencia a manifestação do inconsciente."
+      },
+      {
+        "letter": "B",
+        "text": "nega a possibilidade de transcendência."
+      },
+      {
+        "letter": "C",
+        "text": "contraria o conhecimento difuso."
+      },
+      {
+        "letter": "D",
+        "text": "sustenta a fugacidade da vida."
+      },
+      {
+        "letter": "E",
+        "text": "refuta a evolução biológica."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Gerineldo acredita ter previsto e calculado tudo o que pode lhe acontecer, negando qualquer abertura ao imprevisível — postura oposta à liberdade sartriana, que afirma a capacidade do sujeito de se superar e transcender sua própria situação (facticidade) a cada momento — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q81",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "A economia das ilegalidades se reestruturou com o desenvolvimento da sociedade capitalista. A ilegalidade dos bens foi separada da ilegalidade dos direitos. Divisão que corresponde a uma oposição de classes, pois, de um lado, a ilegalidade mais acessível às classes populares será a dos bens — transferência violenta das propriedades; de outro, à burguesia, então, se reservará a ilegalidade dos direitos: a possibilidade de desviar seus próprios regulamentos e suas próprias leis; e essa grande redistribuição das ilegalidades se traduzirá até por uma especialização dos circuitos judiciários; para as ilegalidades de bens — para o roubo — os tribunais ordinários e os castigos; para as ilegalidades de direitos — fraudes, evasões fiscais, operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc.\n\nFOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.\n\nO texto apresenta uma relação de cálculo político-econômico que caracteriza o poder punitivo por meio da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gestão das ilicitudes pelo sistema judicial."
+      },
+      {
+        "letter": "B",
+        "text": "aplicação das sanções pelo modelo equânime."
+      },
+      {
+        "letter": "C",
+        "text": "supressão dos crimes pela penalização severa."
+      },
+      {
+        "letter": "D",
+        "text": "regulamentação dos privilégios pela justiça social."
+      },
+      {
+        "letter": "E",
+        "text": "repartição de vantagens pela hierarquização cultural."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Foucault demonstra que o sistema judicial administra de forma desigual as diferentes ilegalidades: tribunais comuns e punições severas para crimes das classes populares (roubo), e jurisdições especiais mais brandas para os ilícitos da burguesia (fraudes, evasões) — uma gestão diferenciada das ilicitudes pelo sistema judicial — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q82",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mala postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano buscando por notícias de filhos e pais, irmãos, maridos e esposas, noivos e noivas. As missivas traziam boas e más novas, comunicavam alegremente nascimentos e casamentos, também doenças e mortes; enviavam declarações de amor e fidelidade, fotos de família; encaminhavam conselhos de velhos, pedidos de ajuda e de dinheiro; expediam cartas bancárias e de chamada. Essa literatura epistolar possibilitava a transmissão e reconstrução das tradições. Os deslocamentos tornaram-se um dos mais potentes produtores de escritura ao longo da história.\n\nTRUZZI, O.; MATOS, I. Saudades: sensibilidades no epistolário de e/imigrantes portugueses (Portugal-Brasil 1890-1930). Rev. Bras. Hist., n. 70, jul.-dez. 2015.\n\nConforme o texto, as correspondências trocadas entre imigrantes no Brasil com os seus países de procedência constituíam um dispositivo tecnológico que possibilitava o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "disputa ideológica entre a comunidade de estrangeiros e a de nativos."
+      },
+      {
+        "letter": "B",
+        "text": "circularidade cultural entre a sociedade de partida e a de acolhimento."
+      },
+      {
+        "letter": "C",
+        "text": "controle doutrinário das narrativas do cotidiano de origem e de destino."
+      },
+      {
+        "letter": "D",
+        "text": "fiscalização política dos fluxos de populações do Novo e do Velho Mundo."
+      },
+      {
+        "letter": "E",
+        "text": "monitoramento social dos grupos de trabalhadores da cidade e do campo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao transmitir notícias, tradições, fotos e afetos entre imigrantes e suas famílias de origem, as cartas promoviam uma circulação constante de referências culturais entre a sociedade de partida (Portugal) e a de acolhimento (Brasil) — circularidade cultural — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q83",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Diversos são os fatores causadores da degradação do solo, atuando de forma direta ou indireta, mas quase sempre a grande maioria das terras degradadas inicia esse processo com o desmatamento, que pode ser seguido por diversas formas de ocupação desordenada, como: corte de taludes para a construção de casas, rodovias e ferrovias, agricultura, com uso da queimada, vários tipos de mineração, irrigação excessiva, crescimento desordenado das cidades, superpastoreio, uso do solo para diversos tipos de despejos industriais e domésticos, sem tratamento da área que recebe esses despejos; enfim, de uma forma ou de outra, os solos tornam-se degradados, sendo muitas vezes difícil, ou quase impossível, a sua recuperação.\n\nGUERRA, A. T. Degradação dos solos: conceitos e temas. In: GUERRA, A. T.; JORGE, M. C. O. (Org.). Degradação dos solos no Brasil. Rio de Janeiro: Difel, 2018.\n\nA partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevação da biomassa."
+      },
+      {
+        "letter": "B",
+        "text": "redução da salinização."
+      },
+      {
+        "letter": "C",
+        "text": "diminuição da fertilidade."
+      },
+      {
+        "letter": "D",
+        "text": "ampliação da microfauna."
+      },
+      {
+        "letter": "E",
+        "text": "decomposição do substrato."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A degradação causada pelo desmatamento, queimadas, superpastoreio e despejos sem tratamento leva à perda de nutrientes e matéria orgânica do solo, isto é, à diminuição da fertilidade, o que dificulta sua recuperação — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q85",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.\n\nROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.\n\nNo contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "restrição dos fluxos migratórios e a maior atuação de sindicatos."
+      },
+      {
+        "letter": "B",
+        "text": "ampliação das leis trabalhistas e a plena importação de manufaturados."
+      },
+      {
+        "letter": "C",
+        "text": "proteção das florestas nacionais e a ampla transferência de tecnologias."
+      },
+      {
+        "letter": "D",
+        "text": "manutenção das barreiras fitossanitárias e a livre circulação de mercadorias."
+      },
+      {
+        "letter": "E",
+        "text": "remoção dos entraves alfandegários e a melhor remuneração de empregados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os produtores rurais europeus defendem a manutenção de regras rígidas (barreiras fitossanitárias) que os protejam da concorrência de produtos como a carne brasileira, enquanto o setor industrial defende a livre circulação de mercadorias, que ampliaria seu acesso ao mercado sul-americano — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q87",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "TEXTO I\n\nOriunda da Romênia, Genny Gleizer aportou no Brasil em 1932. Assim como milhares de judeus do Leste Europeu, sua vinda para o Brasil ocorreu em um momento de ascensão do antissemitismo na Europa que tornava precárias suas vidas. O Brasil se colocava como uma possibilidade na busca por condições de sobrevivência e desenvolvimento.\n\nANTÃO, A. C. C. B. Gênero, imigração e política: o caso da judia comunista Genny Gleizer no Governo Vargas (1932-1935). Rio de Janeiro: Casa de Oswaldo Cruz, 2017 (adaptado).\n\nTEXTO II\n\nA presença judaica no Brasil foi criando aos poucos certas desconfianças que se refletiram em órgãos da imprensa e em círculos intelectuais e políticos. Em parte, essa imagem negativa adviria da onda nacionalista surgida no final dos anos 1910, que concebia imigrantes como concorrentes dos trabalhadores brasileiros, ou como seres improdutivos, exploradores da mão de obra e da riqueza autóctone. Além disso, as elites políticas da época acreditavam que os estrangeiros eram portadores das doutrinas anarquista e comunista, estranhas à 'índole do povo brasileiro'. Esses 'indesejáveis' seriam um mal externo que corromperia a nação.\n\nMAIO, M. C.; CALAÇA, C. E. Um balanço da bibliografia sobre o antissemitismo no Brasil. In: GRINBERG, K. (Org.). Os judeus no Brasil. Rio de Janeiro: Civilização Brasileira, 2005 (adaptado).\n\nConforme descrito nos textos, o tratamento dispensado aos grupos mencionados se fundamentava em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "preceitos teológicos e religiosos."
+      },
+      {
+        "letter": "B",
+        "text": "aspectos socioeconômicos e ideológicos."
+      },
+      {
+        "letter": "C",
+        "text": "regulamentações territoriais e alfandegárias."
+      },
+      {
+        "letter": "D",
+        "text": "orientações constitucionais e estatutárias."
+      },
+      {
+        "letter": "E",
+        "text": "decretos legislativos e internacionais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto atribui a desconfiança em relação aos imigrantes judeus a fatores econômicos (concorrência por empregos, exploração de mão de obra) e ideológicos (associação com anarquismo e comunismo), não a motivos religiosos ou legais — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q88",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.\n\nSANTOS, M. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.\n\nDe acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Adoção do dumping comercial."
+      },
+      {
+        "letter": "B",
+        "text": "Fusão da função administrativa."
+      },
+      {
+        "letter": "C",
+        "text": "Criação de holding empresarial."
+      },
+      {
+        "letter": "D",
+        "text": "Limitação do mercado monopolista."
+      },
+      {
+        "letter": "E",
+        "text": "Modernização da produção industrial."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O dumping — venda de produtos abaixo do custo para eliminar concorrentes, sem respeitar regras justas de mercado — exemplifica exatamente a 'competitividade sem regras' criticada pelo autor, sendo moralmente condenável em sua diferenciação entre concorrência e competitividade — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q89",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Simulações climáticas do IPCC apresentam, para três cenários de aquecimento global (1,5 °C, 2 °C e 4 °C em relação ao período pré-industrial), a variação esperada na temperatura média anual e na pluviosidade média anual — mostrando que, quanto maior o grau de aquecimento, mais intensas são as variações de temperatura (mais quente) e de precipitação (regiões mais secas ficando mais secas, regiões mais úmidas ficando mais úmidas).\n\nPIVETTA, M. O clima no Antropoceno. Revista Pesquisa Fapesp, n. 307, set. 2021 (adaptado). Fonte: IPCC.\n\nQual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Expandir o transporte marítimo."
+      },
+      {
+        "letter": "B",
+        "text": "Incentivar os fluxos migratórios."
+      },
+      {
+        "letter": "C",
+        "text": "Monitorar as atividades vulcânicas."
+      },
+      {
+        "letter": "D",
+        "text": "Controlar as emissões de carbono."
+      },
+      {
+        "letter": "E",
+        "text": "Priorizar a utilização de termoelétricas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como o aquecimento global simulado nos cenários do IPCC decorre do aumento da concentração de gases de efeito estufa, a medida capaz de minimizar essas mudanças climáticas é o controle das emissões de carbono — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2023-q90",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.\n\nASSIS, M. Memórias póstumas de Brás Cubas. Belo Horizonte: Autêntica, 1999.\n\nA descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elaboração conceitual de entendimentos."
+      },
+      {
+        "letter": "B",
+        "text": "utilização persuasiva do discurso."
+      },
+      {
+        "letter": "C",
+        "text": "narração alegórica dos rapsodos."
+      },
+      {
+        "letter": "D",
+        "text": "investigação empírica da physis."
+      },
+      {
+        "letter": "E",
+        "text": "expressão pictográfica da pólis."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Assim como os sofistas eram criticados por dominarem apenas a retórica e a aparência do saber (a 'fraseologia, a casca') para persuadir, sem buscar a verdade em profundidade, Brás Cubas descreve ter aprendido apenas as fórmulas e o vocabulário para 'as despesas da conversação' — a utilização persuasiva do discurso — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2023 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
+    }
   }
 ]
