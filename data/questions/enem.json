@@ -19413,5 +19413,620 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q75",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Será que uma miragem ajudou a afundar o Titanic? O fenômeno ótico conhecido como Fata Morgana pode fazer com que uma falsa parede de água apareça sobre o horizonte molhado. Quando as condições são favoráveis, a luz refletida pela água fria pode ser desviada por uma camada incomum de ar quente acima, chegando até o observador, vinda de muitos ângulos diferentes. De acordo com estudos de pesquisadores da Universidade de San Diego, uma Fata Morgana pode ter obscurecido os icebergs da visão da tripulação que estava a bordo do Titanic. Dessa forma, a certa distância, o horizonte verdadeiro fica encoberto por uma névoa escurecida, que se parece muito com águas calmas no escuro.\n\nDisponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).\n\nO fenômeno ótico que, segundo os pesquisadores, provoca a Fata Morgana é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ressonância."
+      },
+      {
+        "letter": "B",
+        "text": "refração."
+      },
+      {
+        "letter": "C",
+        "text": "difração."
+      },
+      {
+        "letter": "D",
+        "text": "reflexão."
+      },
+      {
+        "letter": "E",
+        "text": "difusão."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A luz muda de direção ao passar por camadas de ar com temperaturas (e, portanto, densidades) diferentes — esse desvio da trajetória da luz ao mudar de meio é a refração, responsável pela miragem — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q76",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Para proteger estruturas de aço da corrosão, a indústria utiliza uma técnica chamada galvanização. Um metal bastante utilizado nesse processo é o zinco, que pode ser obtido a partir de um minério denominado esfalerita (ZnS), de pureza 75%. Considere que a conversão do minério em zinco metálico tem rendimento de 80% nesta sequência de equações químicas:\n\n2 ZnS + 3 O2 → 2 ZnO + 2 SO2\nZnO + CO → Zn + CO2\n\nConsidere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); e Zn (65 g/mol).\n\nQue valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "25"
+      },
+      {
+        "letter": "B",
+        "text": "33"
+      },
+      {
+        "letter": "C",
+        "text": "40"
+      },
+      {
+        "letter": "D",
+        "text": "50"
+      },
+      {
+        "letter": "E",
+        "text": "54"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Massa de ZnS puro: 100 kg × 0,75 = 75 kg = 75.000 g. Mols de ZnS: 75.000/97 ≈ 773,2 mol, que geram 773,2 mol de Zn (proporção 1:1 ao longo das duas etapas), ou seja, 773,2 × 65 ≈ 50.260 g = 50,26 kg (rendimento teórico). Com 80% de rendimento real: 50,26 × 0,8 ≈ 40 kg — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q77",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Hidrocarbonetos podem ser obtidos em laboratório por descarboxilação oxidativa anódica, processo conhecido como eletrossíntese de Kolbe. Nesse processo, o sal de um ácido carboxílico é eletrolisado: no ânodo, o ânion carboxilato perde um elétron e libera CO2, gerando um radical que se acopla a outro radical idêntico, formando um hidrocarboneto com o dobro do número de átomos de carbono da cadeia lateral (descontado o carbono da carboxila). Essa reação é utilizada na síntese de hidrocarbonetos diversos, a partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substituição aos hidrocarbonetos fósseis.\n\nAZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. Química Nova, n. 2, 1997 (adaptado).\n\nCom base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,2,7,7-tetrametil-octano."
+      },
+      {
+        "letter": "B",
+        "text": "3,3,4,4-tetrametil-hexano."
+      },
+      {
+        "letter": "C",
+        "text": "2,2,5,5-tetrametil-hexano."
+      },
+      {
+        "letter": "D",
+        "text": "3,3,6,6-tetrametil-octano."
+      },
+      {
+        "letter": "E",
+        "text": "2,2,4,4-tetrametil-hexano."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O ácido 3,3-dimetil-butanoico é (CH3)3C–CH2–COOH. Na eletrólise de Kolbe, perde-se o CO2 e dois radicais (CH3)3C–CH2• se acoplam, formando (CH3)3C–CH2–CH2–C(CH3)3. Renomeando pela cadeia mais longa (6 carbonos, com 4 metilas substituintes nas posições 2 e 5), o produto é o 2,2,5,5-tetrametil-hexano — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q78",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.\n\nDisponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).\n\nAo se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "colocar gelo sobre a flictena para amenizar o ardor."
+      },
+      {
+        "letter": "B",
+        "text": "utilizar manteiga para evitar o rompimento da flictena."
+      },
+      {
+        "letter": "C",
+        "text": "passar creme dental para diminuir a ardência da flictena."
+      },
+      {
+        "letter": "D",
+        "text": "perfurar a flictena para que a água acumulada seja liberada."
+      },
+      {
+        "letter": "E",
+        "text": "cobrir a flictena com gazes molhadas para evitar a desidratação."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Gelo, manteiga, creme dental e perfurar a bolha são práticas populares que na verdade agravam a lesão (queimadura por frio, infecção, rompimento da barreira protetora). O procedimento correto é cobrir a região com gazes limpas e úmidas, protegendo a área e evitando a desidratação até o atendimento hospitalar — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q79",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.\n\nQual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Alto calor específico."
+      },
+      {
+        "letter": "B",
+        "text": "Alto calor latente de fusão."
+      },
+      {
+        "letter": "C",
+        "text": "Baixa condutividade térmica."
+      },
+      {
+        "letter": "D",
+        "text": "Baixa temperatura de ebulição."
+      },
+      {
+        "letter": "E",
+        "text": "Alto coeficiente de dilatação térmica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Um fluido com alto calor específico consegue absorver uma grande quantidade de calor do motor com pequena variação de sua própria temperatura, tornando o processo de arrefecimento mais eficiente — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q80",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Pesticidas são substâncias utilizadas para promover o controle de pragas. No entanto, após sua aplicação em ambientes abertos, alguns pesticidas organoclorados são arrastados pela água até lagos e rios e, ao passar pelas guelras dos peixes, podem difundir-se para seus tecidos lipídicos e lá se acumularem.\n\nA característica desses compostos, responsável pelo processo descrito no texto, é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "baixa polaridade."
+      },
+      {
+        "letter": "B",
+        "text": "baixa massa molecular."
+      },
+      {
+        "letter": "C",
+        "text": "ocorrência de halogênios."
+      },
+      {
+        "letter": "D",
+        "text": "tamanho pequeno das moléculas."
+      },
+      {
+        "letter": "E",
+        "text": "presença de hidroxilas nas cadeias."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os organoclorados são compostos apolares (baixa polaridade), característica que os torna solúveis em gorduras (lipofílicos) e explica sua difusão e acúmulo nos tecidos lipídicos dos peixes — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q81",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A calda bordalesa é uma alternativa empregada no combate a doenças que afetam folhas de plantas. Sua produção consiste na mistura de uma solução aquosa de sulfato de cobre(II), CuSO4, com óxido de cálcio, CaO, e sua aplicação só deve ser realizada se estiver levemente básica. A avaliação rudimentar da basicidade dessa solução é realizada pela adição de três gotas sobre uma faca de ferro limpa. Após três minutos, caso surja uma mancha avermelhada no local da aplicação, afirma-se que a calda bordalesa ainda não está com a basicidade necessária. O quadro apresenta os valores de potenciais padrão de redução (E°) para algumas semirreações de redução.\n\nSemirreação de redução — E° (V)\nCa2+ + 2 e- → Ca — -2,87\nFe3+ + 3 e- → Fe — -0,04\nCu2+ + 2 e- → Cu — +0,34\nCu+ + e- → Cu — +0,52\nFe3+ + e- → Fe2+ — +0,77\n\nMOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado).\n\nA equação química que representa a reação de formação da mancha avermelhada é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ca2+ (aq) + 2 Cu+ (aq) → Ca (s) + 2 Cu2+ (aq)."
+      },
+      {
+        "letter": "B",
+        "text": "Ca2+ (aq) + 2 Fe2+ (aq) → Ca (s) + 2 Fe3+ (aq)."
+      },
+      {
+        "letter": "C",
+        "text": "Cu2+ (aq) + 2 Fe2+ (aq) → Cu (s) + 2 Fe3+ (aq)."
+      },
+      {
+        "letter": "D",
+        "text": "3 Ca2+ (aq) + 2 Fe (s) → 3 Ca (s) + 2 Fe3+ (aq)."
+      },
+      {
+        "letter": "E",
+        "text": "3 Cu2+ (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe3+ (aq)."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A mancha avermelhada é cobre metálico depositado sobre a faca de ferro. Comparando os potenciais, o par Cu2+/Cu (+0,34 V) tem potencial de redução maior que o par Fe3+/Fe (-0,04 V), então o ferro metálico é oxidado a Fe3+ enquanto o Cu2+ é reduzido a Cu(s): semirreações 2Fe → 2Fe3+ + 6e- e 3Cu2+ + 6e- → 3Cu, somando-se 2 Fe(s) + 3 Cu2+ (aq) → 2 Fe3+ (aq) + 3 Cu(s) — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q83",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.\n\nUma das características a que o texto se refere é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reprodução por viviparidade."
+      },
+      {
+        "letter": "B",
+        "text": "respiração pulmonar nos adultos."
+      },
+      {
+        "letter": "C",
+        "text": "regulação térmica por endotermia."
+      },
+      {
+        "letter": "D",
+        "text": "cobertura corporal delgada e altamente permeável."
+      },
+      {
+        "letter": "E",
+        "text": "locomoção por membros anteriores e posteriores desenvolvidos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A pele fina e altamente permeável dos anfíbios, usada inclusive na respiração cutânea, exige um ambiente úmido para evitar a dessecação, o que prende o grupo a locais úmidos ou aquáticos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q84",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O aproveitamento de resíduos florestais vem se tornando cada dia mais atrativo, pois eles são uma fonte renovável de energia. A figura representa, em um diagrama de energia, a queima de 1 g de um bio-óleo extraído de resíduo de madeira: ΔH1 é a variação de entalpia da queima desse 1 g de bio-óleo, resultando em gás carbônico e água no estado líquido (Bio-óleo + O2 (g) → CO2 (g) + H2O (l), ΔH1 = -18,8 kJ/g); ΔH2 é a variação de entalpia envolvida na conversão de 1 g de água do estado gasoso para o estado líquido (H2O (g) → H2O (l), ΔH2 = -2,4 kJ/g).\n\nA variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "-106."
+      },
+      {
+        "letter": "B",
+        "text": "-94,0."
+      },
+      {
+        "letter": "C",
+        "text": "-82,0."
+      },
+      {
+        "letter": "D",
+        "text": "-21,2."
+      },
+      {
+        "letter": "E",
+        "text": "-16,4."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A queima produzindo água líquida libera 18,8 kJ/g; parte dessa energia (2,4 kJ/g) vem da condensação da água formada. Para obter a entalpia de queima resultando em água NO ESTADO GASOSO (sem a condensação), subtrai-se essa parcela: 18,8 - 2,4 = 16,4 kJ/g liberados. Para 5 g: 16,4 × 5 = 82,0 kJ, ou seja, ΔH = -82,0 kJ — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q85",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Entre os anos de 1028 e 1038, Alhazen (Ibn al-Haytham; 965-1040 d.C.) escreveu sua principal obra, o Livro da Óptica, que, com base em experimentos, explicava o funcionamento da visão e outros aspectos da ótica, por exemplo, o funcionamento da câmara escura. O livro foi traduzido e incorporado aos conhecimentos científicos ocidentais pelos europeus. Na figura, retirada dessa obra, é representada a imagem invertida de edificações em um tecido utilizado como anteparo.\n\nZEWAIL, A. H. Micrographia of the twenty-first century: from camera obscura to 4D microscopy. Philosophical Transactions of the Royal Society A, v. 368, 2010 (adaptado).\n\nSe fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "íris."
+      },
+      {
+        "letter": "B",
+        "text": "retina."
+      },
+      {
+        "letter": "C",
+        "text": "pupila."
+      },
+      {
+        "letter": "D",
+        "text": "córnea."
+      },
+      {
+        "letter": "E",
+        "text": "cristalino."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na câmara escura, o tecido (anteparo) é onde a imagem invertida é projetada e captada — no olho humano, esse papel é desempenhado pela retina, que recebe a imagem formada pelo sistema óptico do olho — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q86",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.\n\nEssa diferenciação se deve principalmente ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "intensidade sonora do som de cada instrumento musical."
+      },
+      {
+        "letter": "B",
+        "text": "potência sonora do som emitido pelos diferentes instrumentos musicais."
+      },
+      {
+        "letter": "C",
+        "text": "diferente velocidade de propagação do som emitido por cada instrumento musical."
+      },
+      {
+        "letter": "D",
+        "text": "timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes."
+      },
+      {
+        "letter": "E",
+        "text": "altura do som, que possui diferentes frequências para diferentes instrumentos musicais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Mesmo emitindo a mesma nota (mesma frequência fundamental/altura), cada instrumento produz harmônicos com intensidades relativas diferentes, resultando em formatos de onda distintos — essa qualidade é o timbre, responsável por diferenciar os instrumentos — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q87",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.\n\nEm um mesmo organismo, a diferenciação dessas células ocorre por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "produzirem mutações específicas."
+      },
+      {
+        "letter": "B",
+        "text": "possuírem DNA mitocondrial diferentes."
+      },
+      {
+        "letter": "C",
+        "text": "apresentarem conjunto de genes distintos."
+      },
+      {
+        "letter": "D",
+        "text": "expressarem porções distintas do genoma."
+      },
+      {
+        "letter": "E",
+        "text": "terem um número distinto de cromossomos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Todas as células de um organismo pluricelular possuem, em regra, o mesmo genoma; a diferenciação celular ocorre pela expressão gênica diferencial, isto é, pela ativação de diferentes conjuntos de genes em cada tipo celular — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q88",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema.\n\nConsiderando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do telefone celular que originou a ligação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Uma."
+      },
+      {
+        "letter": "B",
+        "text": "Duas."
+      },
+      {
+        "letter": "C",
+        "text": "Três."
+      },
+      {
+        "letter": "D",
+        "text": "Quatro."
+      },
+      {
+        "letter": "E",
+        "text": "Cinco."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O tempo de resposta de cada torre determina a distância entre ela e o celular, ou seja, uma circunferência de posições possíveis centrada na torre. Duas circunferências (duas torres) geralmente se cruzam em dois pontos, gerando ambiguidade; uma terceira circunferência (terceira torre) elimina essa ambiguidade e determina um único ponto — logo, são necessárias no mínimo três torres — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q89",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Euphorbia milii é uma planta ornamental amplamente disseminada no Brasil e conhecida como coroa-de-cristo. O estudo químico do látex dessa espécie forneceu o mais potente produto natural moluscicida, a miliamina L.\n\nMOREIRA, C. P. S.; ZANI, C. L.; ALVES, T. M. A. Atividade moluscicida do látex de Synadenium carinatum boiss. (Euphorbiaceae) sobre Biomphalaria glabrata e isolamento do constituinte majoritário. Revista Eletrônica de Farmácia, n. 3, 2010 (adaptado).\n\nO uso desse látex em água infestada por hospedeiros intermediários tem potencial para atuar no controle da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dengue."
+      },
+      {
+        "letter": "B",
+        "text": "malária."
+      },
+      {
+        "letter": "C",
+        "text": "elefantíase."
+      },
+      {
+        "letter": "D",
+        "text": "ascaridíase."
+      },
+      {
+        "letter": "E",
+        "text": "esquistossomose."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Um produto moluscicida elimina os caramujos (moluscos) que servem de hospedeiro intermediário do Schistosoma mansoni, agente causador da esquistossomose — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q90",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A química verde permite o desenvolvimento tecnológico com danos reduzidos ao meio ambiente, e encontrar rotas limpas tem sido um grande desafio. Considere duas rotas diferentes utilizadas para a obtenção de ácido adípico, um insumo muito importante para a indústria têxtil e de plastificantes: a rota tradicional, que emprega múltiplas etapas com Co e Cr(III), lavagem cáustica e oxidação com HNO3 a 60% e 120 °C, catalisada por V5+ e Cu, liberando N2O como subproduto; e a rota verde, que converte o material de partida diretamente em ácido adípico em uma única etapa, utilizando Na2WO4 e H2O2 (4 equivalentes) a 75-90 °C, tendo água como subproduto.\n\nLENARDÃO, E. J. et al. Green chemistry – os 12 princípios da química verde e sua inserção nas atividades de ensino e pesquisa. Química Nova, n. 1, 2003 (adaptado).\n\nQue fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à primeira?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Etapa única na síntese."
+      },
+      {
+        "letter": "B",
+        "text": "Obtenção do produto puro."
+      },
+      {
+        "letter": "C",
+        "text": "Ausência de reagentes oxidantes."
+      },
+      {
+        "letter": "D",
+        "text": "Ausência de elementos metálicos no processo."
+      },
+      {
+        "letter": "E",
+        "text": "Gasto de energia nulo na separação do produto."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A rota tradicional emprega várias etapas reacionais (oxidação, lavagem cáustica, nova oxidação), enquanto a rota verde obtém o ácido adípico em uma única etapa reacional, reduzindo consumo de energia, geração de resíduos e uso de reagentes — essa é a principal vantagem 'verde' da segunda rota — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
