@@ -11416,5 +11416,620 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2014-q02",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Sou uma pobre e velha mulher,\nMuito ignorante, que nem sabe ler.\nMostraram-me na igreja da minha terra\nUm Paraíso com harpas pintado\nE o Inferno onde fervem almas danadas,\nUm enche-me de júbilo, o outro me aterra.\n\nVILLON, F. In: GOMBRICH, E. História da arte. Lisboa: LTC, 1999.\n\nOs versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. Nesse contexto, as imagens eram usadas com o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "refinar o gosto dos cristãos."
+      },
+      {
+        "letter": "B",
+        "text": "incorporar ideais heréticos."
+      },
+      {
+        "letter": "C",
+        "text": "educar os fiéis através do olhar."
+      },
+      {
+        "letter": "D",
+        "text": "divulgar a genialidade dos artistas católicos."
+      },
+      {
+        "letter": "E",
+        "text": "valorizar esteticamente os templos religiosos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para uma mulher analfabeta como a do poema, as imagens de Paraíso e Inferno pintadas na igreja substituíam a leitura dos textos sagrados, ensinando visualmente os fiéis sobre recompensas e punições — a arte medieval como instrumento de catequese e educação pelo olhar — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q03",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume.\n\nTUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003.\n\nA intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "erosão."
+      },
+      {
+        "letter": "B",
+        "text": "salinização."
+      },
+      {
+        "letter": "C",
+        "text": "laterização."
+      },
+      {
+        "letter": "D",
+        "text": "compactação."
+      },
+      {
+        "letter": "E",
+        "text": "sedimentação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A irrigação intensiva para a monocultura do algodão, associada à evaporação em clima árido, concentra sais na superfície do solo e do leito exposto do antigo mar, provocando salinização e desertificação da área — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q04",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "É o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\n\nSILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).\n\nApesar de questionar os conceitos da tradição, a dúvida radical da filosofia cartesiana tem caráter positivo por contribuir para o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dissolução do saber científico."
+      },
+      {
+        "letter": "B",
+        "text": "recuperação dos antigos juízos."
+      },
+      {
+        "letter": "C",
+        "text": "exaltação do pensamento clássico."
+      },
+      {
+        "letter": "D",
+        "text": "surgimento do conhecimento inabalável."
+      },
+      {
+        "letter": "E",
+        "text": "fortalecimento dos preconceitos religiosos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao duvidar radicalmente de tudo, Descartes busca uma certeza que resista até mesmo à dúvida mais extrema (o cogito): assim, o método da dúvida tem função positiva de fundar um conhecimento inabalável, imune a novas dúvidas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q06",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Ao deflagrar-se a crise mundial de 1929, a situação da economia cafeeira se apresentava como se segue. A produção, que se encontrava em altos níveis, teria que seguir crescendo, pois os produtores haviam continuado a expandir as plantações até aquele momento. Com efeito, a produção máxima seria alcançada em 1933, ou seja, no ponto mais baixo da depressão, como reflexo das grandes plantações de 1927-1928. Entretanto, era totalmente impossível obter crédito no exterior para financiar a retenção de novos estoques, pois o mercado internacional de capitais se encontrava em profunda depressão, e o crédito do governo desaparecera com a evaporação das reservas.\n\nFURTADO, C. Formação econômica do Brasil. São Paulo: Cia. Editora Nacional, 1997 (adaptado).\n\nUma resposta do Estado brasileiro à conjuntura econômica mencionada foi o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atração de empresas estrangeiras."
+      },
+      {
+        "letter": "B",
+        "text": "reformulação do sistema fundiário."
+      },
+      {
+        "letter": "C",
+        "text": "incremento da mão de obra imigrante."
+      },
+      {
+        "letter": "D",
+        "text": "desenvolvimento de política industrial."
+      },
+      {
+        "letter": "E",
+        "text": "financiamento de pequenos agricultores."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Diante da impossibilidade de sustentar a economia cafeeira exportadora após 1929, o Estado brasileiro passou a incentivar a industrialização por substituição de importações como resposta à crise — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q07",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Mas plantar pra dividir\nNão faço mais isso, não.\nEu sou um pobre caboclo,\nGanho a vida na enxada.\nO que eu colho é dividido\nCom quem não planta nada.\nSe assim continuar\nvou deixar o meu sertão,\nmesmo os olhos cheios d'água\ne com dor no coração.\nVou pro Rio carregar massas\npros pedreiros em construção.\nDeus até está ajudando:\nestá chovendo no sertão!\nMas plantar pra dividir,\nNão faço mais isso, não.\n\nVALE, J.; AQUINO, J. B. Sina de caboclo. São Paulo: Polygram, 1994 (fragmento).\n\nNo trecho da canção, composta na década de 1960, retrata-se a insatisfação do trabalhador rural com",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a distribuição desigual da produção."
+      },
+      {
+        "letter": "B",
+        "text": "os financiamentos feitos ao produtor rural."
+      },
+      {
+        "letter": "C",
+        "text": "a ausência de escolas técnicas no campo."
+      },
+      {
+        "letter": "D",
+        "text": "os empecilhos advindos das secas prolongadas."
+      },
+      {
+        "letter": "E",
+        "text": "a precariedade de insumos no trabalho do campo."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O caboclo se queixa de “plantar pra dividir” — trabalhar a terra e ter que repartir a colheita “com quem não planta nada” —, denunciando a divisão desigual da produção típica do sistema de parceria/meação rural — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q08",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "O cidadão norte-americano desperta num leito construído segundo padrão originário do Oriente Próximo, mas modificado na Europa Setentrional antes de ser transmitido à América. Sai debaixo de cobertas feitas de algodão cuja planta se tornou doméstica na Índia. No restaurante, toda uma série de elementos tomada de empréstimo o espera. O prato é feito de uma espécie de cerâmica inventada na China. A faca é de aço, liga feita pela primeira vez na Índia do Sul; o garfo é inventado na Itália medieval; a colher vem de um original romano. Lê notícias do dia impressas em caracteres inventados pelos antigos semitas, em material inventado na China e por um processo inventado na Alemanha.\n\nLINTON, R. O homem: uma introdução à antropologia. São Paulo: Martins, 1959 (adaptado).\n\nA situação descrita é um exemplo de como os costumes resultam da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "assimilação de valores de povos exóticos."
+      },
+      {
+        "letter": "B",
+        "text": "experimentação de hábitos sociais variados."
+      },
+      {
+        "letter": "C",
+        "text": "recuperação de heranças da Antiguidade Clássica."
+      },
+      {
+        "letter": "D",
+        "text": "fusão de elementos de tradições culturais diferentes."
+      },
+      {
+        "letter": "E",
+        "text": "valorização de comportamento de grupos privilegiados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cada objeto do cotidiano do cidadão americano tem origem em uma cultura diferente (Oriente Próximo, Índia, China, Itália, Roma, povos semitas, Alemanha): o texto ilustra como os costumes resultam da fusão de elementos vindos de tradições culturais diversas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q10",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O jovem espanhol Daniel se sente perdido. Seu diploma de desenhista industrial e seu alto conhecimento de inglês devem ajudá-lo a tomar um rumo. Mas a taxa de desemprego, que supera 52% entre os que têm menos de 25 anos, o desnorteia. Ele está convencido de que seu futuro profissional não está na Espanha, como o de, pelo menos, 120 mil conterrâneos que emigraram nos últimos dois anos. O irmão dele, que é engenheiro-agrônomo, conseguiu emprego no Chile. Atualmente, Daniel participa de uma “oficina de procura de emprego” em países como Brasil, Alemanha e China. A oficina é oferecida por uma universidade espanhola.\n\nGUILAYN, P. Na Espanha, universidade ensina a emigrar. O Globo, 17 fev. 2013 (adaptado).\n\nA situação ilustra uma crise econômica que implica",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização do trabalho fabril."
+      },
+      {
+        "letter": "B",
+        "text": "expansão dos recursos tecnológicos."
+      },
+      {
+        "letter": "C",
+        "text": "exportação de mão de obra qualificada."
+      },
+      {
+        "letter": "D",
+        "text": "diversificação dos mercados produtivos."
+      },
+      {
+        "letter": "E",
+        "text": "intensificação dos intercâmbios estudantis."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Diante do desemprego elevado, jovens espanhóis qualificados (desenhista industrial, engenheiro-agrônomo) emigram em busca de trabalho em outros países: a crise leva à exportação de mão de obra qualificada — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q11",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira.\n\nVERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado).\n\nPara o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Isonomia — igualdade de tratamento aos cidadãos."
+      },
+      {
+        "letter": "B",
+        "text": "Transparência — acesso às informações governamentais."
+      },
+      {
+        "letter": "C",
+        "text": "Tripartição — separação entre os poderes políticos estatais."
+      },
+      {
+        "letter": "D",
+        "text": "Equiparação — igualdade de gênero na participação política."
+      },
+      {
+        "letter": "E",
+        "text": "Elegibilidade — permissão para candidatura aos cargos públicos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao registrar as leis por escrito, tornando-as fixas e aplicáveis “a todos da mesma maneira”, a pólis grega buscava garantir a isonomia — a igualdade de tratamento perante a lei — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q12",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Panayiotis Zavos “quebrou” o último tabu da clonagem humana — transferiu embriões para o útero de mulheres, que os gerariam. Esse procedimento é crime em inúmeros países. Aparentemente, o médico possuía um laboratório secreto, no qual fazia seus experimentos. “Não tenho nenhuma dúvida de que uma criança clonada irá aparecer em breve. Posso não ser eu o médico que irá criá-la, mas vai acontecer”, declarou Zavos. “Se nos esforçarmos, podemos ter um bebê clonado daqui a um ano, ou dois, mas não sei se é o caso. Não sofremos pressão para entregar um bebê clonado ao mundo. Sofremos pressão para entregar um bebê clonado saudável ao mundo.”\n\nCONNOR, S. Disponível em: www.independent.co.uk. Acesso em: 14 ago. 2012 (adaptado).\n\nA clonagem humana é um importante assunto de reflexão no campo da bioética que, entre outras questões, dedica-se a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem."
+      },
+      {
+        "letter": "B",
+        "text": "legitimar o predomínio da espécie humana sobre as demais espécies animais no planeta."
+      },
+      {
+        "letter": "C",
+        "text": "relativizar, no caso da clonagem humana, o uso dos valores de certo e errado, de bem e mal."
+      },
+      {
+        "letter": "D",
+        "text": "legalizar, pelo uso das técnicas de clonagem, os processos de reprodução humana e animal."
+      },
+      {
+        "letter": "E",
+        "text": "fundamentar técnica e economicamente as pesquisas sobre células-tronco para uso em seres humanos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A bioética se dedica justamente a pensar as implicações éticas dos avanços científicos sobre a vida, como no caso da clonagem, articulando conhecimento científico e valores morais — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q13",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.\n\nSAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.\n\nA diferença espacial citada é causada por qual característica física da Terra?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Achatamento de suas regiões polares."
+      },
+      {
+        "letter": "B",
+        "text": "Movimento em torno de seu próprio eixo."
+      },
+      {
+        "letter": "C",
+        "text": "Arredondamento de sua forma geométrica."
+      },
+      {
+        "letter": "D",
+        "text": "Variação periódica de sua distância do Sol."
+      },
+      {
+        "letter": "E",
+        "text": "Inclinação em relação ao seu plano de órbita."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A diferença de horário entre os Estados Unidos e a França se deve ao movimento de rotação da Terra em torno do seu próprio eixo, que faz com que diferentes pontos do planeta recebam luz solar em momentos distintos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q14",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\n\nHABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989.\n\nSegundo Habermas, a validez de uma norma deve ser estabelecida pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "liberdade humana, que consagra a vontade."
+      },
+      {
+        "letter": "B",
+        "text": "razão comunicativa, que requer um consenso."
+      },
+      {
+        "letter": "C",
+        "text": "conhecimento filosófico, que expressa a verdade."
+      },
+      {
+        "letter": "D",
+        "text": "técnica científica, que aumenta o poder do homem."
+      },
+      {
+        "letter": "E",
+        "text": "poder político, que se concentra no sistema partidário."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para Habermas, uma norma só é válida se puder ser aceita, por meio do diálogo racional, por todos os afetados por ela — trata-se da razão comunicativa, que busca o consenso via discurso — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q15",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 15,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.\n\nCALDEIRA, J. A nação mercantilista. São Paulo: Editora 34, 1999 (adaptado).\n\nEntre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "demarcação do território indígena."
+      },
+      {
+        "letter": "B",
+        "text": "manutenção da organização familiar."
+      },
+      {
+        "letter": "C",
+        "text": "valorização dos líderes religiosos indígenas."
+      },
+      {
+        "letter": "D",
+        "text": "preservação do costume das moradias coletivas."
+      },
+      {
+        "letter": "E",
+        "text": "comunicação pela língua geral baseada no tupi."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para catequizar os indígenas, os jesuítas aprenderam e sistematizaram o tupi, criando a “língua geral”, usada como principal meio de comunicação e evangelização nas missões — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q18",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "Todo homem de bom juízo, depois que tiver realizado sua viagem, reconhecerá que é um milagre manifesto ter podido escapar de todos os perigos que se apresentam em sua peregrinação; tanto mais que há tantos outros acidentes que diariamente podem aí ocorrer que seria coisa pavorosa àqueles que aí navegam querer pô-los todos diante dos olhos quando querem empreender suas viagens.\n\nJ. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. História do medo no Ocidente: 1300-1800. São Paulo: Cia. das Letras, 2009 (adaptado).\n\nEsse relato, associado ao imaginário das viagens marítimas da época moderna, expressa um sentimento de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gosto pela aventura."
+      },
+      {
+        "letter": "B",
+        "text": "fascínio pelo fantástico."
+      },
+      {
+        "letter": "C",
+        "text": "temor do desconhecido."
+      },
+      {
+        "letter": "D",
+        "text": "interesse pela natureza."
+      },
+      {
+        "letter": "E",
+        "text": "purgação dos pecados."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O relato descreve as viagens marítimas como repletas de “perigos” e “acidentes” tão pavorosos que é melhor nem colocá-los diante dos olhos antes de partir: um relato marcado pelo temor do desconhecido, típico do imaginário das Grandes Navegações — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q19",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "TEXTO I\n\nOlhamos o homem alheio às atividades públicas não como alguém que cuida apenas de seus próprios interesses, mas como um inútil; nós, cidadãos atenienses, decidimos as questões públicas por nós mesmos na crença de que não é o debate que é empecilho à ação, e sim o fato de não se estar esclarecido pelo debate antes de chegar a hora da ação.\n\nTUCÍDIDES. História da Guerra do Peloponeso. Brasília: UnB, 1987 (adaptado).\n\nTEXTO II\n\nUm cidadão integral pode ser definido por nada mais nada menos que pelo direito de administrar justiça e exercer funções públicas; algumas destas, todavia, são limitadas quanto ao tempo de exercício, de tal modo que não podem de forma alguma ser exercidas duas vezes pela mesma pessoa, ou somente podem sê-lo depois de certos intervalos de tempo prefixados.\n\nARISTÓTELES. Política. Brasília: UnB, 1985.\n\nComparando os textos I e II, tanto para Tucídides (no século V a.C.) quanto para Aristóteles (no século IV a.C.), a cidadania era definida pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "prestígio social."
+      },
+      {
+        "letter": "B",
+        "text": "acúmulo de riqueza."
+      },
+      {
+        "letter": "C",
+        "text": "participação política."
+      },
+      {
+        "letter": "D",
+        "text": "local de nascimento."
+      },
+      {
+        "letter": "E",
+        "text": "grupo de parentesco."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ambos os textos associam a cidadania ao exercício de funções públicas e à participação nas decisões da pólis (debater e agir, administrar a justiça): para os gregos antigos, ser cidadão era, essencialmente, participar politicamente — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q20",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.\n\nGIORGI, J. Muralha verde. Folha de S. Paulo, 20 maio 2013 (adaptado).\n\nO projeto ambiental descrito proporciona a seguinte consequência regional imediata:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Facilita as trocas comerciais."
+      },
+      {
+        "letter": "B",
+        "text": "Soluciona os conflitos fundiários."
+      },
+      {
+        "letter": "C",
+        "text": "Restringe a diversidade biológica."
+      },
+      {
+        "letter": "D",
+        "text": "Fomenta a atividade de pastoreio."
+      },
+      {
+        "letter": "E",
+        "text": "Evita a expansão da desertificação."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A “Grande Muralha Verde” é uma barreira vegetal plantada justamente para conter o avanço do deserto sobre a região do Sahel, evitando a expansão da desertificação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
