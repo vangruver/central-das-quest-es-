@@ -10350,5 +10350,784 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2017 - 1º dia, Caderno 1 Azul"
     }
+  },
+  {
+    "id": "enem-2015-q02",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso — todas as partes do dia podem ser aproveitadas produtivamente.\n\nSILVA FILHO, A. L. M. Fortaleza: imagens da cidade. Fortaleza: Museu do Ceará; Secult-CE, 2001 (adaptado).\n\nEm relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "melhoria da qualidade da produção industrial."
+      },
+      {
+        "letter": "B",
+        "text": "redução da oferta de emprego nas zonas rurais."
+      },
+      {
+        "letter": "C",
+        "text": "permissão ao trabalhador para controlar seus próprios horários."
+      },
+      {
+        "letter": "D",
+        "text": "diminuição das exigências de esforço no trabalho com máquinas."
+      },
+      {
+        "letter": "E",
+        "text": "ampliação do período disponível para a jornada de trabalho."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao eliminar a separação natural entre dia e noite, a iluminação artificial passou a permitir que “todas as partes do dia” fossem aproveitadas produtivamente, ampliando o período disponível para o trabalho — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q03",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.\n\nFREIRE, P. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2011.\n\nPaulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desenvolvimento do pensamento autônomo."
+      },
+      {
+        "letter": "B",
+        "text": "obtenção de qualificação profissional."
+      },
+      {
+        "letter": "C",
+        "text": "resgate de valores tradicionais."
+      },
+      {
+        "letter": "D",
+        "text": "realização de desejos pessoais."
+      },
+      {
+        "letter": "E",
+        "text": "aumento da renda familiar."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Freire defende uma “permanente atitude crítica” que supere a mera acomodação, isto é, o desenvolvimento de um pensamento autônomo e crítico capaz de apreender os temas de sua época — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q05",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz.\n\nALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981.\n\nA ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Justificar a dominação estamental / revoltas camponesas."
+      },
+      {
+        "letter": "B",
+        "text": "Subverter a hierarquia social / centralização monárquica."
+      },
+      {
+        "letter": "C",
+        "text": "Impedir a igualdade jurídica / revoluções burguesas."
+      },
+      {
+        "letter": "D",
+        "text": "Controlar a exploração econômica / unificação monetária."
+      },
+      {
+        "letter": "E",
+        "text": "Questionar a ordem divina / Reforma Católica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A divisão da sociedade em oratores, bellatores e laboratores justificava a ordem estamental medieval como natural e divina; essa ideologia foi contestada, ao longo da Idade Média, pelas revoltas camponesas contra a exploração senhorial — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q06",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.\n\nGÂNDAVO, P. M. A primeira história do Brasil: história da província de Santa Cruz a que vulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado).\n\nA observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "simplicidade da organização social das tribos brasileiras."
+      },
+      {
+        "letter": "B",
+        "text": "dominação portuguesa imposta aos índios no início da colonização."
+      },
+      {
+        "letter": "C",
+        "text": "superioridade da sociedade europeia em relação à sociedade indígena."
+      },
+      {
+        "letter": "D",
+        "text": "incompreensão dos valores socioculturais indígenas pelos portugueses."
+      },
+      {
+        "letter": "E",
+        "text": "dificuldade experimentada pelos portugueses no aprendizado da língua nativa."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Gândavo associa a ausência de certas letras à ausência de Fé, Lei e Rei, julgando os indígenas a partir de categorias europeias que não se aplicavam à organização social nativa: um exemplo claro de incompreensão etnocêntrica — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q07",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "O principal articulador do atual modelo econômico chinês argumenta que o mercado é só um instrumento econômico, que se emprega de forma indistinta tanto no capitalismo como no socialismo. Porém os próprios chineses já estão sentindo, na sua sociedade, o seu real significado: o mercado não é algo neutro, ou um instrumental técnico que possibilita à sociedade utilizá-lo para a construção e edificação do socialismo. Ele é, ao contrário do que diz o articulador, um instrumento do capitalismo e é inerente à sua estrutura como modo de produção. A sua utilização está levando a uma polarização da sociedade chinesa.\n\nOLIVEIRA, A. A Revolução Chinesa. Caros Amigos, 31 jan. 2011 (adaptado).\n\nNo texto, as reformas econômicas ocorridas na China são colocadas como antagônicas à construção de um país socialista. Nesse contexto, a característica fundamental do socialismo, à qual o modelo econômico chinês atual se contrapõe é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desestatização da economia."
+      },
+      {
+        "letter": "B",
+        "text": "instauração de um partido único."
+      },
+      {
+        "letter": "C",
+        "text": "manutenção da livre concorrência."
+      },
+      {
+        "letter": "D",
+        "text": "formação de sindicatos trabalhistas."
+      },
+      {
+        "letter": "E",
+        "text": "extinção gradual das classes sociais."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto afirma que o mercado está “levando a uma polarização da sociedade chinesa”, ou seja, reintroduzindo divisões de classe — o oposto do objetivo socialista de extinguir gradualmente as classes sociais — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q08",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.\n\nHARVEY, D. O enigma do capital. São Paulo: Boitempo, 2011.\n\nInicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "superprodução de bens de consumo."
+      },
+      {
+        "letter": "B",
+        "text": "colapso industrial de países asiáticos."
+      },
+      {
+        "letter": "C",
+        "text": "interdependência do sistema econômico."
+      },
+      {
+        "letter": "D",
+        "text": "isolamento político dos países desenvolvidos."
+      },
+      {
+        "letter": "E",
+        "text": "austeridade fiscal dos países em desenvolvimento."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A crise das hipotecas subprime nos EUA (2007-2008) se espalhou pelo mundo porque os sistemas financeiros dos países estão interligados: a interdependência do sistema econômico global transformou uma crise imobiliária local em uma crise mundial — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q09",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Voz do sangue\n\nPalpitam-me os sons do batuque\ne os ritmos melancólicos do blue.\n\nÓ negro esfarrapado do Harlem\nó dançarino de Chicago\nó negro servidor do South\n\nÓ negro da África\nnegros de todo o mundo\n\nEu junto ao vosso magnífico canto\na minha pobre voz\nos meus humildes ritmos.\n\nEu vos acompanho\npelas emaranhadas áfricas\ndo nosso Rumo.\n\nEu vos sinto negros de todo o mundo\neu vivo a nossa história\nmeus irmãos.\n\nDisponível em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.\n\nNesse poema, o líder angolano Agostinho Neto, na década de 1940, evoca o pan-africanismo com o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incitar a luta por políticas de ações afirmativas na América e na África."
+      },
+      {
+        "letter": "B",
+        "text": "reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos."
+      },
+      {
+        "letter": "C",
+        "text": "descrever o quadro de pobreza após os processos de independência no continente africano."
+      },
+      {
+        "letter": "D",
+        "text": "solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola."
+      },
+      {
+        "letter": "E",
+        "text": "conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao dirigir-se a negros de Harlem, Chicago, África e “todo o mundo” como “irmãos” que compartilham “a nossa história”, o poema conclama a solidariedade pan-africanista entre as populações negras na luta por igualdade e independência — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q10",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Iniciou-se em 1903 a introdução de obras de arte com representações de bandeirantes no acervo do Museu Paulista, mediante a aquisição de uma tela que homenageava o sertanista que comandara a destruição do Quilombo de Palmares. Essa aquisição, viabilizada por verba estadual, foi simultânea à emergência de uma interpretação histórica que apontava o fenômeno do sertanismo paulista como o elo decisivo entre a trajetória territorial do Brasil e de São Paulo, concepção essa que se consolidaria entre os historiadores ligados ao Instituto Histórico e Geográfico de São Paulo ao longo das três primeiras décadas do século XX.\n\nMARINS, P. C. G. Nas matas com pose de reis: a representação de bandeirantes e a tradição da retratística monárquica europeia. Revista do LEB, n. 44, fev. 2007.\n\nA prática governamental descrita no texto, com a escolha dos temas das obras, tinha como propósito a construção de uma memória que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "afirmava a centralidade de um estado na política do país."
+      },
+      {
+        "letter": "B",
+        "text": "resgatava a importância da resistência escrava na história brasileira."
+      },
+      {
+        "letter": "C",
+        "text": "evidenciava a importância da produção artística no contexto regional."
+      },
+      {
+        "letter": "D",
+        "text": "valorizava a saga histórica do povo na afirmação de uma memória social."
+      },
+      {
+        "letter": "E",
+        "text": "destacava a presença do indígena no desbravamento do território colonial."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao vincular o sertanismo paulista ao “elo decisivo” da formação territorial do Brasil, a narrativa histórica encomendada pelo governo estadual afirmava a centralidade de São Paulo — um estado — na trajetória política e territorial do país, reforçando sua liderança no cenário nacional — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q11",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Calendário medieval, século XV, composto por doze imagens que representam cada um dos meses do ano por meio de atividades de trabalho rural típicas de cada estação: plantio, colheita, poda, caça e preparo da terra, conforme a época do ano.\n\nDisponível em: www.ac-grenoble.fr. Acesso em: 10 maio 2012.\n\nOs calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro. Com base na análise do calendário, apreende-se uma concepção de tempo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cíclica, marcada pelo mito arcaico do eterno retorno."
+      },
+      {
+        "letter": "B",
+        "text": "humanista, identificada pelo controle das horas de atividade por parte do trabalhador."
+      },
+      {
+        "letter": "C",
+        "text": "escatológica, associada a uma visão religiosa sobre o trabalho."
+      },
+      {
+        "letter": "D",
+        "text": "natural, expressa pelo trabalho realizado de acordo com as estações do ano."
+      },
+      {
+        "letter": "E",
+        "text": "romântica, definida por uma visão bucólica da sociedade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cada mês do calendário é representado por uma atividade agrícola típica da estação correspondente (plantio, colheita, poda), evidenciando uma concepção de tempo natural, ritmada pelas estações do ano — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q12",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.\n\nBAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).\n\nUma causa para o processo socioespacial mencionado no texto é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "carência de matérias-primas."
+      },
+      {
+        "letter": "B",
+        "text": "degradação da rede rodoviária."
+      },
+      {
+        "letter": "C",
+        "text": "aumento do crescimento vegetativo."
+      },
+      {
+        "letter": "D",
+        "text": "centralização do poder político."
+      },
+      {
+        "letter": "E",
+        "text": "realocação da atividade industrial."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A desaceleração do crescimento populacional dos grandes centros urbanos brasileiros está associada à realocação de indústrias para cidades médias e regiões metropolitanas menos centrais, redistribuindo empregos e população — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q13",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Trasímaco estava impaciente porque Sócrates e os seus amigos presumiam que a justiça era algo real e importante. Trasímaco negava isso. Em seu entender, as pessoas acreditavam no certo e no errado apenas por terem sido ensinadas a obedecer às regras da sua sociedade. No entanto, essas regras não passavam de invenções humanas.\n\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\n\nO sofista Trasímaco, personagem imortalizado no diálogo A República, de Platão, sustentava que a correlação entre justiça e ética é resultado de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "determinações biológicas impregnadas na natureza humana."
+      },
+      {
+        "letter": "B",
+        "text": "verdades objetivas com fundamento anterior aos interesses sociais."
+      },
+      {
+        "letter": "C",
+        "text": "mandamentos divinos inquestionáveis legados das tradições antigas."
+      },
+      {
+        "letter": "D",
+        "text": "convenções sociais resultantes de interesses humanos contingentes."
+      },
+      {
+        "letter": "E",
+        "text": "sentimentos experimentados diante de determinadas atitudes humanas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para Trasímaco, as noções de certo e errado não passam de “invenções humanas”, ou seja, convenções sociais criadas para atender a interesses contingentes, e não verdades objetivas ou naturais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q14",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido, por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.\n\nHOLANDA, S. B. Raízes do Brasil. São Paulo: Cia. das Letras, 1995.\n\nUm traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rigidez das normas jurídicas."
+      },
+      {
+        "letter": "B",
+        "text": "prevalência dos interesses privados."
+      },
+      {
+        "letter": "C",
+        "text": "solidez da organização institucional."
+      },
+      {
+        "letter": "D",
+        "text": "legitimidade das ações burocráticas."
+      },
+      {
+        "letter": "E",
+        "text": "estabilidade das estruturas políticas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Sérgio Buarque de Holanda descreve uma sociedade organizada por “vínculos de pessoa a pessoa” e lealdades pessoais (o “homem cordial”), em detrimento de instituições racionais e impessoais — ou seja, a prevalência dos interesses privados sobre o público — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q15",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 15,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.\n\nLOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).\n\nA existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão da fronteira agrícola."
+      },
+      {
+        "letter": "B",
+        "text": "remoção de populações nativas."
+      },
+      {
+        "letter": "C",
+        "text": "superação da condição de pobreza."
+      },
+      {
+        "letter": "D",
+        "text": "valorização de identidades coletivas."
+      },
+      {
+        "letter": "E",
+        "text": "implantação de modernos projetos agroindustriais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao mapearem eles mesmos suas terras tradicionais, indígenas e quilombolas reafirmam seu vínculo com o território e sua identidade coletiva, usando a cartografia como instrumento de valorização e reconhecimento dessas identidades — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q16",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimentos, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.\n\nHUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1995.\n\nHume estabelece um vínculo entre pensamento e impressão ao considerar que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os conteúdos das ideias no intelecto têm origem na sensação."
+      },
+      {
+        "letter": "B",
+        "text": "o espírito é capaz de classificar os dados da percepção sensível."
+      },
+      {
+        "letter": "C",
+        "text": "as ideias fracas resultam de experiências sensoriais determinadas pelo acaso."
+      },
+      {
+        "letter": "D",
+        "text": "os sentimentos ordenam como os pensamentos devem ser processados na memória."
+      },
+      {
+        "letter": "E",
+        "text": "as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para Hume, toda ideia (mesmo as mais criativas, como uma “montanha de ouro”) é composta a partir de materiais fornecidos pelos sentidos e pela experiência: o conteúdo das ideias tem origem na sensação — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q17",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.\n\nAQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. Escritos políticos de São Tomás de Aquino. Petrópolis: Vozes, 1995 (adaptado).\n\nNo trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "refrear os movimentos religiosos contestatórios."
+      },
+      {
+        "letter": "B",
+        "text": "promover a atuação da sociedade civil na vida política."
+      },
+      {
+        "letter": "C",
+        "text": "unir a sociedade tendo em vista a realização do bem comum."
+      },
+      {
+        "letter": "D",
+        "text": "reformar a religião por meio do retorno à tradição helenística."
+      },
+      {
+        "letter": "E",
+        "text": "dissociar a relação política entre os poderes temporal e espiritual."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Assim como o navio precisa de um piloto para chegar a bom porto apesar dos ventos contrários, os homens, que agem de modos diversos, precisam de um dirigente (o rei) que os conduza unidos ao fim comum — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q18",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.\n\nTAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. Reforma política no Brasil. Belo Horizonte: UFMG, 2006 (adaptado).\n\nEm relação ao regime democrático no país, a instituição analisada teve o seguinte papel:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Implementou o voto direto para presidente."
+      },
+      {
+        "letter": "B",
+        "text": "Combateu as fraudes sistemáticas nas apurações."
+      },
+      {
+        "letter": "C",
+        "text": "Alterou as regras para as candidaturas na ditadura."
+      },
+      {
+        "letter": "D",
+        "text": "Impulsionou as denúncias de corrupção administrativa."
+      },
+      {
+        "letter": "E",
+        "text": "Expandiu a participação com o fim do critério censitário."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao criar um órgão “imune à influência dos mandatários” para supervisionar as eleições, a Justiça Eleitoral de 1932 teve o papel fundamental de combater as fraudes sistemáticas que marcavam as apurações na Primeira República — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q20",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!\n\nDiscurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937, na qual as bandeiras estaduais foram queimadas diante da bandeira nacional. Apud OLIVEN, G. R. A parte e o todo: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.\n\nO discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "supressão das diferenças socioeconômicas entre as regiões do Brasil, priorizando as regiões estaduais carentes."
+      },
+      {
+        "letter": "B",
+        "text": "orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana."
+      },
+      {
+        "letter": "C",
+        "text": "adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos."
+      },
+      {
+        "letter": "D",
+        "text": "propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira."
+      },
+      {
+        "letter": "E",
+        "text": "defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao queimar simbolicamente as bandeiras estaduais e impor a bandeira nacional como “única”, o Estado Novo eliminava manifestações de identidade regional que pudessem se opor ao poder central — uma prática política autoritária de contenção dos regionalismos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q21",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.\n\nSCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).\n\nAs ações tomadas pelos países contra a espionagem revelam preocupação com o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "subsídio industrial."
+      },
+      {
+        "letter": "B",
+        "text": "hegemonia cultural."
+      },
+      {
+        "letter": "C",
+        "text": "protecionismo dos mercados."
+      },
+      {
+        "letter": "D",
+        "text": "desemprego tecnológico."
+      },
+      {
+        "letter": "E",
+        "text": "segurança dos dados."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As represálias contra empresas de informática norte-americanas, motivadas por casos de espionagem digital, revelam a preocupação dos países com a segurança dos dados de seus governos e cidadãos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q22",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "TEXTO I\n\nCanudos não se rendeu. Exemplo único em toda a história, resistiu até o esgotamento completo. Vencido palmo a palmo, na precisão integral do termo, caiu no dia 5, ao entardecer, quando caíram os seus últimos defensores, que todos morreram. Eram quatro apenas: um velho, dois homens feitos e uma criança, na frente dos quais rugiam raivosamente cinco mil soldados.\n\nCUNHA, E. Os sertões. Rio de Janeiro: Francisco Alves, 1987.\n\nTEXTO II\n\nNa trincheira, no centro do reduto, permaneciam quatro fanáticos sobreviventes do extermínio. Era um velho, coxo por ferimento e usando uniforme da Guarda Católica, um rapaz de 16 a 18 anos, um preto alto e magro, e um caboclo. Ao serem intimados para deporem as armas, investiram com enorme fúria. Assim estava terminada e de maneira tão trágica a sanguinosa guerra, que o banditismo e o fanatismo traziam acesa por longos meses, naquele recanto do território nacional.\n\nSOARES, H. M. A Guerra de Canudos. Rio de Janeiro: Altina, 1902.\n\nOs relatos do último ato da Guerra de Canudos fazem uso de representações que se perpetuariam na memória construída sobre o conflito. Nesse sentido, cada autor caracterizou a atitude dos sertanejos, respectivamente, como fruto da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manipulação e incompetência."
+      },
+      {
+        "letter": "B",
+        "text": "ignorância e solidariedade."
+      },
+      {
+        "letter": "C",
+        "text": "hesitação e obstinação."
+      },
+      {
+        "letter": "D",
+        "text": "esperança e valentia."
+      },
+      {
+        "letter": "E",
+        "text": "bravura e loucura."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Euclides da Cunha narra a resistência de Canudos em tom épico, ressaltando a bravura dos quatro últimos defensores diante de cinco mil soldados; já Soares os descreve como “fanáticos” tomados de “fúria”, associando-os à loucura — bravura e loucura, respectivamente — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
