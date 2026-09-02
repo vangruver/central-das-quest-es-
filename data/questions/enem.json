@@ -754,5 +754,278 @@
     "annulled": false,
     "explanation": "A regra de descanso equivale a um intervalo mínimo de 4 dias entre duas partidas de uma mesma equipe (de domingo a quinta são 4 dias de diferença). Na fase de grupos, cada equipe joga uma única partida por rodada (3 rodadas, uma para cada adversário do grupo), então basta espaçar as 3 rodadas em 4 dias cada uma: rodada 1 no dia 1, rodada 2 no dia 5, rodada 3 no dia 9. A cada fase seguinte (oitavas, quartas, semifinal, final), as equipes que avançam jogam pela primeira vez desde a fase anterior, então cada nova fase também precisa esperar 4 dias após a fase anterior: oitavas no dia 13, quartas no dia 17, semifinal no dia 21, final no dia 25. Contando do dia 1 (primeiro jogo) até o dia 25 (final), inclusive, o torneio inteiro dura 25 dias — alternativa B.",
     "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q06",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Interpretação de Texto"],
+    "statement": "TEXTO I\n\nPor “complexo de vira-latas” entendo eu a inferioridade em que o brasileiro se coloca, voluntariamente, em face do resto do mundo. Isto em todos os setores e, sobretudo, no futebol. Dizer que nós nos julgamos “os maiores” é uma cínica inverdade. Em Wembley, por que perdemos? Porque, diante do quadro inglês, louro e sardento, a equipe brasileira ganiu de humildade. Jamais foi tão evidente e, eu diria mesmo, espetacular o nosso vira-latismo [...]. É um problema de fé em si mesmo. O brasileiro precisa se convencer de que não é um vira-latas.\n\nRODRIGUES, N. À sombra das chuteiras imortais. São Paulo: Cia. das Letras, 1993.\n\nTEXTO II\n\nA melhor banda de todos os tempos da última semana\n\nAs músicas mais pedidas\nOs discos que vendem mais\nAs novidades antigas\nNas páginas dos jornais\n\nUm idiota em inglês\nSe é idiota, é bem menos que nós\nUm idiota em inglês\nÉ bem melhor do que eu e vocês\n\nA melhor banda de todos os tempos da última semana\nO melhor disco brasileiro de música americana\nO melhor disco dos últimos anos de sucessos do passado\nO maior sucesso de todos os tempos entre os dez maiores fracassos\n\nTITÃS. A melhor banda de todos os tempos da última semana. São Paulo: Abril Music, 2001 (fragmento).\n\nO verso do Texto II que estabelece a adequada relação temática com “o nosso vira-latismo”, presente no Texto I, é:",
+    "alternatives": [
+      { "letter": "A", "text": "“As novidades antigas”." },
+      { "letter": "B", "text": "“Os discos que vendem mais”." },
+      { "letter": "C", "text": "“O melhor disco brasileiro de música americana”." },
+      { "letter": "D", "text": "“A melhor banda de todos os tempos da última semana”." },
+      { "letter": "E", "text": "“O maior sucesso de todos os tempos entre os dez maiores fracassos”." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O “complexo de vira-latas”, definido no Texto I, é a inferioridade que o brasileiro sente diante do estrangeiro, valorizando o que vem de fora em detrimento do que é nacional. No Texto II, o verso “o melhor disco brasileiro de música americana” expressa exatamente essa lógica: o disco brasileiro só é elogiado na medida em que imita/reproduz a música americana — ou seja, a produção nacional só tem valor quando se mede pelo padrão estrangeiro. É a alternativa C. Os demais versos são apenas outras frases irônicas e paradoxais da canção (sobre sucesso efêmero, fracasso), mas não tematizam especificamente essa relação de subordinação cultural ao estrangeiro.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q22",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Interpretação de Texto"],
+    "statement": "A ascensão das novas tecnologias de comunicação causou alvoroço, quando não gerou discursos apocalípticos acerca da finitude dos objetos nos quais se ancorava a cultura letrada. As atenções voltaram-se, sobretudo, para o mais difundido de todos esses objetos: o livro impresso. A crer nesses diagnósticos sombrios, os livros e a noção romântica de autoria estavam fadados ao desaparecimento. O triunfo do hipertexto e a difusão dos e-books inscreveriam um marco na linha do tempo, semelhante aos daqueles suscitados pelo advento da escrita e da “revolução do impresso”. Decerto porque as mudanças no padrão tecnológico de comunicação alteram práticas e representações culturais. Contudo, os investigadores insistem que uma perspectiva evolutiva e progressiva acaba por obscurecer o fato de que as normas, as funções e os usos da cultura letrada não são compartilhados de maneira igual, como também não anulam as formas precedentes.\n\nApesar dos avanços, a história da leitura não pode restringir seu interesse ao livro, tendo de considerar outras formas de impresso de ampla circulação e suportes de textos não impressos. Isso é particularmente relevante no Brasil, onde a imprensa aportou tardiamente e o letramento custou a se espalhar pela sociedade.\n\nSCHAPOCHNIK, N. Cultura letrada: objetos e práticas – uma introdução. In: ABREU, M.; SCHAPOCHNIK, N. (Org.). Cultura letrada no Brasil: objetos e práticas. Campinas: Mercado das Letras, 2005 (adaptado).\n\nNesse texto, ao abordar o desenvolvimento da cultura letrada no país, o autor defende a ideia de que",
+    "alternatives": [
+      { "letter": "A", "text": "livros eletrônicos revolucionam ações de letramento." },
+      { "letter": "B", "text": "veículos midiáticos interferem na formação de leitores." },
+      { "letter": "C", "text": "tecnologias de leitura novas desconsideram as anteriores." },
+      { "letter": "D", "text": "aparatos tecnológicos prejudicam hábitos culturais." },
+      { "letter": "E", "text": "práticas distintas constroem a história da leitura." }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O autor relativiza os “discursos apocalípticos” sobre o fim do livro impresso, argumentando que a cultura letrada envolve normas, funções e usos que “não são compartilhados de maneira igual” e que as novas tecnologias “não anulam as formas precedentes”. Ele também defende que a história da leitura precisa considerar “outras formas de impresso” e “suportes de textos não impressos”, não só o livro. Ou seja: são práticas de leitura diversas e coexistentes — não uma substituição linear de uma tecnologia por outra — que constroem essa história. Isso corresponde à alternativa E. As demais alternativas atribuem ao autor posições que ele justamente relativiza ou não defende (revolução do e-book, tecnologias que ignoram as antigas, prejuízo cultural das novas tecnologias).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q26",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Gêneros Textuais"],
+    "statement": "Reclame\n\nse o mundo não vai bem\na seus olhos, use lentes\n... ou transforme o mundo.\nótica olho vivo agradece a preferência.\n\nCHACAL. Disponível em: www.escritas.org. Acesso em: 14 ago. 2014.\n\nOs gêneros podem ser híbridos, mesclando características de diferentes composições textuais que circulam socialmente. Nesse poema, o autor preservou, do gênero publicitário, a seguinte característica:",
+    "alternatives": [
+      { "letter": "A", "text": "Extensão do texto." },
+      { "letter": "B", "text": "Emprego da injunção." },
+      { "letter": "C", "text": "Apresentação do título." },
+      { "letter": "D", "text": "Disposição das palavras." },
+      { "letter": "E", "text": "Pontuação dos períodos." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O poema usa verbos no imperativo (“use lentes”, “transforme o mundo”), que é justamente o recurso da injunção — instruir, mandar, aconselhar o leitor a fazer algo —, típico da linguagem publicitária, que busca convencer o consumidor a agir (comprar, usar um produto). Por isso, a característica do gênero publicitário preservada no poema é o emprego da injunção, alternativa B. As demais opções (extensão, título, disposição das palavras, pontuação) são características formais que não são exclusivas nem definidoras do texto publicitário.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q46",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": ["Filosofia Antiga e Medieval"],
+    "statement": "Demócrito julga que a natureza das coisas eternas são pequenas substâncias infinitas, em grande número. E julga que as substâncias são tão pequenas que fogem às nossas percepções. E lhes são inerentes formas de toda espécie, figuras de toda espécie e diferenças em grandeza. Destas, então, engendram-se e combinam-se todos os volumes visíveis e perceptíveis.\n\nSIMPLÍCIO. Do Céu (DK 68 a 37). In: Os pré-socráticos. São Paulo: Nova Cultural, 1996 (adaptado).\n\nA Demócrito atribui-se a origem do conceito de",
+    "alternatives": [
+      { "letter": "A", "text": "porção mínima da matéria, o átomo." },
+      { "letter": "B", "text": "princípio móvel do universo, a arché." },
+      { "letter": "C", "text": "qualidade única dos seres, a essência." },
+      { "letter": "D", "text": "quantidade variante da massa, o corpus." },
+      { "letter": "E", "text": "substrato constitutivo dos elementos, a physis." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto descreve “pequenas substâncias infinitas”, imperceptíveis pelos sentidos por seu tamanho, que se combinam para formar todos os corpos visíveis — essa é exatamente a doutrina atomista atribuída a Demócrito (e a seu mestre Leucipo): a matéria é formada por partículas indivisíveis, os átomos (do grego “átomos”, que não pode ser cortado). Por isso a resposta é A. As demais alternativas remetem a outros conceitos da filosofia pré-socrática ou clássica (arché, essência, physis) que não correspondem especificamente à contribuição de Demócrito descrita no texto.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q50",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": ["Meio Ambiente e Sustentabilidade"],
+    "statement": "O modelo de conservacionismo norte-americano espalhou-se rapidamente pelo mundo recriando a dicotomia entre “povos” e “parques”. Como essa ideologia se expandiu, sobretudo para os países do Terceiro Mundo, seu efeito foi devastador sobre as “populações tradicionais” de extrativistas, pescadores, índios, cuja relação com a natureza é diferente da analisada pelos primeiros “ideólogos” dos parques nacionais norte-americanos. É fundamental enfatizar que a transposição deste “modelo” de parques sem moradores, vindo de países industrializados e de clima temperado, para países cujas florestas remanescentes foram e continuam sendo, em grande parte, habitadas por populações tradicionais, está na base não só de conflitos insuperáveis, mas de uma visão inadequada de áreas protegidas.\n\nDIEGUES, A. C. O mito da natureza intocada. São Paulo: Hucitec; Nupaub-USP/CEC, 2008 (adaptado).\n\nO modelo de preservação ambiental criticado no texto é considerado inadequado para o Brasil por promover ações que",
+    "alternatives": [
+      { "letter": "A", "text": "incentivam o comércio de produtos locais." },
+      { "letter": "B", "text": "separam o homem do lugar de origem." },
+      { "letter": "C", "text": "regulamentam as disputas fundiárias." },
+      { "letter": "D", "text": "deslocam a diversidade biológica." },
+      { "letter": "E", "text": "fomentam a atividade turística." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto explica que o modelo conservacionista importado cria “parques sem moradores”, incompatível com florestas que são “habitadas por populações tradicionais” (extrativistas, pescadores, indígenas). Ou seja, o problema central apontado é que esse modelo remove essas populações do território onde vivem e mantêm sua relação com a natureza — separa o homem do lugar de origem, alternativa B. As demais alternativas descrevem efeitos que não são o cerne da crítica do texto, que é especificamente sobre a expulsão/exclusão de populações tradicionais de seu território.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q58",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Brasil Império"],
+    "statement": "A expedição que alcançava a foz do Rio Mucuri era liderada por Teófilo Benedito Ottoni (1807-1869), empresário e político mineiro, que lá pretendia abrir um porto para ligar Minas ao mar. A localidade de Filadélfia era a materialização desse sonho. O nome escolhido era, ao mesmo tempo, uma homenagem à cidade símbolo da independência dos Estados Unidos e um manifesto de adesão a ideais igualitários. Essa filosofia também transparecia na relação com os índios, com os quais o político mineiro procurou negociar a ocupação do território em troca do respeito ao que hoje chamaríamos de reserva.\n\nARAÚJO, V. L. Uma utopia republicana. Revista de História da Biblioteca Nacional, n. 67, abr. 2011 (adaptado).\n\nUm elemento que caracterizou, no âmbito da sociedade monárquica, o projeto inovador abordado no texto foi",
+    "alternatives": [
+      { "letter": "A", "text": "introduzir o protestantismo como mecanismo de integração social." },
+      { "letter": "B", "text": "ampliar a cidadania para integrar os grupos autóctones da região." },
+      { "letter": "C", "text": "aceitar os aborígenes como mão de obra do empreendimento." },
+      { "letter": "D", "text": "reconhecer os nativos para discutir a forma de ocupação do terreno." },
+      { "letter": "E", "text": "incorporar a doutrina liberal como fundamento das relações citadinas." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto diz que Teófilo Ottoni “procurou negociar a ocupação do território em troca do respeito” às terras indígenas — ou seja, tratou os índios como interlocutores válidos, reconhecendo-os para negociar/discutir a ocupação da terra, em vez de simplesmente expulsá-los ou escravizá-los, prática comum na colonização do período. Isso corresponde à alternativa D. As demais alternativas descrevem elementos não mencionados no texto (protestantismo, cidadania plena, mão de obra indígena, doutrina liberal urbana).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q63",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": ["Ética e Política"],
+    "statement": "Em Utopia, tudo é comum a todos. A distribuição dos bens lá não é um problema, não se vê nem pobre nem mendigo e, embora ninguém tenha nada de seu, todos são ricos. Haverá maior riqueza do que levar uma existência alegre e pacífica, livre de ansiedades e sem precisar se preocupar com a subsistência?\n\nMORUS, T. Utopia. Brasília: UnB, 2004.\n\nRetirado da obra de Thomas Morus, escrita no século XVI, esse trecho influenciou movimentos sociais do século XIX que lutaram para",
+    "alternatives": [
+      { "letter": "A", "text": "inibir a ascensão da burguesia." },
+      { "letter": "B", "text": "evitar a destruição da natureza." },
+      { "letter": "C", "text": "combater o domínio do capital." },
+      { "letter": "D", "text": "eliminar a intolerância religiosa." },
+      { "letter": "E", "text": "superar o atraso tecnológico." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em Utopia, Thomas Morus imagina uma sociedade sem propriedade privada, sem pobreza, em que os bens são comuns a todos. Essa ideia de abolição da propriedade privada e de distribuição comum dos bens é uma das raízes intelectuais do pensamento socialista, que no século XIX se organizou justamente para combater o domínio do capital privado sobre a produção e a vida social (a exploração do trabalho pela propriedade privada dos meios de produção). Por isso, a alternativa correta é C. As demais alternativas não correspondem à pauta histórica dos movimentos socialistas do século XIX inspirados nesse ideal igualitário.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q67",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Idade Contemporânea"],
+    "statement": "O parlamento britânico aprovou uma lei, em 1835, cujo objetivo era regular o tráfego crescente nas principais vias no interior da Inglaterra, uma espécie de “código rodoviário”. A lei de 1835 estabeleceu a velocidade máxima de 4 milhas por hora para veículos autopropulsionados. As regras foram revistas pelo parlamento em 1896, quando foi aumentada a velocidade máxima para 10 milhas. Em 1903, novamente elevou-se o limite de velocidade para 20 milhas por hora. Em 1930, aboliu-se o limite de velocidade para carros e motos.\n\nELIAS, N. Tecnização e civilização. In: ELIAS, N. Escritos e ensaios. Rio de Janeiro: Zahar, 2006 (adaptado).\n\nO processo descrito alude à necessidade de atualização da legislação conforme",
+    "alternatives": [
+      { "letter": "A", "text": "as transformações tecnológicas." },
+      { "letter": "B", "text": "a renovação do congresso." },
+      { "letter": "C", "text": "os interesses políticos." },
+      { "letter": "D", "text": "o modo de produção." },
+      { "letter": "E", "text": "a opinião pública." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto narra a evolução do limite de velocidade permitido por lei (4, depois 10, depois 20 milhas por hora, até a abolição do limite) ao longo de quase um século, acompanhando a evolução dos veículos automotores (“autopropulsionados”), que foram ficando progressivamente mais rápidos, potentes e seguros. A legislação precisou se atualizar continuamente para acompanhar essas mudanças tecnológicas nos veículos, alternativa A. O texto não relaciona a mudança da lei a eleições, interesses políticos específicos, modo de produção ou opinião pública, mas sim ao avanço técnico dos automóveis em si.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q71",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": ["Filosofia Contemporânea"],
+    "statement": "A maioria das necessidades comuns de descansar, distrair-se, comportar-se, amar e odiar o que os outros amam e odeiam pertence a essa categoria de falsas necessidades. Tais necessidades têm um conteúdo e uma função determinada por forças externas, sobre as quais o indivíduo não tem controle algum.\n\nMARCUSE, H. A ideologia da sociedade industrial: o homem unidimensional. Rio de Janeiro: Zahar, 1979.\n\nSegundo Marcuse, um dos pesquisadores da chamada Escola de Frankfurt, tais forças externas são resultantes de",
+    "alternatives": [
+      { "letter": "A", "text": "aspirações de cunho espiritual." },
+      { "letter": "B", "text": "propósitos solidários de classes." },
+      { "letter": "C", "text": "exposição cibernética crescente." },
+      { "letter": "D", "text": "interesses de ordem socioeconômica." },
+      { "letter": "E", "text": "hegemonia do discurso médico-científico." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para Marcuse e a Escola de Frankfurt, as “falsas necessidades” são induzidas de fora do indivíduo pela própria sociedade industrial capitalista — em especial pela indústria cultural e pela publicidade —, que fabricam desejos de consumo funcionais à manutenção do sistema econômico vigente. Ou seja, essas forças externas têm origem em interesses de ordem socioeconômica (do sistema produtivo/capitalista), alternativa D. As demais alternativas (espiritualidade, solidariedade de classe, tecnologia, discurso médico) não correspondem ao diagnóstico da Escola de Frankfurt sobre a origem das falsas necessidades.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q76",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": ["Cultura e Sociedade"],
+    "statement": "Apesar da grande distância geográfica em relação ao território japonês, os otakus (jovens aficionados em cultura pop japonesa) brasileiros vinculam-se socialmente hoje em eventos e a partir de uma circulação intensa de mangás, animes, games, fanzines, j-music (música pop japonesa). O consumo em escala mundial dos produtos da cultura pop – enfaticamente midiática – produzida no Japão constitui um momento histórico em que se aponta a ambivalência sobre o que significa a produção midiática e cultural quando percebida no próprio país e como a percepção de tal produção se transforma radicalmente nos olhares de consumidores estrangeiros.\n\nGUSHIKEN, Y.; HIRATA, T. Processos de consumo cultural e midiático: imagens dos otakus, do Japão ao mundo. Intercom – RBCC, n. 2, jul.-dez. 2014 (adaptado).\n\nConsiderando a relação entre meios de comunicação e formação de identidades tal como é abordada no texto, a noção que explica este fenômeno na atualidade é a de",
+    "alternatives": [
+      { "letter": "A", "text": "tribalismo das culturas juvenis." },
+      { "letter": "B", "text": "alienação das novas gerações." },
+      { "letter": "C", "text": "hierarquização das matrizes culturais." },
+      { "letter": "D", "text": "passividade das relações de consumo." },
+      { "letter": "E", "text": "deterioração das referências nacionais." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os otakus brasileiros formam um grupo social (uma “tribo” urbana/juvenil) que se identifica e se une em torno do consumo compartilhado de produtos culturais japoneses (mangás, animes, games), mesmo sem proximidade geográfica com o Japão — vínculo construído por afinidade cultural e não por território. Esse fenômeno de agrupamento social de jovens em torno de gostos e consumos culturais compartilhados é descrito na sociologia contemporânea como tribalismo das culturas juvenis (conceito associado, entre outros, a Michel Maffesoli), alternativa A. As demais alternativas (alienação, hierarquização, passividade) contradizem a ideia de um vínculo social ativo e identitário descrita no texto.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q80",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": ["Geografia Urbana"],
+    "statement": "BRASIL. IBGE. Regiões de influência de cidades 2007. Rio de Janeiro: IBGE, 2008 (adaptado).\n\n[O texto de apoio original desta questão inclui um mapa do estudo do IBGE sobre a rede urbana brasileira, não reproduzido aqui.]\n\nO critério que rege a hierarquia urbana é a",
+    "alternatives": [
+      { "letter": "A", "text": "existência de distritos industriais de grande porte." },
+      { "letter": "B", "text": "importância histórica dos centros urbanos tradicionais." },
+      { "letter": "C", "text": "centralidade exercida por algumas cidades em relação às demais." },
+      { "letter": "D", "text": "proximidade em relação ao litoral das principais cidades brasileiras." },
+      { "letter": "E", "text": "presença de sedes de multinacionais potencializando a conexão global." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O critério clássico da geografia urbana para definir a hierarquia entre cidades é a centralidade: cidades de nível hierárquico mais alto (metrópoles, capitais regionais) concentram serviços, comércio e funções especializadas que atendem também à população de cidades menores em sua área de influência — é essa capacidade de polarizar/centralizar funções urbanas para uma região mais ampla que define a posição de uma cidade na rede urbana, e não fatores isolados como distritos industriais, tradição histórica, litoral ou presença de multinacionais (que podem contribuir para a centralidade, mas não a definem por si só). Por isso a resposta é C. Nota: este item teve seu gabarito oficialmente retificado pelo INEP após a divulgação inicial.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida para fins educacionais e não comerciais; o mapa de apoio original não foi reproduzido. Gabarito retificado pelo INEP." }
+  },
+  {
+    "id": "enem-2018-ppl-q85",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Brasil Império"],
+    "statement": "Os próprios senhores de engenho eram uns gulosos de doce e de comidas adocicadas. Houve engenho que ficou com o nome de “Guloso”. E Manuel Tomé de Jesus, no seu Engenho de Noruega, antigo dos Bois, vivia a encomendar doces às doceiras de Santo Antão; vivia a receber presentes de doces de seus compadres. Os bolos feitos em casa pelas negras não chegavam para o gasto. O velho capitão-mor era mesmo que menino por alfenim e cocada. E como estava sempre hospedando frades e padres no seu casarão de Noruega, tinha o cuidado de conservar em casa uma opulência de doces finos.\n\nFREYRE, G. Nordeste: aspectos da influência da cana sobre a vida e a paisagem do Nordeste do Brasil. Rio de Janeiro: José Olympio, 1985 (adaptado).\n\nO texto relaciona-se a uma prática do Nordeste oitocentista que está evidenciada em:",
+    "alternatives": [
+      { "letter": "A", "text": "Produção familiar de bens para festejar as datas religiosas." },
+      { "letter": "B", "text": "Fabricação escrava de alimentos para manter o domínio das elites." },
+      { "letter": "C", "text": "Circulação regional de produtos para garantir as trocas metropolitanas." },
+      { "letter": "D", "text": "Criação artesanal de iguarias para assegurar as redes de sociabilidade." },
+      { "letter": "E", "text": "Comercialização ambulante de quitutes para reproduzir a tradição portuguesa." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto de Gilberto Freyre descreve doces sendo encomendados, trocados como presentes entre compadres e oferecidos a hóspedes (frades, padres) — não vendidos comercialmente, mas usados para cultivar laços sociais (compadrio, hospitalidade, prestígio entre senhores de engenho). Essa produção artesanal de doces finos, portanto, servia para alimentar redes de sociabilidade entre os senhores de engenho e seus círculos sociais, alternativa D. Não há, no texto, menção a datas religiosas específicas (A), venda ambulante (E) ou comércio metropolitano (C); e embora as doceiras e “negras” mencionadas no texto façam o trabalho, o foco da questão está no papel social do doce entre os senhores, não numa crítica ao trabalho escravo em si (o que tornaria B incorreta como leitura central do trecho).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2018-ppl-q89",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": ["Meio Ambiente e Sustentabilidade"],
+    "statement": "O Decreto Federal n. 7.390/2010, que regulamenta a Lei da Política Nacional sobre Mudança do Clima (PNMC) no Brasil, projeta que as emissões nacionais de gases de efeito estufa (GEE) em 2020 serão de 3,236 milhões [de toneladas]. Esse mesmo decreto define o compromisso nacional voluntário do Brasil em reduzir as emissões de GEE projetadas para 2020 entre 38,6% e 38,9%.\n\nBRASIL. Decreto n. 7.390, de 9 de dezembro de 2010. Disponível em: www.planalto.gov.br. Acesso em: 2 jun. 2014 (adaptado).\n\nO cumprimento da meta mencionada está condicionada por",
+    "alternatives": [
+      { "letter": "A", "text": "abdicar das usinas nucleares." },
+      { "letter": "B", "text": "explorar reservas do pré-sal." },
+      { "letter": "C", "text": "utilizar gás de xisto betuminoso." },
+      { "letter": "D", "text": "investir em energias sustentáveis." },
+      { "letter": "E", "text": "encarecer a produção de automóveis." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para cumprir a meta de redução das emissões de gases de efeito estufa fixada pelo decreto, o caminho coerente é investir em fontes de energia limpas/sustentáveis (que emitem menos GEE), substituindo gradualmente fontes fósseis mais poluentes. As demais opções vão na direção oposta ao objetivo (explorar mais petróleo do pré-sal ou gás de xisto aumentaria as emissões) ou não têm relação direta e necessária com a meta (abdicar de usinas nucleares tenderia a aumentar a dependência de fósseis; encarecer automóveis não ataca a causa das emissões). Por isso, a alternativa correta é D.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais." }
   }
 ]
