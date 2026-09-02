@@ -14984,5 +14984,620 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2013-q69",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A formação frequente de grandes volumes de pirita (FeS2) em uma variedade de depósitos minerais favorece a formação de soluções ácidas ferruginosas, conhecidas como “drenagem ácida de minas”. Esse fenômeno tem sido bastante pesquisado pelos cientistas e representa uma grande preocupação entre os impactos da mineração no ambiente. Em contato com oxigênio, a 25 °C, a pirita sofre reação, de acordo com a equação química:\n\n4 FeS2 (s) + 15 O2 (g) + 2 H2O (l) → 2 Fe2(SO4)3 (aq) + 2 H2SO4 (aq)\n\nFIGUEIREDO, B. R. Minérios e ambiente. Campinas: Unicamp, 2000.\n\nPara corrigir os problemas ambientais causados por essa drenagem, a substância mais recomendada a ser adicionada ao meio é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sulfeto de sódio."
+      },
+      {
+        "letter": "B",
+        "text": "cloreto de amônio."
+      },
+      {
+        "letter": "C",
+        "text": "dióxido de enxofre."
+      },
+      {
+        "letter": "D",
+        "text": "dióxido de carbono."
+      },
+      {
+        "letter": "E",
+        "text": "carbonato de cálcio."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O carbonato de cálcio (calcário) é uma base que neutraliza o ácido sulfúrico formado na drenagem ácida, elevando o pH e precipitando os íons metálicos dissolvidos — tratamento clássico e de baixo custo para esse tipo de contaminação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q71",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A varfarina é um fármaco que diminui a agregação plaquetária, e por isso é utilizada como anticoagulante, desde que esteja presente no plasma, com uma concentração superior a 1,0 mg/L. Entretanto, concentrações plasmáticas superiores a 4,0 mg/L podem desencadear hemorragias. As moléculas desse fármaco ficam retidas no espaço intravascular e dissolvidas exclusivamente no plasma, que representa aproximadamente 60% do sangue em volume. Em um medicamento, a varfarina é administrada por via intravenosa na forma de solução aquosa, com concentração de 3,0 mg/mL. Um indivíduo adulto, com volume sanguíneo total de 5,0 L, será submetido a um tratamento com solução injetável desse medicamento.\n\nQual é o máximo volume da solução do medicamento que pode ser administrado a esse indivíduo, pela via intravenosa, de maneira que não ocorram hemorragias causadas pelo anticoagulante?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 mL"
+      },
+      {
+        "letter": "B",
+        "text": "1,7 mL"
+      },
+      {
+        "letter": "C",
+        "text": "2,7 mL"
+      },
+      {
+        "letter": "D",
+        "text": "4,0 mL"
+      },
+      {
+        "letter": "E",
+        "text": "6,7 mL"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O volume de plasma é 60% de 5,0 L = 3,0 L. A massa máxima segura de varfarina no plasma é 4,0 mg/L × 3,0 L = 12 mg. Com a solução a 3,0 mg/mL, o volume máximo é 12/3,0 = 4,0 mL — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q74",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Eu também podia decompor a água, se fosse salgada ou acidulada, usando a pilha de Daniell como fonte de força. Lembro o prazer extraordinário que sentia ao decompor um pouco de água em uma taça para ovos quentes, vendo-a separar-se em seus elementos, o oxigênio em um eletrodo, o hidrogênio no outro. A eletricidade de uma pilha de 1 volt parecia tão fraca, e no entanto podia ser suficiente para desfazer um composto químico, a água...\n\nSACKS, O. Tio Tungstênio: memórias de uma infância química. São Paulo: Cia. das Letras, 2002.\n\nO fragmento do romance de Oliver Sacks relata a separação dos elementos que compõem a água. O princípio do método apresentado é utilizado industrialmente na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "obtenção de ouro a partir de pepitas."
+      },
+      {
+        "letter": "B",
+        "text": "obtenção de calcário a partir de rochas."
+      },
+      {
+        "letter": "C",
+        "text": "obtenção de alumínio a partir da bauxita."
+      },
+      {
+        "letter": "D",
+        "text": "obtenção de ferro a partir de seus óxidos."
+      },
+      {
+        "letter": "E",
+        "text": "obtenção de amônia a partir de hidrogênio e nitrogênio."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O princípio da eletrólise, usado por Sacks para decompor a água, é o mesmo empregado industrialmente no processo Hall-Héroult, que obtém alumínio metálico a partir da bauxita por eletrólise — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q75",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.\n\nUma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dobro do comprimento do fio."
+      },
+      {
+        "letter": "B",
+        "text": "metade do comprimento do fio."
+      },
+      {
+        "letter": "C",
+        "text": "metade da área da seção reta do fio."
+      },
+      {
+        "letter": "D",
+        "text": "quádruplo da área da seção reta do fio."
+      },
+      {
+        "letter": "E",
+        "text": "quarta parte da área da seção reta do fio."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Como P = V²/R, para manter P constante ao dobrar V, a resistência deve quadruplicar. Sendo R = ρL/A, quadruplicar R (mantendo L e ρ) exige reduzir a área da seção reta à quarta parte — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q76",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.\n\nEm relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Perpendicular ao plano e no mesmo sentido do movimento."
+      },
+      {
+        "letter": "B",
+        "text": "Paralelo ao plano e no sentido contrário ao movimento."
+      },
+      {
+        "letter": "C",
+        "text": "Paralelo ao plano e no mesmo sentido do movimento."
+      },
+      {
+        "letter": "D",
+        "text": "Horizontal e no mesmo sentido do movimento."
+      },
+      {
+        "letter": "E",
+        "text": "Vertical e sentido para cima."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao empurrar o pé para trás contra o chão, a pessoa recebe, pela terceira lei de Newton, uma força de atrito estático que a impulsiona para a frente, paralela ao plano da rampa e no mesmo sentido do movimento — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q77",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A produção de aço envolve o aquecimento do minério de ferro, junto com carvão (carbono) e ar atmosférico em uma série de reações de oxirredução. O produto é chamado de ferro-gusa e contém cerca de 3,3% de carbono. Uma forma de eliminar o excesso de carbono é a oxidação a partir do aquecimento do ferro-gusa com gás oxigênio puro. Os dois principais produtos formados são aço doce (liga de ferro com teor de 0,3% de carbono restante) e gás carbônico. As massas molares aproximadas dos elementos carbono e oxigênio são, respectivamente, 12 g/mol e 16 g/mol.\n\nLEE, J. D. Química Inorgânica não tão concisa. São Paulo: Edgard Blucher, 1999 (adaptado).\n\nConsiderando que um forno foi alimentado com 2,5 toneladas de ferro-gusa, a massa de gás carbônico formada, em quilogramas, na produção de aço doce, é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "28."
+      },
+      {
+        "letter": "B",
+        "text": "75."
+      },
+      {
+        "letter": "C",
+        "text": "175."
+      },
+      {
+        "letter": "D",
+        "text": "275."
+      },
+      {
+        "letter": "E",
+        "text": "303."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O carbono removido é (3,3% − 0,3%) de 2500 kg = 75 kg = 75000 g, ou seja, 75000/12 = 6250 mol de C. Cada mol de C forma 1 mol de CO2 (44 g/mol), totalizando 6250 × 44 = 275000 g = 275 kg de CO2 — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q78",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.\n\nBRASIL. Brasil livre da rubéola: campanha nacional de vacinação para eliminação da rubéola. Brasília: Ministério da Saúde, 2009 (adaptado).\n\nConsiderando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ficam mais expostos a esse vírus."
+      },
+      {
+        "letter": "B",
+        "text": "transmitem o vírus a mulheres gestantes."
+      },
+      {
+        "letter": "C",
+        "text": "passam a infecção diretamente para o feto."
+      },
+      {
+        "letter": "D",
+        "text": "transferem imunidade às parceiras grávidas."
+      },
+      {
+        "letter": "E",
+        "text": "são mais sucetíveis a esse vírus que as mulheres."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Vacinar os homens reduz a circulação do vírus na população, diminuindo o risco de eles transmitirem a rubéola a mulheres grávidas não imunizadas, prevenindo assim a síndrome da rubéola congênita — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q79",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.\n\nDe acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o fluido elétrico se desloca no circuito."
+      },
+      {
+        "letter": "B",
+        "text": "as cargas negativas móveis atravessam o circuito."
+      },
+      {
+        "letter": "C",
+        "text": "a bateria libera cargas móveis para o filamento da lâmpada."
+      },
+      {
+        "letter": "D",
+        "text": "o campo elétrico se estabelece em todos os pontos do circuito."
+      },
+      {
+        "letter": "E",
+        "text": "as cargas positivas e negativas se chocam no filamento da lâmpada."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os elétrons individuais se movem lentamente (velocidade de deriva), mas o campo elétrico se propaga por todo o circuito a uma velocidade próxima à da luz, fazendo com que todos os elétrons do filamento comecem a se mover quase simultaneamente ao se fechar a chave — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q80",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.\n\nDos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aves."
+      },
+      {
+        "letter": "B",
+        "text": "algas."
+      },
+      {
+        "letter": "C",
+        "text": "peixes."
+      },
+      {
+        "letter": "D",
+        "text": "insetos."
+      },
+      {
+        "letter": "E",
+        "text": "caranguejos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A produção primária líquida é realizada pelos produtores fotossintetizantes; dentre os grupos citados, apenas as algas realizam fotossíntese, contribuindo diretamente para a produtividade primária do manguezal — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q81",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.\n\nO método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "flotação."
+      },
+      {
+        "letter": "B",
+        "text": "levigação."
+      },
+      {
+        "letter": "C",
+        "text": "ventilação."
+      },
+      {
+        "letter": "D",
+        "text": "peneiração."
+      },
+      {
+        "letter": "E",
+        "text": "centrifugação."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os flocos formados pelo sulfato de alumínio, com as impurezas aderidas, tendem a ficar menos densos e sobem à superfície da água, de onde são removidos por flotação — técnica clássica do tratamento de água — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q82",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Em um piano, o Dó central e a próxima nota Dó (uma oitava acima, chamada de Dó maior) apresentam sons parecidos, mas não idênticos: o Dó maior soa como uma versão mais aguda do Dó central, resultado da relação matemática entre suas frequências.\n\nA razão entre as frequências do Dó central e do Dó maior é de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/2"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "1"
+      },
+      {
+        "letter": "D",
+        "text": "1/4"
+      },
+      {
+        "letter": "E",
+        "text": "4"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A distância entre duas notas Dó consecutivas no piano é uma oitava, intervalo em que a frequência dobra. Como o Dó maior tem o dobro da frequência do Dó central, a razão (frequência do Dó central) / (frequência do Dó maior) é 1/2 — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q84",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Apesar de belos e impressionantes, corais exóticos encontrados na Ilha Grande podem ser uma ameaça ao equilíbrio dos ecossistemas do litoral do Rio de Janeiro. Originários do Oceano Pacífico, esses organismos foram trazidos por plataformas de petróleo e outras embarcações, provavelmente na década de 1980, e disputam com as espécies nativas elementos primordiais para a sobrevivência, como espaço e alimento. Organismos invasores são a segunda maior causa de perda de biodiversidade, superados somente pela destruição direta de hábitats pela ação do homem. As populações de espécies invasoras crescem indefinidamente e ocupam o espaço de organismos nativos.\n\nLEVY, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 5 dez. 2011 (adaptado).\n\nAs populações de espécies invasoras crescem bastante por terem a vantagem de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "não apresentarem genes deletérios no seu pool gênico."
+      },
+      {
+        "letter": "B",
+        "text": "não possuírem parasitas e predadores naturais presentes no ambiente exótico."
+      },
+      {
+        "letter": "C",
+        "text": "apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental."
+      },
+      {
+        "letter": "D",
+        "text": "apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico."
+      },
+      {
+        "letter": "E",
+        "text": "apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Longe de seus predadores e parasitas naturais de origem, as espécies invasoras encontram no novo ambiente uma pressão de controle populacional muito menor, o que favorece seu crescimento populacional descontrolado — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q86",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "As fraldas descartáveis que contêm o polímero poliacrilato de sódio (com grupos carboxilato ionizados, –COO⁻Na⁺) são mais eficientes na retenção de água que as fraldas de pano convencionais, constituídas de fibras de celulose (que interagem com a água por meio de grupos hidroxila, –OH).\n\nCURI, D. Química Nova na Escola, São Paulo, n. 23, maio 2006 (adaptado).\n\nA maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água."
+      },
+      {
+        "letter": "B",
+        "text": "interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água."
+      },
+      {
+        "letter": "C",
+        "text": "ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água."
+      },
+      {
+        "letter": "D",
+        "text": "ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água."
+      },
+      {
+        "letter": "E",
+        "text": "interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os grupos carboxilato ionizados do poliacrilato de sódio (íons) interagem com a água (dipolo) por meio de interações íon-dipolo, mais intensas do que as ligações de hidrogênio entre os grupos hidroxila da celulose e a água — daí a maior capacidade de retenção — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q88",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.\n\nPara identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pai."
+      },
+      {
+        "letter": "B",
+        "text": "filho."
+      },
+      {
+        "letter": "C",
+        "text": "filha."
+      },
+      {
+        "letter": "D",
+        "text": "avó materna."
+      },
+      {
+        "letter": "E",
+        "text": "avô materno."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O DNA mitocondrial é herdado exclusivamente por via materna, passando de mãe para filhos, mas homens não o transmitem à sua prole. Assim, o rapaz compartilha o mesmo DNA mitocondrial de sua mãe e, por extensão, da mãe dela — sua avó materna — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q89",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.\n\nQual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,111."
+      },
+      {
+        "letter": "B",
+        "text": "0,125."
+      },
+      {
+        "letter": "C",
+        "text": "0,357."
+      },
+      {
+        "letter": "D",
+        "text": "0,428."
+      },
+      {
+        "letter": "E",
+        "text": "0,833."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pelo equilíbrio térmico: m_quente(70−30) = m_fria(30−25), ou seja, 40·m_quente = 5·m_fria. A razão m_quente/m_fria = 5/40 = 0,125 — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
