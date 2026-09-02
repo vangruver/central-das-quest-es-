@@ -8994,5 +8994,416 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
     }
+  },
+  {
+    "id": "enem-2019-q21",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Menina\n\nA máquina de costura avançava decidida sobre o pano. Que bonita que a mãe era, com os alfinetes na boca. Gostava de olhá-la calada, estudando seus gestos, enquanto recortava retalhos de pano com a tesoura. Interrompia às vezes seu trabalho, era quando a mãe precisava da tesoura. Admirava o jeito decidido da mãe ao cortar pano, não hesitava nunca, nem errava. A mãe sabia tanto! Tita chamava-a de ( ) como quem diz ( ). Tentava não pensar as palavras, mas sabia que na mesma hora da tentativa tinha-as pensado. Oh, tudo era tão difícil. A mãe saberia o que ela queria perguntar-lhe intensamente agora quase com fome depressa depressa antes de morrer, tanto que não se conteve e — Mamãe, o que é desquitada? — atirou rápida com uma voz sem timbre. Tudo ficou suspenso, se alguém gritasse o mundo acabava ou Deus aparecia — sentia Ana Lúcia. Era muito forte aquele instante, forte demais para uma menina, a mãe parada com a tesoura no ar, tudo sem solução podendo desabar a qualquer pensamento, a máquina avançando desgovernada sobre o vestido de seda brilhante espalhando luz luz luz.\n\nÂNGELO, I. Menina. In: A face horrível. São Paulo: Lazuli, 2017.\n\nEscrita na década de 1960, a narrativa põe em evidência uma dramaticidade centrada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "insinuação da lacuna familiar gerada pela ausência da figura paterna."
+      },
+      {
+        "letter": "B",
+        "text": "associação entre a angústia da menina e a reação intempestiva da mãe."
+      },
+      {
+        "letter": "C",
+        "text": "relação conflituosa entre o trabalho doméstico e a emancipação feminina."
+      },
+      {
+        "letter": "D",
+        "text": "representação de estigmas sociais modulados pela perspectiva da criança."
+      },
+      {
+        "letter": "E",
+        "text": "expressão de dúvidas existenciais intensificadas pela percepção do abandono."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A palavra “desquitada” é evitada e cercada de tensão, revelando, pela perspectiva infantil de Ana Lúcia, o peso do estigma social que envolvia o divórcio na época em que o conto foi escrito — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q22",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Uma ouriça\n\nSe o de longe esboça\nlhe chegar perto,\nse fecha (convexo\nintegral de esfera),\nse eriça (bélica\ne multiespinhenta):\ne, esfera e espinho,\nse ouriça à espera.\nMas não passiva\n(como ouriço na loca);\nnem só defensiva\n(como se eriça o gato);\nsim agressiva\n(como jamais o ouriço),\ndo agressivo capaz\nde bote, de salto\n(não do salto para trás,\ncomo o gato): daquele\ncapaz de salto\npara o assalto.\nSe o de longe lhe chega\nem (de longe),\nde esfera aos espinhos,\nela se desouriça.\nReconverte: o metal\nhermético e armado\nna carne de antes\n(côncava e propícia),\ne as molas felinas\n(para o assalto),\nnas molas em espiral\n(para o abraço).\n\nMELO NETO, J. C. A educação pela pedra. Rio de Janeiro: Nova Fronteira, 1997.\n\nCom apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tenacidade transformada em brandura."
+      },
+      {
+        "letter": "B",
+        "text": "obstinação traduzida em isolamento."
+      },
+      {
+        "letter": "C",
+        "text": "inércia provocada pelo desejo platônico."
+      },
+      {
+        "letter": "D",
+        "text": "irreverência cultivada de forma cautelosa."
+      },
+      {
+        "letter": "E",
+        "text": "desconfiança consumada pela intolerância."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O eu lírico descreve a mulher-ouriço que se fecha, ariça-se e ataca diante do perigo distante, mas, quando o outro se aproxima com afeto, “se desouriça” e transforma as “molas felinas” em “molas em espiral para o abraço”: a dureza tenaz vira brandura — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q24",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Blues da piedade\n\nVamos pedir piedade\nSenhor, piedade\nPra essa gente careta e covarde\nVamos pedir piedade\nSenhor, piedade\nLhes dê grandeza e um pouco de coragem\n\nCAZUZA. Cazuza: o poeta não morreu. Rio de Janeiro: Universal Music, 2000 (fragmento).\n\nTodo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expositiva, por discorrer sobre um dado tema."
+      },
+      {
+        "letter": "B",
+        "text": "narrativa, por apresentar uma cadeia de ações."
+      },
+      {
+        "letter": "C",
+        "text": "injuntiva, por chamar o interlocutor à participação."
+      },
+      {
+        "letter": "D",
+        "text": "descritiva, por enumerar características de um personagem."
+      },
+      {
+        "letter": "E",
+        "text": "argumentativa, por incitar o leitor a uma tomada de atitude."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A repetição do imperativo “Vamos pedir piedade” convoca o interlocutor a participar de uma súplica coletiva, estrutura típica da ladainha, caracterizando a sequência injuntiva — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q25",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012.\n\nA penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão.\n\nDisponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012 (adaptado).\n\nA notícia relata um evento cultural que marca a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "primazia do samba sobre a música nordestina."
+      },
+      {
+        "letter": "B",
+        "text": "inter-relação entre dois gêneros musicais brasileiros."
+      },
+      {
+        "letter": "C",
+        "text": "valorização das origens oligárquicas da cultura nordestina."
+      },
+      {
+        "letter": "D",
+        "text": "proposta de resgate de antigos gêneros musicais brasileiros."
+      },
+      {
+        "letter": "E",
+        "text": "criatividade em compor um samba-enredo em homenagem a uma pessoa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao homenagear Luiz Gonzaga (baião/cultura nordestina) por meio de um samba-enredo (cultura carioca), a escola de samba promove um diálogo entre dois gêneros musicais brasileiros distintos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q27",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade"
+    ],
+    "statement": "Educação para a saúde mediante programas de educação física escolar\n\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquiri-lo e construí-lo de forma individualizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\n\nGUEDES, D. P. Motriz, n. 1, 1999.\n\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adesão a programas de lazer."
+      },
+      {
+        "letter": "B",
+        "text": "opção por dietas balanceadas."
+      },
+      {
+        "letter": "C",
+        "text": "constituição de hábitos saudáveis."
+      },
+      {
+        "letter": "D",
+        "text": "evasão de ambientes estressores."
+      },
+      {
+        "letter": "E",
+        "text": "realização de atividades físicas regulares."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto lista vários fatores (alimentação, estresse, lazer, atividade física) que, interagindo, precisam ser continuamente construídos ao longo da vida: trata-se, em conjunto, da constituição de hábitos saudáveis — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q28",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Os subúrbios do Rio de Janeiro foram a primeira coisa a aparecer no mundo, antes mesmo dos vulcões e dos cachalotes, antes de Portugal invadir, antes do Getúlio Vargas mandar construir casas populares. O bairro do Queím, onde nasci e cresci, é um deles. Aconchegado entre o Engenho Novo e Andaraí, foi feito daquela argila primordial, que se aglutinou em diversos formatos: cães soltos, moscas e morros, uma estação de trem, amendoeiras e barracos e sobrados, botecos e arsenais de guerra, armarinhos e bancas de jogo do bicho e um terreno enorme reservado para o cemitério. Mas tudo ainda estava vazio: faltava gente.\n\nNão demorou. As ruas juntaram tanta poeira que o homem não teve escolha a não ser passar a existir, para varrê-las. À tardinha, sentar na varanda das casas e reclamar da pobreza, falar mal dos outros e olhar para as calçadas encardidas de sol, os ônibus da volta do trabalho sujando tudo de novo.\n\nHERINGER, V. O amor dos homens avulsos. São Paulo: Cia. das Letras, 2016.\n\nTraçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "excentricidade dos bairros cariocas de sua infância."
+      },
+      {
+        "letter": "B",
+        "text": "perspectiva caricata da paisagem de traços deteriorados."
+      },
+      {
+        "letter": "C",
+        "text": "importância dos fatos relacionados à história dos subúrbios."
+      },
+      {
+        "letter": "D",
+        "text": "diversidade dos tipos humanos identificados por seus hábitos."
+      },
+      {
+        "letter": "E",
+        "text": "experiência do cotidiano marcado pelas necessidades e urgências."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A descrição hiperbólica e irônica do bairro (“cães soltos, moscas e morros”, “calçadas encardidas de sol”, pessoas que só existem para reclamar) constrói uma imagem caricatural de uma paisagem urbana deteriorada — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q29",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\nLÉVY, P. A máquina universo: criação, cognição e cultura informática. Porto Alegre: Artmed, 1998.\n\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "otimização do tempo."
+      },
+      {
+        "letter": "B",
+        "text": "confiabilidade dos sites."
+      },
+      {
+        "letter": "C",
+        "text": "contribuição dos usuários."
+      },
+      {
+        "letter": "D",
+        "text": "quantidade de informação."
+      },
+      {
+        "letter": "E",
+        "text": "colaboração de intelectuais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Lévy afirma que a rede é um “laço virtual” em que as comunidades ajudam seus membros a aprender, dependendo do esforço individual e da integração às comunidades — ou seja, da contribuição dos próprios usuários — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q30",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "TEXTO I\n\nEstratos\n\nNa passagem de uma língua para outra, algo sempre permanece, mesmo que não haja ninguém para se lembrar desse algo. Pois um idioma retém em si mais memórias que os seus falantes e, como uma chapa mineral marcada por camadas de uma história mais antiga do que aquela dos seres viventes, inevitavelmente carrega em si a impressão das eras pelas quais passou. Se as “línguas são arquivos da história”, elas carecem de livros de registro e catálogos. Aquilo que contêm pode apenas ser consultado em parte, fornecendo ao pesquisador menos os elementos de uma biografia do que um estudo geológico de uma sedimentação realizada em um período sem começo ou sem fim definido.\n\nHELLER-ROAZEN, D. Ecolalias: sobre o esquecimento das línguas. Campinas: Unicamp, 2010.\n\nTEXTO II\n\nNa reflexão gramatical dos séculos XVI e XVII, a influência árabe aparece pontualmente, e se reveste sobretudo de item bélico fundamental na atribuição de rudeza aos idiomas português e castelhano por seus respectivos detratores. Parecer com o árabe, assim, é uma acusação de dessemelhança com o latim.\n\nSOUZA, M. P. Linguística histórica. Campinas: Unicamp, 2006.\n\nRelacionando-se as ideias dos textos a respeito da história e memória das línguas, quanto à formação da língua portuguesa, constata-se que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a presença de elementos de outras línguas no português foi historicamente avaliada como um índice de riqueza."
+      },
+      {
+        "letter": "B",
+        "text": "o estudioso da língua pode identificar com precisão os elementos deixados por outras línguas na transformação da língua portuguesa."
+      },
+      {
+        "letter": "C",
+        "text": "o português é o resultado da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas."
+      },
+      {
+        "letter": "D",
+        "text": "o árabe e o latim estão na formação escolar e na memória dos falantes brasileiros."
+      },
+      {
+        "letter": "E",
+        "text": "a influência de outras línguas no português ocorreu de maneira uniforme ao longo da história."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O Texto I compara a língua a camadas geológicas que guardam marcas de eras passadas, e o Texto II mostra a influência árabe na formação do português: juntos, evidenciam que o português carrega, em camadas, marcas de outras línguas que o influenciaram — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q31",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "PICASSO, P. Cabeça de touro. Bronze, 33,5 cm x 43,5 cm x 19 cm. Musée Picasso, Paris. França, 1945. (A escultura foi criada a partir da montagem de um selim e um guidão de bicicleta, fundidos posteriormente em bronze.)\n\nJANSON, H. W. Iniciação à história da arte. São Paulo: Martins Fontes, 1988.\n\nNa obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reciclagem da matéria-prima original."
+      },
+      {
+        "letter": "B",
+        "text": "complexidade da combinação de formas abstratas."
+      },
+      {
+        "letter": "C",
+        "text": "perenidade dos elementos que constituem a escultura."
+      },
+      {
+        "letter": "D",
+        "text": "mudança da funcionalidade pela integração dos objetos."
+      },
+      {
+        "letter": "E",
+        "text": "fragmentação da imagem no uso de elementos diversificados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Picasso uniu um selim e um guidão de bicicleta — objetos com função utilitária — para compor a imagem de uma cabeça de touro: a obra nasce da mudança de funcionalidade desses objetos ao serem integrados em uma nova composição — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
+  },
+  {
+    "id": "enem-2019-q32",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Emagrecer sem exercício?\n\nHormônio aumenta a esperança de perder gordura sem sair do sofá. A solução viria em cápsulas.\n\nO sonho dos sedentários ganhou novo aliado. Um estudo publicado na revista científica Nature, em janeiro, sugere que é possível modificar a gordura corporal sem fazer exercício. Pesquisadores do Dana-Farber Cancer Institute e da Escola de Medicina de Harvard, nos EUA, isolaram em laboratório a irisina, hormônio naturalmente produzido pelas células musculares durante os exercícios aeróbicos, como caminhada, corrida ou pedalada. A substância foi aplicada em ratos e agiu como se eles tivessem se exercitado, inclusive com efeito protetor contra o diabetes.\n\nO segredo foi a conversão de gordura branca — aquela que estoca energia inerte e estraga nossa silhueta — em marrom. Mais comum em bebês, e praticamente inexistente em adultos, esse tipo de gordura serve para nos aquecer. E, nesse processo, gasta uma energia tremenda. Como efeito colateral, afinaria nossa silhueta.\n\nA expectativa é que, se o hormônio funcionar da mesma forma em humanos, surja em breve um novo medicamento para emagrecer. Mas ele estaria longe de substituir por completo os benefícios da atividade física. “Possivelmente existem muitos outros hormônios musculares liberados durante o exercício e ainda não descobertos”, diz o fisiologista Paul Coen, professor assistente da Universidade de Pittsburgh, nos EUA. A irisina não fortalece os músculos, por exemplo. E para ficar com aquele tríceps de fazer inveja só o levantamento de controle remoto não daria conta.\n\nLIMA, F. Galileu. São Paulo, n. 248, mar. 2012.\n\nPara convencer o leitor de que o exercício físico é importante, o autor usa a estratégia de divulgar que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a falta de exercício físico não emagrece e desenvolve doenças."
+      },
+      {
+        "letter": "B",
+        "text": "se trata de uma forma de transformar a gordura branca em marrom e de emagrecer."
+      },
+      {
+        "letter": "C",
+        "text": "a irisina é um hormônio que apenas é produzido com o exercício físico."
+      },
+      {
+        "letter": "D",
+        "text": "o exercício é uma forma de afinar a silhueta por eliminar a gordura branca."
+      },
+      {
+        "letter": "E",
+        "text": "se produzem outros hormônios e há outros benefícios com o exercício."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto ressalva que a irisina não fortalece os músculos e que “possivelmente existem muitos outros hormônios” ainda não descobertos, sugerindo que o exercício físico traz benefícios que uma cápsula isolada não substitui — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2019 - 1º dia, Caderno 1 Azul"
+    }
   }
 ]
