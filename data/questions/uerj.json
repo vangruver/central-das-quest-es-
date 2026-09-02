@@ -615,5 +615,546 @@
       "institution": "UERJ",
       "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais."
     }
+  },
+  {
+    "id": "uerj-2020-q01",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "O QUE NOSSAS METÁFORAS DIZEM DE NÓS\n\nPara o poeta Robert Frost, a vida era um caminho que passa por encruzilhadas inevitáveis; para Fernando Pessoa, uma sombra que passa sobre um rio. Shakespeare via o mundo como um palco e Scott Fitzgerald percebia os seres humanos como barcos contra a corrente. Metáforas como essas nos rodeiam, mas não só quando seguramos um livro nas mãos. Em nosso uso cotidiano da língua, elas são tão presentes que nem sequer percebemos. São exemplos “teto de vidro impede a carreira das mulheres”, “a bolha do aluguel”, “cortar o mal pela raiz”. Considerada a forma por excelência da linguagem figurada, a metáfora às vezes é tida como mero embelezamento do discurso.\n\nEntretanto, desde 1980, com a publicação do livro Metáforas da vida cotidiana, essa figura retórica recuperou seu protagonismo. Os autores George Lakoff e Mark Johnson mostraram que as alegorias desenham o mapa conceitual a partir do qual observamos, pensamos e agimos. Com frequência são nossa bússola invisível, orientando tanto os gestos instintivos que fazemos como as decisões mais importantes que tomamos.\n\nMARTA REBÓN. Adaptado de brasil.elpais.com, 11/04/2018.\n\nCom a ampliação da visão sobre o papel da metáfora, ressalta-se a seguinte propriedade dessa figura de linguagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atua na organização das percepções de mundo"
+      },
+      {
+        "letter": "B",
+        "text": "induz ao esquecimento das vivências negativas"
+      },
+      {
+        "letter": "C",
+        "text": "delimita a fronteira entre saberes comuns e científicos"
+      },
+      {
+        "letter": "D",
+        "text": "possibilita o contato entre concepções culturais distintas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto afirma que, segundo Lakoff e Johnson, “as alegorias desenham o mapa conceitual a partir do qual observamos, pensamos e agimos”, funcionando como uma “bússola invisível”: a metáfora, portanto, atua na própria organização das percepções de mundo — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q08",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "“É mais fácil para nós entender que a depressão é uma espécie de buraco negro e que o DNA é o manual de instruções de cada ser vivo.”\n\n(Trecho do texto O que nossas metáforas dizem de nós, de Marta Rebón.)\n\nNa argumentação do parágrafo em que se insere, a frase citada configura um recurso de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ênfase"
+      },
+      {
+        "letter": "B",
+        "text": "causalidade"
+      },
+      {
+        "letter": "C",
+        "text": "conceituação"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao comparar a depressão a um buraco negro e o DNA a um manual de instruções, o texto usa elementos já conhecidos para explicar e definir noções abstratas e complexas — um recurso de conceituação por meio da metáfora — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q11",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "A história da expressão “mar de lama”, usada para descrever escândalos de corrupção desde a crise que levou ao suicídio de Getúlio Vargas em 1954 até desastres recentes como Mariana e Brumadinho, mostra como uma mesma metáfora política pode ser reativada e reinterpretada ao longo de décadas para orientar a forma como a sociedade compreende e reage a diferentes crises.\n\nEssa história, relatada por Sérgio Rodrigues no texto Com a lama na alma, reforça uma ideia apontada no texto O que nossas metáforas dizem de nós, de Marta Rebón. Essa ideia está sintetizada na seguinte frase do texto base:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Com frequência são nossa bússola invisível, orientando tanto os gestos instintivos que fazemos como as decisões mais importantes que tomamos."
+      },
+      {
+        "letter": "B",
+        "text": "É muito provável que aqueles que concebem a vida como uma cruz e os que a entendem como uma viagem não reajam da mesma forma ante um mesmo dilema."
+      },
+      {
+        "letter": "C",
+        "text": "As figurações dão coesão às identidades coletivas, pois circulam sem cessar até se incorporarem à linguagem cotidiana."
+      },
+      {
+        "letter": "D",
+        "text": "As boas metáforas nos trazem outras perspectivas, fronteiras menos rígidas e novas categorizações que substituem aquelas já desgastadas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Assim como a metáfora “mar de lama” voltou a orientar, décadas depois de 1954, o modo como a sociedade interpreta e reage a novos escândalos, o texto de Marta Rebón afirma que as metáforas funcionam como uma “bússola invisível”, orientando tanto reações instintivas quanto decisões importantes — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q02",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "IDENTIDADE (1992)\n\nElevador é quase um templo\nExemplo pra minar teu sono\nSai desse compromisso\nNão vai no de serviço\nSe o social tem dono, não vai...\n\nQuem cede a vez não quer vitória\nSomos herança da memória\nTemos a cor da noite\nFilhos de todo açoite\nFato real de nossa história\n\nSe o preto de alma branca pra você\nÉ o exemplo da dignidade\nNão nos ajuda, só nos faz sofrer\nNem resgata nossa identidade\n\nJORGE ARAGÃO. Disponível em: vagalume.com.br.\n\nA metáfora “preto de alma branca” é criticada na letra da canção por estar associada a um contexto de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "intolerância cultural"
+      },
+      {
+        "letter": "B",
+        "text": "desigualdade étnica"
+      },
+      {
+        "letter": "C",
+        "text": "discriminação política"
+      },
+      {
+        "letter": "D",
+        "text": "hierarquia econômica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao criticar a ideia de que ser “preto de alma branca” seria um “exemplo de dignidade”, a canção denuncia a hierarquização racial embutida nessa expressão — a associação de valor (dignidade) à brancura revela desigualdade étnica, não apenas intolerância cultural genérica — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q04",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 4,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Há um tipo de ligação interatômica em que os elétrons das camadas mais externas transitam entre os cátions da rede cristalina. Por essa característica, tal ligação é comparada a um “mar de elétrons”.\n\n“Mar de elétrons” é uma metáfora que se refere ao seguinte tipo de ligação:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "iônica"
+      },
+      {
+        "letter": "B",
+        "text": "metálica"
+      },
+      {
+        "letter": "C",
+        "text": "covalente"
+      },
+      {
+        "letter": "D",
+        "text": "de hidrogênio"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O modelo do “mar de elétrons” descreve a ligação metálica, em que os elétrons de valência circulam livremente entre os cátions do retículo cristalino do metal — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q05",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 5,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "“Isso é apenas a ponta do iceberg” é uma metáfora utilizada em contextos onde há mais informação sobre um determinado fato do que se pode perceber de imediato. Essa analogia é possível pois 90% de cada um desses blocos de gelo estão submersos, ou seja, não estão visíveis.\n\nEssa característica está associada à seguinte propriedade física do iceberg:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inércia"
+      },
+      {
+        "letter": "B",
+        "text": "dureza"
+      },
+      {
+        "letter": "C",
+        "text": "densidade"
+      },
+      {
+        "letter": "D",
+        "text": "temperatura"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A fração submersa de um iceberg depende da relação entre a densidade do gelo e a da água do mar (princípio de Arquimedes): como o gelo é apenas um pouco menos denso que a água, cerca de 90% do seu volume fica submerso — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q07",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 7,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Os microtúbulos, produzidos pelos centríolos, costumam ser comparados a trilhos, já que é por meio deles que o material genético se desloca durante a divisão celular.\n\nA imagem descreve essas estruturas: centríolos, microtúbulos (semelhantes a trilhos que se estendem pela célula), material genético (cromossomos) e centrômero.\n\nAdaptado de quizlet.com.\n\nDurante o processo de divisão mitótica, os microtúbulos são responsáveis pelo processo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "espiralização do DNA"
+      },
+      {
+        "letter": "B",
+        "text": "recombinação dos alelos"
+      },
+      {
+        "letter": "C",
+        "text": "duplicação das cromátides"
+      },
+      {
+        "letter": "D",
+        "text": "organização dos cromossomos"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os microtúbulos do fuso mitótico se ligam aos centrômeros e guiam o deslocamento e a organização dos cromossomos durante as fases da mitose, como trilhos que direcionam seu movimento — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q09",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 9,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Mapa “Século XVII: o Brasil que era um arquipélago”, mostrando os núcleos coloniais portugueses (Belém, São Luís, Fortaleza, Olinda, Recife, Salvador, Rio de Janeiro, São Paulo, entre outros) como pontos isolados e dispersos ao longo do litoral, ligados por rotas marítimas, com um vasto interior praticamente sem ocupação colonial entre eles.\n\nAdaptado de THÉRY, H.; MELLO, N. A. de. Atlas do Brasil: disparidades e dinâmicas do território. São Paulo: EDUSP; Imprensa Oficial do Estado de São Paulo, 2008.\n\nA partir da análise do mapa, constata-se que o uso da metáfora do “arquipélago” no título da imagem expressa a seguinte característica da organização espacial do Brasil naquele momento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reduzida integração econômica do território colonial"
+      },
+      {
+        "letter": "B",
+        "text": "desigual distribuição regional da atividade industrial"
+      },
+      {
+        "letter": "C",
+        "text": "excessiva diluição política do poder governamental"
+      },
+      {
+        "letter": "D",
+        "text": "acentuada fragmentação fundiária da propriedade rural"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Assim como um arquipélago é formado por ilhas isoladas entre si, o Brasil colonial do século XVII era formado por núcleos litorâneos dispersos e pouco conectados entre si, evidenciando a reduzida integração econômica do território — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q10",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Com a lama na alma\n\nMetáforas são um perigo. Quando rompem suas barragens de figuração e jorram pelas encostas do sentido literal, fenômeno menos raro do que parece, têm grande poder de destruição física. Veja-se o proverbial “mar de lama”. Na crise que conduziu ao suicídio de Getúlio Vargas em 1954, a expressão brandida pela UDN no parlamento e na imprensa virou um dos mais poderosos bordões da política brasileira em todos os tempos.\n\nÉ a senha definitiva da denúncia — meio justificada, meio histérica — de uma corrupção supostamente universal e sem freios instalada no seio do populismo de esquerda, arma de mobilização eleitoral que o populismo de direita não inventou agora.\n\nCuriosamente, a paternidade de “mar de lama” é atribuída ao próprio Vargas, que com imagem tão gráfica teria expressado a um coronel da Aeronáutica sua decepção com as jogadas corruptas de Gregório Fortunato, chefe de sua guarda pessoal. Mas essa é outra história.\n\n“Metáforas são um perigo.”\n\nNo primeiro parágrafo do texto Com a lama na alma, o autor dá um tratamento metafórico à própria metáfora.\n\nEsse procedimento é exemplificado pelo seguinte trecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "jorram pelas encostas do sentido literal,"
+      },
+      {
+        "letter": "B",
+        "text": "fenômeno menos raro do que parece,"
+      },
+      {
+        "letter": "C",
+        "text": "poder de destruição física."
+      },
+      {
+        "letter": "D",
+        "text": "expressão brandida pela UDN"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao afirmar que as metáforas “têm grande poder de destruição física”, o autor atribui uma propriedade concreta e física — a capacidade de destruir fisicamente — a algo abstrato (a metáfora), dando-lhe um tratamento metafórico, isto é, tratando a própria metáfora como se fosse uma força material — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q14",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Os trechos a seguir foram retirados da peça Gota d'Água — uma tragédia brasileira, de Chico Buarque e Paulo Pontes.\n\nJASÃO:\nEu só não gosto\nde deixar este fim de mundo sem levar\ntudo o que sempre foi pra mim a vida inteira\nUma alegria ou outra, um pouco de saudade,\nmeus filhos, minha carteira de identidade,\ncada bagulho, meu calção, minha chuteira,\na mesa do boteco, o time de botão,\ntanto amigo, tanto fumo, tanta birita,\nque dava pra botar na sala de visita\nmas ia atrapalhar toda a decoração...\n(...)\n\nAs recordações de Jasão atrapalhariam a decoração da casa nova pois representam o seguinte elemento de sua vida:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "origem pobre"
+      },
+      {
+        "letter": "B",
+        "text": "infância traumática"
+      },
+      {
+        "letter": "C",
+        "text": "educação precária"
+      },
+      {
+        "letter": "D",
+        "text": "família desajustada"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os itens lembrados por Jasão — chuteira, time de botão, mesa de boteco, birita — remetem a um cotidiano popular e humilde, evidenciando sua origem pobre, que destoaria da nova decoração da casa — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q15",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "JOANA:\n(...)\nOlhando eles assim, sem sofrimento,\nimóveis, sorrindo até, flutuando,\nolhando eles assim, fiquei pensando:\npodem acordar a qualquer momento\nSe eles acordam, minha vida assim\ndo jeito que ela está destrambelhada,\nsem pai, sem pão, a casa revirada,\nse eles acordam, vão olhar pra mim\nVão olhar pro mundo sem entender\nVão perder a infância, o sonho e o sorriso\npro resto da vida... Ouçam, eu preciso\nde vocês e vocês vão compreender:\nduas crianças cresceram pra nada,\npra levar bofetada pelo mundo,\nmelhor é ficar num sono profundo\ncom a inocência assim cristalizada\n\nO fragmento da cena acima contém um índice, para os leitores, da construção da história. A função desse índice é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "provocar catarse"
+      },
+      {
+        "letter": "B",
+        "text": "preparar o desfecho"
+      },
+      {
+        "letter": "C",
+        "text": "caracterizar o cenário"
+      },
+      {
+        "letter": "D",
+        "text": "apresentar a personagem"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao insinuar que seria “melhor ficar num sono profundo” do que acordar para uma vida de sofrimento, Joana antecipa, para o leitor/espectador, o desfecho trágico da peça (o infanticídio, na tradição do mito de Medeia) — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q16",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "JASÃO:\nPuxa, mestre, o senhor é cismento\nEu já lhe falei pra levantar\ngrana num banco. Aí moderniza\na oficina, põe pra trabalhar\nuns empregados e nem precisa\nforçar a vista. Fica ali só\nna administração... (Levantando)\n\nEGEU:\n(Com autoridade) Presepada,\nmenino... Tira esse paletó\ne senta aí. Que banco que nada!\nSenta duma vez, eu tou mandando\nPega o alicate e a chave de fenda\ne vai matutando, matutando,\naté que você um dia aprenda\na ser dono da sua consciência\n\nA reação de Mestre Egeu se baseia em uma avaliação implícita acerca de Jasão. De acordo com essa avaliação, a personagem se caracteriza como uma pessoa:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manipulada pelo sogro"
+      },
+      {
+        "letter": "B",
+        "text": "enganada pelos amigos"
+      },
+      {
+        "letter": "C",
+        "text": "inexperiente com trabalho"
+      },
+      {
+        "letter": "D",
+        "text": "irresponsável com dinheiro"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao mandar Jasão largar suas próprias ideias, sentar e “matutar até aprender a ser dono da sua consciência”, Egeu, na posição de autoridade (sogro), impõe sua vontade e submete o genro à sua própria orientação — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q17",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 17,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "JOANA:\nO pai e a filha vão colher a tempestade\nA ira dos centauros e de pomba-gira\nlevará seus corpos a crepitar na pira\ne suas almas a vagar na eternidade\nOs dois vão pagar o resgate dos meus ais\nPara tanto invoco o testemunho de Deus,\na justiça de Têmis e a bênção dos céus,\nos cavalos de São Jorge e seus marechais,\nHécate, feiticeira das encruzilhadas,\npadroeira da magia, deusa-demônia,\nfalange de Ogum, sintagmas da Macedônia,\nsuas duzentas e cinquenta e seis espadas,\nmago negro das trevas, flecha incendiária,\nLambrego, Canheta, Tinhoso, Nunca-visto,\nfazei desta fiel serva de Jesus Cristo\nde todas as criaturas a mais sanguinária\n(...)\n\nA invocação de Joana, que revela uma característica da religiosidade brasileira, é organizada por meio de certo recurso literário. Esse recurso e a característica da religiosidade são nomeados, respectivamente, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gradação e fé"
+      },
+      {
+        "letter": "B",
+        "text": "polifonia e culpa"
+      },
+      {
+        "letter": "C",
+        "text": "dramaticidade e formalidade"
+      },
+      {
+        "letter": "D",
+        "text": "intertextualidade e sincretismo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Joana invoca, numa mesma súplica, referências da mitologia grega (Têmis, centauros), do catolicismo (Deus, Jesus Cristo, São Jorge) e das religiões afro-brasileiras (pomba-gira, Ogum, Hécate incorporada ao imaginário popular): esse diálogo entre diferentes textos e tradições (intertextualidade) espelha o sincretismo religioso brasileiro — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q18",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "JASÃO (a Creonte):\nNão discuto quebrar... Agora\nquem às três da manhã tá de olho aberto,\nse espreme pra chegar no emprego às sete,\nlá passa o dia todo, volta às onze\nda noite pra acordar de novo às três,\ntinha que ser de bronze\npra fazer isso sempre, todo dia\n(...)\n\nNa resposta de Jasão a Creonte, o uso da palavra “agora”, sublinhada acima, possui função argumentativa, expressando sentido de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "condição"
+      },
+      {
+        "letter": "B",
+        "text": "oposição"
+      },
+      {
+        "letter": "C",
+        "text": "conclusão"
+      },
+      {
+        "letter": "D",
+        "text": "explicação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Jasão inicia concordando em não discutir a quebradeira (“Não discuto quebrar”), mas em seguida contrapõe essa concordância com a dura rotina do trabalhador: o “agora” introduz uma ideia contrastante com o que foi dito antes, expressando oposição — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q19",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "JOANA:\n(...)\nSeu povo é que é urgente, força cega,\ncoração aos pulos, ele carrega\num vulcão amarrado pelo umbigo\nEle então não tem tempo, nem amigo,\nnem futuro, que uma simples piada\npode dar em risada ou punhalada\nComo a mesma garrafa de cachaça\nacaba em carnaval ou desgraça\n(...)\n\nNa caracterização do povo brasileiro feita por Joana no trecho acima, observa-se uma sequência da seguinte figura de linguagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ironia"
+      },
+      {
+        "letter": "B",
+        "text": "paródia"
+      },
+      {
+        "letter": "C",
+        "text": "antítese"
+      },
+      {
+        "letter": "D",
+        "text": "eufemismo"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Joana constrói pares de opostos para caracterizar o povo — “risada ou punhalada”, “carnaval ou desgraça” —, aproximando ideias contrárias numa mesma estrutura: trata-se de uma sequência de antíteses — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
   }
 ]
