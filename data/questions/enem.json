@@ -20971,5 +20971,1153 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
     }
+  },
+  {
+    "id": "enem-2014-q53",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Embora seja um conceito fundamental para a biologia, o termo 'evolução' pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.\n\nPara esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "modificação de características."
+      },
+      {
+        "letter": "B",
+        "text": "incremento no tamanho corporal."
+      },
+      {
+        "letter": "C",
+        "text": "complexificação de seus sistemas."
+      },
+      {
+        "letter": "D",
+        "text": "melhoria de processos e estruturas."
+      },
+      {
+        "letter": "E",
+        "text": "especialização para uma determinada finalidade."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para a biologia evolutiva moderna, a evolução não é um processo direcionado a um 'ápice' ou 'melhoria', mas sim um processo não teleológico de modificação de características das populações ao longo de gerações, por meio de seleção natural e outros mecanismos — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q54",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O biodiesel não é classificado como uma substância pura, mas como uma mistura de ésteres derivados dos ácidos graxos presentes em sua matéria-prima. As propriedades do biodiesel variam com a composição do óleo vegetal ou gordura animal que lhe deu origem; por exemplo, o teor de ésteres saturados é responsável pela maior estabilidade do biodiesel frente à oxidação, o que resulta em aumento da vida útil do biocombustível. O quadro ilustra o teor médio de ácidos graxos (% em massa) de algumas fontes oleaginosas:\n\nMilho: Mirístico <0,1; Palmítico 11,7; Esteárico 1,9; Oleico 25,2; Linoleico 60,6; Linolênico 0,5.\nPalma: Mirístico 1,0; Palmítico 42,8; Esteárico 4,5; Oleico 40,5; Linoleico 10,1; Linolênico 0,2.\nCanola: Mirístico <0,2; Palmítico 3,5; Esteárico 0,9; Oleico 64,4; Linoleico 22,3; Linolênico 8,2.\nAlgodão: Mirístico 0,7; Palmítico 20,1; Esteárico 2,6; Oleico 19,2; Linoleico 55,2; Linolênico 0,6.\nAmendoim: Mirístico <0,6; Palmítico 11,4; Esteárico 2,4; Oleico 48,3; Linoleico 32,0; Linolênico 0,9.\n\n(Mirístico, Palmítico e Esteárico são ácidos graxos saturados; Oleico, Linoleico e Linolênico são insaturados.)\n\nMA, F.; HANNA, M. A. Biodiesel Production: a review. Bioresource Technology, Londres, v. 70, n. 1, jan. 1999 (adaptado).\n\nQual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Milho."
+      },
+      {
+        "letter": "B",
+        "text": "Palma."
+      },
+      {
+        "letter": "C",
+        "text": "Canola."
+      },
+      {
+        "letter": "D",
+        "text": "Algodão."
+      },
+      {
+        "letter": "E",
+        "text": "Amendoim."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Somando os teores dos ácidos graxos saturados (mirístico + palmítico + esteárico) de cada fonte: Milho ≈13,7%; Palma ≈48,3%; Canola ≈4,6%; Algodão ≈23,4%; Amendoim ≈14,4%. A palma tem o maior teor de ácidos graxos saturados, logo produz o biodiesel mais resistente à oxidação — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q56",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Diesel é uma mistura de hidrocarbonetos que também apresenta enxofre em sua composição. Esse enxofre é um componente indesejável, pois o trióxido de enxofre gerado é um dos grandes causadores da chuva ácida. Nos anos 1980, não havia regulamentação e era utilizado óleo diesel com 13 000 ppm de enxofre. Em 2009, o diesel passou a ter 1 800 ppm de enxofre (S1800) e, em seguida, foi inserido no mercado o diesel S500 (500 ppm). Em 2012, foi difundido o diesel S50, com 50 ppm de enxofre em sua composição. Atualmente, é produzido um diesel com teores de enxofre ainda menores.\n\nOs impactos da má qualidade do óleo diesel brasileiro. Disponível em: www.cnt.org.br. Acesso em: 20 dez. 2012 (adaptado).\n\nA substituição do diesel usado nos anos 1980 por aquele difundido em 2012 permitiu uma redução percentual de emissão de SO3 de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "86,2%."
+      },
+      {
+        "letter": "B",
+        "text": "96,2%."
+      },
+      {
+        "letter": "C",
+        "text": "97,2%."
+      },
+      {
+        "letter": "D",
+        "text": "99,6%."
+      },
+      {
+        "letter": "E",
+        "text": "99,9%."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A redução percentual é dada por (13000-50)/13000 × 100 = 12950/13000 × 100 ≈ 99,6% — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q58",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.\n\nSANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado).\n\nA substância capaz de formar as estruturas mencionadas é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C18H36."
+      },
+      {
+        "letter": "B",
+        "text": "C17H33COONa."
+      },
+      {
+        "letter": "C",
+        "text": "CH3CH2COONa."
+      },
+      {
+        "letter": "D",
+        "text": "CH3CH2CH2COOH."
+      },
+      {
+        "letter": "E",
+        "text": "CH3CH2CH2CH2OCH2CH2CH2CH3."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Um sabão é o sal de um ácido graxo de cadeia longa, com uma extremidade iônica polar (carboxilato de sódio, hidrofílica) e uma longa cadeia carbônica apolar (hidrofóbica), características que permitem a formação de micelas. C17H33COONa (oleato de sódio) é exatamente esse tipo de composto — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q59",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A revelação das chapas de raios X gera uma solução que contém íons prata na forma de Ag(S2O3)23-. Para evitar a descarga desse metal no ambiente, a recuperação de prata metálica pode ser feita tratando eletroquimicamente essa solução com uma espécie adequada. O quadro apresenta semirreações de redução de alguns íons metálicos:\n\nAg(S2O3)23- (aq) + e- → Ag (s) + 2 S2O32- (aq), E°=+0,02 V\nCu2+ (aq) + 2e- → Cu (s), E°=+0,34 V\nPt2+ (aq) + 2e- → Pt (s), E°=+1,20 V\nAl3+ (aq) + 3e- → Al (s), E°=-1,66 V\nSn2+ (aq) + 2e- → Sn (s), E°=-0,14 V\nZn2+ (aq) + 2e- → Zn (s), E°=-0,76 V\n\nBENDASSOLLI, J. A. et al. Procedimentos para a recuperação de Ag de resíduos líquidos e sólidos. Química Nova, v. 26, n. 4, 2003 (adaptado).\n\nDas espécies apresentadas, a adequada para essa recuperação é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cu (s)."
+      },
+      {
+        "letter": "B",
+        "text": "Pt (s)."
+      },
+      {
+        "letter": "C",
+        "text": "Al3+ (aq)."
+      },
+      {
+        "letter": "D",
+        "text": "Sn (s)."
+      },
+      {
+        "letter": "E",
+        "text": "Zn2+ (aq)."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para reduzir espontaneamente o complexo de prata, é preciso um metal sólido (forma reduzida, capaz de doar elétrons) com potencial de redução menor que +0,02 V. Entre os metais sólidos listados, apenas o Sn(s) (E°=-0,14 V) atende a essa condição — Cu(s) e Pt(s) têm potenciais maiores, e Al3+ e Zn2+ já estão na forma oxidada (íon), não podendo atuar como agente redutor — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q60",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e produzem auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.\n\nPELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado).\n\nQual dos processos biológicos mencionados indica uma relação ecológica de competição?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fixação de nitrogênio para o tomateiro."
+      },
+      {
+        "letter": "B",
+        "text": "Disponibilização de cálcio para o tomateiro."
+      },
+      {
+        "letter": "C",
+        "text": "Diminuição da quantidade de ferro disponível para o fungo."
+      },
+      {
+        "letter": "D",
+        "text": "Liberação de substâncias que inibem o crescimento do fungo."
+      },
+      {
+        "letter": "E",
+        "text": "Liberação de auxinas que estimulam o crescimento do tomateiro."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A competição ecológica ocorre quando duas espécies disputam o mesmo recurso limitado — nesse caso, o ferro do meio, consumido pelas bactérias, tornando-o indisponível para o fungo, o que caracteriza uma relação de competição entre bactéria e fungo — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q61",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento nessa região:\n\nÁrvore 1: superfície foliar coberta por tricomas; profundidade das raízes baixa.\nÁrvore 2: superfície foliar coberta por cera; profundidade das raízes alta.\nÁrvore 3: superfície foliar coberta por cera; profundidade das raízes baixa.\nÁrvore 4: superfície foliar coberta por espinhos; profundidade das raízes baixa.\nÁrvore 5: superfície foliar coberta por espinhos; profundidade das raízes alta.\n\nQual é a árvore adequada para o reflorestamento dessa região?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para sobreviver em uma região de lençol freático profundo e estação seca marcada, a árvore precisa de raízes profundas para alcançar a água subterrânea; a cobertura cerosa das folhas reduz a perda de água por transpiração, característica adaptativa mais eficiente que tricomas ou espinhos nesse contexto. A Árvore 2 (cera + raízes profundas) reúne as duas características — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q66",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.\n\nQue parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fissão do material radioativo."
+      },
+      {
+        "letter": "B",
+        "text": "Condensação do vapor-d'água no final do processo."
+      },
+      {
+        "letter": "C",
+        "text": "Conversão de energia das turbinas pelos geradores."
+      },
+      {
+        "letter": "D",
+        "text": "Aquecimento da água líquida para gerar vapor-d'água."
+      },
+      {
+        "letter": "E",
+        "text": "Lançamento do vapor-d'água sobre as pás das turbinas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao final do ciclo, o vapor que já passou pelas turbinas precisa ser condensado de volta a líquido; essa condensação é feita com água captada de rios, lagos ou mar, que retorna ao corpo hídrico aquecida — é essa etapa que causa a poluição térmica — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q67",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para entender os movimentos dos corpos, Galileu discutiu o movimento de uma esfera de metal em dois planos inclinados sem atrito e com a possibilidade de se alterarem os ângulos de inclinação. Na descrição do experimento, quando a esfera de metal é abandonada para descer um plano inclinado de um determinado nível, ela sempre atinge, no plano ascendente, no máximo, um nível igual àquele em que foi abandonada.\n\nGalileu e o plano inclinado. Disponível em: www.fisica.ufpb.br. Acesso em: 21 ago. 2012 (adaptado).\n\nSe o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo."
+      },
+      {
+        "letter": "B",
+        "text": "manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la."
+      },
+      {
+        "letter": "C",
+        "text": "diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la."
+      },
+      {
+        "letter": "D",
+        "text": "diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento."
+      },
+      {
+        "letter": "E",
+        "text": "aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Com o plano de subida horizontal (ângulo zero), não há mais componente da gravidade se opondo ao movimento nem impulso resultante sobre a esfera — pelo princípio da inércia, ela mantém velocidade constante indefinidamente, conclusão que ajudou Galileu a formular a lei da inércia — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q68",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um ângulo fixo e maior que zero, qualquer modificação no ângulo do feixe refratado indicará adulteração no combustível.\n\nEm uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mudou de sentido."
+      },
+      {
+        "letter": "B",
+        "text": "Sofreu reflexão total."
+      },
+      {
+        "letter": "C",
+        "text": "Atingiu o valor do ângulo limite."
+      },
+      {
+        "letter": "D",
+        "text": "Direcionou-se para a superfície de separação."
+      },
+      {
+        "letter": "E",
+        "text": "Aproximou-se da normal à superfície de separação."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O aumento do índice de refração relativo (de 1,4 para 1,9) indica que a gasolina adulterada é opticamente mais densa; como consequência, o raio refratado se afasta mais da direção original e se aproxima da reta normal à superfície de separação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q69",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas. Em vista disso, os pesquisadores procederam da seguinte forma: (1) isolamento do DNA bacteriano; (2) clonagem do DNA; (3) extração do gene de interesse; (4) fabricação de múltiplas cópias do gene; (5) inserção do gene nas células do tecido de uma planta.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\n\nDo ponto de vista biotecnológico, como a planta resultante desse processo é classificada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Clone."
+      },
+      {
+        "letter": "B",
+        "text": "Híbrida."
+      },
+      {
+        "letter": "C",
+        "text": "Mutante."
+      },
+      {
+        "letter": "D",
+        "text": "Adaptada."
+      },
+      {
+        "letter": "E",
+        "text": "Transgênica."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A planta recebeu, por engenharia genética, um gene de uma espécie diferente (a bactéria), passando a expressar uma característica que não possuía naturalmente — esse é exatamente o conceito de organismo transgênico — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q70",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0. Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a 1,0 × 10-10 mol/L. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa: CH3COOH, Na2SO4, CH3OH, K2CO3 e NH4Cl.\n\nPara que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "CH3COOH"
+      },
+      {
+        "letter": "B",
+        "text": "Na2SO4"
+      },
+      {
+        "letter": "C",
+        "text": "CH3OH"
+      },
+      {
+        "letter": "D",
+        "text": "K2CO3"
+      },
+      {
+        "letter": "E",
+        "text": "NH4Cl"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Com [OH-]=1,0×10⁻¹⁰ mol/L, pOH=10 e pH=4, fora da faixa legal (5,0-9,0), sendo necessário elevar o pH. Entre as opções, apenas K2CO3 é um sal de caráter básico (ácido fraco + base forte), cuja hidrólise do íon carbonato eleva o pH da solução; CH3COOH e NH4Cl são ácidos/sal ácido, e Na2SO4 e CH3OH não alteram o pH — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q71",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho: o CO2 atmosférico se dissolve na água (CO2 dissolvido), reagindo para formar ácido carbônico (H2CO3), que se dissocia em íons hidrogênio (H+) e bicarbonato (HCO3-); o excesso de íons H+ reage com os íons carbonato (CO32-) da água, reduzindo sua disponibilidade e resultando em conchas e esqueletos calcários deformados. O excesso de dióxido de carbono na atmosfera pode afetar os recifes de corais dessa forma.\n\nDisponível em: http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado).\n\nO resultado desse processo nos corais é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "seu branqueamento, levando à sua morte e extinção."
+      },
+      {
+        "letter": "B",
+        "text": "excesso de fixação de cálcio, provocando calcificação indesejável."
+      },
+      {
+        "letter": "C",
+        "text": "menor incorporação de carbono, afetando seu metabolismo energético."
+      },
+      {
+        "letter": "D",
+        "text": "estímulo da atividade enzimática, evitando a descalcificação dos esqueletos."
+      },
+      {
+        "letter": "E",
+        "text": "dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O excesso de CO2 dissolvido reduz a concentração de íons carbonato disponíveis para a calcificação, prejudicando a formação e manutenção dos esqueletos calcários dos corais, o que causa danos estruturais e reduz o tamanho das populações de corais — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q73",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originadas de procariontes ancestrais que foram incorporados por células mais complexas.\n\nUma característica da mitocôndria que sustenta essa teoria é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "capacidade de produzir moléculas de ATP."
+      },
+      {
+        "letter": "B",
+        "text": "presença de parede celular semelhante à de procariontes."
+      },
+      {
+        "letter": "C",
+        "text": "presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma."
+      },
+      {
+        "letter": "D",
+        "text": "capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano."
+      },
+      {
+        "letter": "E",
+        "text": "presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A teoria endossimbiótica é sustentada, entre outras evidências, pelo fato de as mitocôndrias possuírem DNA próprio, circular e semelhante ao das bactérias, o que lhes confere capacidade de autoduplicação independente do núcleo — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q75",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 75,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Um pesquisador percebe que o rótulo de um dos vidros em que guarda um concentrado de enzimas digestivas está ilegível. Ele não sabe qual enzima o vidro contém, mas desconfia de que seja uma protease gástrica, que age no estômago digerindo proteínas. Sabendo que a digestão no estômago é ácida e no intestino é básica, ele monta cinco tubos de ensaio com alimentos diferentes, adiciona o concentrado de enzimas em soluções com pH determinado e aguarda para ver se a enzima age em algum deles.\n\nO tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cubo de batata em solução com pH = 9."
+      },
+      {
+        "letter": "B",
+        "text": "pedaço de carne em solução com pH = 5."
+      },
+      {
+        "letter": "C",
+        "text": "clara de ovo cozida em solução com pH = 9."
+      },
+      {
+        "letter": "D",
+        "text": "porção de macarrão em solução com pH = 5."
+      },
+      {
+        "letter": "E",
+        "text": "bolinha de manteiga em solução com pH = 9."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Uma protease gástrica atua sobre proteínas (carne) em meio ácido (pH baixo, semelhante ao do estômago) — o tubo com pedaço de carne em pH = 5 reúne substrato correto (proteína) e pH compatível com a atividade da enzima — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q76",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.\n\nWENDLING, M. Sensores. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014 (adaptado).\n\nA radiação captada por esse detector encontra-se na região de frequência",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "da luz visível."
+      },
+      {
+        "letter": "B",
+        "text": "do ultravioleta."
+      },
+      {
+        "letter": "C",
+        "text": "do infravermelho."
+      },
+      {
+        "letter": "D",
+        "text": "das micro-ondas."
+      },
+      {
+        "letter": "E",
+        "text": "das ondas longas de rádio."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O corpo humano emite radiação eletromagnética predominantemente na faixa do infravermelho, em razão de sua temperatura; sensores de movimento do tipo PIR (piroelétrico) detectam justamente essa radiação infravermelha emitida pelas pessoas — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q77",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O estudo de compostos orgânicos permite aos analistas definir propriedades físicas e químicas responsáveis pelas características de cada substância descoberta. Um laboratório investiga moléculas quirais cuja cadeia carbônica seja insaturada, heterogênea e ramificada.\n\nA fórmula que se enquadra nas características da molécula investigada é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "CH3–(CH)2–CH(OH)–CO–NH–CH3."
+      },
+      {
+        "letter": "B",
+        "text": "CH3–(CH)2–CH(CH3)–CO–NH–CH3."
+      },
+      {
+        "letter": "C",
+        "text": "CH3–(CH)2–CH(CH3)–CO–NH2."
+      },
+      {
+        "letter": "D",
+        "text": "CH3–CH2–CH(CH3)–CO–NH–CH3."
+      },
+      {
+        "letter": "E",
+        "text": "C6H5–CH2–CO–NH–CH3."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A fórmula CH3–CH=CH–CH(CH3)–CO–NH–CH3 apresenta simultaneamente: uma dupla ligação (cadeia insaturada), um átomo de nitrogênio na cadeia principal (cadeia heterogênea, devido à ligação amídica), um grupo metila como ramificação, e um carbono com quatro substituintes diferentes (H, CH3, a cadeia insaturada e a cadeia amídica), que é um centro quiral — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q78",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.\n\nERENO, D. Plásticos de vegetais. Pesquisa Fapesp, n. 179, jan. 2011 (adaptado).\n\nNesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dissolvem-se na água."
+      },
+      {
+        "letter": "B",
+        "text": "absorvem água com facilidade."
+      },
+      {
+        "letter": "C",
+        "text": "caramelizam por aquecimento e quebram."
+      },
+      {
+        "letter": "D",
+        "text": "são digeridos por organismos decompositores."
+      },
+      {
+        "letter": "E",
+        "text": "decompõem-se espontaneamente em contato com água e gás carbônico."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O amido, por ser um carboidrato natural, é biodegradável: microrganismos decompositores presentes no ambiente o digerem, criando falhas na matriz do plástico e facilitando sua fragmentação, ao contrário da resina petroquímica, que não é biodegradável — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q79",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas um tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer a identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro:\n\nLote I: volume 22 L; soro anti-A: não aglutinou; soro anti-B: aglutinou.\nLote II: volume 25 L; soro anti-A: aglutinou; soro anti-B: não aglutinou.\nLote III: volume 30 L; soro anti-A: aglutinou; soro anti-B: aglutinou.\nLote IV: volume 15 L; soro anti-A: não aglutinou; soro anti-B: não aglutinou.\nLote V: volume 33 L; soro anti-A: não aglutinou; soro anti-B: aglutinou.\n\nQuantos litros de sangue eram do grupo sanguíneo do tipo A?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15"
+      },
+      {
+        "letter": "B",
+        "text": "25"
+      },
+      {
+        "letter": "C",
+        "text": "30"
+      },
+      {
+        "letter": "D",
+        "text": "33"
+      },
+      {
+        "letter": "E",
+        "text": "55"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Aglutinação apenas com anti-A indica tipo sanguíneo A (presença apenas do antígeno A). Apenas o lote II (25 L) apresenta esse padrão (aglutinou com anti-A e não aglutinou com anti-B); os demais são tipo B (I e V), AB (III) e O (IV) — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q80",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O principal processo industrial utilizado na produção de fenol é a oxidação do cumeno (isopropilbenzeno). O processo envolve a formação do hidroperóxido de cumila, que em seguida é decomposto, em meio de H2O/H2SO4, em fenol e acetona, ambos usados na indústria química como precursores de moléculas mais complexas. Após o processo de síntese, esses dois insumos (fenol e acetona), que são líquidos miscíveis com pontos de ebulição diferentes, devem ser separados para comercialização individual.\n\nConsiderando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "filtração."
+      },
+      {
+        "letter": "B",
+        "text": "ventilação."
+      },
+      {
+        "letter": "C",
+        "text": "decantação."
+      },
+      {
+        "letter": "D",
+        "text": "evaporação."
+      },
+      {
+        "letter": "E",
+        "text": "destilação fracionada."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Fenol e acetona são líquidos miscíveis (formam uma única fase, descartando decantação e filtração) com pontos de ebulição distintos; a separação de líquidos miscíveis com diferentes temperaturas de ebulição é feita por destilação fracionada — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q81",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas se desenvolvem dentro do corpo de outros organismos, como lagartas (herbívoros), alimentando-se de seus tecidos internos até levá-las à morte. A forma adulta do parasitoide, por sua vez, se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.\n\nSANTO, M. M. E.; FARIA, M. L. Parasitoides: insetos benéficos e cruéis. Ciência Hoje, v. 49, n. 291, abr. 2012 (adaptado).\n\nA forma larval do parasitoide assume qual papel nessa cadeia alimentar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Consumidor primário, pois ataca diretamente uma espécie herbívora."
+      },
+      {
+        "letter": "B",
+        "text": "Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta."
+      },
+      {
+        "letter": "C",
+        "text": "Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta."
+      },
+      {
+        "letter": "D",
+        "text": "Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia."
+      },
+      {
+        "letter": "E",
+        "text": "Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A lagarta, herbívora, é consumidora primária. A larva do parasitoide se alimenta diretamente dos tecidos vivos dessa lagarta, ocupando, portanto, o nível de consumidor secundário na cadeia alimentar — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q83",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "A utilização de processos de biorremediação de resíduos gerados pela combustão incompleta de compostos orgânicos tem se tornado crescente, visando minimizar a poluição ambiental. Para ocorrência de resíduos de naftaleno, algumas legislações limitam sua concentração em até 30 mg/kg para solo agrícola e 0,14 mg/L para água subterrânea. A quantificação desse resíduo foi realizada em diferentes ambientes, utilizando-se amostras de 500 g de solo e 100 mL de água, conforme o quadro:\n\nSolo I: 1,0×10⁻² g de naftaleno.\nSolo II: 2,0×10⁻² g de naftaleno.\nÁgua I: 7,0×10⁻⁶ g de naftaleno.\nÁgua II: 8,0×10⁻⁶ g de naftaleno.\nÁgua III: 9,0×10⁻⁶ g de naftaleno.\n\nO ambiente que necessita de biorremediação é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "solo I."
+      },
+      {
+        "letter": "B",
+        "text": "solo II."
+      },
+      {
+        "letter": "C",
+        "text": "água I."
+      },
+      {
+        "letter": "D",
+        "text": "água II."
+      },
+      {
+        "letter": "E",
+        "text": "água III."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Convertendo para as unidades da legislação: Solo I = 10 mg / 0,5 kg = 20 mg/kg (dentro do limite de 30); Solo II = 20 mg / 0,5 kg = 40 mg/kg (acima do limite!); Água I, II e III = 0,007; 0,008 e 0,009 mg / 0,1 L = 0,07; 0,08 e 0,09 mg/L (todas abaixo do limite de 0,14). Apenas o solo II ultrapassa o limite legal e necessita de biorremediação — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q84",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.\n\nO fenômeno descrito é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difração."
+      },
+      {
+        "letter": "B",
+        "text": "refração."
+      },
+      {
+        "letter": "C",
+        "text": "polarização."
+      },
+      {
+        "letter": "D",
+        "text": "interferência."
+      },
+      {
+        "letter": "E",
+        "text": "ressonância."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O circuito receptor é ajustado para oscilar na mesma frequência natural da onda desejada; quando as frequências coincidem, ocorre máxima transferência/absorção de energia — esse fenômeno é a ressonância — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q86",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.\n\nSILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem... A química do mau cheiro. Química Nova na Escola, v. 33, n. 1, fev. 2011 (adaptado).\n\nA eficiência do uso do vinagre nesse caso se explica pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sobreposição de odor, propiciada pelo cheiro característico do vinagre."
+      },
+      {
+        "letter": "B",
+        "text": "solubilidade da piridina, de caráter ácido, na solução ácida empregada."
+      },
+      {
+        "letter": "C",
+        "text": "inibição da proliferação das bactérias presentes, devido à ação do ácido acético."
+      },
+      {
+        "letter": "D",
+        "text": "degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético."
+      },
+      {
+        "letter": "E",
+        "text": "reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A piridina é uma base orgânica volátil, responsável pelo odor de peixe. O ácido acético do vinagre reage com ela em uma reação ácido-base, formando um sal (acetato de piridínio), não volátil e sem o odor característico da piridina livre — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q87",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.\n\nO ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identificar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.\n\nLENT, R. O cérebro do meu professor de acordeão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).\n\nNo contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "frequência."
+      },
+      {
+        "letter": "B",
+        "text": "intensidade."
+      },
+      {
+        "letter": "C",
+        "text": "forma da onda."
+      },
+      {
+        "letter": "D",
+        "text": "amplitude da onda."
+      },
+      {
+        "letter": "E",
+        "text": "velocidade de propagação."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Cada nota musical corresponde a uma frequência sonora específica; identificar uma nota isolada, sem comparação com outras, significa reconhecer diretamente sua frequência característica — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q88",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme a equação (1):\n\nCaCO3 (s) + SO2 (g) → CaSO3 (s) + CO2 (g) (1)\n\nPor sua vez, o sulfito de cálcio formado pode ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.\n\n2 CaSO3 (s) + O2 (g) → 2 CaSO4 (s) (2)\n\nAs massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.\n\nBAIRD, C. Química ambiental. Porto Alegre: Bookman, 2002 (adaptado).\n\nConsiderando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "64."
+      },
+      {
+        "letter": "B",
+        "text": "108."
+      },
+      {
+        "letter": "C",
+        "text": "122."
+      },
+      {
+        "letter": "D",
+        "text": "136."
+      },
+      {
+        "letter": "E",
+        "text": "245."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Pela estequiometria das equações (1) e (2), 1 mol de SO2 retido gera 1 mol de CaSO4 (gesso), cuja massa molar é 40+32+4×16=136 g/mol. Com rendimento de 90%: 136 × 0,90 = 122,4 g ≈ 122 g — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q89",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.\n\nO poder terapêutico dessas células baseia-se em sua capacidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "multiplicação lenta."
+      },
+      {
+        "letter": "B",
+        "text": "comunicação entre células."
+      },
+      {
+        "letter": "C",
+        "text": "adesão a diferentes tecidos."
+      },
+      {
+        "letter": "D",
+        "text": "diferenciação em células especializadas."
+      },
+      {
+        "letter": "E",
+        "text": "reconhecimento de células semelhantes."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As células do cordão umbilical são células-tronco, com potencial terapêutico justamente por sua capacidade de se diferenciar em diversos tipos de células especializadas do organismo — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q90",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "As lentes fotocromáticas escurecem quando expostas à luz solar por causa de reações químicas reversíveis entre uma espécie incolor e outra colorida. A escolha do melhor reagente para esse fim se baseia em três principais aspectos: (i) o quanto escurece a lente (quanto menor a transmitância, mais escura fica a lente); (ii) o tempo de escurecimento quando exposta à luz solar (quanto menor, melhor); e (iii) o tempo de esmaecimento em ambiente sem forte luz solar (quanto menor, melhor).\n\nDurante um teste de controle, foram analisadas cinco amostras, com os seguintes resultados (tempo de escurecimento em segundos; transmitância média sob luz solar em %; tempo de esmaecimento em segundos):\n\nAmostra 1: 20 s; 50%; 80 s.\nAmostra 2: 40 s; 30%; 90 s.\nAmostra 3: 20 s; 30%; 50 s.\nAmostra 4: 50 s; 50%; 50 s.\nAmostra 5: 40 s; 20%; 95 s.\n\nConsiderando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A amostra 3 combina o menor tempo de escurecimento (20 s, empatada com a amostra 1), uma transmitância baixa (30%, mais escura que a amostra 1) e o menor tempo de esmaecimento (50 s, empatada com a amostra 4, mas com transmitância melhor) — sendo, portanto, a melhor combinação dos três critérios — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
+    }
   }
 ]
