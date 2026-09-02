@@ -49,20 +49,19 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-O banco já tem **36 questões reais do ENEM (18 de 2022 + 18 de 2024)**, cobrindo as quatro áreas (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) em 12 matérias e mais de 20 tópicos diferentes.
+O banco já tem **84 questões reais do ENEM**, distribuídas em 6 anos (2018, 2020, 2021, 2022, 2023, 2024), cobrindo as quatro áreas (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) em 12 matérias e mais de 20 tópicos diferentes.
 
 **Ainda faltam:**
-- Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2021 e 2023, 2025).
-- Todo o banco da UERJ (Exame de Qualificação e Exame Discursivo) — a estrutura de dados já está pronta em `data/questions/uerj.json`, mas está vazia. Não foi possível, até agora, acessar uma fonte oficial ou um espelho confiável das provas da UERJ a partir do ambiente onde este projeto é mantido (ver nota abaixo).
+- Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2017, 2019 e 2025).
+- Todo o banco da UERJ (Exame de Qualificação e Exame Discursivo) — a estrutura de dados já está pronta em `data/questions/uerj.json`, mas está vazia.
 
-### Por que faltam anos e a UERJ inteira
+### Sobre as fontes
 
-O ambiente usado para montar este banco tem acesso à internet bastante restrito (política de rede da sessão): só é possível alcançar conteúdo hospedado no GitHub (`github.com`/`raw.githubusercontent.com`) e alguns poucos serviços de infraestrutura (ex.: Google Cloud Storage). Domínios como `gov.br`, `inep.gov.br`, `vestibular.uerj.br` e a maioria dos sites de terceiros (cursinhos, notícias, etc.) estão bloqueados nesse ambiente. Por isso:
+O ambiente usado para montar este banco tem acesso à internet bastante restrito (política de rede da sessão): domínios como `gov.br`, `inep.gov.br` e `vestibular.uerj.br` estão bloqueados, então não foi possível baixar as provas oficiais diretamente do INEP ou da UERJ. O banco foi construído a partir de duas fontes alternativas, sempre com o texto conferido antes de publicar:
 
-- As 36 questões do ENEM foram obtidas de um dataset aberto hospedado no GitHub que reproduz fielmente o texto oficial dos cadernos do INEP (2022 e 2024) — não foram inventadas.
-- Não foi encontrado, até agora, nenhum espelho equivalente para a UERJ.
-
-**Se você tiver acesso às provas da UERJ (PDF oficial ou uma cópia do texto)**, pode colá-las diretamente nesta conversa/repositório que elas são processadas e adicionadas ao banco no mesmo formato — sem precisar de acesso à internet.
+- Parte das questões do ENEM (2022 e 2024) vieram de um dataset aberto hospedado no GitHub, que reproduz fielmente o texto oficial dos cadernos do INEP.
+- A maior parte (2018, 2020, 2021, 2023) veio de PDFs originais das provas e dos gabaritos oficiais (caderno de questões + gabarito), compartilhados diretamente pelo usuário do projeto via Google Drive — extraídos, checados questão a questão contra o gabarito oficial, e só então incluídos no banco.
+- Ainda não foi encontrada nenhuma fonte equivalente para a UERJ. Se você tiver acesso às provas da UERJ (PDF oficial, ou uma pasta/arquivo compartilhado), elas podem ser processadas do mesmo jeito.
 
 A expansão é feita em lotes: novas questões podem ser adicionadas diretamente nos arquivos JSON acima, seguindo o formato descrito, sem precisar mexer no HTML/CSS/JS.
 
