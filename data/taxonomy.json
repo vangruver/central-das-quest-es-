@@ -1,0 +1,157 @@
+{
+  "exams": [
+    { "id": "enem", "name": "ENEM", "fullName": "Exame Nacional do Ensino Médio", "institution": "INEP/MEC" },
+    { "id": "uerj", "name": "UERJ", "fullName": "Exame de Qualificação / Vestibular UERJ", "institution": "UERJ" }
+  ],
+  "subjects": [
+    {
+      "id": "portugues",
+      "name": "Português",
+      "area": "Linguagens",
+      "topics": [
+        "Interpretação de Texto",
+        "Gêneros Textuais",
+        "Variação Linguística",
+        "Literatura",
+        "Gramática e Morfossintaxe",
+        "Semântica e Figuras de Linguagem",
+        "Produção Textual e Redação"
+      ]
+    },
+    {
+      "id": "ingles",
+      "name": "Inglês",
+      "area": "Linguagens",
+      "topics": [
+        "Interpretação de Texto em Língua Inglesa",
+        "Vocabulário e Estruturas Gramaticais"
+      ]
+    },
+    {
+      "id": "espanhol",
+      "name": "Espanhol",
+      "area": "Linguagens",
+      "topics": [
+        "Interpretação de Texto em Língua Espanhola",
+        "Vocabulário e Estruturas Gramaticais"
+      ]
+    },
+    {
+      "id": "artes",
+      "name": "Artes",
+      "area": "Linguagens",
+      "topics": [
+        "História da Arte",
+        "Multiculturalismo e Identidade",
+        "Linguagens Artísticas"
+      ]
+    },
+    {
+      "id": "educacao-fisica",
+      "name": "Educação Física",
+      "area": "Linguagens",
+      "topics": [
+        "Corpo e Sociedade",
+        "Esporte e Cultura"
+      ]
+    },
+    {
+      "id": "historia",
+      "name": "História",
+      "area": "Humanas",
+      "topics": [
+        "Brasil Colônia",
+        "Brasil Império",
+        "Brasil República",
+        "Colonização da América",
+        "Idade Moderna",
+        "Idade Contemporânea",
+        "Movimentos Sociais e Direitos"
+      ]
+    },
+    {
+      "id": "geografia",
+      "name": "Geografia",
+      "area": "Humanas",
+      "topics": [
+        "Geografia Urbana",
+        "Geopolítica",
+        "Meio Ambiente e Sustentabilidade",
+        "Geografia da População",
+        "Geografia Agrária e Industrial"
+      ]
+    },
+    {
+      "id": "filosofia",
+      "name": "Filosofia",
+      "area": "Humanas",
+      "topics": [
+        "Ética e Política",
+        "Teoria do Conhecimento",
+        "Filosofia Contemporânea"
+      ]
+    },
+    {
+      "id": "sociologia",
+      "name": "Sociologia",
+      "area": "Humanas",
+      "topics": [
+        "Cidadania e Democracia",
+        "Cultura e Sociedade",
+        "Trabalho e Sociedade"
+      ]
+    },
+    {
+      "id": "biologia",
+      "name": "Biologia",
+      "area": "Natureza",
+      "topics": [
+        "Citologia",
+        "Genética",
+        "Ecologia",
+        "Fisiologia Humana",
+        "Zoologia",
+        "Botânica",
+        "Saúde Pública e Epidemiologia"
+      ]
+    },
+    {
+      "id": "fisica",
+      "name": "Física",
+      "area": "Natureza",
+      "topics": [
+        "Mecânica",
+        "Termologia",
+        "Ondulatória",
+        "Eletricidade",
+        "Óptica"
+      ]
+    },
+    {
+      "id": "quimica",
+      "name": "Química",
+      "area": "Natureza",
+      "topics": [
+        "Química Orgânica",
+        "Físico-Química",
+        "Química Geral e Inorgânica",
+        "Química Ambiental"
+      ]
+    },
+    {
+      "id": "matematica",
+      "name": "Matemática",
+      "area": "Matemática",
+      "topics": [
+        "Álgebra",
+        "Funções",
+        "Geometria Plana",
+        "Geometria Espacial",
+        "Estatística e Probabilidade",
+        "Análise Combinatória",
+        "Razão e Proporção",
+        "Matemática Financeira"
+      ]
+    }
+  ]
+}

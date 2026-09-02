@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Central das Questões — Banco de Questões ENEM e UERJ</title>
+  <meta name="description" content="Banco de questões do ENEM e da UERJ organizado por matéria e tópico, com gabaritos comentados, modo de resposta online e geração de listas para impressão.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:,">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>📚 Central das Questões</h1>
+      <p class="tagline">Banco de questões do <strong>ENEM</strong> e da <strong>UERJ</strong>, organizado por matéria e tópico — com gabarito comentado.</p>
+      <nav class="tabs" id="main-tabs">
+        <button class="tab-btn active" data-view="explorar">Explorar questões</button>
+        <button class="tab-btn" data-view="exercicio">Montar exercício / Imprimir</button>
+        <button class="tab-btn" data-view="sobre">Sobre o projeto</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+
+    <!-- ===================== EXPLORAR ===================== -->
+    <section id="view-explorar" class="view active">
+      <div class="layout">
+        <aside class="filters" id="explorar-filters">
+          <h2>Filtros</h2>
+
+          <div class="filter-group">
+            <label>Prova</label>
+            <div class="chip-group" id="filter-exam"></div>
+          </div>
+
+          <div class="filter-group">
+            <label>Matéria</label>
+            <select id="filter-subject"></select>
+          </div>
+
+          <div class="filter-group">
+            <label>Tópico</label>
+            <select id="filter-topic">
+              <option value="">Todos os tópicos</option>
+            </select>
+          </div>
+
+          <p class="result-count" id="explorar-count"></p>
+        </aside>
+
+        <div class="content" id="explorar-list"></div>
+      </div>
+    </section>
+
+    <!-- ===================== EXERCICIO ===================== -->
+    <section id="view-exercicio" class="view">
+      <div class="builder">
+        <h2>Montar lista de exercícios</h2>
+        <p class="hint">Escolha a prova, a matéria e o tópico, defina quantas questões deseja e escolha como quer usá-las: respondendo direto no site (com correção automática) ou gerando uma folha para impressão / PDF, com o gabarito comentado ao final.</p>
+
+        <div class="builder-form">
+          <div class="filter-group">
+            <label>Prova</label>
+            <div class="chip-group" id="ex-filter-exam"></div>
+          </div>
+          <div class="filter-group">
+            <label>Matéria</label>
+            <select id="ex-filter-subject"></select>
+          </div>
+          <div class="filter-group">
+            <label>Tópico</label>
+            <select id="ex-filter-topic">
+              <option value="">Todos os tópicos da matéria</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label>Quantidade de questões</label>
+            <input type="number" id="ex-quantity" min="1" value="5">
+          </div>
+          <p class="result-count" id="ex-count"></p>
+          <div class="builder-actions">
+            <button class="btn primary" id="btn-answer-online">Responder no site</button>
+            <button class="btn" id="btn-print">Gerar folha para impressão / PDF</button>
+          </div>
+        </div>
+
+        <div id="exercise-area"></div>
+      </div>
+    </section>
+
+    <!-- ===================== SOBRE ===================== -->
+    <section id="view-sobre" class="view">
+      <div class="about">
+        <h2>Sobre o projeto</h2>
+        <p>A <strong>Central das Questões</strong> é um banco de questões aberto do ENEM (INEP) e da UERJ, organizado por prova, matéria e tópico, com gabarito comentado escrito para este projeto.</p>
+        <h3>Fontes e direito autoral</h3>
+        <p>As provas do ENEM e da UERJ são exames públicos; os enunciados e alternativas reproduzidos aqui vêm dos cadernos oficiais e são usados apenas para fins educacionais, sem fins comerciais, com indicação da fonte em cada questão. Os <strong>comentários e explicações são conteúdo original</strong>, escrito especificamente para este banco de questões — não foram copiados de cursinhos ou de outros sites de gabarito comentado.</p>
+        <h3>Estado atual e próximos passos</h3>
+        <p>Este é o ponto de partida do banco: a estrutura completa do site (navegação por prova/matéria/tópico, modo de resposta online e geração de PDF) já está pronta, populada com um primeiro lote real de questões do ENEM 2024. A cobertura será expandida aos poucos, prova por prova e ano por ano, até 2008. A base do UERJ ainda está vazia — o formato de dados já está definido em <code>data/questions/uerj.json</code>, pronto para receber questões.</p>
+        <h3>Como as questões são organizadas</h3>
+        <p>Cada questão pertence a uma prova (ENEM ou UERJ), uma matéria (ex.: Matemática, Biologia, História) e um ou mais tópicos dentro dessa matéria (ex.: Análise Combinatória, Zoologia, Colonização da América). Isso permite filtrar tanto por matéria inteira quanto por um tópico específico, tanto para estudar quanto para montar listas de exercícios focadas.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===================== ÁREA DE IMPRESSÃO ===================== -->
+  <div id="print-area"></div>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Central das Questões — banco de questões ENEM/UERJ com gabarito comentado. Conteúdo educacional, sem fins comerciais.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

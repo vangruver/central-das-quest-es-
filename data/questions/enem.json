@@ -1,0 +1,380 @@
+[
+  {
+    "id": "enem-2024-q01",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": ["Interpretação de Texto em Língua Inglesa"],
+    "statement": "## Holy War\n\nOh, so we can hate each other and fear each other\nWe can build these walls between each other\nBaby, blow by blow and brick by brick\nKeep yourself locked in, yourself locked in\n\n[…]\n\nOh, maybe we should love somebody\nOh, maybe we could care a little more\nSo maybe we should love somebody\nInstead of polishing the bombs of holy war\n\nNessa letra de canção, de Alicia Keys, que aborda um contexto de ódio e intolerância, o marcador “instead of” introduz a ideia de",
+    "alternatives": [
+      { "letter": "A", "text": "mudança de comportamento." },
+      { "letter": "B", "text": "panorama de conflitos." },
+      { "letter": "C", "text": "rotina de isolamento." },
+      { "letter": "D", "text": "perspectiva bélica." },
+      { "letter": "E", "text": "cenário religioso." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O marcador “instead of” (em vez de) estabelece uma relação de substituição: a canção propõe trocar o comportamento de ódio, medo e guerra (“polishing the bombs of holy war”) pelo comportamento oposto, de amor (“maybe we should love somebody”). Logo, o marcador introduz justamente a ideia de uma mudança de comportamento — do ódio para o amor —, o que torna a alternativa A correta. As demais alternativas descrevem elementos presentes no poema (conflito, isolamento, guerra, religião), mas não captam a função específica de “instead of”, que é indicar substituição/contraste, e não apenas nomear um cenário.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q08",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Variação Linguística"],
+    "statement": "## Falar errado é uma arte, Arnesto!\n\nNo dia 6 de agosto de 1910, Emma Riccini Rubinato pariu um garoto sapeca em Valinhos e deu a ele o nome de João Rubinato. [...] Virou Adoniran Barbosa. O cara falava errado, voz rouca, pinta de malandro da roça. Virou ícone da música brasileira [...]\n\nPara toda essa gente que implicava, Adoniran tinha uma resposta neoerudita: “Gosto de samba e não foi fácil, pra mim, ser aceito como compositor, porque ninguém queria nada com as minhas letras que falavam ‘nóis vai’, ‘nóis fumo’, ‘nóis fizemo’, ‘nóis peguemo’. Acontece que é preciso saber falar errado. Falar errado é uma arte, senão vira deboche”.\n\nO “falar errado” a que o texto se refere constitui um preconceito em relação ao uso que Adoniran Barbosa fazia da língua em suas composições, pois esse uso",
+    "alternatives": [
+      { "letter": "A", "text": "marcava a linguagem dos comediantes no mesmo período." },
+      { "letter": "B", "text": "prejudicava a compreensão das canções pelo público." },
+      { "letter": "C", "text": "denunciava a ausência de estilo nas letras de canção." },
+      { "letter": "D", "text": "restringia a criação poética nas letras do compositor." },
+      { "letter": "E", "text": "transgredia a norma-padrão vigente à época." }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Formas como “nóis vai”, “nóis fumo” e “nóis fizemo” são consideradas “erradas” apenas do ponto de vista do preconceito linguístico: são marcas de uma variedade popular do português que se afasta da norma-padrão (culta), mas isso não significa que sejam incorretas ou incompreensíveis — são plenamente funcionais e expressivas, como reconhece o próprio Adoniran ao chamar isso de “arte”. Por isso a alternativa E é a correta: o julgamento de “erro” decorre exatamente de transgredir a norma-padrão vigente, e não de qualquer prejuízo real à comunicação (o que elimina B), à criatividade (o que elimina D) ou ao estilo (o que elimina C).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q11",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Literatura"],
+    "statement": "## Feijoada à minha moda (fragmento)\nVinicius de Moraes\n\nAmiga Helena Sangirardi\nConforme um dia prometi\n[...]\nUma vez cozido o feijão\n(Umas quatro horas, fogo médio)\nNós, bocejando o nosso tédio\nNos chegaremos ao fogão\n[...]\nDe carne-seca suculenta\nGordos paios, nédio toucinho\n[...]\nDever cumprido. Nunca é vã\nA palavra de um poeta... — jamais!\nAbraça-a, em Brillat-Savarin,\nO seu Vinicius de Moraes.\n\nApesar de haver marcas formais de carta e receita, a característica que define esse texto como poema é o(a)",
+    "alternatives": [
+      { "letter": "A", "text": "nomeação de um interlocutor." },
+      { "letter": "B", "text": "manifestação de intimidade." },
+      { "letter": "C", "text": "descrição de procedimentos." },
+      { "letter": "D", "text": "utilização de uma linguagem expressiva." },
+      { "letter": "E", "text": "apresentação de ingredientes culinários." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto mistura marcas de carta (endereçamento a “Amiga Helena”) e de receita (ingredientes, modo de preparo), mas o que o torna um poema não é nenhuma dessas marcas formais — é a linguagem expressiva, trabalhada em versos, com sonoridade, ritmo e escolhas lexicais poéticas (“nédio toucinho”, “fogo alegre e presto”). Nomear um interlocutor (A) e descrever procedimentos (C) também ocorrem em cartas e receitas em prosa; a intimidade (B) e os ingredientes (E) não são o traço definidor de um poema. A resposta correta é a D.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q35",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": ["Multiculturalismo e Identidade"],
+    "statement": "Uma definição possível para o conceito de arte afro-brasileira pode ser: produção plástica que é feita por negros, mestiços ou brancos a partir de suas experiências sociais com a cultura negra nacional. Exemplos clássicos dessa abordagem são Carybé (1911-1997), Mestre Didi (1917-2013) e Djanira da Motta e Silva (1914-1979), cujas obras emergem e ganham forma em razão do ambiente social no qual habitaram e viveram. Se Didi era um célebre representante da cultura religiosa nagô baiana e brasileira, iniciado desde o ventre no candomblé, Carybé era argentino e, naturalizado brasileiro, envolveu-se de tal modo com essa religião que alguns dos orixás dos quais conhecemos a imagem visual são produções suas.\n\nSob a perspectiva da multiculturalidade e de acordo com o texto, a produção artística afro-brasileira caracteriza-se pelo(a)",
+    "alternatives": [
+      { "letter": "A", "text": "estranhamento no modo de apropriação da cultura religiosa de matriz africana." },
+      { "letter": "B", "text": "distanciamento entre as raízes de matriz africana e a estética de outras culturas." },
+      { "letter": "C", "text": "visão uniformizadora das religiões de matriz africana expressada nas diferentes produções." },
+      { "letter": "D", "text": "relação complexa entre as vivências pessoais dos artistas e os referenciais estéticos de matriz africana." },
+      { "letter": "E", "text": "padronização da forma de produção e da temática da matriz africana presente nas obras dos artistas citados." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto mostra trajetórias pessoais muito diferentes levando a uma mesma matriz estética: Mestre Didi nasceu dentro da religião de matriz africana, enquanto Carybé, argentino naturalizado brasileiro, se aproximou dela por vivência e envolvimento pessoal — ambos produzindo arte reconhecida como afro-brasileira. Isso evidencia uma relação complexa e não linear entre a biografia/vivência de cada artista e os referenciais estéticos afro-brasileiros, o que corresponde à alternativa D. Não há uniformização (C) nem padronização (E), já que os artistas citados têm origens e trajetórias distintas; tampouco há estranhamento (A) ou distanciamento (B), pois o texto descreve justamente proximidade e envolvimento.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q44",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": ["Gêneros Textuais"],
+    "statement": "Antônio Prata\n\nJá ouvi gente falando que o podcast é o renascimento do rádio. O rádio é genial, uma mídia imorredoura, mas podcast não tem nada a ver com ele. O formato está mais próximo do ensaio literário do que de um programa de ondas curtas, médias ou longas.\n\nPodcasts são antípodas das redes sociais. Enquanto elas são dispersivas, levam à evasão e à desinformação, os podcasts são uma possibilidade de imersão, concentração, aprendizado. Depois que eles surgiram, lavar a louça e me locomover pela cidade viraram um programaço. Um pós-almoço de domingo e aprendo tudo sobre bonobos e gorilas. Um táxi pro aeroporto e chego ao embarque PhD em reforma tributária.\n\nSegundo a argumentação construída nesse texto, o podcast",
+    "alternatives": [
+      { "letter": "A", "text": "provoca dispersão da atenção em seu público." },
+      { "letter": "B", "text": "funciona por meio de uma frequência de ondas curtas." },
+      { "letter": "C", "text": "propicia divulgação de conhecimento para seus usuários." },
+      { "letter": "D", "text": "tem um formato de interação semelhante ao das redes sociais." },
+      { "letter": "E", "text": "constitui uma evolução na transmissão de informações via rádio." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O cronista contrapõe explicitamente o podcast às redes sociais (que ele chama de “dispersivas”) e ao rádio tradicional (afirmando que “não tem nada a ver com ele”), e ilustra o valor do podcast com exemplos concretos de aprendizado (“aprendo tudo sobre bonobos e gorilas”, “PhD em reforma tributária”). O argumento central, portanto, é que o podcast favorece a divulgação de conhecimento, o que torna C a alternativa correta. A é o oposto do que o texto diz sobre o podcast (a dispersão é atribuída às redes sociais); B e E ligam erroneamente o podcast ao funcionamento técnico do rádio, que o texto nega; D contraria a ideia de que podcast e redes sociais são “antípodas”.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q46",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": ["Cidadania e Democracia"],
+    "statement": "A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.\n\nO que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+    "alternatives": [
+      { "letter": "A", "text": "Soberania popular." },
+      { "letter": "B", "text": "Divisão de classes." },
+      { "letter": "C", "text": "Acúmulo de capital." },
+      { "letter": "D", "text": "Defesa da propriedade." },
+      { "letter": "E", "text": "Centralização administrativa." }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto define a democracia pela ideia de que o poder público pertence “à coletividade dos cidadãos” e que “todos intervenham nos fatos sociais” — ou seja, o poder emana do povo como um todo, não de uma classe, de um grupo econômico ou de uma autoridade centralizada. Esse princípio é exatamente o de soberania popular, o que torna a alternativa A correta. As demais alternativas (divisão de classes, acúmulo de capital, defesa da propriedade, centralização administrativa) descrevem lógicas de poder concentrado ou hierarquizado, contrárias à ideia de que “mandemos todos”.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q58",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Idade Moderna", "Movimentos Sociais e Direitos"],
+    "statement": "## Reivindicação dos direitos da mulher\nMary Wollstonecraft\n\nAtribuo a causa desse florescimento estéril a um sistema de educação falso, extraído de livros sobre o assunto escrito por homens que, ao considerar as mulheres mais como fêmeas do que como criaturas humanas, estão mais ansiosos em torná-las damas sedutoras do que esposas afetuosas e mães racionais. O entendimento do sexo feminino tem sido tão distorcido por essa homenagem ilusória de que as mulheres civilizadas de nosso século, com raras exceções, anseiam apenas inspirar amor, quando deveriam nutrir uma ambição mais nobre e exigir respeito por suas capacidades e virtudes.\n\nNesse texto, escrito no século 18, a autora reivindica para as mulheres a",
+    "alternatives": [
+      { "letter": "A", "text": "recuperação de sua participação política." },
+      { "letter": "B", "text": "equiparação de ganhos salariais." },
+      { "letter": "C", "text": "valorização de seu papel social." },
+      { "letter": "D", "text": "distinção de padrões biológicos." },
+      { "letter": "E", "text": "ocupação de cargos públicos." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Wollstonecraft critica um sistema educacional que reduz as mulheres à condição de “fêmeas” voltadas apenas a inspirar amor, e reivindica que elas sejam reconhecidas por suas “capacidades e virtudes” — ou seja, que tenham seu papel social valorizado para além do papel decorativo/afetivo que lhes era atribuído. Isso corresponde à alternativa C. O texto não menciona especificamente participação política (A), salários (B) — temas que ganhariam centralidade em lutas posteriores —, nem trata de “distinção biológica” (D, que inclusive contraria a crítica da autora a tratar mulheres como “fêmeas”) ou cargos públicos (E).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q66",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": ["Colonização da América"],
+    "statement": "O bispo Bartolomeu de Las Casas é o homem mais odiado da América, o anti-Cristo dos senhores, o açoite destas terras. Por sua culpa, o imperador promulgou novas leis que despojam de escravos índios os filhos dos conquistadores. O que será deles sem os braços que os sustentam nas minas e nas lavouras? As novas leis estão arrancando a comida de suas bocas. Las Casas é o homem mais amado da América. Voz dos mudos, teimoso defensor dos que recebem pior tratamento que o esterco das praças, denunciador de quem por cobiça converte Jesus Cristo no mais cruel dos deuses e o rei em lobo faminto de carne humana.\n\nOs diferentes pontos de vista presentes no texto expressam que o bispo era, ao mesmo tempo,",
+    "alternatives": [
+      { "letter": "A", "text": "execrado pelos reis e reverenciado pelos religiosos do local." },
+      { "letter": "B", "text": "detestado pelos colonizadores e respeitado pelos povos do lugar." },
+      { "letter": "C", "text": "menosprezado pela colônia e idolatrado pelos governantes da região." },
+      { "letter": "D", "text": "desrespeitado pela metrópole e adorado pelos invasores da Espanha." },
+      { "letter": "E", "text": "desacatado pelos excluídos e valorizado pelos negociantes de negros." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto justapõe dois pontos de vista opostos: o dos “senhores”/conquistadores, que odeiam Las Casas por ele ter defendido a libertação dos indígenas escravizados (prejudicando seus interesses econômicos), e o dos povos oprimidos, para quem ele é “o homem mais amado”, “voz dos mudos” e defensor dos maltratados. Isso caracteriza Las Casas como detestado pelos colonizadores e respeitado pelos povos do lugar (indígenas e demais explorados), o que corresponde à alternativa B. As demais opções invertem ou distorcem esses polos (por exemplo, atribuindo reverência a reis ou a governantes, quando o texto mostra justamente o oposto).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q47",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": ["Meio Ambiente e Sustentabilidade", "Geografia Urbana"],
+    "statement": "A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam se adaptar com urgência, a começar pelas áreas e populações mais vulneráveis. Implementar soluções baseadas na natureza de forma sistêmica pode contribuir para a redução de desastres relacionados às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas.\n\nQual medida atenua os problemas abordados no texto?",
+    "alternatives": [
+      { "letter": "A", "text": "Criação de faixas sinalizadoras." },
+      { "letter": "B", "text": "Incineração de resíduos sólidos." },
+      { "letter": "C", "text": "Implantação de parques públicos." },
+      { "letter": "D", "text": "Verticalização de espaços centrais." },
+      { "letter": "E", "text": "Construção de estacionamentos privados." }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto pede uma “solução baseada na natureza” para enfrentar inundações, alagamentos e ondas de calor nas cidades. Parques públicos são áreas verdes que aumentam a permeabilidade do solo (reduzindo alagamentos ao absorver água da chuva) e amenizam as chamadas “ilhas de calor urbanas” (reduzindo a temperatura local), além de gerar benefícios sociais e econômicos — exatamente o que o texto descreve. Por isso, C é a correta. As demais alternativas (incineração de resíduos, verticalização, estacionamentos) tendem a agravar a impermeabilização do solo e o aquecimento urbano, e sinalização viária (A) não tem relação com o problema climático apresentado.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q92",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 92,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": ["Zoologia"],
+    "statement": "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais.\n\nPara superar essa limitação, o exoesqueleto deve ser",
+    "alternatives": [
+      { "letter": "A", "text": "formado somente na fase adulta do animal." },
+      { "letter": "B", "text": "fragmentado para expansão nas áreas de articulação." },
+      { "letter": "C", "text": "modelado continuamente para ajuste ao tamanho do corpo." },
+      { "letter": "D", "text": "substituído por meio de mudas que ocorrem periodicamente." },
+      { "letter": "E", "text": "impregnado por pequena quantidade de sais para sua distensão." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como o exoesqueleto dos crustáceos é rígido, ele não acompanha o crescimento contínuo do corpo do animal. A solução biológica para isso é a ecdise (muda): periodicamente, o animal descarta o exoesqueleto antigo e forma um novo, temporariamente mole, que se expande antes de endurecer novamente. Isso torna a alternativa D correta. O exoesqueleto não se “modela continuamente” (C) nem se “fragmenta nas articulações” (B) para crescer — ele é trocado por inteiro em eventos de muda —, e não é formado apenas na fase adulta (A) nem cresce por simples distensão com pouco sal (E).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q109",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 109,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": ["Ondulatória"],
+    "statement": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f zero que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.\n\nDurante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f zero medidas pelo radar?",
+    "alternatives": [
+      { "letter": "A", "text": "Mais grave do que o som emitido e fr menor que f zero." },
+      { "letter": "B", "text": "Mais agudo do que o som emitido e fr menor que f zero." },
+      { "letter": "C", "text": "Mais agudo do que o som emitido e fr igual a f zero." },
+      { "letter": "D", "text": "Mais agudo do que o som emitido e fr maior que f zero." },
+      { "letter": "E", "text": "Mais grave do que o som emitido e fr maior que f zero." }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Trata-se do efeito Doppler, presente tanto para o som da sirene quanto para as ondas de rádio refletidas. Quando a fonte (ambulância) se aproxima do observador, as frentes de onda chegam mais “comprimidas” no tempo, aumentando a frequência percebida: por isso o som é ouvido mais agudo. O mesmo raciocínio vale para a onda de rádio refletida pela ambulância em aproximação — a frequência refletida fr é maior que a frequência emitida f zero. Assim, a alternativa correta é D: som mais agudo e fr maior que f zero. Se a ambulância estivesse se afastando, valeria o oposto (som mais grave e fr menor que f zero).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q115",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 115,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": ["Saúde Pública e Epidemiologia"],
+    "statement": "A tuberculose é uma doença infecciosa causada pela bactéria Mycobacterium tuberculosis. O principal reservatório é o homem, e a sua transmissão ocorre principalmente pela inalação de aerossóis. No Brasil, a doença representa um sério problema de saúde pública e, muitas vezes, está ligada às precárias condições socioeconômicas e sanitárias. Para prevenir a doença, é essencial a adoção de medidas dirigidas ao homem e ao ambiente.\n\nQue práticas são eficazes para evitar essa doença?",
+    "alternatives": [
+      { "letter": "A", "text": "Utilizar seringas descartáveis e realizar a coleta de lixo com frequência." },
+      { "letter": "B", "text": "Tratar pessoas doentes e melhorar a ventilação nos ambientes fechados." },
+      { "letter": "C", "text": "Proteger a boca ao tossir e usar telas em portas e janelas nas moradias." },
+      { "letter": "D", "text": "Vacinar crianças recém-nascidas e dar destino adequado ao esgoto domiciliar." },
+      { "letter": "E", "text": "Monitorar os contatos que convivem com o doente e melhorar a qualidade da água." }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Como a transmissão da tuberculose ocorre por aerossóis (via aérea), as medidas eficazes precisam agir sobre essa rota: tratar as pessoas doentes reduz a quantidade de bacilos que elas eliminam ao tossir/falar, diminuindo a transmissão na fonte, e melhorar a ventilação de ambientes fechados dispersa os aerossóis contaminados, reduzindo a concentração de bactérias no ar. Essa combinação (alternativa B) é a única que trata especificamente da via respiratória. As demais alternativas combinam medidas voltadas a outras doenças (seringas e coleta de lixo remetem a doenças de transmissão sanguínea ou por vetores; telas em janelas e destino do esgoto remetem a doenças transmitidas por vetores ou pela água), que não correspondem ao mecanismo de transmissão da tuberculose descrito no texto.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q124",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 124,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": ["Termologia"],
+    "statement": "Um estudante comprou uma cafeteira elétrica de 700 watts de potência e com capacidade de 0,5 litro de água (500 gramas). Enquanto o café estava em preparação na capacidade máxima da cafeteira, ele marcou que demorou 3 minutos para a cafeteira ferver toda a água (100 graus Celsius) a partir da temperatura ambiente de 20 graus Celsius. Em seguida, para avaliar a eficiência da cafeteira, ele calculou esse tempo desprezando quaisquer perdas energéticas. É necessária 1 caloria (4,2 joules) para elevar em 1 grau Celsius a temperatura de 1 grama de água.\n\nQual a eficiência energética calculada pelo estudante?",
+    "alternatives": [
+      { "letter": "A", "text": "100 por cento" },
+      { "letter": "B", "text": "75 por cento" },
+      { "letter": "C", "text": "60 por cento" },
+      { "letter": "D", "text": "7,5 por cento" },
+      { "letter": "E", "text": "5,1 por cento" }
+    ],
+    "correct": null,
+    "annulled": true,
+    "explanation": "Esta questão foi ANULADA oficialmente pelo INEP (o gabarito oficial traz “Anulado” para este item), e vale a pena entender o porquê. A energia necessária para aquecer os 500 g de água de 20°C a 100°C é Q = m·c·ΔT = 500 × 1 × 80 = 40.000 cal = 40.000 × 4,2 = 168.000 J. Se a cafeteira tem 700 W de potência, o tempo mínimo teórico para fornecer essa energia — supondo 100% de eficiência, ou seja, sem nenhuma perda — seria t = Q/P = 168.000/700 = 240 s = 4 minutos. Só que o enunciado afirma que a água ferveu em apenas 3 minutos, um tempo MENOR do que o mínimo teoricamente necessário mesmo em condições ideais. Isso é fisicamente inconsistente: nenhum aparelho real (com eficiência ≤ 100%) conseguiria fazer isso mais rápido do que o caso ideal. Essa contradição nos dados é a explicação mais provável para a anulação: não existe, entre as alternativas, um valor de eficiência coerente com os números fornecidos.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais. Item anulado pelo INEP no gabarito oficial." }
+  },
+  {
+    "id": "enem-2024-q107",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 107,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": ["Química Orgânica"],
+    "statement": "No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado.\n\nA concepção científica atual define esses compostos como substâncias",
+    "alternatives": [
+      { "letter": "A", "text": "benéficas à saúde humana." },
+      { "letter": "B", "text": "capazes de serem biodegradadas." },
+      { "letter": "C", "text": "formadas a partir de gás carbônico." },
+      { "letter": "D", "text": "produzidas sem o uso de agrotóxicos." },
+      { "letter": "E", "text": "contendo carbono como elemento principal." }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Historicamente, acreditava-se que compostos orgânicos só poderiam ser produzidos por seres vivos (“força vital”), ideia refutada desde a síntese da ureia por Wöhler, em 1828, a partir de substâncias inorgânicas. Hoje, a Química define compostos orgânicos por um critério estrutural: são substâncias cujo elemento principal é o carbono (tipicamente formando cadeias com hidrogênio e outros elementos), independentemente de terem ou não relação com seres vivos, saúde, biodegradabilidade ou agrotóxicos. Por isso, a alternativa correta é E; as demais confundem o conceito científico atual com ideias do senso comum ligadas a saúde ou meio ambiente.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q155",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Estatística e Probabilidade"],
+    "statement": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente.\n\nO valor correto da média das notas desse estudante é",
+    "alternatives": [
+      { "letter": "A", "text": "4" },
+      { "letter": "B", "text": "5" },
+      { "letter": "C", "text": "6" },
+      { "letter": "D", "text": "19" },
+      { "letter": "E", "text": "21" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Seja S a soma das 4 notas e x a média correta, ou seja, S = 4x. Ao dividir por engano por 5, o estudante obteve S/5, que é 1 unidade menor que x: S/5 = x − 1. Substituindo S por 4x: 4x/5 = x − 1 → 4x = 5x − 5 → x = 5. Logo, a média correta é 5, alternativa B. Uma forma de conferir: soma correta = 4×5 = 20; dividindo por 5 (erro) dá 20/5 = 4, que é de fato 1 unidade menor que 5.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q159",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 159,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Razão e Proporção"],
+    "statement": "Uma piscina tem capacidade de 2.500.000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6.000 litros de água por minuto.\n\nO mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2.750.000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina.\n\nA vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+    "alternatives": [
+      { "letter": "A", "text": "8.250" },
+      { "letter": "B", "text": "7.920" },
+      { "letter": "C", "text": "6.545" },
+      { "letter": "D", "text": "5.500" },
+      { "letter": "E", "text": "5.280" }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Tempo para encher a 1ª piscina: t1 = 2.500.000 ÷ 6.000 = 416,67 min. O tempo da 2ª piscina é 20% maior: t2 = 1,2 × t1 = 500 min. A vazão da 2ª piscina é a capacidade dividida pelo tempo: v2 = 2.750.000 ÷ 500 = 5.500 litros por minuto. Portanto, a alternativa correta é D. Note que, embora a segunda piscina seja maior, sua vazão é menor que a da primeira, porque o tempo cresceu proporcionalmente mais (20%) do que o volume (que cresceu 10%).",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  },
+  {
+    "id": "enem-2024-q164",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 164,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Análise Combinatória"],
+    "statement": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.\n\nA expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
+    "alternatives": [
+      { "letter": "A", "text": "C(7,4) × C(6,1)" },
+      { "letter": "B", "text": "C(7,3) × C(6,2)" },
+      { "letter": "C", "text": "C(7,3) + C(6,2) + C(7,4) + C(6,1) + C(7,5) + C(6,0)" },
+      { "letter": "D", "text": "(C(7,3) + C(6,2)) × (C(7,4) + C(6,1)) × (C(7,5) + C(6,0))" },
+      { "letter": "E", "text": "C(7,3)×C(6,2) + C(7,4)×C(6,1) + C(7,5)×C(6,0)" }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Uma equipe de 5 médicos com pelo menos 3 cardiologistas pode ser formada de três maneiras mutuamente exclusivas: 3 cardiologistas e 2 neurologistas, OU 4 cardiologistas e 1 neurologista, OU 5 cardiologistas e 0 neurologistas. Dentro de cada caso, as escolhas de cardiologistas e de neurologistas são independentes (por isso se multiplicam): C(7,3)×C(6,2), C(7,4)×C(6,1) e C(7,5)×C(6,0). Como os três casos não podem ocorrer ao mesmo tempo (são alternativas entre si), os resultados de cada caso se somam. Isso dá a expressão da alternativa E: C(7,3)×C(6,2) + C(7,4)×C(6,1) + C(7,5)×C(6,0). É um erro comum trocar a soma entre os três casos por multiplicação, ou multiplicar em vez de somar as combinações dentro de cada caso — o enunciado original apresenta essas trocas nas alternativas incorretas como pegadinha.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais. As alternativas foram reescritas em notação C(n,k) (combinação) para maior clareza; o caderno oficial as apresenta por extenso, com fatoriais." }
+  },
+  {
+    "id": "enem-2024-q143",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 143,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": ["Funções", "Geometria Plana"],
+    "statement": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa 20 reais, enquanto, nos outros dois lados, uma que custa 15 reais. O fazendeiro quer gastar, no máximo, 6.000 reais na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.\n\nQual será a medida, em metro, do maior lado do galinheiro?",
+    "alternatives": [
+      { "letter": "A", "text": "85" },
+      { "letter": "B", "text": "100" },
+      { "letter": "C", "text": "175" },
+      { "letter": "D", "text": "200" },
+      { "letter": "E", "text": "350" }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Há dois lados de comprimento L (a 20 reais o metro) e dois de comprimento C (a 15 reais o metro), então o custo total é 2(20L) + 2(15C) = 40L + 30C = 6.000, ou seja, 4L + 3C = 600, logo C = (600 − 4L)/3. A área é A(L) = L·C = L(600 − 4L)/3 = (600L − 4L²)/3, uma função quadrática de L com concavidade para baixo — seu máximo ocorre no vértice, em L = −b/(2a) com a = −4/3 e b = 200 (coeficientes de A(L) = −4/3·L² + 200L), ou seja, L = 200/(2×4/3) = 75. Substituindo: C = (600 − 300)/3 = 100. Como C = 100 > L = 75, o maior lado do galinheiro mede 100 metros, alternativa B.",
+    "source": { "institution": "INEP", "note": "Questão oficial do ENEM 2024, reproduzida na íntegra para fins educacionais e não comerciais." }
+  }
+]
