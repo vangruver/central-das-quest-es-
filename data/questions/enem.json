@@ -27654,5 +27654,46 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2019 - Caderno 1 Azul (Ciências Humanas e suas Tecnologias)"
     }
+  },
+  {
+    "id": "enem-2016-q60",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O carvão ativado é um material que possui elevado teor de carbono, sendo muito utilizado para a remoção de compostos orgânicos voláteis do meio, como o benzeno. Para a remoção desses compostos, utiliza-se a adsorção. Esse fenômeno ocorre por meio de interações do tipo intermoleculares entre a superfície do carvão (adsorvente) e o benzeno (adsorvato, substância adsorvida).\n\nNo caso apresentado, entre o adsorvente e a substância adsorvida ocorre a formação de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ligações dissulfeto."
+      },
+      {
+        "letter": "B",
+        "text": "Ligações covalentes."
+      },
+      {
+        "letter": "C",
+        "text": "Ligações de hidrogênio."
+      },
+      {
+        "letter": "D",
+        "text": "Interações dipolo induzido – dipolo induzido."
+      },
+      {
+        "letter": "E",
+        "text": "Interações dipolo permanente – dipolo permanente."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Tanto o carvão ativado (carbono) quanto o benzeno são substâncias apolares. Entre moléculas apolares, a única interação intermolecular possível é a força de London (dipolo induzido – dipolo induzido) — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]

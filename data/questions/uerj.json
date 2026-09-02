@@ -1156,5 +1156,617 @@
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
     }
+  },
+  {
+    "id": "uerj-2020-q22",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "UTILIZE O TRECHO A SEGUIR PARA RESPONDER À QUESTÃO 22.\n\nJOANA:\n(...)\nA Creonte, à filha, a Jasão e companhia\nvou deixar esse presente de casamento\nEu transfiro pra vocês a nossa agonia\nporque, meu Pai, eu compreendi que o sofrimento\nde conviver com a tragédia todo dia\né pior que a morte por envenenamento\n(...)\n\nA obra de Chico Buarque e Paulo Pontes inspira-se na tragédia clássica 'Medeia' para denunciar 'uma tragédia brasileira', conforme se observa no subtítulo da obra.\n\nEssa denúncia expõe o seguinte problema:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "racismo violento"
+      },
+      {
+        "letter": "B",
+        "text": "alienação política"
+      },
+      {
+        "letter": "C",
+        "text": "estratificação social"
+      },
+      {
+        "letter": "D",
+        "text": "progresso sem limite"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao transpor o mito de Medeia para o Rio de Janeiro contemporâneo, Chico Buarque e Paulo Pontes denunciam a estratificação social brasileira: Joana, mulher pobre da periferia, é abandonada por Jasão em favor de uma mulher rica, evidenciando as desigualdades e barreiras entre classes sociais — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q28",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 28,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Ao se aposentar aos 65 anos, um trabalhador recebeu seu Fundo de Garantia por Tempo de Serviço (FGTS) no valor de R$ 50.000,00 e resolveu deixá-lo em uma aplicação bancária, rendendo juros compostos de 4% ao ano, até obter um saldo de R$ 100.000,00. Se esse rendimento de 4% ao ano não mudar ao longo de todos os anos, o trabalhador atingirá seu objetivo após x anos.\n\nConsiderando log(1,04) = 0,017 e log 2 = 0,301, o valor mais próximo de x é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "14"
+      },
+      {
+        "letter": "C",
+        "text": "18"
+      },
+      {
+        "letter": "D",
+        "text": "22"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como 50000×(1,04)^x=100000, temos (1,04)^x=2. Aplicando log: x·log(1,04)=log 2, logo x=0,301/0,017≈17,7, valor mais próximo de 18 — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q32",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Apenas com os algarismos 2, 4, 5, 6 ou 9, foram escritos todos os números possíveis com cinco algarismos (com repetição permitida). Cada um desses números foi registrado em um único cartão. Alguns desses cartões podem ser lidos de duas maneiras diferentes quando virados de cabeça para baixo (rotação de 180°), como é o caso dos cartões formados só por 6 e 9 — por exemplo, 66666, 99696 e 66969 — já que 6 vira 9 e vice-versa quando o cartão é girado, enquanto os algarismos 2, 4 e 5 não correspondem a nenhum algarismo válido quando invertidos.\n\nO total de cartões que admitem duas leituras é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "32"
+      },
+      {
+        "letter": "B",
+        "text": "64"
+      },
+      {
+        "letter": "C",
+        "text": "81"
+      },
+      {
+        "letter": "D",
+        "text": "120"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Somente os algarismos 6 e 9 permanecem válidos (um vira o outro) ao serem girados 180°; os algarismos 2, 4 e 5 não formam algarismos válidos invertidos. Logo, um cartão admite duas leituras apenas se todos os seus 5 algarismos forem 6 ou 9: são 2 opções para cada uma das 5 posições, totalizando 2⁵ = 32 cartões — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q34",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 34,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "A soma de dois números naturais diferentes é 68. Ambos são múltiplos de 17.\n\nA diferença entre o maior número e o menor é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "35"
+      },
+      {
+        "letter": "B",
+        "text": "34"
+      },
+      {
+        "letter": "C",
+        "text": "33"
+      },
+      {
+        "letter": "D",
+        "text": "32"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os múltiplos de 17 menores que 68 são 17, 34 e 51. Como os números devem ser diferentes e somar 68, a única combinação possível é 17 + 51 = 68. A diferença entre eles é 51 − 17 = 34 — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q35",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 35,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 35 A 37.\n\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na+ e K+, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\n\nSolução A: volume 400 mL, soluto KCl, concentração 0,1 mol/L.\nSolução B: volume 600 mL, soluto NaCl, concentração 0,2 mol/L.\n\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,04"
+      },
+      {
+        "letter": "B",
+        "text": "0,08"
+      },
+      {
+        "letter": "C",
+        "text": "0,12"
+      },
+      {
+        "letter": "D",
+        "text": "0,16"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Mols de Cl⁻ da solução A: 0,4 L × 0,1 mol/L = 0,04 mol. Mols de Cl⁻ da solução B: 0,6 L × 0,2 mol/L = 0,12 mol. Total de Cl⁻ = 0,16 mol, em um volume total de 1,0 L (0,4+0,6). Concentração final = 0,16 mol/L — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q36",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O impulso nervoso, ou potencial de ação, é uma consequência da alteração brusca e rápida da diferença de potencial transmembrana dos neurônios. Admita que a diferença de potencial corresponde a 0,07 V e a intensidade da corrente estabelecida, a 7,0 × 10⁻⁶ A.\n\nA ordem de grandeza da resistência elétrica dos neurônios, em ohms, equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10²"
+      },
+      {
+        "letter": "B",
+        "text": "10³"
+      },
+      {
+        "letter": "C",
+        "text": "10⁴"
+      },
+      {
+        "letter": "D",
+        "text": "10⁵"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Pela lei de Ohm, R = V/I = 0,07 / (7,0×10⁻⁶) = 10.000 Ω = 10⁴ Ω — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q37",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 37,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "O axônio de algumas células nervosas é envolvido pela bainha de mielina, uma membrana plasmática rica em lipídeos.\n\nA composição da bainha de mielina permite que ela desempenhe a seguinte função:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "isolar o impulso nervoso"
+      },
+      {
+        "letter": "B",
+        "text": "aumentar a polarização do neurônio"
+      },
+      {
+        "letter": "C",
+        "text": "fornecer energia para o sinal elétrico"
+      },
+      {
+        "letter": "D",
+        "text": "estimular a bomba de sódio-potássio"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Rica em lipídeos, a bainha de mielina atua como um isolante elétrico ao redor do axônio, impedindo a dispersão do impulso nervoso e acelerando sua condução (condução saltatória) — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q39",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 39,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Um indivíduo do sexo masculino deseja investigar informações genéticas recebidas de ambos os seus avós maternos.\n\nEssas informações podem ser encontradas no seguinte material genético:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "autossomos"
+      },
+      {
+        "letter": "B",
+        "text": "cromossomo Y"
+      },
+      {
+        "letter": "C",
+        "text": "DNA mitocondrial"
+      },
+      {
+        "letter": "D",
+        "text": "corpúsculo de Barr"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O cromossomo Y vem apenas do pai; o DNA mitocondrial vem apenas da linhagem materna direta (só da avó materna, não do avô); o corpúsculo de Barr só existe em células de indivíduos com dois cromossomos X. Já os autossomos são herdados de ambos os pais em cada geração, contendo assim contribuições genéticas de ambos os avós maternos — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q40",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 40,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "O universo observável, que se expande em velocidade constante, tem extensão média de 93 bilhões de anos-luz e idade de 13,8 bilhões de anos.\n\nQuando o universo tiver a idade de 20 bilhões de anos, sua extensão, em bilhões de anos-luz, será igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "105"
+      },
+      {
+        "letter": "B",
+        "text": "115"
+      },
+      {
+        "letter": "C",
+        "text": "135"
+      },
+      {
+        "letter": "D",
+        "text": "165"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Mantendo a proporcionalidade (velocidade de expansão constante): extensão/idade = 93/13,8. Para idade de 20 bilhões de anos: extensão = 93×20/13,8 ≈ 134,8, valor mais próximo de 135 — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q41",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 41,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina, formando a hemoglobina glicada por meio de uma reação entre um grupamento amina da hemoglobina e um grupamento da molécula de glicose, com liberação de água.\n\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "amina"
+      },
+      {
+        "letter": "B",
+        "text": "álcool"
+      },
+      {
+        "letter": "C",
+        "text": "cetona"
+      },
+      {
+        "letter": "D",
+        "text": "aldeído"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A glicose é uma aldo-hexose: em sua forma de cadeia aberta, possui um grupo aldeído no carbono 1, que reage com o grupamento amina da hemoglobina (formando uma base de Schiff, com liberação de água) no processo de glicação — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q45",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 45,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Algumas embalagens de alimentos apresentam no rótulo a informação 'contém glúten', obrigatória por resolução da Agência Nacional de Vigilância Sanitária (ANVISA).\n\nO glúten apresenta, em sua composição, uma molécula que não deve ser consumida por portadores da doença celíaca, uma enfermidade autoimune crônica do intestino delgado.\n\nEssa molécula do glúten, inadequada para os celíacos, é classificada como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "lipídeo"
+      },
+      {
+        "letter": "B",
+        "text": "vitamina"
+      },
+      {
+        "letter": "C",
+        "text": "proteína"
+      },
+      {
+        "letter": "D",
+        "text": "carboidrato"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O glúten é formado por um conjunto de proteínas (principalmente gliadina e glutenina); em pessoas com doença celíaca, essas proteínas desencadeiam uma resposta autoimune que danifica o intestino delgado — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q46",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 46,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Gráficos de uma pesquisa feita em 2015 comparam a percepção dos cidadãos de diferentes países europeus sobre o percentual de imigrantes em suas populações nacionais com o percentual real de imigrantes.\n\nAdaptado de vox.com.\n\nA diferença entre o percentual médio estimado pelos que responderam à pergunta e o percentual real de imigrantes em cada população nacional expressa uma grande preocupação de cidadãos europeus na atualidade.\n\nUma consequência direta dessa preocupação é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação dos programas de proteção social"
+      },
+      {
+        "letter": "B",
+        "text": "intensificação dos conflitos de caráter militar"
+      },
+      {
+        "letter": "C",
+        "text": "crescimento dos partidos de extrema-direita"
+      },
+      {
+        "letter": "D",
+        "text": "fortalecimento dos acordos de integração econômica"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A superestimação do número de imigrantes e o medo associado a essa percepção alimentam discursos nativistas e xenófobos, que, na Europa contemporânea, têm impulsionado o crescimento eleitoral de partidos de extrema-direita — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q48",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "O BRASIL SOB A LAMA\n\nO Brasil viveu, na última semana, um pesadelo. O país ainda chora os 110 mortos e mais de 200 desaparecidos deixados pela avalanche de lama da sexta-feira passada, dia 25 de janeiro, em Brumadinho (MG), causada pelo rompimento de uma barragem de rejeitos da mineradora Vale. A tragédia tem um precedente muito próximo, também no Estado de Minas Gerais, em Mariana. Em 5 de novembro de 2015, o rompimento de duas paredes de contenção na represa da Samarco matou 19 pessoas e deixou um irreparável rastro de destruição ambiental.\n\nÉ assombroso constatar que, mais de três anos depois, o Brasil continua debatendo sobre os mesmos problemas que ocasionaram a primeira tragédia. [...]\n\nAdaptado de brasil.elpais.com, 01/02/2019.\n\nNÃO HÁ DESENVOLVIMENTO SEM PROTEÇÃO AMBIENTAL\n\nO desastre de Brumadinho é uma boa oportunidade para refletir sobre uma visão muito disseminada no Brasil de que a proteção ambiental é um entrave ao desenvolvimento. [...] Na visão antiga, qualquer forma de extrair minério é boa porque faz a economia crescer. Não entra nessa perspectiva a análise do custo das vidas e da degradação ambiental decorrente de desastres como os de Brumadinho ou Mariana. Se os órgãos ambientais tivessem exigido maiores investimentos da Vale na segurança das barragens antes de conceder a licença, isso teria sido visto como um 'entrave ambiental'.\n\nVIRGÍLIO VIANA. Adaptado de brasil.elpais.com, 16/03/2019.\n\nOs desastres mencionados indicam a permanência do seguinte critério na relação entre desenvolvimento econômico e preservação ambiental:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização da ocupação laboral"
+      },
+      {
+        "letter": "B",
+        "text": "primazia da acumulação capitalista"
+      },
+      {
+        "letter": "C",
+        "text": "racionalização da produção industrial"
+      },
+      {
+        "letter": "D",
+        "text": "retomada da desregulamentação estatal"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os textos denunciam que a lógica de extração mineral segue priorizando o lucro e o crescimento econômico (acumulação capitalista) mesmo às custas de vidas humanas e de danos ambientais irreparáveis, evidenciando a persistência dessa primazia sobre a segurança e a proteção ambiental — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q49",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Os mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de 03/05/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\n\nAdaptado de nap.edu.\n\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "deformações resultantes da projeção utilizada"
+      },
+      {
+        "letter": "B",
+        "text": "generalizações derivadas da simbologia gráfica"
+      },
+      {
+        "letter": "C",
+        "text": "imprecisões decorrentes da tecnologia disponível"
+      },
+      {
+        "letter": "D",
+        "text": "manipulações originadas da orientação ideológica"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Toda projeção cartográfica introduz deformações (de área, forma, distância ou direção) ao representar a superfície curva da Terra em um plano; a correção do alcance dos mísseis nos mapas reflete justamente essas deformações inerentes à projeção utilizada, que podem distorcer distâncias reais entre pontos distantes — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q50",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 50,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O BRASIL DECLAROU GUERRA À ALEMANHA E À ITÁLIA\n\nAGORA, NÓS!\n\nJuca Pato – Como é para o bem de todos e felicidade geral da Nação, diga ao povo que eu vou!\n\n22/08/1942\n\nO artista Belmonte, por meio de seu personagem Juca Pato, retratou episódios importantes da história brasileira e internacional entre as décadas de 1920 e 1940. A charge acima, por exemplo, tematiza de forma irônica a entrada do governo brasileiro em 1942 na Segunda Guerra Mundial (1939-1945).\n\nA atitude de Juca Pato, ao decidir ir à guerra, está associada à seguinte conjuntura do governo varguista:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crise militar"
+      },
+      {
+        "letter": "B",
+        "text": "caráter ditatorial"
+      },
+      {
+        "letter": "C",
+        "text": "pressão eleitoral"
+      },
+      {
+        "letter": "D",
+        "text": "soberania diplomática"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A ironia da charge está em Juca Pato 'decidir' ir à guerra e mandar 'dizer ao povo' — uma inversão cômica que evidencia o caráter ditatorial do Estado Novo de Vargas, no qual as decisões eram tomadas de cima para baixo, sem participação popular real, apesar do discurso de 'bem de todos' — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q52",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 52,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Ao se ajoelhar diante do Memorial aos Heróis do Gueto de Varsóvia, em 7 de dezembro de 1970, o então chanceler federal alemão, Willy Brandt (1913-1992), protagonizou um gesto que entraria para a história como um símbolo da busca alemã pela reconciliação no pós-Guerra.\n\n1970: BRANDT DE JOELHOS EM VARSÓVIA\n\nOs nazistas haviam encurralado meio milhão de judeus no Gueto de Varsóvia. Em abril de 1943, aconteceu o levante, reprimido violentamente pelas tropas de Hitler. O cair de joelhos do chefe de governo Willy Brandt e o silêncio que se seguiu repercutiram no mundo como um símbolo de arrependimento, pedido de perdão e tentativa de reconciliação da Alemanha. [...] O objetivo era a assinatura do tratado de normalização das relações entre os dois países, que seria seguido de um acordo no mesmo sentido entre a Alemanha e a União Soviética.\n\nAdaptado de dw.com.\n\nA foto e o episódio relatado na reportagem indicam transformações que afetaram a sociedade alemã entre as décadas de 1930 e 1970.\n\nUma dessas transformações, no âmbito das relações internacionais, está associada à seguinte mudança de orientação:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "do isolacionismo territorial à neutralidade militar"
+      },
+      {
+        "letter": "B",
+        "text": "do expansionismo comercial à proteção alfandegária"
+      },
+      {
+        "letter": "C",
+        "text": "do colaboracionismo migratório à discriminação étnica"
+      },
+      {
+        "letter": "D",
+        "text": "do nacionalismo totalitário à multilateralidade diplomática"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Alemanha nazista dos anos 1930-40 era marcada por um nacionalismo totalitário e expansionista; o gesto de Willy Brandt em 1970, buscando normalizar relações com a Polônia e a URSS por meio de tratados diplomáticos, simboliza a transição para uma postura de multilateralidade diplomática e reconciliação — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-q53",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 53,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A Teoria dos Lugares Centrais, elaborada com base em estudos sobre a rede de cidades do sul da Alemanha, na década de 1930, organiza as cidades numa hierarquia regular baseada na distância e no alcance de bens e serviços. Já os estudos e mapeamentos das cidades globais do final do século XX descrevem uma rede de cidades conectadas por fluxos financeiros, informacionais e de comando, independentemente da proximidade geográfica entre elas.\n\nAdaptado de planningtank.com e reddit.com.\n\nA comparação entre os dois estudos permite identificar a seguinte mudança vinculada às redes urbanas, ao longo do século XX:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "escala espacial das interações econômicas"
+      },
+      {
+        "letter": "B",
+        "text": "valorização social das identidades culturais"
+      },
+      {
+        "letter": "C",
+        "text": "estrutura funcional das hierarquias políticas"
+      },
+      {
+        "letter": "D",
+        "text": "organização territorial das entidades governamentais"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Enquanto a Teoria dos Lugares Centrais organiza uma hierarquia urbana regional baseada na proximidade física, a rede de cidades globais opera numa escala planetária, conectando metrópoles distantes por fluxos econômicos independentes da distância — uma mudança na escala espacial das interações econômicas — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
   }
 ]
