@@ -11129,5 +11129,292 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q46",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação:\n\nHb (aq) + O2 (aq) ⇌ HbO2 (aq)\n\nMal da montanha. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).\n\nA alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevação da pressão arterial."
+      },
+      {
+        "letter": "B",
+        "text": "aumento da temperatura corporal."
+      },
+      {
+        "letter": "C",
+        "text": "redução da temperatura do ambiente."
+      },
+      {
+        "letter": "D",
+        "text": "queda da pressão parcial de oxigênio."
+      },
+      {
+        "letter": "E",
+        "text": "diminuição da quantidade de hemácias."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em grandes altitudes, a pressão parcial de oxigênio no ar é menor, o que desloca o equilíbrio Hb + O2 ⇌ HbO2 para a esquerda, reduzindo a concentração de hemoglobina oxigenada no sangue — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q47",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A indústria têxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das águas dos rios causado pelo despejo desses corantes pode desencadear uma série de problemas no ecossistema aquático.\n\nConsiderando esse escurecimento das águas, o impacto negativo inicial que ocorre é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eutrofização."
+      },
+      {
+        "letter": "B",
+        "text": "proliferação de algas."
+      },
+      {
+        "letter": "C",
+        "text": "inibição da fotossíntese."
+      },
+      {
+        "letter": "D",
+        "text": "fotodegradação da matéria orgânica."
+      },
+      {
+        "letter": "E",
+        "text": "aumento da quantidade de gases dissolvidos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao escurecer a água, os corantes bloqueiam a passagem de luz solar, impedindo que os produtores aquáticos (algas e plantas) realizem fotossíntese — esse é o impacto negativo inicial, do qual decorrem os demais problemas do ecossistema — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q55",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A hidroponia pode ser definida como uma técnica de produção de vegetais sem necessariamente a presença de solo. Uma das formas de implementação é manter as plantas com suas raízes suspensas em meio líquido, de onde retiram os nutrientes essenciais. Suponha que um produtor de rúcula hidropônica precise ajustar a concentração do íon nitrato (NO3−) para 0,009 mol/L em um tanque de 5 000 litros e, para tanto, tem em mãos uma solução comercial nutritiva de nitrato de cálcio [Ca(NO3)2] 90 g/L. As massas molares dos elementos N, O e Ca são iguais a 14 g/mol, 16 g/mol e 40 g/mol, respectivamente.\n\nQual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "26"
+      },
+      {
+        "letter": "B",
+        "text": "41"
+      },
+      {
+        "letter": "C",
+        "text": "45"
+      },
+      {
+        "letter": "D",
+        "text": "51"
+      },
+      {
+        "letter": "E",
+        "text": "82"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "São necessários 0,009 mol/L × 5000 L = 45 mol de NO3−. Como cada mol de Ca(NO3)2 (massa molar 164 g/mol) fornece 2 mol de NO3−, são necessários 22,5 mol de Ca(NO3)2, ou seja, 22,5 × 164 = 3690 g. Com a solução comercial de 90 g/L, o volume necessário é 3690/90 ≈ 41 L — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q56",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).\n\nEssa especiação não ocorre devido ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oscilação genética das raças."
+      },
+      {
+        "letter": "B",
+        "text": "convergência adaptativa das raças."
+      },
+      {
+        "letter": "C",
+        "text": "isolamento geográfico entre as raças."
+      },
+      {
+        "letter": "D",
+        "text": "seleção natural que ocorre entre as raças."
+      },
+      {
+        "letter": "E",
+        "text": "manutenção do fluxo gênico entre as raças."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Embora certas raças não consigam copular diretamente entre si, elas continuam trocando genes indiretamente por meio de raças intermediárias, mantendo o fluxo gênico da espécie como um todo — por isso não há especiação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q57",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "O ar atmosférico pode ser utilizado para armazenar o excedente de energia gerada no sistema elétrico, diminuindo seu desperdício, por meio do seguinte processo: água e gás carbônico são inicialmente removidos do ar atmosférico e a massa de ar restante é resfriada até −198 °C. Presente na proporção de 78% dessa massa de ar, o nitrogênio gasoso é liquefeito, ocupando um volume 700 vezes menor. A energia excedente do sistema elétrico é utilizada nesse processo, sendo parcialmente recuperada quando o nitrogênio líquido, exposto à temperatura ambiente, entra em ebulição e se expande, fazendo girar turbinas que convertem energia mecânica em energia elétrica.\n\nMACHADO, R. Disponível em: www.correiobraziliense.com.br. Acesso em: 9 set. 2013 (adaptado).\n\nNo processo descrito, o excedente de energia elétrica é armazenado pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão do nitrogênio durante a ebulição."
+      },
+      {
+        "letter": "B",
+        "text": "absorção de calor pelo nitrogênio durante a ebulição."
+      },
+      {
+        "letter": "C",
+        "text": "realização de trabalho sobre o nitrogênio durante a liquefação."
+      },
+      {
+        "letter": "D",
+        "text": "retirada de água e gás carbônico da atmosfera antes do resfriamento."
+      },
+      {
+        "letter": "E",
+        "text": "liberação de calor do nitrogênio para a vizinhança durante a liquefação."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A energia elétrica excedente é usada para resfriar e comprimir o gás até liquefazê-lo (realizando trabalho sobre o nitrogênio); essa energia fica armazenada no nitrogênio líquido e é parcialmente recuperada depois, quando ele se expande e move as turbinas — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q58",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.\n\nSANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaiporã: Secretaria de Estado da Educação do Paraná (SEED); Universidade Estadual de Londrina, 2010 (adaptado).\n\nComprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento."
+      },
+      {
+        "letter": "B",
+        "text": "romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento."
+      },
+      {
+        "letter": "C",
+        "text": "prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento."
+      },
+      {
+        "letter": "D",
+        "text": "romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento."
+      },
+      {
+        "letter": "E",
+        "text": "desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O estanho protege o aço (ferro) da corrosão; se o amassado rompe essa camada protetora, o ferro fica exposto e pode corroer, alterando as propriedades do alimento — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q62",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.\n\nMATEUS, A. L. Química na cabeça. Belo Horizonte: UFMG, 2001 (adaptado).\n\nA explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "formação de óxidos de caráter ácido."
+      },
+      {
+        "letter": "B",
+        "text": "evaporação do indicador fenolftaleína."
+      },
+      {
+        "letter": "C",
+        "text": "vaporização de parte da água do frasco."
+      },
+      {
+        "letter": "D",
+        "text": "vaporização dos gases de caráter alcalino."
+      },
+      {
+        "letter": "E",
+        "text": "aumento do pH da solução no interior do frasco."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A combustão da cabeça do fósforo produz óxidos ácidos (como óxidos de enxofre), que se dissolvem na água e reduzem o pH da solução, neutralizando o meio básico e fazendo a fenolftaleína perder a cor rosa — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
