@@ -14246,5 +14246,743 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2013-q46",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Músculos artificiais são dispositivos feitos com plásticos inteligentes que respondem a uma corrente elétrica com um movimento mecânico. A oxidação e redução de um polímero condutor criam cargas positivas e/ou negativas no material, que são compensadas com a inserção ou expulsão de cátions ou ânions. Na montagem, dois filmes de polipirrol (escuros) ficam nas extremidades, com uma camada central de eletrólito polimérico contendo um sal inorgânico entre eles. Quando o polipirrol de um lado sofre oxidação, há a inserção de ânions para compensar a carga positiva no polímero e o filme se expande; do outro lado, o polipirrol sofre redução, expulsando ânions, e o filme se contrai. Pela montagem em sanduíche, o sistema todo se movimenta de forma harmônica.\n\nDE PAOLI, M. A. Cadernos Temáticos de Química Nova na Escola, São Paulo, maio 2001 (adaptado).\n\nA camada central de eletrólito polimérico é importante porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "absorve a irradiação de partículas carregadas, emitidas pelo aquecimento elétrico dos filmes de polipirrol."
+      },
+      {
+        "letter": "B",
+        "text": "permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico."
+      },
+      {
+        "letter": "C",
+        "text": "mantém um gradiente térmico no material para promover a dilatação/contração térmica de cada filme de polipirrol."
+      },
+      {
+        "letter": "D",
+        "text": "permite a condução de elétrons livres, promovida pela aplicação de diferença de potencial, gerando corrente elétrica."
+      },
+      {
+        "letter": "E",
+        "text": "promove a polarização das moléculas poliméricas, o que resulta no movimento gerado pela aplicação de diferença de potencial."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O eletrólito polimérico central permite que os ânions migrem entre os dois filmes de polipirrol (sendo inseridos em um e expulsos do outro), fechando o circuito elétrico do dispositivo por meio da difusão iônica — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q47",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas.\n\nDisponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).\n\nConsiderando-se o valor de 6 × 10²³ mol⁻¹ para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7,5 × 10²¹"
+      },
+      {
+        "letter": "B",
+        "text": "1,5 × 10²²"
+      },
+      {
+        "letter": "C",
+        "text": "7,5 × 10²³"
+      },
+      {
+        "letter": "D",
+        "text": "1,5 × 10²⁵"
+      },
+      {
+        "letter": "E",
+        "text": "4,8 × 10²⁵"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A quantidade recomendada é o dobro de 500 mg, ou seja, 1000 mg = 1 g de cálcio. O número de mols é 1/40 = 0,025 mol, e o número de átomos é 0,025 × 6×10²³ = 1,5×10²² átomos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q48",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Em um experimento foram utilizadas duas garrafas PET, uma pintada de branco e a outra de preto, acopladas cada uma a um termômetro. No ponto médio da distância entre as garrafas, foi mantida acesa, durante alguns minutos, uma lâmpada incandescente. Em seguida a lâmpada foi desligada. Durante o experimento, foram monitoradas as temperaturas das garrafas: a) enquanto a lâmpada permaneceu acesa e b) após a lâmpada ser desligada, até atingirem equilíbrio térmico com o ambiente.\n\nA taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "igual no aquecimento e igual no resfriamento."
+      },
+      {
+        "letter": "B",
+        "text": "maior no aquecimento e igual no resfriamento."
+      },
+      {
+        "letter": "C",
+        "text": "menor no aquecimento e igual no resfriamento."
+      },
+      {
+        "letter": "D",
+        "text": "maior no aquecimento e menor no resfriamento."
+      },
+      {
+        "letter": "E",
+        "text": "maior no aquecimento e maior no resfriamento."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Superfícies escuras absorvem mais radiação (aquecem mais rápido) e também emitem mais radiação térmica (resfriam mais rápido) do que superfícies claras: a garrafa preta varia sua temperatura mais rapidamente tanto no aquecimento quanto no resfriamento — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q49",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Glicose marcada com nuclídeos de carbono-11 é utilizada na medicina para se obter imagens tridimensionais do cérebro, por meio de tomografia de emissão de pósitrons. A desintegração do carbono-11 gera um pósitron, com tempo de meia-vida de 20,4 min, de acordo com a equação da reação nuclear: ¹¹₆C → ¹¹₅B + ⁰₁e (pósitron).\n\nA partir da injeção de glicose marcada com esse nuclídeo, o tempo de aquisição de uma imagem de tomografia é de cinco meias-vidas.\n\nConsiderando que o medicamento contém 1,00 g do carbono-11, a massa, em miligramas, do nuclídeo restante, após a aquisição da imagem, é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,200."
+      },
+      {
+        "letter": "B",
+        "text": "0,969."
+      },
+      {
+        "letter": "C",
+        "text": "9,80."
+      },
+      {
+        "letter": "D",
+        "text": "31,3."
+      },
+      {
+        "letter": "E",
+        "text": "200."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Após 5 meias-vidas, a massa restante é (1/2)⁵ = 1/32 da massa inicial: 1000 mg / 32 ≈ 31,3 mg — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q50",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.\n\nDisponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).\n\nConsiderando o resultado do experimento, qual a contribuição desse médico para a saúde humana?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A prevenção de diversas doenças infectocontagiosas em todo o mundo."
+      },
+      {
+        "letter": "B",
+        "text": "A compreensão de que vírus podem se multiplicar em matéria orgânica."
+      },
+      {
+        "letter": "C",
+        "text": "O tratamento para muitas enfermidades que acometem milhões de pessoas."
+      },
+      {
+        "letter": "D",
+        "text": "O estabelecimento da ética na utilização de crianças em modelos experimentais."
+      },
+      {
+        "letter": "E",
+        "text": "A explicação de que alguns vírus de animais podem ser transmitidos para os humanos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Jenner demonstrou o princípio da vacinação (exposição a um agente atenuado gera imunidade contra o agente virulento), base para a prevenção de inúmeras doenças infectocontagiosas em todo o mundo desde então — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q51",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.\n\nCORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.\n\nÀ luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hidrelétricas."
+      },
+      {
+        "letter": "B",
+        "text": "termelétricas."
+      },
+      {
+        "letter": "C",
+        "text": "usinas geotérmicas."
+      },
+      {
+        "letter": "D",
+        "text": "fontes de energia solar."
+      },
+      {
+        "letter": "E",
+        "text": "fontes de energia eólica."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Entre as opções, apenas as termelétricas (que queimam combustíveis fósseis) emitem poluentes atmosféricos significativos; hidrelétricas, geotérmicas, solares e eólicas não emitem gases de combustão — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q52",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Em viagens de avião, é solicitado aos passageiros o desligamento de todos os aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.\n\nA propriedade das ondas emitidas que justifica o procedimento adotado é o fato de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "terem fases opostas."
+      },
+      {
+        "letter": "B",
+        "text": "serem ambas audíveis."
+      },
+      {
+        "letter": "C",
+        "text": "terem intensidades inversas."
+      },
+      {
+        "letter": "D",
+        "text": "serem de mesma amplitude."
+      },
+      {
+        "letter": "E",
+        "text": "terem frequências próximas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A interferência ocorre porque as ondas emitidas pelos aparelhos eletrônicos têm frequências próximas às usadas nas comunicações de rádio da aeronave, causando sobreposição/ruído no sinal — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q53",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.\n\nA função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comprimento do trato gastrointestinal para caber mais alimento."
+      },
+      {
+        "letter": "B",
+        "text": "área de contato com o conteúdo intestinal para absorção dos nutrientes."
+      },
+      {
+        "letter": "C",
+        "text": "liberação de calor via irrigação sanguínea para controle térmico do sistema digestório."
+      },
+      {
+        "letter": "D",
+        "text": "secreção de enzimas digestivas para aumentar a degradação proteica no estômago."
+      },
+      {
+        "letter": "E",
+        "text": "processo de digestão para diminuir o tempo de permanência do alimento no intestino."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As vilosidades intestinais aumentam a área de superfície em contato com o conteúdo digerido, maximizando a absorção de nutrientes — essencial para serpentes que precisam aproveitar ao máximo cada refeição escassa — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q54",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O uso de embalagens plásticas descartáveis vem crescendo em todo o mundo, juntamente com o problema ambiental gerado por seu descarte inapropriado. O politereftalato de etileno (PET) tem sido muito utilizado na indústria de refrigerantes e pode ser reciclado e reutilizado. Uma das opções possíveis envolve a produção de matérias-primas, como o etilenoglicol (1,2-etanodiol), a partir de objetos compostos de PET pós-consumo.\n\nDisponível em: www.abipet.org.br. Acesso em: 27 fev. 2012 (adaptado).\n\nCom base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "solubilização dos objetos."
+      },
+      {
+        "letter": "B",
+        "text": "combustão dos objetos."
+      },
+      {
+        "letter": "C",
+        "text": "trituração dos objetos."
+      },
+      {
+        "letter": "D",
+        "text": "hidrólise dos objetos."
+      },
+      {
+        "letter": "E",
+        "text": "fusão dos objetos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O PET é um poliéster; a quebra das ligações éster por reação com água (hidrólise) regenera seus monômeros originais, entre eles o etilenoglicol — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q57",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para realizar um experimento com uma garrafa PET cheia d'água, perfurou-se a lateral da garrafa em três posições a diferentes alturas. Com a garrafa tampada, a água não vazou por nenhum dos orifícios; com a garrafa destampada, observou-se o escoamento da água pelos furos, com jatos mais fortes nos furos mais próximos ao fundo (maior coluna de água acima).\n\nComo a pressão atmosférica interfere no escoamento da água, nas situações com a garrafa tampada e destampada, respectivamente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água."
+      },
+      {
+        "letter": "B",
+        "text": "Impede a saída de água, por ser maior que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo."
+      },
+      {
+        "letter": "C",
+        "text": "Impede a entrada de ar, por ser menor que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo."
+      },
+      {
+        "letter": "D",
+        "text": "Impede a saída de água, por ser maior que a pressão interna; regula a velocidade de escoamento, que só depende da pressão atmosférica."
+      },
+      {
+        "letter": "E",
+        "text": "Impede a entrada de ar, por ser menor que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Com a garrafa tampada, a pressão atmosférica externa (maior que a pressão interna reduzida) impede a saída da água. Destampada, o ar entra livremente e, pelo teorema de Torricelli, a velocidade de escoamento passa a depender apenas da altura (pressão) da coluna de água acima do furo — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q59",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram.\n\nA concentração de O2 próximo ao solo, no local da queda, será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "menor, pois haverá consumo de O2 durante a decomposição dessas árvores."
+      },
+      {
+        "letter": "B",
+        "text": "maior, pois haverá economia de O2 pela ausência das árvores mortas."
+      },
+      {
+        "letter": "C",
+        "text": "maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens."
+      },
+      {
+        "letter": "D",
+        "text": "igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes."
+      },
+      {
+        "letter": "E",
+        "text": "menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os decompositores que degradam a árvore morta realizam respiração celular, consumindo O2 do ambiente próximo, sem a contrapartida da fotossíntese que a árvore viva realizava: a concentração local de O2 diminui — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q60",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "As fêmeas de algumas espécies de aranhas, escorpiões e de outros invertebrados predam os machos após a cópula e inseminação. Como exemplo, fêmeas canibais do inseto conhecido como louva-a-deus, Tenodera aridofolia, possuem até 63% da sua dieta composta por machos parceiros. Para as fêmeas, o canibalismo sexual pode assegurar a obtenção de nutrientes importantes na reprodução. Com esse incremento na dieta, elas geralmente produzem maior quantidade de ovos.\n\nBORGES, J. C. Jogo mortal. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).\n\nApesar de ser um comportamento aparentemente desvantajoso para os machos, o canibalismo sexual evoluiu nesses táxons animais porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promove a maior ocupação de diferentes nichos ecológicos pela espécie."
+      },
+      {
+        "letter": "B",
+        "text": "favorece o sucesso reprodutivo individual de ambos os parentais."
+      },
+      {
+        "letter": "C",
+        "text": "impossibilita a transmissão de genes do macho para a prole."
+      },
+      {
+        "letter": "D",
+        "text": "impede a sobrevivência e reprodução futura do macho."
+      },
+      {
+        "letter": "E",
+        "text": "reduz a variabilidade genética da população."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Embora o macho morra, seus genes já foram transmitidos na cópula; ao ser devorado, ele contribui com nutrientes que aumentam o número de ovos fecundados por sua prole, favorecendo o sucesso reprodutivo de ambos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q61",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para oferecer acessibilidade aos portadores de dificuldades de locomoção, é utilizado, em ônibus e automóveis, o elevador hidráulico. Nesse dispositivo é usada uma bomba elétrica, para forçar um fluido a passar de uma tubulação estreita para outra mais larga, e dessa forma acionar um pistão que movimenta a plataforma. Considere um elevador hidráulico cuja área da cabeça do pistão seja cinco vezes maior do que a área da tubulação que sai da bomba. Desprezando o atrito e considerando uma aceleração gravitacional de 10 m/s², deseja-se elevar uma pessoa de 65 kg em uma cadeira de rodas de 15 kg sobre a plataforma de 20 kg.\n\nQual deve ser a força exercida pelo motor da bomba sobre o fluido, para que o cadeirante seja elevado com velocidade constante?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20 N"
+      },
+      {
+        "letter": "B",
+        "text": "100 N"
+      },
+      {
+        "letter": "C",
+        "text": "200 N"
+      },
+      {
+        "letter": "D",
+        "text": "1 000 N"
+      },
+      {
+        "letter": "E",
+        "text": "5 000 N"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O peso total a ser sustentado é (65+15+20) kg × 10 m/s² = 1000 N. Pelo princípio de Pascal (F₁/A₁ = F₂/A₂), como a área do pistão é 5 vezes maior que a da bomba, a força na bomba é 1000/5 = 200 N — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q62",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.\n\nConsiderando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Lisossomo."
+      },
+      {
+        "letter": "B",
+        "text": "Mitocôndria."
+      },
+      {
+        "letter": "C",
+        "text": "Peroxissomo."
+      },
+      {
+        "letter": "D",
+        "text": "Complexo golgiense."
+      },
+      {
+        "letter": "E",
+        "text": "Retículo endoplasmático."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Assim como os cloroplastos, as mitocôndrias possuem DNA próprio e maquinaria de expressão gênica independente do núcleo, o que as torna organelas viáveis para a inserção de transgenes em células não fotossintetizantes como as leveduras — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q63",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "No Brasil, cerca de 80% da energia elétrica advém de hidrelétricas, cuja construção implica o represamento de rios. A formação de um reservatório para esse fim, por sua vez, pode modificar a ictiofauna local. Um exemplo é o represamento do Rio Paraná, onde se observou o desaparecimento de peixes cascudos quase que simultaneamente ao aumento do número de peixes de espécies exóticas introduzidas, como o mapará e a corvina, as três espécies com nichos ecológicos semelhantes.\n\nPETESSE, M. L.; PETRERE JR., M. Ciência Hoje, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).\n\nNessa modificação da ictiofauna, o desaparecimento de cascudos é explicado pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução do fluxo gênico da espécie nativa."
+      },
+      {
+        "letter": "B",
+        "text": "diminuição da competição intraespecífica."
+      },
+      {
+        "letter": "C",
+        "text": "aumento da competição interespecífica."
+      },
+      {
+        "letter": "D",
+        "text": "isolamento geográfico dos peixes."
+      },
+      {
+        "letter": "E",
+        "text": "extinção de nichos ecológicos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como as três espécies compartilham nichos ecológicos semelhantes, a introdução das espécies exóticas intensificou a competição interespecífica pelos mesmos recursos, levando ao desaparecimento dos cascudos nativos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q64",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são:\n\nCl2 (g) + 2 H2O (l) ⇌ HClO (aq) + H3O+ (aq) + Cl− (aq)\nHClO (aq) + H2O (l) ⇌ H3O+ (aq) + ClO− (aq), pKa = 7,53\n\nA ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.\n\nPara que a desinfecção seja mais efetiva, o pH da água a ser tratada deve estar mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0."
+      },
+      {
+        "letter": "B",
+        "text": "5."
+      },
+      {
+        "letter": "C",
+        "text": "7."
+      },
+      {
+        "letter": "D",
+        "text": "9."
+      },
+      {
+        "letter": "E",
+        "text": "14."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Como o desinfetante ativo é o ácido hipocloroso não dissociado (HClO), e sua dissociação em ClO− aumenta conforme o pH se aproxima e ultrapassa o pKa (7,53), a maior concentração de HClO ocorre em pH mais ácido, sendo 5 (dentre as opções, o mais afastado do pKa por baixo, mantendo o meio dentro da faixa segura de tratamento de água) o mais favorável à desinfecção — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q65",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Uma manifestação comum das torcidas em estádios de futebol é a ola mexicana. Os espectadores de uma linha, sem sair do lugar e sem se deslocarem lateralmente, ficam de pé e se sentam, sincronizados com os da linha adjacente. O efeito coletivo se propaga pelos espectadores do estádio, formando uma onda progressiva.\n\nCalcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.\n\nDisponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).\n\nNessa ola mexicana, a frequência da onda, em hertz, é um valor mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,3."
+      },
+      {
+        "letter": "B",
+        "text": "0,5."
+      },
+      {
+        "letter": "C",
+        "text": "1,0."
+      },
+      {
+        "letter": "D",
+        "text": "1,9."
+      },
+      {
+        "letter": "E",
+        "text": "3,7."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A velocidade é v = 45 km/h = 12,5 m/s. O comprimento de onda é λ = 16 × 0,80 m = 12,8 m. A frequência é f = v/λ = 12,5/12,8 ≈ 0,98 Hz, valor mais próximo de 1,0 Hz — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q67",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Sabe-se que o aumento da concentração de gases como CO2, CH4 e N2O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa. A agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.\n\nROSA, A. H.; COELHO, J. C. R. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 5, nov. 2003 (adaptado).\n\nDe que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Evitando a rotação de culturas."
+      },
+      {
+        "letter": "B",
+        "text": "Liberando o CO2 presente no solo."
+      },
+      {
+        "letter": "C",
+        "text": "Aumentando a quantidade de matéria orgânica do solo."
+      },
+      {
+        "letter": "D",
+        "text": "Queimando a matéria orgânica que se deposita no solo."
+      },
+      {
+        "letter": "E",
+        "text": "Atenuando a concentração de resíduos vegetais do solo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Aumentar a matéria orgânica retida no solo (por exemplo, com plantio direto e cobertura vegetal) sequestra carbono, retirando-o da atmosfera e reduzindo o agravamento do efeito estufa — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
