@@ -12031,5 +12031,292 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2014-q46",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.\n\nYODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).\n\nDesprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comprimento da haste seja mantido constante."
+      },
+      {
+        "letter": "B",
+        "text": "massa do corpo suspenso pela haste seja pequena."
+      },
+      {
+        "letter": "C",
+        "text": "material da haste possua alta condutividade térmica."
+      },
+      {
+        "letter": "D",
+        "text": "amplitude da oscilação seja constante a qualquer temperatura."
+      },
+      {
+        "letter": "E",
+        "text": "energia potencial gravitacional do corpo suspenso se mantenha constante."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O período de um pêndulo simples depende apenas do seu comprimento e da gravidade (T = 2π√(L/g)); variações de temperatura dilatam ou contraem a haste, alterando L. Por isso, usar uma liga que resista à dilatação térmica mantém o comprimento — e, portanto, o período — constante — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q47",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.\n\nO Hoje, 15 out. 2011 (adaptado).\n\nPara suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vitaminas A e E."
+      },
+      {
+        "letter": "B",
+        "text": "frutose e sacarose."
+      },
+      {
+        "letter": "C",
+        "text": "aminoácidos naturais."
+      },
+      {
+        "letter": "D",
+        "text": "aminoácidos essenciais."
+      },
+      {
+        "letter": "E",
+        "text": "ácidos graxos saturados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao eliminar carne e derivados (fontes de proteína completa), o cardápio à base de arroz e feijão precisou suprir os aminoácidos essenciais — aqueles que o corpo não sintetiza e que só podem vir da alimentação — combinando cereal e leguminosa — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q48",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A liberação dos gases clorofluorcarbonos (CFCs) na atmosfera pode provocar a depleção do ozônio estratosférico (O3), o qual é responsável por absorver parte da radiação ultravioleta emitida pelo Sol, nociva aos seres vivos. Nesse processo, a radiação ultravioleta quebra a molécula de CFC, liberando um átomo de cloro livre, que reage com o ozônio.\n\nQuimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares."
+      },
+      {
+        "letter": "B",
+        "text": "produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro."
+      },
+      {
+        "letter": "C",
+        "text": "oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro."
+      },
+      {
+        "letter": "D",
+        "text": "reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro."
+      },
+      {
+        "letter": "E",
+        "text": "reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No ciclo catalítico de destruição do ozônio, o átomo de cloro liberado do CFC reage com O3 formando ClO e O2; em seguida, o ClO reage com um átomo de oxigênio livre, regenerando o cloro atômico, que volta a atacar outra molécula de ozônio — o cloro atua como catalisador na conversão de ozônio em oxigênio molecular — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q49",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.\n\nEssa fonte de energia subutilizada, citada no texto, é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "etanol, obtido a partir da decomposição da matéria orgânica por bactérias."
+      },
+      {
+        "letter": "B",
+        "text": "gás natural, formado pela ação de fungos decompositores da matéria orgânica."
+      },
+      {
+        "letter": "C",
+        "text": "óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias."
+      },
+      {
+        "letter": "D",
+        "text": "gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica."
+      },
+      {
+        "letter": "E",
+        "text": "gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Nos aterros sanitários, bactérias anaeróbias decompõem a matéria orgânica do lixo, produzindo gás metano (biogás), que pode ser captado e usado como fonte de energia — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q50",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "É comum aos fotógrafos tirar fotos coloridas em ambientes iluminados por lâmpadas fluorescentes, que contêm uma forte composição de luz verde. A consequência desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.\n\nDisponível em: http://nautilus.fis.uc.pt. Acesso em: 20 maio 2014 (adaptado).\n\nNa situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ciano."
+      },
+      {
+        "letter": "B",
+        "text": "Verde."
+      },
+      {
+        "letter": "C",
+        "text": "Amarelo."
+      },
+      {
+        "letter": "D",
+        "text": "Magenta."
+      },
+      {
+        "letter": "E",
+        "text": "Vermelho."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A cor magenta (vermelho + azul) não contém a componente verde e é a cor complementar ao verde: um filtro magenta absorve o excesso de luz verde, corrigindo a tonalidade esverdeada e restaurando as cores naturais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q51",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas.\n\nSPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson, 2009 (adaptado).\n\nVisando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "filtração, com o uso de filtros de carvão ativo."
+      },
+      {
+        "letter": "B",
+        "text": "fluoretação, pela adição de fluoreto de sódio."
+      },
+      {
+        "letter": "C",
+        "text": "coagulação, pela adição de sulfato de alumínio."
+      },
+      {
+        "letter": "D",
+        "text": "correção do pH, pela adição de carbonato de sódio."
+      },
+      {
+        "letter": "E",
+        "text": "floculação, em tanques de concreto com a água em movimento."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O carvão ativado tem alta capacidade de adsorção de compostos orgânicos, como o clorofórmio, sendo o tratamento adequado para removê-los da água já clorada — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2014-q52",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.\n\nCOELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado).\n\nEssa malformação congênita ocorre porque esses enantiômeros",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reagem entre si."
+      },
+      {
+        "letter": "B",
+        "text": "não podem ser separados."
+      },
+      {
+        "letter": "C",
+        "text": "não estão presentes em partes iguais."
+      },
+      {
+        "letter": "D",
+        "text": "interagem de maneira distinta com o organismo."
+      },
+      {
+        "letter": "E",
+        "text": "são estruturas com diferentes grupos funcionais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Enantiômeros têm a mesma fórmula estrutural, mas são imagens especulares um do outro; por isso, podem interagir de forma diferente com receptores biológicos quirais do organismo — o que explica por que apenas o enantiômero S da talidomida causa malformações — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
