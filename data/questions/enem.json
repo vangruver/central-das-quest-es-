@@ -12318,5 +12318,908 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2016-q01",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Sentimos que toda satisfação de nossos desejos advinda do mundo assemelha-se à esmola que mantém hoje o mendigo vivo, porém prolonga amanhã a sua fome. A resignação, ao contrário, assemelha-se à fortuna herdada: livra o herdeiro para sempre de todas as preocupações.\n\nSCHOPENHAUER, A. Aforismo para a sabedoria da vida. São Paulo: Martins Fontes, 2005.\n\nO trecho destaca uma ideia remanescente de uma tradição filosófica ocidental, segundo a qual a felicidade se mostra indissociavelmente ligada à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "consagração de relacionamentos afetivos."
+      },
+      {
+        "letter": "B",
+        "text": "administração da independência interior."
+      },
+      {
+        "letter": "C",
+        "text": "fugacidade do conhecimento empírico."
+      },
+      {
+        "letter": "D",
+        "text": "liberdade de expressão religiosa."
+      },
+      {
+        "letter": "E",
+        "text": "busca de prazeres efêmeros."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao comparar a satisfação de desejos externos a uma esmola que apenas adia a fome, e a resignação a uma fortuna herdada que livra de preocupações, Schopenhauer retoma a tradição (estoica) de que a felicidade depende da administração da própria independência interior, e não de bens externos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q02",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Batizado por Tancredo Neves de “Nova República”, o período que marca o reencontro do Brasil com os governos civis e a democracia ainda não completou seu quinto ano e já viveu dias de grande comoção. Começou com a tragédia de Tancredo, seguiu pela euforia do Plano Cruzado, conheceu as depressões da inflação e das ameaças da hiperinflação e desembocou na movimentação que antecede as primeiras eleições diretas para presidente em 29 anos.\n\nO álbum dos presidentes: a história vista pelo JB. Jornal do Brasil, 15 nov. 1989.\n\nO período descrito apresenta continuidades e rupturas em relação à conjuntura histórica anterior. Uma dessas continuidades consistiu na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "representação do legislativo com a fórmula do bipartidarismo."
+      },
+      {
+        "letter": "B",
+        "text": "detenção de lideranças populares por crimes de subversão."
+      },
+      {
+        "letter": "C",
+        "text": "presença de políticos com trajetórias no regime autoritário."
+      },
+      {
+        "letter": "D",
+        "text": "prorrogação das restrições advindas dos atos institucionais."
+      },
+      {
+        "letter": "E",
+        "text": "estabilidade da economia com o congelamento anual de preços."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Apesar da redemocratização, muitos políticos que atuaram durante a ditadura militar permaneceram ativos e influentes na Nova República, evidenciando uma continuidade de trajetórias políticas ligadas ao regime autoritário — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q03",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Os moradores de Andalsnes, na Noruega, poderiam se dar ao luxo de morar perto do trabalho nos dias úteis e de se refugiar na calmaria do bosque aos fins de semana. E sem sair da mesma casa. Bastaria achar uma vaga para estacionar o imóvel antes de curtir o novo endereço.\n\nDisponível em: http://casavogue.globo.com. Acesso em: 3 out. 2015 (adaptado).\n\nUma vez implementada, essa proposta afetaria a dinâmica do espaço urbano por reduzir a intensidade do seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Êxodo rural."
+      },
+      {
+        "letter": "B",
+        "text": "Movimento pendular."
+      },
+      {
+        "letter": "C",
+        "text": "Migração de retorno."
+      },
+      {
+        "letter": "D",
+        "text": "Deslocamento sazonal."
+      },
+      {
+        "letter": "E",
+        "text": "Ocupação de áreas centrais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Uma casa móvel que se desloca entre o trabalho (na cidade) e o lazer (no campo) elimina a necessidade do deslocamento diário casa-trabalho, isto é, reduz o movimento pendular — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q04",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "O Rio de Janeiro tem projeção imediata no próprio estado e no Espírito Santo, em parcela do sul do estado da Bahia, e na Zona da Mata, em Minas Gerais, onde tem influência dividida com Belo Horizonte. Compõem a rede urbana do Rio de Janeiro, entre outras cidades: Vitória, Juiz de Fora, Cachoeiro de Itapemirim, Campos dos Goytacazes, Volta Redonda - Barra Mansa, Teixeira de Freitas, Angra dos Reis e Teresópolis.\n\nDisponível em: http://ibge.gov.br. Acesso em: 9 jul. 2015 (adaptado).\n\nO conceito que expressa a relação entre o espaço apresentado e a cidade do Rio de Janeiro é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Frente pioneira."
+      },
+      {
+        "letter": "B",
+        "text": "Zona de transição."
+      },
+      {
+        "letter": "C",
+        "text": "Região polarizada."
+      },
+      {
+        "letter": "D",
+        "text": "Área de conurbação."
+      },
+      {
+        "letter": "E",
+        "text": "Periferia metropolitana."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O Rio de Janeiro exerce influência e centraliza serviços para uma vasta área que engloba cidades de outros estados, configurando uma região polarizada por essa metrópole — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q05",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "TEXTO I\n\nDocumentos do século XVI algumas vezes se referem aos habitantes indígenas como “os brasis”, ou “gente brasília” e, ocasionalmente no século XVII, o termo “brasileiro” era a eles aplicado, mas as referências ao status econômico e jurídico desses eram muito mais populares. Assim, os termos “negro da terra” e “índios” eram utilizados com mais frequência do que qualquer outro.\n\nSCHWARTZ, S. B. Gente da terra braziliense da nação. Pensando o Brasil: a construção de um povo. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado).\n\nTEXTO II\n\nÍndio é um conceito construído no processo de conquista da América pelos europeus. Desinteressados pela diversidade cultural, imbuídos de forte preconceito para com o outro, o indivíduo de outras culturas, espanhóis, portugueses, franceses e anglo-saxões terminaram por denominar da mesma forma povos tão díspares quanto os tupinambás e os astecas.\n\nSILVA, K. V.; SILVA, M. H. Dicionário de conceitos históricos. São Paulo: Contexto, 2005.\n\nAo comparar os textos, as formas de designação dos grupos nativos pelos europeus, durante o período analisado, são reveladoras da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concepção idealizada do território, entendido como geograficamente indiferenciado."
+      },
+      {
+        "letter": "B",
+        "text": "percepção corrente de uma ancestralidade comum às populações ameríndias."
+      },
+      {
+        "letter": "C",
+        "text": "compreensão etnocêntrica acerca das populações dos territórios conquistados."
+      },
+      {
+        "letter": "D",
+        "text": "transposição direta das categorias originadas no imaginário medieval."
+      },
+      {
+        "letter": "E",
+        "text": "visão utópica configurada a partir de fantasias de riqueza."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao classificar sob o mesmo rótulo (“índio”, “negro da terra”) povos tão diferentes quanto tupinambás e astecas, os europeus revelavam uma compreensão etnocêntrica, que ignorava a diversidade cultural nativa e a via a partir de suas próprias categorias — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q06",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Ser ou não ser — eis a questão.\n\nMorrer — dormir — Dormir! Talvez sonhar. Aí está o obstáculo!\nOs sonhos que hão de vir no sono da morte\nQuando tivermos escapado ao tumulto vital\nNos obrigam a hesitar: e é essa a reflexão\nQue dá à desventura uma vida tão longa.\n\nSHAKESPEARE, W. Hamlet. Porto Alegre: L&PM, 2007.\n\nEste solilóquio pode ser considerado um precursor do existencialismo ao enfatizar a tensão entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "consciência de si e angústia humana."
+      },
+      {
+        "letter": "B",
+        "text": "inevitabilidade do destino e incerteza moral."
+      },
+      {
+        "letter": "C",
+        "text": "tragicidade da personagem e ordem do mundo."
+      },
+      {
+        "letter": "D",
+        "text": "racionalidade argumentativa e loucura iminente."
+      },
+      {
+        "letter": "E",
+        "text": "dependência paterna e impossibilidade de ação."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao refletir sobre a própria existência e hesitar diante da morte e do desconhecido (“os sonhos que hão de vir”), Hamlet expressa uma angústia existencial ligada à consciência de si mesmo, tema central do existencialismo — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q07",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "TEXTO I\n\nAnúncio publicitário de 1968: “As mulheres do futuro farão da Lua um lugar mais limpo para se viver”.\n\nDisponível em: www.propagandashistoricas.com.br. Acesso em: 16 out. 2015.\n\nTEXTO II\n\nMetade da nova equipe da Nasa é composta por mulheres\n\nAté hoje, cerca de 350 astronautas americanos já estiveram no espaço, enquanto as mulheres não chegam a ser um terço desse número. Após o anúncio da turma composta 50% por mulheres, alguns internautas escreveram comentários machistas e desrespeitosos sobre a escolha nas redes sociais.\n\nDisponível em: https://catracalivre.com.br. Acesso em: 10 mar. 2016.\n\nA comparação entre o anúncio publicitário de 1968 e a repercussão da notícia de 2016 mostra a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elitização da carreira científica."
+      },
+      {
+        "letter": "B",
+        "text": "qualificação da atividade doméstica."
+      },
+      {
+        "letter": "C",
+        "text": "ambição de indústrias patrocinadoras."
+      },
+      {
+        "letter": "D",
+        "text": "manutenção de estereótipos de gênero."
+      },
+      {
+        "letter": "E",
+        "text": "equiparação de papéis nas relações familiares."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O anúncio de 1968, que associa mulheres à limpeza doméstica (mesmo no espaço), e os comentários machistas de 2016 diante de uma equipe científica com 50% de mulheres mostram que, décadas depois, os estereótipos de gênero seguem presentes — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q08",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia",
+      "Brasil Império"
+    ],
+    "statement": "A África Ocidental é conhecida pela dinâmica das suas mulheres comerciantes, caracterizadas pela perícia, autonomia e mobilidade. A sua presença, que fora atestada por viajantes e por missionários portugueses que visitaram a costa a partir do século XV, consta também na ampla documentação sobre a região. A literatura é rica em referências às grandes mulheres como as vendedoras ambulantes, cujo jeito para o negócio, bem como a autonomia e mobilidade, é tão típico da região.\n\nHAVIK, P. Dinâmicas e assimetrias afro-atlânticas: a agência feminina e representações em mudança na Guiné (séculos XIX e XX). In: PANTOJA, S. (Org.). Identidades, memórias e histórias em terras africanas. Brasília: LGE; Luanda: Nzila, 2006.\n\nA abordagem realizada pelo autor sobre a vida social da África Ocidental pode ser relacionada a uma característica marcante das cidades no Brasil escravista nos séculos XVIII e XIX, que se observa pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "restrição à realização do comércio ambulante por africanos escravizados e seus descendentes."
+      },
+      {
+        "letter": "B",
+        "text": "convivência entre homens e mulheres livres, de diversas origens, no pequeno comércio."
+      },
+      {
+        "letter": "C",
+        "text": "presença de mulheres negras no comércio de rua de diversos produtos e alimentos."
+      },
+      {
+        "letter": "D",
+        "text": "dissolução dos hábitos culturais trazidos do continente de origem dos escravizados."
+      },
+      {
+        "letter": "E",
+        "text": "entrada de imigrantes portugueses nas atividades ligadas ao pequeno comércio urbano."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Assim como na África Ocidental as mulheres se destacavam no comércio ambulante, nas cidades brasileiras dos séculos XVIII e XIX as mulheres negras (escravizadas ou libertas) — as “negras de tabuleiro” — eram marcantes no comércio de rua de alimentos e outros produtos, mantendo uma prática de origem africana — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q09",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Quanto mais complicada se tornou a produção industrial, mais numerosos passaram a ser os elementos da indústria que exigiam garantia de fornecimento. Três deles eram de importância fundamental: o trabalho, a terra e o dinheiro. Numa sociedade comercial, esse fornecimento só poderia ser organizado de uma forma: tornando-os disponíveis à compra. Agora eles tinham que ser organizados para a venda no mercado. Isso estava de acordo com a exigência de um sistema de mercado. Sabemos que em um sistema como esse, os lucros só podem ser assegurados se se garante a autorregulação por meio de mercados competitivos interdependentes.\n\nPOLANYI, K. A grande transformação: as origens de nossa época. Rio de Janeiro: Campus, 2000 (adaptado).\n\nA consequência do processo de transformação socioeconômica abordado no texto é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão das terras comunais."
+      },
+      {
+        "letter": "B",
+        "text": "limitação do mercado como meio de especulação."
+      },
+      {
+        "letter": "C",
+        "text": "consolidação da força de trabalho como mercadoria."
+      },
+      {
+        "letter": "D",
+        "text": "diminuição do comércio como efeito da industrialização."
+      },
+      {
+        "letter": "E",
+        "text": "adequação do dinheiro como elemento padrão das transações."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Polanyi descreve como o capitalismo industrial transformou trabalho, terra e dinheiro em mercadorias negociáveis no mercado; entre esses elementos, o trabalho humano passou a ser tratado e vendido como mais uma mercadoria — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q10",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência.\n\nJANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000.\n\nA diferença entre as sedições abordadas no texto encontrava-se na pretensão de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eliminar a hierarquia militar."
+      },
+      {
+        "letter": "B",
+        "text": "abolir a escravidão africana."
+      },
+      {
+        "letter": "C",
+        "text": "anular o domínio metropolitano."
+      },
+      {
+        "letter": "D",
+        "text": "suprimir a propriedade fundiária."
+      },
+      {
+        "letter": "E",
+        "text": "extinguir o absolutismo monárquico."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Enquanto a Inconfidência Mineira (1789) questionava principalmente a forma da dominação colonial (os impostos), a Conjuração Baiana de 1798 avançou para questionar a própria subordinação ao domínio metropolitano, propondo romper com Portugal — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q03",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "No dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural. A candidatura, apresentada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), foi aprovada durante a 36ª Sessão do Comitê do Patrimônio Mundial. O presidente do Iphan explicou que “a paisagem carioca é a imagem mais explícita do que podemos chamar de civilização brasileira, com sua originalidade, desafios, contradições e possibilidades”. A partir de agora, os locais da cidade valorizados com o título da Unesco serão alvo de ações integradas visando a preservação da sua paisagem cultural.\n\nDisponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).\n\nO reconhecimento da paisagem em questão como patrimônio mundial deriva da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "presença do corpo artístico local."
+      },
+      {
+        "letter": "B",
+        "text": "imagem internacional da metrópole."
+      },
+      {
+        "letter": "C",
+        "text": "herança de prédios da ex-capital do país."
+      },
+      {
+        "letter": "D",
+        "text": "diversidade de culturas presente na cidade."
+      },
+      {
+        "letter": "E",
+        "text": "relação sociedade-natureza de caráter singular."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O título de Paisagem Cultural reconhece justamente a integração única entre os elementos naturais do Rio (mar, montanhas, floresta) e a ocupação urbana da cidade — uma relação sociedade-natureza singular — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q04",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "TEXTO I\n\nHá já algum tempo eu me apercebi de que, desde meus primeiros anos, recebera muitas falsas opiniões como verdadeiras, e de que aquilo que depois eu fundei em princípios tão mal assegurados não podia ser senão mui duvidoso e incerto. Era necessário tentar seriamente, uma vez em minha vida, desfazer-me de todas as opiniões a que até então dera crédito, e começar tudo novamente a fim de estabelecer um saber firme e inabalável.\n\nDESCARTES, R. Meditações concernentes à Primeira Filosofia. São Paulo: Abril Cultural, 1973 (adaptado).\n\nTEXTO II\n\nÉ o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\n\nSILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado).\n\nA exposição e a análise do projeto cartesiano indicam que, para viabilizar a reconstrução radical do conhecimento, deve-se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retomar o método da tradição para edificar a ciência com legitimidade."
+      },
+      {
+        "letter": "B",
+        "text": "questionar de forma ampla e profunda as antigas ideias e concepções."
+      },
+      {
+        "letter": "C",
+        "text": "investigar os conteúdos da consciência dos homens menos esclarecidos."
+      },
+      {
+        "letter": "D",
+        "text": "buscar uma via para eliminar da memória saberes antigos e ultrapassados."
+      },
+      {
+        "letter": "E",
+        "text": "encontrar ideias e pensamentos evidentes que dispensam ser questionados."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Descartes propõe desfazer-se de todas as opiniões antigas e “começar tudo novamente”, submetendo-as a uma dúvida radical e ampla, para só então fundar um saber firme e inabalável — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q05",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares [...]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.\n\nCarta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001.\n\nA carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o seguinte objetivo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Valorizar a catequese a ser realizada sobre os povos nativos."
+      },
+      {
+        "letter": "B",
+        "text": "Descrever a cultura local para enaltecer a prosperidade portuguesa."
+      },
+      {
+        "letter": "C",
+        "text": "Transmitir o conhecimento dos indígenas sobre o potencial econômico existente."
+      },
+      {
+        "letter": "D",
+        "text": "Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia."
+      },
+      {
+        "letter": "E",
+        "text": "Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao afirmar que, mesmo sem ouro ou prata, “o melhor fruto que dela se pode tirar” seria “salvar esta gente”, Caminha destaca a catequese dos nativos como objetivo valorizado do projeto colonizador — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q06",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "O canto triste dos conquistados: os últimos dias de Tenochtitlán\n\nNos caminhos jazem dardos quebrados;\nos cabelos estão espalhados.\nDestelhadas estão as casas,\nVermelhas estão as águas, os rios,\ncomo se alguém as tivesse tingido,\nNos escudos esteve nosso resguardo,\nmas os escudos não detêm a desolação...\n\nPINSKY, J. et al. História da América através de textos. São Paulo: Contexto, 2007 (fragmento).\n\nO texto é um registro asteca, cujo sentido está relacionado ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tragédia causada pela destruição da cultura desse povo."
+      },
+      {
+        "letter": "B",
+        "text": "tentativa frustrada de resistência a um poder considerado superior."
+      },
+      {
+        "letter": "C",
+        "text": "extermínio das populações indígenas pelo Exército espanhol."
+      },
+      {
+        "letter": "D",
+        "text": "dissolução da memória sobre os feitos de seus antepassados."
+      },
+      {
+        "letter": "E",
+        "text": "profetização das consequências da colonização da América."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O poema descreve escudos que “não detêm a desolação” diante do ataque — a defesa e resistência asteca em Tenochtitlán, malograda diante do poder espanhol considerado superior — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q11",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.\n\nPRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.\n\nA crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "poder militar, enquanto fiador da ordem econômica."
+      },
+      {
+        "letter": "B",
+        "text": "presidencialismo, com o objetivo de limitar o poder dos coronéis."
+      },
+      {
+        "letter": "C",
+        "text": "domínio de grupos regionais sobre a ordem federativa."
+      },
+      {
+        "letter": "D",
+        "text": "intervenção nos estados, autorizada pelas normas constitucionais."
+      },
+      {
+        "letter": "E",
+        "text": "isonomia do governo federal no tratamento das disputas locais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A “política dos governadores” consistia num pacto entre o presidente da República e as oligarquias estaduais, fortalecendo o domínio desses grupos regionais sobre a ordem federativa durante a Primeira República — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q12",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.\n\nPEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras frestas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).\n\nManifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "distinções sociais eram deixadas de lado em nome da celebração."
+      },
+      {
+        "letter": "B",
+        "text": "aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes."
+      },
+      {
+        "letter": "C",
+        "text": "liberdades individuais eram extintas pelas regras das autoridades públicas."
+      },
+      {
+        "letter": "D",
+        "text": "tradições populares se transformavam em matéria de disputas sociais."
+      },
+      {
+        "letter": "E",
+        "text": "perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A tentativa da elite de substituir o entrudo popular por desfiles “civilizados” à moda veneziana, e a resistência do povo em abandonar suas próprias práticas, mostra que a definição de como o carnaval deveria ser celebrado se tornou objeto de disputa social — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q13",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Caricatura de Raul Pederneiras, publicada na Revista da Semana em 15 de setembro de 1934, satirizando o novo cenário político brasileiro após a conquista de um direito pelas mulheres.\n\nPEDERNEIRAS, R. Revista da Semana, ano 35, n. 40, 15 set. 1934. In: LEMOS, R. (Org.). Uma história do Brasil através das caricaturas (1840-2001). Rio de Janeiro: Bom Texto; Letras e Expressões, 2001.\n\nNa imagem, da década de 1930, há uma crítica à conquista de um direito pelas mulheres, relacionado com a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redivisão do trabalho doméstico."
+      },
+      {
+        "letter": "B",
+        "text": "liberdade de orientação sexual."
+      },
+      {
+        "letter": "C",
+        "text": "garantia da equiparação salarial."
+      },
+      {
+        "letter": "D",
+        "text": "aprovação do direito ao divórcio."
+      },
+      {
+        "letter": "E",
+        "text": "obtenção da participação eleitoral."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Código Eleitoral de 1932 concedeu às mulheres brasileiras o direito ao voto, poucos anos antes da publicação dessa caricatura de 1934, que satiriza justamente essa conquista da participação eleitoral feminina — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q14",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Então, a travessia das veredas sertanejas é mais exaustiva que a de uma estepe nua. Nesta, ao menos, o viajante tem o desafogo de um horizonte largo e a perspectiva das planuras francas. Ao passo que a outra o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; enlaça-o na trama espinescente e não o atrai; repulsa-o com as folhas urticantes, com o espinho, com os gravetos estalados em lanças, e desdobra-se-lhe na frente léguas e léguas, imutável no aspecto desolado; árvore sem folhas, de galhos estorcidos e secos, revoltos, entrecruzados, apontando rijamente no espaço ou estirando-se flexuosos pelo solo, lembrando um bracejar imenso, de tortura, da flora agonizante...\n\nCUNHA, E. Os sertões. Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012.\n\nOs elementos da paisagem descritos no texto correspondem a aspectos biogeográficos presentes na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "composição de vegetação xerófila."
+      },
+      {
+        "letter": "B",
+        "text": "formação de florestas latifoliadas."
+      },
+      {
+        "letter": "C",
+        "text": "transição para mata de grande porte."
+      },
+      {
+        "letter": "D",
+        "text": "adaptação à elevada salinidade."
+      },
+      {
+        "letter": "E",
+        "text": "homogeneização da cobertura perenifólia."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A descrição de árvores sem folhas, galhos retorcidos e secos, cobertos de espinhos, corresponde à vegetação xerófila da caatinga, adaptada à escassez de água do semiárido nordestino — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q15",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 15,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.\n\nMARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Textos 3. São Paulo: Edições Sociais, 1977 (adaptado).\n\nPara o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o proletariado seja contemplado pelo processo de mais-valia."
+      },
+      {
+        "letter": "B",
+        "text": "o trabalho se constitua como o fundamento real da produção material."
+      },
+      {
+        "letter": "C",
+        "text": "a consolidação das forças produtivas seja compatível com o progresso humano."
+      },
+      {
+        "letter": "D",
+        "text": "a autonomia da sociedade civil seja proporcional ao desenvolvimento econômico."
+      },
+      {
+        "letter": "E",
+        "text": "a burguesia revolucione o processo social de formação da consciência de classe."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para Marx, as relações de produção (o modo como o trabalho se organiza para produzir) constituem a estrutura econômica — o “fundamento real” — sobre a qual se erguem a política e o direito: é o trabalho/produção material a base de toda a sociedade — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q16",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.\n\nSENNETT, R. A corrosão do caráter: consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).\n\nComparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as tecnologias de informação sejam usadas para democratizar as relações laborais."
+      },
+      {
+        "letter": "B",
+        "text": "as estruturas burocráticas sejam transferidas da empresa para o espaço doméstico."
+      },
+      {
+        "letter": "C",
+        "text": "os procedimentos de terceirização sejam aprimorados pela qualificação profissional."
+      },
+      {
+        "letter": "D",
+        "text": "as organizações sindicais sejam fortalecidas com a valorização da especialização funcional."
+      },
+      {
+        "letter": "E",
+        "text": "os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Diferentemente do controle direto sobre o processo de trabalho típico do taylorismo/fordismo, o trabalho flexível (fora do escritório) é supervisionado com base nos resultados entregues, deslocando o controle do processo para o resultado — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q17",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Modelo 1: Fornecedor → Estoque → Produção → Estoque → Cliente (produção “empurrada”, com estoques antes e depois da produção).\n\nModelo 2: Cliente faz Requisição → Fornecedor entrega insumos → Produção → Entrega ao Cliente (produção “puxada”, sem estoques intermediários, sob demanda).\n\nDisponível em: http://ensino.univates.br. Acesso em: 11 maio 2013 (adaptado).\n\nNa imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Origem da matéria-prima."
+      },
+      {
+        "letter": "B",
+        "text": "Qualificação da mão de obra."
+      },
+      {
+        "letter": "C",
+        "text": "Velocidade de processamento."
+      },
+      {
+        "letter": "D",
+        "text": "Necessidade de armazenamento."
+      },
+      {
+        "letter": "E",
+        "text": "Amplitude do mercado consumidor."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No Modelo 1, a produção é feita para estoque, independentemente da demanda imediata, criando risco de superprodução; no Modelo 2, a produção é puxada pela requisição do cliente, sem necessidade de armazenamento prévio — a diferença está justamente na necessidade de armazenamento — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2013-q18",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como Um príncipe em Nova York e Ace Ventura: um maluco na África; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação O rei Leão, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.\n\nLEIBOWITZ, E. Filmes de Hollywood sobre África ficam no clichê. Disponível em: http://notícias.uol.com.br. Acesso em: 17 abr. 2010.\n\nA produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A história e a natureza."
+      },
+      {
+        "letter": "B",
+        "text": "O exotismo e as culturas."
+      },
+      {
+        "letter": "C",
+        "text": "A sociedade e a economia."
+      },
+      {
+        "letter": "D",
+        "text": "O comércio e o ambiente."
+      },
+      {
+        "letter": "E",
+        "text": "A diversidade e a política."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao retratar a África como um lugar de “tribos doidas” e rituais exóticos, sem aprofundar a diversidade real de suas sociedades, esses filmes enfatizam o exotismo e negligenciam as culturas africanas em sua complexidade — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2013 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
