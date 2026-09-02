@@ -22119,5 +22119,743 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2014 - Caderno 1 Azul (Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2017-q11",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Um diagrama apresenta as características do 'novo consumidor social' do século XXI: usa ferramentas on-line para encontrar pessoas que compartilham a mesma opinião; busca novos canais e novas formas de conselhos e suporte para se comunicar; confia em avaliações e rankings de produtos feitos por estranhos on-line; lê e cria blogs e posts.\n\nCIPRIANI, F. Disponível em: www.snmsolutions.com.br. Acesso em: 15 maio 2013 (adaptado).\n\nO consumidor do século XXI, chamado de novo consumidor social, tende a se comportar de modo diferente do consumidor tradicional. Pela associação das características apresentadas no diagrama, infere-se que esse novo consumidor sofre influência da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cultura do comércio eletrônico."
+      },
+      {
+        "letter": "B",
+        "text": "busca constante pelo menor preço."
+      },
+      {
+        "letter": "C",
+        "text": "divulgação de informações pelas empresas."
+      },
+      {
+        "letter": "D",
+        "text": "necessidade recorrente de consumo."
+      },
+      {
+        "letter": "E",
+        "text": "postura comum aos consumidores tradicionais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As características apresentadas — uso de ferramentas on-line, confiança em avaliações de estranhos, criação e leitura de blogs e posts — refletem a cultura do comércio eletrônico e das redes sociais, que molda um novo comportamento de consumo baseado na interação digital — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q23",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 23,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Naturalmente / Ela sorria / Mas não me dava trela / Trocava a roupa / Na minha frente / E ia bailar sem mais aquela / Escolhia qualquer um / Lançava olhares / Debaixo do meu nariz / Dançava colada / Em novos pares / Com um pé atrás / Com um pé a fim [...] Surgiram outras / Naturalmente / Sem nem olhar a minha cara / Tomavam banho / Na minha frente / Para sair com outro cara / Porém nunca me importei / Com tais amantes [...] Com tantos filmes / Na minha mente / É natural que toda atriz / Presentemente represente / Muito para mim.\n\nCHICO BUARQUE. Carioca. Rio de Janeiro: Biscoito Fino, 2006 (fragmento).\n\nNa canção, Chico Buarque trabalha uma determinada função da linguagem para marcar a subjetividade do eu lírico ante as atrizes que ele admira. A intensidade dessa admiração está marcada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "\"Naturalmente/ Ela sorria/ Mas não me dava trela\"."
+      },
+      {
+        "letter": "B",
+        "text": "\"Tomavam banho/ Na minha frente/ Para sair com outro cara\"."
+      },
+      {
+        "letter": "C",
+        "text": "\"Surgiram outras/ Naturalmente/ Sem nem olhar a minha cara\"."
+      },
+      {
+        "letter": "D",
+        "text": "\"Escolhia qualquer um/ Lançava olhares/ Debaixo do meu nariz\"."
+      },
+      {
+        "letter": "E",
+        "text": "\"É natural que toda atriz/ Presentemente represente/ Muito para mim\"."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No verso final, o eu lírico declara explicitamente o quanto essas atrizes 'representam' (importam) para ele, marcando de forma direta e intensificada, pela função emotiva da linguagem, sua subjetividade e admiração — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q24",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "E aqui, antes de continuar este espetáculo, é necessário que façamos uma advertência a todos e a cada um. Neste momento, achamos fundamental que cada um tome uma posição definida. Sem que cada um tome uma posição definida, não é possível continuarmos. É fundamental que cada um tome uma posição, seja para a esquerda, seja para a direita. Admitimos mesmo que alguns tomem uma posição neutra, fiquem de braços cruzados. Mas é preciso que cada um, uma vez tomada sua posição, fique nela! Porque senão, companheiros, as cadeiras do teatro rangem muito e ninguém ouve nada.\n\nFERNANDES, M.; RANGEL, F. Liberdade, liberdade. Porto Alegre: L&PM, 2009.\n\nA peça Liberdade, liberdade, encenada em 1964, apresenta o impasse vivido pela sociedade brasileira em face do regime vigente. Esse impasse é representado no fragmento pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "barulho excessivo produzido pelo ranger das cadeiras do teatro."
+      },
+      {
+        "letter": "B",
+        "text": "indicação da neutralidade como a melhor opção ideológica naquele momento."
+      },
+      {
+        "letter": "C",
+        "text": "constatação da censura em função do engajamento social do texto dramático."
+      },
+      {
+        "letter": "D",
+        "text": "correlação entre o alinhamento político e a posição corporal dos espectadores."
+      },
+      {
+        "letter": "E",
+        "text": "interrupção do espetáculo em virtude do comportamento inadequado do público."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao pedir que o público tome posição 'para a esquerda' ou 'para a direita', o texto associa literalmente a posição corporal dos espectadores ao alinhamento político, numa metáfora do clima de polarização e escolha forçada vivido no contexto do golpe de 1964 — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q25",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Uma noite em 67, de Renato Terra e Ricardo Calil. Editora Planeta, 296 páginas.\n\nMas foi uma noite, aquela noite de sábado 21 de outubro de 1967, que parou o nosso país. [...] Foi naquela noite que Chico Buarque entoou sua Roda viva ao lado do MPB-4 [...] Que Caetano Veloso brilhou cantando Alegria, alegria [...] que Gilberto Gil apresentou a tropicalista Domingo no parque com os Mutantes.\n\nAquela noite que acabou virando filme, em 2010, [...] agora virou livro. [...] Quem viu o filme vai se deliciar com as histórias — e algumas fofocas — que cada um tem para contar [...] E quem não viu o filme tem diante de si um livro de histórias, pensando bem, de História.\n\nVILLAS, A. Disponível em: www.cartacapital.com.br. Acesso em: 18 jun. 2014 (adaptado).\n\nConsiderando os elementos constitutivos dos gêneros textuais circulantes na sociedade, nesse fragmento de resenha predominam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "caracterizações de personalidades do contexto musical brasileiro dos anos 1960."
+      },
+      {
+        "letter": "B",
+        "text": "questões polêmicas direcionadas à produção musical brasileira nos anos 1960."
+      },
+      {
+        "letter": "C",
+        "text": "relatos de experiências de artistas sobre os festivais de música de 1967."
+      },
+      {
+        "letter": "D",
+        "text": "explicações sobre o quadro cultural do Brasil durante a década de 1960."
+      },
+      {
+        "letter": "E",
+        "text": "opiniões a respeito de uma obra sobre a cena musical de 1967."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Por se tratar de uma resenha, gênero cuja função é avaliar e comentar uma obra, o texto expressa predominantemente as opiniões do autor sobre o livro que retrata a cena musical de 1967 — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q26",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Apesar de muitas crianças e adolescentes terem a Barbie como um exemplo de beleza, um infográfico feito pelo site Rehabs.com comprovou que, caso uma mulher tivesse as medidas da boneca de plástico, ela nem estaria viva.\n\nNão é exatamente uma novidade que as proporções da boneca mais famosa do mundo são absurdas para o mundo real. [...]\n\nPescoço: com um pescoço duas vezes mais longo e 15 centímetros mais fino do que o de uma mulher, a Barbie seria incapaz de manter sua cabeça levantada.\n\nCintura: com uma cintura de 40 centímetros (menor do que a sua cabeça), a Barbie da vida real só teria espaço em seu corpo para acomodar metade de um rim e alguns centímetros de intestino.\n\nQuadril: o índice que mede a relação entre a cintura e o quadril da Barbie é de 0,56, o que significa que a medida da sua cintura representa 56% da circunferência de seu quadril. Esse mesmo índice, em uma mulher americana média, é de 0,8.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 2 maio 2015.\n\nAo abordar as possíveis influências da indústria de brinquedos sobre a representação do corpo feminino, o texto analisa a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "noção de beleza globalizada veiculada pela indústria cultural."
+      },
+      {
+        "letter": "B",
+        "text": "influência da mídia para a adoção de um estilo de vida salutar pelas mulheres."
+      },
+      {
+        "letter": "C",
+        "text": "relação entre a alimentação saudável e o padrão de corpo instituído pela boneca."
+      },
+      {
+        "letter": "D",
+        "text": "proporcionalidade entre a representação do corpo da boneca e a do corpo humano."
+      },
+      {
+        "letter": "E",
+        "text": "influência mercadológica na construção de uma autoimagem positiva do corpo feminino."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto compara, ponto a ponto (pescoço, cintura, quadril), as medidas da boneca com as de uma mulher real, evidenciando a desproporção entre a representação do corpo da Barbie e o corpo humano real — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q27",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Nuances\n\nEuforia: alegria barulhenta. Felicidade: alegria silenciosa.\nGravar: quando o ator é de televisão. Filmar: quando ele quer deixar claro que não é de televisão.\nGrávida: em qualquer ocasião. Gestante: em filas e assentos preferenciais.\nGuardar: na gaveta. Salvar: no computador. Salvaguardar: no Exército.\nMenta: no sorvete, na bala ou no xarope. Hortelã: na horta ou no suco de abacaxi.\nPeça: quando você vai assistir. Espetáculo: quando você está em cartaz com ele.\n\nDUVIVIER, G. Folha de S. Paulo, 24 mar. 2014 (adaptado).\n\nO texto trata da diferença de sentido entre vocábulos muito próximos. Essa diferença é apresentada considerando-se a(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alternâncias na sonoridade."
+      },
+      {
+        "letter": "B",
+        "text": "adequação às situações de uso."
+      },
+      {
+        "letter": "C",
+        "text": "marcação flexional das palavras."
+      },
+      {
+        "letter": "D",
+        "text": "grafia na norma-padrão da língua."
+      },
+      {
+        "letter": "E",
+        "text": "categorias gramaticais das palavras."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em cada par, os vocábulos têm significados próximos, mas são empregados em contextos e situações comunicativas distintas (por exemplo, 'gestante' em filas preferenciais, 'grávida' em qualquer ocasião), evidenciando a adequação ao contexto de uso — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q29",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "TEXTO I\n\nFundamentam-se as regras da Gramática Normativa nas obras dos grandes escritores, em cuja linguagem as classes ilustradas põem o seu ideal de perfeição, porque nela é que se espelha o que o uso idiomático estabilizou e consagrou.\n\nLIMA, C. H. R. Gramática normativa da língua portuguesa. Rio de Janeiro: José Olympio, 1989.\n\nTEXTO II\n\nGosto de dizer. Direi melhor: gosto de palavrar. As palavras são para mim corpos tocáveis, sereias visíveis, sensualidades incorporadas. [...] Tal página de Fialho, tal página de Chateaubriand, fazem formigar toda a minha vida em todas as veias [...] Tal página, até, de Vieira, na sua fria perfeição de engenharia sintáctica, me faz tremer como um ramo ao vento, num delírio passivo de coisa movida.\n\nPESSOA, F. O livro do desassossego. São Paulo: Brasiliense, 1986.\n\nA linguagem cumpre diferentes funções no processo de comunicação. A função que predomina nos textos I e II",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "destaca o \"como\" se elabora a mensagem, considerando-se a seleção, combinação e sonoridade do texto."
+      },
+      {
+        "letter": "B",
+        "text": "coloca o foco no \"com o quê\" se constrói a mensagem, sendo o código utilizado o seu próprio objeto."
+      },
+      {
+        "letter": "C",
+        "text": "focaliza o \"quem\" produz a mensagem, mostrando seu posicionamento e suas impressões pessoais."
+      },
+      {
+        "letter": "D",
+        "text": "orienta-se no \"para quem\" se dirige a mensagem, estimulando a mudança de seu comportamento."
+      },
+      {
+        "letter": "E",
+        "text": "enfatiza sobre \"o quê\" versa a mensagem, apresentada com palavras precisas e objetivas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ambos os textos falam sobre a própria linguagem — o Texto I discute as regras que constituem o código (a gramática), e o Texto II expressa fascínio pelas palavras enquanto tais, pelo próprio código linguístico. Essa centralidade no código como objeto da mensagem caracteriza a função metalinguística — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q30",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Contranarciso\n\nem mim\neu vejo o outro\ne outro\ne outro\nenfim dezenas\ntrens passando\nvagões cheios de gente\ncentenas\no outro que há em mim\né você\nvocê e você\nassim como eu estou em você\neu estou nele\nem nós\ne só\nquando estamos em nós\nestamos em paz\nmesmo que estejamos a sós\n\nLEMINSKI, P. Toda poesia. São Paulo: Cia. das Letras, 2013.\n\nA busca pela identidade constitui uma faceta da tradição literária, redimensionada pelo olhar contemporâneo. No poema, essa nova dimensão revela a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ausência de traços identitários."
+      },
+      {
+        "letter": "B",
+        "text": "angústia com a solidão em público."
+      },
+      {
+        "letter": "C",
+        "text": "valorização da descoberta do \"eu\" autêntico."
+      },
+      {
+        "letter": "D",
+        "text": "percepção da empatia como fator de autoconhecimento."
+      },
+      {
+        "letter": "E",
+        "text": "impossibilidade de vivenciar experiências de pertencimento."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao afirmar que vê 'o outro' em si mesmo e que só há paz 'quando estamos em nós', o eu lírico revela que o autoconhecimento passa pela identificação com o outro, isto é, pela empatia, numa releitura contemporânea da busca por identidade — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q31",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "No esporte-participação ou esporte popular, a manifestação ocorre no princípio do prazer lúdico, que tem como finalidade o bem-estar social dos seus praticantes. Está associado intimamente com o lazer e o tempo livre e ocorre em espaços não comprometidos com o tempo e fora das obrigações da vida diária. Tem como propósitos a descontração, a diversão, o desenvolvimento pessoal e o relacionamento com as pessoas. Pode-se afirmar que o esporte-participação, por ser a dimensão social do esporte mais inter-relacionada com os caminhos democráticos, equilibra o quadro de desigualdades de oportunidades esportivas encontrado na dimensão esporte-performance. Enquanto o esporte-performance só permite sucesso aos talentos ou àqueles que tiveram condições, o esporte-participação favorece o prazer a todos que dele desejarem tomar parte.\n\nGODTSFRIEDT, J. Esporte e sua relação com a sociedade: uma síntese bibliográfica. EFDeportes, n. 142, mar. 2010.\n\nO sentido de esporte-participação construído no texto está fundamentalmente presente",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nos Jogos Olímpicos, uma vez que reúnem diversos países na disputa de diferentes modalidades esportivas."
+      },
+      {
+        "letter": "B",
+        "text": "nas competições de esportes individuais, uma vez que o sucesso de um indivíduo incentiva a participação dos demais."
+      },
+      {
+        "letter": "C",
+        "text": "nos campeonatos oficiais de futebol, regionais e nacionais, por se tratar de uma modalidade esportiva muito popular no país."
+      },
+      {
+        "letter": "D",
+        "text": "nas competições promovidas pelas federações e confederações, cujo objetivo é a formação e a descoberta de talentos."
+      },
+      {
+        "letter": "E",
+        "text": "nas modalidades esportivas adaptadas, cujo objetivo é o maior engajamento dos cidadãos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O esporte-participação valoriza o acesso democrático e inclusivo à prática esportiva, independentemente de talento ou condição prévia — característica presente nas modalidades esportivas adaptadas, cujo foco é o engajamento e a inclusão de todos os cidadãos, e não a busca por performance ou talentos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q32",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Segundo quadro\n\nUma sala da prefeitura. O ambiente é modesto. Durante a mutação, ouve-se um dobrado e vivas a Odorico, 'viva o prefeito' etc. Estão em cena Dorotéa, Juju, Dirceu, Dulcinéa, o vigário e Odorico. Este último, à janela, discursa.\n\nODORICO — Povo sucupirano! Agoramente já investido no cargo de Prefeito, aqui estou para receber a confirmação, a ratificação, a autenticação e por que não dizer a sagração do povo que me elegeu. [...] Eu prometi que o meu primeiro ato como prefeito seria ordenar a construção do cemitério. [...] Botando de lado os entretantos e partindo pros finalmente, é uma alegria poder anunciar que prafrentemente vocês já poderão morrer descansados, tranquilos e desconstrangidos, na certeza de que vão ser sepultados aqui mesmo, nesta terra morna e cheirosa de Sucupira. E quem votou em mim, basta dizer isso ao padre na hora da extrema-unção, que tem enterro e cova de graça, conforme o prometido.\n\nGOMES, D. O bem amado. Rio de Janeiro: Ediouro, 2012.\n\nO gênero peça teatral tem o entretenimento como uma de suas funções. Outra função relevante do gênero, explícita nesse trecho de O bem amado, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criticar satiricamente o comportamento de pessoas públicas."
+      },
+      {
+        "letter": "B",
+        "text": "denunciar a escassez de recursos públicos nas prefeituras do interior."
+      },
+      {
+        "letter": "C",
+        "text": "censurar a falta de domínio da língua padrão em eventos sociais."
+      },
+      {
+        "letter": "D",
+        "text": "despertar a preocupação da plateia com a expectativa de vida dos cidadãos."
+      },
+      {
+        "letter": "E",
+        "text": "questionar o apoio irrestrito de agentes públicos aos gestores governamentais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Por meio do discurso empolado, cheio de neologismos ridículos ('agoramente', 'prafrentemente') e da promessa grotesca de 'enterro de graça' como grande feito de governo, a peça satiriza o comportamento demagógico de políticos — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q33",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "João/Zero (Wagner Moura) é um cientista genial, mas infeliz porque há 20 anos atrás foi humilhado publicamente durante uma festa e perdeu Helena (Alinne Moraes), uma antiga e eterna paixão. Certo dia, uma experiência com um de seus inventos permite que ele faça uma viagem no tempo, retornando para aquela época e podendo interferir no seu destino. Mas quando ele retorna, descobre que sua vida mudou totalmente e agora precisa encontrar um jeito de mudar essa história, nem que para isso tenha que voltar novamente ao passado. Será que ele conseguirá acertar as coisas?\n\nDisponível em: http://adorocinema.com. Acesso em: 4 out. 2011.\n\nQual aspecto da organização gramatical atualiza os eventos apresentados na resenha, contribuindo para despertar o interesse do leitor pelo filme?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O emprego do verbo haver, em vez de ter, em \"há 20 anos atrás foi humilhado\"."
+      },
+      {
+        "letter": "B",
+        "text": "A descrição dos fatos com verbos no presente do indicativo, como \"retorna\" e \"descobre\"."
+      },
+      {
+        "letter": "C",
+        "text": "A repetição do emprego da conjunção \"mas\" para contrapor ideias."
+      },
+      {
+        "letter": "D",
+        "text": "A finalização do texto com a frase de efeito \"Será que ele conseguirá acertar as coisas?\"."
+      },
+      {
+        "letter": "E",
+        "text": "O uso do pronome de terceira pessoa \"ele\" ao longo do texto para fazer referência ao protagonista \"João/Zero\"."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O uso do presente do indicativo ('retorna', 'descobre') para narrar eventos de um filme cria um efeito de atualização, aproximando a ação do momento da leitura e despertando maior interesse e senso de imediatismo no leitor — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q35",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Aí pelas três da tarde nesta sala atulhada de mesas, máquinas e papéis, onde invejáveis escreventes dividiram entre si o bom-senso do mundo, aplicando-se em ideias claras apesar do ruído e do mormaço, seguros ao se pronunciarem sobre problemas que afligem o homem moderno (espécie da qual você, milenarmente cansado, talvez se sinta um tanto excluído), largue tudo de repente sob os olhares a sua volta, componha uma cara de louco quieto e perigoso [...] Mas não exagere na medida e suba sem demora ao quarto, libertando aí os pés das meias e dos sapatos, tirando a roupa do corpo como se retirasse a importância das coisas [...]\n\nNASSAR, R. Menina a caminho. São Paulo: Cia. das Letras, 1997.\n\nEm textos de diferentes gêneros, algumas estratégias argumentativas referem-se a recursos linguístico-discursivos mobilizados para envolver o leitor. No texto, caracteriza-se como estratégia de envolvimento a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "prescrição de comportamentos, como em: \"[...] largue tudo de repente sob os olhares a sua volta [...]\"."
+      },
+      {
+        "letter": "B",
+        "text": "apresentação de contraposição, como em: \"Mas não exagere na medida e suba sem demora ao quarto [...]\"."
+      },
+      {
+        "letter": "C",
+        "text": "explicitação do interlocutor, como em: \"[...] (espécie da qual você, milenarmente cansado, talvez se sinta um tanto excluído) [...]\"."
+      },
+      {
+        "letter": "D",
+        "text": "descrição do espaço, como em: \"Nesta sala atulhada de mesas, máquinas e papéis, onde invejáveis escreventes dividiram entre si o bom-senso do mundo [...]\"."
+      },
+      {
+        "letter": "E",
+        "text": "construção de comparações, como em: \"[...] libertando aí os pés das meias e dos sapatos, tirando a roupa do corpo como se retirasse a importância das coisas [...]\"."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao se dirigir diretamente ao leitor por meio do pronome 'você' e caracterizá-lo ('milenarmente cansado'), o texto explicita o interlocutor, criando proximidade e envolvimento direto com quem lê — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q38",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Naquela manhã de céu limpo e ar leve, devido à chuva torrencial da noite anterior, saí a caminhar com o sol ainda escondido para tomar tenência dos primeiros movimentos da vida na roça. Num demorou nem um tiquinho e o cheiro intenso do café passado por Dona Linda me invadiu as narinas e fez a fome se acordar daquela rema letárgica derivada da longa noite de sono. [...] Já aceso, entrei na cozinha na buscação de derrubar a fome e me acercar do aconchego do calor do fogão à lenha. Foi quando dei reparo da figura esguia e discreta de uma senhora acompanhada de um garoto [...]\n\nGUIÃO, M. Disponível em: www.revistaecologico.com.br. Acesso em: 10 mar. 2014 (adaptado).\n\nA variedade linguística da narrativa é adequada à descrição dos fatos. Por isso, a escolha de determinadas palavras e expressões usadas no texto está a serviço da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "localização dos eventos de fala no tempo ficcional."
+      },
+      {
+        "letter": "B",
+        "text": "composição da verossimilhança do ambiente retratado."
+      },
+      {
+        "letter": "C",
+        "text": "restrição do papel do narrador à observação das cenas relatadas."
+      },
+      {
+        "letter": "D",
+        "text": "construção mística das personagens femininas pelo autor do texto."
+      },
+      {
+        "letter": "E",
+        "text": "caracterização das preferências linguísticas da personagem masculina."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Expressões regionais e rurais como 'tomar tenência', 'buscação' e 'dei reparo' constroem um registro linguístico coerente com o ambiente da roça descrito, conferindo verossimilhança à narrativa — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q39",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Zé Araújo começou a cantar num tom triste [...] O caboclo estava triste e inspirado. Depois dessa canção que arrepiou os cabelos da Neusa, emendou com uma valsa mais arretada ainda, cheia de palavras difíceis, mas bonita que só a gota serena. Era a história de uma boneca encantadora vista numa vitrine de cristal sobre o soberbo pedestal. Zé Araújo fechava os olhos e soltava a voz: Seus cabelos tinham a cor / Do sol a irradiar / Fulvos raios de amor. / Seus olhos eram circúnvagos / Do romantismo azul dos lagos / Mãos liriais, uns braços divinais, / Um corpo alvo sem par / E os pés muito pequenos. / Enfim eu vi nesta boneca / Uma perfeita Vênus.\n\nCASTRO, N. L. As pelejas de Ojuara: o homem que desafiou o diabo. São Paulo: Arx, 2006 (adaptado).\n\nO comentário do narrador do romance \"[...] emendou com uma valsa mais arretada ainda, cheia de palavras difíceis, mas bonita que só a gota serena\" relaciona-se ao fato de que essa valsa é representativa de uma variedade linguística",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "detentora de grande prestígio social."
+      },
+      {
+        "letter": "B",
+        "text": "específica da modalidade oral da língua."
+      },
+      {
+        "letter": "C",
+        "text": "previsível para o contexto social da narrativa."
+      },
+      {
+        "letter": "D",
+        "text": "constituída de construções sintáticas complexas."
+      },
+      {
+        "letter": "E",
+        "text": "valorizadora do conteúdo em detrimento da forma."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O vocabulário rebuscado e culto empregado na valsa ('fulvos raios', 'circúnvagos', 'liriais') contrasta com a fala cotidiana do caboclo, representando uma variedade linguística formal e associada a maior prestígio social — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q40",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "A lavadeira começou a viver como uma serviçal que impõe respeito e não mais como escrava. Mas essa regalia súbita foi efêmera. Meus irmãos, nos frequentes deslizes que adulteravam este novo relacionamento, eram dardejados pelo olhar severo de Emilie; eles nunca suportaram de bom grado que uma índia passasse a comer na mesa da sala, usando os mesmos talheres e pratos, e comprimindo com os lábios o mesmo cristal dos copos e a mesma porcelana das xícaras de café. Uma espécie de asco e repulsa tingia-lhes o rosto, já não comiam com a mesma saciedade e recusavam-se a elogiar os pastéis de picadinho de carneiro [...] Aquela mulher, sentada e muda, com o rosto rastreado de rugas, era capaz de tirar o sabor e o odor dos alimentos e de suprimir a voz e o gesto como se o seu silêncio ou a sua presença que era só silêncio impedisse o outro de viver.\n\nHATOUM, M. Relato de um certo Oriente. São Paulo: Cia. das Letras, 2000.\n\nAo apresentar uma situação de tensão em família, o narrador destila, nesse fragmento, uma percepção das relações humanas e sociais demarcada pelo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "predomínio dos estigmas de classe e de raça sobre a intimidade da convivência."
+      },
+      {
+        "letter": "B",
+        "text": "discurso da manutenção de uma ética doméstica contra a subversão dos valores."
+      },
+      {
+        "letter": "C",
+        "text": "desejo de superação do passado de escassez em prol do presente de abastança."
+      },
+      {
+        "letter": "D",
+        "text": "sentimento de insubordinação à autoridade representada pela matriarca da família."
+      },
+      {
+        "letter": "E",
+        "text": "rancor com a ingratidão e a hipocrisia geradas pelas mudanças nas regras da casa."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A repulsa dos irmãos ao ver a lavadeira indígena dividir a mesa e os utensílios da família revela que os preconceitos de classe social e de raça se sobrepõem à possibilidade de convivência íntima e igualitária — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q42",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Fim de semana no parque\n\nOlha o meu povo nas favelas e vai perceber\nDaqui eu vejo uma caranga do ano\nToda equipada e o tiozinho guiando\nCom seus filhos ao lado estão indo ao parque\nEufóricos brinquedos eletrônicos\nAutomaticamente eu imagino\nA molecada lá da área como é que tá\nProvavelmente correndo pra lá e pra cá\nJogando bola descalços nas ruas de terra\nÉ, brincam do jeito que dá [...]\nOlha só aquele clube, que da hora\nOlha aquela quadra, olha aquele campo, olha\nOlha quanta gente\nTem sorveteria, cinema, piscina quente\n[...]\nAqui não vejo nenhum clube poliesportivo\nPra molecada frequentar nenhum incentivo\nO investimento no lazer é muito escasso\nO centro comunitário é um fracasso\n\nRACIONAIS MCs. Racionais MCs. São Paulo: Zimbabwue, 1994 (fragmento).\n\nA letra da canção apresenta uma realidade social quanto à distribuição distinta dos espaços de lazer que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retrata a ausência de opções de lazer para a população de baixa renda, por falta de espaço adequado."
+      },
+      {
+        "letter": "B",
+        "text": "ressalta a irrelevância das opções de lazer para diferentes classes sociais, que o acessam à sua maneira."
+      },
+      {
+        "letter": "C",
+        "text": "expressa o desinteresse das classes sociais menos favorecidas economicamente pelas atividades de lazer."
+      },
+      {
+        "letter": "D",
+        "text": "implica condições desiguais de acesso ao lazer, pela falta de infraestrutura e investimentos em equipamentos."
+      },
+      {
+        "letter": "E",
+        "text": "aponta para o predomínio do lazer contemplativo, nas classes favorecidas economicamente; e do prático, nas menos favorecidas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A canção contrasta o parque bem equipado (clube, quadra, piscina) frequentado por famílias de maior renda com a falta de investimento em lazer nas favelas, evidenciando que a desigualdade de acesso decorre da ausência de infraestrutura e investimento público nessas áreas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q44",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e uns companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país,\n\nSARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.\n\nA cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revela uma incompatibilidade entre o sistema de pontuação convencional e a produção do gênero romance."
+      },
+      {
+        "letter": "B",
+        "text": "provoca uma leitura equivocada das frases interrogativas e prejudica a verossimilhança."
+      },
+      {
+        "letter": "C",
+        "text": "singulariza o estilo do autor e auxilia na representação do ambiente caótico."
+      },
+      {
+        "letter": "D",
+        "text": "representa uma exceção às regras do sistema de pontuação canônica."
+      },
+      {
+        "letter": "E",
+        "text": "colabora para a construção da identidade do narrador pouco escolarizado."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Saramago dispensa travessões, aspas e a segmentação convencional das falas, fundindo diálogo e narração num fluxo contínuo — recurso estilístico característico do autor que reforça, no plano formal, o caos e a confusão vividos pelas personagens na epidemia de cegueira — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2017-q45",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "No verão de 1954, o artista Robert Rauschenberg (n.1925) criou o termo combine para se referir a suas novas obras, que possuíam aspectos tanto da pintura como da escultura, incorporando objetos do cotidiano — como travesseiro, colcha e almofada — diretamente à superfície pintada.\n\nEm 1958, sua obra Cama (uma colcha e um travesseiro reais, manchados de tinta e presos a um suporte de madeira, pendurados na parede como um quadro) foi selecionada para uma exposição de jovens artistas em Spoleto, na Itália, mas os responsáveis pelo festival se recusaram a expô-la e a removeram para um depósito. Rauschenberg considerava sua obra 'um dos quadros mais acolhedores que já pintei, mas sempre tive medo de que alguém quisesse se enfiar nela'.\n\nDEMPSEY, A. Estilos, escolas e movimentos: guia enciclopédico da arte moderna. São Paulo: Cosac & Naify, 2003. Disponível em: www.moma.org. Acesso em: 8 jun. 2017 (adaptado).\n\nA obra de Rauschenberg chocou o público na época em que foi feita, e recebeu forte influência de um movimento artístico que se caracterizava pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dissolução das tonalidades e dos contornos, revelando uma produção rápida."
+      },
+      {
+        "letter": "B",
+        "text": "exploração insólita de elementos do cotidiano, dialogando com os ready-mades."
+      },
+      {
+        "letter": "C",
+        "text": "repetição exaustiva de elementos visuais, levando à simplificação máxima da composição."
+      },
+      {
+        "letter": "D",
+        "text": "incorporação das transformações tecnológicas, valorizando o dinamismo da vida moderna."
+      },
+      {
+        "letter": "E",
+        "text": "geometrização das formas, diluindo os detalhes sem se preocupar com a fidelidade ao real."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao incorporar objetos reais do cotidiano (travesseiro, colcha) diretamente à obra, Rauschenberg dialoga com a tradição dos ready-mades de Duchamp, que elevava objetos comuns à condição de arte, característica central de seus 'combines' — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2017 - Caderno 1 Azul (Linguagens, Códigos e suas Tecnologias)"
+    }
   }
 ]
