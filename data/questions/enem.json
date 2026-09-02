@@ -18224,5 +18224,497 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2015-q23",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 23,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "TEXTO I\n\nEm todo o país a lei de 13 de maio de 1888 libertou poucos negros em relação à população de cor. A maioria já havia conquistado a alforria antes de 1888, por meio de estratégias possíveis. No entanto, a importância histórica da lei de 1888 não pode ser mensurada apenas em termos numéricos. O impacto que a extinção da escravidão causou numa sociedade constituída a partir da legitimidade da propriedade sobre a pessoa não cabe em cifras.\n\nALBUQUERQUE, W. O jogo da dissimulação: Abolição e cidadania negra no Brasil. São Paulo: Cia. das Letras, 2009 (adaptado).\n\nTEXTO II\n\nNos anos imediatamente anteriores à Abolição, a população livre do Rio de Janeiro se tornou mais numerosa e diversificada. Os escravos, bem menos numerosos que antes, e com os africanos mais aculturados, certamente não se distinguiam muito facilmente dos libertos e dos pretos e pardos livres habitantes da cidade. Também já não é razoável presumir que uma pessoa de cor seja provavelmente cativa, pois os negros libertos e livres poderiam ser encontrados em toda parte.\n\nCHALHOUB, S. Visões da liberdade: uma história das últimas décadas da escravidão na Corte. São Paulo: Cia. das Letras, 1990 (adaptado).\n\nSobre o fim da escravidão no Brasil, o elemento destacado no Texto I que complementa os argumentos apresentados no Texto II é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "variedade das estratégias de resistência dos cativos."
+      },
+      {
+        "letter": "B",
+        "text": "controle jurídico exercido pelos proprietários."
+      },
+      {
+        "letter": "C",
+        "text": "inovação social representada pela lei."
+      },
+      {
+        "letter": "D",
+        "text": "ineficácia prática da libertação."
+      },
+      {
+        "letter": "E",
+        "text": "significado político da Abolição."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Embora o Texto II mostre que, numericamente, a Lei Áurea libertou relativamente poucos (a maioria já era livre), o Texto I completa esse argumento ao ressaltar que seu impacto real está no significado político e simbólico de romper com a legitimidade da propriedade sobre pessoas — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q24",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.\n\nMAZRUI, A. “Procurai primeiramente o reino do político...”. In: MAZRUI, A.; WONDJI, C. (Org.). História geral da África: África desde 1925. Brasília: Unesco, 2010.\n\nPara o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Comunismo / rejeição da democracia liberal."
+      },
+      {
+        "letter": "B",
+        "text": "Capitalismo / devastação do ambiente natural."
+      },
+      {
+        "letter": "C",
+        "text": "Fascismo / adoção do determinismo biológico."
+      },
+      {
+        "letter": "D",
+        "text": "Socialismo / planificação da economia nacional."
+      },
+      {
+        "letter": "E",
+        "text": "Colonialismo / imposição da missão civilizatória."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A “hegemonia ainda mais perigosa” que os africanos combateram na Segunda Guerra foi o fascismo (nazismo), cuja ideologia se baseava no determinismo biológico das raças, mais ameaçador que o próprio imperialismo colonial vigente — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q25",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.\n\nGOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).\n\nNo processo da redemocratização brasileira, os novos movimentos sociais contribuíram para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diminuir a legitimidade dos novos partidos políticos então criados."
+      },
+      {
+        "letter": "B",
+        "text": "tornar a democracia um valor social que ultrapassa os momentos eleitorais."
+      },
+      {
+        "letter": "C",
+        "text": "difundir a democracia representativa como objetivo fundamental da luta política."
+      },
+      {
+        "letter": "D",
+        "text": "ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos."
+      },
+      {
+        "letter": "E",
+        "text": "fragmentar as lutas políticas dos diversos atores sociais frente ao Estado."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao atuarem como interlocutores diretos entre população e Estado para além dos momentos eleitorais, os movimentos sociais ajudaram a consolidar uma cultura democrática que extrapola o simples ato de votar — a democracia como valor social cotidiano — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q26",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "A natureza fez os homens tão iguais, quanto às faculdades do corpo e do espírito, que, embora por vezes se encontre um homem manifestamente mais forte de corpo, ou de espírito mais vivo do que outro, mesmo assim, quando se considera tudo isto em conjunto, a diferença entre um e outro homem não é suficientemente considerável para que um deles possa com base nela reclamar algum benefício a que outro não possa igualmente aspirar.\n\nHOBBES, T. Leviatã. São Paulo: Martins Fontes, 2003.\n\nPara Hobbes, antes da constituição da sociedade civil, quando dois homens desejavam o mesmo objeto, eles",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "entravam em conflito."
+      },
+      {
+        "letter": "B",
+        "text": "recorriam aos clérigos."
+      },
+      {
+        "letter": "C",
+        "text": "consultavam os anciãos."
+      },
+      {
+        "letter": "D",
+        "text": "apelavam aos governantes."
+      },
+      {
+        "letter": "E",
+        "text": "exerciam a solidariedade."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para Hobbes, a igualdade natural entre os homens no estado de natureza gera igual esperança de alcançar os mesmos objetivos, o que leva à desconfiança mútua e, inevitavelmente, ao conflito quando dois homens desejam a mesma coisa — a “guerra de todos contra todos” — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q28",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "O que implica o sistema da pólis é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.\n\nVERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand, 1992 (adaptado).\n\nNa configuração política da democracia grega, em especial a ateniense, a ágora tinha por função",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "agregar os cidadãos em torno de reis que governavam em prol da cidade."
+      },
+      {
+        "letter": "B",
+        "text": "permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados."
+      },
+      {
+        "letter": "C",
+        "text": "constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade."
+      },
+      {
+        "letter": "D",
+        "text": "reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra."
+      },
+      {
+        "letter": "E",
+        "text": "congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A ágora era a praça pública onde os cidadãos atenienses se reuniam para debater diretamente, por meio da palavra, as questões da pólis, exercendo a democracia direta característica de Atenas — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q29",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "No final do século XX e em razão dos avanços da ciência, produziu-se um sistema presidido pelas técnicas da informação, que passaram a exercer um papel de elo entre as demais, unindo-as e assegurando ao novo sistema uma presença planetária. Um mercado que utiliza esse sistema de técnicas avançadas resulta nessa globalização perversa.\n\nSANTOS, M. Por uma outra globalização. Rio de Janeiro: Record, 2008 (adaptado).\n\nUma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações citadas no texto estão presentes, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Eliminação das vantagens locacionais e ampliação da legislação laboral."
+      },
+      {
+        "letter": "B",
+        "text": "Limitação dos fluxos logísticos e fortalecimento de associações sindicais."
+      },
+      {
+        "letter": "C",
+        "text": "Diminuição dos investimentos industriais e desvalorização dos postos qualificados."
+      },
+      {
+        "letter": "D",
+        "text": "Concentração das áreas manufatureiras e redução da jornada semanal."
+      },
+      {
+        "letter": "E",
+        "text": "Automatização dos processos fabris e aumento dos níveis de desemprego."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As técnicas avançadas de informação levaram à automatização dos processos produtivos (setor produtivo), o que, por reduzir a necessidade de mão de obra, resultou em aumento do desemprego (mundo do trabalho) — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q30",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.\n\nBIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003 (adaptado).\n\nEm relação ao processo descrito, sua ocorrência é minimizada em locais onde há",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exposição do solo."
+      },
+      {
+        "letter": "B",
+        "text": "drenagem eficiente."
+      },
+      {
+        "letter": "C",
+        "text": "rocha matriz resistente."
+      },
+      {
+        "letter": "D",
+        "text": "agricultura mecanizada."
+      },
+      {
+        "letter": "E",
+        "text": "média pluviométrica elevada."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Uma drenagem eficiente escoa rapidamente o excesso de água da chuva, evitando a saturação e o peso excessivo do solo na vertente, o que reduz o risco de deslizamentos e outros movimentos de massa — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q32",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d'água do grande sertão de Minas.\n\nVIEIRA, C. Degradação do solo causa perda de fontes de água de famílias de MG. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014.\n\nAs veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "colaboram para a formação de vegetação xerófila."
+      },
+      {
+        "letter": "B",
+        "text": "formam os leques aluviais nas planícies das bacias."
+      },
+      {
+        "letter": "C",
+        "text": "fornecem sumidouro para as águas de recarga da bacia."
+      },
+      {
+        "letter": "D",
+        "text": "contribuem para o aprofundamento dos talvegues à jusante."
+      },
+      {
+        "letter": "E",
+        "text": "constituem um sistema represador da água na chapada."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As veredas funcionam como reservatórios naturais nas chapadas do Cerrado, represando e liberando água gradualmente para os cursos d'água — a “caixa-d'água” mencionada no texto — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q33",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Tanto potencial poderia ter ficado pelo caminho, se não fosse o reforço em tecnologia que um gaúcho buscou. Há pouco mais de oito anos, ele usava o bico da botina para cavoucar a terra e descobrir o nível de umidade do solo, na tentativa de saber o momento ideal para acionar os pivôs de irrigação. Até que conheceu uma estação meteorológica que, instalada na propriedade, ajuda a determinar a quantidade de água de que a planta necessita. Assim, quando inicia um plantio, o agricultor já entra no site do sistema e cadastra a área, o pivô, a cultura, o sistema de plantio, o espaçamento entre linhas e o número de plantas, para então receber recomendações diretamente dos técnicos da universidade.\n\nCAETANO, M. O valor de cada gota. Globo Rural, n. 312, out. 2011.\n\nA implementação das tecnologias mencionadas no texto garante o avanço do processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "monitoramento da produção."
+      },
+      {
+        "letter": "B",
+        "text": "valorização do preço da terra."
+      },
+      {
+        "letter": "C",
+        "text": "correção dos fatores climáticos."
+      },
+      {
+        "letter": "D",
+        "text": "divisão de tarefas na propriedade."
+      },
+      {
+        "letter": "E",
+        "text": "estabilização da fertilidade do solo."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A estação meteorológica e o sistema de cadastro e recomendação permitem ao agricultor acompanhar continuamente as condições da lavoura (umidade, irrigação, cultura, espaçamento), caracterizando um avanço no monitoramento da produção — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q34",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: Tudo é um.\n\nNIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural, 1999.\n\nO que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais."
+      },
+      {
+        "letter": "B",
+        "text": "O desejo de explicar, usando metáforas, a origem dos seres e das coisas."
+      },
+      {
+        "letter": "C",
+        "text": "A necessidade de buscar, de forma racional, a causa primeira das coisas existentes."
+      },
+      {
+        "letter": "D",
+        "text": "A ambição de expor, de maneira metódica, as diferenças entre as coisas."
+      },
+      {
+        "letter": "E",
+        "text": "A tentativa de justificar, a partir de elementos empíricos, o que existe no real."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Nietzsche valoriza a tese de Tales não pela imagem poética (“sem fabulação”), mas por buscar racionalmente a origem (causa primeira) de todas as coisas e por conter a ideia unificadora de que “tudo é um” — o nascimento do pensamento filosófico racional — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q35",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Quanto ao “choque de civilizações”, é bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganistão: ela escreveu que — embora amasse muito seu pai — estava pronta a deixá-lo morrer, a sacrificá-lo por seu país. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifestação “normal” de patriotismo americano; vamos conduzir uma experiência mental simples e imaginar uma menina árabe maometana pateticamente lendo para as câmeras as mesmas palavras a respeito do pai que lutava pelo Talibã — não é necessário pensar muito sobre qual teria sido a nossa reação.\n\nZIZEK, S. Bem-vindo ao deserto do real. São Paulo: Bom Tempo, 2003.\n\nA situação imaginária proposta pelo autor explicita o desafio cultural do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "prática da diplomacia."
+      },
+      {
+        "letter": "B",
+        "text": "exercício da alteridade."
+      },
+      {
+        "letter": "C",
+        "text": "expansão da democracia."
+      },
+      {
+        "letter": "D",
+        "text": "universalização do progresso."
+      },
+      {
+        "letter": "E",
+        "text": "conquista da autodeterminação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao inverter a situação (uma menina árabe no lugar da americana), Zizek expõe o quanto julgamos as mesmas palavras de forma diferente dependendo de quem as diz: um convite ao exercício da alteridade, isto é, colocar-se no lugar do outro sem duplo padrão cultural — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2015-q37",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "No início foram as cidades. O intelectual da Idade Média — no Ocidente — nasceu com elas. Foi com o desenvolvimento urbano ligado às funções comercial e industrial — digamos modestamente artesanal — que ele apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual — esse homem só aparecerá com as cidades.\n\nLE GOFF, J. Os intelectuais na Idade Média. Rio de Janeiro: José Olympio, 2010.\n\nO surgimento da categoria mencionada no período em destaque no texto evidencia o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apoio dado pela Igreja ao trabalho abstrato."
+      },
+      {
+        "letter": "B",
+        "text": "relação entre desenvolvimento urbano e divisão do trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "importância organizacional das corporações de ofício."
+      },
+      {
+        "letter": "D",
+        "text": "progressiva expansão da educação escolar."
+      },
+      {
+        "letter": "E",
+        "text": "acúmulo de trabalho dos professores e eruditos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Le Goff associa diretamente o surgimento da figura do intelectual medieval ao renascimento urbano e à consequente divisão do trabalho nas cidades, que abriu espaço para ofícios especializados como o de escrever e ensinar — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
