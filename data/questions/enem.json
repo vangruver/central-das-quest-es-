@@ -15502,6 +15502,129 @@
     }
   },
   {
+    "id": "enem-2018-q02",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Which skin colour are you? The human swatch chart that confronts racism\n\nIn 1933, in a book called The Masters and the Slaves, the Brazilian anthropologist Gilberto Freyre wrote: \"Every Brazilian, even the light-skinned, fair-haired one, carries about him on his soul, when not on soul and body alike, the shadow, or at least the birthmark, of the aborigine or the negro.\" This was forefront in the mind of the French artist Pierre David when he moved to Brazil in 2009. \"When I was in the streets, I could see so many skin colours\", he says. He decided to make a human colour chart, like one you would find in the paint section of a shop, but showing the gradations and shades of our skin colour. The project, called Nuancier or \"swatches\", was first shown at the Museu de Arte Moderna in Salvador — Bahia, and is now on show in his native France. \"Brazil has a better attitude to skin colour than other developed nations\", he says... Yet Nuancier, David says, is still a critique of racism, in Brazil and around the world. \"This work may seem provocative — to classify men by colour, to industrially produce the colour of an individual so it can be store-bought. But this is a demonstration of the commodification of bodies. It denounces racism anywhere it is found in the world.\"\n\nSEYMOUR, T. Disponível em: www.theguardian.com. Acesso em: 21 out. 2015 (adaptado).\n\nO artista francês Pierre David, ao evidenciar seu encantamento com a diversidade de cores de peles no Brasil, no projeto Nuancier, também",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desencadeia um estudo sobre a atitude dos brasileiros com base na análise de características raciais."
+      },
+      {
+        "letter": "B",
+        "text": "denuncia a discriminação social gerada com a distinção de cores na população de Salvador."
+      },
+      {
+        "letter": "C",
+        "text": "destaca a mistura racial como elemento-chave no impedimento para a ascensão social."
+      },
+      {
+        "letter": "D",
+        "text": "provoca uma reflexão crítica em relação à classificação e à mercantilização das raças."
+      },
+      {
+        "letter": "E",
+        "text": "elabora um produto com base na variedade de cores de pele para uso comercial."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O artista afirma explicitamente que sua obra é uma crítica ao racismo e denuncia a mercantilização dos corpos ('commodification of bodies'), ao mesmo tempo em que provoca reflexão sobre classificar pessoas por cor — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q03",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Monks embrace web to reach recruits\n\nThe Benedictine monks at the Portsmouth Abbey in Portsmouth have a problem. They are aging and their numbers have fallen to 12, from a peak of about 24 in 1969. So the monks have taken to the Internet with an elaborate ad campaign featuring videos, a blog and even a Gregorian chant ringtone. \"If this is the way the younger generation are looking things up and are communicating, then this is the place to be\", said Abbot Caedmon Holmes, who has been in charge of the abbey since 2007. That place is far from the solitary lives that some may think monks live. In fact, in this age of social media, the monks have embraced what may be the most popular form of public self-expression: a Facebook page, where they have uploaded photos and video testimonials. Some monks will even write blogs.\n\nMILNE, S. Disponível em: www.nytimes.com. Acesso em: 19 jun. 2012 (adaptado).\n\nA internet costuma ser um veículo de comunicação associado às camadas mais jovens da população, embora não exclusivamente a elas. Segundo o texto, a razão que levou os religiosos a fazerem uma campanha publicitária na internet foi o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "busca por novos interessados pela vida religiosa de monge."
+      },
+      {
+        "letter": "B",
+        "text": "baixo custo e a facilidade de acesso dos monges à rede."
+      },
+      {
+        "letter": "C",
+        "text": "desejo de diminuir a solidão vivida pelos monges na abadia."
+      },
+      {
+        "letter": "D",
+        "text": "necessidade dos monges de se expressarem publicamente."
+      },
+      {
+        "letter": "E",
+        "text": "divulgação de fotos pessoais dos monges no Facebook."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto indica que o número de monges caiu de 24 para 12, e a campanha na internet busca alcançar 'a younger generation' que usa a rede para buscar informações — ou seja, atrair novos interessados pela vida monástica — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q05",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Most people today have a mobile phone. In fact, many people can't imagine how they ever got along without a portable phone. However, many people also complain about cell phone users. People complain about other people loudly discussing personal matters in public places. They complain when cell phones ring in movie theaters and concert halls. They complain about people driving too slow, and not paying attention to where they are going because they are talking on a cell phone. And they complain about people walking around talking to people who aren't there. Whenever a new communications technology becomes popular, it changes the way society is organized. Society has to invent rules for the polite way to use the new devices. Our social etiquette, our rules of politeness for cell phones, is still evolving.\n\nDisponível em: www.indianchild.com. Acesso em: 28 fev. 2012 (adaptado).\n\nO uso de celulares em lugares públicos tem sido prática corrente. O texto aponta que essa prática tem gerado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anseios por recursos para ampliar os benefícios dos dispositivos."
+      },
+      {
+        "letter": "B",
+        "text": "reclamações sobre a falta de normas no comportamento dos usuários."
+      },
+      {
+        "letter": "C",
+        "text": "questionamentos a respeito da dependência constante dessa tecnologia."
+      },
+      {
+        "letter": "D",
+        "text": "discussões acerca da legislação para a comercialização de telefones."
+      },
+      {
+        "letter": "E",
+        "text": "dúvidas dos usuários em relação ao manuseio de novos aparelhos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto lista uma série de reclamações sobre o comportamento de usuários de celular em público e conclui que a etiqueta social (regras de boa conduta) ainda está evoluindo — ou seja, a prática gerou reclamações sobre a falta de normas de comportamento — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q06",
     "exam": "enem",
     "year": 2018,
@@ -15584,6 +15707,416 @@
     }
   },
   {
+    "id": "enem-2018-q08",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Deserto de sal\n\nO silêncio ajuda a compor a trilha que se ouve na caminhada pelo Salar de Atacama. Com 100 quilômetros de extensão, o Salar de Atacama é o terceiro maior deserto de sal do mundo. De acordo com estudo publicado pela Universidade do Chile, o Salar de Atacama é uma depressão de 3 500 quilômetros quadrados entre a Cordilheira dos Andes e a Cordilheira de Domeiko. Sua origem está no movimento das placas tectônicas. Mais tarde, a água evaporou-se e, desta forma, surgiram os desertos de sal do Atacama. Além da crosta de sal que recobre a superfície, há lagoas formadas pelo degelo de neve acumulada nas montanhas.\n\nFORNER, V. Terra da Gente, n. 96, abr. 2012.\n\nOs gêneros textuais são textos materializados que circulam socialmente. O texto \"Deserto de sal\" foi veiculado em uma revista de circulação mensal. Pelas estratégias linguísticas exploradas, conclui-se que o fragmento apresentado pertence ao gênero",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "relato, pela apresentação de acontecimentos ocorridos durante uma viagem ao Salar de Atacama."
+      },
+      {
+        "letter": "B",
+        "text": "verbete, pela apresentação de uma definição e de exemplos sobre o termo Salar de Atacama."
+      },
+      {
+        "letter": "C",
+        "text": "artigo de opinião, pela apresentação de uma tese e de argumentos sobre o Salar de Atacama."
+      },
+      {
+        "letter": "D",
+        "text": "reportagem, pela apresentação de informações e de dados sobre o Salar de Atacama."
+      },
+      {
+        "letter": "E",
+        "text": "resenha, pela apresentação, descrição e avaliação do Salar de Atacama."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto apresenta dados geográficos e científicos (extensão, área, origem geológica) do Salar de Atacama, veiculado em revista mensal, características típicas do gênero reportagem — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q09",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "\"bom... o... eu tenho impressão que o rádio provocou uma revolução... no país na medida que:... ahn principalmente o rádio de pilha né? quer dizer o rádio de pilha representou a quebra de um isolamento do homem do campo principalmente quer dizer então o homem do campo que nunca teria condição de ouvir... falar... de outras coisas... de outros lugares... de outras pessoas, entende? através do rádio de pilha... ele pôde se ligar ao resto do mundo saber que existem outros lugares outras pessoas, que existe um governo, que existem atos do governo... de modo que... o rádio, eu acho que tem um papel até... numa certa medida... ele provocou pelo alcance que tem uma revolução até maior do que a televisão... o que significou a quebra do isolamento... entende? de certas pessoas... a gente vê hoje o operário de obra com o rádio de pilha debaixo do braço durante todo o tempo que ele está trabalhando... quer dizer... se esse canal que é o rádio fosse usado da mesma forma como eu mencionei a televisão... num sentido cultural educativo de boas músicas e de... numa linha realmente de crescimento do homem [...] Esses veículos... de telecomunicações se colocassem a serviço da cultura e da educação seria uma beleza, né?\"\n\nCASTILHO, A. T.; PRETTI, D. (Org.). A linguagem falada na cidade de São Paulo: materiais para seu estudo. São Paulo: T. A. Queiroz; Fapesp, 1987.\n\nA palavra comunicação origina-se do latim communicare e significa \"tornar comum\", \"repartir\". Nessa transcrição de entrevista, reafirma-se esse papel dos meios de comunicação de massa porque o rádio poderia",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oferecer diversão para as massas, possibilitando um melhor ambiente de trabalho."
+      },
+      {
+        "letter": "B",
+        "text": "atender as demandas de mercado, servindo de instrumento à indústria do consumo."
+      },
+      {
+        "letter": "C",
+        "text": "difundir uma cultura homogênea, abolindo as marcas identitárias de toda uma coletividade."
+      },
+      {
+        "letter": "D",
+        "text": "trazer oportunidades de aprimoramento intelectual, permitindo ao homem o acesso a informações e a bens culturais."
+      },
+      {
+        "letter": "E",
+        "text": "inserir o indivíduo em sua classe social, fornecendo entretenimento de pouco aprofundamento crítico."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O entrevistado defende que o rádio quebrou o isolamento do homem do campo, dando acesso a informações, notícias e, potencialmente, a 'boas músicas' e conteúdo educativo/cultural — trazendo oportunidades de aprimoramento intelectual — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q10",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Quantos há que os telhados têm vidrosos\nE deixam de atirar sua pedrada,\nDe sua mesma telha receiosos.\n\nAdeus, praia, adeus, ribeira,\nDe regatões tabaquista,\nQue vende gato por lebre\nQuerendo enganar a vista.\n\nNenhum modo de desculpa\nTendes, que valer-vos possa:\nQue se o cão entra na igreja,\nÉ porque acha aberta a porta.\n\nGUERRA, G. M. In: LIMA, R. T. Abecê de folclore. São Paulo: Martins Fontes, 2003 (fragmento).\n\nAo organizar as informações, no processo de construção do texto, o autor estabelece sua intenção comunicativa. Nesse poema, Gregório de Matos explora os ditados populares com o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enumerar atitudes."
+      },
+      {
+        "letter": "B",
+        "text": "descrever costumes."
+      },
+      {
+        "letter": "C",
+        "text": "demonstrar sabedoria."
+      },
+      {
+        "letter": "D",
+        "text": "recomendar precaução."
+      },
+      {
+        "letter": "E",
+        "text": "criticar comportamentos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Gregório de Matos, poeta satírico do Barroco brasileiro, usa os ditados populares (hipocrisia de quem tem 'telhado de vidro', enganação do vendedor, falta de desculpa cabível) para criticar comportamentos humanos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q11",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Uma língua, múltiplos falares\n\nDesde suas origens, o Brasil tem uma língua dividida em falares diversos. Mesmo antes da chegada dos portugueses, o território brasileiro já era multilíngue. Havia cerca de 1,2 mil línguas faladas pelos povos indígenas. O português trazido pelo colonizador tampouco era uma língua homogênea, havia variações dependendo da região de Portugal de onde ele vinha. Há de se considerar também que a chegada de falantes de português acontece em diferentes etapas, em momentos históricos específicos. Na cidade de São Paulo, por exemplo, temos primeiramente o encontro linguístico de portugueses com índios e, além dos negros da África, vieram italianos, japoneses, alemães, árabes, todos com suas línguas. \"Todo este processo vai produzindo diversidades linguísticas que caracterizam falares diferentes\", afirma um linguista da Unicamp. Daí que na mesma São Paulo pode-se encontrar modos de falar distintos como o de Adoniran Barbosa, que eternizou em suas composições o sotaque típico de um filho de imigrantes italianos, ou o chamado erre retroflexo, aquele erre dobrado que, junto com a letra i, resulta naquele jeito de falar \"cairne\" e \"poirta\" característico do interior de São Paulo.\n\nMARIUZZO, P. Disponível em: www.labjor.unicamp.br. Acesso em: 30 jul. 2012 (adaptado).\n\nA partir desse breve histórico da língua portuguesa no Brasil, um dos elementos de identidade nacional, entende-se que a diversidade linguística é resultado da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imposição da língua do colonizador sobre as línguas indígenas."
+      },
+      {
+        "letter": "B",
+        "text": "interação entre os falantes de línguas e culturas diferentes."
+      },
+      {
+        "letter": "C",
+        "text": "sobreposição das línguas europeias sobre as africanas e indígenas."
+      },
+      {
+        "letter": "D",
+        "text": "heterogeneidade da língua trazida pelo colonizador."
+      },
+      {
+        "letter": "E",
+        "text": "preservação dos sotaques característicos dos imigrantes."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto explica que a diversidade de falares em São Paulo (e no Brasil) resulta do encontro entre línguas e culturas de diferentes povos (indígenas, portugueses, africanos, italianos, japoneses etc.) — interação entre falantes de línguas e culturas diferentes — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q12",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Para que serve a tecnologia\n\nTrês depoimentos:\n\n\"Computador\" — \"Com os computadores e a internet, mudei muito. A Lian de hoje é totalmente diferente daquela de antes da informática. Me abriu portas e, além de tudo, fui aceita por pessoas que achava que não iriam me aceitar. Com a internet, viajei o mundo. Fui até Portugal e à África. Eu nem sabia que lá a realidade era tão forte. Perto deles, estamos até muito bem.\" — Tânia \"Lian\" Silva, 26, índia pankararu.\n\n\"TV\" — \"Eu gosto muito de televisão. Assisto às novelas, me divirto muito. Mas, ao mesmo tempo, sei que aquilo tudo que passa lá não é verdade. É tudo uma ilusão.\" — Valentina Maria Vieira dos Santos, 89, índia fulni-ô da aldeia Xixi a cla.\n\n\"MP3 Player\" — \"Cuido do meu tocador de MP3 como se fosse um tesouro. É um pen drive simples, mas é muito especial para mim. Nele ouço músicas indígenas e bandas da própria aldeia. Ele vive emprestado porque acaba sendo a diversão da aldeia inteira. Uso até para exibir uns vídeos que baixo da internet. Basta colocar no aparelho de DVD com entrada USB que tenho.\" — Jailton Pankararu, 23, índio pankararu.\n\nDisponível em: www2.uol.com.br. Acesso em: 1 ago. 2012.\n\nOs depoimentos apresentados no texto retratam o modo como diferentes gerações indígenas relatam suas experiências com os artefatos tecnológicos. Os comentários revelam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uma preferência pela possibilidade de uso do computador."
+      },
+      {
+        "letter": "B",
+        "text": "um elogio à utilidade da tecnologia no cotidiano indígena."
+      },
+      {
+        "letter": "C",
+        "text": "uma crítica à própria identidade antes da inclusão digital."
+      },
+      {
+        "letter": "D",
+        "text": "o gosto pela ilusão em telenovelas transmitidas na TV."
+      },
+      {
+        "letter": "E",
+        "text": "o desejo de possuir um aparelho importado."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os três depoimentos, de gerações diferentes, destacam de forma positiva o uso de computador, TV e MP3 player no cotidiano indígena (acesso ao mundo, entretenimento, compartilhamento de música) — um elogio à utilidade da tecnologia — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q14",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Os sinônimos da tiara\n\nO tradicional ornato para cabelos, a tiara ou diadema, já foi uma exclusividade feminina. Na origem, tanto \"tiara\" quanto \"diadema\" eram palavras de bom berço. \"Tiara\" nomeava o adorno que era o signo de poder entre os poderosos da Pérsia antiga e povos como os frísios, os bizantinos e os etíopes. A palavra foi incorporada do Oriente pela Grécia e chegou até nós por via latina, para quem queria referir-se à mitra usada pelos persas. Diadema era a faixa ou tira de linho fino colocado na cabeça pelos antigos latinos, herança do derivado grego para diádo (atar em volta, segundo o Houaiss). No Brasil, a forma de arco ou de laço das tiaras e alguns usos específicos (o nordestino \"gigolete\" faz alusão ao ornato usado por cafetinas, versões femininas do \"gigolô\") produziram novos sinônimos regionais do objeto.\n\nOs sinônimos da tiara. Língua Portuguesa, n. 23, 2007 (adaptado).\n\nNo texto, relata-se que o nome de um enfeite para cabelo assumiu diferentes denominações ao longo da história. Essa variação justifica-se pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "distanciamento de sentidos mais antigos."
+      },
+      {
+        "letter": "B",
+        "text": "registro de fatos históricos ocorridos em uma dada época."
+      },
+      {
+        "letter": "C",
+        "text": "associação a questões religiosas específicas de uma sociedade."
+      },
+      {
+        "letter": "D",
+        "text": "tempo de uso em uma comunidade linguística."
+      },
+      {
+        "letter": "E",
+        "text": "utilização do objeto por um grupo social."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os diferentes nomes do adorno (tiara, diadema, gigolete etc.) surgem conforme o grupo social que o utiliza e o contexto de uso (poder persa, cafetinas nordestinas) — a variação é motivada pela utilização do objeto por um grupo social específico — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q15",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 15,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Glossário diferenciado\n\nOutro dia vi um anúncio de alguma coisa que não lembro o que era (como vocês podem deduzir, o anúncio era péssimo). Lembro apenas que o produto era diferenciado, funcional e sustentável. Pensando nisso, fiz um glossário de termos diferenciados e suas respectivas funcionalidades.\n\n\"Diferenciado\": um adjetivo que define um substantivo mas também o sujeito que o está usando. Quem fala \"diferenciado\" poderia falar \"diferente\". Mas escolheu uma palavra diferenciada. Porque ele quer mostrar que ele próprio é \"diferenciado\". Essa é a função da palavra \"diferenciado\": diferenciar-se. Por diferençado, entenda: \"mais caro\". Estudos indicam que a palavra \"diferenciado\" representa um aumento de 50% no valor do produto. É uma palavra que faz a diferença.\n\nDUVIVIER, G. Disponível em: www1.folha.uol.com.br. Acesso em: 17 nov. 2014 (adaptado).\n\nOs gêneros são definidos, entre outros fatores, por sua função social. Nesse texto, um verbete foi criado pelo autor para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atribuir novo sentido a uma palavra."
+      },
+      {
+        "letter": "B",
+        "text": "apresentar as características de um produto."
+      },
+      {
+        "letter": "C",
+        "text": "mostrar um posicionamento crítico."
+      },
+      {
+        "letter": "D",
+        "text": "registrar o surgimento de um novo termo."
+      },
+      {
+        "letter": "E",
+        "text": "contar um fato do cotidiano."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao criar um 'verbete' irônico para a palavra 'diferenciado', o cronista satiriza o uso publicitário vazio do termo — o texto tem função de crítica humorística, não de registro lexicográfico sério — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q16",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "AMARAL, T. EFCB (Estrada de Ferro Central do Brasil). Óleo sobre tela, 56 cm x 65 cm, 1924. Disponível em: www.wikiart.org. Acesso em: 11 fev. 2015. (A pintura modernista de Tarsila do Amaral representa, em cores vivas e formas geométricas simplificadas, elementos ferroviários — trilhos, postes, vagões e construções industriais — sobrepostos numa composição que remete à paisagem urbano-industrial brasileira em transformação.)\n\nUma das funções da obra de arte é representar o contexto sociocultural ao qual ela pertence. Produzida na primeira metade do século XX, a \"Estrada de Ferro Central do Brasil\" evidencia o processo de modernização pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "verticalização do espaço."
+      },
+      {
+        "letter": "B",
+        "text": "desconstrução da forma."
+      },
+      {
+        "letter": "C",
+        "text": "sobreposição de elementos."
+      },
+      {
+        "letter": "D",
+        "text": "valorização da natureza."
+      },
+      {
+        "letter": "E",
+        "text": "abstração do tema."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A composição modernista de Tarsila do Amaral justapõe e sobrepõe elementos industriais e urbanos (trilhos, postes, construções) numa mesma cena, traduzindo visualmente a simultaneidade e a densidade da modernização — sobreposição de elementos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q17",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "\"E fui mostrar ao ilustre hóspede [o governador do Estado] a serraria, o descaroçador e o estábulo. Expliquei em resumo a prensa, o dínamo, as serras e o banheiro carrapaticida. De repente supus que a escola poderia trazer a benevolência do governador para certos favores que eu tencionava solicitar. — Pois sim senhor. Quando V. Exª. vier aqui outra vez, encontrará essa gente aprendendo cartilha.\"\n\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 1991.\n\nO fragmento do romance de Graciliano Ramos dialoga com o contexto da Primeira República no Brasil, ao focalizar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "derrocada de práticas clientelistas."
+      },
+      {
+        "letter": "B",
+        "text": "declínio do antigo atraso socioeconômico."
+      },
+      {
+        "letter": "C",
+        "text": "liberalismo desapartado de favores do Estado."
+      },
+      {
+        "letter": "D",
+        "text": "fortalecimento de políticas públicas educacionais."
+      },
+      {
+        "letter": "E",
+        "text": "aliança entre a elite agrária e os dirigentes políticos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Paulo Honório, o narrador-fazendeiro, exibe sua propriedade ao governador visando obter favores políticos — cena que retrata a aliança entre a elite agrária (fazendeiros) e os dirigentes políticos, típica da Primeira República (política dos coronéis) — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q18",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Não há dúvidas de que, nos últimos tempos, em função da velocidade, do volume e da variedade da geração de informações, questões referentes à disseminação, ao armazenamento e ao acesso de dados têm se tornado complexas, de modo a desafiar homens e máquinas. Por meio de sistemas financeiros, de transporte, de segurança e de comunicação interpessoal — representados pelos mais variados dispositivos, de cartões de crédito a trens, aviões, passaportes e telefones celulares —, circulam fluxos informacionais que carregam o DNA da vida cotidiana do indivíduo contemporâneo. Para além do referido cenário informacional contemporâneo, percebe-se, nos contextos governamentais, um esforço — gerado por leis e decretos, ou mesmo por pressões democráticas — em disseminar informações de interesse público. No Brasil, está em vigor, desde maio de 2012, a Lei de Acesso à Informação n. 12.527. Em linhas gerais, a legislação regulamenta o direito à informação, já garantido na Constituição Federal, obrigando órgãos públicos a divulgarem os seus dados.\n\nSILVA JR., M. G. Vigiar, punir e viver. Minas faz Ciência, n. 58, 2014 (adaptado).\n\nAs Tecnologias de Informação e Comunicação propiciam à sociedade contemporânea o acesso à grande quantidade de dados públicos e privados. De acordo com o texto, essa nova realidade promove",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "questionamento sobre a privacidade."
+      },
+      {
+        "letter": "B",
+        "text": "mecanismos de vigilância de pessoas."
+      },
+      {
+        "letter": "C",
+        "text": "disseminação de informações individuais."
+      },
+      {
+        "letter": "D",
+        "text": "interferência da legislação no uso dos dados."
+      },
+      {
+        "letter": "E",
+        "text": "transparência na relação entre governo e cidadãos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto destaca que a Lei de Acesso à Informação obriga órgãos públicos a divulgarem seus dados de interesse público, promovendo maior transparência na relação entre governo e cidadãos — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q19",
     "exam": "enem",
     "year": 2018,
@@ -15622,6 +16155,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q20",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "\"Qualquer que tivesse sido o seu trabalho anterior, ele o abandonara, mudara de profissão e passara pesadamente a ensinar no curso primário: era tudo o que sabíamos dele. O professor era gordo, grande e silencioso, de ombros contraídos. Em vez de nó na garganta, tinha ombros contraídos. Usava paletó curto demais, óculos sem aro, com um fio de ouro encimando o nariz grosso e romano. E eu era atraída por ele. Não amor, mas atraída pelo seu silêncio e pela controlada impaciência que ele tinha em nos ensinar e que, ofendida, eu adivinhara. Passei a me comportar mal na sala. Falava muito alto, mexia com os colegas, interrompia a lição com piadinhas, até que ele dizia, vermelho: — Cale-se ou expulso a senhora da sala. Ferida, triunfante, eu respondia em desafio: pode me mandar! Ele não mandava, senão estaria me obedecendo. Mas eu o exasperava tanto que se tornara doloroso para mim ser objeto do ódio daquele homem que de certo modo eu amava.\"\n\nLISPECTOR, C. Os desastres de Sofia. In: A legião estrangeira. São Paulo: Ática, 1997.\n\nEntre os elementos constitutivos dos gêneros está a sua própria estrutura composicional, que pode apresentar um ou mais tipos textuais, considerando-se o objetivo do autor. Nesse fragmento, a sequência textual que caracteriza o gênero conto é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expositiva, em que se apresentam as razões da atitude provocativa da aluna."
+      },
+      {
+        "letter": "B",
+        "text": "injuntiva, em que se busca demonstrar uma ordem dada pelo professor à aluna."
+      },
+      {
+        "letter": "C",
+        "text": "descritiva, em que se constrói a imagem do professor com base nos sentidos da narradora."
+      },
+      {
+        "letter": "D",
+        "text": "argumentativa, em que se defende a opinião da enunciadora sobre o personagem-professor."
+      },
+      {
+        "letter": "E",
+        "text": "narrativa, em que se contam fatos ocorridos com o professor e a aluna em certo tempo e lugar."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O fragmento narra uma sucessão de fatos e ações (a aluna se comporta mal, o professor a ameaça, ela desafia) que se desenrolam no tempo — sequência textual narrativa, típica do gênero conto — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -15748,6 +16322,88 @@
     }
   },
   {
+    "id": "enem-2018-q24",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Ocorre que a grande obra nunca é apenas a tradução do engenho e arte do seu autor, seja este escritor, filósofo, cientista, pintor, músico, arquiteto, escultor, cineasta. Em geral, a grande obra é também, ou mesmo principalmente, a expressão do clima sociocultural, intelectual, científico, filosófico e artístico da época, conforme se expressa em alguma coletividade, grupo social, etnia, gênero ou povo.\n\nIANNI, O. Variações sobre arte e ciência. Tempo Social, n. 1, jun. 2004.\n\nO fragmento define o que é uma grande obra de arte. Como estratégia de construção do texto, o autor faz uso recorrente de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enumerações para sustentar o ponto de vista apresentado."
+      },
+      {
+        "letter": "B",
+        "text": "repetições para retificar as características do objeto descrito."
+      },
+      {
+        "letter": "C",
+        "text": "generalizações para sintetizar as ideias expostas."
+      },
+      {
+        "letter": "D",
+        "text": "adjetivações para descrever a obra caracterizada."
+      },
+      {
+        "letter": "E",
+        "text": "sinonímias para retomar as características da atividade autoral."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O autor enumera repetidamente listas (escritor, filósofo, cientista, pintor, músico, arquiteto, escultor, cineasta; sociocultural, intelectual, científico, filosófico e artístico; coletividade, grupo social, etnia, gênero ou povo) para sustentar sua tese — enumerações — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q25",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Cores do Brasil\n\nGanhou nova versão, revista e ampliada, o livro lançado em 1988 pelo galerista Jacques Ardies, cuja proposta é ser publicação informativa sobre nomes do \"movimento arte naïf do Brasil\", como define o autor. Trata-se de um caminho estético fundamental na arte brasileira, assegura Ardies. O termo em francês foi adotado por designar internacionalmente a produção que no Brasil é chamada de arte popular ou primitivismo, esclarece Ardies. O organizador do livro explica que a obra não tem a pretensão de ser um dicionário. \"Falta muita gente. São muitos artistas\", observa. A nova edição veio da vontade de atualizar informações publicadas há 26 anos. Ela incluiu artistas em atividade atualmente e veteranos que ficaram de fora do primeiro livro. A arte naïf no Brasil 2 traz 79 autores de várias regiões do Brasil.\n\nWALTER SEBASTIÃO. Estado de Minas, 17 jan. 2015 (adaptado).\n\nO fragmento do texto jornalístico aborda o lançamento de um livro sobre arte naïf no Brasil. Na organização desse trecho predomina o uso da sequência",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "injuntiva, sugerida pelo destaque dado à fala do organizador do livro."
+      },
+      {
+        "letter": "B",
+        "text": "argumentativa, caracterizada pelo uso de adjetivos sobre o livro."
+      },
+      {
+        "letter": "C",
+        "text": "narrativa, construída pelo uso de discurso direto e indireto."
+      },
+      {
+        "letter": "D",
+        "text": "descritiva, formada com base em dados editoriais da obra."
+      },
+      {
+        "letter": "E",
+        "text": "expositiva, composta por informações sobre a arte naïf."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto jornalístico apresenta informações objetivas sobre o livro e o movimento arte naïf (autor, ano, número de artistas, propósito) — uma sequência expositiva — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q26",
     "exam": "enem",
     "year": 2018,
@@ -15786,6 +16442,129 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q27",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "KIM, L. Cry me a river. Instalação com camisas de força, pia, baldes, torneira, espelho, lâmpada, 2001.\n\nCANTON, K. As nuances da cidade. Bravo!, n. 54, mar. 2002.\n\nA obra reproduz a instalação da artista paulista Lina Kim, apresentada na 25ª Bienal de São Paulo em março de 2002, composta por camisas de força (símbolo de contenção da loucura/irracionalidade), pia, baldes, torneira, espelho e lâmpada dispostos em um ambiente que remete a um espaço de higienização ou tratamento. Nessa obra, a artista se utiliza de elementos dispostos num determinado ambiente para propor que o observador reconheça o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recusa à representação dos problemas sociais."
+      },
+      {
+        "letter": "B",
+        "text": "questionamento do que seja razão."
+      },
+      {
+        "letter": "C",
+        "text": "esgotamento das estéticas recentes."
+      },
+      {
+        "letter": "D",
+        "text": "processo de racionalização inerente à arte contemporânea."
+      },
+      {
+        "letter": "E",
+        "text": "ruptura estética com movimentos passados."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A presença de camisas de força — símbolo clássico da contenção da loucura em nome da razão — associada a elementos de higienização (pia, torneira) sugere uma reflexão sobre os limites entre razão e loucura, propondo ao espectador um questionamento do que seja razão — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q28",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Para os chineses da dinastia Ming, talvez as favelas cariocas fossem lugares nobres e seguros: acreditava-se por lá, assim como em boa parte do Oriente, que os espíritos malévolos só viajam em linha reta. Em vielas sinuosas, portanto, estaríamos livres de assombrações malditas. Qualidades sobrenaturais não são as únicas razões para considerarmos as favelas um modelo urbano viável, merecedor de investimentos infraestruturais em escala maciça. Lugares com conhecidos e sérios problemas, elas podem ser também solução para uma série de desafios das cidades hoje. Contanto que não sejam encaradas com olhar pitoresco ou preconceituoso. As favelas são, afinal, produto direto do urbanismo moderno e sua história se confunde com a formação do Brasil.\n\nCARVALHO, B. A favela e sua hora. Piauí, n. 67, abr. 2012.\n\nOs enunciados que compõem os textos encadeiam-se por meio de elementos linguísticos que contribuem para construir diferentes relações de sentido. No trecho \"Em vielas sinuosas, portanto, estaríamos livres de assombrações malditas\", o conector \"portanto\" estabelece a mesma relação semântica que ocorre em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "\"[...] talvez as favelas cariocas fossem lugares nobres e seguros [...].\""
+      },
+      {
+        "letter": "B",
+        "text": "\"[...] acreditava-se por lá, assim como em boa parte do Oriente [...].\""
+      },
+      {
+        "letter": "C",
+        "text": "\"[...] elas podem ser também solução para uma série de desafios das cidades hoje.\""
+      },
+      {
+        "letter": "D",
+        "text": "\"Contanto que não sejam encaradas com olhar pitoresco ou preconceituoso.\""
+      },
+      {
+        "letter": "E",
+        "text": "\"As favelas são, afinal, produto direto do urbanismo moderno [...].\""
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O conector 'portanto' indica relação de conclusão/consequência lógica. A expressão 'afinal', na última alternativa, também introduz uma conclusão decorrente do raciocínio anterior — mesma relação semântica — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q29",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "TEXTO I\n\nERNESTO NETO. Dancing on the Cutting Edge. Instalação interativa, 2004. (Disponível em: http://dailyserving.com. Acesso em: 29 nov. 2013.) — obra composta por estruturas maleáveis suspensas, convidando o público a tocar, entrar e interagir fisicamente com a instalação.\n\nTEXTO II\n\nOs artistas, liberados do peso da história, ficavam livres para fazer arte da maneira que desejassem ou mesmo sem nenhuma finalidade. Essa é a marca da arte contemporânea, e não é para menos que, em contraste com o Modernismo, não existe essa coisa de estilo contemporâneo.\n\nDANTO, A. Após o fim da arte: a arte contemporânea e os limites da história. São Paulo: Odysseus, 2006.\n\nA obra de Ernesto Neto revela a liberdade de criação abordada no texto ao",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "destacar o papel da arte na valorização da sustentabilidade."
+      },
+      {
+        "letter": "B",
+        "text": "romper com a estrutura dos referenciais estéticos contemporâneos."
+      },
+      {
+        "letter": "C",
+        "text": "envolver o espectador ao promover sua interação com a obra."
+      },
+      {
+        "letter": "D",
+        "text": "reproduzir no espaço da galeria um fragmento da realidade."
+      },
+      {
+        "letter": "E",
+        "text": "utilizar a linearidade de estilos artísticos anteriores."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Sendo uma 'instalação interativa', a obra de Ernesto Neto convida o espectador a tocar e interagir fisicamente com ela, exemplificando a liberdade formal da arte contemporânea ao envolver o público na própria experiência estética — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -15830,6 +16609,375 @@
     }
   },
   {
+    "id": "enem-2018-q31",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "TEXTO I\n\nMUYBRIDGE, E. Cavalo em movimento. Fotografia. Universidade do Texas, Austin, cerca de 1886. (Sequência fotográfica que capta um cavalo em galope em vários instantes sucessivos, revelando as posições reais das patas do animal.)\n\nTEXTO II\n\nGÉRICAULT, T. Corrida de cavalos ou O Derby de 1821 em Epson. Óleo sobre tela, 92 x 123 cm. Museu do Louvre, Paris. (Pintura que retrata cavalos em galope com as quatro patas estendidas simultaneamente à frente e atrás, numa pose de 'galope voador' fisicamente impossível, mas que transmite fortemente a sensação de velocidade.)\n\nTEXTO III\n\nA arte pode estar, às vezes, muito mais preparada do que a ciência para captar o devir e a fluidez do mundo, pois o artista não quer manipular, mas sim \"habitar\" as coisas. O famoso artista francês Rodin, no seu livro L'Art (A Arte, 1911), comenta que a técnica de fotografia em série, mostrando todos os momentos do galope de um cavalo em diversos quadros, apesar de seu grande realismo, não é capaz de capturar o movimento. O corpo do animal é fotografado em diferentes posições, mas ele não parece estar galopando: \"na imagem científica [fotográfica], o tempo é suspenso bruscamente.\" Para Rodin, um pintor é capaz, em única cena, de nos transmitir a experiência de ver um cavalo de corrida, e isso porque ele representa o animal em um movimento ambíguo, em que os membros traseiros e dianteiros parecem estar em instantes diferentes. Rodin diz que essa exposição talvez seja logicamente inconcebível, mas é paradoxalmente muito mais adequada à maneira como o movimento se dá: \"o artista é verdadeiro e a fotografia mentirosa, pois na realidade o tempo não para.\"\n\nFEITOSA, C. Explicando a filosofia com arte. Rio de Janeiro: Ediouro, 2004.\n\nObservando-se as imagens (Textos I e II), o paradoxo apontado por Rodin (Texto III) procede e cria uma maneira original de perceber a relação entre a arte e a técnica, porque o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fotografia é realista na captação da sensação do movimento."
+      },
+      {
+        "letter": "B",
+        "text": "pintura explora os sentimentos do artista e não tem um caráter científico."
+      },
+      {
+        "letter": "C",
+        "text": "fotógrafo faz um estudo sobre os movimentos e consegue captar a essência da sua representação."
+      },
+      {
+        "letter": "D",
+        "text": "pintor representa de forma equivocada as patas dos cavalos, confundindo nossa noção de realidade."
+      },
+      {
+        "letter": "E",
+        "text": "pintura inverte a lógica comumente aceita de que a fotografia faz um registro objetivo e fidedigno da realidade."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Embora a fotografia de Muybridge seja tecnicamente mais precisa, ela 'congela' o tempo e não transmite a sensação de movimento; já a pintura de Géricault, mesmo representando uma pose fisicamente impossível, transmite melhor a sensação de galope — invertendo a expectativa de que a fotografia é sempre mais fiel à realidade do movimento — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q32",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "esse cão que me segue\né minha família, minha vida\nele tem frio mas não late nem pede\nele sabe que o que eu tenho\ndivido com ele,\no que eu não tenho\ntambém divido com ele\nele é meu irmão\nele é que é meu dono\n\nbicho se é por destino\nsina ou sorte\nsó faltando saber se bicho decente\nbicho de casa, bicho de carro, bicho no trânsito,\nse bicho sem norte na fila\nse bicho no mangue, se bicho na brecha\nse bicho na mira, se bicho no sangue\n\ncatar papel é profissão,\ncatar papel revela o segredo das coisas,\ntem muita coisa sendo jogada fora\nmuita pessoa sendo jogada fora\n\nOLIVEIRA, V. L. O músculo amargo do mundo. São Paulo: Escrituras, 2014.\n\nNo poema, os elementos presentes do campo de percepção do eu lírico evocam um realinhamento de significados, uma vez que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emerge a consciência do humano como matéria de descarte."
+      },
+      {
+        "letter": "B",
+        "text": "reside na eventualidade do acaso a condição do indivíduo."
+      },
+      {
+        "letter": "C",
+        "text": "ocorre uma inversão de papéis entre o dono e seu cão."
+      },
+      {
+        "letter": "D",
+        "text": "se instaura um ambiente de caos no mosaico urbano."
+      },
+      {
+        "letter": "E",
+        "text": "se atribui aos rejeitos uma valorização imprevista."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao equiparar catar papel (lixo) a 'muita pessoa sendo jogada fora', o eu lírico revela a consciência de que seres humanos marginalizados são tratados como material de descarte pela sociedade — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q33",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "A orquestra atacou o tema que tantas vezes ouvi na vitrola de Matilde. \"Le maxixe!\", exclamou o francês [...] e nos pediu que dançássemos para ele ver. Mas eu só sabia dançar a valsa, e respondi que ele me honraria tirando minha mulher. No meio do salão os dois se abraçaram e assim permaneceram, a se encarar. Súbito ele a girou em meia-volta, depois recuou o pé esquerdo, enquanto com o direito Matilde dava um longo passo adiante, e os dois estacaram mais um tempo, ela arqueada sobre o corpo dele. Era uma coreografia precisa, e me admirou que minha mulher conhecesse aqueles passos. O casal se entendia à perfeição, mas logo distingui o que nele foi ensinado do que era nela natural. O francês, muito alto, era um boneco de varas, jogando com uma boneca de pano. Talvez pelo contraste, ela brilhava entre dezenas de dançarinos, e notei que todo o cabaré se extasiava com a sua exibição. Todavia, olhando bem, eram pessoas vestidas, ornadas, pintadas com deselegância, e foi me parecendo que também em Matilde, em seus movimentos de ombros e quadris, havia excesso. A orquestra não dava pausa, a música era repetitiva, a dança se revelou vulgar, pela primeira vez julguei meio vulgar a mulher com quem eu tinha me casado. Depois de meia hora eles voltaram se abanando, e escorria suor pelo colo de Matilde decote abaixo. Bravô, eu gritei, bravô, e ainda os estimulei a dançar o próximo tango, mas Dubosc disse que já era tarde, e que eu tinha um ar fatigado.\n\nCHICO BUARQUE. Leite derramado. São Paulo: Cia. das Letras, 2009.\n\nOs recursos expressivos de um texto literário fornecem pistas aos leitores sobre a percepção dos personagens em relação aos eventos da narrativa. No fragmento, constitui um aspecto relevante para a compreensão das intenções do narrador a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inveja disfarçada em relação ao estrangeiro, sugerida pela descrição de seu talento como dançarino."
+      },
+      {
+        "letter": "B",
+        "text": "demonstração de ciúmes, expressa pela desqualificação dos participantes da cena narrada."
+      },
+      {
+        "letter": "C",
+        "text": "postura aristocrática, assinalada pela crítica à orquestra e ao gênero musical executado."
+      },
+      {
+        "letter": "D",
+        "text": "manifestação de desprezo pela dança, indicada pela crítica ao exibicionismo da mulher."
+      },
+      {
+        "letter": "E",
+        "text": "atitude interesseira, pressuposta no elogio final e no estímulo à continuação da dança."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O narrador, incomodado ao ver a esposa dançar com outro homem, passa a desqualificar tanto o francês ('boneco de varas') quanto a própria esposa ('vulgar') — reação típica de ciúmes disfarçado em crítica estética — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q34",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "TEXTO I\n\nATAÍDE, M. C. Coroação de Nossa Senhora de Porciúncula. Detalhe da pintura do forro da nave da Igreja de São Francisco de Assis de Ouro Preto. 1801-12.\n\nTEXTO II\n\nManuel da Costa Ataíde (Mariana, MG, 1762-1830), assim como os demais artistas do seu tempo, recorria a bíblias e a missais impressos na Europa como ponto de partida para a seleção iconográfica das suas composições, que então recriava com inventiva liberdade. Se Mário de Andrade houvesse conseguido a oportunidade de acesso aos meios de aproximação ótica da pintura dos forros de Manuel da Costa Ataíde, imaginamos como não teria vibrado com o mulatismo das figuras do mestre marianense, ratificando, ao lado de Antônio Francisco Lisboa, o Aleijadinho, a sua percepção pioneira de um surto de racialidade brasileira em nossa terra, em pleno século XVIII.\n\nFROTA, L. C. Ataíde: vida e obra de Manuel da Costa Ataíde. Rio de Janeiro: Nova Fronteira, 1982.\n\nO Texto II destaca a inovação na representação artística setecentista, expressa no Texto I pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reprodução de episódios bíblicos."
+      },
+      {
+        "letter": "B",
+        "text": "retratação de elementos europeus."
+      },
+      {
+        "letter": "C",
+        "text": "valorização do sincretismo religioso."
+      },
+      {
+        "letter": "D",
+        "text": "recuperação do antropocentrismo clássico."
+      },
+      {
+        "letter": "E",
+        "text": "incorporação de características identitárias."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Texto II elogia o 'mulatismo das figuras' de Ataíde, ou seja, a incorporação de traços raciais/identitários brasileiros mestiços em temas religiosos europeus — uma inovação identitária na pintura colonial — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q35",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Ali na Rua do Oriente a ralé quando muito andava de bonde. De automóvel ou de carro só mesmo em dia de enterro. De enterro ou de casamento. Por isso mesmo o sonho de Gaetaninho era de realização muito difícil. Um sonho. [...] — Traga a bola! Gaetaninho saiu correndo. Antes de alcançar a bola um bonde o pegou. Pegou e matou. No bonde vinha o pai do Gaetaninho. A gurizada assustada espalhou a notícia na noite. — Sabe o Gaetaninho? — Que é que tem? — Amassou o bonde! A vizinhança limpou com benzina suas roupas domingueiras. Às dezesseis horas do dia seguinte saiu um enterro da Rua do Oriente e Gaetaninho não ia na boleia de nenhum dos carros do acompanhamento. Ia no da frente dentro de um caixão fechado com flores pobres por cima. Vestia a roupa marinheira, tinha as ligas, mas não levava a palhetinha. Quem na boleia de um dos carros do cortejo mirim exibia soberbo terno vermelho que feria a vista da gente era o Beppino.\n\nMACHADO, A. A. Brás, Bexiga e Barra Funda: notícias de São Paulo. Belo Horizonte; Rio de Janeiro: Vila Rica, 1994.\n\nSituada no contexto da modernização da cidade de São Paulo na década de 1920, a narrativa utiliza recursos expressivos inovadores, como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o registro informal da linguagem e o emprego de frases curtas."
+      },
+      {
+        "letter": "B",
+        "text": "o apelo ao modelo cinematográfico com base em imagens desconexas."
+      },
+      {
+        "letter": "C",
+        "text": "a representação de elementos urbanos e a prevalência do discurso direto."
+      },
+      {
+        "letter": "D",
+        "text": "a encenação crua da morte em contraponto ao tom respeitoso do discurso."
+      },
+      {
+        "letter": "E",
+        "text": "a percepção irônica da vida assinalada pelo uso reiterado de exclamações."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O conto modernista de Alcântara Machado usa frases curtas, ritmadas, e registro coloquial ('Amassou o bonde!') típico da estética modernista de 1920 — registro informal e frases curtas — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q36",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Vez por outra, indo devolver um filme na locadora ou almoçar no árabe da rua de baixo, dobro uma esquina e tomo um susto. Ué, cadê o quarteirão que estava aqui? Onde na véspera havia casinhas geminadas, roseiras cuidadas por velhotas e janelas de adolescentes, cheias de adesivos, há apenas uma imensa cratera, cercada de tapumes. [...] Em breve, do buraco brotará um prédio, com grandes garagens e minúsculas varandas, e será batizado de Arizona Hills, ou Maison Lacroix, ou Plaza de Marbella, e isso me entristece. Não só porque ficará mais feio meu caminho até a locadora, ou até o árabe na rua de baixo, mas porque é meu bairro que morre, devagarinho. Os bairros, como os homens, também têm um espírito. [...] Às vezes, no fim da tarde, quando ouço o sino da igreja da Caiubi badalar seis vezes, quase acredito que estou numa cidade do interior. Aí saio para devolver os vídeos, olho para o lado, percebo que o quarteirão desapareceu e me dou conta de que estou em São Paulo, e que eu mesmo tenho minha cota de responsabilidade: moro no segundo andar de um prédio. [...] Ali embaixo, onde agora fica a garagem, já houve uma cratera, e antes dela o jardim de uma velhota e a janela de um adolescente, cheia de adesivos.\n\nPRATA, A. Perdizes. In: Meio intelectual, meio de esquerda. São Paulo: Editora 34, 2010.\n\nNa crônica, a incidência do contexto social sobre a voz narrativa manifesta-se no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "decepção com o progresso da cidade de São Paulo."
+      },
+      {
+        "letter": "B",
+        "text": "sentimento de nostalgia causado pela demolição das casas antigas."
+      },
+      {
+        "letter": "C",
+        "text": "percepção de uma descaracterização da identidade do bairro."
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de uma autocrítica em relação aos próprios hábitos."
+      },
+      {
+        "letter": "E",
+        "text": "descontentamento com os estrangeirismos da nova geografia urbana."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O narrador lamenta que seu bairro 'morre, devagarinho', perdendo casas antigas para prédios com nomes estrangeiros — expressando a percepção de uma descaracterização da identidade do bairro — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q37",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Quanto às mulheres de vida alegre, detestava-as; tinha gasto muito dinheiro, precisava casar, mas casar com uma menina ingênua e pobre, porque é nas classes pobres que se encontra mais vergonha e menos bandalheira. Ora, Maria do Carmo parecia-lhe uma criatura simples, sem essa tendência fatal das mulheres modernas para o adultério, uma menina que até chorava na aula simplesmente por não ter respondido a uma pergunta do professor! Uma rapariga assim era um caso esporádico, uma verdadeira exceção no meio de uma sociedade roída por quanto vício há no mundo. Ia concluir o curso, e, quando voltasse ao Ceará, pensaria seriamente no caso. A Maria do Carmo estava mesmo a calhar: pobrezinha, mas inocente...\n\nCAMINHA, A. A normalista. Disponível em: www.dominiopublico.gov.br. Acesso em: 16 maio 2016.\n\nAlinhado às concepções do Naturalismo, o fragmento do romance de Adolfo Caminha, de 1893, identifica e destaca nos personagens um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "compleição moral condicionada ao poder aquisitivo."
+      },
+      {
+        "letter": "B",
+        "text": "temperamento inconstante incompatível com a vida conjugal."
+      },
+      {
+        "letter": "C",
+        "text": "formação intelectual escassa relacionada a desvios de conduta."
+      },
+      {
+        "letter": "D",
+        "text": "laço de dependência ao projeto de reeducação de inspiração positivista."
+      },
+      {
+        "letter": "E",
+        "text": "sujeição a modelos representados por estratificações sociais e de gênero."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O narrador associa 'classes pobres' a maior 'vergonha e menos bandalheira', segundo a visão determinista naturalista de que a condição moral das pessoas é condicionada por sua classe social/poder aquisitivo — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q38",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "O Ultimate Frisbee é um jogo competitivo praticado com um disco. Essa modalidade esportiva tem como característica mais interessante o fato de não contar com um árbitro. Apesar de ter regras preestabelecidas, estas são aplicadas conforme o consenso entre os praticantes.\n\nGUTIERREZ, G. L. et al. A construção de consensos numa prática esportiva competitiva: uma análise habermasiana do Ultimate Frisbee. Disponível em: www.efdeportes.com. Acesso em: 19 jun. 2012 (adaptado).\n\nEm relação à aplicação das regras, o Ultimate Frisbee prevê",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contestação externa das posições assumidas no jogo."
+      },
+      {
+        "letter": "B",
+        "text": "regras aplicadas com base em posições individualistas."
+      },
+      {
+        "letter": "C",
+        "text": "entendimento mútuo na solução de lances controversos."
+      },
+      {
+        "letter": "D",
+        "text": "dúvidas solucionadas pela opinião dos mais experientes."
+      },
+      {
+        "letter": "E",
+        "text": "definição das regras por meio de acordo entre os jogadores."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Sem árbitro, as regras do Ultimate Frisbee são aplicadas por consenso entre os próprios jogadores — entendimento mútuo na solução de lances controversos — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q39",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Ela parecia pedir socorro contra o que de algum modo involuntariamente dissera. E ele com os olhos miúdos quis que ela não fugisse e falou: — Repita o que você disse, Lóri. — Não sei mais. — Mas eu sei, eu vou saber sempre. Você literalmente disse: um dia será o mundo com sua impersonalidade soberba versus a minha extrema individualidade de pessoa, mas seremos um só. — Sim. Lóri estava suavemente espantada. Então isso era a felicidade. De início se sentiu vazia. Depois seus olhos ficaram úmidos: era felicidade, mas como sou mortal, como o amor pelo mundo me transcende. O amor pela vida mortal a assassinava docemente, aos poucos. E o que é que eu faço? Que faço da felicidade? Que faço dessa paz estranha e aguda, que já está começando a me doer como uma angústia, como um grande silêncio de espaços? A quem dou minha felicidade, que já está começando a me rasgar um pouco e me assusta? Não, não quero ser feliz. Prefiro a mediocridade. Ah, milhares de pessoas não têm coragem de pelo menos prolongar-se um pouco mais nessa coisa desconhecida que é sentir-se feliz e preferem a mediocridade. Ela se despediu de Ulisses quase correndo: ele era o perigo.\n\nLISPECTOR, C. Uma aprendizagem ou o livro dos prazeres. Rio de Janeiro: Francisco Alves, 1990.\n\nA obra de Clarice Lispector alcança forte expressividade em razão de determinadas soluções narrativas. No fragmento, o processo que leva a essa expressividade fundamenta-se no",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desencontro estabelecido no diálogo do par amoroso."
+      },
+      {
+        "letter": "B",
+        "text": "exercício de análise filosófica conduzido pelo narrador."
+      },
+      {
+        "letter": "C",
+        "text": "registro do processo de autoconhecimento da personagem."
+      },
+      {
+        "letter": "D",
+        "text": "discurso fragmentado como reflexo de traumas psicológicos."
+      },
+      {
+        "letter": "E",
+        "text": "afastamento da voz narrativa em relação aos dramas existenciais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O fluxo de consciência de Lóri, questionando a si mesma sobre o que fazer com a felicidade sentida, registra seu processo interior de autoconhecimento — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q40",
     "exam": "enem",
     "year": 2018,
@@ -15868,6 +17016,211 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q41",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Muitos trabalhos recentes de arte digital não consistem mais em objetos puros e simples, que se devem admirar ou analisar, mas em campos de possibilidades, programas geradores de experiências estéticas potenciais. Se já era difícil decidir sobre a paternidade de um produto da cultura técnica, visto que ela oscilava entre a máquina e os vários sujeitos que a manipulam, a tarefa agora torna-se ainda mais complexa. Se quisermos complicar ainda mais o esquema da criação nos objetos artísticos produzidos com meios tecnológicos, poderíamos incluir também aquele que está na ponta final do processo e que foi conhecido pelos nomes (hoje inteiramente inapropriados) de espectadores, ouvintes ou leitores: numa palavra, os receptores de produtos culturais.\n\nMACHADO, A. Máquina e imaginário: o desafio das poéticas tecnológicas. São Paulo: Edusp, 1993 (adaptado).\n\nO autor demonstra a crise que os meios digitais trazem para questões tradicionais da criação artística, particularmente, para a autoria. Essa crise acontece porque, atualmente, além de clicar e navegar, o público",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "analisa o objeto artístico."
+      },
+      {
+        "letter": "B",
+        "text": "anula a proposta do autor."
+      },
+      {
+        "letter": "C",
+        "text": "assume a criação da obra."
+      },
+      {
+        "letter": "D",
+        "text": "interfere no trabalho de arte."
+      },
+      {
+        "letter": "E",
+        "text": "impede a atribuição de autoria."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto explica que a arte digital se tornou um 'campo de possibilidades' em que até o antigo espectador passa a intervir na obra, complicando a definição de autoria — o público interfere no trabalho de arte — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q42",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Física com a boca\n\nPor que nossa voz fica tremida ao falar na frente do ventilador? Além de ventinho, o ventilador gera ondas sonoras. Quando você não tem mais o que fazer e fica falando na frente dele, as ondas da voz se propagam na direção contrária às do ventilador. Davi Akkerman — presidente da Associação Brasileira para a Qualidade Acústica — diz que isso causa o mismatch, nome bacana para o desencontro entre as ondas. \"O vento também contribui para a distorção da voz, pelo fato de ser uma vibração que influencia no som\", diz. Assim, o ruído do ventilador e a influência do vento na propagação das ondas contribuem para distorcer sua bela voz.\n\nDisponível em: http://super.abril.com.br. Acesso em: 30 jul. 2012 (adaptado).\n\nSinais de pontuação são símbolos gráficos usados para organizar a escrita e ajudar na compreensão da mensagem. No texto, o sentido não é alterado em caso de substituição dos travessões por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aspas, para colocar em destaque a informação seguinte."
+      },
+      {
+        "letter": "B",
+        "text": "vírgulas, para acrescentar uma caracterização de Davi Akkerman."
+      },
+      {
+        "letter": "C",
+        "text": "reticências, para deixar subentendida a formação do especialista."
+      },
+      {
+        "letter": "D",
+        "text": "dois-pontos, para acrescentar uma informação introduzida anteriormente."
+      },
+      {
+        "letter": "E",
+        "text": "ponto e vírgula, para enumerar informações fundamentais para o desenvolvimento temático."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os travessões isolam uma explicação apositiva sobre quem é Davi Akkerman ('presidente da Associação...'), função equivalente à de vírgulas para intercalar uma caracterização — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q43",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "O processo de leitura da informação vinda do companheiro e do adversário é fundamental nos esportes coletivos. O participante de modalidades com essas características deverá, a todo momento, ler e interpretar as informações gestuais de seu companheiro e adversário que, por outra via, também é portador de informações. Estas deverão ser claras e legíveis para seu companheiro e totalmente obscuras para o adversário. Na interpretação praxiológica, seria aquele jogador que consegue ler as informações do adversário e posicionar-se da melhor forma possível, antecipando-se a seus adversários e ocupando os melhores espaços.\n\nRIBAS, J. F. M. Praxiologia motriz: construção de um novo olhar dos esportes e jogos na escola. Motriz, n. 2, 2005 (adaptado).\n\nDe acordo com a ideia de processamento de informação nas modalidades esportivas coletivas, para ser bem-sucedido em suas ações no jogo, o jogador deve",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "identificar as informações produzidas por todos os jogadores, posicionando-se de forma fixa no espaço de jogo."
+      },
+      {
+        "letter": "B",
+        "text": "refletir sobre as informações fornecidas por todos os jogadores e executar os gestos técnicos com precisão no jogo."
+      },
+      {
+        "letter": "C",
+        "text": "analisar as informações dos adversários e, com base nelas, realizar individualmente suas ações, com o fim de tirar vantagem tática."
+      },
+      {
+        "letter": "D",
+        "text": "fornecer informações precisas para os adversários e interpretar as dos companheiros, para facilitar sua tomada de decisão."
+      },
+      {
+        "letter": "E",
+        "text": "interpretar informações de companheiros e adversários, agindo objetivamente com os primeiros e imprecisamente com os adversários."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto afirma que as informações do jogador devem ser claras para o companheiro e obscuras para o adversário — ou seja, ele deve interpretar informações de ambos, agindo com clareza (objetividade) com os companheiros e ambiguidade com os adversários — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q44",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "O lazer é um fenômeno mundial, fruto da modernidade e das relações que se estabelecem entre o tempo de trabalho e o tempo do não trabalho. Os efeitos da industrialização e da globalização foram percebidos pela velocidade das mensagens veiculadas pela mídia, pela explosão das novas tecnologias da informação e comunicação, pela exacerbação do individualismo e competitividade, pelas mudanças no contexto social e também por uma crise nas relações de trabalho. Em meio a todas essas mudanças, o lazer apresenta-se como um conjunto de elementos culturais que podem ser vivenciados no tempo disponível, seja como atividade prática ou contemplativa.\n\nSECRETARIA DA EDUCAÇÃO. Proposta curricular do estado de Minas Gerais, 6º ao 9º ano. Disponível em: http://crv.educacao.mg.gov.br. Acesso em: 31 jul. 2012.\n\nNa perspectiva conceitual assumida pelo texto, o lazer constitui-se por atividades que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "auxiliam na conquista de maior produtividade no âmbito do trabalho."
+      },
+      {
+        "letter": "B",
+        "text": "buscam a melhoria da condição atlética e da alta performance dos praticantes."
+      },
+      {
+        "letter": "C",
+        "text": "resultam da tensão entre os interesses da mídia e as necessidades dos empregadores."
+      },
+      {
+        "letter": "D",
+        "text": "favorecem as relações de individualidade e competitividade entre os praticantes."
+      },
+      {
+        "letter": "E",
+        "text": "são de natureza esportiva, artística ou cultural, escolhidas pelos indivíduos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto define o lazer como 'um conjunto de elementos culturais' vivenciados livremente no tempo disponível, seja de forma prática ou contemplativa — atividades de natureza esportiva, artística ou cultural escolhidas pelo indivíduo — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
+    "id": "enem-2018-q45",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "É o frevo\nArrastando a multidão, fervendo.\nÉ na ponta do pé e no calcanhar\nÉ no calcanhar e na ponta do pé com a direita\nÉ na ponta do pé e no calcanhar com a esquerda\nSaci-pererê, saci-pererê com a direita\nSaci-pererê com a esquerda\nGirando, girando, girando no girassol\nÉ o frevo no pé e a sombrinha no ar.\nÉ na ponta do pé e no calcanhar\nPisando em brasa\nPisando em brasa porque o chão está pegando fogo\nNa Avenida Guararapes\nArrastando o Galo da Madrugada\nOlha a tesoura, para cortar todos os males.\nÉ o frevo no pé e a sombrinha no ar.\n\nDUDA. Perré-bumbá. Recife: Gravadora Independente, 1998 (fragmento).\n\nA letra da canção apresenta o frevo como uma expressão da cultura corporal que pode ser reconhecida por meio da descrição de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diversos ritmos."
+      },
+      {
+        "letter": "B",
+        "text": "diferentes passos."
+      },
+      {
+        "letter": "C",
+        "text": "distintos adereços."
+      },
+      {
+        "letter": "D",
+        "text": "vários personagens."
+      },
+      {
+        "letter": "E",
+        "text": "uso de instrumentos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A letra descreve minuciosamente os movimentos do frevo (ponta do pé e calcanhar, saci-pererê, girando, tesoura) — ou seja, descreve diferentes passos da dança — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -15994,6 +17347,47 @@
     }
   },
   {
+    "id": "enem-2018-q49",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "TEXTO I\n\nÉ da maior utilidade saber falar de modo a persuadir e conter o arrebatamento dos espíritos desviados pela doçura da sua eloquência. Foi com este fim que me apliquei a formar uma biblioteca. Desde há muito tempo em Roma, em toda a Itália, na Germânia e na Bélgica, gastei muito dinheiro para pagar a copistas e livros, ajudado em cada província pela boa vontade e solicitude dos meus amigos.\n\nGEBERTO DE AURILLAC. Lettres. Século X. Apud PEDRERO-SÁNCHEZ, M. G. História da Idade Média: texto e testemunhas. São Paulo: Unesp, 2000.\n\nTEXTO II\n\nEu não sou doutor nem sequer sei do que trata esse livro; mas, como a gente tem que se acomodar às exigências da boa sociedade de Córdova, preciso ter uma biblioteca. Nas minhas prateleiras tenho um buraco exatamente do tamanho desse livro e como vejo que tem uma letra e encadernação muito bonitas, gostei dele e quis comprá-lo. Por outro lado, nem reparei no preço. Graças a Deus sobra-me dinheiro para essas coisas.\n\nAL HADRAMI. Século X. Apud PEDRERO-SÁNCHEZ, M. G. A Península Ibérica entre o Oriente e o Ocidente: cristãos, judeus e muçulmanos. São Paulo: Atual, 2002.\n\nNesses textos do século X, percebem-se visões distintas sobre os livros e as bibliotecas em uma sociedade marcada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difusão da cultura favorecida pelas atividades urbanas."
+      },
+      {
+        "letter": "B",
+        "text": "laicização do saber, que era facilitada pela educação nobre."
+      },
+      {
+        "letter": "C",
+        "text": "ampliação da escolaridade realizada pelas corporações de ofício."
+      },
+      {
+        "letter": "D",
+        "text": "evolução da ciência que era provocada pelos intelectuais bizantinos."
+      },
+      {
+        "letter": "E",
+        "text": "publicização das escrituras, que era promovida pelos sábios religiosos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os dois textos mostram, em sociedades urbanas medievais distintas (cristã e muçulmana), diferentes atitudes em relação aos livros — um busca o conhecimento genuíno, o outro busca status social — evidenciando a difusão da cultura livresca nas cidades medievais — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q50",
     "exam": "enem",
     "year": 2018,
@@ -16117,6 +17511,47 @@
     }
   },
   {
+    "id": "enem-2018-q53",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "O Morro do Vidigal é um clássico do Rio de Janeiro. A vista dá para Ipanema e a favela é pequena e relativamente segura. Aos poucos, casas de um padrão mais alto estão sendo construídas. Artistas plásticos e gringos compraram imóveis ali. Os moradores recebem propostas atraentes e se mudam. Não são propostas milionárias. Apenas o suficiente para se transferirem para um lugar mais longe e um pouco melhor. Os novos habitantes, aos poucos, impõem uma nova rotina e uma nova cara.\n\nNOGUEIRA, K. O que é gentrificação e por que ela está gerando tanto barulho no Brasil. Disponível em: www.diariodocentrodomundo.com.br. Acesso em: 7 jul. 2015 (adaptado).\n\nO texto discute um processo em curso em várias cidades brasileiras. Uma consequência socioespacial desse processo é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão horizontal da área local."
+      },
+      {
+        "letter": "B",
+        "text": "expulsão velada da população pobre."
+      },
+      {
+        "letter": "C",
+        "text": "alocação imprópria de recursos públicos."
+      },
+      {
+        "letter": "D",
+        "text": "privatização indevida do território urbano."
+      },
+      {
+        "letter": "E",
+        "text": "remoção forçada de residências irregulares."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A gentrificação descrita — moradores originais recebendo propostas para se mudar enquanto novos habitantes de maior renda ocupam a área — configura uma expulsão velada (não forçada legalmente, mas induzida economicamente) da população pobre — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q55",
     "exam": "enem",
     "year": 2018,
@@ -16155,6 +17590,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q56",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Quanto aos campos de batalha, os nomes de ilhas melanésias e assentamentos nos desertos norte-africanos, na Birmânia e nas Filipinas tornaram-se tão conhecidos dos leitores de jornais e radiouvintes quanto os nomes de batalhas no Ártico e no Cáucaso, na Normandia, em Stalingrado e em Kursk. A Segunda Guerra Mundial foi uma aula de geografia.\n\nHOBSBAWM, E. Era dos extremos — o breve século XX: 1914-1991. São Paulo: Cia. das Letras, 1997 (adaptado).\n\nUm dos principais acontecimentos do século XX, a Segunda Grande Guerra (1939-1945) foi interpretada no texto como uma \"aula de geografia\" porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "teve-se ciência de lugares outrora ignorados."
+      },
+      {
+        "letter": "B",
+        "text": "foram modificadas fronteiras e relações interestatais."
+      },
+      {
+        "letter": "C",
+        "text": "utilizaram mapas estratégicos os exércitos nela envolvidos."
+      },
+      {
+        "letter": "D",
+        "text": "tratou-se de um acontecimento que afetou a economia global."
+      },
+      {
+        "letter": "E",
+        "text": "tornou o continente europeu o centro das relações internacionais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Hobsbawm observa que, por meio da cobertura da guerra em jornais e rádio, o público passou a conhecer nomes de lugares remotos e antes desconhecidos (ilhas melanésias, desertos norte-africanos etc.) — teve-se ciência de lugares outrora ignorados — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -16404,6 +17880,47 @@
     }
   },
   {
+    "id": "enem-2018-q64",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Figura 1: uma regionalização tradicional do Brasil em grandes conjuntos naturais/econômicos — Amazônia, Nordeste, Centro-Sul. (Disponível em: http://atlasescolar.ibge.gov.br. Acesso em: 2 out. 2015 (adaptado).)\n\nFigura 2: a atual divisão oficial do IBGE em cinco regiões, definidas a partir do agrupamento de estados — Norte, Nordeste, Centro-Oeste, Sudeste, Sul. (Disponível em: http://imgms.almanaque.abril.com.br. Acesso em: 2 out. 2015.)\n\nNo planejamento das ações governamentais, a segunda forma de regionalização apresenta a vantagem de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "respeitar a divisão político-administrativa."
+      },
+      {
+        "letter": "B",
+        "text": "reconhecer as desigualdades sociais."
+      },
+      {
+        "letter": "C",
+        "text": "considerar as identidades culturais."
+      },
+      {
+        "letter": "D",
+        "text": "valorizar a dinâmica econômica."
+      },
+      {
+        "letter": "E",
+        "text": "incorporar os critérios naturais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao contrário da regionalização tradicional em grandes conjuntos naturais/econômicos, a divisão oficial do IBGE em cinco regiões é construída pelo agrupamento de unidades federativas (estados), respeitando a divisão político-administrativa do país — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q65",
     "exam": "enem",
     "year": 2018,
@@ -16442,6 +17959,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q66",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Temos vivido, como nação, atormentados pelos males modernos e pelos males do passado, pelo velho e pelo novo, sem termos podido conhecer uma história de rupturas revolucionárias. Não que não tenhamos nos modernizado e chegado ao desenvolvimento. Mas não eliminamos relações, estruturas e procedimentos contrários ao espírito do tempo. Nossa modernização tem sido conservadora.\n\nNOGUEIRA, M. As possibilidades da política: ideias para a reforma democrática do Estado. Rio de Janeiro: Paz e Terra, 1998.\n\nO texto apresenta uma análise recorrente sobre o processo de modernização do Brasil na segunda metade do século XX. De acordo com a análise, uma característica desse processo reside na(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uniformização técnica dos espaços de produção."
+      },
+      {
+        "letter": "B",
+        "text": "construção municipalista do regime representativo."
+      },
+      {
+        "letter": "C",
+        "text": "organização estadual das agremiações partidárias."
+      },
+      {
+        "letter": "D",
+        "text": "limitações políticas no estabelecimento de reformas sociais."
+      },
+      {
+        "letter": "E",
+        "text": "restrições financeiras no encaminhamento das demandas ruralistas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A ideia de 'modernização conservadora' remete à manutenção de estruturas antigas apesar da modernização econômica — ou seja, limitações políticas que impediram reformas sociais mais profundas — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -16729,6 +18287,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q74",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Queremos saber o que vão fazer\nCom as novas invenções\nQueremos notícia mais séria\nSobre a descoberta da antimatéria\nE suas implicações\nNa emancipação do homem\nDas grandes populações\nHomens pobres das cidades\nDas estepes, dos sertões\n\nGILBERTO GIL. Queremos saber. O viramundo. São Paulo: Universal Music, 1976 (fragmento).\n\nA letra da canção relaciona dois aspectos da contemporaneidade com reflexos na sociedade brasileira:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A elevação da escolaridade e o aumento do desemprego."
+      },
+      {
+        "letter": "B",
+        "text": "O investimento em pesquisa e a ascensão do autoritarismo."
+      },
+      {
+        "letter": "C",
+        "text": "O crescimento demográfico e a redução da produção de alimentos."
+      },
+      {
+        "letter": "D",
+        "text": "O avanço da tecnologia e a permanência das desigualdades sociais."
+      },
+      {
+        "letter": "E",
+        "text": "A acumulação de conhecimento e o isolamento das comunidades tradicionais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A canção questiona o destino das 'novas invenções' e da 'antimatéria' (avanço tecnológico/científico) diante da persistente pobreza dos 'homens pobres das cidades, das estepes, dos sertões' — avanço da tecnologia versus permanência das desigualdades sociais — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
@@ -17180,6 +18779,47 @@
     "source": {
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2018 (PPL, 2ª aplicação), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2018-q86",
+    "exam": "enem",
+    "year": 2018,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "LEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado). (Ilustração de um curso de rio encachoeirado, com quedas e corredeiras sucessivas ao longo do leito.)\n\nA causa da formação do curso-d'água encachoeirado, tal como ilustrado na imagem, é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "deposição de fragmentos rochosos."
+      },
+      {
+        "letter": "B",
+        "text": "circulação das águas em redemoinho."
+      },
+      {
+        "letter": "C",
+        "text": "quantidade de material sólido transportado."
+      },
+      {
+        "letter": "D",
+        "text": "escavação de caldeirões pelo turbilhonamento."
+      },
+      {
+        "letter": "E",
+        "text": "diferente resistência à erosão oferecida pelas rochas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Corredeiras e cachoeiras se formam onde o leito do rio atravessa camadas de rochas com diferentes graus de resistência à erosão: trechos de rocha mais resistente formam degraus/quedas, enquanto a rocha mais branda erode mais rapidamente — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2018 - Caderno 13 Azul, 2ª Aplicação (Linguagens, Códigos e suas Tecnologias / Ciências Humanas e suas Tecnologias)"
     }
   },
   {
