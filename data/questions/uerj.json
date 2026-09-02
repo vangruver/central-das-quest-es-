@@ -1369,6 +1369,78 @@
     }
   },
   {
+    "id": "uerj-2022-q01",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "A CIÊNCIA EM SI\n\nSe toda coincidência\nTende a que se entenda\nE toda lenda\nQuer chegar aqui\nA ciência não se aprende\nA ciência apreende\nA ciência em si\n\nSe toda estrela cadente\nCai pra fazer sentido\nE todo mito\nQuer ter carne aqui\nA ciência não se ensina\nA ciência insemina\nA ciência em si\n\nSe o que se pode ver, ouvir, pegar, medir, pesar\nDo avião a jato ao jabuti\nDesperta o que ainda não, não se pôde pensar\nDo sono eterno ao eterno devir\nComo a órbita da Terra abraça o vácuo devagar\nPara alcançar o que já estava aqui\nSe a crença quer se materializar\nTanto quanto a experiência quer se abstrair\nA ciência não avança\nA ciência alcança\nA ciência em si\n\nARNALDO ANTUNES e GILBERTO GIL. Adaptado de fiocruz.br.\n\nNa letra da música, observa-se uma estrutura que se repete nas três estrofes, construindo um raciocínio típico do pensamento científico. Esse raciocínio, que pode ser representado pela fórmula \"se x, logo y\", encontra-se no campo argumentativo da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dedução"
+      },
+      {
+        "letter": "B",
+        "text": "indução"
+      },
+      {
+        "letter": "C",
+        "text": "contestação"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A estrutura repetida ('Se toda coincidência... A ciência não se aprende / A ciência apreende') segue o esquema lógico 'se x, logo y', típico do raciocínio dedutivo, em que uma conclusão decorre necessariamente de premissas — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q02",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "A CIÊNCIA EM SI\n\nSe toda coincidência\nTende a que se entenda\nE toda lenda\nQuer chegar aqui\nA ciência não se aprende\nA ciência apreende\nA ciência em si\n\nSe toda estrela cadente\nCai pra fazer sentido\nE todo mito\nQuer ter carne aqui\nA ciência não se ensina\nA ciência insemina\nA ciência em si\n\nSe o que se pode ver, ouvir, pegar, medir, pesar\nDo avião a jato ao jabuti\nDesperta o que ainda não, não se pôde pensar\nDo sono eterno ao eterno devir\nComo a órbita da Terra abraça o vácuo devagar\nPara alcançar o que já estava aqui\nSe a crença quer se materializar\nTanto quanto a experiência quer se abstrair\nA ciência não avança\nA ciência alcança\nA ciência em si\n\nARNALDO ANTUNES e GILBERTO GIL. Adaptado de fiocruz.br.\n\nA letra da música aborda a ciência como uma forma de compreensão do mundo. Um dos campos de investigação conhecidos é a biologia, que, antes dispersa em diferentes áreas, unifica-se a partir do século XX. Nessa trajetória histórica, as ideias de Darwin, as leis da hereditariedade de Mendel e as descobertas da genética consolidaram um conjunto de explicações que, no domínio da biologia, são caracterizadas como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vitalistas"
+      },
+      {
+        "letter": "B",
+        "text": "evolutivas"
+      },
+      {
+        "letter": "C",
+        "text": "progressivas"
+      },
+      {
+        "letter": "D",
+        "text": "transformistas"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A união da seleção natural darwiniana com a genética mendeliana formou a chamada síntese evolutiva moderna, base das explicações evolutivas que unificaram a biologia no século XX — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
     "id": "uerj-2022-q03",
     "exam": "uerj",
     "year": 2022,
@@ -1549,6 +1621,258 @@
     }
   },
   {
+    "id": "uerj-2022-q12",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 12,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\nSegún la mujer del coronel, el mantenimiento del gallo en la familia se puede definir como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "un prejuicio"
+      },
+      {
+        "letter": "B",
+        "text": "una insensatez"
+      },
+      {
+        "letter": "C",
+        "text": "una esperanza"
+      },
+      {
+        "letter": "D",
+        "text": "un remordimiento"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "La mujer dice \"Es una ilusión que cuesta caro\", indicando que considera una insensatez (algo poco razonable, dado el costo) mantener al gallo — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q13",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 13,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\nEl fragmento que presenta una idea temporal de simultaneidad es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mientras su esposa tomaba el café, (l. 6)"
+      },
+      {
+        "letter": "B",
+        "text": "Sólo entonces se acordó del gallo (l. 17)"
+      },
+      {
+        "letter": "C",
+        "text": "Cuando se acabe el maíz (l. 29)"
+      },
+      {
+        "letter": "D",
+        "text": "Después podemos venderlo a mejor precio. (l. 32)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "La conjunción \"mientras\" introduce una acción que ocurre al mismo tiempo que otra (simultaneidad) — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q14",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 14,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\nEn el texto, se hace una descripción de la salud de la esposa del coronel. Su condición se puede comprobar en el siguiente fragmento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "construida apenas en cartílagos blancos (l. 10-11)"
+      },
+      {
+        "letter": "B",
+        "text": "reventó la flora de sus vísceras. (l. 19)"
+      },
+      {
+        "letter": "C",
+        "text": "los silbidos pulmonares de la asmática. (l. 19-20)"
+      },
+      {
+        "letter": "D",
+        "text": "Estaba en forma. (l. 21)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "\"Los silbidos pulmonares de la asmática\" describe diretamente uma condição de saúde respiratória (asma) da esposa — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q15",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 15,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\n\"Siguió sorbiendo el café en las pausas de su respiración pedregrosa.\" (l. 10). En ese fragmento, el término destacado se emplea con un sentido que se puede definir como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "irónico"
+      },
+      {
+        "letter": "B",
+        "text": "metonímico"
+      },
+      {
+        "letter": "C",
+        "text": "eufemístico"
+      },
+      {
+        "letter": "D",
+        "text": "metafórico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "\"Respiración pedregrosa\" (respiração 'pedregosa') não é literal; a comparação da respiração difícil com algo áspero/rochoso é um uso metafórico — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q16",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 16,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\n\"no le puso atención.\" (l. 13). El pronombre le se refiere al siguiente término:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "café"
+      },
+      {
+        "letter": "B",
+        "text": "mujer"
+      },
+      {
+        "letter": "C",
+        "text": "espina"
+      },
+      {
+        "letter": "D",
+        "text": "muerto"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No contexto, o coronel 'não prestou atenção' ao comentário de sua esposa (mujer), que acabara de falar sobre o enterro — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q17",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\n\"el coronel volvió a sentir\" (l. 15). A partir de una perspectiva temporal, la expresión verbal subrayada indica una acción que ocurre de la siguiente manera:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "consecutivamente"
+      },
+      {
+        "letter": "B",
+        "text": "anteriormente"
+      },
+      {
+        "letter": "C",
+        "text": "una vez más"
+      },
+      {
+        "letter": "D",
+        "text": "a la vez"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A perífrase 'volver a + infinitivo' expressa repetição de uma ação já ocorrida antes, ou seja, 'sentir novamente/uma vez más' — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q18",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "O romance El coronel no tiene quien le escriba (\"Ninguém escreve ao coronel\"), do colombiano Gabriel García Márquez, aborda a solidão de um coronel e sua esposa, que vivem em uma situação precária. No trecho abaixo, o diálogo do casal gira em torno da herança que Agustín, seu filho, lhes deixou.\n\nEl coronel destapó el tarro de café y comprobó que no había más de una cucharadita (l. 1). Retiró la olla del fogón, vertió la mitad del agua en el piso de tierra y con un cuchillo raspó el interior del tarro sobre la olla (l. 2-3) hasta cuando se desprendieron las últimas raspaduras del polvo de café revueltas con óxido de lata (l. 4).\n\nSu esposa levantó el mosquitero cuando lo vio entrar al dormitorio con el café (l. 5). En ese momento empezaron los dobles. El coronel se había olvidado del entierro. Mientras su esposa tomaba el café (l. 6), descolgó la hamaca en un extremo y la enrolló en el otro, detrás de la puerta (l. 7). La mujer pensó en el muerto (l. 8).\n\n–Nació en 1922 –dijo– (l. 9). Exactamente un mes después de nuestro hijo. El siete de abril.\n\nSiguió sorbiendo el café en las pausas de su respiración pedregrosa (l. 10). Era una mujer construida apenas en cartílagos blancos sobre una espina dorsal arqueada e inflexible (l. 10-11). Los trastornos respiratorios la obligaban a preguntar afirmando (l. 12). Cuando terminó el café todavía estaba pensando en el muerto.\n\n\"Debe ser horrible estar enterrado en octubre\", dijo (l. 13). Pero su marido no le puso atención (l. 13). Abrió la ventana. Octubre se había instalado en el patio (l. 14). Contemplando la vegetación que reventaba en verdes intensos, las minúsculas tiendas de las lombrices en el barro (l. 15), el coronel volvió a sentir (l. 15) el mes aciago en los intestinos.\n\nSólo entonces se acordó del gallo amarrado a la pata de la cama (l. 17). Era un gallo de pelea. El coronel se ocupó del gallo a pesar de que el jueves habría preferido permanecer en la hamaca. En el curso de la semana reventó la flora de sus vísceras (l. 19). Pasó varias noches en vela, atormentado por los silbidos pulmonares de la asmática (l. 19-20). Pero octubre concedió una tregua el viernes en la tarde. Los compañeros de Agustín aprovecharon la ocasión para examinar el gallo. Estaba en forma (l. 21).\n\nEl coronel volvió al cuarto cuando quedó solo en la casa con su mujer. Ella había reaccionado.\n\n–Qué dicen –preguntó.\n\n–Entusiasmados –informó el coronel–. Todos están ahorrando para apostarle al gallo.\n\n–No sé qué le han visto a ese gallo tan feo (l. 25) –dijo la mujer–. A mí me parece un fenómeno: tiene la cabeza muy chiquita para las patas.\n\n–Ellos dicen que es el mejor del Departamento –replicó el coronel–. Vale como cincuenta pesos.\n\nTuvo la certeza de que ese argumento justificaba su determinación de conservar el gallo, herencia del hijo. \"Es una ilusión que cuesta caro\", dijo la mujer. \"Cuando se acabe el maíz (l. 29) tendremos que alimentarlo con nuestros hígados\". El coronel se tomó todo el tiempo para pensar mientras buscaba los pantalones de dril en el ropero.\n\n–Es por pocos meses –dijo–. Después podemos venderlo a mejor precio (l. 32).\n\nGabriel García MÁRQUEZ. Adaptado de El coronel no tiene quien le escriba. Madri: Debolsillo, 2014.\n\n\"–No sé qué le han visto a ese gallo tan feo\" (l. 25). Esta habla de la mujer del coronel presenta una pregunta indirecta, que tiene la función de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "solicitar un dato"
+      },
+      {
+        "letter": "B",
+        "text": "aclarar un hecho"
+      },
+      {
+        "letter": "C",
+        "text": "reprochar una tesis"
+      },
+      {
+        "letter": "D",
+        "text": "menospreciar una idea"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao dizer que não entende o que viram no galo 'tão feio', a mulher está depreciando/menosprezando a ideia de que o galo vale a pena ser mantido — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
     "id": "uerj-2022-q19",
     "exam": "uerj",
     "year": 2022,
@@ -1615,6 +1939,1158 @@
     "correct": "B",
     "annulled": false,
     "explanation": "kx = 0,046 × 5 = 0,23. Pela tabela, e^(−0,23) ≈ 0,794, ou seja, 79,4% da luz incidente atravessa o vidro — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q22",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 22,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Considere um quadrado ABCD de lado igual a 5 cm. Em seu interior, com vértice comum em A, é construído um quadrado AEFG de lado x cm (0 < x < 5), de modo que E está sobre o lado AB e G está sobre o lado AD. A região da diferença entre os dois quadrados forma um retângulo DGFH, cujos lados medem x cm e (5 − x) cm.\n\nA área máxima que o retângulo DGFH pode assumir, em cm², é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5,75"
+      },
+      {
+        "letter": "B",
+        "text": "6,25"
+      },
+      {
+        "letter": "C",
+        "text": "7,45"
+      },
+      {
+        "letter": "D",
+        "text": "8,15"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A área do retângulo é A(x) = x(5 − x) = 5x − x². O máximo ocorre em x = 5/2 = 2,5, resultando em A = 2,5 × 2,5 = 6,25 cm² — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q23",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Admita que uma pessoa na posição P avista o ponto A, mais alto de um morro, sob um ângulo de 40°. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de 50°, sendo AB a altura do morro em relação à reta horizontal PB (P, Q e B alinhados, nessa ordem, com Q entre P e B).\n\nConsidere os seguintes valores das razões trigonométricas:\nα = 40°: sen α = 0,64; cos α = 0,77; tg α = 0,84\nα = 50°: sen α = 0,77; cos α = 0,64; tg α = 1,19\n\nA altura AB, em metros, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "212,0"
+      },
+      {
+        "letter": "B",
+        "text": "224,6"
+      },
+      {
+        "letter": "C",
+        "text": "232,0"
+      },
+      {
+        "letter": "D",
+        "text": "285,6"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Sendo x = QB: AB = x·tg(50°) e AB = (x+100)·tg(40°). Logo, x·1,19 = (x+100)·0,84 → x(1,19−0,84) = 84 → x = 84/0,35 = 240. Assim, AB = 240 × 1,19 = 285,6 m — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q24",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 24,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Em uma revendedora, uma motocicleta custa à vista R$ 10.404,00. Esse valor também pode ser pago a prazo, sem juros, em duas parcelas de R$ 5.202,00, sendo a primeira um mês após a compra e a segunda dois meses após a compra.\n\nUm comprador tem o valor de R$ 10.404,00 em uma aplicação que rende juros de 2% ao mês. Ele decide manter esse valor aplicado e, ao final do primeiro mês, retira apenas R$ 5.202,00 para pagar a primeira parcela. Um mês depois retira R$ 5.202,00 e faz o pagamento da segunda parcela. Isso equivale a ter um desconto no ato da compra.\n\nEsse desconto, em percentual, está mais próximo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,0%"
+      },
+      {
+        "letter": "B",
+        "text": "3,5%"
+      },
+      {
+        "letter": "C",
+        "text": "4,0%"
+      },
+      {
+        "letter": "D",
+        "text": "4,5%"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O valor presente das parcelas é 5202/1,02 + 5202/1,02² ≈ 5100 + 5002,3 ≈ 10102,3. O desconto equivalente é (10404 − 10102,3)/10404 ≈ 2,9%, mais próximo de 3,0% — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q26",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 26,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "O tecido adiposo marrom, abundante em recém-nascidos e em mamíferos que hibernam, é rico em mitocôndrias, que possuem em sua membrana interna uma proteína desacopladora da fosforilação oxidativa. Essa proteína, ao desfazer o gradiente de prótons, permite o fluxo desses íons do espaço intermembranas para a matriz mitocondrial, o que assegura a sobrevivência dos organismos ao gerar calor.\n\nDesse modo, os adipócitos da gordura marrom apresentam redução do seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "liberação de calor"
+      },
+      {
+        "letter": "B",
+        "text": "produção de ATP"
+      },
+      {
+        "letter": "C",
+        "text": "consumo de oxigênio"
+      },
+      {
+        "letter": "D",
+        "text": "transporte de elétrons"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao desfazer o gradiente de prótons sem que este seja usado pela ATP sintase, a proteína desacopladora reduz a produção de ATP, e a energia é dissipada na forma de calor (termogênese) — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q27",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 27,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "O porco-do-mato é um grande predador de cactos. Apesar de sua boca resistente, quando há muitas opções de alimento, esses animais naturalmente optam por consumir os cactos com menos espinhos, antes de passar a atacar as plantas mais espinhosas.\n\nConsidere uma população de cactos que, na presença de porcos-do-mato, foi observada em dois momentos: em um período inicial, os cactos com poucos espinhos ainda eram abundantes; após um longo período de predação seletiva sobre os indivíduos menos espinhosos, a distribuição de espinhos na população deslocou-se progressivamente para valores mais altos.\n\nCom base nessas informações, a população de cactos passou por um processo de seleção natural do seguinte tipo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estabilizadora"
+      },
+      {
+        "letter": "B",
+        "text": "convergente"
+      },
+      {
+        "letter": "C",
+        "text": "direcional"
+      },
+      {
+        "letter": "D",
+        "text": "disruptiva"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A predação preferencial sobre os cactos com menos espinhos desloca a média da característica (número de espinhos) da população continuamente em uma única direção ao longo do tempo — seleção direcional — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q28",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 28,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A tatuagem do corpo, que já era realizada no Egito entre 4000 e 2000 anos a.C., é feita por meio de pigmentos introduzidos na pele por agulhas. Como uma boa cicatrização é fundamental para a aparência de uma tatuagem, pessoas com predisposição à formação de cicatrizes aparentes, chamadas queloides, podem não apreciar o resultado do procedimento.\n\nNo processo de cicatrização, a formação de queloides deve-se à ação de células denominadas:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fibroblastos"
+      },
+      {
+        "letter": "B",
+        "text": "mieloblastos"
+      },
+      {
+        "letter": "C",
+        "text": "osteoblastos"
+      },
+      {
+        "letter": "D",
+        "text": "condroblastos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os fibroblastos produzem colágeno durante a cicatrização; sua atividade excessiva leva ao acúmulo desordenado de colágeno, formando o queloide — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q29",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 29,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Considere a união entre um homem portador de doença de Leber, neuropatia causada pela mutação em um gene do DNA mitocondrial, e uma mulher normal.\n\nA proporção de descendentes desse casal que apresentará a doença do pai corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0%"
+      },
+      {
+        "letter": "B",
+        "text": "25%"
+      },
+      {
+        "letter": "C",
+        "text": "50%"
+      },
+      {
+        "letter": "D",
+        "text": "100%"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O DNA mitocondrial é herdado exclusivamente por via materna (as mitocôndrias do espermatozoide não são incorporadas ao zigoto); portanto, nenhum descendente herdará a mutação mitocondrial do pai — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q30",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 30,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Experimentos controlados em laboratório demonstraram que peixes criados em aquários com temperaturas mais elevadas apresentam, quando adultos, tamanhos menores que outros da mesma espécie submetidos a temperaturas mais baixas. Isso alerta para um dos potenciais efeitos do aquecimento global sobre o metabolismo de animais marinhos.\n\nO menor tamanho dos peixes em temperaturas mais altas resulta da seguinte alteração fisiológica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atrofia das gônadas"
+      },
+      {
+        "letter": "B",
+        "text": "estresse respiratório"
+      },
+      {
+        "letter": "C",
+        "text": "problemas osmóticos"
+      },
+      {
+        "letter": "D",
+        "text": "transtornos sensoriais"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em temperaturas mais altas, o metabolismo dos peixes acelera, aumentando a demanda de oxigênio, enquanto a solubilidade do oxigênio na água diminui — esse estresse respiratório limita o crescimento e resulta em menor tamanho corporal — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q31",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 31,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "A vincristina, substância utilizada no tratamento quimioterápico do câncer, interfere na distribuição igual de material genético para as células-filhas produzidas durante a divisão celular, o que compromete a viabilidade dessas células.\n\nNesse processo, a estrutura celular diretamente afetada pelo medicamento é denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vacúolos"
+      },
+      {
+        "letter": "B",
+        "text": "ribossomas"
+      },
+      {
+        "letter": "C",
+        "text": "mitocôndrias"
+      },
+      {
+        "letter": "D",
+        "text": "microtúbulos"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A vincristina impede a polimerização dos microtúbulos, essenciais para a formação do fuso mitótico que separa os cromossomos igualmente entre as células-filhas — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q32",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 32,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "A sobrevivência de ninhadas de filhotes de aves requer muitos cuidados, envolvendo grande gasto de energia por parte dos pais. Em função disso, em várias espécies, outros indivíduos da população manifestam um comportamento altruísta: deixam de reproduzir para auxiliar nos cuidados com a prole alheia.\n\nObservações mostram que a probabilidade de um indivíduo auxiliar nos cuidados com filhotes que não são seus aumenta proporcionalmente ao grau de parentesco genético entre ele e os pais desses filhotes.\n\nCom base nessa informação, conclui-se que a principal vantagem desse comportamento altruísta é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução de genes deletérios"
+      },
+      {
+        "letter": "B",
+        "text": "aumento da variabilidade genética"
+      },
+      {
+        "letter": "C",
+        "text": "maior frequência de um genótipo"
+      },
+      {
+        "letter": "D",
+        "text": "menor taxa de genes homozigotos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao ajudar parentes próximos a se reproduzirem com sucesso, o indivíduo altruísta favorece a propagação de genes que também compartilha com esses parentes (seleção de parentesco), aumentando a frequência desse genótipo nas gerações seguintes — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q34",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 34,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de 80 ºC. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a 22,2 °C.\n\nSabe-se que o calor específico da água é igual a 1,00 cal/g°C e o do alumínio, a 0,22 cal/g°C. Admita que só ocorra troca de calor entre a peça e a água.\n\nNessas condições, a temperatura de equilíbrio térmico, em ºC, é aproximadamente igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "25"
+      },
+      {
+        "letter": "B",
+        "text": "28"
+      },
+      {
+        "letter": "C",
+        "text": "31"
+      },
+      {
+        "letter": "D",
+        "text": "34"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pelo balanço de calor: 500×0,22×(80−T) = 1000×1,00×(T−22,2). Resolvendo: 110(80−T) = 1000(T−22,2) → 8800 − 110T = 1000T − 22200 → 31000 = 1110T → T ≈ 27,9 °C, aproximadamente 28 °C — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q35",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 35,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Em um instituto de análises físicas, uma placa de determinado material passa por um teste que verifica o percentual de variação de sua área ao ser submetida a aumento de temperatura. Antes do teste, a placa, que tem área igual a 3,0 × 10³ cm², encontra-se a 20 ºC; ao ser colocada no forno, sua temperatura atinge 60 ºC. Sabe-se que o coeficiente de dilatação linear do material que a constitui é igual a 1,5 × 10⁻⁵ °C⁻¹.\n\nNesse teste, o percentual de variação da área da placa foi de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,16%"
+      },
+      {
+        "letter": "B",
+        "text": "0,12%"
+      },
+      {
+        "letter": "C",
+        "text": "0,8%"
+      },
+      {
+        "letter": "D",
+        "text": "0,6%"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O coeficiente de dilatação superficial é β = 2α = 3,0 × 10⁻⁵ °C⁻¹. A variação percentual de área é β·ΔT = 3,0×10⁻⁵ × 40 = 1,2×10⁻³ = 0,12% — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q36",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo, formado por uma lente convergente que projeta, sobre um anteparo, a imagem real de um objeto colocado sobre o eixo principal da lente.\n\nSabe-se que a distância p do objeto à lente é de 11 cm e a distância p', entre a imagem e a lente, é de 66/5 cm.\n\nCom base nas informações, a distância focal da lente, em centímetros, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "10"
+      },
+      {
+        "letter": "D",
+        "text": "12"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pela equação dos pontos conjugados, 1/f = 1/p + 1/p' = 1/11 + 5/66 = 6/66 + 5/66 = 11/66 = 1/6. Logo, f = 6 cm — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q37",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 37,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O funcionário de um supermercado recolhe as mercadorias deixadas nos caixas e as coloca em carrinhos. Após certo tempo de trabalho, as mercadorias recolhidas ocupam quatro carrinhos idênticos, interligados em fila por correntes: a corrente I liga o primeiro ao segundo carrinho (a partir de quem puxa), a corrente II liga o segundo ao terceiro, e a corrente III liga o terceiro ao quarto. Ao deslocar os carrinhos, o funcionário exerce, no primeiro carrinho, uma força F de intensidade igual a 8 N.\n\nConsidere que cada carrinho, com os produtos neles contidos, possui massa de 10 kg. Desprezando os atritos, a tração na corrente II, em newtons, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "3"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "5"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A aceleração do conjunto é a = F/(4m) = 8/40 = 0,2 m/s². A corrente II arrasta os dois últimos carrinhos (massa 20 kg): T_II = 20 × 0,2 = 4 N — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q38",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 38,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um circuito elétrico é formado por uma fonte de tensão E ligada em série a dois resistores de 60 Ω cada, um amperímetro (de resistência desprezível) que mede a corrente total do circuito, e um voltímetro (de resistência infinita) que mede a tensão sobre o conjunto dos dois resistores. Sabe-se que a corrente registrada no amperímetro é igual a 100 mA.\n\nA tensão elétrica, em volts, indicada no voltímetro, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8"
+      },
+      {
+        "letter": "B",
+        "text": "10"
+      },
+      {
+        "letter": "C",
+        "text": "12"
+      },
+      {
+        "letter": "D",
+        "text": "14"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os dois resistores em série somam 120 Ω. A tensão medida é V = R·i = 120 × 0,1 = 12 V — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q40",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 40,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Nas reações químicas de decomposição, uma substância composta se decompõe em duas ou mais substâncias.\n\nUm exemplo de reação química de decomposição está representado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "CaCO3 → CaO + CO2"
+      },
+      {
+        "letter": "B",
+        "text": "MgO + H2O → Mg(OH)2"
+      },
+      {
+        "letter": "C",
+        "text": "Zn + H2SO4 → ZnSO4 + H2"
+      },
+      {
+        "letter": "D",
+        "text": "HNO3 + NaOH → NaNO3 + H2O"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na equação CaCO3 → CaO + CO2, um único composto (carbonato de cálcio) se decompõe em dois produtos — reação de decomposição. As demais são, respectivamente, síntese, simples troca e dupla troca (neutralização) — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q42",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 42,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio (CaBr2, massa molar 200 g/mol). Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 g/L.\n\nAdmitindo a completa dissociação do sal, a concentração de íons brometo, em mol/L, nessa solução, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15"
+      },
+      {
+        "letter": "B",
+        "text": "30"
+      },
+      {
+        "letter": "C",
+        "text": "45"
+      },
+      {
+        "letter": "D",
+        "text": "60"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A concentração molar de CaBr2 é 3000/200 = 15 mol/L. Cada mol de CaBr2 libera 2 mol de Br⁻ na dissociação completa (CaBr2 → Ca²⁺ + 2Br⁻), resultando em 30 mol/L de íons brometo — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q43",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 43,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A DEET (N,N-dietil-3-metilbenzamida) é uma substância amplamente empregada como repelente de insetos. Sua estrutura consiste em um anel benzênico com um grupo metila e, ligado ao anel, um grupo carbonila (C=O) unido a um átomo de nitrogênio que, por sua vez, está ligado a dois grupos etila.\n\nCom base na análise dessa estrutura química, verifica-se que a DEET pertence à seguinte função orgânica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "éter"
+      },
+      {
+        "letter": "B",
+        "text": "amina"
+      },
+      {
+        "letter": "C",
+        "text": "amida"
+      },
+      {
+        "letter": "D",
+        "text": "cetona"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A presença do grupo carbonila diretamente ligado a um átomo de nitrogênio (C(=O)–N) caracteriza a função amida — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q44",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 44,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O ácido acetilsalicílico (aspirina) é um medicamento usado no combate à febre e à dor. Estruturalmente, é um éster formado pela reação entre o ácido salicílico e o ácido acético (ácido etanoico). No organismo, esse éster é hidrolisado, regenerando o ácido salicílico e liberando um composto X, correspondente ao ácido usado em sua formação original.\n\nO composto X, formado nessa reação, é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "etanoato de etila"
+      },
+      {
+        "letter": "B",
+        "text": "ácido etanoico"
+      },
+      {
+        "letter": "C",
+        "text": "etoxietano"
+      },
+      {
+        "letter": "D",
+        "text": "etanol"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A hidrólise do éster (ácido acetilsalicílico) rompe a ligação éster, regenerando o ácido salicílico e liberando o ácido etanoico (ácido acético), que fora usado em sua formação — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q45",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 45,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de 10 m³ desse resíduo com concentração de íons H+ de 0,1 mol/L.\n\nDesprezando-se a variação de volume, para que essa solução residual alcance pH = 2,0, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "28"
+      },
+      {
+        "letter": "B",
+        "text": "32"
+      },
+      {
+        "letter": "C",
+        "text": "36"
+      },
+      {
+        "letter": "D",
+        "text": "40"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Quantidade inicial de H+: 0,1 mol/L × 10000 L = 1000 mol. Para pH=2, [H+] final = 0,01 mol/L, ou seja, 100 mol restantes. É preciso neutralizar 900 mol de H+ com 900 mol de NaOH (massa molar 40 g/mol): 900 × 40 = 36000 g = 36 kg — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q47",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 47,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "O MAPA COMO ARTE\n\nCHAGOYA, E. Road map. 2003. Litografia colorida sobre papel. artgallery.yale.edu.\n\n\"O século XX foi, talvez, o mais violento da história mundial. A humanidade está em constante guerra consigo mesma e é perfeitamente capaz da destruição total. Esse é o material bruto para a minha arte\", diz o artista mexicano Enrique Chagoya. Em um mapa do mundo ladeado por figuras de esperança e de desespero e coberto por imagens militares e religiosas, assim como por estereótipos culturais, Chagoya ironiza os Estados Unidos enquanto superpotência e país defensor da autodeterminação democrática mundo afora.\n\nAdaptado de HARMON, K. (Org.). The map as art. Nova York: Princeton Architectural Press, 2009.\n\nNa obra do artista, identifica-se o uso de um recurso de representação do espaço similar à seguinte técnica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "projeção cartográfica"
+      },
+      {
+        "letter": "B",
+        "text": "sensoriamento remoto"
+      },
+      {
+        "letter": "C",
+        "text": "anamorfose geográfica"
+      },
+      {
+        "letter": "D",
+        "text": "levantamento planimétrico"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao distorcer, sobrepor e ironizar elementos de um mapa-múndi convencional para transmitir uma crítica política, Chagoya usa um recurso de deformação intencional do espaço representado análogo à anamorfose geográfica (distorção proposital de mapas para fins de crítica ou análise) — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q48",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 48,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Um grafite do artista Banksy, localizado nas proximidades de um mercado no norte da cidade de Londres, mostra um braço robótico de um caixa eletrônico segurando uma menina. A obra remete a uma discussão acerca dos impactos das novas tecnologias no capitalismo contemporâneo.\n\nFonte: banksy.newtfire.org.\n\nUm impacto socioeconômico no atual modelo produtivo é o aumento da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fabricação de bens padronizados"
+      },
+      {
+        "letter": "B",
+        "text": "necessidade de grandes estoques"
+      },
+      {
+        "letter": "C",
+        "text": "durabilidade de artigos industriais"
+      },
+      {
+        "letter": "D",
+        "text": "exigência de trabalhadores qualificados"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A automação crescente (representada pelo braço robótico) substitui funções antes realizadas por trabalhadores pouco qualificados, elevando a exigência por trabalhadores qualificados capazes de operar, programar e manter as novas tecnologias — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q49",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 animais/ha. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 animais/ha, utilizando meios mais sustentáveis como os sistemas integrados.\n\nAdaptado de pp.nexojornal.com.br, 04/07/2021.\n\nA reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "grilagem de terras públicas"
+      },
+      {
+        "letter": "B",
+        "text": "implantação de cooperativas rurais"
+      },
+      {
+        "letter": "C",
+        "text": "expropriação de latifúndios ociosos"
+      },
+      {
+        "letter": "D",
+        "text": "povoamento de espaços quilombolas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Historicamente, grande parte da pecuária extensiva brasileira expandiu-se sobre terras públicas apropriadas irregularmente (grilagem), com baixo investimento tecnológico e baixa produtividade por hectare — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q50",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 50,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Um mapa-múndi identifica os países cuja população muçulmana é superior a 75% do total. A grande maioria desses países está localizada no Oriente Médio e no Norte da África, regiões que compartilham um forte vínculo histórico comum de conquista e islamização ocorrido entre os séculos VII e VIII.\n\nAdaptado de bibnum.sciencespo.fr.\n\nEsses países apresentam forte vínculo histórico com a expansão territorial do seguinte Império:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "persa"
+      },
+      {
+        "letter": "B",
+        "text": "árabe"
+      },
+      {
+        "letter": "C",
+        "text": "romano"
+      },
+      {
+        "letter": "D",
+        "text": "britânico"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A expansão do Império Árabe-Islâmico a partir do século VII islamizou o Oriente Médio e o Norte da África, regiões que hoje concentram os países com maior proporção de população muçulmana — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q51",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 51,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "O dia 6 de janeiro de 2021 entrou para a história. O Congresso dos Estados Unidos, a maior democracia do mundo, foi invadido. Manifestantes forçaram a passagem até que os policiais do Capitólio não deram conta de segurar a multidão. Horas depois, Trump divulgou um vídeo repetindo que as eleições foram roubadas e pediu para que seus eleitores deixassem o prédio. Milhares de pessoas marcharam pela capital americana entoando frases que o presidente tem repetido, sem apresentar provas: \"Parem com o roubo! A eleição foi roubada\".\n\nNÚRIA SALDANHA. Adaptado de cnnbrasil.com.br, 07/01/2021.\n\nO episódio descrito na reportagem causou perplexidade mundial, por ter acontecido em uma das mais antigas democracias do mundo. Ao longo das últimas décadas na sociedade estadunidense, ocorreu a seguinte transformação fundamental para a compreensão desse episódio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crescimento da polarização política"
+      },
+      {
+        "letter": "B",
+        "text": "esgotamento do regime republicano"
+      },
+      {
+        "letter": "C",
+        "text": "enfraquecimento do poder judiciário"
+      },
+      {
+        "letter": "D",
+        "text": "incremento da fragmentação partidária"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A invasão do Capitólio é compreendida como resultado do aprofundamento da polarização política nos Estados Unidos nas últimas décadas, que radicalizou o discurso e a desconfiança entre os apoiadores dos dois principais partidos — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q52",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 52,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Mapas de temperatura máxima e mínima anual da Rússia mostram grande amplitude térmica entre as diferentes regiões do país, sobretudo no interior do território, distante do mar, e nas áreas situadas em latitudes mais altas.\n\nAdaptado de agroatlas.ru.\n\nCom base na análise dos mapas, os fatores climáticos de maior relevância para explicar a amplitude térmica anual nesse país são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "albedo e vegetação"
+      },
+      {
+        "letter": "B",
+        "text": "altitude e maritimidade"
+      },
+      {
+        "letter": "C",
+        "text": "topografia e precipitação"
+      },
+      {
+        "letter": "D",
+        "text": "latitude e continentalidade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A extensão territorial da Rússia em altas latitudes, associada à grande distância de áreas centrais em relação ao mar (continentalidade), explica a grande amplitude térmica anual observada no país — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q53",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 53,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "\"Aqui está um mapa do Afeganistão. A primeira pergunta que ele suscita é: por que o Afeganistão existe? O país contém cerca de uma dúzia de grupos étnicos, cuja distribuição é mostrada aqui de forma simplificada. Devem-se ter em mente também as divisões tribais afegãs, que se subdividem em numerosos clãs e grupos familiares menores.\"\n\nCHRISTOPHER BELLAIGUE. Adaptado de nybooks.com, 07/10/2010.\n\nA partir do mapa e do texto, depreende-se a dificuldade de construção de uma identidade nacional em contextos socioespaciais como o afegão. Entretanto, há um país asiático, com diversidade étnica, linguística e religiosa semelhante, que logrou preservar sua unidade territorial e seu regime democrático desde sua independência.\n\nEsse país asiático é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Irã"
+      },
+      {
+        "letter": "B",
+        "text": "Índia"
+      },
+      {
+        "letter": "C",
+        "text": "China"
+      },
+      {
+        "letter": "D",
+        "text": "Vietnã"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A Índia, apesar de sua enorme diversidade étnica, linguística e religiosa, manteve a unidade territorial e o regime democrático desde sua independência em 1947 — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q55",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 55,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce.\n\nEm 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas.\n\nAdaptado de g1.globo.com, 15/09/2021.\n\nA ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contenção violenta da reforma agrária"
+      },
+      {
+        "letter": "B",
+        "text": "redistribuição autoritária da propriedade fundiária"
+      },
+      {
+        "letter": "C",
+        "text": "expropriação arbitrária da comunidade tradicional"
+      },
+      {
+        "letter": "D",
+        "text": "modernização conservadora da estrutura produtiva"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O confinamento forçado dos Krenak, longe de suas terras, para favorecer posseiros, configura uma expropriação arbitrária de uma comunidade tradicional, imposta pelo próprio Estado durante a ditadura militar — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q56",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 56,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Em 2002, os restos mortais do escritor Alexandre Dumas, falecido em 1870, foram enterrados no Panteão, mausoléu do Estado francês. O autor dos clássicos Os três mosqueteiros e O conde de Monte Cristo foi colocado em uma cripta ao lado de figuras históricas tão importantes quanto ele, como Victor Hugo e Voltaire. O presidente à época, Jacques Chirac, declarou que foi reparado o \"erro\" contra o escritor.\n\nEmbora fosse negro, o autor foi representado inúmeras vezes como um homem branco; algo que já aconteceu e continua acontecendo com figuras históricas negras, em pinturas, desenhos e até mesmo no cinema. No filme L'autre Dumas (\"O outro Dumas\"), de 2010, o ator Gérard Depardieu, loiro de olhos azuis, foi chamado para interpretar o romancista francês.\n\nAdaptado de aventurasnahistoria.uol.com.br.\n\nA partir do texto, a demora no reconhecimento ao escritor Alexandre Dumas teve como razão a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução da intolerância"
+      },
+      {
+        "letter": "B",
+        "text": "atenuação da discriminação"
+      },
+      {
+        "letter": "C",
+        "text": "persistência do preconceito"
+      },
+      {
+        "letter": "D",
+        "text": "continuidade do supremacismo"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O apagamento e o embranquecimento sistemático da imagem de Dumas ao longo de mais de um século, mesmo sendo ele um dos maiores escritores franceses, revela a persistência do preconceito racial mesmo diante do reconhecimento de seu mérito — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q58",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 58,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "PICASSO, P. Guernica. 1937. Pintura a óleo. museoreinasofia.es.\n\nPintada em 1937 para a Exposição Internacional de Paris, a tela de Picasso é um registro e um protesto diante do bombardeio da cidade basca de Guernica pela aviação alemã e italiana, durante a Guerra Civil Espanhola (1936-1939).\n\nPara as sociedades europeias, esse conflito está vinculado ao seguinte processo político:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão de regimes fascistas"
+      },
+      {
+        "letter": "B",
+        "text": "projeção de grupos socialistas"
+      },
+      {
+        "letter": "C",
+        "text": "militarização das lutas partidárias"
+      },
+      {
+        "letter": "D",
+        "text": "repressão de movimentos camponeses"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A Guerra Civil Espanhola foi palco do apoio direto da Alemanha nazista e da Itália fascista às forças franquistas, funcionando como um prenúncio e um campo de expansão da influência dos regimes fascistas na Europa — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q59",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 59,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais ligando regiões distantes do país, como a rodovia Acre-Brasília, cujas obras avançavam por áreas de floresta e ocupação rarefeita, exigindo grande esforço logístico e humano.\n\nAdaptado de exposicoesvirtuais.an.gov.br e cpdoc.fgv.br.\n\nUm dos principais desafios associados à plena realização da meta rodoviária foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integrar áreas distantes"
+      },
+      {
+        "letter": "B",
+        "text": "povoar zonas fronteiriças"
+      },
+      {
+        "letter": "C",
+        "text": "contratar profissionais locais"
+      },
+      {
+        "letter": "D",
+        "text": "garantir investimentos estrangeiros"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A construção de rodovias como a Acre-Brasília tinha como principal desafio conectar e integrar regiões distantes e de difícil acesso do território nacional, ainda pouco povoadas e sem infraestrutura — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q60",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O ZOOLÓGICO HUMANO DE TERVUREN, NA BÉLGICA\n\nPara a Exposição Internacional de Bruxelas, que ocorreu em 1897, o Rei Leopoldo II mandou construir o Palácio Colonial, atual Palácio da África, em Tervuren. As salas de exposição do Palácio abrigaram animais, objetos etnográficos e artísticos congoleses, além de produtos econômicos congoleses e europeus. Três aldeias cercadas foram criadas na cidade. Um total de 267 homens, mulheres e crianças congoleses foram forçados a ocupar essas aldeias, expostos como atração para os visitantes europeus.\n\nAdaptado de africamuseum.be.\n\nNa Exposição Internacional de Bruxelas, foram apresentados os resultados das ações imperialistas do governo belga na região do Congo, no decorrer da segunda metade do século XIX. A concepção que orientou essas ações e um de seus efeitos para as populações congolesas da época estão indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "globalismo – discriminação"
+      },
+      {
+        "letter": "B",
+        "text": "etnocentrismo – aculturação"
+      },
+      {
+        "letter": "C",
+        "text": "colaborativismo – racialização"
+      },
+      {
+        "letter": "D",
+        "text": "evolucionismo – miscigenação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A exibição de povos congoleses como curiosidade exótica em 'aldeias' reflete o etnocentrismo europeu (a cultura europeia como parâmetro civilizatório superior), e o processo colonial subsequente impôs a aculturação forçada das populações congolesas — alternativa B.",
     "source": {
       "institution": "UERJ",
       "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
