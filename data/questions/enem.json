@@ -5783,5 +5783,989 @@
       "institution": "INEP",
       "note": "Questão oficial do ENEM 2020, reproduzida na íntegra para fins educacionais e não comerciais."
     }
+  },
+  {
+    "id": "enem-2021-q01",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "We are now a nation obsessed with the cult of celebrity. Celebrities have replaced the classic notion of the hero. But instead of being respected for talent, courage or intelligence, it is money, style and image the deciding factors in what commands respect. [...] Celebrities though cannot be blamed for all negative aspects of society. In reality society is to blame. We are the people who seemed to have lost the ability to think for ourselves. I suppose it's easier to be told what to think, rather than challenging what we are told. The reason we are swamped by celebrity is because there is a demand for it.\n\nDisponível em: www.pitlanemagazine.com. Acesso em: 7 dez. 2017 (adaptado).\n\nO texto, que aborda questões referentes ao tema do culto à celebridade, tem o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "destacar os méritos das celebridades."
+      },
+      {
+        "letter": "B",
+        "text": "criticar o consumismo das celebridades."
+      },
+      {
+        "letter": "C",
+        "text": "ressaltar a necessidade de reflexão dos fãs."
+      },
+      {
+        "letter": "D",
+        "text": "culpar as celebridades pela obsessão dos fãs."
+      },
+      {
+        "letter": "E",
+        "text": "valorizar o marketing pessoal das celebridades."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O autor afirma explicitamente que “society is to blame” (a sociedade é a culpada, não as celebridades) e que perdemos “a habilidade de pensar por nós mesmos”, sendo mais fácil aceitar o que nos dizem do que questionar. O objetivo do texto é, portanto, chamar a atenção para a necessidade de reflexão crítica por parte dos fãs/da sociedade, alternativa C — e não culpar as celebridades (D), que o texto explicitamente isenta.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q06",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Um asteroide de cerca de um mil metros de diâmetro, viajando a 288 mil quilômetros por hora, passou a uma distância insignificante — em termos cósmicos — da Terra [...]. Se ele tivesse sido capturado pelo campo gravitacional do nosso planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT [...]; se caísse no continente, abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam imensas regiões costeiras. Enfim, uma visão do Apocalipse.\n\nDisponível em: http://bdjur.stj.jus.br. Acesso em: 23 abr. 2010.\n\nQual estratégia caracteriza o texto como uma notícia alarmante?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A descrição da velocidade do asteroide."
+      },
+      {
+        "letter": "B",
+        "text": "A recorrência de formulações hipotéticas."
+      },
+      {
+        "letter": "C",
+        "text": "A referência à opinião dos astrônomos."
+      },
+      {
+        "letter": "D",
+        "text": "A utilização da locução adverbial “no mínimo”."
+      },
+      {
+        "letter": "E",
+        "text": "A comparação com a distância da Lua à Terra."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto encadeia repetidas construções hipotéticas (“se ele tivesse sido capturado...”, “se caísse no continente...”, “se desabasse no oceano...”), cada uma descrevendo um cenário catastrófico distinto, o que amplifica o tom alarmista da notícia mesmo sem nenhum desses eventos ter de fato ocorrido. Alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q08",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "O documentário O menino que fez um museu, direção de Sérgio Utsch, produção independente de brasileiros e britânicos, gravado no Nordeste em 2016 [...] foi premiado em Londres, pela Foreign Press Association (FPA) [...]. De acordo com o diretor, O menino que fez um museu foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas. O documentário conta a história de um Brasil profundo, desconhecido até mesmo por muitos brasileiros [...].\n\nDisponível em: www.opovo.com.br. Acesso em: 18 abr. 2018.\n\nNo segundo parágrafo, uma citação afirma que o documentário foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas. No texto, esse recurso expressa uma estratégia argumentativa que reforça a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "originalidade da iniciativa de homenagem à vida e à obra de Luiz Gonzaga."
+      },
+      {
+        "letter": "B",
+        "text": "falta de concorrentes ao prêmio de uma das associações mais antigas do mundo."
+      },
+      {
+        "letter": "C",
+        "text": "proeza da premiação de uma história ambientada no interior do Nordeste brasileiro."
+      },
+      {
+        "letter": "D",
+        "text": "escassez de investimentos para a produção cinematográfica independente no país."
+      },
+      {
+        "letter": "E",
+        "text": "importância da parceria entre brasileiros e britânicos para a realização das filmagens."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao destacar que o documentário foi o único finalista de fora do eixo Estados Unidos-Europa, o texto reforça o caráter excepcional dessa conquista: uma história ambientada no interior profundo do Nordeste brasileiro competindo e sendo premiada ao lado de produções dos grandes centros, alternativa C.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q17",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "A história do futebol brasileiro contém, ao longo de um século, registros de episódios racistas. [...] A Copa do Mundo no Brasil, em 1950, viria a se constituir [...] em uma rara oportunidade. Contudo, na decisão contra o Uruguai sobreveio o inesperado revés. As crônicas esportivas elegiam o goleiro Barbosa e o defensor Bigode como bodes expiatórios [...]. Nos anos 1970, por não atender às expectativas normativas suscitadas pelo estereótipo do “bom negro”, Paulo César Lima foi classificado como “jogador-problema”. [...] Enquanto Barbosa e Bigode, sem alternativa, suportaram o linchamento moral na derrota de 1950, Paulo César contra-atacava os que pretendiam condená-lo pelo insucesso de 1974. [...] “Sinto na pele esse racismo subjacente”, revelou à imprensa francesa: “Isto é, ninguém ousa pronunciar a palavra ‘racismo’. Mas posso garantir que ele existe, mesmo na Seleção Brasileira”. Sua ousadia consistiu em pronunciar a palavra interdita no espaço simbólico do discurso oficial para desafiar o mito da democracia racial.\n\nDisponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 2019 (adaptado).\n\nO texto atribui o enfraquecimento do mito da democracia racial no futebol à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "responsabilização de jogadores negros pela derrota na final da Copa de 1950."
+      },
+      {
+        "letter": "B",
+        "text": "projeção mundial da nação por um esporte antes destinado aos pobres."
+      },
+      {
+        "letter": "C",
+        "text": "depreciação de um esporte associado à marginalidade."
+      },
+      {
+        "letter": "D",
+        "text": "interdição da palavra “racismo” no contexto esportivo."
+      },
+      {
+        "letter": "E",
+        "text": "atitude contestadora de um jogador “problema”."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Diferentemente de Barbosa e Bigode, que “suportaram” passivamente a culpabilização racista em 1950, Paulo César Lima reagiu (“contra-atacava”) e rompeu o silêncio ao declarar publicamente à imprensa que o racismo existia mesmo na Seleção. Foi essa atitude contestadora e ousada de um jogador rotulado como “problema” que expôs e, assim, enfraqueceu o mito da democracia racial no futebol brasileiro, alternativa E.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q19",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade"
+    ],
+    "statement": "Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares [...]. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outras crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predomina o jogo individual com a máquina.\n\nOLIVA, M. P. O direito das crianças ao lazer... e a crescer sem carências. El País, 20 nov. 2015 (adaptado).\n\nO texto indica que as transformações nas experiências lúdicas na infância",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fomentaram as relações sociais entre as crianças."
+      },
+      {
+        "letter": "B",
+        "text": "tornaram o lazer uma prática difundida entre as crianças."
+      },
+      {
+        "letter": "C",
+        "text": "incentivaram a criação de novos espaços para se divertir."
+      },
+      {
+        "letter": "D",
+        "text": "promoveram uma vivência corporal menos ativa."
+      },
+      {
+        "letter": "E",
+        "text": "contribuíram para o aumento do tempo dedicado para brincar."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As crianças de hoje brincam menos tempo, mais sozinhas, em casa, com aparelhos eletrônicos individuais — um perfil de lazer muito mais sedentário e menos corporalmente ativo do que o das gerações anteriores, que brincavam mais ao ar livre e com outras crianças. Alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q20",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Que tal transformar a internet em palco para a dança? O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática entre movimento, computador, internet e vídeo. [...] A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. [...] Mini@tures explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. A dança dos encéfalos acesos. São Paulo: Itaú Cultural, 2003 (adaptado).\n\nConsiderado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos."
+      },
+      {
+        "letter": "B",
+        "text": "criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações."
+      },
+      {
+        "letter": "C",
+        "text": "privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela."
+      },
+      {
+        "letter": "D",
+        "text": "produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética."
+      },
+      {
+        "letter": "E",
+        "text": "redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O projeto combina corpo, dança, computação gráfica e internet numa mesma obra — uma “contaminação entre mídias” que caracteriza uma arte multimodal, ampliando as formas de expressão estética possíveis para a dança contemporânea, alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q21",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "TEXTO I — O mito da estiagem em São Paulo\n\nOs estoques de água doce são inesgotáveis, na medida em que são alimentados principalmente pelos oceanos [...] pelo ciclo hidrológico, que depende de forças físicas as quais o homem nunca poderá interromper. Enquanto existirem, o ciclo funcionará e os estoques de água doce nos continentes serão repostos indefinidamente. [...]\n\nTEXTO II\n\nO processo de sedimentação no fundo do lago de um reservatório é um processo lento. Os sedimentos vão formando argila, que é uma rocha impermeável. Então, a água daquele lago não vai alimentar os aquíferos. Mesmo tendo muita quantidade de água superficial, ela não consegue penetrar no solo para alimentar os aquíferos. [...]\n\nDisponível em: www.cartanaescola.com.br / www.jornalopcao.com.br. Acesso em: 17 jan. 2015 (adaptado).\n\nOs textos I e II abordam a situação dos reservatórios de água doce do planeta. Entretanto, a divergência entre eles está na ideia de que é possível",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manter os estoques de água doce."
+      },
+      {
+        "letter": "B",
+        "text": "utilizar a água superficial para o consumo."
+      },
+      {
+        "letter": "C",
+        "text": "repor os estoques de água doce em regiões áridas."
+      },
+      {
+        "letter": "D",
+        "text": "reduzir as taxas de precipitação e evaporação da água."
+      },
+      {
+        "letter": "E",
+        "text": "equalizar a distribuição de água doce nas diferentes regiões."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O Texto I afirma que os estoques de água doce são “inesgotáveis” e sempre “repostos indefinidamente” pelo ciclo hidrológico, enquanto o Texto II mostra que, na prática, os aquíferos podem deixar de ser reabastecidos (por sedimentação/impermeabilização), não recuperando seu nível. A divergência central é, portanto, sobre a possibilidade de manter os estoques de água doce, alternativa A.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q24",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Seus primeiros anos de detento foram difíceis; aos poucos entendeu como o sistema funciona. Apanhou dezenas de vezes, teve o crânio esmagado, o maxilar deslocado, braços e pernas quebrados [...]. Seu corpo, moído no inferno, aguarda o fim dos seus dias. Já não questiona mais. Obedece. Cumpre as ordens. Baixa a cabeça e se retira. [...] Intriga ter sobrevivido durante tantos anos. Pouquíssimos chegaram à terceira idade encarcerados.\n\nMAIA, A. P. Assim na terra como embaixo da terra. Rio de Janeiro: Record, 2017.\n\nA narrativa concentra sua força expressiva no manejo de recursos formais e numa representação ficcional que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "buscam perpetuar visões do senso comum."
+      },
+      {
+        "letter": "B",
+        "text": "trazem à tona atitudes de um estado de exceção."
+      },
+      {
+        "letter": "C",
+        "text": "promovem a interlocução com grupos silenciados."
+      },
+      {
+        "letter": "D",
+        "text": "inspiram o sentimento de justiça por meio da empatia."
+      },
+      {
+        "letter": "E",
+        "text": "recorrem ao absurdo como forma de traduzir a realidade."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A descrição de violência sistemática e impune contra um detento (espancamentos, mutilações, quase morte, sem justificativa clara) dentro do sistema prisional revela uma condição de exceção — em que direitos básicos são sistematicamente suspensos dentro de uma instituição do próprio Estado. Alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q25",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "— O senhor pensa que só porque o deixaram morar neste país pode logo ir fazendo o que quer? [...] Eu ensino o senhor a cumprir a lei, ali no duro: “dura lex”! [...] Sei como tratar gringos feito o senhor. [...] Foi então que a mulher do vizinho do General interveio: — Era tudo que o senhor tinha a dizer a meu marido? [...] — Pois então fique sabendo que eu também sei tratar tipos como o senhor. Meu marido não é gringo nem meus filhos são moleques. [...] E fique sabendo que sou brasileira, sou prima de um Major do Exército, sobrinha de um Coronel, e filha de um General! [...] Estarrecido, o delegado só teve força para engolir em seco e balbuciar humildemente: — Da ativa, minha senhora?\n\nSABINO, F. A mulher do vizinho. In: Os melhores contos. Rio de Janeiro: Record, 1986.\n\nA representação do discurso intimidador engendrada no fragmento é responsável por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ironizar atitudes e ideias xenofóbicas."
+      },
+      {
+        "letter": "B",
+        "text": "conferir à narrativa um tom anedótico."
+      },
+      {
+        "letter": "C",
+        "text": "dissimular o ponto de vista do narrador."
+      },
+      {
+        "letter": "D",
+        "text": "acentuar a hostilidade das personagens."
+      },
+      {
+        "letter": "E",
+        "text": "exaltar relações de poder estereotipadas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O delegado intimida o vizinho estrangeiro (“gringo”) invocando autoridade e a lei, mas recua imediatamente diante da esposa, que o intimida de volta invocando seus próprios laços de parentesco com militares de alta patente. A cena expõe, de forma cômica, como ambos recorrem a relações de poder estereotipadas (nacionalidade, hierarquia militar) para se impor um sobre o outro, alternativa E.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q26",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado. [...] você provavelmente não sabe que o autor carioca [Machado de Assis], morto em 1908, escreveu uma letra do hino nacional em 1867 [...]. “Das florestas em que habito/ Solto um canto varonil:/ Em honra e glória de Pedro/ O gigante do Brasil”, diz o começo do hino [...]. O Pedro mencionado é o imperador Dom Pedro II. O bruxo do Cosme Velho compôs a letra para o aniversário de 42 anos do monarca [...].\n\nDisponível em: www.revistaprosaversoearte.com. Acesso em: 4 dez. 2018 (adaptado).\n\nConsiderando-se as operações de retomada de informações na estruturação do texto, há interdependência entre as expressões",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "“Os velhos papéis” e “É assim”."
+      },
+      {
+        "letter": "B",
+        "text": "“algo novo” e “sobre o qual”."
+      },
+      {
+        "letter": "C",
+        "text": "“um nome antigo” e “Por exemplo”."
+      },
+      {
+        "letter": "D",
+        "text": "“O gigante do Brasil” e “O Pedro mencionado”."
+      },
+      {
+        "letter": "E",
+        "text": "“o imperador Dom Pedro II” e “O bruxo do Cosme Velho”."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A expressão “O Pedro mencionado”, mais adiante no texto, retoma explicitamente o “Pedro” citado nos versos transcritos (“Em honra e glória de Pedro/ O gigante do Brasil”) — uma clara relação de retomada anafórica entre essas duas expressões, alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q28",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Thumbs Up\n\nPonto positivo para o Facebook, que vai dar uma ajeitada na casa [...]. Durante a F8, sua conferência anual, a empresa anunciou a maior mudança de design do serviço em 5 anos. Agora, o polêmico feed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o segmento de Grupos [...]. O objetivo agora é aumentar o tráfego [...]. Com isso, parece que há um novo padrão se montando na rede social: sai o feed, entra a segmentação, que pode ser uma boa porta para monetização nos próximos anos. [...]\n\nDisponível em: https://thebrief.us16.list.manage.com. Acesso em: 3 maio 2019 (adaptado).\n\nO texto relata que uma rede social virtual realizará sua maior mudança de design dos últimos anos. Esse fato revela que as tecnologias de informação e comunicação",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "buscam oferecer mais privacidade."
+      },
+      {
+        "letter": "B",
+        "text": "assimilam os comportamentos dos usuários."
+      },
+      {
+        "letter": "C",
+        "text": "promovem maior interação em ambientes virtuais."
+      },
+      {
+        "letter": "D",
+        "text": "oferecem mais facilidades para obter cada vez mais lucro."
+      },
+      {
+        "letter": "E",
+        "text": "evoluem para ficar mais parecidas umas com as outras."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto liga explicitamente a mudança de design à possibilidade de “monetização nos próximos anos” — ou seja, a reformulação da plataforma é apresentada como uma estratégia voltada, em última instância, para aumentar o lucro da empresa, alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q30",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Não que Pelino fosse químico, longe disso; mas era sábio, era gramático. Ninguém escrevia em Tubiacanga que não levasse bordoada do Capitão Pelino [...]. Toda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e emendava as maiores glórias nacionais. [...] Quando, porém, dos lábios de alguém escapava a menor incorreção de linguagem, intervinha e emendava. “Eu asseguro”, dizia o agente do Correio [...] Por aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’, Senhor Bernardes; em português é ‘garanto’”. [...] Pelino, indiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo.\n\nBARRETO, L. A Nova Califórnia. Disponível em: www.dominiopublico.gov.br. Acesso em: 24 jul. 2019.\n\nDo ponto de vista linguístico, a defesa da norma-padrão pelo personagem caracteriza-se por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contestar o ensino de regras em detrimento do conteúdo das informações."
+      },
+      {
+        "letter": "B",
+        "text": "resgatar valores patrióticos relacionados às tradições da língua portuguesa."
+      },
+      {
+        "letter": "C",
+        "text": "adotar uma perspectiva complacente em relação aos desvios gramaticais."
+      },
+      {
+        "letter": "D",
+        "text": "invalidar os usos da língua pautados pelos preceitos da gramática normativa."
+      },
+      {
+        "letter": "E",
+        "text": "desconsiderar diferentes níveis de formalidade nas situações de comunicação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O “apostolado de vernaculismo” de Pelino — corrigir obsessivamente qualquer “incorreção” de linguagem, mesmo em conversas triviais — reflete uma postura tradicionalista que trata a norma-padrão como um valor quase patriótico, ligado à preservação das “tradições” da língua portuguesa. Alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q31",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer [...]. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas.\n\nARMBRUST, I.; LAURO, F. A. A. O skate e suas possibilidades educacionais. Motriz, jul.-set. 2010 (adaptado).\n\nDe acordo com o texto, diversos fatores ao longo do tempo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contribuíram para a democratização do skate."
+      },
+      {
+        "letter": "B",
+        "text": "evidenciaram as demandas comerciais dos skatistas."
+      },
+      {
+        "letter": "C",
+        "text": "definiram a carreira de skatista profissional."
+      },
+      {
+        "letter": "D",
+        "text": "permitiram que a prática social do skate substituísse o surfe."
+      },
+      {
+        "letter": "E",
+        "text": "indicaram a autonomia dos praticantes de skate."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A invenção das rodas de uretano tornou o skate mais acessível a “um maior número de pessoas inexperientes”, impulsionando campeonatos, marcas e lojas especializadas — um processo de ampliação do acesso à modalidade, ou seja, de democratização do skate, alternativa A.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q32",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Estojo escolar\n\nRio de Janeiro — Noite dessas [...] recebi um embrulho complicado [...]. De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim o meu primeiro estojo escolar. Tinha 5 anos e ia para o jardim de infância. Era uma caixinha comprida, envernizada [...]. Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. [...] O notebook que agora abro é negro e, em matéria de cheiro, é abominável. [...] Acho que piorei de estojo e de vida.\n\nCONY, C. H. Crônicas para ler na escola. São Paulo: Objetiva, 2009 (adaptado).\n\nNo texto, há marcas da função da linguagem que nele predomina. Essas marcas são responsáveis por colocar em foco o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mensagem, elevando-a à categoria de objeto estético do mundo das artes."
+      },
+      {
+        "letter": "B",
+        "text": "código, transformando a linguagem utilizada no texto na própria temática abordada."
+      },
+      {
+        "letter": "C",
+        "text": "contexto, fazendo das informações presentes no texto seu aspecto essencial."
+      },
+      {
+        "letter": "D",
+        "text": "enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado."
+      },
+      {
+        "letter": "E",
+        "text": "interlocutor, considerando-o responsável pelo direcionamento dado à narrativa pelo enunciador."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cronista expressa constantemente sua opinião e sentimento pessoal sobre o que narra (“cheiro que me tonteava de prazer”, “é abominável”, “acho que piorei de estojo e de vida”) — um uso subjetivo e emotivo da linguagem, centrado no enunciador e sua atitude diante do conteúdo, alternativa D (função emotiva).",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q37",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Comportamento geral\n\nVocê deve estampar sempre um ar de alegria / E dizer: tudo tem melhorado / Você deve rezar pelo bem do patrão / E esquecer que está desempregado / Você merece, você merece / Tudo vai bem, tudo legal [...] Você deve aprender a baixar a cabeça / E dizer sempre: muito obrigado / [...] Deve pois só fazer pelo bem da nação / Tudo aquilo que for ordenado / Pra ganhar um fuscão no juízo final / E diploma de bem-comportado\n\nGONZAGUINHA. Luiz Gonzaga Jr. Rio de Janeiro: Odeon, 1973 (fragmento).\n\nPela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, infere-se o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ironizar a incorporação de ideias e atitudes conformistas."
+      },
+      {
+        "letter": "B",
+        "text": "convencer o público sobre a importância dos deveres cívicos."
+      },
+      {
+        "letter": "C",
+        "text": "relacionar o discurso religioso à resolução de problemas sociais."
+      },
+      {
+        "letter": "D",
+        "text": "questionar o valor atribuído pela população às festas populares."
+      },
+      {
+        "letter": "E",
+        "text": "defender uma postura coletiva indiferente aos valores dominantes."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Escrita durante a ditadura militar, a canção adota, de forma propositalmente exagerada e servil, o discurso de submissão ao patrão/à nação (“você deve”, “você merece”, “baixar a cabeça”), numa clara ironia que critica o conformismo imposto à população, e não o defende. Alternativa A.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q39",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "Falso moralista\n\nVocê condena o que a moçada anda fazendo / e não aceita o teatro de revista / arte moderna pra você não vale nada [...] Você é visto toda sexta no Joá / e não é só no Carnaval que vai pros bailes se acabar / Fim de semana você deixa a companheira / e no bar com os amigos bebe bem a noite inteira / Segunda-feira chega na repartição / pede dispensa para ir ao oculista / e vai curar sua ressaca simplesmente / Você não passa de um falso moralista\n\nNELSON SARGENTO. Sonho de um sambista. São Paulo: Eldorado, 1979.\n\nAs letras de samba normalmente se caracterizam por apresentarem marcas informais do uso da língua. Nessa letra de Nelson Sargento, são exemplos dessas marcas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "“falação” e “pros bailes”."
+      },
+      {
+        "letter": "B",
+        "text": "“você” e “teatro de revista”."
+      },
+      {
+        "letter": "C",
+        "text": "“perfeito” e “Carnaval”."
+      },
+      {
+        "letter": "D",
+        "text": "“bebe bem” e “oculista”."
+      },
+      {
+        "letter": "E",
+        "text": "“curar” e “falso moralista”."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "“Falação” (forma coloquial de “conversa fiada”, embora aqui apareça em outro trecho da canção) e a contração “pros” (por “para os”) são marcas típicas da oralidade informal, comuns em letras de samba, alternativa A.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q40",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Introdução a Alda\n\nDizem que ninguém mais a ama. [...] Puseram-na numa cidade triste de uniformes azuis e jalecos brancos, de onde não pôde mais sair. [...] Mas não é verdade que alguém não a possa mais amar. Eu amo-a. Amo-a quando a vejo por trás das grades de um palácio, onde se refugiou princesa, chegada pelos caminhos da dor. [...] Amo-a quando criança brinca na areia sem medo. Uns pés descalços, uma mulher sem intenções. Cercada de mundo, às vezes sofrendo-o ainda.\n\nCANÇADO, M. L. O sofredor do ver. Belo Horizonte: Autêntica, 2015.\n\nAo descrever uma mulher internada em um hospital psiquiátrico, o narrador compõe um quadro que expressa sua percepção",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "irônica quanto aos efeitos do abandono familiar."
+      },
+      {
+        "letter": "B",
+        "text": "resignada em face dos métodos terapêuticos em vigor."
+      },
+      {
+        "letter": "C",
+        "text": "alimentada pela imersão lírica no espaço da segregação."
+      },
+      {
+        "letter": "D",
+        "text": "inspirada pelo universo pouco conhecido da mente humana."
+      },
+      {
+        "letter": "E",
+        "text": "demarcada por uma linguagem alinhada à busca da lucidez."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Apesar do ambiente de internação (segregação), o narrador constrói uma visão poética, afetuosa e lírica da personagem (“princesa”, “amo-a quando criança brinca na areia sem medo”) — uma imersão lírica dentro do próprio espaço de segregação psiquiátrica, alternativa C.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q44",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Naquele tempo, Itaguaí [...] não dispunha de imprensa, tinha dois modos de divulgar uma notícia; ou por meio de cartazes manuscritos [...]; ou por meio de matraca. [...] De quando em quando tocava a matraca, reunia-se gente, e ele anunciava o que lhe incumbiam [...]. Por exemplo, um dos vereadores desfrutava a reputação de perfeito educador de cobras e macacos, e aliás nunca domesticara um só desses bichos; mas tinha o cuidado de fazer trabalhar a matraca todos os meses. E dizem as crônicas que algumas pessoas afirmavam ter visto cascavéis dançando no peito do vereador; afirmação perfeitamente falsa, mas só devida à absoluta confiança no sistema.\n\nASSIS, M. O alienista. Disponível em: www.dominiopubico.gov.br. Acesso em: 2 jun. 2019 (adaptado).\n\nO fragmento faz uma referência irônica a formas de divulgação e circulação de informações em uma localidade sem imprensa. Ao destacar a confiança da população no sistema da matraca, o narrador associa esse recurso à disseminação de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "campanhas políticas."
+      },
+      {
+        "letter": "B",
+        "text": "anúncios publicitários."
+      },
+      {
+        "letter": "C",
+        "text": "notícias de apelo popular."
+      },
+      {
+        "letter": "D",
+        "text": "informações não fidedignas."
+      },
+      {
+        "letter": "E",
+        "text": "serviços de utilidade pública."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O exemplo do vereador que se autopromovia como “educador de cobras e macacos” — reputação inteiramente falsa, mas amplamente acreditada por conta da propaganda repetida pela matraca — ironiza justamente a disseminação de informações não fidedignas por esse meio de divulgação, alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q46",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Seu turno de trabalho acabou, você já está em casa e é hora do jantar da família. Mas, em vez de relaxar, você começa a pensar na possibilidade de ter recebido alguma mensagem importante no e-mail profissional ou no grupo de WhatsApp da empresa. Imediatamente, você fica distante. Momentos depois, com alguns toques na tela do celular, você está de volta ao ambiente de trabalho. O jantar e a família ficaram em segundo plano.\n\nA simples vontade de checar mensagens do trabalho pós-expediente prejudica sua saúde — e a de sua família. Disponível em: www.bbc.com. Acesso em: 4 dez. 2018.\n\nO texto indica práticas nas relações cotidianas do trabalho que causam para o indivíduo a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proteção da vida privada."
+      },
+      {
+        "letter": "B",
+        "text": "ampliação de atividades extras."
+      },
+      {
+        "letter": "C",
+        "text": "elevação de etapas burocráticas."
+      },
+      {
+        "letter": "D",
+        "text": "diversificação do lazer recreativo."
+      },
+      {
+        "letter": "E",
+        "text": "desobrigação de afazeres domésticos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Checar mensagens de trabalho fora do expediente estende, na prática, a jornada de trabalho para além do horário formal, invadindo o tempo de família/lazer — uma ampliação de atividades relacionadas ao trabalho para fora do seu horário “oficial”, alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q48",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Atualmente, o Programa de Melhoramento “Uvas do Brasil” utiliza métodos clássicos de melhoramento, como seleção massal, seleção clonal e hibridações. [...] uma grande equipe técnica trabalhou para executar projetos de pesquisa para atender às necessidades e às demandas de diferentes atores da vitivinicultura nacional, incluindo produtores de uvas de mesa para exportação do semiárido nordestino, viticultores interessados em produzir sucos em regiões tropicais ou pequenos produtores familiares da região da Serra Gaúcha [...].\n\nPrograma de Melhoramento Genético “Uvas do Brasil”. Disponível em: www.embrapa.br. Acesso em: 24 nov. 2018 (adaptado).\n\nPara melhorar a produção agrícola nas regiões mencionadas, as técnicas referidas no texto buscaram adaptar o cultivo aos(às)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "espécies nativas ameaçadas."
+      },
+      {
+        "letter": "B",
+        "text": "cadeias econômicas autônomas."
+      },
+      {
+        "letter": "C",
+        "text": "estruturas fundiárias tradicionais."
+      },
+      {
+        "letter": "D",
+        "text": "elementos ambientais singulares."
+      },
+      {
+        "letter": "E",
+        "text": "mercados consumidores internos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O programa desenvolve variedades de uva adaptadas a condições muito diferentes entre si — semiárido nordestino, regiões tropicais, Serra Gaúcha — ou seja, busca adaptar o cultivo às condições ambientais específicas (singulares) de cada região, alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q50",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "TEXTO I\n\nEm 2016, foram gerados 44,7 milhões de toneladas de resíduos eletrônicos, um aumento de 8% na comparação com 2014. Especialistas previram um crescimento de mais 17%, para 52,2 milhões de toneladas, até 2021.\n\nTEXTO II\n\nHá ainda quem exporte deliberadamente lixo eletrônico para o Gana. É mais caro reciclar devidamente os resíduos no mundo industrializado, onde até existem os recursos e a tecnologia. Um negócio muito mais lucrativo é vender o lixo eletrônico a negociantes locais [...]. Os negociantes depois vendem o lixo aos jovens no mercado [...], que o desmantelam e extraem os fios de cobre. Estes são derretidos em lareiras ao ar livre, poluindo o ar e, muitas vezes, intoxicando diretamente os próprios jovens.\n\nDisponível em: https://nacoesunidas.org; www.dw.com. Acesso em: 12 out. 2019 (adaptado).\n\nNo contexto das discussões ambientais, as práticas descritas nos textos refletem um padrão de relações derivado do(a):",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Exercício pleno da cidadania."
+      },
+      {
+        "letter": "B",
+        "text": "Divisão internacional do trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "Gestão empresarial do toyotismo."
+      },
+      {
+        "letter": "D",
+        "text": "Concepção sustentável da economia."
+      },
+      {
+        "letter": "E",
+        "text": "Protecionismo alfandegário dos Estados."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Países industrializados exportam seu lixo eletrônico para países mais pobres, onde é reciclado de forma perigosa e informal por mão de obra barata e desprotegida — reproduzindo o padrão histórico da divisão internacional do trabalho, em que tarefas sujas/perigosas/de baixo valor agregado são deslocadas para a periferia do sistema econômico global, alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q52",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Durante os anos de 1854-55, o governo brasileiro — por meio de sua representação diplomática em Londres — e os livre-cambistas ingleses — nas colunas do Daily News e na Câmara dos Comuns — aumentaram a pressão pela revogação da Lei Aberdeen. O governo britânico, entretanto, ainda receava que, sem um tratado anglo-brasileiro satisfatório para substituí-la, não haveria nada que impedisse os brasileiros de um dia voltarem aos seus velhos hábitos.\n\nBETHELL, L. A abolição do comércio brasileiro de escravos. Brasília: Senado Federal, 2002 (adaptado).\n\nAs tensões diplomáticas expressas no texto indicam o interesse britânico em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estabelecer jurisdição conciliadora."
+      },
+      {
+        "letter": "B",
+        "text": "compartilhar negócios marítimos."
+      },
+      {
+        "letter": "C",
+        "text": "fomentar políticas higienistas."
+      },
+      {
+        "letter": "D",
+        "text": "manter a proibição comercial."
+      },
+      {
+        "letter": "E",
+        "text": "promover o negócio familiar."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Mesmo sob pressão para revogar a Lei Aberdeen (que autorizava a Marinha britânica a reprimir o tráfico negreiro), a Grã-Bretanha hesitava em fazê-lo sem garantias de que o Brasil não voltaria a praticar o tráfico (“velhos hábitos”) — evidenciando o interesse britânico em manter, de alguma forma, a proibição desse comércio até haver certeza do fim definitivo do tráfico. Alternativa D.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q53",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do Auto da Compadecida. Ele defende veementemente que a oração da avó sustentava mais a chuva. “Quando era pequeno e chovia por aqui, ajudava minha avó colocando os pratos emborcados no terreiro para diminuir o vento. Ela fazia isso e rezava para a chuva durar mais”, diz Zé de Sila.\n\nGALDINO, V.; BARBOSA, R. C. Artistas por um dia? João Pessoa: Editora Universitária, 2009.\n\nAo destacar expressões e vivências populares do cotidiano, o texto mobiliza os seguintes aspectos da diversidade regional:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Alianças afetivas conectadas ao ritual matrimonial."
+      },
+      {
+        "letter": "B",
+        "text": "Práticas místicas associadas ao patrimônio cultural."
+      },
+      {
+        "letter": "C",
+        "text": "Manifestações teatrais atreladas ao imaginário político."
+      },
+      {
+        "letter": "D",
+        "text": "Narrativas fílmicas relacionadas às intempéries climáticas."
+      },
+      {
+        "letter": "E",
+        "text": "Argumentações literárias interligadas às catástrofes ambientais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A prática de colocar pratos virados no chão e rezar para “segurar” ou prolongar a chuva é uma crença/prática mística popular transmitida entre gerações — parte do patrimônio cultural imaterial regional, alternativa B.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "enem-2021-q54",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "O uso de novas tecnologias envolve a assimilação de uma cultura empresarial na qual haja a integração entre as propostas de modernização tecnológica e a racionalização. [...] pressupõe uma nova orientação no controle do capital, no processo produtivo e na qualificação da mão de obra. Dos diversos efeitos que derivaram dessa orientação, a terceirização, a precarização e a flexibilização aparecem com constância como características do paradigma flexível, em substituição ao modelo taylorista-fordista.\n\nHERÉDIA, V. Novas tecnologias nos processos de trabalho: efeitos da reestruturação produtiva. Scripta Nova, n. 170, ago. 2004 (adaptado).\n\nO uso de novas tecnologias relacionado ao controle empresarial é criticado no texto em razão da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "operacionalização da tarefa laboral."
+      },
+      {
+        "letter": "B",
+        "text": "capacitação de profissionais liberais."
+      },
+      {
+        "letter": "C",
+        "text": "fragilização das relações de trabalho."
+      },
+      {
+        "letter": "D",
+        "text": "hierarquização dos cargos executivos."
+      },
+      {
+        "letter": "E",
+        "text": "aplicação dos conhecimentos da ciência."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto associa a modernização tecnológica ao surgimento de terceirização, precarização e flexibilização do trabalho — todas formas de enfraquecer/fragilizar os vínculos e direitos trabalhistas tradicionais do modelo taylorista-fordista. Alternativa C.",
+    "source": {
+      "institution": "INEP",
+      "note": "Questão oficial do ENEM 2021, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
   }
 ]
