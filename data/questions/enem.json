@@ -16871,5 +16871,374 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2016-q46",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Em sua formulação, o spray de pimenta contém porcentagens variadas de oleorresina de Capsicum, cujo princípio ativo é a capsaicina, e um solvente (um álcool como etanol ou isopropanol). Em contato com os olhos, pele ou vias respiratórias, a capsaicina causa um efeito inflamatório que gera uma sensação de dor e ardor, levando à cegueira temporária. O processo é desencadeado pela liberação de neuropeptídios das terminações nervosas.\n\nComo funciona o gás de pimenta. Disponível em: http://pessoas.hsw.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).\n\nQuando uma pessoa é atingida com o spray de pimenta nos olhos ou na pele, a lavagem da região atingida com água é ineficaz porque a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reação entre etanol e água libera calor, intensificando o ardor."
+      },
+      {
+        "letter": "B",
+        "text": "solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção."
+      },
+      {
+        "letter": "C",
+        "text": "permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo."
+      },
+      {
+        "letter": "D",
+        "text": "solubilização do óleo em água causa um maior espalhamento além das áreas atingidas."
+      },
+      {
+        "letter": "E",
+        "text": "ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A capsaicina é uma substância apolar (oleosa), pouco solúvel em água (polar); por isso, lavar com água não remove eficazmente o princípio ativo — seria necessário um solvente apolar, como óleo ou leite — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q47",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A usina de Itaipu é uma das maiores hidrelétricas do mundo em geração de energia. Com 20 unidades geradoras e 14.000 MW de potência total instalada, apresenta uma queda de 118,4 m e vazão nominal de 690 m³/s por unidade geradora. O cálculo da potência teórica leva em conta a altura da massa de água represada pela barragem, a gravidade local (10 m/s²) e a densidade da água (1.000 kg/m³). A diferença entre a potência teórica e a instalada é a potência não aproveitada.\n\nDisponível em: www.itaipu.gov.br. Acesso em: 11 maio 2013 (adaptado).\n\nQual é a potência, em MW, não aproveitada em cada unidade geradora de Itaipu?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0"
+      },
+      {
+        "letter": "B",
+        "text": "1,18"
+      },
+      {
+        "letter": "C",
+        "text": "116,96"
+      },
+      {
+        "letter": "D",
+        "text": "816,96"
+      },
+      {
+        "letter": "E",
+        "text": "13 183,04"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A potência teórica por unidade é P = ρ·g·h·Q = 1000×10×118,4×690 = 816.960.000 W = 816,96 MW. A potência instalada por unidade é 14.000/20 = 700 MW. A potência não aproveitada é 816,96 − 700 = 116,96 MW — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q48",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A coleta das fezes dos animais domésticos em sacolas plásticas e o seu descarte em lixeiras convencionais podem criar condições de degradação que geram produtos prejudiciais ao meio ambiente.\n\nO Projeto Park Spark, desenvolvido em Cambridge, MA (EUA), recolhe as fezes dos animais domésticos em sacolas biodegradáveis e as deposita em um biodigestor instalado em parques públicos; o gás produzido é utilizado para alimentar equipamentos de iluminação e aquecimento no próprio parque.\n\nDisponível em: http://parksparkproject.com. Acesso em: 30 ago. 2013 (adaptado).\n\nUma inovação desse projeto é possibilitar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "queima de gás metano."
+      },
+      {
+        "letter": "B",
+        "text": "armazenamento de gás carbônico."
+      },
+      {
+        "letter": "C",
+        "text": "decomposição aeróbica das fezes."
+      },
+      {
+        "letter": "D",
+        "text": "uso mais eficiente de combustíveis fósseis."
+      },
+      {
+        "letter": "E",
+        "text": "fixação de carbono em moléculas orgânicas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No biodigestor, a decomposição anaeróbia das fezes produz gás metano (biogás), que é captado e queimado para gerar energia útil no próprio parque, em vez de ser liberado sem controle na atmosfera — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q50",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O benzeno, um importante solvente para a indústria química, é obtido industrialmente pela destilação do petróleo. Contudo, também pode ser sintetizado pela trimerização do acetileno catalisada por ferro metálico sob altas temperaturas, conforme a equação química:\n\n3 C2H2 (g) → C6H6 (l)\n\nA energia envolvida nesse processo pode ser calculada indiretamente pela variação de entalpia das reações de combustão das substâncias participantes, nas mesmas condições experimentais:\n\nI. C2H2 (g) + 5/2 O2 (g) → 2 CO2 (g) + H2O (l), ΔHc° = −310 kcal/mol\nII. C6H6 (l) + 15/2 O2 (g) → 6 CO2 (g) + 3 H2O (l), ΔHc° = −780 kcal/mol\n\nA variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "−1 090."
+      },
+      {
+        "letter": "B",
+        "text": "−150."
+      },
+      {
+        "letter": "C",
+        "text": "−50."
+      },
+      {
+        "letter": "D",
+        "text": "+157."
+      },
+      {
+        "letter": "E",
+        "text": "+470."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela Lei de Hess: ΔH = 3×ΔH(I) − ΔH(II) = 3×(−310) − (−780) = −930 + 780 = −150 kcal — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q51",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H2SO4 sobre o filtrado e observa-se por 30 min.\n\nTUBINO, M.; SIMONI, J. A. Refletindo sobre o caso Celobar®. Química Nova, n. 2, 2007 (adaptado).\n\nA presença de íons bário solúveis na amostra é indicada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "liberação de calor."
+      },
+      {
+        "letter": "B",
+        "text": "alteração da cor para rosa."
+      },
+      {
+        "letter": "C",
+        "text": "precipitação de um sólido branco."
+      },
+      {
+        "letter": "D",
+        "text": "formação de gás hidrogênio."
+      },
+      {
+        "letter": "E",
+        "text": "volatilização de gás cloro."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Se houver íons Ba²⁺ solúveis no filtrado (provenientes do carbonato de bário dissolvido pelo HCl), a adição de H2SO4 forma sulfato de bário, um precipitado sólido branco insolúvel — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q53",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O esquema representa, de maneira simplificada, o processo de produção de etanol utilizando milho como matéria-prima: Milho → Hidrólise → Fermentação (com levedura) → Etanol + CO2 + Água.\n\nA etapa de hidrólise na produção de etanol a partir do milho é fundamental para que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a glicose seja convertida em sacarose."
+      },
+      {
+        "letter": "B",
+        "text": "as enzimas dessa planta sejam ativadas."
+      },
+      {
+        "letter": "C",
+        "text": "a maceração favoreça a solubilização em água."
+      },
+      {
+        "letter": "D",
+        "text": "o amido seja transformado em substratos utilizáveis pela levedura."
+      },
+      {
+        "letter": "E",
+        "text": "os grãos com diferentes composições químicas sejam padronizados."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O milho armazena energia principalmente na forma de amido, um polissacarídeo que a levedura não consegue fermentar diretamente. A hidrólise quebra o amido em açúcares simples (glicose), que servem de substrato para a fermentação alcoólica pela levedura — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q54",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 54,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Durante a primeira fase do projeto de uma usina de geração de energia elétrica, os engenheiros da equipe de avaliação de impactos ambientais procuram saber se esse projeto está de acordo com as normas ambientais. A nova planta estará localizada à beira de um rio, cuja temperatura média da água é de 25 °C, e usará a sua água somente para refrigeração. O projeto pretende que a usina opere com 1,0 MW de potência elétrica e, em razão de restrições técnicas, o dobro dessa potência será dissipada por seu sistema de arrefecimento, na forma de calor. Para atender a resolução número 430, de 13 de maio de 2011, do Conselho Nacional do Meio Ambiente, com uma ampla margem de segurança, os engenheiros determinaram que a água só poderá ser devolvida ao rio com um aumento de temperatura de, no máximo, 3 °C em relação à temperatura da água do rio captada pelo sistema de arrefecimento. Considere o calor específico da água igual a 4 kJ/(kg °C).\n\nPara atender essa determinação, o valor mínimo do fluxo de água, em kg/s, para a refrigeração da usina deve ser mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "42."
+      },
+      {
+        "letter": "B",
+        "text": "84."
+      },
+      {
+        "letter": "C",
+        "text": "167."
+      },
+      {
+        "letter": "D",
+        "text": "250."
+      },
+      {
+        "letter": "E",
+        "text": "500."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A potência dissipada é 2 MW = 2.000.000 W. Usando P = ṁ·c·ΔT: 2.000.000 = ṁ × 4000 × 3, logo ṁ = 2.000.000/12.000 ≈ 167 kg/s — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q56",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.\n\nAo escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Núcleo."
+      },
+      {
+        "letter": "B",
+        "text": "Mitocôndria."
+      },
+      {
+        "letter": "C",
+        "text": "Peroxissomo."
+      },
+      {
+        "letter": "D",
+        "text": "Complexo golgiense."
+      },
+      {
+        "letter": "E",
+        "text": "Retículo endoplasmático."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O ciclo de Krebs ocorre na matriz mitocondrial; para bloquear essa via metabólica, a proteína precisa ser endereçada especificamente para dentro da mitocôndria — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q57",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "O morcego emite pulsos de curta duração de ondas ultrassônicas, os quais voltam na forma de ecos após atingirem objetos no ambiente, trazendo informações a respeito das suas dimensões, suas localizações e dos seus possíveis movimentos. Isso se dá em razão da sensibilidade do morcego em detectar o tempo gasto para os ecos voltarem, bem como das pequenas variações nas frequências e nas intensidades dos pulsos ultrassônicos. Essas características lhe permitem caçar pequenas presas mesmo quando estão em movimento em relação a si. Considere uma situação unidimensional em que uma mariposa se afasta, em movimento retilíneo e uniforme, de um morcego em repouso.\n\nA distância e velocidade da mariposa, na situação descrita, seriam detectadas pelo sistema de um morcego por quais alterações nas características dos pulsos ultrassônicos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída."
+      },
+      {
+        "letter": "B",
+        "text": "Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída."
+      },
+      {
+        "letter": "C",
+        "text": "Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada."
+      },
+      {
+        "letter": "D",
+        "text": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada."
+      },
+      {
+        "letter": "E",
+        "text": "Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Com a mariposa se afastando, a distância percorrida pelo som aumenta (maior tempo de retorno do eco, menor intensidade por atenuação) e, pelo efeito Doppler, a frequência percebida pelo morcego diminui, já que a fonte (eco refletido) se afasta do observador — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
