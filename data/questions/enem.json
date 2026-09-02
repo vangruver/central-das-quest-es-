@@ -16378,5 +16378,498 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2016-q33",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O regime do Apartheid, adotado de 1948 a 1994 na África do Sul, fundamentava-se em ações estatais de segregacionismo racial. Uma fotografia da época mostra fuzileiros navais sul-africanos fazendo valer a “lei do passe”, que obrigava a população negra a portar documentos especiais de autorização para circular em determinadas áreas das cidades, sob pena de prisão.\n\nDisponível em: www.imageforum-diffusion.afp.com. Acesso em: 6 jan. 2016.\n\nO regime do Apartheid adotado de 1948 a 1994 na África do Sul fundamentava-se em ações estatais de segregacionismo racial. Na imagem, fuzileiros navais fazem valer a “lei do passe” que regulamentava o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concentração fundiária, impedindo os negros de tomar posse legítima do uso da terra."
+      },
+      {
+        "letter": "B",
+        "text": "boicote econômico, proibindo os negros de consumir produtos ingleses sem resistência armada."
+      },
+      {
+        "letter": "C",
+        "text": "sincretismo religioso, vetando os ritos sagrados dos negros nas cerimônias oficiais do Estado."
+      },
+      {
+        "letter": "D",
+        "text": "controle sobre a movimentação, desautorizando os negros a transitar em determinadas áreas das cidades."
+      },
+      {
+        "letter": "E",
+        "text": "exclusão do mercado de trabalho, negando à população negra o acesso aos bens de consumo."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A “lei do passe” sul-africana exigia que a população negra portasse documentos de autorização para poder circular em áreas urbanas reservadas à população branca, controlando e restringindo sua movimentação — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q34",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia",
+      "Brasil Império"
+    ],
+    "statement": "A linhagem dos primeiros críticos ambientais brasileiros não praticou o elogio laudatório da beleza e da grandeza do meio natural brasileiro. O meio natural foi elogiado por sua riqueza e potencial econômico, sendo sua destruição interpretada como um signo de atraso, ignorância e falta de cuidado.\n\nPÁDUA, J. A. Um sopro de destruição: pensamento político e crítica ambiental no Brasil escravista (1786-1888). Rio de Janeiro: Zahar, 2002 (adaptado).\n\nDescrevendo a posição dos críticos ambientais brasileiros dos séculos XVIII e XIX, o autor demonstra que, via de regra, eles viam o meio natural como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ferramenta essencial para o avanço da nação."
+      },
+      {
+        "letter": "B",
+        "text": "dádiva divina para o desenvolvimento industrial."
+      },
+      {
+        "letter": "C",
+        "text": "paisagem privilegiada para a valorização fundiária."
+      },
+      {
+        "letter": "D",
+        "text": "limitação topográfica para a promoção da urbanização."
+      },
+      {
+        "letter": "E",
+        "text": "obstáculo climático para o estabelecimento da civilização."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os críticos valorizavam o meio natural principalmente por sua “riqueza e potencial econômico”, vendo sua destruição como sinal de atraso — ou seja, o viam como uma ferramenta essencial para o progresso e avanço da nação, não como beleza a ser contemplada — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q35",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e significava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto.\n\nCARVALHO, J. M. Pontos e bordados: escritos de história política. Belo Horizonte: Editora UFMG, 1998 (adaptado).\n\nNo contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "coação das milícias locais."
+      },
+      {
+        "letter": "B",
+        "text": "estagnação da dinâmica urbana."
+      },
+      {
+        "letter": "C",
+        "text": "valorização do proselitismo partidário."
+      },
+      {
+        "letter": "D",
+        "text": "disseminação de práticas clientelistas."
+      },
+      {
+        "letter": "E",
+        "text": "centralização de decisões administrativas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A troca de favores entre governo e coronéis (cargos públicos e nomeações em troca de apoio político e votos) é a definição clássica de clientelismo, disseminado por todo o sistema do coronelismo na Primeira República — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q36",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Dessalinização das águas: capacidade total de dessalinização de águas salobras ou salinas, por país, em metros cúbicos por dia — Arábia Saudita (6.879.869), Emirados Árabes Unidos (6.228.017), Estados Unidos (5.653.941), Espanha (2.588.658), Kuwait (2.111.558) e Japão (1.054.274), entre outros, concentrados majoritariamente na região do Oriente Médio.\n\nEUA. Relatório da Academia Nacional de Ciências, 2008 (adaptado).\n\nConforme a análise do documento cartográfico, a área de concentração das usinas de dessalinização é explicada pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pioneirismo tecnológico."
+      },
+      {
+        "letter": "B",
+        "text": "condição hidropedológica."
+      },
+      {
+        "letter": "C",
+        "text": "escassez de água potável."
+      },
+      {
+        "letter": "D",
+        "text": "efeito das mudanças climáticas."
+      },
+      {
+        "letter": "E",
+        "text": "busca da sustentabilidade ambiental."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os países com maior capacidade de dessalinização estão concentrados no árido Oriente Médio (Arábia Saudita, Emirados Árabes, Kuwait), região marcada pela severa escassez de água potável doce, que torna a dessalinização da água do mar uma necessidade — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q37",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Vi os homens sumirem-se numa grande tristeza. Os melhores cansaram-se das suas obras. Proclamou-se uma doutrina e com ela circulou uma crença: Tudo é oco, tudo é igual, tudo passou! O nosso trabalho foi inútil; o nosso vinho tornou-se veneno; o mau olhado amareleceu-nos os campos e os corações. Secamos de todo, e se caísse fogo em cima de nós, as nossas cinzas voariam em pó. Sim; cansamos o próprio fogo. Todas as fontes secaram para nós, e o mar retirou-se. Todos os solos se querem abrir, mas os abismos não nos querem tragar!\n\nNIETZSCHE, F. Assim falou Zaratustra. Rio de Janeiro: Ediouro, 1977.\n\nO texto exprime uma construção alegórica, que traduz um entendimento da doutrina niilista, uma vez que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reforça a liberdade do cidadão."
+      },
+      {
+        "letter": "B",
+        "text": "desvela os valores do cotidiano."
+      },
+      {
+        "letter": "C",
+        "text": "exorta as relações de produção."
+      },
+      {
+        "letter": "D",
+        "text": "destaca a decadência da cultura."
+      },
+      {
+        "letter": "E",
+        "text": "amplifica o sentimento de ansiedade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A imagem de homens exaustos, fontes secas e a crença de que “tudo é oco, tudo é igual, tudo passou” expressa o niilismo como esvaziamento de sentido e valores — um retrato alegórico da decadência da cultura ocidental — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q39",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Pesca industrial provoca destruição na África\n\nO súbito desaparecimento do bacalhau dos grandes cardumes da Terra Nova, no final do século XX — o que ninguém havia previsto —, teve o efeito de um eletrochoque planetário. Lançada pelos bascos no século XV, a pesca e depois a sobrepesca desse grande peixe de água fria levaram ao impensável. Ao Canadá o bacalhau nunca mais voltou. E o que ocorreu no Atlântico Norte está acontecendo em outros mares. Os maiores navios do mundo seguem agora em direção ao sul, até os limites da Antártida, para competir pelos estoques remanescentes.\n\nMORA, J. S. Disponível em: www.diplomatique.com.br. Acesso em: 14 jan. 2014.\n\nO problema exposto no texto jornalístico relaciona-se à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "insustentabilidade do modelo de produção e consumo."
+      },
+      {
+        "letter": "B",
+        "text": "fragilidade ecológica de ecossistemas costeiros."
+      },
+      {
+        "letter": "C",
+        "text": "inviabilidade comercial dos produtos marinhos."
+      },
+      {
+        "letter": "D",
+        "text": "mudança natural nos oceanos e mares."
+      },
+      {
+        "letter": "E",
+        "text": "vulnerabilidade social de áreas pobres."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A sobrepesca que esgotou os cardumes de bacalhau e agora avança sobre novos mares evidencia um modelo global de produção e consumo insustentável, que explora os recursos naturais além de sua capacidade de renovação — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q40",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "A mundialização introduz o aumento da produtividade do trabalho sem acumulação de capital, justamente pelo caráter divisível da forma técnica molecular-digital do que resulta a permanência da má distribuição da renda: exemplificando mais uma vez, os vendedores de refrigerantes às portas dos estádios viram sua produtividade aumentada graças ao just in time dos fabricantes e distribuidores de bebidas, mas para realizar o valor de tais mercadorias, a forma do trabalho dos vendedores é a mais primitiva. Combinam-se, pois, acumulação molecular-digital com o puro uso da força de trabalho.\n\nOLIVEIRA, F. Crítica à razão dualista e o ornitorrinco. Campinas: Boitempo, 2003.\n\nOs aspectos destacados no texto afetam diretamente questões como emprego e renda, sendo possível explicar essas transformações pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crise bancária e o fortalecimento do capital industrial."
+      },
+      {
+        "letter": "B",
+        "text": "inovação toyotista e a regularização do trabalho formal."
+      },
+      {
+        "letter": "C",
+        "text": "impacto da tecnologia e as modificações na estrutura produtiva."
+      },
+      {
+        "letter": "D",
+        "text": "emergência da globalização e a expansão do setor secundário."
+      },
+      {
+        "letter": "E",
+        "text": "diminuição do tempo de trabalho e a necessidade de diploma superior."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto mostra como novas tecnologias (just in time, logística digital) aumentam a produtividade de trabalhadores em ocupações precárias, sem que sua renda melhore — evidenciando o impacto da tecnologia sobre a estrutura produtiva e o trabalho — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q41",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Ser moderno é encontrar-se em um ambiente que promete aventura, poder, alegria, crescimento, autotransformação e transformação das coisas em redor — mas ao mesmo tempo ameaça destruir tudo o que temos, tudo o que sabemos, tudo o que somos. A experiência ambiental da modernidade anula todas as fronteiras geográficas e raciais, de classe e nacionalidade: nesse sentido, pode-se dizer que a modernidade une a espécie humana. Porém, é uma unidade paradoxal, uma unidade de desunidade.\n\nBERMAN, M. Tudo que é sólido desmancha no ar: a aventura da modernidade. São Paulo: Cia. das Letras, 1986 (adaptado).\n\nO texto apresenta uma interpretação da modernidade que a caracteriza como um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dinâmica social contraditória."
+      },
+      {
+        "letter": "B",
+        "text": "interação coletiva harmônica."
+      },
+      {
+        "letter": "C",
+        "text": "fenômeno econômico estável."
+      },
+      {
+        "letter": "D",
+        "text": "sistema internacional decadente."
+      },
+      {
+        "letter": "E",
+        "text": "processo histórico homogeneizador."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Berman descreve a modernidade como promessa e ameaça simultâneas, uma “unidade de desunidade”: essa tensão constante caracteriza a modernidade como uma dinâmica social contraditória — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q42",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Não estou mais pensando como costumava pensar. Percebo isso de modo mais acentuado quando estou lendo. Mergulhar num livro, ou num longo artigo, costumava ser fácil. Isso raramente ocorre atualmente. Agora minha atenção começa a divagar depois de duas ou três páginas. Creio que sei o que está acontecendo. Por mais de uma década venho passando mais tempo on-line, procurando e surfando e algumas vezes acrescentando informação à grande biblioteca da internet. A internet tem sido uma dádiva para um escritor como eu. Pesquisas que antes exigiam dias de procura em jornais ou na biblioteca agora podem ser feitas em minutos. Como disse o teórico da comunicação Marshall McLuhan nos anos 60, a mídia não é apenas um canal passivo para o tráfego de informação. Ela fornece a matéria, mas também molda o processo de pensamento. E o que a net parece fazer é pulverizar minha capacidade de concentração e contemplação.\n\nCARR, N. Is Google making us stupid? Disponível em: www.theatlantic.com. Acesso em: 17 fev. 2013 (adaptado).\n\nEm relação à internet, a perspectiva defendida pelo autor ressalta um paradoxo que se caracteriza por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "associar uma experiência superficial à abundância de informações."
+      },
+      {
+        "letter": "B",
+        "text": "condicionar uma capacidade individual à desorganização da rede."
+      },
+      {
+        "letter": "C",
+        "text": "agregar uma tendência contemporânea à aceleração do tempo."
+      },
+      {
+        "letter": "D",
+        "text": "aproximar uma mídia inovadora à passividade da recepção."
+      },
+      {
+        "letter": "E",
+        "text": "equiparar uma ferramenta digital à tecnologia analógica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O autor descreve como o acesso facilitado a uma quantidade imensa de informações on-line (abundância) vem acompanhado da perda da capacidade de concentração e leitura profunda (superficialidade) — um paradoxo central do texto — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q43",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Uma scena franco-brazileira: “franco” — pelo local e os personagens, o local que é Paris e os personagens que são pessôas do povo da grande capital; “brazileira” pelo que ahi se está bebendo: café do Brazil. O Lettreiro diz a verdade apregoando que esse é o melhor de todos os cafés.\n\nA Illustração Brazileira, n. 2, 15 jun. 1909 (adaptado).\n\nA página do periódico do início do século XX documenta um importante elemento da cultura francesa, que é revelador do papel do Brasil na economia mundial, indicado no seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Prestador de serviços gerais."
+      },
+      {
+        "letter": "B",
+        "text": "Exportador de bens industriais."
+      },
+      {
+        "letter": "C",
+        "text": "Importador de padrões estéticos."
+      },
+      {
+        "letter": "D",
+        "text": "Fornecedor de produtos agrícolas."
+      },
+      {
+        "letter": "E",
+        "text": "Formador de padrões de consumo."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A cena retrata parisienses consumindo café brasileiro, evidenciando o papel do Brasil, no início do século XX, como fornecedor de produtos agrícolas (o café) para o mercado consumidor europeu — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q44",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Participei de uma entrevista com o músico Renato Teixeira. Certa hora, alguém pediu para listar as diferenças entre a música sertaneja antiga e a atual. A resposta dele surpreendeu a todos: “Não há diferença alguma. A música caipira sempre foi a mesma. É uma música que espelha a vida do homem no campo, e a música não mente. O que mudou não foi a música, mas a vida no campo”. Faz todo sentido: a música caipira de raiz exalava uma solidão, um certo distanciamento do país “moderno”. Exigir o mesmo de uma música feita hoje, num interior conectado, globalizado e rico como o que temos, é impossível. Para o bem ou para o mal, a música reflete seu próprio tempo.\n\nBARCINSKI, A. Mudou a música ou mudaram os caipiras? Folha de São Paulo, 4 jun. 2012 (adaptado).\n\nA questão cultural indicada no texto ressalta o seguinte aspecto socioeconômico do atual campo brasileiro:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Crescimento do sistema de produção extensiva."
+      },
+      {
+        "letter": "B",
+        "text": "Expansão de atividades das novas ruralidades."
+      },
+      {
+        "letter": "C",
+        "text": "Persistência de relações de trabalho compulsório."
+      },
+      {
+        "letter": "D",
+        "text": "Contenção da política de subsídios agrícolas."
+      },
+      {
+        "letter": "E",
+        "text": "Fortalecimento do modelo de organização cooperativa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A descrição de um “interior conectado, globalizado e rico”, superando o isolamento retratado na música caipira tradicional, reflete a expansão das chamadas novas ruralidades — um campo brasileiro cada vez mais integrado a dinâmicas urbanas e globais — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
+  },
+  {
+    "id": "enem-2016-q45",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O número de filhos por casal diminui rapidamente. Para a maioria dos economistas, isso representa um alerta para o futuro. Um gráfico com a taxa de fecundidade total de Brasil, China, Coreia do Sul, Portugal, EUA e Japão, entre 1970 e 2010, mostra queda acentuada em todos esses países, de valores próximos a 6,0 filhos por mulher em 1970 para valores entre 1,0 e 2,9 em 2010.\n\nFontes: IBGE e OCDE. Disponível em: http://epoca.globo.com. Acesso em: 20 out. 2015 (adaptado).\n\nUma consequência socioeconômica para os países que vivenciam o fenômeno demográfico ilustrado é a diminuição da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oferta de mão de obra nacional."
+      },
+      {
+        "letter": "B",
+        "text": "média de expectativa de vida."
+      },
+      {
+        "letter": "C",
+        "text": "disponibilidade de serviços de saúde."
+      },
+      {
+        "letter": "D",
+        "text": "despesa de natureza previdenciária."
+      },
+      {
+        "letter": "E",
+        "text": "imigração de trabalhadores qualificados."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A queda continuada da taxa de fecundidade reduz, no médio e longo prazo, o número de jovens que entrarão na força de trabalho, diminuindo a oferta de mão de obra nacional nas décadas seguintes — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2016 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
+    }
   }
 ]
