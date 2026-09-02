@@ -20028,5 +20028,948 @@
       "institution": "INEP/ENEM",
       "note": "ENEM 2015 - Caderno 1 Azul (Ciências Humanas e Ciências da Natureza)"
     }
+  },
+  {
+    "id": "enem-2014-q21",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Estatuto da Frente Negra Brasileira (FNB)\n\nArt. 1º - Fica fundada nesta cidade de São Paulo, para se irradiar por todo o Brasil, a Frente Negra Brasileira, união política e social da Gente Negra Nacional, para a afirmação dos direitos históricos da mesma, em virtude da sua atividade material e moral no passado e para reivindicação de seus direitos sociais e políticos, atuais, na Comunhão Brasileira.\n\nDiário Oficial do Estado de São Paulo, 4 nov. 1931.\n\nQuando foi fechada pela ditadura do Estado Novo, em 1937, a FNB caracterizava-se como uma organização",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "política, engajada na luta por direitos sociais para a população negra no Brasil."
+      },
+      {
+        "letter": "B",
+        "text": "beneficente, dedicada ao auxílio dos negros pobres brasileiros depois da abolição."
+      },
+      {
+        "letter": "C",
+        "text": "paramilitar, voltada para o alistamento de negros na luta contra as oligarquias regionais."
+      },
+      {
+        "letter": "D",
+        "text": "democrático-liberal, envolvida na Revolução Constitucionalista conduzida a partir de São Paulo."
+      },
+      {
+        "letter": "E",
+        "text": "internacionalista, ligada à exaltação da identidade das populações africanas em situação de diáspora."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A FNB, fundada em 1931, transformou-se em partido político em 1936, atuando pela afirmação dos direitos sociais e políticos da população negra, até ser fechada junto com todos os partidos políticos pelo Estado Novo em 1937 — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q22",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "No século XIX, o preço mais alto dos terrenos situados no centro das cidades é causa da especialização dos bairros e de sua diferenciação social. Muitas pessoas, que não têm meios de pagar os altos aluguéis dos bairros elegantes, são progressivamente rejeitadas para a periferia, como os subúrbios e os bairros mais afastados.\n\nRÉMOND, R. O século XIX. São Paulo: Cultrix, 1989 (adaptado).\n\nUma consequência geográfica do processo socioespacial descrito no texto é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criação de condomínios fechados de moradia."
+      },
+      {
+        "letter": "B",
+        "text": "decadência das áreas centrais de comércio popular."
+      },
+      {
+        "letter": "C",
+        "text": "aceleração do processo conhecido como cercamento."
+      },
+      {
+        "letter": "D",
+        "text": "ampliação do tempo de deslocamento diário da população."
+      },
+      {
+        "letter": "E",
+        "text": "contenção da ocupação de espaços sem infraestrutura satisfatória."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao serem expulsas para bairros periféricos e subúrbios distantes do centro (onde ficam os empregos e serviços), as pessoas de baixa renda passam a percorrer distâncias maiores todos os dias, ampliando seu tempo de deslocamento diário — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q23",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 23,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Três décadas — de 1884 a 1914 — separam o século XIX — que terminou com a corrida dos países europeus para a África e com o surgimento dos movimentos de unificação nacional na Europa — do século XX, que começou com a Primeira Guerra Mundial. É o período do Imperialismo, da quietude estagnante na Europa e dos acontecimentos empolgantes na Ásia e na África.\n\nARENDT, H. As origens do totalitarismo. São Paulo: Cia. das Letras, 2012.\n\nO processo histórico citado contribuiu para a eclosão da Primeira Grande Guerra na medida em que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difundiu as teorias socialistas."
+      },
+      {
+        "letter": "B",
+        "text": "acirrou as disputas territoriais."
+      },
+      {
+        "letter": "C",
+        "text": "superou as crises econômicas."
+      },
+      {
+        "letter": "D",
+        "text": "multiplicou os conflitos religiosos."
+      },
+      {
+        "letter": "E",
+        "text": "conteve os sentimentos xenófobos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A corrida imperialista pela partilha da África e da Ásia intensificou as disputas territoriais e coloniais entre as potências europeias, um dos fatores que levaram à eclosão da Primeira Guerra Mundial — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q24",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Alguns dos desejos são naturais e necessários; outros, naturais e não necessários; outros, nem naturais nem necessários, mas nascidos de vã opinião. Os desejos que não nos trazem dor se não satisfeitos não são necessários, mas o seu impulso pode ser facilmente desfeito, quando é difícil obter sua satisfação ou parecem geradores de dano.\n\nEPICURO DE SAMOS. Doutrinas principais. In: SANSON, V. F. Textos de filosofia. Rio de Janeiro: Eduff, 1974.\n\nNo fragmento da obra filosófica de Epicuro, o homem tem como fim",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alcançar o prazer moderado e a felicidade."
+      },
+      {
+        "letter": "B",
+        "text": "valorizar os deveres e as obrigações sociais."
+      },
+      {
+        "letter": "C",
+        "text": "aceitar o sofrimento e o rigorismo da vida com resignação."
+      },
+      {
+        "letter": "D",
+        "text": "refletir sobre os valores e as normas dadas pela divindade."
+      },
+      {
+        "letter": "E",
+        "text": "defender a indiferença e a impossibilidade de se atingir o saber."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para o epicurismo, o fim da vida humana é a busca do prazer moderado (ataraxia), satisfazendo apenas os desejos naturais e necessários, o que conduz à felicidade — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q25",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "No afresco A Escola de Atenas, de Rafael Sanzio, o filósofo Platão é retratado no centro da imagem, apontando para o alto, enquanto Aristóteles, ao seu lado, aponta para a frente, em direção ao chão.\n\nSANZIO, R. Detalhe do afresco A Escola de Atenas. Disponível em: http://fil.cfh.ufsc.br. Acesso em: 20 mar. 2013.\n\nEsse gesto de Platão significa que o conhecimento se encontra em uma instância na qual o homem descobre a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "suspensão do juízo como reveladora da verdade."
+      },
+      {
+        "letter": "B",
+        "text": "realidade inteligível por meio do método dialético."
+      },
+      {
+        "letter": "C",
+        "text": "salvação da condição mortal pelo poder de Deus."
+      },
+      {
+        "letter": "D",
+        "text": "essência das coisas sensíveis no intelecto divino."
+      },
+      {
+        "letter": "E",
+        "text": "ordem intrínseca ao mundo por meio da sensibilidade."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O gesto de Platão apontando para cima remete ao mundo das Ideias, a realidade verdadeira e inteligível, à qual se chega pelo método dialético, em contraste com o mundo sensível apontado por Aristóteles — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q26",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Um mapa da Região Metropolitana de Belo Horizonte apresenta o saldo do deslocamento pendular (fluxo de pessoas que se deslocavam diariamente para o trabalho e retornavam aos seus municípios de origem) entre Belo Horizonte e os municípios vizinhos, como Contagem, Betim, Ibirité, Nova Lima, Sabará, Santa Luzia, Vespasiano, Ribeirão das Neves e Confins.\n\nBRASIL. IBGE. Atlas do censo demográfico 2010 (adaptado).\n\nO fluxo migratório representado está associado ao processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fuga de áreas degradadas."
+      },
+      {
+        "letter": "B",
+        "text": "inversão da hierarquia urbana."
+      },
+      {
+        "letter": "C",
+        "text": "busca por amenidades ambientais."
+      },
+      {
+        "letter": "D",
+        "text": "conurbação entre municípios contíguos."
+      },
+      {
+        "letter": "E",
+        "text": "desconcentração dos investimentos produtivos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O intenso deslocamento pendular diário entre Belo Horizonte e os municípios vizinhos evidencia a conurbação, isto é, a fusão do tecido urbano de municípios contíguos que passam a funcionar como uma única mancha urbana integrada — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q27",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A urbanização brasileira, no início da segunda metade do século XX, promoveu uma radical alteração nas cidades. Ruas foram alargadas, túneis e viadutos foram construídos. O bonde foi a primeira vítima fatal. O destino do sistema ferroviário não foi muito diferente. O transporte coletivo saiu definitivamente dos trilhos.\n\nJANOT, L. F. A caminho de Guaratiba. Disponível em: www.iab.org.br. Acesso em: 9 jan. 2014 (adaptado).\n\nA relação entre transportes e urbanização é explicada, no texto, pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retirada dos investimentos estatais aplicados em transporte de massa."
+      },
+      {
+        "letter": "B",
+        "text": "demanda por transporte individual ocasionada pela expansão da mancha urbana."
+      },
+      {
+        "letter": "C",
+        "text": "presença hegemônica do transporte alternativo localizado nas periferias das cidades."
+      },
+      {
+        "letter": "D",
+        "text": "aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário."
+      },
+      {
+        "letter": "E",
+        "text": "predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A substituição dos bondes e trens urbanos por ônibus e automóveis está associada à política rodoviarista adotada no Brasil a partir de meados do século XX, favorecida pela instalação de multinacionais automobilísticas no país — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q28",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "A Comissão Nacional da Verdade (CNV) reuniu representantes de comissões estaduais e de várias instituições para apresentar um balanço dos trabalhos feitos e assinar termos de cooperação com quatro organizações. O coordenador da CNV estima que, até o momento, a comissão examinou, 'por baixo', cerca de 30 milhões de páginas de documentos e fez centenas de entrevistas.\n\nDisponível em: www.jb.com.br. Acesso em: 2 mar. 2013 (adaptado).\n\nA notícia descreve uma iniciativa do Estado que resultou da ação de diversos movimentos sociais no Brasil diante de eventos ocorridos entre 1964 e 1988. O objetivo dessa iniciativa é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anular a anistia concedida aos chefes militares."
+      },
+      {
+        "letter": "B",
+        "text": "rever as condenações judiciais aos presos políticos."
+      },
+      {
+        "letter": "C",
+        "text": "perdoar os crimes atribuídos aos militantes esquerdistas."
+      },
+      {
+        "letter": "D",
+        "text": "comprovar o apoio da sociedade aos golpistas anticomunistas."
+      },
+      {
+        "letter": "E",
+        "text": "esclarecer as circunstâncias de violações aos direitos humanos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A Comissão Nacional da Verdade foi criada para investigar e esclarecer as violações de direitos humanos cometidas no Brasil durante o período da ditadura militar, sem poder judicial ou punitivo — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q29",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.\n\nGALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978.\n\nNo contexto da Revolução Científica do século XVII, assumir a posição de Galileu significava defender a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "continuidade do vínculo entre ciência e fé dominante na Idade Média."
+      },
+      {
+        "letter": "B",
+        "text": "necessidade de o estudo linguístico ser acompanhado do exame matemático."
+      },
+      {
+        "letter": "C",
+        "text": "oposição da nova física quantitativa aos pressupostos da filosofia escolástica."
+      },
+      {
+        "letter": "D",
+        "text": "importância da independência da investigação científica pretendida pela Igreja."
+      },
+      {
+        "letter": "E",
+        "text": "inadequação da matemática para elaborar uma explicação racional da natureza."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao afirmar que o universo está escrito em linguagem matemática, Galileu defende uma física quantitativa, mensurável, em oposição à física qualitativa da filosofia escolástica aristotélica dominante até então — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q30",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Parecer CNE/CP nº 3/2004, que instituiu as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.\n\nProcura-se oferecer uma resposta, entre outras, na área da educação, à demanda da população afrodescendente, no sentido de políticas de ações afirmativas. Propõe a divulgação e a produção de conhecimentos, a formação de atitudes, posturas que eduquem cidadãos orgulhosos de seu pertencimento étnico-racial — descendentes de africanos, povos indígenas, descendentes de europeus, de asiáticos — para interagirem na construção de uma nação democrática, em que todos igualmente tenham seus direitos garantidos.\n\nBRASIL. Conselho Nacional de Educação. Disponível em: www.semesp.org.br. Acesso em: 21 nov. 2013 (adaptado).\n\nA orientação adotada por esse parecer fundamenta uma política pública e associa o princípio da inclusão social a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "práticas de valorização identitária."
+      },
+      {
+        "letter": "B",
+        "text": "medidas de compensação econômica."
+      },
+      {
+        "letter": "C",
+        "text": "dispositivos de liberdade de expressão."
+      },
+      {
+        "letter": "D",
+        "text": "estratégias de qualificação profissional."
+      },
+      {
+        "letter": "E",
+        "text": "instrumentos de modernização jurídica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O parecer propõe formar cidadãos orgulhosos de seu pertencimento étnico-racial por meio da valorização da identidade e da cultura afro-brasileira e africana, associando inclusão social a práticas de valorização identitária — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q31",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés III. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.\n\nNOBLAT, R. Disponível em: www.oglobo.com. Acesso em: 12 dez. 2012.\n\nA constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "lugar da memória na história nacional."
+      },
+      {
+        "letter": "B",
+        "text": "caráter espontâneo das festas populares."
+      },
+      {
+        "letter": "C",
+        "text": "lembrança da antiguidade da cultura local."
+      },
+      {
+        "letter": "D",
+        "text": "triunfo da nação sobre os países africanos."
+      },
+      {
+        "letter": "E",
+        "text": "declínio do regime de monarquia absolutista."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A praça, que passou de espaço dedicado à estátua do rei a palco de eventos e monumentos como o obelisco egípcio, revela-se um lugar de memória, onde se inscrevem e se disputam diferentes momentos da história nacional francesa — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q32",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Em 1879, cerca de cinco mil pessoas reuniram-se para solicitar a D. Pedro II a revogação de uma taxa de 20 réis, um vintém, sobre o transporte urbano. O vintém era a moeda de menor valor da época. A polícia não permitiu que a multidão se aproximasse do palácio. Ao grito de 'Fora o vintém!', os manifestantes espancaram condutores, esfaquearam mulas, viraram bondes e arrancaram trilhos. Um oficial ordenou fogo contra a multidão. As estatísticas de mortos e feridos são imprecisas. Muitos interesses se fundiram nessa revolta, de grandes e de políticos, de gente miúda e de simples cidadãos. Desmoralizado, o ministério caiu. Uma grande explosão social, detonada por um pobre vintém.\n\nDisponível em: www.revistadehistoria.com.br. Acesso em: 4 abr. 2014 (adaptado).\n\nA leitura do trecho indica que a coibição violenta das manifestações representou uma tentativa de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "capturar os ativistas radicais."
+      },
+      {
+        "letter": "B",
+        "text": "proteger o patrimônio privado."
+      },
+      {
+        "letter": "C",
+        "text": "salvaguardar o espaço público."
+      },
+      {
+        "letter": "D",
+        "text": "conservar o exercício do poder."
+      },
+      {
+        "letter": "E",
+        "text": "sustentar o regime democrático."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A repressão policial violenta à Revolta do Vintém buscava, sobretudo, manter a ordem e a autoridade do governo imperial diante da contestação popular, ou seja, conservar o exercício do poder — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q33",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Existe uma cultura política que domina o sistema e é fundamental para entender o conservadorismo brasileiro. Há um argumento, partilhado pela direita e pela esquerda, de que a sociedade brasileira é conservadora. Isso legitimou o conservadorismo do sistema político: existiriam limites para transformar o país, porque a sociedade é conservadora, não aceita mudanças bruscas. Isso justifica o caráter vagaroso da redemocratização e da redistribuição da renda. Mas não é assim. A sociedade é muito mais avançada que o sistema político. Ele se mantém porque consegue convencer a sociedade de que é a expressão dela, de seu conservadorismo.\n\nNOBRE, M. Dois ismos que não rimam. Disponível em: www.unicamp.br. Acesso em: 28 mar. 2014 (adaptado).\n\nA característica do sistema político brasileiro, ressaltada no texto, obtém sua legitimidade da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dispersão regional do poder econômico."
+      },
+      {
+        "letter": "B",
+        "text": "polarização acentuada da disputa partidária."
+      },
+      {
+        "letter": "C",
+        "text": "orientação radical dos movimentos populares."
+      },
+      {
+        "letter": "D",
+        "text": "condução eficiente das ações administrativas."
+      },
+      {
+        "letter": "E",
+        "text": "sustentação ideológica das desigualdades existentes."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto mostra que o sistema político se apoia em um discurso ideológico (a suposta natureza conservadora da sociedade) para justificar a lentidão das transformações sociais, o que sustenta ideologicamente as desigualdades existentes — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q35",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "A convecção na Região Amazônica é um importante mecanismo da atmosfera tropical e sua variação, em termos de intensidade e posição, tem um papel importante na determinação do tempo e do clima dessa região. A nebulosidade e o regime de precipitação determinam o clima amazônico.\n\nFISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. Acta Amazônica, v. 28, n. 2, 1998 (adaptado).\n\nO mecanismo climático regional descrito está associado à característica do espaço físico de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "resfriamento da umidade da superfície."
+      },
+      {
+        "letter": "B",
+        "text": "variação da amplitude de temperatura."
+      },
+      {
+        "letter": "C",
+        "text": "dispersão dos ventos contra-alísios."
+      },
+      {
+        "letter": "D",
+        "text": "existência de barreiras de relevo."
+      },
+      {
+        "letter": "E",
+        "text": "convergência de fluxos de ar."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A convecção tropical amazônica é impulsionada pelo forte aquecimento da superfície e pela convergência de fluxos de ar (massas de ar úmido), que se elevam, formam nuvens e geram intensa precipitação — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q39",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O problema central a ser resolvido pelo Novo Regime era a organização de outro pacto de poder que pudesse substituir o arranjo imperial com grau suficiente de estabilidade. O próprio presidente Campos Sales resumiu claramente seu objetivo: 'É de lá, dos estados, que se governa a República, por cima das multidões que tumultuam agitadas nas ruas da capital da União. A política dos estados é a política nacional'.\n\nCARVALHO, J. M. Os Bestializados: o Rio de Janeiro e a República que não foi. São Paulo: Companhia das Letras, 1987 (adaptado).\n\nNessa citação, o presidente do Brasil no período expressa uma estratégia política no sentido de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "governar com a adesão popular."
+      },
+      {
+        "letter": "B",
+        "text": "atrair o apoio das oligarquias regionais."
+      },
+      {
+        "letter": "C",
+        "text": "conferir maior autonomia às prefeituras."
+      },
+      {
+        "letter": "D",
+        "text": "democratizar o poder do governo central."
+      },
+      {
+        "letter": "E",
+        "text": "ampliar a influência da capital no cenário nacional."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A 'política dos estados' de Campos Sales consistia em basear a governabilidade da República no apoio das oligarquias estaduais, em detrimento da participação popular urbana — o que deu origem à política dos governadores — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q40",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "A Estrada de Ferro Noroeste do Brasil, que começa a ser construída apenas em 1905, foi criada, ao contrário das outras grandes ferrovias paulistas, para ser uma ferrovia de penetração, buscando novas áreas para a agricultura e povoamento. Até 1890, o café era quem ditava o traçado das ferrovias, que eram vistas apenas como auxiliadoras da produção cafeeira.\n\nCARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região noroeste paulista. Disponível em: www.historica.arquivoestado.sp.gov.br. Acesso em: 2 ago. 2012.\n\nEssa nova orientação dada à expansão ferroviária, durante a Primeira República, tinha como objetivo a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "articulação de polos produtores para exportação."
+      },
+      {
+        "letter": "B",
+        "text": "criação de infraestrutura para atividade industrial."
+      },
+      {
+        "letter": "C",
+        "text": "integração de pequenas propriedades policultoras."
+      },
+      {
+        "letter": "D",
+        "text": "valorização de regiões de baixa densidade demográfica."
+      },
+      {
+        "letter": "E",
+        "text": "promoção de fluxos migratórios do campo para a cidade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Diferentemente das ferrovias cafeeiras voltadas ao escoamento da produção, a Noroeste do Brasil buscava abrir e povoar áreas ainda pouco ocupadas, valorizando regiões de baixa densidade demográfica por meio da agricultura e da colonização — alternativa D.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q41",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Em 1961, o presidente De Gaulle apelou com êxito aos recrutas franceses contra o golpe militar dos seus comandados, porque os soldados podiam ouvi-lo em rádios portáteis. Na década de 1970, os discursos do aiatolá Khomeini, líder exilado da futura Revolução Iraniana, eram gravados em fita magnética e prontamente levados para o Irã, copiados e difundidos.\n\nHOBSBAWM, E. Era dos extremos: o breve século XX (1914-1991). São Paulo: Cia. das Letras, 1995.\n\nOs exemplos mencionados no texto evidenciam um uso dos meios de comunicação identificado na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manipulação da vontade popular."
+      },
+      {
+        "letter": "B",
+        "text": "promoção da mobilização política."
+      },
+      {
+        "letter": "C",
+        "text": "insubordinação das tropas militares."
+      },
+      {
+        "letter": "D",
+        "text": "implantação de governos autoritários."
+      },
+      {
+        "letter": "E",
+        "text": "valorização dos socialmente desfavorecidos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Tanto o apelo de De Gaulle via rádio quanto a difusão dos discursos de Khomeini em fitas cassete mostram como os meios de comunicação portáteis foram usados para mobilizar politicamente a população em momentos decisivos — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q42",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "TEXTO I\n\nO presidente do jornal de maior circulação do país destacava também os avanços econômicos obtidos naqueles vinte anos, mas, ao justificar sua adesão aos militares em 1964, deixava clara sua crença de que a intervenção fora imprescindível para a manutenção da democracia.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 1 set. 2013 (adaptado).\n\nTEXTO II\n\nNada pode ser colocado em compensação à perda das liberdades individuais. Não existe nada de bom quando se aceita uma solução autoritária.\n\nFICO, C. A educação e o golpe de 1964. Disponível em: www.brasilrecente.com. Acesso em: 4 abr. 2014 (adaptado).\n\nEmbora enfatizem a defesa da democracia, as visões do movimento político-militar de 1964 divergem ao focarem, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Razões de Estado — Soberania popular."
+      },
+      {
+        "letter": "B",
+        "text": "Ordenação da Nação — Prerrogativas religiosas."
+      },
+      {
+        "letter": "C",
+        "text": "Imposição das Forças Armadas — Deveres sociais."
+      },
+      {
+        "letter": "D",
+        "text": "Normatização do Poder Judiciário — Regras morais."
+      },
+      {
+        "letter": "E",
+        "text": "Contestação do sistema de governo — Tradições culturais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O Texto I justifica a intervenção militar como necessidade de Estado para preservar a ordem; o Texto II defende a democracia com base na preservação das liberdades individuais, associadas à soberania popular — os dois focos divergentes são, respectivamente, Razões de Estado e Soberania popular — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q43",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.\n\nNOVAIS, F. A.; ALENCASTRO, L. F. (Org.). História da vida privada no Brasil. São Paulo: Cia. das Letras, 1997.\n\nOs fatos apresentados se relacionam ao processo de independência da América portuguesa por terem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incentivado o clamor popular por liberdade."
+      },
+      {
+        "letter": "B",
+        "text": "enfraquecido o pacto de dominação metropolitana."
+      },
+      {
+        "letter": "C",
+        "text": "motivado as revoltas escravas contra a elite colonial."
+      },
+      {
+        "letter": "D",
+        "text": "obtido o apoio do grupo constitucionalista português."
+      },
+      {
+        "letter": "E",
+        "text": "provocado os movimentos separatistas das províncias."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao transferir para o Brasil a sede do governo e boa parte do aparato administrativo português, a colônia deixou de ocupar uma posição subordinada típica do pacto colonial, o que enfraqueceu o pacto de dominação metropolitana e abriu caminho para a independência — alternativa B.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q44",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Respeitar a diversidade de circunstâncias entre as pequenas sociedades locais que constituem uma mesma nacionalidade, tal deve ser a regra suprema das leis internas de cada Estado. As leis municipais seriam as cartas de cada povoação doadas pela assembleia provincial, alargadas conforme o seu desenvolvimento, alteradas segundo os conselhos da experiência. Então, administrar-se-ia de perto, governar-se-ia de longe, alvo a que jamais se atingirá de outra sorte.\n\nBASTOS, T. A província (1870). São Paulo: Cia. Editora Nacional, 1937 (adaptado).\n\nO discurso do autor, no período do Segundo Reinado no Brasil, tinha como meta a implantação do",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regime monárquico representativo."
+      },
+      {
+        "letter": "B",
+        "text": "sistema educacional democrático."
+      },
+      {
+        "letter": "C",
+        "text": "modelo territorial federalista."
+      },
+      {
+        "letter": "D",
+        "text": "padrão político autoritário."
+      },
+      {
+        "letter": "E",
+        "text": "poder oligárquico regional."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao defender a autonomia das leis municipais e provinciais, respeitando a diversidade local dentro de uma mesma nacionalidade, Tavares Bastos defendia a descentralização político-administrativa, propondo um modelo territorial federalista, em oposição ao centralismo do Segundo Reinado — alternativa C.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q45",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "De volta do Paraguai\n\nCheio de glória, coberto de louros, depois de ter derramado seu sangue em defesa da pátria e libertado um povo da escravidão, o voluntário volta ao seu país natal para ver sua mãe amarrada a um tronco horrível de realidade!...\n\nAGOSTINI. A vida fluminense, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001 (adaptado).\n\nNa charge, identifica-se uma contradição no retorno de parte dos 'Voluntários da Pátria' que lutaram na Guerra do Paraguai (1864-1870), evidenciada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "negação da cidadania aos familiares cativos."
+      },
+      {
+        "letter": "B",
+        "text": "concessão de alforrias aos militares escravos."
+      },
+      {
+        "letter": "C",
+        "text": "perseguição dos escravistas aos soldados negros."
+      },
+      {
+        "letter": "D",
+        "text": "punição dos feitores aos recrutados compulsoriamente."
+      },
+      {
+        "letter": "E",
+        "text": "suspensão das indenizações aos proprietários prejudicados."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A charge ironiza o fato de soldados negros ou escravizados que lutaram para 'libertar um povo' (o paraguaio) na guerra retornarem ao Brasil e encontrarem seus próprios familiares ainda escravizados, evidenciando a negação da cidadania e da liberdade a eles — alternativa A.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q01",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Uma charge publicada na revista Fon-Fon!, em 1910, retratava de forma caricata a implantação da rede telefônica no Brasil, mostrando pessoas de diferentes regiões do país passando a se comunicar por meio do novo aparelho.\n\nFon-Fon!, ano IV, n. 36, 3 set. 1910. Disponível em: objdigital.bn.br. Acesso em: 4 abr. 2014.\n\nA charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "permitiria aos índios se apropriarem da telefonia móvel."
+      },
+      {
+        "letter": "B",
+        "text": "ampliaria o contato entre a diversidade de povos indígenas."
+      },
+      {
+        "letter": "C",
+        "text": "faria a comunicação sem ruídos entre grupos sociais distintos."
+      },
+      {
+        "letter": "D",
+        "text": "restringiria a sua área de atendimento aos estados do norte do país."
+      },
+      {
+        "letter": "E",
+        "text": "possibilitaria a integração das diferentes regiões do território nacional."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A implantação da rede telefônica no início do século XX representava um avanço na comunicação capaz de aproximar regiões distantes do país, contribuindo para a integração das diferentes regiões do território nacional — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
+  },
+  {
+    "id": "enem-2014-q09",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "TEXTO I\n\nMapa mostrando a distribuição mundial de centros de teleatendimento (call centers) terceirizados por empresas de países desenvolvidos.\n\nDisponível em: http://twistedsifter.com. Acesso em: 5 nov. 2013 (adaptado).\n\nTEXTO II\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de créditos ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).\n\nAo relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aceitação das diferenças culturais."
+      },
+      {
+        "letter": "B",
+        "text": "adequação da posição geográfica."
+      },
+      {
+        "letter": "C",
+        "text": "incremento do ensino superior."
+      },
+      {
+        "letter": "D",
+        "text": "qualidade da rede logística."
+      },
+      {
+        "letter": "E",
+        "text": "custo da mão de obra local."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A instalação de call centers terceirizados em países como a Índia é explicada principalmente pelo baixo custo da mão de obra local, o que reduz os custos operacionais das empresas de países desenvolvidos que terceirizam esse serviço — alternativa E.",
+    "source": {
+      "institution": "INEP/ENEM",
+      "note": "ENEM 2014 - Caderno 1 Azul (Ciências Humanas)"
+    }
   }
 ]
