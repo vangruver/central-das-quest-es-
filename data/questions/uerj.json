@@ -23180,9 +23180,9 @@
     "exam": "uerj",
     "year": 2023,
     "originalNumber": 19,
-    "subjectId": "fisica",
+    "subjectId": "matematica",
     "topics": [
-      "Mecânica"
+      "Razão e Proporção"
     ],
     "statement": "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade.\n\nAdmita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 m/s. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 m/s. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\n\nPlaneta — Aceleração da gravidade (m/s²)\nJúpiter — 25\nMarte — 4\nNetuno — 11\nTerra — 10\nVênus — 9\n\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
     "alternatives": [
@@ -23317,6 +23317,42 @@
     "source": {
       "institution": "UERJ",
       "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2023-q25",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um restaurante oferece descontos sobre o total do consumo com base na sorte do cliente ao lançar um dado que possui uma face vermelha e cinco faces brancas. Após lançar o dado duas vezes, um cliente receberá desconto se a face vermelha ficar voltada para cima pelo menos uma vez.\n\nA probabilidade de um cliente receber um desconto na sua conta é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7/18"
+      },
+      {
+        "letter": "B",
+        "text": "11/18"
+      },
+      {
+        "letter": "C",
+        "text": "7/36"
+      },
+      {
+        "letter": "D",
+        "text": "11/36"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "É mais simples calcular o complementar. A face vermelha não sai em um lançamento com probabilidade 5/6; em dois lançamentos independentes, a chance de nenhuma vermelha é (5/6)² = 25/36. Logo, a probabilidade de sair vermelha pelo menos uma vez — condição para o desconto — é 1 − 25/36 = 11/36, alternativa D. Somar 1/6 + 1/6 = 1/3 seria errado, pois contaria duas vezes o caso em que a face vermelha aparece nos dois lançamentos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -23608,6 +23644,78 @@
     }
   },
   {
+    "id": "uerj-2023-q34",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 34,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O gráfico a seguir representa a variação da força elétrica de repulsão F entre duas partículas de cargas idênticas, dispostas em um mesmo meio, em função da distância d entre elas. Os pares de valores medidos foram: d = 1,0 m e F = 36,00 × 10⁻⁵ N; d = 2,0 m e F = 9,00 × 10⁻⁵ N; d = 3,0 m e F = 4,00 × 10⁻⁵ N; d = 4,0 m e F = 2,25 × 10⁻⁵ N.\n\nA uma distância de 6 mm, nesse mesmo meio, a força elétrica de repulsão entre essas partículas, em newtons, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8,0"
+      },
+      {
+        "letter": "B",
+        "text": "10,0"
+      },
+      {
+        "letter": "C",
+        "text": "12,0"
+      },
+      {
+        "letter": "D",
+        "text": "14,0"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dados confirmam a lei de Coulomb: o produto F·d² é constante. De fato, 36,00 × 1,0² = 9,00 × 2,0² = 4,00 × 3,0² = 2,25 × 4,0² = 36,00, em unidades de 10⁻⁵ N·m². Assim, F = 36,00 × 10⁻⁵ / d². Para d = 6 mm = 6 × 10⁻³ m, tem-se d² = 3,6 × 10⁻⁵ m², e portanto F = 36,00 × 10⁻⁵ / 3,6 × 10⁻⁵ = 10,0 N — alternativa B. O cuidado essencial é converter os milímetros para metros antes de elevar ao quadrado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2023-q35",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 35,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Uma pessoa com dificuldade em enxergar com nitidez objetos próximos a seu rosto consulta uma oftalmologista, que prescreve a utilização de lentes com vergência de 4,0 di.\n\nA distância focal, em centímetros, dessas lentes é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10,0"
+      },
+      {
+        "letter": "B",
+        "text": "15,0"
+      },
+      {
+        "letter": "C",
+        "text": "20,0"
+      },
+      {
+        "letter": "D",
+        "text": "25,0"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A vergência V de uma lente é o inverso da distância focal medida em metros: V = 1/f. Com V = 4,0 di, tem-se f = 1/4,0 = 0,25 m, ou seja, 25,0 cm — alternativa D. A vergência positiva é coerente com o quadro descrito: quem não enxerga bem de perto (hipermetropia ou presbiopia) usa lentes convergentes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2023-q37",
     "exam": "uerj",
     "year": 2023,
@@ -23785,6 +23893,42 @@
     "source": {
       "institution": "UERJ",
       "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2023-q44",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 44,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio:\n\nN₂O₄ (g) ⇌ 2 NO₂ (g)\n\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Após o sistema atingir o equilíbrio, as concentrações permaneceram constantes em 0,030 mol/L para o N₂O₄ e 0,012 mol/L para o NO₂.\n\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,2 × 10⁻³"
+      },
+      {
+        "letter": "B",
+        "text": "4,8 × 10⁻³"
+      },
+      {
+        "letter": "C",
+        "text": "3,3 × 10⁻¹"
+      },
+      {
+        "letter": "D",
+        "text": "4,0 × 10⁻¹"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para N₂O₄ (g) ⇌ 2 NO₂ (g), a constante em função das concentrações é Kc = [NO₂]² / [N₂O₄], com o coeficiente 2 do NO₂ entrando como expoente. Substituindo os valores de equilíbrio: Kc = (0,012)² / 0,030 = 1,44 × 10⁻⁴ / 3,0 × 10⁻² = 4,8 × 10⁻³ — alternativa B. Esquecer de elevar a concentração do NO₂ ao quadrado levaria a 4,0 × 10⁻¹, um dos distratores oferecidos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -24080,9 +24224,9 @@
     "exam": "uerj",
     "year": 2023,
     "originalNumber": 57,
-    "subjectId": "geografia",
+    "subjectId": "historia",
     "topics": [
-      "Geopolítica"
+      "Idade Contemporânea"
     ],
     "statement": "Parabolicamará (1992)\n\nAntes longe era distante\nPerto, só quando dava\nQuando muito, ali defronte\nE o horizonte acabava\n\nAntes mundo era pequeno\nPorque Terra era grande\nDe jangada leva uma eternidade\nDe saveiro leva uma encarnação\n\nHoje lá trás dos montes, den de* casa, camará\nÊ, volta do mundo, camará\nÊ, ê, mundo dá volta, camará\n\nHoje mundo é muito grande\nPorque Terra é pequena\nPela onda luminosa\nDo tamanho da antena\nLeva o tempo de um raio\nTempo que levava Rosa\nparabolicamará\nPra aprumar o balaio\n\nGILBERTO GIL. gilbertogil.com.br.\n\n* den de - dentro de\n\nA canção registra percepções de alguns impactos da globalização na sociedade brasileira na década de 1990. Um desses impactos está apontado em:",
     "alternatives": [
@@ -24112,13 +24256,85 @@
     }
   },
   {
+    "id": "uerj-2023-q58",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 58,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Em função dos efeitos da pandemia de covid-19, havia expectativa de que os níveis de emissão de CO₂ diminuíssem. No ano de 2020, porém, o Brasil registrou a maior emissão de CO₂ desde 2007, segundo levantamento por atividade econômica que reúne uso da terra e floresta, agropecuária, energia, processos industriais e resíduos. Adaptado de bbc.com.\n\nO principal fator que explica o ocorrido é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dinamização da metalurgia"
+      },
+      {
+        "letter": "B",
+        "text": "aumento do desmatamento"
+      },
+      {
+        "letter": "C",
+        "text": "crescimento do setor automotivo"
+      },
+      {
+        "letter": "D",
+        "text": "substituição da agricultura doméstica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A pandemia reduziu a circulação de veículos e a atividade industrial, de modo que as emissões ligadas à energia e aos processos industriais recuaram — o que torna implausíveis as alternativas A e C. No Brasil, porém, a maior parcela das emissões vem de mudança de uso da terra, e em 2020 o desmatamento, sobretudo na Amazônia, avançou, puxando o total para cima. Daí a alternativa B. A alternativa D descreve um processo que não ocorreu e que, de todo modo, não explicaria um salto nas emissões.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2023-q59",
+    "exam": "uerj",
+    "year": 2023,
+    "originalNumber": 59,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Os patrimônios difíceis — também conhecidos como patrimônios sombrios, marginais ou da dor — estão associados ao sofrimento, à exceção, ao encarceramento, à segregação, à punição e à morte. Tais patrimônios podem reunir a função de local de peregrinação com a finalidade de rememoração coletiva e de reconhecimento de direitos e de reparação. A visitação aos patrimônios difíceis ou sombrios traz tensões morais e éticas e exigem mediação e objetivos educativos.\n\nCRISTINA MENEGUELLO. Adaptado de CARVALHO, A.; MENEGUELLO, C. (orgs). Dicionário temático de patrimônio: debates contemporâneos. Campinas: Ed. da Unicamp, 2020.\n\nO bem cultural que se enquadra no conceito de patrimônio difícil explicitado no texto é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Memorial da Paz em Hiroshima"
+      },
+      {
+        "letter": "B",
+        "text": "Museu Real da África Central na Bélgica"
+      },
+      {
+        "letter": "C",
+        "text": "Memorial da América Latina em São Paulo"
+      },
+      {
+        "letter": "D",
+        "text": "Museu Nacional de Imigração em Nova York"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O conceito exige que o bem esteja diretamente ligado ao sofrimento e sirva de lugar de peregrinação e memória. O Memorial da Paz de Hiroshima foi erguido no marco zero da bomba atômica de 1945, preserva as ruínas do edifício atingido e é visitado como espaço de luto e de defesa do desarmamento — enquadra-se exatamente na definição (alternativa A). O Museu Real da África Central nasceu como vitrine do colonialismo belga e só recentemente passou a rever esse passado; o Memorial da América Latina é um centro cultural de integração regional; e o museu da imigração em Nova York celebra a chegada de migrantes. Nenhum deles tem no sofrimento seu objeto central.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Exame Único, Vestibular Estadual UERJ 2023 (aplicado em 04/12/2022), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2023-q60",
     "exam": "uerj",
     "year": 2023,
     "originalNumber": 60,
-    "subjectId": "geografia",
+    "subjectId": "historia",
     "topics": [
-      "Geografia Urbana"
+      "Brasil República"
     ],
     "statement": "Quando Carlos Lacerda assumiu a função de primeiro governador do estado da Guanabara, em 1960, as favelas estavam em expansão na cidade. Durante seu governo, iniciou-se a política de remoção, ou seja, o processo de transferência de algumas favelas para lugares distantes, o que gerou muito descontentamento e protestos. Surgiram conjuntos habitacionais como Cidade de Deus, em Jacarepaguá, Vila Kennedy, em Senador Camará, Vila Aliança, em Bangu, e Vila Esperança, em Vigário Geral, compostos por pequenas unidades padronizadas, servidas por transportes públicos insuficientes e distantes dos empregos da maioria. Hoje, quem passa pelo Parque da Catacumba, na Lagoa, pelos prédios da chamada Selva de Pedra, no Leblon, ou pelo campus da Universidade do Estado do Rio de Janeiro (Uerj), no Maracanã, nem imagina que esses espaços abrigaram as três maiores favelas da cidade nos anos 1960: Catacumba, Praia do Pinto e Esqueleto, respectivamente.\n\nAdaptado de multirio.rio.rj.gov.br.\n\nIniciada ainda no antigo estado da Guanabara, durante o governo de Carlos Lacerda, as remoções de favelas inseriam-se no projeto de intervenção estatal para expansão da cidade. Um objetivo e um efeito das remoções então efetivadas foram, respectivamente:",
     "alternatives": [
