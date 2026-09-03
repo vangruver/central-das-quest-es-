@@ -1,5 +1,1805 @@
 [
   {
+    "id": "uerj-2017-eq1-q01",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - MEUS DESACONTECIMENTOS (Eliane Brum)\n\nO texto narra a vinda da família da autora da Itália para o Brasil. Seu tetravô, Pietro Brun, embarcou em Gênova; como o bisavô Antônio desertava do exército, foi levado em um bote até o navio que já se afastava do porto. Ao chegar ao Brasil, um funcionário do governo imperial trocou o \"n\" final do sobrenome por \"m\", e metade da família passou a se chamar Brum.\n\nTrechos citados nas questões:\n\n\"Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho.\" (l. 5-6)\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\"No início dos anos 1990 cogitamos reivindicar a cidadania italiana.\" (l. 13)\n\"Mas entre nós existe essa diferença na letra.\" (l. 14)\n\"Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um 'n' por um 'm'.\" (l. 14-16)\n\"Um segundo ele deve ter demorado para nos transformar,\" (l. 16)\n\"Pela memória nos colocamos não só em movimento,\" (l. 24)\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\"Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado.\" (l. 28-29)\n\"Ele tinha de ser outro, assim como nós, que resultamos dessa aventura desesperada. Era imperativo que ele fosse Pietro Brum - e depois até Pedro Brum.\" (l. 29-30)\n\nELIANE BRUM. Meus desacontecimentos: a história da minha vida com as palavras. São Paulo: LeYa, 2014.\n\nNo texto, a autora narra fatos e expõe suas opiniões relacionados à vinda de sua família para o Brasil. Uma dessas opiniões está explicitada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho. (l. 5-6)"
+      },
+      {
+        "letter": "B",
+        "text": "No início dos anos 1990 cogitamos reivindicar a cidadania italiana. (l. 13)"
+      },
+      {
+        "letter": "C",
+        "text": "Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um \"n\" por um \"m\". (l. 14-16)"
+      },
+      {
+        "letter": "D",
+        "text": "Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado. (l. 28-29)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As três primeiras alternativas relatam acontecimentos verificáveis: a convocação de Antônio, a intenção da família de pedir cidadania italiana e a exigência burocrática de corrigir o registro. Já o trecho (D) não narra fato algum - afirma que o tetravô \"não poderia ser o mesmo\", uma avaliação da autora sobre o efeito da travessia sobre a identidade de quem emigra. O verbo no futuro do pretérito e a impossibilidade de comprovar a afirmação a caracterizam como opinião, e não como relato.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q02",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - MEUS DESACONTECIMENTOS (Eliane Brum)\n\nO texto narra a vinda da família da autora da Itália para o Brasil. Seu tetravô, Pietro Brun, embarcou em Gênova; como o bisavô Antônio desertava do exército, foi levado em um bote até o navio que já se afastava do porto. Ao chegar ao Brasil, um funcionário do governo imperial trocou o \"n\" final do sobrenome por \"m\", e metade da família passou a se chamar Brum.\n\nTrechos citados nas questões:\n\n\"Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho.\" (l. 5-6)\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\"No início dos anos 1990 cogitamos reivindicar a cidadania italiana.\" (l. 13)\n\"Mas entre nós existe essa diferença na letra.\" (l. 14)\n\"Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um 'n' por um 'm'.\" (l. 14-16)\n\"Um segundo ele deve ter demorado para nos transformar,\" (l. 16)\n\"Pela memória nos colocamos não só em movimento,\" (l. 24)\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\"Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado.\" (l. 28-29)\n\"Ele tinha de ser outro, assim como nós, que resultamos dessa aventura desesperada. Era imperativo que ele fosse Pietro Brum - e depois até Pedro Brum.\" (l. 29-30)\n\nELIANE BRUM. Meus desacontecimentos: a história da minha vida com as palavras. São Paulo: LeYa, 2014.\n\nA partir da narrativa de um episódio familiar, a autora elabora reflexões que vão além desse contexto pessoal, generalizando-o. Essa generalização pode ser observada no emprego da primeira pessoa do plural no seguinte trecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mas entre nós existe essa diferença na letra. (l. 14)"
+      },
+      {
+        "letter": "B",
+        "text": "Um segundo ele deve ter demorado para nos transformar, (l. 16)"
+      },
+      {
+        "letter": "C",
+        "text": "Pela memória nos colocamos não só em movimento, (l. 24)"
+      },
+      {
+        "letter": "D",
+        "text": "Ele tinha de ser outro, assim como nós, (l. 29)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em (A), (B) e (D) o \"nós\" designa um grupo determinado: os membros da família Brum/Brun. Em (C), a afirmação sobre a memória vale para qualquer pessoa - todos nos colocamos em movimento pela memória -, de modo que a primeira pessoa do plural passa a incluir o leitor e a humanidade em geral. É esse alargamento que caracteriza a generalização a partir do caso familiar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q03",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 3,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - MEUS DESACONTECIMENTOS (Eliane Brum)\n\nO texto narra a vinda da família da autora da Itália para o Brasil. Seu tetravô, Pietro Brun, embarcou em Gênova; como o bisavô Antônio desertava do exército, foi levado em um bote até o navio que já se afastava do porto. Ao chegar ao Brasil, um funcionário do governo imperial trocou o \"n\" final do sobrenome por \"m\", e metade da família passou a se chamar Brum.\n\nTrechos citados nas questões:\n\n\"Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho.\" (l. 5-6)\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\"No início dos anos 1990 cogitamos reivindicar a cidadania italiana.\" (l. 13)\n\"Mas entre nós existe essa diferença na letra.\" (l. 14)\n\"Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um 'n' por um 'm'.\" (l. 14-16)\n\"Um segundo ele deve ter demorado para nos transformar,\" (l. 16)\n\"Pela memória nos colocamos não só em movimento,\" (l. 24)\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\"Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado.\" (l. 28-29)\n\"Ele tinha de ser outro, assim como nós, que resultamos dessa aventura desesperada. Era imperativo que ele fosse Pietro Brum - e depois até Pedro Brum.\" (l. 29-30)\n\nELIANE BRUM. Meus desacontecimentos: a história da minha vida com as palavras. São Paulo: LeYa, 2014.\n\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\nO trecho sublinhado estabelece com o restante da frase o sentido de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "causa"
+      },
+      {
+        "letter": "B",
+        "text": "conclusão"
+      },
+      {
+        "letter": "C",
+        "text": "concessão"
+      },
+      {
+        "letter": "D",
+        "text": "conformidade"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A conjunção \"como\", quando inicia o período, tem valor causal e pode ser substituída por \"porque\" ou \"já que\" sem alteração de sentido: foi justamente por estar desertando que Antônio precisou embarcar às escondidas, levado de bote a um navio já em movimento. Não há conclusão (que exigiria \"portanto\"), nem concessão (que oporia um obstáculo vencido, com \"embora\"), nem conformidade (que indicaria conformar-se a um modelo, com \"conforme\").",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q04",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 4,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - MEUS DESACONTECIMENTOS (Eliane Brum)\n\nO texto narra a vinda da família da autora da Itália para o Brasil. Seu tetravô, Pietro Brun, embarcou em Gênova; como o bisavô Antônio desertava do exército, foi levado em um bote até o navio que já se afastava do porto. Ao chegar ao Brasil, um funcionário do governo imperial trocou o \"n\" final do sobrenome por \"m\", e metade da família passou a se chamar Brum.\n\nTrechos citados nas questões:\n\n\"Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho.\" (l. 5-6)\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\"No início dos anos 1990 cogitamos reivindicar a cidadania italiana.\" (l. 13)\n\"Mas entre nós existe essa diferença na letra.\" (l. 14)\n\"Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um 'n' por um 'm'.\" (l. 14-16)\n\"Um segundo ele deve ter demorado para nos transformar,\" (l. 16)\n\"Pela memória nos colocamos não só em movimento,\" (l. 24)\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\"Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado.\" (l. 28-29)\n\"Ele tinha de ser outro, assim como nós, que resultamos dessa aventura desesperada. Era imperativo que ele fosse Pietro Brum - e depois até Pedro Brum.\" (l. 29-30)\n\nELIANE BRUM. Meus desacontecimentos: a história da minha vida com as palavras. São Paulo: LeYa, 2014.\n\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\nA autora associa a troca de letras no registro do sobrenome de seu tetravô à expressão um membro fantasma. Essa associação constrói um exemplo da figura de linguagem denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "antítese"
+      },
+      {
+        "letter": "B",
+        "text": "metáfora"
+      },
+      {
+        "letter": "C",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "D",
+        "text": "eufemismo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A imagem parte de uma semelhança visual: o \"m\" tem uma perna a mais que o \"n\". A autora identifica então esse traço acrescentado a um \"membro fantasma\" - o membro amputado que o paciente continua a sentir. A comparação é implícita, sem conectivo, e transfere para a letra uma noção do campo da medicina; isso caracteriza a metáfora. A imagem é ainda precisa: como o membro fantasma, a letra a mais existe como presença que na verdade assinala uma ausência, a da origem italiana perdida. Não há aqui exagero (hipérbole) nem atenuação (eufemismo), e a antítese exigiria a oposição direta de dois termos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q05",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 5,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - MEUS DESACONTECIMENTOS (Eliane Brum)\n\nO texto narra a vinda da família da autora da Itália para o Brasil. Seu tetravô, Pietro Brun, embarcou em Gênova; como o bisavô Antônio desertava do exército, foi levado em um bote até o navio que já se afastava do porto. Ao chegar ao Brasil, um funcionário do governo imperial trocou o \"n\" final do sobrenome por \"m\", e metade da família passou a se chamar Brum.\n\nTrechos citados nas questões:\n\n\"Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho.\" (l. 5-6)\n\"Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova.\" (l. 6-7)\n\"No início dos anos 1990 cogitamos reivindicar a cidadania italiana.\" (l. 13)\n\"Mas entre nós existe essa diferença na letra.\" (l. 14)\n\"Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um 'n' por um 'm'.\" (l. 14-16)\n\"Um segundo ele deve ter demorado para nos transformar,\" (l. 16)\n\"Pela memória nos colocamos não só em movimento,\" (l. 24)\n\"Ao fugir para o Brasil, metade dos Brun ganhou uma perna a mais. O 'n' virou 'm'. Mas essa perna a mais era um membro fantasma, um ganho que revelava uma perda.\" (l. 26-27)\n\"Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado.\" (l. 28-29)\n\"Ele tinha de ser outro, assim como nós, que resultamos dessa aventura desesperada. Era imperativo que ele fosse Pietro Brum - e depois até Pedro Brum.\" (l. 29-30)\n\nELIANE BRUM. Meus desacontecimentos: a história da minha vida com as palavras. São Paulo: LeYa, 2014.\n\nDiante da conduta do funcionário do governo brasileiro, é possível inferir a seguinte reação por parte de Pietro Brun:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apreço pela nova pátria"
+      },
+      {
+        "letter": "B",
+        "text": "respeito à memória familiar"
+      },
+      {
+        "letter": "C",
+        "text": "submissão às práticas oficiais"
+      },
+      {
+        "letter": "D",
+        "text": "desprezo pelas regras migratórias"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O erro do funcionário nunca foi contestado: o sobrenome permaneceu grafado com \"m\" e assim se transmitiu às gerações seguintes, a ponto de a família, nos anos 1990, ter de corrigir juridicamente o registro para pedir a cidadania italiana. O imigrante aceitou sem reação o que lhe foi imposto pelo Estado - postura de submissão às práticas oficiais, compreensível em quem acabava de chegar e dependia da máquina imperial. As demais alternativas contrariam o texto: manter o nome alterado não demonstra apreço pela nova pátria nem respeito à memória familiar, e não há desafio às regras migratórias.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q06",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - poema de ANA MARTINS MARQUES\n\nO passado anda atrás de nós\ncomo os detetives os cobradores os ladrões\no futuro anda na frente\ncomo as crianças os guias de montanha\nos maratonistas melhores                          (v. 5)\ndo que nós salvo engano\no futuro não se imprime\ncomo o passado nas pedras nos móveis no rosto\ndas pessoas que conhecemos\no passado ao contrário dos gatos                   (v. 10)\nnão se limpa a si mesmo\naos cães domesticados se ensina\na andar sempre atrás do dono mas os cães\no passado só aparentemente nos pertencem\n                                                   (v. 15)\npense em como do lodo primeiro surgiu\nesta poltrona este livro este besouro\neste vulcão este despenhadeiro\nà frente de nós à frente deles corre o cão\n\nANA MARTINS MARQUES. O livro das semelhanças. São Paulo: Companhia das Letras, 2015.\n\nNos versos de 1 a 6, a poeta vale-se de um recurso para caracterizar tanto o passado quanto o futuro. Esse recurso consiste na construção de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "índices de ironia"
+      },
+      {
+        "letter": "B",
+        "text": "escala de gradações"
+      },
+      {
+        "letter": "C",
+        "text": "relações de comparação"
+      },
+      {
+        "letter": "D",
+        "text": "sequência de personificações"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os dois primeiros pares de versos são construídos pela mesma fórmula: o passado anda atrás \"como os detetives os cobradores os ladrões\"; o futuro anda na frente \"como as crianças os guias de montanha / os maratonistas\". O conectivo \"como\" introduz, nos dois casos, termos concretos que servem de referência para caracterizar noções abstratas - são, portanto, relações de comparação. Não há gradação, pois os termos de cada série estão no mesmo plano; e a personificação, embora sugerida pelo verbo \"andar\", não é o recurso que estrutura os versos citados.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q07",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - poema de ANA MARTINS MARQUES\n\nO passado anda atrás de nós\ncomo os detetives os cobradores os ladrões\no futuro anda na frente\ncomo as crianças os guias de montanha\nos maratonistas melhores                          (v. 5)\ndo que nós salvo engano\no futuro não se imprime\ncomo o passado nas pedras nos móveis no rosto\ndas pessoas que conhecemos\no passado ao contrário dos gatos                   (v. 10)\nnão se limpa a si mesmo\naos cães domesticados se ensina\na andar sempre atrás do dono mas os cães\no passado só aparentemente nos pertencem\n                                                   (v. 15)\npense em como do lodo primeiro surgiu\nesta poltrona este livro este besouro\neste vulcão este despenhadeiro\nà frente de nós à frente deles corre o cão\n\nANA MARTINS MARQUES. O livro das semelhanças. São Paulo: Companhia das Letras, 2015.\n\nNo poema, há marcas de linguagem que remetem tanto à poeta quanto a seus leitores. Uma dessas marcas, referindo-se unicamente ao leitor, está presente no seguinte verso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "como o passado nas pedras nos móveis no rosto (v. 8)"
+      },
+      {
+        "letter": "B",
+        "text": "das pessoas que conhecemos (v. 9)"
+      },
+      {
+        "letter": "C",
+        "text": "pense em como do lodo primeiro surgiu esta poltrona este livro (v. 15)"
+      },
+      {
+        "letter": "D",
+        "text": "à frente de nós à frente deles (v. 17)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O verbo \"pense\" está no imperativo, forma que se dirige a um interlocutor: é a poeta convocando o leitor a realizar uma operação mental. Só ele é interpelado, o que atende à exigência de uma marca que remeta unicamente ao leitor. Nas outras alternativas, a primeira pessoa do plural - \"conhecemos\" (v. 9), \"nós\" (v. 17) - inclui a poeta junto com o leitor, e o verso 8 não traz marca alguma de pessoa.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q08",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - poema de ANA MARTINS MARQUES\n\nO passado anda atrás de nós\ncomo os detetives os cobradores os ladrões\no futuro anda na frente\ncomo as crianças os guias de montanha\nos maratonistas melhores                          (v. 5)\ndo que nós salvo engano\no futuro não se imprime\ncomo o passado nas pedras nos móveis no rosto\ndas pessoas que conhecemos\no passado ao contrário dos gatos                   (v. 10)\nnão se limpa a si mesmo\naos cães domesticados se ensina\na andar sempre atrás do dono mas os cães\no passado só aparentemente nos pertencem\n                                                   (v. 15)\npense em como do lodo primeiro surgiu\nesta poltrona este livro este besouro\neste vulcão este despenhadeiro\nà frente de nós à frente deles corre o cão\n\nANA MARTINS MARQUES. O livro das semelhanças. São Paulo: Companhia das Letras, 2015.\n\n\"aos cães domesticados se ensina / a andar sempre atrás do dono mas os cães / o passado só aparentemente nos pertencem\" (v. 12-14)\n\nNesses versos, sugere-se uma ideia a respeito da relação entre cães e seres humanos. Essa ideia, no verso destacado, recebe da poeta a seguinte avaliação:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adesão"
+      },
+      {
+        "letter": "B",
+        "text": "negação"
+      },
+      {
+        "letter": "C",
+        "text": "proibição"
+      },
+      {
+        "letter": "D",
+        "text": "permissão"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois primeiros versos apresentam a crença corrente de que o cão, adestrado a seguir atrás do dono, lhe pertence. O verso seguinte desmente essa crença: cães e passado \"só aparentemente nos pertencem\". O advérbio \"aparentemente\", reforçado pelo \"mas\" adversativo, retira a validade do que fora dito - trata-se, portanto, de negação. Adesão significaria concordar com a ideia, e proibição e permissão dizem respeito à conduta, não ao valor de verdade de uma afirmação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q09",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - texto de UMBERTO ECO\n\nHá alguns meses fui convidado a visitar o Museu da Ciência de La Coruña, na Galícia. Ao final da visita, o curador anunciou que tinha uma surpresa para mim e me conduziu ao planetário. Um planetário sempre é um lugar sugestivo, porque, quando se apagam as luzes, temos a impressão de estar num deserto sob um céu estrelado. Mas naquela noite algo especial me aguardava. (l. 1-4)\n\nDe repente a sala ficou inteiramente às escuras, e ouvi um lindo acalanto de Manuel de Falla. Lentamente (embora um pouco mais depressa do que na realidade, já que a apresentação durou ao todo quinze minutos) o céu sobre minha cabeça se pôs a rodar. Era o céu que aparecera sobre minha cidade natal - Alessandria, na Itália - na noite de 5 para 6 de janeiro de 1932, quando nasci. Quase hiper-realisticamente vivenciei a primeira noite de minha vida. Vivenciei-a pela primeira vez, pois não tinha visto essa primeira noite. Provavelmente nem minha mãe a viu, exausta como estava depois de me dar à luz; mas talvez meu pai a tenha visto, ao sair para o terraço, um pouco agitado com o fato maravilhoso (pelo menos para ele) que testemunhara e ajudara a produzir. (l. 5-13)\n\nO planetário usava um artifício mecânico que se pode encontrar em muitos lugares. Outras pessoas talvez tenham passado por uma experiência semelhante. Mas vocês hão de me perdoar se durante aqueles quinze minutos tive a impressão de ser o único homem desde o início dos tempos que havia tido o privilégio de se encontrar com seu próprio começo. Eu estava tão feliz que tive a sensação - quase o desejo - de que podia, deveria morrer naquele exato momento e que qualquer outro momento teria sido inadequado. Teria morrido alegremente, pois vivera a mais bela história que li em toda a minha vida. Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas. Era ficção porque a história fora reinventada pelo curador; era História porque recontava o que acontecera no cosmos num momento do passado; era vida real porque eu era real e não uma personagem de romance. (l. 14-24)\n\nUMBERTO ECO. Adaptado de Seis passeios pelos bosques da ficção. São Paulo: Companhia das Letras, 1994.\n\nUmberto Eco narra, no segundo parágrafo do texto, uma experiência surpreendente que vivenciou. Pode-se compreender essa experiência pela relação que se estabelece entre os seguintes elementos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tempo cronológico e reconstrução ficcional"
+      },
+      {
+        "letter": "B",
+        "text": "avanço tecnológico e ilusão cinematográfica"
+      },
+      {
+        "letter": "C",
+        "text": "registro documental e sonho cotidiano"
+      },
+      {
+        "letter": "D",
+        "text": "narrativa biográfica e história universal"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A experiência une duas dimensões. De um lado, o tempo cronológico: uma data exata, a noite de 5 para 6 de janeiro de 1932, e a posição verificável dos astros naquele momento. De outro, a reconstrução ficcional: o planetário não mostra o céu real, e sim uma encenação montada pelo curador, comprimida em quinze minutos e acompanhada de música. É o encontro entre o dado objetivo e sua reconstituição encenada que produz o efeito descrito - o autor sente estar diante do próprio começo. As demais alternativas isolam apenas um dos polos ou introduzem elementos, como o sonho, ausentes do parágrafo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q10",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - texto de UMBERTO ECO\n\nHá alguns meses fui convidado a visitar o Museu da Ciência de La Coruña, na Galícia. Ao final da visita, o curador anunciou que tinha uma surpresa para mim e me conduziu ao planetário. Um planetário sempre é um lugar sugestivo, porque, quando se apagam as luzes, temos a impressão de estar num deserto sob um céu estrelado. Mas naquela noite algo especial me aguardava. (l. 1-4)\n\nDe repente a sala ficou inteiramente às escuras, e ouvi um lindo acalanto de Manuel de Falla. Lentamente (embora um pouco mais depressa do que na realidade, já que a apresentação durou ao todo quinze minutos) o céu sobre minha cabeça se pôs a rodar. Era o céu que aparecera sobre minha cidade natal - Alessandria, na Itália - na noite de 5 para 6 de janeiro de 1932, quando nasci. Quase hiper-realisticamente vivenciei a primeira noite de minha vida. Vivenciei-a pela primeira vez, pois não tinha visto essa primeira noite. Provavelmente nem minha mãe a viu, exausta como estava depois de me dar à luz; mas talvez meu pai a tenha visto, ao sair para o terraço, um pouco agitado com o fato maravilhoso (pelo menos para ele) que testemunhara e ajudara a produzir. (l. 5-13)\n\nO planetário usava um artifício mecânico que se pode encontrar em muitos lugares. Outras pessoas talvez tenham passado por uma experiência semelhante. Mas vocês hão de me perdoar se durante aqueles quinze minutos tive a impressão de ser o único homem desde o início dos tempos que havia tido o privilégio de se encontrar com seu próprio começo. Eu estava tão feliz que tive a sensação - quase o desejo - de que podia, deveria morrer naquele exato momento e que qualquer outro momento teria sido inadequado. Teria morrido alegremente, pois vivera a mais bela história que li em toda a minha vida. Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas. Era ficção porque a história fora reinventada pelo curador; era História porque recontava o que acontecera no cosmos num momento do passado; era vida real porque eu era real e não uma personagem de romance. (l. 14-24)\n\nUMBERTO ECO. Adaptado de Seis passeios pelos bosques da ficção. São Paulo: Companhia das Letras, 1994.\n\n\"Quase hiper-realisticamente vivenciei a primeira noite de minha vida.\" (l. 9)\n\nNa palavra destacada, o acréscimo do prefixo hiper indica ideia de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação"
+      },
+      {
+        "letter": "B",
+        "text": "hierarquia"
+      },
+      {
+        "letter": "C",
+        "text": "proporção"
+      },
+      {
+        "letter": "D",
+        "text": "simultaneidade"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O prefixo grego \"hiper-\" significa \"acima de\", \"além de\", e indica excesso ou intensificação - como em hipertensão ou hipérbole. Aqui, ele intensifica o realismo da experiência: não foi apenas real, foi realista em grau superior ao normal. Trata-se, portanto, de ampliação. A ideia de hierarquia caberia a prefixos como \"arqui-\" ou \"vice-\"; a de proporção, a \"semi-\" ou \"multi-\"; e a de simultaneidade, a \"co-\" ou \"sin-\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q11",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - texto de UMBERTO ECO\n\nHá alguns meses fui convidado a visitar o Museu da Ciência de La Coruña, na Galícia. Ao final da visita, o curador anunciou que tinha uma surpresa para mim e me conduziu ao planetário. Um planetário sempre é um lugar sugestivo, porque, quando se apagam as luzes, temos a impressão de estar num deserto sob um céu estrelado. Mas naquela noite algo especial me aguardava. (l. 1-4)\n\nDe repente a sala ficou inteiramente às escuras, e ouvi um lindo acalanto de Manuel de Falla. Lentamente (embora um pouco mais depressa do que na realidade, já que a apresentação durou ao todo quinze minutos) o céu sobre minha cabeça se pôs a rodar. Era o céu que aparecera sobre minha cidade natal - Alessandria, na Itália - na noite de 5 para 6 de janeiro de 1932, quando nasci. Quase hiper-realisticamente vivenciei a primeira noite de minha vida. Vivenciei-a pela primeira vez, pois não tinha visto essa primeira noite. Provavelmente nem minha mãe a viu, exausta como estava depois de me dar à luz; mas talvez meu pai a tenha visto, ao sair para o terraço, um pouco agitado com o fato maravilhoso (pelo menos para ele) que testemunhara e ajudara a produzir. (l. 5-13)\n\nO planetário usava um artifício mecânico que se pode encontrar em muitos lugares. Outras pessoas talvez tenham passado por uma experiência semelhante. Mas vocês hão de me perdoar se durante aqueles quinze minutos tive a impressão de ser o único homem desde o início dos tempos que havia tido o privilégio de se encontrar com seu próprio começo. Eu estava tão feliz que tive a sensação - quase o desejo - de que podia, deveria morrer naquele exato momento e que qualquer outro momento teria sido inadequado. Teria morrido alegremente, pois vivera a mais bela história que li em toda a minha vida. Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas. Era ficção porque a história fora reinventada pelo curador; era História porque recontava o que acontecera no cosmos num momento do passado; era vida real porque eu era real e não uma personagem de romance. (l. 14-24)\n\nUMBERTO ECO. Adaptado de Seis passeios pelos bosques da ficção. São Paulo: Companhia das Letras, 1994.\n\n\"Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas.\" (l. 21-22)\n\nNa frase acima, o autor procura delimitar um sentido para a palavra história por meio dos trechos destacados. Esses trechos apresentam uma formulação do seguinte tipo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exemplificação"
+      },
+      {
+        "letter": "B",
+        "text": "particularização"
+      },
+      {
+        "letter": "C",
+        "text": "modalização"
+      },
+      {
+        "letter": "D",
+        "text": "dedução"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A palavra \"história\" é ampla demais para o que o autor quer dizer, e os trechos vão estreitando seu alcance: primeiro \"a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas\", depois \"uma história na qual as estrelas e eu éramos os protagonistas\". Cada acréscimo reduz o conjunto de histórias possíveis até chegar a uma única - a que ele viveu no planetário. Esse movimento do geral para o específico é a particularização. Não há exemplos de outras histórias (exemplificação), nem expressão de dúvida ou atenuação (modalização), nem conclusão extraída de premissas (dedução).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q12",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - texto de UMBERTO ECO\n\nHá alguns meses fui convidado a visitar o Museu da Ciência de La Coruña, na Galícia. Ao final da visita, o curador anunciou que tinha uma surpresa para mim e me conduziu ao planetário. Um planetário sempre é um lugar sugestivo, porque, quando se apagam as luzes, temos a impressão de estar num deserto sob um céu estrelado. Mas naquela noite algo especial me aguardava. (l. 1-4)\n\nDe repente a sala ficou inteiramente às escuras, e ouvi um lindo acalanto de Manuel de Falla. Lentamente (embora um pouco mais depressa do que na realidade, já que a apresentação durou ao todo quinze minutos) o céu sobre minha cabeça se pôs a rodar. Era o céu que aparecera sobre minha cidade natal - Alessandria, na Itália - na noite de 5 para 6 de janeiro de 1932, quando nasci. Quase hiper-realisticamente vivenciei a primeira noite de minha vida. Vivenciei-a pela primeira vez, pois não tinha visto essa primeira noite. Provavelmente nem minha mãe a viu, exausta como estava depois de me dar à luz; mas talvez meu pai a tenha visto, ao sair para o terraço, um pouco agitado com o fato maravilhoso (pelo menos para ele) que testemunhara e ajudara a produzir. (l. 5-13)\n\nO planetário usava um artifício mecânico que se pode encontrar em muitos lugares. Outras pessoas talvez tenham passado por uma experiência semelhante. Mas vocês hão de me perdoar se durante aqueles quinze minutos tive a impressão de ser o único homem desde o início dos tempos que havia tido o privilégio de se encontrar com seu próprio começo. Eu estava tão feliz que tive a sensação - quase o desejo - de que podia, deveria morrer naquele exato momento e que qualquer outro momento teria sido inadequado. Teria morrido alegremente, pois vivera a mais bela história que li em toda a minha vida. Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas. Era ficção porque a história fora reinventada pelo curador; era História porque recontava o que acontecera no cosmos num momento do passado; era vida real porque eu era real e não uma personagem de romance. (l. 14-24)\n\nUMBERTO ECO. Adaptado de Seis passeios pelos bosques da ficção. São Paulo: Companhia das Letras, 1994.\n\nNo último parágrafo, ao descrever a experiência vivida no planetário, o autor identifica três efeitos: de ficção, de História e de realidade. De acordo com a exposição do autor, a interação entre esses três efeitos pode ser descrita como uma relação de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anulação"
+      },
+      {
+        "letter": "B",
+        "text": "condição"
+      },
+      {
+        "letter": "C",
+        "text": "contradição"
+      },
+      {
+        "letter": "D",
+        "text": "superposição"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O autor emprega três vezes o verbo \"ser\" no mesmo tempo, sem oposição entre as afirmações: \"era ficção porque a história fora reinventada pelo curador; era História porque recontava o que acontecera no cosmos; era vida real porque eu era real\". Os três estatutos valem simultaneamente para a mesma experiência, cada um justificado por uma razão própria e nenhum excluindo os demais. Essa coexistência de camadas sobre o mesmo objeto é a superposição. Não há anulação nem contradição, já que os efeitos não se cancelam, e não há relação de condição entre eles.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q13",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - POR UMA OUTRA GLOBALIZAÇÃO (Milton Santos)\n\nVivemos num mundo confuso e confusamente percebido. De fato, se desejamos escapar à crença de que esse mundo assim apresentado é verdadeiro, e não queremos admitir a permanência de sua percepção enganosa, devemos considerar a existência de pelo menos três mundos num só. O primeiro seria o mundo tal como nos fazem vê-lo: a globalização como fábula. O segundo seria o mundo tal como ele é: a globalização como perversidade. E o terceiro, o mundo como ele pode ser: uma outra globalização. (l. 1-6)\n\nEste mundo globalizado, visto como fábula, constrói como verdade um certo número de fantasias. Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas. A partir desse mito e do encurtamento das distâncias - para aqueles que realmente podem viajar - também se difunde a noção de tempo e espaço contraídos. É como se o mundo houvesse se tornado, para todos, ao alcance da mão. Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta quando, na verdade, as diferenças locais são aprofundadas. O mundo se torna menos unido, tornando também mais distante o sonho de uma cidadania de fato universal. Enquanto isso, o culto ao consumo é estimulado. (l. 7-15)\n\nNa verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades. O desemprego crescente torna-se crônico. A pobreza aumenta e as classes médias perdem em qualidade de vida. O salário médio tende a baixar. A fome e o desabrigo se generalizam em todos os continentes. Novas enfermidades se instalam e velhas doenças, supostamente extirpadas, fazem seu retorno triunfal. (l. 16-20)\n\nTodavia, podemos pensar na construção de um outro mundo, mediante uma globalização mais humana. As bases materiais do período atual são, entre outras, a unicidade da técnica, a convergência dos momentos e o conhecimento do planeta. É nessas bases técnicas que o grande capital se apoia para construir a globalização perversa de que falamos acima. Mas essas mesmas bases técnicas poderão servir a outros objetivos, se forem postas a serviço de outros fundamentos sociais e políticos. (l. 21-26)\n\nMILTON SANTOS. Adaptado de Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2004.\n\nNo primeiro parágrafo, o autor apresenta uma caracterização negativa do mundo atual, ao mesmo tempo que propõe um procedimento de análise desse contexto que permitiria superá-lo. Esse procedimento de análise está explicado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contestação de práticas históricas que geram injustiças sociais"
+      },
+      {
+        "letter": "B",
+        "text": "simulação de cenários futuros que possibilitem novas relações humanas"
+      },
+      {
+        "letter": "C",
+        "text": "formulação de conceitos gerais que simplifiquem uma tese controversa"
+      },
+      {
+        "letter": "D",
+        "text": "delimitação de aspectos distintos que compõem um problema complexo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Diante de um mundo \"confuso e confusamente percebido\", o autor propõe um método explícito: \"devemos considerar a existência de pelo menos três mundos num só\" - a globalização como fábula, como perversidade e como possibilidade. Ele decompõe um objeto complexo em aspectos distintos, cada um analisável separadamente, e é essa delimitação que permite escapar da percepção enganosa. As alternativas (A) e (B) descrevem finalidades, e não o procedimento; e (C) inverte o sentido do texto, pois o autor não simplifica, e sim distingue níveis de um mesmo fenômeno.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q14",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - POR UMA OUTRA GLOBALIZAÇÃO (Milton Santos)\n\nVivemos num mundo confuso e confusamente percebido. De fato, se desejamos escapar à crença de que esse mundo assim apresentado é verdadeiro, e não queremos admitir a permanência de sua percepção enganosa, devemos considerar a existência de pelo menos três mundos num só. O primeiro seria o mundo tal como nos fazem vê-lo: a globalização como fábula. O segundo seria o mundo tal como ele é: a globalização como perversidade. E o terceiro, o mundo como ele pode ser: uma outra globalização. (l. 1-6)\n\nEste mundo globalizado, visto como fábula, constrói como verdade um certo número de fantasias. Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas. A partir desse mito e do encurtamento das distâncias - para aqueles que realmente podem viajar - também se difunde a noção de tempo e espaço contraídos. É como se o mundo houvesse se tornado, para todos, ao alcance da mão. Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta quando, na verdade, as diferenças locais são aprofundadas. O mundo se torna menos unido, tornando também mais distante o sonho de uma cidadania de fato universal. Enquanto isso, o culto ao consumo é estimulado. (l. 7-15)\n\nNa verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades. O desemprego crescente torna-se crônico. A pobreza aumenta e as classes médias perdem em qualidade de vida. O salário médio tende a baixar. A fome e o desabrigo se generalizam em todos os continentes. Novas enfermidades se instalam e velhas doenças, supostamente extirpadas, fazem seu retorno triunfal. (l. 16-20)\n\nTodavia, podemos pensar na construção de um outro mundo, mediante uma globalização mais humana. As bases materiais do período atual são, entre outras, a unicidade da técnica, a convergência dos momentos e o conhecimento do planeta. É nessas bases técnicas que o grande capital se apoia para construir a globalização perversa de que falamos acima. Mas essas mesmas bases técnicas poderão servir a outros objetivos, se forem postas a serviço de outros fundamentos sociais e políticos. (l. 21-26)\n\nMILTON SANTOS. Adaptado de Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2004.\n\n\"Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas.\" (l. 8-9)\n\nAo empregar a expressão destacada neste trecho, o autor indica sua discordância em relação a uma ideia difundida como verdade inquestionável. Outra expressão empregada com a mesma finalidade está destacada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "É como se o mundo houvesse se tornado, para todos, ao alcance da mão. (l. 11)"
+      },
+      {
+        "letter": "B",
+        "text": "Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta (l. 11-12)"
+      },
+      {
+        "letter": "C",
+        "text": "tornando também mais distante o sonho de uma cidadania de fato universal. (l. 13-14)"
+      },
+      {
+        "letter": "D",
+        "text": "Enquanto isso, o culto ao consumo é estimulado. (l. 14-15)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "\"Para fazer crer\" indica que se pretende produzir uma convicção que o autor não subscreve. A locução \"é como se\", na alternativa (A), cumpre a mesma função: apresenta a contração do tempo e do espaço como uma hipótese irreal, algo que apenas parece ter acontecido. Nos dois casos, o autor relata a crença corrente e simultaneamente se distancia dela. Em (C) e (D) as afirmações são feitas em nome do próprio autor, sem qualquer distanciamento. A alternativa (B) também marca distância, com \"dito\" e \"é apresentado como\", mas o destaque do enunciado recai sobre \"avassalador dito global\", e a construção com \"como se\" de (A) é a que reproduz exatamente o mecanismo do trecho citado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q15",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 15,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "Texto base - POR UMA OUTRA GLOBALIZAÇÃO (Milton Santos)\n\nVivemos num mundo confuso e confusamente percebido. De fato, se desejamos escapar à crença de que esse mundo assim apresentado é verdadeiro, e não queremos admitir a permanência de sua percepção enganosa, devemos considerar a existência de pelo menos três mundos num só. O primeiro seria o mundo tal como nos fazem vê-lo: a globalização como fábula. O segundo seria o mundo tal como ele é: a globalização como perversidade. E o terceiro, o mundo como ele pode ser: uma outra globalização. (l. 1-6)\n\nEste mundo globalizado, visto como fábula, constrói como verdade um certo número de fantasias. Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas. A partir desse mito e do encurtamento das distâncias - para aqueles que realmente podem viajar - também se difunde a noção de tempo e espaço contraídos. É como se o mundo houvesse se tornado, para todos, ao alcance da mão. Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta quando, na verdade, as diferenças locais são aprofundadas. O mundo se torna menos unido, tornando também mais distante o sonho de uma cidadania de fato universal. Enquanto isso, o culto ao consumo é estimulado. (l. 7-15)\n\nNa verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades. O desemprego crescente torna-se crônico. A pobreza aumenta e as classes médias perdem em qualidade de vida. O salário médio tende a baixar. A fome e o desabrigo se generalizam em todos os continentes. Novas enfermidades se instalam e velhas doenças, supostamente extirpadas, fazem seu retorno triunfal. (l. 16-20)\n\nTodavia, podemos pensar na construção de um outro mundo, mediante uma globalização mais humana. As bases materiais do período atual são, entre outras, a unicidade da técnica, a convergência dos momentos e o conhecimento do planeta. É nessas bases técnicas que o grande capital se apoia para construir a globalização perversa de que falamos acima. Mas essas mesmas bases técnicas poderão servir a outros objetivos, se forem postas a serviço de outros fundamentos sociais e políticos. (l. 21-26)\n\nMILTON SANTOS. Adaptado de Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2004.\n\n\"A partir desse mito e do encurtamento das distâncias - para aqueles que realmente podem viajar - também se difunde a noção de tempo e espaço contraídos.\" (l. 9-11)\n\nO comentário introduzido entre travessões apresenta um ponto de vista do autor que se sustenta em um elemento subentendido. Esse elemento está associado à existência, na sociedade, de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valores familiares"
+      },
+      {
+        "letter": "B",
+        "text": "apelos publicitários"
+      },
+      {
+        "letter": "C",
+        "text": "diversidade cultural"
+      },
+      {
+        "letter": "D",
+        "text": "desigualdade econômica"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao restringir o encurtamento das distâncias \"para aqueles que realmente podem viajar\", o autor subentende que nem todos podem - e o que separa uns dos outros é a capacidade de pagar pela viagem. O aparte desmonta assim a suposta universalidade da globalização: a contração do tempo e do espaço é privilégio de quem tem renda para se deslocar, o que remete à desigualdade econômica. Os demais fatores não determinam quem viaja e quem não viaja, e o próprio texto reforça essa leitura ao afirmar, na sequência, que \"as diferenças locais são aprofundadas\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q16",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - POR UMA OUTRA GLOBALIZAÇÃO (Milton Santos)\n\nVivemos num mundo confuso e confusamente percebido. De fato, se desejamos escapar à crença de que esse mundo assim apresentado é verdadeiro, e não queremos admitir a permanência de sua percepção enganosa, devemos considerar a existência de pelo menos três mundos num só. O primeiro seria o mundo tal como nos fazem vê-lo: a globalização como fábula. O segundo seria o mundo tal como ele é: a globalização como perversidade. E o terceiro, o mundo como ele pode ser: uma outra globalização. (l. 1-6)\n\nEste mundo globalizado, visto como fábula, constrói como verdade um certo número de fantasias. Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas. A partir desse mito e do encurtamento das distâncias - para aqueles que realmente podem viajar - também se difunde a noção de tempo e espaço contraídos. É como se o mundo houvesse se tornado, para todos, ao alcance da mão. Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta quando, na verdade, as diferenças locais são aprofundadas. O mundo se torna menos unido, tornando também mais distante o sonho de uma cidadania de fato universal. Enquanto isso, o culto ao consumo é estimulado. (l. 7-15)\n\nNa verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades. O desemprego crescente torna-se crônico. A pobreza aumenta e as classes médias perdem em qualidade de vida. O salário médio tende a baixar. A fome e o desabrigo se generalizam em todos os continentes. Novas enfermidades se instalam e velhas doenças, supostamente extirpadas, fazem seu retorno triunfal. (l. 16-20)\n\nTodavia, podemos pensar na construção de um outro mundo, mediante uma globalização mais humana. As bases materiais do período atual são, entre outras, a unicidade da técnica, a convergência dos momentos e o conhecimento do planeta. É nessas bases técnicas que o grande capital se apoia para construir a globalização perversa de que falamos acima. Mas essas mesmas bases técnicas poderão servir a outros objetivos, se forem postas a serviço de outros fundamentos sociais e políticos. (l. 21-26)\n\nMILTON SANTOS. Adaptado de Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2004.\n\n\"Na verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades.\" (l. 16-17)\n\nNo terceiro parágrafo, as frases posteriores ao trecho citado desenvolvem a argumentação do autor por meio da apresentação de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hipóteses"
+      },
+      {
+        "letter": "B",
+        "text": "evidências"
+      },
+      {
+        "letter": "C",
+        "text": "digressões"
+      },
+      {
+        "letter": "D",
+        "text": "discordâncias"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Depois de enunciar a tese, o autor a sustenta com uma série de constatações objetivas e verificáveis: desemprego crônico, aumento da pobreza, perda de qualidade de vida das classes médias, queda do salário médio, generalização da fome e do desabrigo, retorno de doenças supostamente extirpadas. São fatos apresentados como comprovação da afirmação inicial, isto é, evidências. Não há hipóteses, pois nada é apresentado como suposição; não há digressões, pois todas as frases servem à mesma tese; e não há discordâncias, pois nenhuma contraria o que foi afirmado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q17",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CAPERUCITA ROJA (versión políticamente correcta)\n\nÉrase una vez una niña llamada Caperucita Roja que vivía con su madre en la linde de un bosque. Un día, su madre le pidió que llevara una cesta con fruta fresca y agua mineral a casa de su abuela, pero no porque lo considerara una labor propia de mujeres, atención, sino porque ello representaba un acto generoso que contribuía a afianzar la sensación de comunidad. (l. 1-4)\n\nDe camino a casa de su abuela, Caperucita Roja se vio abordada por un lobo que le preguntó qué llevaba en la cesta.\n- Un saludable tentempié para mi abuela -respondió.\n- No sé si sabes, querida, que es peligroso para una niña pequeña recorrer sola estos bosques.\n- Encuentro esa observación sexista y en extremo insultante, pero haré caso omiso de ella. Y ahora, si me perdonas, debo continuar mi camino -respondió Caperucita. (l. 5-10)\n\nEl lobo conocía una ruta más rápida para llegar a casa de la abuela. Tras irrumpir bruscamente en ella, devoró a la anciana, adoptando con ello una línea de conducta completamente válida para cualquier carnívoro. A continuación, se puso el camisón de la abuela y se acurrucó en el lecho. Caperucita Roja entró en la cabaña y dijo: (l. 11-14)\n- Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)\n- Acércate más, criatura, para que pueda verte -dijo suavemente el lobo desde el lecho.\n- ¡Oh! -repuso Caperucita. Pero, abuela, ¡qué ojos tan grandes tienes!\n- Han visto mucho y han perdonado mucho, querida. (l. 18)\n- Y, abuela, ¡qué nariz tan grande tienes!...\n- Ha olido mucho y ha perdonado mucho, querida. (l. 20)\n- Y... ¡qué dientes tan grandes tienes! (l. 21)\n- Soy feliz de ser quien soy y lo que soy -respondió el lobo y, saltando de la cama, aferró a Caperucita Roja con sus garras, dispuesto a devorarla. (l. 22-23)\n\nCaperucita gritó y sus gritos llegaron a oídos de un operario de la industria maderera que pasaba por allí. Al entrar en la cabaña, advirtió el revuelo y trató de intervenir. Pero apenas había alzado su hacha cuando tanto el lobo como Caperucita Roja se detuvieron simultáneamente. (l. 24-26)\n- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía. (l. 27-28)\n- ¡Se cree acaso que puede usted irrumpir aquí y delegar su capacidad de reflexión en el arma que lleva consigo! -prosiguió Caperucita. ¡Sexista! ¡Racista! ¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre? (l. 29-32)\n\nAl oír el apasionado discurso de Caperucita, la abuela saltó de la panza del lobo, arrebató el hacha al operario maderero y le cortó la cabeza. Concluida la odisea, Caperucita, la abuela y el lobo decidieron instaurar una forma alternativa de comunidad basada en la cooperación y el respeto mutuos y, juntos, vivieron felices en los bosques para siempre. (l. 33-36)\n\nalgundiaenalgunaparte.com\n\nUna de las versiones del clásico infantil Caperucita Roja termina con la muerte del lobo malo, como un castigo por todo lo que había hecho contra la niña y su abuela. Respecto a tal versión clásica, la nueva versión de la historia se caracteriza por el siguiente rasgo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "subversión"
+      },
+      {
+        "letter": "B",
+        "text": "veracidad"
+      },
+      {
+        "letter": "C",
+        "text": "incoherencia"
+      },
+      {
+        "letter": "D",
+        "text": "alargamiento"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A nova versão inverte sistematicamente os papéis do conto tradicional. A menina, antes indefesa, repreende o lobo por sexismo e recusa a ajuda do lenhador; o lobo age segundo uma \"línea de conducta completamente válida para cualquier carnívoro\"; e quem morre não é o vilão, mas o salvador, decapitado pela avó. O desfecho substitui o castigo pela convivência harmônica entre todos. Essa inversão deliberada dos valores e das expectativas do conto clássico é a subversão. Não se trata de veracidade nem de mero alongamento da história, e a nova versão tem coerência interna própria - satírica, mas consistente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q18",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - CAPERUCITA ROJA (versión políticamente correcta)\n\nÉrase una vez una niña llamada Caperucita Roja que vivía con su madre en la linde de un bosque. Un día, su madre le pidió que llevara una cesta con fruta fresca y agua mineral a casa de su abuela, pero no porque lo considerara una labor propia de mujeres, atención, sino porque ello representaba un acto generoso que contribuía a afianzar la sensación de comunidad. (l. 1-4)\n\nDe camino a casa de su abuela, Caperucita Roja se vio abordada por un lobo que le preguntó qué llevaba en la cesta.\n- Un saludable tentempié para mi abuela -respondió.\n- No sé si sabes, querida, que es peligroso para una niña pequeña recorrer sola estos bosques.\n- Encuentro esa observación sexista y en extremo insultante, pero haré caso omiso de ella. Y ahora, si me perdonas, debo continuar mi camino -respondió Caperucita. (l. 5-10)\n\nEl lobo conocía una ruta más rápida para llegar a casa de la abuela. Tras irrumpir bruscamente en ella, devoró a la anciana, adoptando con ello una línea de conducta completamente válida para cualquier carnívoro. A continuación, se puso el camisón de la abuela y se acurrucó en el lecho. Caperucita Roja entró en la cabaña y dijo: (l. 11-14)\n- Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)\n- Acércate más, criatura, para que pueda verte -dijo suavemente el lobo desde el lecho.\n- ¡Oh! -repuso Caperucita. Pero, abuela, ¡qué ojos tan grandes tienes!\n- Han visto mucho y han perdonado mucho, querida. (l. 18)\n- Y, abuela, ¡qué nariz tan grande tienes!...\n- Ha olido mucho y ha perdonado mucho, querida. (l. 20)\n- Y... ¡qué dientes tan grandes tienes! (l. 21)\n- Soy feliz de ser quien soy y lo que soy -respondió el lobo y, saltando de la cama, aferró a Caperucita Roja con sus garras, dispuesto a devorarla. (l. 22-23)\n\nCaperucita gritó y sus gritos llegaron a oídos de un operario de la industria maderera que pasaba por allí. Al entrar en la cabaña, advirtió el revuelo y trató de intervenir. Pero apenas había alzado su hacha cuando tanto el lobo como Caperucita Roja se detuvieron simultáneamente. (l. 24-26)\n- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía. (l. 27-28)\n- ¡Se cree acaso que puede usted irrumpir aquí y delegar su capacidad de reflexión en el arma que lleva consigo! -prosiguió Caperucita. ¡Sexista! ¡Racista! ¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre? (l. 29-32)\n\nAl oír el apasionado discurso de Caperucita, la abuela saltó de la panza del lobo, arrebató el hacha al operario maderero y le cortó la cabeza. Concluida la odisea, Caperucita, la abuela y el lobo decidieron instaurar una forma alternativa de comunidad basada en la cooperación y el respeto mutuos y, juntos, vivieron felices en los bosques para siempre. (l. 33-36)\n\nalgundiaenalgunaparte.com\n\nEn el texto, los personajes dialogan con diferentes grados de formalidad. En cuanto al uso de las formas de tratamiento, se encuentra una marca de formalidad en el siguiente fragmento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)"
+      },
+      {
+        "letter": "B",
+        "text": "Han visto mucho y han perdonado mucho, querida. (l. 18)"
+      },
+      {
+        "letter": "C",
+        "text": "Y... ¡qué dientes tan grandes tienes! (l. 21)"
+      },
+      {
+        "letter": "D",
+        "text": "¡Se cree acaso que puede usted irrumpir aquí (l. 29)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em espanhol, a formalidade se marca pelo tratamento de \"usted\", com o verbo na terceira pessoa. É o que ocorre em (D): \"puede usted irrumpir\", forma usada por Caperucita ao dirigir-se ao lenhador, um desconhecido - e, no contexto, com evidente distanciamento hostil. Nas demais alternativas prevalece o tratamento de \"tú\", próprio da intimidade familiar: \"te he traído\", \"tienes\", e o vocativo afetuoso \"querida\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q19",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 19,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - CAPERUCITA ROJA (versión políticamente correcta)\n\nÉrase una vez una niña llamada Caperucita Roja que vivía con su madre en la linde de un bosque. Un día, su madre le pidió que llevara una cesta con fruta fresca y agua mineral a casa de su abuela, pero no porque lo considerara una labor propia de mujeres, atención, sino porque ello representaba un acto generoso que contribuía a afianzar la sensación de comunidad. (l. 1-4)\n\nDe camino a casa de su abuela, Caperucita Roja se vio abordada por un lobo que le preguntó qué llevaba en la cesta.\n- Un saludable tentempié para mi abuela -respondió.\n- No sé si sabes, querida, que es peligroso para una niña pequeña recorrer sola estos bosques.\n- Encuentro esa observación sexista y en extremo insultante, pero haré caso omiso de ella. Y ahora, si me perdonas, debo continuar mi camino -respondió Caperucita. (l. 5-10)\n\nEl lobo conocía una ruta más rápida para llegar a casa de la abuela. Tras irrumpir bruscamente en ella, devoró a la anciana, adoptando con ello una línea de conducta completamente válida para cualquier carnívoro. A continuación, se puso el camisón de la abuela y se acurrucó en el lecho. Caperucita Roja entró en la cabaña y dijo: (l. 11-14)\n- Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)\n- Acércate más, criatura, para que pueda verte -dijo suavemente el lobo desde el lecho.\n- ¡Oh! -repuso Caperucita. Pero, abuela, ¡qué ojos tan grandes tienes!\n- Han visto mucho y han perdonado mucho, querida. (l. 18)\n- Y, abuela, ¡qué nariz tan grande tienes!...\n- Ha olido mucho y ha perdonado mucho, querida. (l. 20)\n- Y... ¡qué dientes tan grandes tienes! (l. 21)\n- Soy feliz de ser quien soy y lo que soy -respondió el lobo y, saltando de la cama, aferró a Caperucita Roja con sus garras, dispuesto a devorarla. (l. 22-23)\n\nCaperucita gritó y sus gritos llegaron a oídos de un operario de la industria maderera que pasaba por allí. Al entrar en la cabaña, advirtió el revuelo y trató de intervenir. Pero apenas había alzado su hacha cuando tanto el lobo como Caperucita Roja se detuvieron simultáneamente. (l. 24-26)\n- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía. (l. 27-28)\n- ¡Se cree acaso que puede usted irrumpir aquí y delegar su capacidad de reflexión en el arma que lleva consigo! -prosiguió Caperucita. ¡Sexista! ¡Racista! ¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre? (l. 29-32)\n\nAl oír el apasionado discurso de Caperucita, la abuela saltó de la panza del lobo, arrebató el hacha al operario maderero y le cortó la cabeza. Concluida la odisea, Caperucita, la abuela y el lobo decidieron instaurar una forma alternativa de comunidad basada en la cooperación y el respeto mutuos y, juntos, vivieron felices en los bosques para siempre. (l. 33-36)\n\nalgundiaenalgunaparte.com\n\n\"A continuación, se puso el camisón de la abuela y se acurrucó en el lecho.\" (l. 13)\n\nLa expresión subrayada introduce una idea de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "causa"
+      },
+      {
+        "letter": "B",
+        "text": "tiempo"
+      },
+      {
+        "letter": "C",
+        "text": "finalidad"
+      },
+      {
+        "letter": "D",
+        "text": "concesión"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "\"A continuación\" equivale a \"em seguida\" e situa a ação na sequência do que acabou de ser narrado: depois de devorar a avó, o lobo vestiu a camisola e deitou-se. É, portanto, um marcador temporal, que organiza a ordem dos acontecimentos. Causa pediria \"porque\" ou \"puesto que\"; finalidade, \"para\" ou \"a fin de\"; e concessão, \"aunque\" ou \"a pesar de\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q20",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 20,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CAPERUCITA ROJA (versión políticamente correcta)\n\nÉrase una vez una niña llamada Caperucita Roja que vivía con su madre en la linde de un bosque. Un día, su madre le pidió que llevara una cesta con fruta fresca y agua mineral a casa de su abuela, pero no porque lo considerara una labor propia de mujeres, atención, sino porque ello representaba un acto generoso que contribuía a afianzar la sensación de comunidad. (l. 1-4)\n\nDe camino a casa de su abuela, Caperucita Roja se vio abordada por un lobo que le preguntó qué llevaba en la cesta.\n- Un saludable tentempié para mi abuela -respondió.\n- No sé si sabes, querida, que es peligroso para una niña pequeña recorrer sola estos bosques.\n- Encuentro esa observación sexista y en extremo insultante, pero haré caso omiso de ella. Y ahora, si me perdonas, debo continuar mi camino -respondió Caperucita. (l. 5-10)\n\nEl lobo conocía una ruta más rápida para llegar a casa de la abuela. Tras irrumpir bruscamente en ella, devoró a la anciana, adoptando con ello una línea de conducta completamente válida para cualquier carnívoro. A continuación, se puso el camisón de la abuela y se acurrucó en el lecho. Caperucita Roja entró en la cabaña y dijo: (l. 11-14)\n- Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)\n- Acércate más, criatura, para que pueda verte -dijo suavemente el lobo desde el lecho.\n- ¡Oh! -repuso Caperucita. Pero, abuela, ¡qué ojos tan grandes tienes!\n- Han visto mucho y han perdonado mucho, querida. (l. 18)\n- Y, abuela, ¡qué nariz tan grande tienes!...\n- Ha olido mucho y ha perdonado mucho, querida. (l. 20)\n- Y... ¡qué dientes tan grandes tienes! (l. 21)\n- Soy feliz de ser quien soy y lo que soy -respondió el lobo y, saltando de la cama, aferró a Caperucita Roja con sus garras, dispuesto a devorarla. (l. 22-23)\n\nCaperucita gritó y sus gritos llegaron a oídos de un operario de la industria maderera que pasaba por allí. Al entrar en la cabaña, advirtió el revuelo y trató de intervenir. Pero apenas había alzado su hacha cuando tanto el lobo como Caperucita Roja se detuvieron simultáneamente. (l. 24-26)\n- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía. (l. 27-28)\n- ¡Se cree acaso que puede usted irrumpir aquí y delegar su capacidad de reflexión en el arma que lleva consigo! -prosiguió Caperucita. ¡Sexista! ¡Racista! ¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre? (l. 29-32)\n\nAl oír el apasionado discurso de Caperucita, la abuela saltó de la panza del lobo, arrebató el hacha al operario maderero y le cortó la cabeza. Concluida la odisea, Caperucita, la abuela y el lobo decidieron instaurar una forma alternativa de comunidad basada en la cooperación y el respeto mutuos y, juntos, vivieron felices en los bosques para siempre. (l. 33-36)\n\nalgundiaenalgunaparte.com\n\n\"- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía.\" (l. 27-28)\n\nEn este fragmento, se observa que la pregunta de la niña produjo en el operario la siguiente reacción:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "timidez"
+      },
+      {
+        "letter": "B",
+        "text": "rechazo"
+      },
+      {
+        "letter": "C",
+        "text": "estupefacción"
+      },
+      {
+        "letter": "D",
+        "text": "aburrimiento"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O lenhador entra esperando salvar a menina e é recebido com uma acusação. Sua reação é descrita por dois gestos: pestaneja e tenta responder sem conseguir. Piscar repetidamente e perder a fala diante de algo inesperado caracterizam o espanto que o deixa sem reação - a estupefação. Timidez seria um traço permanente de caráter, e não uma reação ao momento; rejeição implicaria recusa ativa, que ele não chega a formular; e o tédio contraria por completo a cena.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q21",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 21,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CAPERUCITA ROJA (versión políticamente correcta)\n\nÉrase una vez una niña llamada Caperucita Roja que vivía con su madre en la linde de un bosque. Un día, su madre le pidió que llevara una cesta con fruta fresca y agua mineral a casa de su abuela, pero no porque lo considerara una labor propia de mujeres, atención, sino porque ello representaba un acto generoso que contribuía a afianzar la sensación de comunidad. (l. 1-4)\n\nDe camino a casa de su abuela, Caperucita Roja se vio abordada por un lobo que le preguntó qué llevaba en la cesta.\n- Un saludable tentempié para mi abuela -respondió.\n- No sé si sabes, querida, que es peligroso para una niña pequeña recorrer sola estos bosques.\n- Encuentro esa observación sexista y en extremo insultante, pero haré caso omiso de ella. Y ahora, si me perdonas, debo continuar mi camino -respondió Caperucita. (l. 5-10)\n\nEl lobo conocía una ruta más rápida para llegar a casa de la abuela. Tras irrumpir bruscamente en ella, devoró a la anciana, adoptando con ello una línea de conducta completamente válida para cualquier carnívoro. A continuación, se puso el camisón de la abuela y se acurrucó en el lecho. Caperucita Roja entró en la cabaña y dijo: (l. 11-14)\n- Abuela, te he traído algunas chucherías bajas en calorías y en sodio. (l. 15)\n- Acércate más, criatura, para que pueda verte -dijo suavemente el lobo desde el lecho.\n- ¡Oh! -repuso Caperucita. Pero, abuela, ¡qué ojos tan grandes tienes!\n- Han visto mucho y han perdonado mucho, querida. (l. 18)\n- Y, abuela, ¡qué nariz tan grande tienes!...\n- Ha olido mucho y ha perdonado mucho, querida. (l. 20)\n- Y... ¡qué dientes tan grandes tienes! (l. 21)\n- Soy feliz de ser quien soy y lo que soy -respondió el lobo y, saltando de la cama, aferró a Caperucita Roja con sus garras, dispuesto a devorarla. (l. 22-23)\n\nCaperucita gritó y sus gritos llegaron a oídos de un operario de la industria maderera que pasaba por allí. Al entrar en la cabaña, advirtió el revuelo y trató de intervenir. Pero apenas había alzado su hacha cuando tanto el lobo como Caperucita Roja se detuvieron simultáneamente. (l. 24-26)\n- ¿Puede saberse con exactitud qué cree usted que está haciendo? -inquirió Caperucita. El operario maderero parpadeó e intentó responder, pero no conseguía. (l. 27-28)\n- ¡Se cree acaso que puede usted irrumpir aquí y delegar su capacidad de reflexión en el arma que lleva consigo! -prosiguió Caperucita. ¡Sexista! ¡Racista! ¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre? (l. 29-32)\n\nAl oír el apasionado discurso de Caperucita, la abuela saltó de la panza del lobo, arrebató el hacha al operario maderero y le cortó la cabeza. Concluida la odisea, Caperucita, la abuela y el lobo decidieron instaurar una forma alternativa de comunidad basada en la cooperación y el respeto mutuos y, juntos, vivieron felices en los bosques para siempre. (l. 33-36)\n\nalgundiaenalgunaparte.com\n\n\"¿Cómo se atreve a dar por sentado que las mujeres y los lobos no son capaces de resolver sus propias diferencias sin la ayuda de un hombre?\" (l. 30-32)\n\nEn el contexto del penúltimo párrafo, la frase destacada tiene la función de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aclarar una duda"
+      },
+      {
+        "letter": "B",
+        "text": "presentar un hecho"
+      },
+      {
+        "letter": "C",
+        "text": "provocar un malentendido"
+      },
+      {
+        "letter": "D",
+        "text": "desarrollar una argumentación"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A pergunta é retórica: Caperucita não espera resposta, tanto que o lenhador sequer consegue falar. Ela serve para explicitar a acusação que vinha sendo construída no parágrafo - as interpelações \"¡Sexista! ¡Racista!\" e a censura por \"delegar su capacidade de reflexión en el arma\" -, nomeando o pressuposto que ela atribui ao lenhador e que rejeita. A frase, portanto, desenvolve a argumentação da personagem. Não esclarece dúvida alguma, não apresenta fato e não gera mal-entendido: a intenção da menina é perfeitamente clara.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q22",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 22,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Um comerciante, para aumentar as vendas de seu estabelecimento, fez a seguinte promoção para determinado produto:\n\nCOMPRE 4 UNIDADES E LEVE 5\n\nEssa promoção representa um desconto de x% na venda de 5 unidades. O valor de x é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "15"
+      },
+      {
+        "letter": "C",
+        "text": "20"
+      },
+      {
+        "letter": "D",
+        "text": "25"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O cliente leva 5 unidades pagando por apenas 4, de modo que 1 unidade sai de graça. O desconto é a razão entre o que se deixou de pagar e o que se pagaria sem a promoção: 1/5 = 0,20, ou seja, 20%. Um erro comum é calcular 1/4 = 25%, o que responderia a outra pergunta - de quanto se poderia aumentar a quantidade pelo mesmo preço -, mas o enunciado pede o desconto sobre a venda de 5 unidades.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q23",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Um fisioterapeuta elaborou o seguinte plano de treinos diários para o condicionamento de um maratonista que se recupera de uma contusão:\n\n• primeiro dia - corrida de 6 km;\n• dias subsequentes - acréscimo de 2 km à corrida de cada dia imediatamente anterior.\n\nO último dia de treino será aquele em que o atleta correr 42 km. O total percorrido pelo atleta nesse treinamento, do primeiro ao último dia, em quilômetros, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "414"
+      },
+      {
+        "letter": "B",
+        "text": "438"
+      },
+      {
+        "letter": "C",
+        "text": "456"
+      },
+      {
+        "letter": "D",
+        "text": "484"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As distâncias formam uma progressão aritmética de primeiro termo 6 e razão 2. Para descobrir quantos dias durou o treino, usa-se o termo geral: 42 = 6 + (n - 1) · 2, de onde 36 = 2(n - 1) e n = 19 dias. A soma dos termos de uma PA é Sn = n(a1 + an)/2 = 19 · (6 + 42)/2 = 19 · 24 = 456 km.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q24",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 24,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos contêm diferentes concentrações de três nutrientes: A, B e C.\n\nConcentração dos suplementos alimentares (g/kg):\n\n| Nutriente | I | II | III |\n|---|---|---|---|\n| A | 0,2 | 0,5 | 0,4 |\n| B | 0,3 | 0,4 | 0,1 |\n| C | 0,1 | 0,4 | 0,5 |\n\nQuantidade de cada suplemento na mistura: I - 45%; II - 25%; III - 30%.\n\nA quantidade do nutriente C, em g/kg, encontrada na mistura alimentícia é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,235"
+      },
+      {
+        "letter": "B",
+        "text": "0,265"
+      },
+      {
+        "letter": "C",
+        "text": "0,275"
+      },
+      {
+        "letter": "D",
+        "text": "0,295"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A concentração do nutriente C na mistura é a média ponderada de suas concentrações em cada suplemento, com pesos iguais às porcentagens de cada um: 0,45 × 0,1 + 0,25 × 0,4 + 0,30 × 0,5 = 0,045 + 0,100 + 0,150 = 0,295 g/kg. Note que os pesos somam 100%, como exige a ponderação, e que apenas a linha do nutriente C é utilizada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q25",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um cilindro circular reto possui diâmetro AB de 4 cm e altura AA' de 10 cm. O plano α, perpendicular à seção meridiana ABB'A', passa pelos pontos B (da base inferior) e A' (da base superior) e divide o cilindro em duas partes.\n\nO volume da parte do cilindro compreendida entre o plano α e a base inferior, em cm³, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8π"
+      },
+      {
+        "letter": "B",
+        "text": "12π"
+      },
+      {
+        "letter": "C",
+        "text": "16π"
+      },
+      {
+        "letter": "D",
+        "text": "20π"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O volume total do cilindro é V = πr²h, com r = 2 cm e h = 10 cm, ou seja, V = π · 4 · 10 = 40π cm³. O plano α contém o eixo do cilindro no seu ponto médio: como passa por B, na base inferior, e por A', na base superior - pontos diametralmente opostos na projeção -, ele corta o eixo exatamente na metade da altura. Há então simetria central em relação a esse ponto: tudo o que uma das partes ganha acima do plano, a outra ganha abaixo. As duas metades são congruentes, e cada uma vale 40π/2 = 20π cm³.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q26",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 26,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma calculadora tem duas teclas especiais, A e B. Quando a tecla A é digitada, o número que está no visor é substituído pelo logaritmo decimal desse número. Quando a tecla B é digitada, o número do visor é multiplicado por 5.\n\nConsidere que uma pessoa digitou as teclas BAB, nesta ordem, e obteve no visor o número 10. Nesse caso, o visor da calculadora mostrava inicialmente o seguinte número:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20"
+      },
+      {
+        "letter": "B",
+        "text": "30"
+      },
+      {
+        "letter": "C",
+        "text": "40"
+      },
+      {
+        "letter": "D",
+        "text": "50"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Convém desfazer as operações a partir do resultado. A última tecla foi B, que multiplica por 5; antes dela o visor mostrava 10/5 = 2. A anterior foi A, que aplica o logaritmo decimal: se log x = 2, então x = 10² = 100. A primeira foi B, de modo que o número inicial era 100/5 = 20. Conferindo no sentido direto: 20 → 100 (B) → log 100 = 2 (A) → 10 (B).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q29",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Considere o conjunto de números naturais A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} e os procedimentos subsequentes:\n\n1 - Cada número primo de A foi multiplicado por 3. Sabe-se que um número natural P é primo se P > 1 e tem apenas dois divisores naturais distintos.\n2 - A cada um dos demais elementos de A, foi somado o número 1.\n3 - Cada um dos números distintos obtidos foi escrito em apenas um pequeno cartão.\n4 - Dentre todos os cartões, foram sorteados exatamente dois cartões com números distintos ao acaso.\n\nA probabilidade de em pelo menos um cartão sorteado estar escrito um número par é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5/12"
+      },
+      {
+        "letter": "B",
+        "text": "7/12"
+      },
+      {
+        "letter": "C",
+        "text": "13/24"
+      },
+      {
+        "letter": "D",
+        "text": "17/24"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os primos de A são 2, 3, 5 e 7; multiplicados por 3, resultam em 6, 9, 15 e 21. Os demais elementos - 0, 1, 4, 6, 8 e 9 - somados a 1 resultam em 1, 2, 5, 7, 9 e 10. Reunindo os valores distintos, obtêm-se 9 cartões: 1, 2, 5, 6, 7, 9, 10, 15 e 21 (o 9 aparece nos dois procedimentos, mas conta uma só vez). Desses, apenas 2, 6 e 10 são pares, restando 6 ímpares. É mais simples calcular o complementar: a probabilidade de nenhum par é (6/9) · (5/8) = 30/72 = 5/12. Logo, a probabilidade de pelo menos um par é 1 - 5/12 = 7/12.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q30",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 30,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nO rompimento da barragem de contenção de uma mineradora em Mariana (MG) acarretou o derramamento de lama contendo resíduos poluentes no rio Doce. Esses resíduos foram gerados na obtenção de um minério composto pelo metal de menor raio atômico do grupo 8 da tabela de classificação periódica. A lama levou 16 dias para atingir o mar, situado a 600 km do local do acidente, deixando um rastro de destruição nesse percurso. Caso alcance o arquipélago de Abrolhos, os recifes de coral dessa região ficarão ameaçados.\n\nO metal que apresenta as características químicas descritas no texto é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ferro"
+      },
+      {
+        "letter": "B",
+        "text": "zinco"
+      },
+      {
+        "letter": "C",
+        "text": "sódio"
+      },
+      {
+        "letter": "D",
+        "text": "níquel"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O grupo 8 da tabela periódica é formado por ferro, rutênio, ósmio e hássio. Dentro de um mesmo grupo, o raio atômico cresce de cima para baixo, à medida que se acrescentam camadas eletrônicas; logo, o menor raio é o do elemento situado no topo, o ferro. A resposta é confirmada pelo contexto: Mariana localiza-se no Quadrilátero Ferrífero, e o rejeito derramado provinha da extração de minério de ferro. Zinco e níquel pertencem a outros grupos, e o sódio é um metal alcalino do grupo 1.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q31",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 31,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nO rompimento da barragem de contenção de uma mineradora em Mariana (MG) acarretou o derramamento de lama contendo resíduos poluentes no rio Doce. Esses resíduos foram gerados na obtenção de um minério composto pelo metal de menor raio atômico do grupo 8 da tabela de classificação periódica. A lama levou 16 dias para atingir o mar, situado a 600 km do local do acidente, deixando um rastro de destruição nesse percurso. Caso alcance o arquipélago de Abrolhos, os recifes de coral dessa região ficarão ameaçados.\n\nA água do mar em Abrolhos se tornaria turva, se a lama atingisse o arquipélago. A turbidez da água interfere diretamente no seguinte processo biológico realizado nos recifes de coral:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fotossíntese"
+      },
+      {
+        "letter": "B",
+        "text": "eutrofização"
+      },
+      {
+        "letter": "C",
+        "text": "bioacumulação"
+      },
+      {
+        "letter": "D",
+        "text": "tamponamento"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os corais formadores de recifes vivem em simbiose com algas microscópicas, as zooxantelas, que habitam seus tecidos e realizam fotossíntese, fornecendo boa parte do alimento do animal. Essa relação exige luz, e por isso os recifes só se desenvolvem em águas rasas e transparentes. A lama em suspensão bloquearia a passagem da luz, inviabilizando a fotossíntese das zooxantelas e comprometendo todo o recife. A eutrofização é um processo do ambiente, não do organismo; a bioacumulação diz respeito ao acúmulo de substâncias tóxicas ao longo da cadeia alimentar; e o tamponamento é um mecanismo químico de controle de pH.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q32",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 32,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nO rompimento da barragem de contenção de uma mineradora em Mariana (MG) acarretou o derramamento de lama contendo resíduos poluentes no rio Doce. Esses resíduos foram gerados na obtenção de um minério composto pelo metal de menor raio atômico do grupo 8 da tabela de classificação periódica. A lama levou 16 dias para atingir o mar, situado a 600 km do local do acidente, deixando um rastro de destruição nesse percurso. Caso alcance o arquipélago de Abrolhos, os recifes de coral dessa região ficarão ameaçados.\n\nCom base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em km/h, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,6"
+      },
+      {
+        "letter": "B",
+        "text": "2,1"
+      },
+      {
+        "letter": "C",
+        "text": "3,8"
+      },
+      {
+        "letter": "D",
+        "text": "4,6"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A velocidade média é a razão entre a distância percorrida e o tempo gasto. Como o resultado é pedido em km/h, converte-se o tempo: 16 dias × 24 h = 384 h. Assim, v = 600/384 = 1,5625 km/h, valor que se aproxima de 1,6 km/h.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q34",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 34,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Analise o gráfico que indica a variação da capacidade térmica de um material (C), em cal/°C, em função da temperatura (θ), em °C. A capacidade térmica cresce linearmente com a temperatura, partindo de 20 cal/°C a 0 °C e chegando a 40 cal/°C a 50 °C.\n\nA quantidade de calor absorvida pelo material até a temperatura de 50 ºC, em calorias, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "500"
+      },
+      {
+        "letter": "B",
+        "text": "1500"
+      },
+      {
+        "letter": "C",
+        "text": "2000"
+      },
+      {
+        "letter": "D",
+        "text": "2200"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Quando a capacidade térmica varia com a temperatura, a quantidade de calor não pode ser obtida por Q = C · Δθ com um único valor de C: ela corresponde à área sob a curva do gráfico de C em função de θ. Como a variação é linear, essa área é a de um trapézio de bases 20 e 40 cal/°C e altura 50 °C: Q = (20 + 40)/2 × 50 = 30 × 50 = 1500 cal. O resultado equivale a usar a capacidade térmica média, 30 cal/°C, ao longo de todo o intervalo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q35",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 35,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nA aplicação de campo elétrico entre dois eletrodos é um recurso eficaz para separação de compostos iônicos. Sob o efeito do campo elétrico, os íons são atraídos para os eletrodos de carga oposta.\n\nConsidere o processo de dissolução de sulfato ferroso em água, no qual ocorre a dissociação desse sal. Após esse processo, ao se aplicar um campo elétrico, o seguinte íon salino irá migrar no sentido do polo positivo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fe³⁺"
+      },
+      {
+        "letter": "B",
+        "text": "Fe²⁺"
+      },
+      {
+        "letter": "C",
+        "text": "SO₄²⁻"
+      },
+      {
+        "letter": "D",
+        "text": "SO₃²⁻"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O polo positivo atrai íons de carga negativa, ou seja, ânions. Resta identificar o ânion correto: o sulfato ferroso é FeSO4 - o sufixo \"-oso\" indica o ferro em seu menor número de oxidação, +2 -, e sua dissociação produz Fe²⁺ e SO₄²⁻. O ânion presente é, portanto, o sulfato, SO₄²⁻. As alternativas (A) e (B) são cátions e migrariam para o polo negativo, e a alternativa (D) corresponde ao íon sulfito, que não se forma na dissociação desse sal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q36",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nA aplicação de campo elétrico entre dois eletrodos é um recurso eficaz para separação de compostos iônicos. Sob o efeito do campo elétrico, os íons são atraídos para os eletrodos de carga oposta.\n\nAdmita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em V/m, equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "40"
+      },
+      {
+        "letter": "B",
+        "text": "30"
+      },
+      {
+        "letter": "C",
+        "text": "20"
+      },
+      {
+        "letter": "D",
+        "text": "10"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em um campo elétrico uniforme, a intensidade é dada por E = U/d. Como a resposta é pedida em V/m, é preciso converter a distância: 20 cm = 0,20 m. Assim, E = 6/0,20 = 30 V/m. Manter a distância em centímetros levaria a 0,3, resultado fora das alternativas - a conversão de unidades é o passo decisivo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q37",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 37,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\n\n| Contaminante | Concentração (mg/L) |\n|---|---|\n| benzeno | 0,39 |\n| metanal | 0,40 |\n\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra. Assim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em mg/L, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,16"
+      },
+      {
+        "letter": "B",
+        "text": "0,36"
+      },
+      {
+        "letter": "C",
+        "text": "0,52"
+      },
+      {
+        "letter": "D",
+        "text": "0,72"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "É preciso calcular quanto da massa de cada contaminante corresponde a carbono. O benzeno é C6H6, com massa molar 6 × 12 + 6 × 1 = 78 g/mol, dos quais 72 g/mol são carbono - fração de 72/78. Assim, 0,39 × 72/78 = 0,36 mg/L. O metanal é CH2O, com massa molar 12 + 2 + 16 = 30 g/mol, dos quais 12 g/mol são carbono - fração de 12/30 = 0,4. Assim, 0,40 × 0,4 = 0,16 mg/L. O carbono orgânico total é a soma: 0,36 + 0,16 = 0,52 mg/L.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q42",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 42,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "Os primeiros artrópodes eram animais marinhos. Ao longo do processo evolutivo, alguns membros desse grupo sofreram transformações que possibilitaram a eles a conquista do meio terrestre.\n\nUma transformação que contribuiu para a permanência destes artrópodes nesse ambiente seco foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "circulação aberta"
+      },
+      {
+        "letter": "B",
+        "text": "respiração traqueal"
+      },
+      {
+        "letter": "C",
+        "text": "fecundação externa"
+      },
+      {
+        "letter": "D",
+        "text": "digestão extracorpórea"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O grande obstáculo à vida em terra é a desidratação, e a respiração é uma das principais vias de perda de água. As traqueias resolvem o problema: são tubos internos que levam o ar diretamente às células e se abrem para o exterior por espiráculos, poros que podem ser fechados, reduzindo a evaporação. Além disso, dispensam a superfície úmida exigida pelas brânquias. A circulação aberta já existia nos artrópodes aquáticos e não é adaptação à terra; a fecundação externa exige água e por isso foi substituída pela interna nos grupos terrestres; e a digestão extracorpórea não se relaciona com a economia de água.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q44",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 44,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "As células musculares presentes nas asas das aves migratórias possuem maior concentração de determinada organela, se comparadas às células musculares do restante do corpo. Esse fato favorece a utilização intensa de tais membros por esses animais.\n\nEssa organela é denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "núcleo"
+      },
+      {
+        "letter": "B",
+        "text": "centríolo"
+      },
+      {
+        "letter": "C",
+        "text": "lisossoma"
+      },
+      {
+        "letter": "D",
+        "text": "mitocôndria"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O voo migratório exige contração muscular contínua por longos períodos, o que consome grandes quantidades de ATP. A mitocôndria é a organela responsável pela respiração celular e, portanto, pela produção da maior parte do ATP da célula. Sua concentração elevada nos músculos das asas garante o suprimento energético necessário ao esforço prolongado - é a mesma razão pela qual essa musculatura é escura, rica em mioglobina e mitocôndrias. O núcleo abriga o material genético, o centríolo participa da divisão celular e o lisossomo realiza a digestão intracelular; nenhum deles produz energia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q45",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 45,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Um livreto de 1823 e um filme de 2015 contam a história de Hugh Glass, caçador e guia que se tornou referência no contexto da conquista do Oeste norte-americano, no século XIX, tendo enfrentado diversos perigos, incluindo o ataque de um urso.\n\nA narrativa dos feitos de Hugh Glass insere-se em uma concepção nacionalista que promove a valorização do seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ideal civilizatório"
+      },
+      {
+        "letter": "B",
+        "text": "progresso material"
+      },
+      {
+        "letter": "C",
+        "text": "miscigenação étnica"
+      },
+      {
+        "letter": "D",
+        "text": "ação preservacionista"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A conquista do Oeste foi narrada nos Estados Unidos como missão civilizadora - o \"Destino Manifesto\" -, segundo a qual caberia à nação levar a civilização a um território tido como selvagem. Hugh Glass é o herói exemplar dessa narrativa: o homem branco que enfrenta sozinho a natureza hostil, sobrevive ao ataque do urso e assim demonstra a superioridade moral e física que legitimaria a ocupação. O que se valoriza é o ideal civilizatório, e não o progresso material, ausente da história. As alternativas (C) e (D) contrariam frontalmente essa concepção, que se construiu à custa dos povos indígenas e do próprio ambiente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q46",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 46,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "HÁ DINAMITE DE PAVIO ACESO NO ORÇAMENTO\n\nO ponto central, que já deveria ser tema de um amplo debate no Congresso, no Executivo e fora deles, é que a crise fiscal implodiu os alicerces da Constituição de 1988. A ideia de um Estado que seria capaz de eliminar a miséria, reduzir a pobreza e ainda fornecer serviços básicos como saúde e educação com eficiência faliu. Aceite-se ou não.\nO Globo, 13/12/2015.\n\nDe acordo com a reportagem, o modelo político de Estado que estaria inviabilizado no atual contexto brasileiro é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "bem-estar social"
+      },
+      {
+        "letter": "B",
+        "text": "liberal-federativo"
+      },
+      {
+        "letter": "C",
+        "text": "democrático-nacionalista"
+      },
+      {
+        "letter": "D",
+        "text": "unitário-desenvolvimentista"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A reportagem descreve o Estado que a Constituição de 1988 pretendia constituir: aquele \"capaz de eliminar a miséria, reduzir a pobreza e ainda fornecer serviços básicos como saúde e educação\". Um Estado que assume a responsabilidade de garantir direitos sociais e serviços públicos universais é, por definição, o Estado de bem-estar social - o modelo do welfare state europeu do pós-guerra, que inspirou a Constituição brasileira. O modelo liberal caracteriza-se justamente pela redução dessa atuação social; e as alternativas (C) e (D) descrevem outros eixos - a organização política e o papel desenvolvimentista - que não são o objeto da crítica no texto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q47",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 47,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A ROTA ATÉ OS JIHADISTAS: COMPONENTES PRODUZIDOS POR 51 EMPRESAS CAEM EM PODER DO ESTADO ISLÂMICO\n\nMais de 50 empresas de 20 países, entre elas uma brasileira, foram identificadas na cadeia de suprimentos dos dispositivos explosivos improvisados usados pelo Estado Islâmico em centenas de atentados terroristas. Além de mercadorias controladas, itens tão simples quanto ligas de alumínio, celulares ou fertilizantes, que podem parecer inofensivos à primeira vista, estariam na lista dos mais de 700 componentes encontrados em um levantamento realizado ao longo de 20 meses pelo Instituto de Pesquisa de Conflito Armado.\n\nA reportagem é acompanhada de um mapa que indica a origem dos componentes - Japão, E.U.A., Rússia, China, Brasil, Holanda, Irã, Índia e Vietnã - e seus destinos, Síria e Iraque.\n\nVIVIAN OSWALD. Adaptado de O Globo, 26/02/2016.\n\nA estratégia de ação do Estado Islâmico mencionada na reportagem apresenta semelhança com a seguinte prática das corporações empresariais contemporâneas:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "padronização das tecnologias"
+      },
+      {
+        "letter": "B",
+        "text": "incorporação dos fornecedores"
+      },
+      {
+        "letter": "C",
+        "text": "desterritorialização da produção"
+      },
+      {
+        "letter": "D",
+        "text": "superexploração da mão de obra"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O grupo não fabrica seus explosivos num único lugar: reúne mais de 700 componentes produzidos por 51 empresas espalhadas por 20 países, em continentes distintos, e faz a montagem final na Síria e no Iraque. É exatamente o funcionamento das cadeias produtivas globais, em que cada etapa é realizada onde for mais conveniente e o produto só se completa no destino - a desterritorialização da produção. A alternativa (B) descreve o movimento oposto, de concentração da cadeia sob uma única empresa; e nem a padronização tecnológica nem as condições de trabalho são tratadas na reportagem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q48",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Considere um mapa do trajeto da tocha olímpica no Brasil em 2016, na escala 1:50.000.000, que registra os percursos por via aérea e por terra entre as capitais brasileiras, de 03/05/2016 a 05/08/2016.\n\nNo mapa, o trajeto total da tocha olímpica em território brasileiro mede cerca de 72 cm, considerando os trechos por via aérea e por terra. A distância real, em quilômetros, percorrida pela tocha em seu trajeto completo, é de aproximadamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3600"
+      },
+      {
+        "letter": "B",
+        "text": "7000"
+      },
+      {
+        "letter": "C",
+        "text": "36 000"
+      },
+      {
+        "letter": "D",
+        "text": "70 000"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A escala 1:50.000.000 indica que cada centímetro no mapa corresponde a 50.000.000 cm na realidade. Assim, 72 cm equivalem a 72 × 50.000.000 = 3.600.000.000 cm. Convertendo para quilômetros - 1 km = 100.000 cm -, obtém-se 3.600.000.000 / 100.000 = 36.000 km. A alternativa (A) resultaria de um erro na conversão de centímetros para quilômetros, deslocando a vírgula uma casa a menos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q49",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 49,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Antecipando-nos à derrocada das forças subversivas, acionadas por dispositivos governamentais, que visavam à destruição do primado da democracia e à implantação de um regime totalitário, tivemos a lucidez e o patriotismo de alertar os poderes constituídos da República para a defesa da ordem jurídica e da Constituição, tão seriamente ameaçadas. Podemos hoje, erradicado o mal das conjuras comuno-sindicalistas, proclamar que a sobrevivência da Nação Brasileira se processou sob a égide intocável do Estado de Direito.\n\nAdaptado de Ata da Reunião Ordinária do Conselho Federal da Ordem dos Advogados do Brasil - OAB, 07/04/1964.\n\nO apoio da Ordem dos Advogados do Brasil à deposição do presidente João Goulart (1961-1964), como indicado no texto, insere-se no contexto de intensas polarizações de opiniões entre partidos e associações. Essas polarizações expressavam posicionamentos distintos acerca da seguinte proposta do governo João Goulart:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "implementação das reformas de base"
+      },
+      {
+        "letter": "B",
+        "text": "política de desvalorização monetária"
+      },
+      {
+        "letter": "C",
+        "text": "cerceamento da liberdade de imprensa"
+      },
+      {
+        "letter": "D",
+        "text": "controle orçamentário dos poderes estaduais"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As reformas de base - agrária, urbana, bancária, fiscal, universitária - foram o programa que dividiu o país no início dos anos 1960. Defendidas por sindicatos, estudantes e setores da esquerda, e combatidas por proprietários rurais, empresários, parte da Igreja e da classe média, foram lançadas por Jango no comício da Central do Brasil em 13 de março de 1964, poucas semanas antes do golpe. É a elas que a ata se refere ao denunciar as \"conjuras comuno-sindicalistas\" e os \"dispositivos governamentais\" acusados de conduzir ao totalitarismo. As demais alternativas não correspondem às propostas em disputa naquela conjuntura.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q51",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 51,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Durante a Segunda Guerra Mundial (1939-1945), a ação do Partido Nazista na Alemanha ampliou a propaganda contra os que foram considerados os inimigos internos da nação germânica. Um cartaz produzido por essa política traz os dizeres: \"Por trás das potências inimigas: o judeu\".\n\nAdaptado de advertisingarchives.co.uk.\n\nUm aspecto da ideologia nazista observado nesse cartaz é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "antissemitismo"
+      },
+      {
+        "letter": "B",
+        "text": "anticapitalismo"
+      },
+      {
+        "letter": "C",
+        "text": "anticomunismo"
+      },
+      {
+        "letter": "D",
+        "text": "antiamericanismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A legenda do cartaz atribui aos judeus o comando oculto de todas as potências inimigas da Alemanha, reunindo-os numa conspiração mundial. Essa construção - o judeu como inimigo interno responsável pelas desgraças da nação - é o núcleo do antissemitismo nazista, que serviria de justificativa para a perseguição e o extermínio. As demais posições existiram no discurso nazista, mas subordinadas a esta: capitalismo, comunismo e Estados Unidos eram apresentados como instrumentos de uma mesma conspiração judaica, e é ela que o cartaz nomeia explicitamente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q52",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 52,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Considere duas imagens aéreas: a malha urbana da cidade de Toledo, na Espanha, com suas ruas estreitas e sinuosas de origem medieval, e a de um bairro suburbano de Los Angeles, cidade estadunidense que se expandiu principalmente após a Segunda Guerra Mundial, com vias largas e traçado regular.\n\nA diferença entre as duas malhas urbanas é explicada pela relação entre dois fatores que contribuíram para a organização desses espaços, embora em épocas bastante distintas. Esses fatores estão apontados em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concentração financeira - processo de verticalização"
+      },
+      {
+        "letter": "B",
+        "text": "atividade econômica - especialização funcional"
+      },
+      {
+        "letter": "C",
+        "text": "nível técnico - padrões de circulação"
+      },
+      {
+        "letter": "D",
+        "text": "perfil de renda - segregação social"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cada malha corresponde ao meio técnico de sua época e ao tipo de deslocamento que ele permitia. Toledo se formou quando a circulação era feita a pé ou por tração animal, dentro de muralhas: daí as ruas estreitas, curtas e sinuosas, adequadas a percursos lentos e a pequenas distâncias. O subúrbio de Los Angeles se expandiu na era do automóvel, com vias largas, quadras regulares e grandes distâncias entre os pontos, pressupondo o transporte motorizado individual. A explicação está, portanto, na relação entre o nível técnico disponível e os padrões de circulação que ele viabiliza. As demais alternativas apontam fatores econômicos e sociais que podem existir nas duas cidades, mas não explicam o desenho das vias.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q53",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 53,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Uma charge da Revista Tagarela, publicada em agosto de 1904, mostra três doenças - febre amarela, peste bubônica e varíola - realizando uma \"conferência sinistra\" na cidade do Rio de Janeiro.\n\n\"A capital da República não pode continuar a ser apontada como sede de vida difícil, quando tem fartos elementos para constituir o mais notável centro de atração de braços, de atividade e de capitais nesta parte do mundo.\"\nRODRIGUES ALVES, presidente da República, 1902-1906.\n\nAdaptado de FIDÉLIS, C.; FALLEIROS, I. (Org.). Na corda bamba de sombrinha: a saúde no fio da história. Rio de Janeiro: Fiocruz/COC; Fiocruz/EPSJV, 2010.\n\nNo início do século XX, enquanto a charge ironizava um dos graves problemas que afetava a população da cidade do Rio de Janeiro, o pronunciamento do então presidente Rodrigues Alves enfatizava a preocupação com o que poderia comprometer o desenvolvimento da capital da República. Naquele contexto, uma ação governamental para promover tal desenvolvimento e um resultado obtido foram, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reforma urbana - qualificação da mão de obra"
+      },
+      {
+        "letter": "B",
+        "text": "combate à insalubridade - incremento da imigração"
+      },
+      {
+        "letter": "C",
+        "text": "ampliação da rede hospitalar - controle da natalidade"
+      },
+      {
+        "letter": "D",
+        "text": "expansão do saneamento básico - erradicação da pobreza"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A expressão \"atração de braços\" no discurso presidencial refere-se a mão de obra imigrante, e o obstáculo a essa atração era justamente a fama de cidade insalubre, ironizada pela charge com suas três epidemias. Daí a ação: as campanhas sanitárias de Oswaldo Cruz contra febre amarela, peste bubônica e varíola, articuladas à reforma urbana de Pereira Passos. Vencido o estigma de \"sede de vida difícil\", o Rio voltou a receber imigrantes - o resultado pretendido. As demais alternativas apontam consequências que não decorreram dessas medidas: não houve qualificação da mão de obra, controle da natalidade nem erradicação da pobreza, que, ao contrário, se agravou com as demolições no centro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q54",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 54,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Os monumentos históricos promovem o destaque de acontecimentos, personagens, feitos e valores a serem reverenciados por uma sociedade. Exemplos desses monumentos são a estátua de João Cândido, líder da Revolta da Chibata no início do século XX, inaugurada em 2008 na Praça Quinze, e a do Barão de Mauá, empresário e empreendedor no século XIX, inaugurada em 1910 na Praça Mauá, ambas no Rio de Janeiro.\n\nAs estátuas desses personagens indicam, respectivamente, o enaltecimento das seguintes ideias:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revisão das hierarquias militares - progresso financeiro"
+      },
+      {
+        "letter": "B",
+        "text": "defesa dos direitos trabalhistas - dinamização comercial"
+      },
+      {
+        "letter": "C",
+        "text": "redimensionamento do preconceito racial - integração nacional"
+      },
+      {
+        "letter": "D",
+        "text": "diversidade das contribuições étnicas - modernização econômica"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "João Cândido, o \"Almirante Negro\", era filho de ex-escravizados e liderou marinheiros majoritariamente negros contra os castigos físicos herdados da escravidão. Sua estátua, erguida em 2008 - vinte anos após a Constituição de 1988 e no auge do debate sobre ações afirmativas -, reconhece a contribuição da população negra à história do país, valorizando a diversidade étnica. O Barão de Mauá foi o maior empreendedor do Segundo Reinado, responsável por ferrovias, bancos, estaleiros e pela iluminação a gás; homenageado em 1910, encarna a modernização econômica que a República desejava exibir. A alternativa (A) reduz a Revolta da Chibata a uma questão de disciplina militar, e (B) e (C) atribuem aos monumentos sentidos que não correspondem a esse par de personagens.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q55",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O governo chinês anunciou, nesta quinta-feira, que decidiu pôr fim à política do filho único. Por mais de três décadas, impediu-se que casais tivessem mais de uma criança, o que causou impacto na sociedade e na economia do país. Segundo a agência de notícias estatal Xinhua, o Partido Comunista determinou que, agora, os casais poderão ter dois filhos.\n\nAdaptado de bbc.com, 29/10/2015.\n\nA principal justificativa para a decisão do governo chinês está apontada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliar o poder de consumo do mercado"
+      },
+      {
+        "letter": "B",
+        "text": "reduzir o custo da mão de obra da indústria"
+      },
+      {
+        "letter": "C",
+        "text": "viabilizar a proposta de democratização do estado"
+      },
+      {
+        "letter": "D",
+        "text": "retardar o processo de envelhecimento da população"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Três décadas de restrição à natalidade produziram na China uma queda acentuada da taxa de fecundidade e um estreitamento da base da pirâmide etária. O resultado é o envelhecimento acelerado da população: cada vez menos jovens em idade produtiva para sustentar um contingente crescente de idosos, com pressão sobre a previdência e risco de escassez de mão de obra. Autorizar o segundo filho visa reequilibrar essa estrutura etária. As alternativas (A) e (B) tratam de efeitos econômicos indiretos e de longo prazo, e a democratização do Estado não estava em questão na decisão do Partido Comunista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q56",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\n\nADRIAN EDWARDS. Adaptado de acnur.org, outubro/2015.\n\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade. Nos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Leste Europeu"
+      },
+      {
+        "letter": "B",
+        "text": "Oriente Médio"
+      },
+      {
+        "letter": "C",
+        "text": "Extremo Oriente"
+      },
+      {
+        "letter": "D",
+        "text": "Península Balcânica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A crise migratória que atingiu a Europa a partir de 2015 teve origem sobretudo no Oriente Médio: a guerra civil na Síria, iniciada em 2011, somada aos conflitos no Iraque e no Afeganistão e à expansão do Estado Islâmico, produziu o maior deslocamento forçado de população desde a Segunda Guerra Mundial. Os refugiados atravessavam a Turquia e o Mediterrâneo rumo à Grécia e à Itália, seguindo depois para a Alemanha e a Suécia. As demais regiões não geraram fluxos comparáveis no período: os conflitos nos Bálcãs haviam se encerrado nos anos 1990, e nem o Leste Europeu nem o Extremo Oriente viviam guerras de escala semelhante.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q57",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 57,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Se há apenas cinco ou dez anos dissessem a alguém em Cuba que um presidente norte-americano visitaria a Ilha, a resposta seria um sorriso irônico; mas se fosse mencionada a possibilidade de ver os Rolling Stones tocando em Havana, a reação teria sido uma gargalhada - ou um grito, se a pessoa assim informada tivesse seus 60 ou 70 anos de vida. Porque aqueles que fomos jovens em Cuba na década de 1960 dificilmente esqueceremos as críticas políticas quando confessávamos ouvir os Beatles ou os Stones. Quem poderia ter previsto? Definitivamente, os tempos estão mudando.\n\nLEONARDO PADURA. Adaptado de Folha de S. Paulo, 12/03/2016.\n\nAs considerações do escritor sobre a sociedade cubana indicam que, na década de 1960 e no momento atual, as diferenças entre as condições de vida são contextualizadas, respectivamente, pelos seguintes aspectos das relações internacionais:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão mundial de regimes totalitários - supremacia das concepções neoliberais"
+      },
+      {
+        "letter": "B",
+        "text": "crescimento da influência global soviética - afirmação da hegemonia norte-americana"
+      },
+      {
+        "letter": "C",
+        "text": "bipolaridade entre capitalismo e socialismo - multipolaridade da ordem econômica"
+      },
+      {
+        "letter": "D",
+        "text": "política externa independente na América Latina - integração das nações subdesenvolvidas"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Nos anos 1960, ouvir os Beatles ou os Stones em Cuba rendia \"críticas políticas\" porque o rock era identificado ao inimigo capitalista: o mundo estava dividido em dois blocos, e a cultura era um dos campos dessa disputa - a bipolaridade da Guerra Fria. Hoje, a visita de um presidente norte-americano e um show dos Rolling Stones em Havana só se tornam possíveis porque aquela divisão rígida deixou de existir, dando lugar a uma ordem econômica com múltiplos centros de poder, em que os alinhamentos são mais flexíveis. As demais alternativas ou descrevem apenas um dos polos da Guerra Fria, ou supõem hegemonia norte-americana absoluta, ou não correspondem aos dois momentos comparados pelo escritor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q58",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 58,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "O século XXI tem assistido à ampliação do debate acerca das uniões homoafetivas, o que possibilitou algumas mudanças, como a observada em um quadro que registra a legalização das uniões homoafetivas em diversos países entre os anos 2000 e 2015.\n\nAdaptado de hypescience.com.\n\nEssa mudança de costumes expressa principalmente o reconhecimento do seguinte princípio entre os direitos humanos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inclusão política"
+      },
+      {
+        "letter": "B",
+        "text": "diversidade cultural"
+      },
+      {
+        "letter": "C",
+        "text": "uniformidade jurídica"
+      },
+      {
+        "letter": "D",
+        "text": "igualdade econômica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Legalizar as uniões homoafetivas significa reconhecer que existem formas legítimas de família e de afeto além do modelo heterossexual, e que todas merecem igual proteção do Estado. Trata-se de admitir a pluralidade de modos de viver dentro de uma mesma sociedade - o princípio da diversidade, no campo dos costumes e da cultura. A alternativa (C) confunde o efeito com o princípio: a lei passa a valer igualmente para todos porque a diversidade foi reconhecida, e não o contrário. A inclusão política diz respeito à participação no poder, e a igualdade econômica, à distribuição de renda - nenhuma das duas está em jogo nessa mudança.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-eq1-q59",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 59,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "O primeiro-ministro britânico David Cameron anunciou que o plebiscito que decidirá a permanência do Reino Unido na União Europeia ocorrerá no dia 23 de junho de 2016. Cameron liberou seus ministros para defenderem tanto a continuação quanto a saída dos britânicos.\n\nAdaptado de bbc.com, 20/02/2016.\n\nA consulta popular mencionada configura uma escolha difícil para os cidadãos do Reino Unido em virtude da variedade e complexidade dos argumentos favoráveis e contrários em disputa. Um argumento decisivo para que uma parcela dos britânicos aprove a saída do Reino Unido do bloco europeu remete à retomada da plena autonomia nacional no seguinte campo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sistema militar"
+      },
+      {
+        "letter": "B",
+        "text": "ação diplomática"
+      },
+      {
+        "letter": "C",
+        "text": "gestão monetária"
+      },
+      {
+        "letter": "D",
+        "text": "controle migratório"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A campanha pela saída teve como bandeira principal a retomada do controle das fronteiras. A livre circulação de pessoas é um dos pilares da União Europeia e impedia o Reino Unido de limitar a entrada de cidadãos de outros países do bloco; somada à crise dos refugiados de 2015, essa questão dominou o debate público e produziu o slogan \"take back control\". A alternativa (C) não se aplica, pois o Reino Unido nunca adotou o euro e já mantinha autonomia monetária com a libra. Defesa e diplomacia também permaneciam sob controle nacional, já que a UE não dispõe de exército próprio e o país seguia atuando pela OTAN e pelo Conselho de Segurança da ONU.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q01",
     "exam": "uerj",
     "year": 2018,
