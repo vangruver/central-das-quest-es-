@@ -21884,6 +21884,2035 @@
     }
   },
   {
+    "id": "enem-2016-esp-q91",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 91,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "La Sala II de la Cámara de Casación Penal ordenó que Marcela y Felipe Noble Herrera, los hijos adoptivos de la dueña de Clarín, se sometan “a la extracción directa, con o sin consentimiento, de mínimas muestras de sangre, saliva, piel, cabello u otras muestras biológicas” que les pertenezcan de “manera indubitable” para poder determinar si son hijos de desaparecidos. El tribunal, así, hizo lugar a un reclamo de las Abuelas de Plaza de Mayo y movió un casillero una causa judicial que ya lleva diez años de indefinición. Sin embargo, simultáneamente, fijó un límite y sólo habilitó la comparación de los perfiles genéticos de los jóvenes con el ADN de las familias de personas “detenidas o desaparecidas con certeza” hasta el 13 de mayo de 1976, en el caso de Marcela, y hasta el 7 de julio del mismo año en el de Felipe. La obtención del material genético no será inmediata, ya que algunas de las partes apelarán y el tema inevitablemente desembocará a la Corte Suprema, que tendrá la palabra final sobre la discusión de fondo. “Es una de cal y otra de arena, es querer quedar bien con Dios y con el diablo”, resumió la presidenta de Abuelas, Estela Carlotto, su primera impresión de la resolución que firmaron Guillermo Yacobucci, Luis García y Raúl Madueño. Aun así la evaluó como “un paso importante” porque determina que “sí o sí la extracción de sangre o de elementos que contengan ADN debe proceder”. “Lo que nos cayó mal”, acotó, es “la limitación” temporal que permitirá que la comparación se haga sólo con un grupo de familias. “Seguimos con la historia de que acá hay de primera y de segunda. ¿Por qué todos los demás casos siempre se han comparado con el Banco (de Datos Genéticos) completo y en éste no?”, se preguntó.\n\nHAUSER, I.\n\nDisponível em: www.pagina12.com.ar. Acesso em: 30 maio 2016.\n\nNessa notícia, publicada no jornal argentino Página 12, citam-se comentários de Estela Carlotto, presidente da associação Abuelas de Plaza de Mayo, com relação a uma decisão do tribunal argentino. No contexto da fala, a expressão “una de cal y otra de arena” é utilizada para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "referir-se ao fato de a decisão judicial não implicar a sua imediata aplicação."
+      },
+      {
+        "letter": "B",
+        "text": "destacar a inevitável execução da sentença."
+      },
+      {
+        "letter": "C",
+        "text": "ironizar a parcialidade da Justiça nessa ação."
+      },
+      {
+        "letter": "D",
+        "text": "criticar a coleta compulsória do material genético."
+      },
+      {
+        "letter": "E",
+        "text": "enfatizar a determinação judicial como algo consolidado."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "“Una de cal y otra de arena” descreve algo que vem bom de um lado e ruim de outro. Estela Carlotto emprega a expressão diante de uma decisão que ordena a coleta do material genético — o que ela pedia — mas restringe a comparação ao acervo do Banco de Dados Genéticos, e não ao banco completo. A frase ironiza, assim, a parcialidade da Justiça nessa ação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2016-q91",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 91,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Italian university switches to English By Sean Coughlan, BBC News education correspondent 16 May 2012 Last updated at 09:49 GMT Milan is crowded with Italian icons, which makes it even more of a cultural earthquake that one of Italy’s leading universities — the Politecnico di Milano — is going to switch to the English language. The university has announced that from 2014 most of its degree courses — including all its graduate courses — will be taught and assessed entirely in English rather than Italian. The waters of globalisation are rising around higher education — and the university believes that if it remains Italian-speaking it risks isolation and will be unable to compete as an international institution. “We strongly believe our classes should be international classes — and the only way to have international classes is to use the English language”, says the university’s rector, Giovanni Azzone.\n\nCOUGHLAN, S.\n\nDisponível em: www.bbc.co.uk. Acesso em: 31 jul. 2012.\n\nAs línguas têm um papel importante na comunicação entre pessoas de diferentes culturas. Diante do movimento de internacionalização no ensino superior, a universidade Politecnico di Milano decidiu",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elaborar exames em língua inglesa para o ingresso na universidade."
+      },
+      {
+        "letter": "B",
+        "text": "ampliar a oferta de vagas na graduação para alunos estrangeiros."
+      },
+      {
+        "letter": "C",
+        "text": "investir na divulgação da universidade no mercado internacional."
+      },
+      {
+        "letter": "D",
+        "text": "substituir a língua nacional para se inserir no contexto da globalização."
+      },
+      {
+        "letter": "E",
+        "text": "estabelecer metas para melhorar a qualidade do ensino de italiano."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O título já resume a decisão: “Italian university switches to English”. O reitor Giovanni Azzone explica que as aulas devem ser internacionais e que “the only way to have international classes is to use the English language”. O Politecnico di Milano optou, portanto, por trocar a língua nacional pelo inglês em seus cursos — não por criar exames (A) nem por ampliar vagas (B).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2016-esp-q92",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 92,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Preámbulo a las instrucciones para dar cuerda al reloj Piensa en esto: cuando te regalan un reloj te regalan un pequeño infierno florido, una cadena de rosas, un calabozo de aire. No te dan solamente el reloj, que los cumplas muy felices y esperamos que te dure porque es de buena marca, suizo con áncora de rubíes; no te regalan solamente ese menudo picapedrero que te atarás a la muñeca y pasearás contigo. Te regalan — no lo saben, lo terrible es que no lo saben —, te regalan un nuevo pedazo frágil y precario de ti mismo, algo que es tuyo pero no es tu cuerpo, que hay que atar a tu cuerpo con su correa como un bracito desesperado colgándose de tu muñeca. Te regalan la necesidad de darle cuerda todos los días, la obligación de darle cuerda para que siga siendo un reloj; te regalan la obsesión de atender a la hora exacta en las vitrinas de las joyerías, en el anuncio por la radio, en el servicio telefónico. Te regalan el miedo de perderlo, de que te lo roben, de que se te caiga al suelo y se rompa. Te regalan su marca, y la seguridad de que es una marca mejor que las otras, te regalan la tendencia de comparar tu reloj con los demás relojes. No te regalan un reloj, tú eres el regalado, a ti te ofrecen para el cumpleaños del reloj.\n\nCORTÁZAR, J. Historias de cronopios y de famas. Buenos Aires: Sudamericana, 1963 (fragmento). Nesse texto, Júlio Cortázar transforma pequenas ações cotidianas em criação literária,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "denunciando a má qualidade dos relógios modernos em relação aos antigos."
+      },
+      {
+        "letter": "B",
+        "text": "apresentando possibilidades de sermos presenteados com um relógio."
+      },
+      {
+        "letter": "C",
+        "text": "convidando o leitor a refletir sobre a coisificação do ser humano."
+      },
+      {
+        "letter": "D",
+        "text": "desafiando o leitor a pensar sobre a efemeridade do tempo."
+      },
+      {
+        "letter": "E",
+        "text": "criticando o leitor por ignorar os malefícios do relógio."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cortázar inverte a relação entre pessoa e objeto: quem ganha o relógio ganha “un pequeño infierno florido”, a obrigação de lhe dar corda, o medo de quebrá-lo, a marca, a comparação com os outros relógios. E conclui: “No te regalan un reloj, tú eres el regalado”. O texto convida o leitor a refletir sobre a coisificação do ser humano pelo objeto que julga possuir.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2016-q92",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 92,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Ebony and ivory Ebony and ivory live together in perfect harmony Side by side on my piano keyboard, oh Lord, why don’t we? We all know that people are the same wherever we go There is good and bad in ev’ryone, We learn to live, we learn to give Each other what we need to survive together alive McCARTNEY, P.\n\nDisponível em: www.paulmccartney.com. Acesso em: 30 maio 2016.\n\nEm diferentes épocas e lugares, compositores têm utilizado seu espaço de produção musical para expressar e problematizar perspectivas de mundo. Paul McCartney, na letra dessa canção, defende",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o aprendizado compartilhado."
+      },
+      {
+        "letter": "B",
+        "text": "a necessidade de donativos."
+      },
+      {
+        "letter": "C",
+        "text": "as manifestações culturais."
+      },
+      {
+        "letter": "D",
+        "text": "o bem em relação ao mal."
+      },
+      {
+        "letter": "E",
+        "text": "o respeito étnico."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As teclas de ébano e marfim convivem “in perfect harmony” no piano, e o eu lírico pergunta por que não fazemos o mesmo. As duas cores remetem às peles negra e branca, e o verso “people are the same wherever we go” explicita a tese. A canção defende, portanto, o respeito étnico — a convivência entre diferentes vista como natural.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2016-esp-q93",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 93,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Inestabilidad estable Los que llevan toda la vida esforzándose por conseguir un pensamiento estable, con suficiente solidez como para evitar que la incertidumbre se apodere de sus habilidades, todas esas lecciones sobre cómo asegurarse el porvenir, aquellos que nos aconsejaban que nos dejáramos de bagatelas poéticas y encontráramos un trabajo fijo y etcétera, abuelos, padres, maestros, suegros, bancos y seguradoras, nos estaban dando gato por liebre. Y el mundo, este mundo que nos han creado, que al tocarlo en la pantalla creemos estar transformando a medida de nuestro deseo, nos está modelando según un coeficiente de rentabilidad, nos está licuando para integrarnos a su metabolismo reflejo.\n\nFERNÁNDEZ ROJANO, G.\n\nDisponível em: http://diariojaen.es. Acesso em: 23 maio 2012.\n\nO título do texto antecipa a opinião do autor pelo uso de dois termos contraditórios que expressam o sentido de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "competitividade e busca do lucro, que caracterizam a sociedade contemporânea."
+      },
+      {
+        "letter": "B",
+        "text": "busca de estabilidade financeira e emocional, que marca o mundo atual."
+      },
+      {
+        "letter": "C",
+        "text": "negação dos valores defendidos pelas gerações anteriores em relação ao trabalho."
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de realização pessoal e profissional no sistema vigente."
+      },
+      {
+        "letter": "E",
+        "text": "permanência da inconstância em uma sociedade marcada por contínuas mudanças."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "“Inestabilidad estable” junta dois termos que se excluem, e é essa contradição que anuncia a tese: quem busca um pensamento estável não encontra apoio porque a instabilidade se tornou o estado permanente. O mundo descrito muda continuamente e nos vai “modelando”, de modo que o único traço constante é a própria inconstância.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2016-q93",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 93,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Frankentissue: printable cell technology In November, researchers from the University of Wollongong in Australia announced a new bio-ink that is a step toward really printing living human tissue on an inkjet printer. It is like printing tissue dot-by-dot. A drop of bio- ink contains 10,000 to 30,000 cells. The focus of much of this research is the eventual production of tailored tissues suitable for surgery, like living Band-Aids, which could be printed on the inkjet. However, it is still nearly impossible to effectively replicate nature’s ingenious patterns on a home office accessory. Consider that the liver is a series of globules, the kidney a set of pyramids. Those kinds of structures demand 3D printers that can build them up, layer by layer. At the moment, skin and other flat tissues are most promising for the inkjet.\n\nDisponível em: http://discovermagazine.com. Acesso em: 2 dez. 2012.\n\nO texto relata perspectivas no campo da tecnologia para cirurgias em geral, e a mais promissora para este momento enfoca o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uso de um produto natural com milhares de células para reparar tecidos humanos."
+      },
+      {
+        "letter": "B",
+        "text": "criação de uma impressora especial para traçar mapas cirúrgicos detalhados."
+      },
+      {
+        "letter": "C",
+        "text": "desenvolvimento de uma tinta para produzir pele e tecidos humanos finos."
+      },
+      {
+        "letter": "D",
+        "text": "reprodução de células em 3D para ajudar nas cirurgias de recuperação dos rins."
+      },
+      {
+        "letter": "E",
+        "text": "extração de glóbulos do fígado para serem reproduzidos em laboratório."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto apresenta uma bio-ink capaz de imprimir tecido humano vivo, mas pondera que órgãos como fígado e rim exigem estruturas tridimensionais complexas. E conclui: “skin and other flat tissues are most promising for the inkjet”. A perspectiva mais próxima é, assim, o desenvolvimento de uma tinta para produzir pele e tecidos finos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2016-esp-q95",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 95,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Agua al soñar que un cántaro en la cabeza acarreas, será éxito y triunfo lo que tú veas. Bañarse en un río donde el agua escalda, es augurio de enemigos y de cuchillo en la espalda. Bañarse en un río de agua puerca, es perder a alguien cerca.\n\nORTIZ, A.; FLORES FARFÁN, J. A. Sueños mexicanos. México: Artes de México, 2012. O poema retoma elementos da cultura popular mexicana que refletem um dos aspectos que a constitui, caracterizado pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "percepção dos perigos de banhar-se em rios de águas poluídas."
+      },
+      {
+        "letter": "B",
+        "text": "crença na relevância dos sonhos como premonições ou conselhos."
+      },
+      {
+        "letter": "C",
+        "text": "necessidade de resgate da tradição de carregar água em cântaros."
+      },
+      {
+        "letter": "D",
+        "text": "exaltação da importância da preservação da água."
+      },
+      {
+        "letter": "E",
+        "text": "cautela no trato com inimigos e pessoas traiçoeiras."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada estrofe associa uma cena onírica a um destino: sonhar com o cântaro na cabeça é “éxito y triunfo”, banhar-se em água escaldante anuncia inimigos, banhar-se em água suja significa perder alguém próximo. O poema reproduz, assim, a leitura popular mexicana dos sonhos como sinais que anunciam ou aconselham — traço da cultura que ele retoma.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2016-q95",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 95,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa",
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "BOGOF is used as a noun as in ‘There are some great bogofs on at the supermarket’ or an adjective, usually with a word such as ‘offer’ or ‘deal’ — ‘there are some great bogof offers in store’. When you combine the first letters of the words in a phrase or the name of an organisation, you have an acronym. Acronyms are spoken as a word so NATO (North Atlantic Treaty Organisation) is not pronounced N-A-T-O. We say NATO. Bogof, when said out loud, is quite comical for a native speaker, as it sounds like an insult, ‘Bog off!’ meaning go away, leave me alone, slightly childish and a little old-fashioned. BOGOF is the best-known of the supermarket marketing strategies. The concept was first imported from the USA during the 1970s recession, when food prices were very high. It came back into fashion in the late 1990s, led by big supermarket chains trying to gain a competitive advantage over each other. Consumers were attracted by the idea that they could get something for nothing. Who could possibly say ‘no’?\n\nDisponível em: www.bbc.co.uk. Acesso em: 2 ago. 2012 (adaptado).\n\nConsiderando-se as informações do texto, a expressão “bogof” é usada para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anunciar mercadorias em promoção."
+      },
+      {
+        "letter": "B",
+        "text": "pedir para uma pessoa se retirar."
+      },
+      {
+        "letter": "C",
+        "text": "comprar produtos fora de moda."
+      },
+      {
+        "letter": "D",
+        "text": "indicar recessão na economia."
+      },
+      {
+        "letter": "E",
+        "text": "chamar alguém em voz alta."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "BOGOF é a sigla de “buy one, get one free”, e o texto a mostra usada como substantivo — “there are some great bogofs on at the supermarket” — e como adjetivo, em “bogof offers”. Trata-se, portanto, do vocabulário de promoções de supermercado: a expressão serve para anunciar mercadorias em oferta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2016-q96",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 96,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista.\n\nLAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993. Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ressaltar a importância da intertextualidade."
+      },
+      {
+        "letter": "B",
+        "text": "propor leituras diferentes das previsíveis."
+      },
+      {
+        "letter": "C",
+        "text": "apresentar o ponto de vista da autora."
+      },
+      {
+        "letter": "D",
+        "text": "discorrer sobre o ato de leitura."
+      },
+      {
+        "letter": "E",
+        "text": "focar a participação do leitor."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Metalinguagem é a linguagem que toma a si mesma por objeto. O texto de Marisa Lajolo faz exatamente isso: usa a escrita para explicar o que é ler — “Ler não é decifrar […] É, a partir do texto, ser capaz de atribuir-lhe significado”. Ao discorrer sobre o próprio ato de leitura, e não sobre um assunto exterior a ele, o texto evidencia a função metalinguística.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q97",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 97,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "A ÁGUA INVISÍVEL\n\nAssim como a água corresponde a até 70% do nosso peso, ela também compõe muito daquilo que comemos, vestimos e usamos, ainda que de forma invisível. A campanha lembra que são necessários cerca de 1 600 litros de água para produzir 1 kg de pão e 75 litros para um copo de cerveja, e que a produção de um quilo de carne consome água desde a irrigação da pastagem até a limpeza dos dejetos. O Brasil é um grande exportador de água na forma de soja e cereais.\n\nECONOMIZAR BENS DE CONSUMO E EVITAR O DESPERDÍCIO TAMBÉM É POUPAR ÁGUA.\n\nNational Geographic Brasil, n. 151, out. 2012 (adaptado).\n\nNessa campanha publicitária, para estimular a economia de água, o leitor é incitado a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adotar práticas de consumo consciente."
+      },
+      {
+        "letter": "B",
+        "text": "alterar hábitos de higienização pessoal e residencial."
+      },
+      {
+        "letter": "C",
+        "text": "contrapor-se a formas indiretas de exportação de água."
+      },
+      {
+        "letter": "D",
+        "text": "optar por vestuário produzido com matéria-prima reciclável."
+      },
+      {
+        "letter": "E",
+        "text": "conscientizar produtores rurais sobre os custos de produção. 1 kg 1.600 de pão = litros 1 ovo = 3.340 litros l1 en10.600 çol litros de algodão ="
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A campanha mostra a água “invisível” embutida em tudo o que se come, veste e usa — os litros necessários para produzir um pão, uma cerveja, uma camiseta. Ao revelar esse consumo indireto e fechar com “economizar bens de consumo e evitar o desperdício também é poupar água”, ela desloca o foco do banho e da torneira para as escolhas de compra: o leitor é incitado a consumir de forma consciente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q98",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 98,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Até que ponto replicar conteúdo é crime? “A internet e a pirataria são inseparáveis”, diz o diretor do instituto de pesquisas americano Social Science Research Council. “Há uma infraestrutura pequena para controlar quem é o dono dos arquivos que circulam na rede. Isso acabou com o controle sobre a propriedade e tem sido descrito como pirataria, mas é inerente à tecnologia”, afirma o diretor. O ato de distribuir cópias de um trabalho sem a autorização dos seus produtores pode, sim, ser considerado crime, mas nem sempre essa distribuição gratuita lesa os donos dos direitos autorais. Pelo contrário. Veja o caso do livro O alquimista, do escritor Paulo Coelho. Após publicar, para download gratuito, uma versão traduzida da obra em seu blog, Coelho viu as vendas do livro em papel explodirem.\n\nBARRETO, J.; MORAES, M. A internet existe sem pirataria? Veja, n. 2 308, 13 fev. 2013 (adaptado).\n\nDe acordo com o texto, o impacto causado pela internet propicia a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "banalização da pirataria na rede."
+      },
+      {
+        "letter": "B",
+        "text": "adoção de medidas favoráveis aos editores."
+      },
+      {
+        "letter": "C",
+        "text": "implementação de leis contra crimes eletrônicos."
+      },
+      {
+        "letter": "D",
+        "text": "reavaliação do conceito de propriedade intelectual."
+      },
+      {
+        "letter": "E",
+        "text": "ampliação do acesso a obras de autores reconhecidos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto reúne indícios de que a cópia na rede nem sempre prejudica o autor — o caso de Paulo Coelho, cujas vendas em papel dispararam depois da versão gratuita no blog. Ao mostrar que o modelo tradicional de proteção da obra não dá conta do que acontece na internet, o texto convida à reavaliação do próprio conceito de propriedade intelectual, e não à simples aceitação da pirataria (A).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q99",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 99,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Em casa, Hideo ainda podia seguir fiel ao imperador japonês e às tradições que trouxera no navio que aportara em Santos. […] Por isso Hideo exigia que, aos domingos, todos estivessem juntos durante o almoço. Ele se sentava à cabeceira da mesa; à direita ficava Hanashiro, que era o primeiro filho, e Hitoshi, o segundo, e à esquerda, Haruo, depois Hiroshi, que era o mais novo. […] A esposa, que também era mãe, e as filhas, que também eram irmãs, aguardavam de pé ao redor da mesa […]. Haruo reclamava, não se cansava de reclamar: que se sentassem também as mulheres à mesa, que era um absurdo aquele costume. Quando se casasse, se sentariam à mesa a esposa e o marido, um em frente ao outro, porque não era o homem melhor que a mulher para ser o primeiro […]. Elas seguiam de pé, a mãe um pouco cansada dos protestos do filho, pois o momento do almoço era sagrado, não era hora de levantar bandeiras inúteis […].\n\nNAKASATO, O. Nihonjin. São Paulo: Benvirá, 2011 (fragmento). Referindo-se a práticas culturais de origem nipônica, o narrador registra as reações que elas provocam na família e mostra um contexto em que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a obediência ao imperador leva ao prestígio pessoal."
+      },
+      {
+        "letter": "B",
+        "text": "as novas gerações abandonam seus antigos hábitos."
+      },
+      {
+        "letter": "C",
+        "text": "a refeição é o que determina a agregação familiar."
+      },
+      {
+        "letter": "D",
+        "text": "os conflitos de gênero tendem a ser neutralizados."
+      },
+      {
+        "letter": "E",
+        "text": "o lugar à mesa metaforiza uma estrutura de poder."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O trecho mostra Hideo mantendo, dentro de casa, as tradições que trouxe do Japão, entre elas a hierarquia à mesa. O narrador registra que “o momento do almoço era sagrado” e que os protestos do filho eram “bandeiras inúteis”: a disposição dos lugares e a ordem de quem senta e quando reproduzem, em miniatura, a estrutura de autoridade da família.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q100",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 100,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "O hoax, como é chamado qualquer boato ou farsa na internet, pode espalhar vírus entre os seus contatos. Falsos sorteios de celulares ou frases que Clarice Lispector nunca disse são exemplos de hoax. Trata-se de boatos recebidos por e-mail ou compartilhados em redes sociais. Em geral, são mensagens dramáticas ou alarmantes que acompanham imagens chocantes, falam de crianças doentes ou avisam sobre falsos vírus. O objetivo de quem cria esse tipo de mensagem pode ser apenas se divertir com a brincadeira (de mau gosto), prejudicar a imagem de uma empresa ou espalhar uma ideologia política. Se o hoax for do tipo phishing (derivado de fishing, pescaria, em inglês) o problema pode ser mais grave: o usuário que clicar pode ter seus dados pessoais ou bancários roubados por golpistas. Por isso é tão importante ficar atento.\n\nVIMERCATE, N.\n\nDisponível em: www.techtudo.com.br. Acesso em: 1 maio 2013 (adaptado).\n\nAo discorrer sobre os hoaxes, o texto sugere ao leitor, como estratégia para evitar essa ameaça,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recusar convites de jogos e brincadeiras feitos pela internet."
+      },
+      {
+        "letter": "B",
+        "text": "analisar a linguagem utilizada nas mensagens recebidas."
+      },
+      {
+        "letter": "C",
+        "text": "classificar os contatos presentes em suas redes sociais."
+      },
+      {
+        "letter": "D",
+        "text": "utilizar programas que identifiquem falsos vírus."
+      },
+      {
+        "letter": "E",
+        "text": "desprezar mensagens que causem comoção."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto descreve os hoaxes pelo que eles têm em comum: falsos sorteios, frases apelativas, mensagens que pedem repasse urgente. Reconhecer esses traços na forma como a mensagem é escrita é o que permite desconfiar dela antes de clicar. A estratégia sugerida ao leitor é, portanto, analisar a linguagem das mensagens recebidas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q102",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 102,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Literatura"
+    ],
+    "statement": "PINHÃO sai ao mesmo tempo que BENONA entra. BENONA: Eurico, Eudoro Vicente está lá fora e quer falar com você. EURICÃO: Benona, minha irmã, eu sei que ele está lá fora, mas não quero falar com ele. BENONA: Mas Eurico, nós lhe devemos certas atenções. EURICÃO: Você, que foi noiva dele. Eu, não! BENONA: Isso são coisas passadas. EURICÃO: Passadas para você, mas o prejuízo foi meu. Esperava que Eudoro, com todo aquele dinheiro, se tornasse meu cunhado. Era uma boca a menos e um patrimônio a mais. E o peste me traiu. Agora, parece que ouviu dizer que eu tenho um tesouro. E vem louco atrás dele, sedento, atacado de verdadeira hidrofobia. Vive farejando ouro, como um cachorro da molest’a, como um urubu, atrás do sangue dos outros. Mas ele está enganado. Santo Antônio há de proteger minha pobreza e minha devoção.\n\nSUASSUNA, A. O santo e a porca. Rio de Janeiro: José Olympio, 2013 (fragmento). Nesse texto teatral, o emprego das expressões “o peste” e “cachorro da molest’a” contribui para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "marcar a classe social das personagens."
+      },
+      {
+        "letter": "B",
+        "text": "caracterizar usos linguísticos de uma região."
+      },
+      {
+        "letter": "C",
+        "text": "enfatizar a relação familiar entre as personagens."
+      },
+      {
+        "letter": "D",
+        "text": "sinalizar a influência do gênero nas escolhas vocabulares."
+      },
+      {
+        "letter": "E",
+        "text": "demonstrar o tom autoritário da fala de uma das personagens."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "“O peste” e “cachorro da molest’a” são expressões correntes no falar nordestino, e Ariano Suassuna as põe na boca de Euricão para situar a cena no sertão. Não marcam classe social (todos os personagens falam assim) nem autoridade: caracterizam o uso linguístico de uma região, dando verossimilhança regional ao texto teatral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q104",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 104,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Antiode Poesia, não será esse o sentido em que ainda te escrevo: flor! (Te escrevo: flor! Não uma flor, nem aquela flor-virtude — em disfarçados urinóis). Flor é a palavra flor; verso inscrito no verso, como as manhãs no tempo. Flor é o salto da ave para o voo: o salto fora do sono quando seu tecido se rompe; é uma explosão posta a funcionar, como uma máquina, uma jarra de flores.\n\nMELO NETO, J. C. Psicologia da composição. Rio de Janeiro: Nova Fronteira, 1997 (fragmento). A poesia é marcada pela recriação do objeto por meio da linguagem, sem necessariamente explicá-lo. Nesse fragmento de João Cabral de Melo Neto, poeta da geração de 1945, o sujeito lírico propõe a recriação poética de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uma palavra, a partir de imagens com as quais ela pode ser comparada, a fim de assumir novos significados."
+      },
+      {
+        "letter": "B",
+        "text": "um urinol, em referência às artes visuais ligadas às vanguardas do início do século XX."
+      },
+      {
+        "letter": "C",
+        "text": "uma ave, que compõe, com seus movimentos, uma imagem historicamente ligada à palavra poética."
+      },
+      {
+        "letter": "D",
+        "text": "uma máquina, levando em consideração a relevância do discurso técnico-científico pós-Revolução Industrial."
+      },
+      {
+        "letter": "E",
+        "text": "um tecido, visto que sua composição depende de elementos intrínsecos ao eu lírico."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O poema não descreve uma flor: recusa a palavra “flor” tal como a poesia a consagrou (“não uma flor, nem aquela flor-virtude”) e passa a compará-la a outras imagens, inclusive prosaicas, para lhe dar novo sentido. O que João Cabral recria é, portanto, a própria palavra — procedimento típico da geração de 1945, que tomava o vocábulo como matéria de trabalho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q105",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 105,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Qual é a segurança do sangue? Para que o sangue esteja disponível para aqueles que necessitam, os indivíduos saudáveis devem criar o hábito de doar sangue e encorajar amigos e familiares saudáveis a praticarem o mesmo ato. A prática de selecionar criteriosamente os doadores, bem como as rígidas normas aplicadas para testar, transportar, estocar e transfundir o sangue doado fizeram dele um produto muito mais seguro do que já foi anteriormente. Apenas pessoas saudáveis e que não sejam de risco para adquirir doenças infecciosas transmissíveis pelo sangue, como hepatites B e C, HIV, sífilis e Chagas, podem doar sangue. Se você acha que sua saúde ou comportamento pode colocar em risco a vida de quem for receber seu sangue, ou tem a real intenção de apenas realizar o teste para o vírus HIV, NÃO DOE SANGUE. Cumpre destacar que apesar de o sangue doado ser testado para as doenças transmissíveis conhecidas no momento, existe um período chamado de janela imunológica em que um doador contaminado por um determinado vírus pode transmitir a doença através do seu sangue. DA SUA HONESTIDADE DEPENDE A VIDA DE QUEM VAI RECEBER SEU SANGUE.\n\nDisponível em: www.prosangue.sp.gov.br. Acesso em: 24 abr. 2015 (adaptado).\n\nNessa campanha, as informações apresentadas têm como objetivo principal",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conscientizar o doador de sua corresponsabilidade pela qualidade do sangue."
+      },
+      {
+        "letter": "B",
+        "text": "garantir a segurança de pessoas de grupos de risco durante a doação de sangue."
+      },
+      {
+        "letter": "C",
+        "text": "esclarecer o público sobre a segurança do processo de captação do sangue."
+      },
+      {
+        "letter": "D",
+        "text": "alertar os doadores sobre as dificuldades enfrentadas na coleta de sangue."
+      },
+      {
+        "letter": "E",
+        "text": "ampliar o número de doadores para manter o banco de sangue."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A campanha explica o que é a janela imunológica e por que um doador contaminado pode transmitir uma doença mesmo com exames negativos. Daí o fecho em destaque: “da sua honestidade depende a vida de quem vai receber seu sangue”. O objetivo é fazer o doador entender que a segurança da bolsa depende também dele — é a sua corresponsabilidade que está em jogo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q106",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 106,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Gêneros Textuais"
+    ],
+    "statement": "TEXTO I Entrevistadora — eu vou conversar aqui com a professora A. D. ... o português então não é uma língua difícil? Professora — olha se você parte do princípio… que a língua portuguesa não é só regras gramaticais… não se você se apaixona pela língua que você… já domina que você já fala ao chegar na escola se o teu professor cativa você a ler obras da literatura… obras da/ dos meios de comunicação… se você tem acesso a revistas… é... a livros didáticos… a... livros de literatura o mais formal o e/ o difícil é porque a escola transforma como eu já disse as aulas de língua portuguesa em análises gramaticais. TEXTO II Entrevistadora — Vou conversar com a professora A. D. O português é uma língua difícil? Professora — Não, se você parte do princípio que a língua portuguesa não é só regras gramaticais. Ao chegar à escola, o aluno já domina e fala a língua. Se o professor motivá-lo a ler obras literárias, e se tem acesso a revistas, a livros didáticos, você se apaixona pela língua. O que torna difícil é que a escola transforma as aulas de língua portuguesa em análises gramaticais.\n\nMARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001 (adaptado).\n\nO Texto I é a transcrição de uma entrevista concedida por uma professora de português a um programa de rádio. O Texto II é a adaptação dessa entrevista para a modalidade escrita. Em comum, esses textos",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentam ocorrências de hesitações e reformulações."
+      },
+      {
+        "letter": "B",
+        "text": "são modelos de emprego de regras gramaticais."
+      },
+      {
+        "letter": "C",
+        "text": "são exemplos de uso não planejado da língua."
+      },
+      {
+        "letter": "D",
+        "text": "apresentam marcas da linguagem literária."
+      },
+      {
+        "letter": "E",
+        "text": "são amostras do português culto urbano."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Texto I é fala espontânea de uma professora — com hesitações e reformulações — e o Texto II é a versão escrita e planejada da mesma entrevista. A espontaneidade só existe no primeiro e o planejamento só no segundo, o que elimina A e C. O que ambos compartilham é o registro: são amostras do português culto urbano, produzido por falante escolarizado em situação formal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q107",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 107,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Galinha cega O dono correu atrás de sua branquinha, agarrou-a, lhe examinou os olhos. Estavam direitinhos, graças a Deus, e muito pretos. Soltou-a no terreiro e lhe atirou mais milho. A galinha continuou a bicar o chão desorientada. Atirou ainda mais, com paciência, até que ela se fartasse. Mas não conseguiu com o gasto de milho, de que as outras se aproveitaram, atinar com a origem daquela desorientação. Que é que seria aquilo, meu Deus do céu? Se fosse efeito de uma pedrada na cabeça e se soubesse quem havia mandado a pedra, algum moleque da vizinhança, aí… Nem por sombra imaginou que era a cegueira irremediável que principiava. Também a galinha, coitada, não compreendia nada, absolutamente nada daquilo. Por que não vinham mais os dias luminosos em que procurava a sombra das pitangueiras? Sentia ainda o calor do sol, mas tudo quase sempre tão escuro. Quase que já não sabia onde é que estava a luz, onde é que estava a sombra.\n\nGUIMARAENS, J. A. Contos e novelas. Rio de Janeiro: Imago, 1976 (fragmento). Ao apresentar uma cena em que um menino atira milho às galinhas e observa com atenção uma delas, o narrador explora um recurso que conduz a uma expressividade fundamentada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "captura de elementos da vida rural, de feições peculiares."
+      },
+      {
+        "letter": "B",
+        "text": "caracterização de um quintal de sítio, espaço de descobertas."
+      },
+      {
+        "letter": "C",
+        "text": "confusão intencional da marcação do tempo, centrado na infância."
+      },
+      {
+        "letter": "D",
+        "text": "apropriação de diferentes pontos de vista, incorporados afetivamente."
+      },
+      {
+        "letter": "E",
+        "text": "fragmentação do conflito gerador, distendido como apoio à emotividade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O foco desliza: acompanha o dono examinando os olhos da galinha, depois o menino que atira o milho e, por fim, entra na perspectiva da própria ave — “Quase que já não sabia onde é que estava a luz, onde é que estava a sombra”. Essa apropriação de pontos de vista diferentes, e afetivamente investidos, é o recurso que sustenta a expressividade do trecho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q108",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 108,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Sem acessórios nem som Escrever só para me livrar de escrever. Escrever sem ver, com riscos sentindo falta dos acompanhamentos com as mesmas lesmas e figuras sem força de expressão. Mas tudo desafina: o pensamento pesa tanto quanto o corpo enquanto corto os conectivos corto as palavras rentes com tesoura de jardim cega e bruta com facão de mato. Mas a marca deste corte tem que ficar nas palavras que sobraram. Qualquer coisa do que desapareceu continuou nas margens, nos talos no atalho aberto a talhe de foice no caminho de rato.\n\nFREITAS FILHO, A. Máquina de escrever: poesia reunida e revista. Rio de Janeiro: Nova Fronteira, 2003. Nesse texto, a reflexão sobre o processo criativo aponta para uma concepção de atividade poética que põe em evidência o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "angustiante necessidade de produção, presente em “Escrever só para me livrar/ de escrever”."
+      },
+      {
+        "letter": "B",
+        "text": "imprevisível percurso da composição, presente em “no atalho aberto a talhe de foice/ no caminho de rato”."
+      },
+      {
+        "letter": "C",
+        "text": "agressivo trabalho de supressão, presente em “corto as palavras rentes/ com tesoura de jardim/ cega e bruta”."
+      },
+      {
+        "letter": "D",
+        "text": "inevitável frustração diante do poema, presente em “Mas tudo desafina:/ o pensamento pesa/ tanto quanto o corpo”."
+      },
+      {
+        "letter": "E",
+        "text": "conflituosa relação com a inspiração, presente em “sentindo falta dos acompanhamentos/ e figuras sem força de expressão”."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O poema descreve a escrita como um trabalho de corte: “corto as palavras rentes com tesoura”, e o que sobra fica “nas margens, nos talos”. Escrever, aqui, é sobretudo suprimir — retirar acessórios, som e acompanhamentos até restar o essencial. A concepção de atividade poética que se evidencia é a desse trabalho agressivo de supressão, e não a de um percurso à deriva.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q109",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 109,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "A origem da obra de arte (2002) é uma instalação seminal na obra de Marilá Dardot. Apresentada originalmente em sua primeira exposição individual, no Museu de Arte da Pampulha, em Belo Horizonte, a obra constitui um convite para a interação do espectador, instigado a compor palavras e sentenças e a distribuí-las pelo campo. Cada letra tem o feitio de um vaso de cerâmica (ou será o contrário?) e, à disposição do espectador, encontram-se utensílios de plantio, terra e sementes. Para abrigar a obra e servir de ponto de partida para a criação dos textos, foi construído um pequeno galpão, evocando uma estufa ou um ateliê de jardinagem. As 1 500 letras-vaso foram produzidas pela cerâmica que funciona no Instituto Inhotim, em Minas Gerais, num processo que durou vários meses e contou com a participação de dezenas de mulheres das comunidades do entorno. Plantar palavras, semear ideias é o que nos propõe o trabalho. No contexto de Inhotim, onde natureza e arte dialogam de maneira privilegiada, esta proposição se torna, de certa maneira, mais perto da possibilidade.\n\nDisponível em: www.inhotim.org.br. Acesso em: 22 maio 2013 (adaptado).\n\nA função da obra de arte como possibilidade de experimentação e de construção pode ser constatada no trabalho de Marilá Dardot porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o projeto artístico acontece ao ar livre."
+      },
+      {
+        "letter": "B",
+        "text": "o observador da obra atua como seu criador."
+      },
+      {
+        "letter": "C",
+        "text": "a obra integra-se ao espaço artístico e botânico."
+      },
+      {
+        "letter": "D",
+        "text": "as letras-vaso são utilizadas para o plantio de mudas."
+      },
+      {
+        "letter": "E",
+        "text": "as mulheres da comunidade participam na confecção das peças."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em A origem da obra de arte, as letras-vaso só ganham sentido quando alguém as dispõe, formando palavras e frases, e planta mudas nelas. A obra não está pronta antes disso: existe como possibilidade, e é o público que a realiza a cada intervenção. Por isso o observador atua como criador — experimentação e construção são o próprio funcionamento do trabalho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q110",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 110,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "O senso comum é que só os seres humanos são capazes de rir. Isso não é verdade? Não. O riso básico — o da brincadeira, da diversão, da expressão física do riso, do movimento da face e da vocalização — nós compartilhamos com diversos animais. Em ratos, já foram observadas vocalizações ultrassônicas — que nós não somos capazes de perceber — e que eles emitem quando estão brincando de “rolar no chão”. Acontecendo de o cientista provocar um dano em um local específico no cérebro, o rato deixa de fazer essa vocalização e a brincadeira vira briga séria. Sem o riso, o outro pensa que está sendo atacado. O que nos diferencia dos animais é que não temos apenas esse mecanismo básico. Temos um outro mais evoluído. Os animais têm o senso de brincadeira, como nós, mas não têm senso de humor. O córtex, a parte superficial do cérebro deles, não é tão evoluído como o nosso. Temos mecanismos corticais que nos permitem, por exemplo, interpretar uma piada.\n\nDisponível em: http://globonews.globo.com. Acesso em: 31 maio 2012 (adaptado).\n\nA coesão textual é responsável por estabelecer relações entre as partes do texto. Analisando o trecho “Acontecendo de o cientista provocar um dano em um local específico no cérebro”, verifica-se que ele estabelece com a oração seguinte uma relação de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "finalidade, porque os danos causados ao cérebro têm por finalidade provocar a falta de vocalização dos ratos."
+      },
+      {
+        "letter": "B",
+        "text": "oposição, visto que o dano causado em um local específico no cérebro é contrário à vocalização dos ratos."
+      },
+      {
+        "letter": "C",
+        "text": "condição, pois é preciso que se tenha lesão específica no cérebro para que não haja vocalização dos ratos."
+      },
+      {
+        "letter": "D",
+        "text": "consequência, uma vez que o motivo de não haver mais vocalização dos ratos é o dano causado no cérebro."
+      },
+      {
+        "letter": "E",
+        "text": "proporção, já que à medida que se lesiona o cérebro não é mais possível que haja vocalização dos ratos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A oração reduzida de gerúndio “Acontecendo de o cientista provocar um dano…” equivale a “Se o cientista provocar um dano…”: enuncia a hipótese de que depende o fato seguinte. Trata-se, portanto, de uma relação de condição — o dano é a circunstância necessária para que a vocalização deixe de ocorrer, e não a sua finalidade nem o seu contrário.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q111",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 111,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem",
+      "Variação Linguística"
+    ],
+    "statement": "Mandinga — Era a denominação que, no período das grandes navegações, os portugueses davam à costa ocidental da África. A palavra se tornou sinônimo de feitiçaria porque os exploradores lusitanos consideravam bruxos os africanos que ali habitavam — é que eles davam indicações sobre a existência de ouro na região. Em idioma nativo, manding designava terra de feiticeiros. A palavra acabou virando sinônimo de feitiço, sortilégio.\n\nCOTRIM, M. O pulo do gato 3. São Paulo: Geração Editorial, 2009 (fragmento). No texto, evidencia-se que a construção do significado da palavra mandinga resulta de um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contexto sócio-histórico."
+      },
+      {
+        "letter": "B",
+        "text": "diversidade étnica."
+      },
+      {
+        "letter": "C",
+        "text": "descoberta geográfica."
+      },
+      {
+        "letter": "D",
+        "text": "apropriação religiosa."
+      },
+      {
+        "letter": "E",
+        "text": "contraste cultural."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto acompanha a palavra do topônimo à magia: os portugueses chamavam de Mandinga a costa ocidental da África nas grandes navegações; ali os nativos, tidos por feiticeiros, davam notícia de ouro; e manding, no idioma local, designava terra de feiticeiros. O sentido atual de feitiço resulta, portanto, desse encontro entre navegação, colonização e imaginário — um processo sócio-histórico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q112",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 112,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "TEXTO I Nesta época do ano, em que comprar compulsivamente é a principal preocupação de boa parte da população, é imprescindível refletirmos sobre a importância da mídia na propagação de determinados comportamentos que induzem ao consumismo exacerbado. No clássico livro O capital, Karl Marx aponta que no capitalismo os bens materiais, ao serem fetichizados, passam a assumir qualidades que vão além da mera materialidade. As coisas são personificadas e as pessoas são coisificadas. Em outros termos, um automóvel de luxo, uma mansão em um bairro nobre ou a ostentação de objetos de determinadas marcas famosas são alguns dos fatores que conferem maior valorização e visibilidade social a um indivíduo.\n\nLADEIRA, F. F. Reflexões sobre o consumismo.\n\nDisponível em: http://observatoriodaimprensa.com.br. Acesso em: 18 jan. 2015.\n\nTEXTO II Todos os dias, em algum nível, o consumo atinge nossa vida, modifica nossas relações, gera e rege sentimentos, engendra fantasias, aciona comportamentos, faz sofrer, faz gozar. Às vezes constrangendo-nos em nossas ações no mundo, humilhando e aprisionando, às vezes ampliando nossa imaginação e nossa capacidade de desejar, consumimos e somos consumidos. Numa época toda codificada como a nossa, o código da alma (o código do ser) virou código do consumidor! Fascínio pelo consumo, fascínio do consumo. Felicidade, luxo, bem-estar, boa forma, lazer, elevação espiritual, saúde, turismo, sexo, família e corpo são hoje reféns da engrenagem do consumo.\n\nBARCELLOS, G. A alma do consumo.\n\nDisponível em: www.diplomatique.org.br. Acesso em: 18 jan. 2015.\n\nEsses textos propõem uma reflexão crítica sobre o consumismo. Ambos partem do ponto de vista de que esse hábito",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desperta o desejo de ascensão social."
+      },
+      {
+        "letter": "B",
+        "text": "provoca mudanças nos valores sociais."
+      },
+      {
+        "letter": "C",
+        "text": "advém de necessidades suscitadas pela publicidade."
+      },
+      {
+        "letter": "D",
+        "text": "deriva da inerente busca por felicidade pelo ser humano."
+      },
+      {
+        "letter": "E",
+        "text": "resulta de um apelo do mercado em determinadas datas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois textos vão além da denúncia do gasto: mostram que categorias como identidade, felicidade, saúde, família e corpo passaram a ser mediadas pelo ato de comprar. O consumismo aparece, assim, como algo que reorganiza o que a sociedade valoriza — provoca mudanças nos valores sociais, e não apenas responde à publicidade (C) ou a datas comerciais (E).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q113",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 113,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe",
+      "Interpretação de Texto"
+    ],
+    "statement": "Quem procura a essência de um conto no espaço que fica entre a obra e seu autor comete um erro: é muito melhor procurar não no terreno que fica entre o escritor e sua obra, mas justamente no terreno que fica entre o texto e seu leitor. OZ, A. De amor e trevas. São Paulo: Cia. das Letras, 2005 (fragmento). A progressão temática de um texto pode ser estruturada por meio de diferentes recursos coesivos, entre os quais se destaca a pontuação. Nesse texto, o emprego dos dois pontos caracteriza uma operação textual realizada com a finalidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comparar elementos opostos."
+      },
+      {
+        "letter": "B",
+        "text": "relacionar informações gradativas."
+      },
+      {
+        "letter": "C",
+        "text": "intensificar um problema conceitual."
+      },
+      {
+        "letter": "D",
+        "text": "introduzir um argumento esclarecedor."
+      },
+      {
+        "letter": "E",
+        "text": "assinalar uma consequência hipotética."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os dois pontos aparecem depois da afirmação de que procurar a essência do conto entre a obra e o autor “comete um erro”. O que vem em seguida não se opõe nem intensifica: explica por que é erro e indica onde procurar — “é muito melhor procurar […] no terreno que fica entre o texto e seu leitor”. Os dois pontos introduzem, portanto, o argumento que esclarece a afirmação anterior.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q114",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 114,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "O livro A fórmula secreta conta a história de um episódio fundamental para o nascimento da matemática moderna e retrata uma das disputas mais virulentas da ciência renascentista. Fórmulas misteriosas, duelos públicos, traições, genialidade, ambição — e matemática! Esse é o instigante universo apresentado no livro, que resgata a história dos italianos Tartaglia e Cardano e da fórmula revolucionária para resolução de equações de terceiro grau. A obra reconstitui um episódio polêmico que marca, para muitos, o início do período moderno da matemática. Em última análise, A fórmula secreta apresenta-se como uma ótima opção para conhecer um pouco mais sobre a história da matemática e acompanhar um dos debates científicos mais inflamados do século XVI no campo. Mais do que isso, é uma obra de fácil leitura e uma boa mostra de que é possível abordar temas como álgebra de forma interessante, inteligente e acessível ao grande público.\n\nGARCIA, M. Duelos, segredos e matemática.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 6 out. 2015 (adaptado).\n\nNa construção textual, o autor realiza escolhas para cumprir determinados objetivos. Nesse sentido, a função social desse texto é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "interpretar a obra a partir dos acontecimentos da narrativa."
+      },
+      {
+        "letter": "B",
+        "text": "apresentar o resumo do conteúdo da obra de modo impessoal."
+      },
+      {
+        "letter": "C",
+        "text": "fazer a apreciação de uma obra a partir de uma síntese crítica."
+      },
+      {
+        "letter": "D",
+        "text": "informar o leitor sobre a veracidade dos fatos descritos na obra."
+      },
+      {
+        "letter": "E",
+        "text": "classificar a obra como uma referência para estudiosos da matemática."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto conta do que trata A fórmula secreta e, ao mesmo tempo, avalia a obra: destaca a habilidade do autor em tratar de álgebra “de forma interessante, inteligente e acessível ao grande público”. Resumo somado a juízo de valor é o que define a resenha crítica — o que elimina B, que fala em impessoalidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q115",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 115,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "A partida de trem Marcava seis horas da manhã. Angela Pralini pagou o táxi e pegou sua pequena valise. Dona Maria Rita de Alvarenga Chagas Souza Melo desceu do Opala da filha e encaminharam-se para os trilhos. A velha bem- vestida e com joias. Das rugas que a disfarçavam saía a forma pura de um nariz perdido na idade, e de uma boca que outrora devia ter sido cheia e sensível. Mas que importa? Chega-se a um certo ponto — e o que foi não importa. Começa uma nova raça. Uma velha não pode comunicar-se. Recebeu o beijo gelado de sua filha que foi embora antes do trem partir. Ajudara-a antes a subir no vagão. Sem que neste houvesse um centro, ela se colocara do lado. Quando a locomotiva se pôs em movimento, surpreendeu-se um pouco: não esperava que o trem seguisse nessa direção e sentara-se de costas para o caminho. Angela Pralini percebeu-lhe o movimento e perguntou: — A senhora deseja trocar de lugar comigo? Dona Maria Rita se espantou com a delicadeza, disse que não, obrigada, para ela dava no mesmo. Mas parecia ter-se perturbado. Passou a mão sobre o camafeu filigranado de ouro, espetado no peito, passou a mão pelo broche. Seca. Ofendida? Perguntou afinal a Angela Pralini: — É por causa de mim que a senhorita deseja trocar de lugar?\n\nLISPECTOR, C. Onde estivestes de noite. Rio de Janeiro: Nova Fronteira, 1980 (fragmento). A descoberta de experiências emocionais com base no cotidiano é recorrente na obra de Clarice Lispector. No fragmento, o narrador enfatiza o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comportamento vaidoso de mulheres de condição social privilegiada."
+      },
+      {
+        "letter": "B",
+        "text": "anulação das diferenças sociais no espaço público de uma estação."
+      },
+      {
+        "letter": "C",
+        "text": "incompatibilidade psicológica entre mulheres de gerações diferentes."
+      },
+      {
+        "letter": "D",
+        "text": "constrangimento da aproximação formal de pessoas desconhecidas."
+      },
+      {
+        "letter": "E",
+        "text": "sentimento de solidão alimentado pelo processo de envelhecimento."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A cena reúne Angela Pralini, jovem, e Dona Maria Rita, senhora idosa, no mesmo vagão. É sobre esta última que o narrador se detém: seca, ofendida, atenta ao gesto da outra de querer mudar de lugar, e pronta a interpretá-lo como rejeição à sua presença. O que o fragmento enfatiza é o sentimento de solidão que o envelhecimento alimenta — a suspeita de já não ser desejada por companhia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q116",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 116,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Esses chopes dourados [...] quando a geração de meu pai batia na minha a minha achava que era normal que a geração de cima só podia educar a de baixo batendo quando a minha geração batia na de vocês ainda não sabia que estava errado mas a geração de vocês já sabia e cresceu odiando a geração de cima aí chegou esta hora em que todas as gerações já sabem de tudo e é péssimo ter pertencido à geração do meio tendo errado quando apanhou da de cima e errado quando bateu na de baixo e sabendo que apesar de amaldiçoados éramos todos inocentes.\n\nWANDERLEY, J. In: MORICONI, I. (Org.). Os cem melhores poemas brasileiros do século. Rio de Janeiro: Objetiva, 2001 (fragmento). Ao expressar uma percepção de atitudes e valores situados na passagem do tempo, o eu lírico manifesta uma angústia sintetizada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "compreensão da efemeridade das convicções antes vistas como sólidas."
+      },
+      {
+        "letter": "B",
+        "text": "consciência das imperfeições aceitas na construção do senso comum."
+      },
+      {
+        "letter": "C",
+        "text": "revolta das novas gerações contra modelos tradicionais de educação."
+      },
+      {
+        "letter": "D",
+        "text": "incerteza da expectativa de mudança por parte das futuras gerações."
+      },
+      {
+        "letter": "E",
+        "text": "crueldade atribuída à forma de punição praticada pelos mais velhos."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O eu lírico observa a violência atravessar as gerações: cada uma achava “normal” bater na seguinte, e ele próprio se descobre repetindo o gesto. A angústia está em perceber que aquilo era tomado como educação legítima e, ainda assim, “éramos todos inocentes” — consciência das imperfeições que o senso comum aceitou sem questionar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q117",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 117,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "Centro das atenções em um planeta cada vez mais interconectado, a Floresta Amazônica expõe inúmeros dilemas. Um dos mais candentes diz respeito à madeira e sua exploração econômica, uma saga que envolve os muitos desafios para a conservação dos recursos naturais às gerações futuras. Com o olhar jornalístico, crítico e ao mesmo tempo didático, adentramos a Amazônia em busca de histórias e sutilezas que os dados nem sempre revelam. Lapidamos estatísticas e estudos científicos para construir uma síntese útil a quem direciona esforços para conservar a floresta, seja no setor público, seja no setor privado, seja na sociedade civil. Guiada como uma reportagem, rica em informações ilustradas, a obra Madeira de ponta a ponta revela a diversidade de fraudes na cadeia de produção, transporte e comercialização da madeira, bem como as iniciativas de boas práticas que se disseminam e trazem esperança rumo a um modelo de convivência entre desenvolvimento e manutenção da floresta.\n\nVILLELA, M.; SPINK, P. In: ADEODATO, S. et al. Madeira de ponta a ponta: o caminho desde a floresta até o consumo. São Paulo: FGV RAE, 2011 (adaptado).\n\nA fim de alcançar seus objetivos comunicativos, os autores escreveram esse texto para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentar informações e comentários sobre o livro."
+      },
+      {
+        "letter": "B",
+        "text": "noticiar as descobertas científicas oriundas da pesquisa."
+      },
+      {
+        "letter": "C",
+        "text": "defender as práticas sustentáveis de manejo da madeira."
+      },
+      {
+        "letter": "D",
+        "text": "ensinar formas de combate à exploração ilegal de madeira."
+      },
+      {
+        "letter": "E",
+        "text": "demonstrar a importância de parcerias para a realização da pesquisa."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto é o prefácio de Madeira de ponta a ponta: situa o problema da exploração da Amazônia, comenta o que a obra reúne e antecipa as experiências que ela apresenta. Não noticia descobertas nem ensina procedimentos: apresenta informações e comentários sobre o livro, orientando a leitura que virá.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q119",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 119,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Pérolas absolutas Há, no seio de uma ostra, um movimento — ainda que imperceptível. Qualquer coisa imiscuiu-se pela fissura, uma partícula qualquer, diminuta e invisível. Venceu as paredes lacradas, que se fecham como a boca que tem medo de deixar escapar um segredo. Venceu. E agora penetra o núcleo da ostra, contaminando-lhe a própria substância. A ostra reage, imediatamente. E começa a secretar o nácar. É um mecanismo de defesa, uma tentativa de purificação contra a partícula invasora. Com uma paciência de fundo de mar, a ostra profanada continua seu trabalho incansável, secretando por anos a fio o nácar que aos poucos se vai solidificando. É dessa solidificação que nascem as pérolas. As pérolas são, assim, o resultado de uma contaminação. A arte por vezes também. A arte é quase sempre a transformação da dor. [...] Escrever é preciso. É preciso continuar secretando o nácar, formar a pérola que talvez seja imperfeita, que talvez jamais seja encontrada e viva para sempre encerrada no fundo do mar. Talvez estas, as pérolas esquecidas, jamais achadas, as pérolas intocadas e por isso absolutas em si mesmas, guardem em si uma parcela faiscante da eternidade.\n\nSEIXAS, H. Uma ilha chamada livro. Rio de Janeiro: Record, 2009 (fragmento). Considerando os aspectos estéticos e semânticos presentes no texto, a imagem da pérola configura uma percepção que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reforça o valor do sofrimento e do esquecimento para o processo criativo."
+      },
+      {
+        "letter": "B",
+        "text": "ilustra o conflito entre a procura do novo e a rejeição ao elemento exótico."
+      },
+      {
+        "letter": "C",
+        "text": "concebe a criação literária como trabalho progressivo e de autoconhecimento."
+      },
+      {
+        "letter": "D",
+        "text": "expressa a ideia de atividade poética como experiência anônima e involuntária."
+      },
+      {
+        "letter": "E",
+        "text": "destaca o efeito introspectivo gerado pelo contato com o inusitado e com o desconhecido."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A pérola nasce de um grão de areia que incomoda a ostra e que ela vai recobrindo, camada por camada, até transformar o incômodo em joia. O texto usa essa imagem para pensar a criação literária: um trabalho lento e progressivo, em que o escritor elabora o que o atravessa e, nesse processo, conhece a si mesmo — e as pérolas “jamais achadas” continuam absolutas em si mesmas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q120",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 120,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Literatura"
+    ],
+    "statement": "Querido diário Hoje topei com alguns conhecidos meus Me dão bom-dia, cheios de carinho Dizem para eu ter muita luz, ficar com Deus Eles têm pena de eu viver sozinho [...] Hoje o inimigo veio me espreitar Armou tocaia lá na curva do rio Trouxe um porrete a mó de me quebrar Mas eu não quebro porque sou macio, viu HOLANDA, C. B. Chico. Rio de Janeiro: Biscoito Fino, 2013 (fragmento). Uma característica do gênero diário que aparece na letra da canção de Chico Buarque é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diálogo com interlocutores próximos."
+      },
+      {
+        "letter": "B",
+        "text": "recorrência de verbos no infinitivo."
+      },
+      {
+        "letter": "C",
+        "text": "predominância de tom poético."
+      },
+      {
+        "letter": "D",
+        "text": "uso de rimas na composição."
+      },
+      {
+        "letter": "E",
+        "text": "narrativa autorreflexiva."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A canção é escrita como registro do dia: “Hoje topei com alguns conhecidos meus”, “Hoje o inimigo veio me espreitar”. O eu que narra é o mesmo que vive e comenta o vivido, refletindo sobre a própria condição — “Eles têm pena de eu viver sozinho”. Essa narrativa em primeira pessoa, datada e autorreflexiva, é a marca do gênero diário.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q121",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 121,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Gêneros Textuais"
+    ],
+    "statement": "De domingo — Outrossim… — O quê? — O que o quê? — O que você disse. — Outrossim? — É. — O que é que tem? — Nada. Só achei engraçado. — Não vejo a graça. — Você vai concordar que não é uma palavra de todos os dias. — Ah, não é. Aliás, eu só uso domingo. — Se bem que parece mais uma palavra de segunda-feira. — Não. Palavra de segunda-feira é “óbice”. — “Ônus”. — “Ônus” também. “Desiderato”. “Resquício”. — “Resquício” é de domingo. — Não, não. Segunda. No máximo terça. — Mas “outrossim”, francamente... — Qual o problema? — Retira o “outrossim”. — Não retiro. É uma ótima palavra. Aliás é uma palavra difícil de usar. Não é qualquer um que usa “outrossim”.\n\nVERISSIMO, L. F. Comédias da vida privada. Porto Alegre: L&PM, 1996 (fragmento). No texto, há uma discussão sobre o uso de algumas palavras da língua portuguesa. Esse uso promove o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "marcação temporal, evidenciada pela presença de palavras indicativas dos dias da semana."
+      },
+      {
+        "letter": "B",
+        "text": "tom humorístico, ocasionado pela ocorrência de palavras empregadas em contextos formais."
+      },
+      {
+        "letter": "C",
+        "text": "caracterização da identidade linguística dos interlocutores, percebida pela recorrência de palavras regionais."
+      },
+      {
+        "letter": "D",
+        "text": "distanciamento entre os interlocutores, provocado pelo emprego de palavras com significados pouco conhecidos."
+      },
+      {
+        "letter": "E",
+        "text": "inadequação vocabular, demonstrada pela seleção de palavras desconhecidas por parte de um dos interlocutores do diálogo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "“Outrossim” é palavra de registro formal, própria de textos jurídicos e ofícios. Colocada no meio de um diálogo corriqueiro entre amigos, ela destoa do contexto — e é justamente esse descompasso entre o vocábulo e a situação de uso que produz o riso na crônica de Verissimo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q122",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 122,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Literatura"
+    ],
+    "statement": "Receita Tome-se um poeta não cansado, Uma nuvem de sonho e uma flor, Três gotas de tristeza, um tom dourado, Uma veia sangrando de pavor. Quando a massa já ferve e se retorce Deita-se a luz dum corpo de mulher, Duma pitada de morte se reforce, Que um amor de poeta assim requer.\n\nSARAMAGO, J. Os poemas possíveis. Alfragide: Caminho, 1997. Os gêneros textuais caracterizam-se por serem relativamente estáveis e podem reconfigurar-se em função do propósito comunicativo. Esse texto constitui uma mescla de gêneros, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "introduz procedimentos prescritivos na composição do poema."
+      },
+      {
+        "letter": "B",
+        "text": "explicita as etapas essenciais à preparação de uma receita."
+      },
+      {
+        "letter": "C",
+        "text": "explora elementos temáticos presentes em uma receita."
+      },
+      {
+        "letter": "D",
+        "text": "apresenta organização estrutural típica de um poema."
+      },
+      {
+        "letter": "E",
+        "text": "utiliza linguagem figurada na construção do poema."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto de Saramago é um poema, com versos, rimas e imagens, mas toma emprestada a estrutura da receita: começa pelos ingredientes (“um poeta não cansado, uma nuvem de sonho e uma flor”) e passa ao modo de fazer, com verbos no imperativo impessoal (“tome-se”, “deita-se”, “reforce-se”). A mescla se dá pela adoção desses procedimentos prescritivos na composição do poema.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q123",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 123,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "A fotografia registra uma apresentação do espetáculo Romeu e Julieta, do Grupo Galpão, encenada num largo aberto, com o público em pé e em volta dos atores, sem palco elevado, sem cortinas e à luz do dia.\n\nGUTO MUNIZ. Disponível em: www.focoincena.com.br. Acesso em: 30 maio 2016.\n\nA principal razão pela qual se infere que o espetáculo retratado na fotografia é uma manifestação do teatro de rua é o fato de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dispensar o edifício teatral para a sua realização."
+      },
+      {
+        "letter": "B",
+        "text": "utilizar figurinos com adereços cômicos."
+      },
+      {
+        "letter": "C",
+        "text": "empregar elementos circenses na atuação."
+      },
+      {
+        "letter": "D",
+        "text": "excluir o uso de cenário na ambientação."
+      },
+      {
+        "letter": "E",
+        "text": "negar o uso de iluminação artificial."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O teatro de rua se define por prescindir do edifício teatral: acontece em praças, largos e calçadas, sem palco italiano, coxias nem plateia sentada no escuro. Adereços cômicos, elementos circenses e ausência de cenário podem aparecer nele, mas também no teatro de sala; o que identifica a manifestação é a ocupação do espaço público.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q124",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 124,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "O humor e a língua Há algum tempo, venho estudando as piadas, com ênfase em sua constituição linguística. Por isso, embora a afirmação a seguir possa parecer surpreendente, creio que posso garantir que se trata de uma verdade quase banal: as piadas fornecem simultaneamente um dos melhores retratos dos valores e problemas de uma sociedade, por um lado, e uma coleção de fatos e dados impressionantes para quem quer saber o que é e como funciona uma língua, por outro. Se se quiser descobrir os problemas com os quais uma sociedade se debate, uma coleção de piadas fornecerá excelente pista: sexualidade, etnia/raça e outras diferenças, instituições (igreja, escola, casamento, política), morte, tudo isso está sempre presente nas piadas que circulam anonimamente e que são ouvidas e contadas por todo mundo em todo o mundo. Os antropólogos ainda não prestaram a devida atenção a esse material, que poderia substituir com vantagem muitas entrevistas e pesquisas participantes. Saberemos mais a quantas andam o machismo e o racismo, por exemplo, se pesquisarmos uma coleção de piadas do que qualquer outro corpus.\n\nPOSSENTI, S. Ciência Hoje, n. 176, out. 2001 (adaptado).\n\nA piada é um gênero textual que figura entre os mais recorrentes na cultura brasileira, sobretudo na tradição oral. Nessa reflexão, a piada é enfatizada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sua função humorística."
+      },
+      {
+        "letter": "B",
+        "text": "sua ocorrência universal."
+      },
+      {
+        "letter": "C",
+        "text": "sua diversidade temática."
+      },
+      {
+        "letter": "D",
+        "text": "seu papel como veículo de preconceitos."
+      },
+      {
+        "letter": "E",
+        "text": "seu potencial como objeto de investigação."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O autor não está interessado em fazer rir nem apenas em catalogar temas: ele estuda as piadas “com ênfase em sua constituição linguística” e defende que uma coleção delas revela mais sobre o machismo e o racismo do que outros corpora. A piada é enfatizada, portanto, como material de pesquisa — objeto de investigação científica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q125",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 125,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade",
+      "Esporte e Cultura"
+    ],
+    "statement": "O filme Menina de ouro conta a história de Maggie Fitzgerald, uma garçonete de 31 anos que vive sozinha em condições humildes e sonha em se tornar uma boxeadora profissional treinada por Frankie Dunn. Em uma cena, assim que o treinador atravessa a porta do corredor onde ela se encontra, Maggie o aborda e, a caminho da saída, pergunta a ele se está interessado em treiná-la. Frankie responde: “Eu não treino garotas”. Após essa fala, ele vira as costas e vai embora. Aqui, percebemos, em Frankie, um comportamento ancorado na representação de que boxe é esporte de homem e, em Maggie, a superação da concepção de que os ringues são tradicionalmente masculinos. Historicamente construída, a feminilidade dominante atribui a submissão, a fragilidade e a passividade a uma “natureza feminina”. Numa concepção hegemônica dos gêneros, feminilidades e masculinidades encontram-se em extremidades opostas. No entanto, algumas mulheres, indiferentes às convenções sociais, sentem-se seduzidas e desafiadas a aderirem à prática das modalidades consideradas masculinas. É o que observamos em Maggie, que se mostra determinada e insiste em seu objetivo de ser treinada por Frankie.\n\nFERNANDES, V.; MOURÃO, L. Menina de ouro e a representação de feminilidades plurais. Movimento, n. 4, out.-dez. 2014 (adaptado).\n\nA inserção da personagem Maggie na prática corporal do boxe indica a possibilidade da construção de uma feminilidade marcada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adequação da mulher a uma modalidade esportiva alinhada a seu gênero."
+      },
+      {
+        "letter": "B",
+        "text": "valorização de comportamentos e atitudes normalmente associados à mulher."
+      },
+      {
+        "letter": "C",
+        "text": "transposição de limites impostos à mulher num espaço de predomínio masculino."
+      },
+      {
+        "letter": "D",
+        "text": "aceitação de padrões sociais acerca da participação da mulher nas lutas corporais."
+      },
+      {
+        "letter": "E",
+        "text": "naturalização de barreiras socioculturais responsáveis pela exclusão da mulher no boxe."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Maggie insiste em ser treinada por Frankie e entra no boxe, historicamente reservado aos homens e associado a força e agressividade. Sua feminilidade não se constrói pela adequação a papéis esperados, mas pela recusa deles: ela atravessa a fronteira de um espaço de predomínio masculino e mostra que ali também cabe uma mulher.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q126",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 126,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade",
+      "Esporte e Cultura"
+    ],
+    "statement": "Entrevista com Terezinha Guilhermina Terezinha Guilhermina é uma das atletas mais premiadas da história paraolímpica do Brasil e um dos principais nomes do atletismo mundial. Está no Guinness Book de 2013/2014 como a “cega” mais rápida do mundo. Observatório: Quais os desafios você teve que superar para se consagrar como atleta profissional? Terezinha Guilhermina: Considero a ausência de recursos financeiros, nos três primeiros anos da minha carreira, como meu principal desafio. A falta de um atleta- guia, para me auxiliar nos treinamentos, me obrigava a treinar sozinha e, por não enxergar bem, acabava sofrendo alguns acidentes como trombadas e quedas. Observatório: Como está a preparação para os Jogos Paraolímpicos de 2016? Terezinha Guilhermina: Estou trabalhando intensamente, com vistas a chegar lá bem melhor do que estive em Londres. E, por isso, posso me dedicar a treinos diários, trabalhos preventivos de lesões e acompanhamento psicológico e nutricional da melhor qualidade. Revista do Observatório Brasil de Igualdade de Gênero, n. 6, dez. 2014 (adaptado).\n\nO texto permite relacionar uma prática corporal com uma visão ampliada de saúde. O fator que possibilita identificar essa perspectiva é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aspecto nutricional."
+      },
+      {
+        "letter": "B",
+        "text": "condição financeira."
+      },
+      {
+        "letter": "C",
+        "text": "prevenção de lesões."
+      },
+      {
+        "letter": "D",
+        "text": "treinamento esportivo."
+      },
+      {
+        "letter": "E",
+        "text": "acompanhamento psicológico."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A visão ampliada de saúde considera as condições sociais e materiais que permitem a alguém cuidar de si. Ao dizer que pôde dedicar-se a treinos diários, prevenção de lesões e acompanhamento psicológico e nutricional “da melhor qualidade”, Terezinha Guilhermina aponta o que sustenta tudo isso: a condição financeira que lhe deu acesso a essa estrutura — algo indisponível à maioria dos atletas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q127",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 127,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "É possível considerar as modalidades esportivas coletivas dentro de uma mesma lógica, pois possuem uma estrutura comum: seis princípios operacionais divididos em dois grupos, o ataque e a defesa. Os três princípios operacionais de ataque são: conservação individual e coletiva da bola, progressão da equipe com a posse da bola em direção ao alvo adversário e finalização da jogada, visando a obtenção de ponto. Os três princípios operacionais da defesa são: recuperação da bola, impedimento do avanço da equipe contrária com a posse da bola e proteção do alvo para impedir a finalização da equipe adversária.\n\nDAOLIO, J. Jogos esportivos coletivos: dos princípios operacionais aos gestos técnicos — modelo pendular a partir das ideias de Claude Bayer. Revista Brasileira de Ciência e Movimento, out. 2002 (adaptado).\n\nConsiderando os princípios expostos no texto, o drible no handebol caracteriza o princípio de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recuperação da bola."
+      },
+      {
+        "letter": "B",
+        "text": "progressão da equipe."
+      },
+      {
+        "letter": "C",
+        "text": "finalização da jogada."
+      },
+      {
+        "letter": "D",
+        "text": "proteção do próprio alvo."
+      },
+      {
+        "letter": "E",
+        "text": "impedimento do avanço adversário."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Nos princípios operacionais dos esportes coletivos, o drible pertence à fase de ataque. No handebol, ele serve para o jogador com a bola avançar em direção ao alvo adversário quando não há passe disponível — é, portanto, o princípio de progressão da equipe, e não de finalização, que corresponde ao arremesso ao gol.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q128",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 128,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "BONS DIAS! 14 de junho de 1889 Ó doce, ó longa, ó inexprimível melancolia dos jornais velhos! Conhece-se um homem diante de um deles. Pessoa que não sentir alguma coisa ao ler folhas de meio século, bem pode crer que não terá nunca uma das mais profundas sensações da vida, — igual ou quase igual à que dá a vista das ruínas de uma civilização. Não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado.\n\nASSIS, M. Bons dias! (Crônicas 1888-1889). Campinas: Editora da Unicamp; São Paulo: Hucitec, 1990. O jornal impresso é parte integrante do que hoje se compreende por tecnologias de informação e comunicação. Nesse texto, o jornal é reconhecido como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "objeto de devoção pessoal."
+      },
+      {
+        "letter": "B",
+        "text": "elemento de afirmação da cultura."
+      },
+      {
+        "letter": "C",
+        "text": "instrumento de reconstrução da memória."
+      },
+      {
+        "letter": "D",
+        "text": "ferramenta de investigação do ser humano."
+      },
+      {
+        "letter": "E",
+        "text": "veículo de produção de fatos da realidade."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Machado descreve o prazer de folhear jornais velhos: por eles se recompõe o que passou. E explicita que não se trata de nostalgia — “não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado”. O jornal aparece, assim, como instrumento por meio do qual a memória é reconstruída.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q129",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 129,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte",
+      "Linguagens Artísticas"
+    ],
+    "statement": "TEXTO I\n\nBACON, F. Três estudos para um autorretrato. Óleo sobre tela, 37,5 × 31,8 cm (cada), 1974. Nos três painéis, o rosto do próprio pintor aparece borrado e torcido, com os traços deslocados e a carne aparentemente em movimento.\n\nDisponível em: www.metmuseum.org. Acesso em: 30 maio 2016.\n\nTEXTO II\n\nMuito cedo foi tarde demais na minha vida […]. Aos dezoito anos envelheci. […] Foi um envelhecimento brutal. Vi-o apoderar-se dos meus traços um a um, alterar a relação que havia entre eles […]. Não fiquei assustada com isso, ao contrário, vi o desenrolar desse envelhecimento com o interesse que teria pela leitura de um livro. […] Esse rosto de álcool veio antes do álcool. […] Mas a matéria foi destruída. Tenho um rosto destruído.\n\nDURAS, M. O amante. Rio de Janeiro: Nova Fronteira, 1985.\n\nNa imagem e no texto do romance de Marguerite Duras, os dois autorretratos apontam para o modo de representação da subjetividade moderna. Na pintura e na literatura modernas, o rosto humano deforma-se, destrói-se ou fragmenta-se em razão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "da adesão à estética do grotesco, herdada do romantismo europeu, que trouxe novas possibilidades expressivas."
+      },
+      {
+        "letter": "B",
+        "text": "das catástrofes que assolaram o século XX e da descoberta de uma realidade psíquica pela psicanálise."
+      },
+      {
+        "letter": "C",
+        "text": "da opção em demonstrarem oposição aos limites estéticos da revolução permanente trazida pela arte moderna."
+      },
+      {
+        "letter": "D",
+        "text": "do posicionamento do artista do século XX contra a negação do passado, que se torna prática dominante."
+      },
+      {
+        "letter": "E",
+        "text": "da intenção de garantir uma forma de criar obras de arte independentes da matéria presente em sua composição."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Bacon deforma o rosto em Três estudos para um autorretrato e Duras escreve “tenho um rosto destruído”. Os dois gestos pertencem ao mesmo momento histórico: um século marcado por guerras mundiais e campos de extermínio, e atravessado pela psicanálise, que revelou um sujeito cindido, movido por forças inconscientes. O rosto íntegro deixa de dar conta dessa subjetividade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q130",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 130,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Literatura"
+    ],
+    "statement": "Lições de motim DONA COTINHA — É claro! Só gosta de solidão quem nasceu pra ser solitário. Só o solitário gosta de solidão. Quem vive só e não gosta da solidão não é um solitário, é só um desacompanhado. (A reflexão escorrega lá pro fundo da alma.) Solidão é vocação, besta de quem pensa que é sina. Por isso, tem de ser valorizada. E não é qualquer um que pode ser solitário, não. Ah, mas não é mesmo! É preciso ter competência pra isso. (De súbito, pedagógica, volta-se para o homem.) É como poesia, sabe, moço? Tem de ser recitada em voz alta, que é pra gente sentir o gosto. (FAZ UMA PAUSA.) Você gosta de poesia? (O HOMEM TORNA A SE DEBATER.\n\nA VELHA INTERROMPE O DISCURSO E VOLTA A LHE DAR AS COSTAS, COMO SEMPRE, IMPASSÍVEL.\n\nO HOMEM, MAIS UMA VEZ, CANSADO, DESISTE.) Bem, como eu ia dizendo, pra viver bem com a solidão temos de ser proprietários dela e não inquilinos, me entende? Quem é inquilino da solidão não passa de um abandonado. É isso aí.\n\nZORZETTI, H. Lições de motim. Goiânia: Kelps, 2010 (adaptado).\n\nNesse trecho, o que caracteriza Lições de motim como texto teatral?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O tom melancólico presente na cena."
+      },
+      {
+        "letter": "B",
+        "text": "As perguntas retóricas da personagem."
+      },
+      {
+        "letter": "C",
+        "text": "A interferência do narrador no desfecho da cena."
+      },
+      {
+        "letter": "D",
+        "text": "O uso de rubricas para construir a ação dramática."
+      },
+      {
+        "letter": "E",
+        "text": "As analogias sobre a solidão feitas pela personagem."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O que distingue o texto teatral do narrativo é a presença das rubricas — as indicações cênicas que orientam gestos, entradas, tom de voz e movimentação —, já que não há narrador para descrever a cena. É por elas que a ação dramática se constrói no trecho de Lições de motim; o tom melancólico e as analogias sobre a solidão pertencem à fala da personagem, e não ao gênero.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q131",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 131,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "A obra de Túlio Piva poderia ser objeto de estudo nos bancos escolares, ao lado de Noel, Ataulfo e Lupicínio. Se o criador optou por permanecer em sua querência — Santiago, e depois Porto Alegre, a obra alçou voos mais altos, com passagens na Rússia, Estados Unidos e Venezuela. Tem que ter mulata, seu samba maior, é coisa de craque. Um retrato feito de ritmo e poesia, uma ode ao gênero que amou desde sempre. E o paradoxo: misto de gaúcho e italiano, nascido na fronteira com a Argentina, falando de samba, morro e mulata, com categoria. E que categoria! Uma batida de violão que fez história. O tango transmudado em samba.\n\nRAMIREZ, H.; PIVA, R. (Org.). Túlio Piva: pra ser samba brasileiro. Porto Alegre: Programa Petrobras Cultural, 2005 (adaptado).\n\nO texto é um trecho da crítica musical sobre a obra de Túlio Piva. Para enfatizar a qualidade do artista, usou-se como recurso argumentativo o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contraste entre o local de nascimento e a escolha pelo gênero samba."
+      },
+      {
+        "letter": "B",
+        "text": "exemplo de temáticas gaúchas abordadas nas letras de sambas."
+      },
+      {
+        "letter": "C",
+        "text": "alusão a gêneros musicais brasileiros e argentinos."
+      },
+      {
+        "letter": "D",
+        "text": "comparação entre sambistas de diferentes regiões."
+      },
+      {
+        "letter": "E",
+        "text": "aproximação entre a cultura brasileira e a argentina."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O argumento da crítica joga com uma aparente contradição: Túlio Piva nasceu no extremo sul do país, região identificada com outras tradições musicais, e ainda assim fez do samba a sua obra. É esse contraste entre o local de nascimento e o gênero escolhido que a crítica explora para realçar a qualidade e a singularidade do artista.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q132",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 132,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe",
+      "Literatura"
+    ],
+    "statement": "L.J.C. — 5 tiros? — É. — Brincando de pegador? — É. O PM pensou que… — Hoje? — Cedinho.\n\nCOELHO, M. In: FREIRE, M. (Org.). Os cem menores contos brasileiros do século. São Paulo: Ateliê Editorial, 2004. Os sinais de pontuação são elementos com importantes funções para a progressão temática. Nesse miniconto, as reticências foram utilizadas para indicar",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uma fala hesitante."
+      },
+      {
+        "letter": "B",
+        "text": "uma informação implícita."
+      },
+      {
+        "letter": "C",
+        "text": "uma situação incoerente."
+      },
+      {
+        "letter": "D",
+        "text": "a eliminação de uma ideia."
+      },
+      {
+        "letter": "E",
+        "text": "a interrupção de uma ação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No miniconto, as reticências não marcam gagueira nem incoerência: interrompem a frase justamente onde o leitor é capaz de completá-la sozinho. O que não se diz permanece sugerido, e é o silêncio que carrega o sentido — recurso central no gênero, que depende da economia extrema de palavras.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q133",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 133,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego pyr, significando ‘fogo’, e lampas, ‘candeia’.\n\nFERREIRA, M. B. Caminhos do português: exposição comemorativa do Ano Europeu das Línguas. Portugal: Biblioteca Nacional, 2001 (adaptado).\n\nO texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recuperação histórica do significado."
+      },
+      {
+        "letter": "B",
+        "text": "ampliação do sentido de uma palavra."
+      },
+      {
+        "letter": "C",
+        "text": "produção imprópria de poetas portugueses."
+      },
+      {
+        "letter": "D",
+        "text": "denominação científica com base em termos gregos."
+      },
+      {
+        "letter": "E",
+        "text": "restrição ao uso de um vocábulo pouco aceito socialmente."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto trata da substituição do nome do inseto por outro, motivada por tabu linguístico: a palavra original passou a ser evitada por adquirir conotação socialmente constrangedora. O tabu diz respeito, portanto, à restrição no uso de um vocábulo que a comunidade deixou de aceitar — mecanismo que também explica os muitos eufemismos da língua.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q134",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 134,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Primeira lição Os gêneros de poesia são: lírico, satírico, didático, épico, ligeiro. O gênero lírico compreende o lirismo. Lirismo é a tradução de um sentimento subjetivo, sincero e pessoal. É a linguagem do coração, do amor. O lirismo é assim denominado porque em outros tempos os versos sentimentais eram declamados ao som da lira. O lirismo pode ser: a) Elegíaco, quando trata de assuntos tristes, quase sempre a morte. b) Bucólico, quando versa sobre assuntos campestres. c) Erótico, quando versa sobre o amor. O lirismo elegíaco compreende a elegia, a nênia, a endecha, o epitáfio e o epicédio. Elegia é uma poesia que trata de assuntos tristes. Nênia é uma poesia em homenagem a uma pessoa morta. Era declamada junto à fogueira onde o cadáver era incinerado. Endecha é uma poesia que revela as dores do coração. Epitáfio é um pequeno verso gravado em pedras tumulares. Epicédio é uma poesia onde o poeta relata a vida de uma pessoa morta.\n\nCESAR, A. C. Poética. São Paulo: Companhia das Letras, 2013. No poema de Ana Cristina Cesar, a relação entre as definições apresentadas e o processo de construção do texto indica que o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "caráter descritivo dos versos assinala uma concepção irônica de lirismo."
+      },
+      {
+        "letter": "B",
+        "text": "tom explicativo e contido constitui uma forma peculiar de expressão poética."
+      },
+      {
+        "letter": "C",
+        "text": "seleção e o recorte do tema revelam uma visão pessimista da criação artística."
+      },
+      {
+        "letter": "D",
+        "text": "enumeração de distintas manifestações líricas produz um efeito de impessoalidade."
+      },
+      {
+        "letter": "E",
+        "text": "referência a gêneros poéticos clássicos expressa a adesão do eu lírico às tradições literárias."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O poema de Ana Cristina Cesar é feito de definições de gêneros poéticos clássicos, enunciadas em tom de verbete — “Epicédio é uma poesia onde o poeta relata a vida de uma pessoa morta”. O lirismo não vem de imagens ou confissões, mas dessa própria contenção explicativa, que se torna a forma peculiar de expressão do texto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q135",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 135,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Você pode não acreditar Você pode não acreditar: mas houve um tempo em que os leiteiros deixavam as garrafinhas de leite do lado de fora das casas, seja ao pé da porta, seja na janela. A gente ia de uniforme azul e branco para o grupo, de manhãzinha, passava pelas casas e não ocorria que alguém pudesse roubar aquilo. Você pode não acreditar: mas houve um tempo em que os padeiros deixavam o pão na soleira da porta ou na janela que dava para a rua. A gente passava e via aquilo como uma coisa normal. Você pode não acreditar: mas houve um tempo em que você saía à noite para namorar e voltava andando pelas ruas da cidade, caminhando displicentemente, sentindo cheiro de jasmim e de alecrim, sem olhar para trás, sem temer as sombras. Você pode não acreditar: houve um tempo em que as pessoas se visitavam airosamente. Chegavam no meio da tarde ou à noite, contavam casos, tomavam café, falavam da saúde, tricotavam sobre a vida alheia e voltavam de bonde às suas casas. Você pode não acreditar: mas houve um tempo em que o namorado primeiro ficava andando com a moça numa rua perto da casa dela, depois passava a namorar no portão, depois tinha ingresso na sala da família. Era sinal de que já estava praticamente noivo e seguro. Houve um tempo em que havia tempo. Houve um tempo. SANT’ANNA, A. R. Estado de Minas, 5 maio 2013 (fragmento). Nessa crônica, a repetição do trecho “Você pode não acreditar: mas houve um tempo em que...” configura-se como uma estratégia argumentativa que visa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "surpreender o leitor com a descrição do que as pessoas faziam durante o seu tempo livre antigamente."
+      },
+      {
+        "letter": "B",
+        "text": "sensibilizar o leitor sobre o modo como as pessoas se relacionavam entre si num tempo mais aprazível."
+      },
+      {
+        "letter": "C",
+        "text": "advertir o leitor mais jovem sobre o mau uso que se faz do tempo nos dias atuais."
+      },
+      {
+        "letter": "D",
+        "text": "incentivar o leitor a organizar melhor o seu tempo sem deixar de ser nostálgico."
+      },
+      {
+        "letter": "E",
+        "text": "convencer o leitor sobre a veracidade de fatos relativos à vida no passado."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A fórmula “Você pode não acreditar: mas houve um tempo em que…” volta a cada parágrafo e, a cada volta, evoca uma cena de convívio que se perdeu. A repetição cria um ritmo de evocação que aproxima o leitor daquele tempo e o faz sentir a diferença em relação ao presente — estratégia de sensibilização, e não de advertência (C) nem de mera comprovação (E).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q145",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 145,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Sequências e Progressões"
+    ],
+    "statement": "Uma liga metálica sai do forno a uma temperatura de 3 000 °C e diminui 1% de sua temperatura a cada 30 minutos. Use 0,477 como aproximação para log₁₀(3) e 1,041 como aproximação para log₁₀(11).\n\nO tempo decorrido, em hora, até que a liga atinja 30 °C é mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22."
+      },
+      {
+        "letter": "B",
+        "text": "50."
+      },
+      {
+        "letter": "C",
+        "text": "100."
+      },
+      {
+        "letter": "D",
+        "text": "200."
+      },
+      {
+        "letter": "E",
+        "text": "400."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A cada meia hora a temperatura fica multiplicada por 0,99, de modo que após n períodos ela vale 3 000 × 0,99ⁿ. Igualando a 30: 0,99ⁿ = 0,01, e aplicando logaritmo, n·log 0,99 = −2. Como log 0,99 = log 99 − log 100 = (2·log 3 + log 11) − 2 = (0,954 + 1,041) − 2 = −0,005, tem-se n = 400 períodos de 30 minutos, ou seja, 200 horas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q153",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 153,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Para cadastrar-se em um site, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.\n\nDisponível em: www.infowester.com. Acesso em: 14 dez. 2012.\n\nO número total de senhas possíveis para o cadastramento nesse site é dado por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10² · 26²"
+      },
+      {
+        "letter": "B",
+        "text": "10² · 52²"
+      },
+      {
+        "letter": "C",
+        "text": "10² · 52² · 4!/2!"
+      },
+      {
+        "letter": "D",
+        "text": "10² · 26² · 4!/(2!·2!)"
+      },
+      {
+        "letter": "E",
+        "text": "10² · 52² · 4!/(2!·2!)"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Cada letra pode ser qualquer uma das 26 em maiúscula ou minúscula, o que dá 52 possibilidades — para as duas letras, 52². Cada algarismo tem 10 possibilidades: 10² para os dois. Falta contar em que posições ficam os algarismos entre os quatro caracteres, o que corresponde a permutar dois pares de elementos indistinguíveis quanto à posição: 4!/(2!·2!). O total é, portanto, 10² · 52² · 4!/(2!·2!).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q157",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 157,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "O tênis é um esporte em que a estratégia de jogo a ser adotada depende, entre outros fatores, de o adversário ser canhoto ou destro. Um clube tem um grupo de 10 tenistas, sendo que 4 são canhotos e 6 são destros. O técnico do clube deseja realizar uma partida de exibição entre dois desses jogadores, porém, não poderão ser ambos canhotos.\n\nQual o número de possibilidades de escolha dos tenistas para a partida de exibição?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10!/(2!·8!) − 4!/(2!·2!)"
+      },
+      {
+        "letter": "B",
+        "text": "10!/(2!·8!) − 4!"
+      },
+      {
+        "letter": "C",
+        "text": "10!/2 − 2!·8!"
+      },
+      {
+        "letter": "D",
+        "text": "6! + 4·4/4!"
+      },
+      {
+        "letter": "E",
+        "text": "6! + 6·4/4!"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O número de duplas possíveis entre os 10 tenistas é a combinação de 10 tomados 2 a 2, isto é, 10!/(2!·8!) = 45. Dessas, as que reúnem dois canhotos são 4!/(2!·2!) = 6 e devem ser descartadas. Restam 45 − 6 = 39 possibilidades, expressas por 10!/(2!·8!) − 4!/(2!·2!).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q161",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 161,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um paciente necessita de reidratação endovenosa feita por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800 mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado. Cada mililitro de soro corresponde a 12 gotas. O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "16."
+      },
+      {
+        "letter": "B",
+        "text": "20."
+      },
+      {
+        "letter": "C",
+        "text": "24."
+      },
+      {
+        "letter": "D",
+        "text": "34."
+      },
+      {
+        "letter": "E",
+        "text": "40."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O total de soro é 5 × 800 = 4 000 mL. Nas quatro primeiras horas o paciente recebe 40%, ou seja, 1 600 mL, restando 2 400 mL para as 20 horas seguintes. Em gotas: 2 400 × 12 = 28 800 gotas, distribuídas em 20 × 60 = 1 200 minutos. Logo, 28 800/1 200 = 24 gotas por minuto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2016-q168",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 168,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Álgebra"
+    ],
+    "statement": "Densidade absoluta (d) é a razão entre a massa de um corpo e o volume por ele ocupado. Um professor propôs à sua turma que comparasse as densidades de três corpos, A, B e C. Os alunos verificaram que o corpo A possuía 1,5 vez a massa do corpo B e que este, por sua vez, tinha 3/4 da massa do corpo C. Observaram, ainda, que o volume do corpo A era o mesmo do corpo B e 20% maior do que o volume do corpo C.\n\nApós a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dB < dA < dC"
+      },
+      {
+        "letter": "B",
+        "text": "dB = dA < dC"
+      },
+      {
+        "letter": "C",
+        "text": "dC < dB = dA"
+      },
+      {
+        "letter": "D",
+        "text": "dB < dC < dA"
+      },
+      {
+        "letter": "E",
+        "text": "dC < dB < dA"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tomando mB e VB como referência: mA = 1,5·mB e VA = VB, de modo que dA = 1,5·mB/VB. Como mB = (3/4)·mC, tem-se mC = (4/3)·mB; e como VA = 1,2·VC e VA = VB, então VC = VB/1,2. Assim dC = (4/3)·mB ÷ (VB/1,2) = 1,6·mB/VB. Comparando: dB = 1,0; dA = 1,5; dC = 1,6 (em unidades de mB/VB). Portanto dB < dA < dC.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 2º dia (Linguagens e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
     "id": "enem-2017-q06",
     "exam": "enem",
     "year": 2017,
