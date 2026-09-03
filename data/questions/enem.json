@@ -34808,6 +34808,2225 @@
     }
   },
   {
+    "id": "enem-2020-q91",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 91,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração de sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade.\n\nBORTOLINI, K. et al . Análise de perfil de dissolução de cápsulas gastrorresistentes utilizando polímeros industriais com aplicação em farmácias magistrais. Revista da Unifebe, n. 12, 2013 (adaptado).\n\nQual é a finalidade do uso desse revestimento à base de celulose?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Diminuir a absorção do princípio ativo no intestino."
+      },
+      {
+        "letter": "B",
+        "text": "Impedir que o fármaco seja solubilizado no intestino."
+      },
+      {
+        "letter": "C",
+        "text": "Garantir que o fármaco não seja afetado pelas secreções gástricas."
+      },
+      {
+        "letter": "D",
+        "text": "Permitir a liberação do princípio ativo pela ação das amilases salivares."
+      },
+      {
+        "letter": "E",
+        "text": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O revestimento só se dissolve em pH próximo da neutralidade, condição encontrada no intestino delgado — no estômago o pH é fortemente ácido (1 a 3). Assim, a cápsula atravessa intacta o ambiente gástrico e só libera o princípio ativo depois, protegendo o fármaco da degradação pelas secreções ácidas e enzimáticas do estômago. Não se trata de impedir a solubilização intestinal (B), que é justamente o que se quer.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q92",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 92,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores. Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aumento da pressão interna e os riscos de explosão."
+      },
+      {
+        "letter": "B",
+        "text": "dilatação da panela e a desconexão com sua tampa."
+      },
+      {
+        "letter": "C",
+        "text": "perda da qualidade nutritiva do alimento."
+      },
+      {
+        "letter": "D",
+        "text": "deformação da borracha de vedação."
+      },
+      {
+        "letter": "E",
+        "text": "consumo de gás desnecessário."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Quando a panela começa a liberar vapor pela válvula, a pressão interna já atingiu o valor de trabalho e a temperatura de ebulição estabilizou. A partir daí, mais chama não eleva a temperatura: apenas transforma mais água em vapor, que escapa pela válvula. Reduzir o fogo mantém o cozimento na mesma temperatura e evita queimar gás à toa. A válvula impede que a pressão suba além do limite, o que elimina A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q93",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 93,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros, como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida. O êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alta pressão."
+      },
+      {
+        "letter": "B",
+        "text": "alta temperatura."
+      },
+      {
+        "letter": "C",
+        "text": "excesso de reagentes."
+      },
+      {
+        "letter": "D",
+        "text": "maior superfície de contato."
+      },
+      {
+        "letter": "E",
+        "text": "elevada energia de ativação."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Reduzir um catalisador à escala nanométrica multiplica enormemente a razão entre área superficial e volume: a mesma massa passa a oferecer muito mais sítios ativos onde os reagentes podem se adsorver e reagir. Como a velocidade da reação heterogênea depende da área de contato, a nanoestruturação acelera o processo sem exigir pressões ou temperaturas altas — daí o menor consumo de energia mencionado no texto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q94",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 94,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Os fones de ouvido tradicionais transmitem a música diretamente para os nossos ouvidos. Já os modelos dotados de tecnologia redutora de ruído — Cancelamento de Ruído (CR) — além de transmitirem música, também reduzem todo ruído inconsistente à nossa volta, como o barulho de turbinas de avião e aspiradores de pó. Os fones de ouvido CR não reduzem realmente barulhos irregulares como discursos e choros de bebês. Mesmo assim, a supressão do ronco das turbinas do avião contribui para reduzir a “fadiga de ruído”, um cansaço persistente provocado pela exposição a um barulho alto por horas a fio. Esses aparelhos também permitem que nós ouçamos músicas ou assistamos a vídeos no trem ou no avião a um volume muito menor (e mais seguro).\n\nDisponível em: http://tecnologia.uol.com.br. Acesso em: 21 abr. 2015 (adaptado).\n\nA tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Absorção."
+      },
+      {
+        "letter": "B",
+        "text": "Interferência."
+      },
+      {
+        "letter": "C",
+        "text": "Polarização."
+      },
+      {
+        "letter": "D",
+        "text": "Reflexão."
+      },
+      {
+        "letter": "E",
+        "text": "Difração."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O fone com cancelamento capta o ruído externo com um microfone e emite uma onda sonora de mesma amplitude e frequência, porém em oposição de fase. As duas ondas se superpõem e se anulam — é interferência destrutiva. O sistema funciona melhor com ruídos graves e constantes, como o das turbinas, cujo padrão é previsível, e falha com sons irregulares, exatamente como o texto observa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q95",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 95,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, passando da forma anidra, azul, à forma hidratada, rosa. A hidratação é exotérmica (ΔH < 0).\n\nComo você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Resfriaria no congelador."
+      },
+      {
+        "letter": "B",
+        "text": "Borrifaria com spray de água."
+      },
+      {
+        "letter": "C",
+        "text": "Envolveria com papel alumínio."
+      },
+      {
+        "letter": "D",
+        "text": "Aqueceria com secador de cabelos."
+      },
+      {
+        "letter": "E",
+        "text": "Embrulharia em guardanapo de papel."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O equilíbrio entre a forma azul (anidra) e a rosa (hidratada) é exotérmico no sentido da hidratação (ΔH < 0). Pelo princípio de Le Chatelier, fornecer calor desloca o equilíbrio no sentido endotérmico, que é o da desidratação — e o cartão volta ao azul. O secador de cabelos faz isso rapidamente. Resfriar ou borrifar água deslocaria o equilíbrio no sentido oposto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q96",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 96,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω, associados em série, para construir um divisor de tensão. Os pontos A, B, C, D e E são, nessa ordem, os terminais e os nós dessa associação: A e E são as extremidades ligadas à fonte, e B, C e D são os pontos entre resistores consecutivos. Os aparelhos podem ser ligados entre quaisquer dois desses pontos, dependendo da tensão especificada.\n\nEle tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.\n\nEntre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Entre A e C ; 30 mA."
+      },
+      {
+        "letter": "B",
+        "text": "Entre B e E ; 30 mA."
+      },
+      {
+        "letter": "C",
+        "text": "Entre A e D ; 1,2 mA."
+      },
+      {
+        "letter": "D",
+        "text": "Entre B e E ; 0,9 mA."
+      },
+      {
+        "letter": "E",
+        "text": "Entre A e E ; 0,9 mA."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os quatro resistores iguais em série repartem os 12 V igualmente: 3 V em cada um. Para obter 9 V é preciso tomar a tensão sobre três resistores consecutivos, isto é, entre os pontos B e E. A resistência interna do aparelho, 10 kΩ, é cem vezes maior que a do divisor, de modo que praticamente não o perturba; a corrente que o percorre é i = U/R = 9,0/10 000 = 9,0 × 10⁻⁴ A = 0,9 mA.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q97",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 97,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.\n\nDisponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).\n\nCom base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Radioterapia."
+      },
+      {
+        "letter": "B",
+        "text": "Cromoterapia."
+      },
+      {
+        "letter": "C",
+        "text": "Quimioterapia."
+      },
+      {
+        "letter": "D",
+        "text": "Fotoimunoterapia."
+      },
+      {
+        "letter": "E",
+        "text": "Terapia magnética."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A técnica combina três elementos: anticorpos que reconhecem especificamente as células tumorais (imuno), uma molécula acoplada a eles e a luz infravermelha que a ativa (foto), resultando na destruição do tumor (terapia). Daí o nome fotoimunoterapia. Não há radiação ionizante (radioterapia) nem fármaco citotóxico circulante (quimioterapia).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q98",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 98,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia",
+      "Evolução"
+    ],
+    "statement": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos Aracnídeos . Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo Arthropoda a habitar a terra seca. A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "quelíceras e pedipalpos que coordenam o movimento corporal."
+      },
+      {
+        "letter": "B",
+        "text": "excreção de ácido úrico que confere estabilidade ao pH corporal."
+      },
+      {
+        "letter": "C",
+        "text": "exoesqueleto constituído de quitina que auxilia no controle hídrico corporal."
+      },
+      {
+        "letter": "D",
+        "text": "circulação sanguínea aberta que impede a desidratação dos tecidos corporais."
+      },
+      {
+        "letter": "E",
+        "text": "sistema nervoso ganglionar que promove a coordenação central do movimento corporal."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O grande obstáculo à conquista do ambiente terrestre é a perda de água. O exoesqueleto quitinoso dos aracnídeos, recoberto por ceras, forma uma barreira impermeável que reduz drasticamente a evaporação, além de dar sustentação ao corpo fora da água. É essa impermeabilização que explica a ocupação de desertos e solos arenosos. A excreção de ácido úrico também ajuda, mas por economizar água, e não por estabilizar o pH, como diz B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q99",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 99,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada. Qual é o processo envolvido na detonação dessa bomba?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fissão nuclear do urânio, provocada por nêutrons."
+      },
+      {
+        "letter": "B",
+        "text": "Fusão nuclear do hidrogênio, provocada por prótons."
+      },
+      {
+        "letter": "C",
+        "text": "Desintegração nuclear do plutônio, provocada por elétrons."
+      },
+      {
+        "letter": "D",
+        "text": "Associação em cadeia de chumbo, provocada por pósitrons."
+      },
+      {
+        "letter": "E",
+        "text": "Decaimento radioativo do carbono, provocado por partículas beta."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A bomba atômica funciona por fissão: um nêutron atinge o núcleo de urânio-235 (ou plutônio-239), que se parte em núcleos menores liberando energia e mais nêutrons, os quais desencadeiam novas fissões em reação em cadeia. Os fragmentos resultantes são radioativos e formam a poeira que contamina o ambiente. A fusão do hidrogênio ocorre na bomba de hidrogênio e é iniciada por temperaturas extremas, não por prótons incidentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q100",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 100,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Botânica"
+    ],
+    "statement": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.\n\nBLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2008.\n\nDisponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.\n\nEssas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aumento da incidência de luz solar."
+      },
+      {
+        "letter": "B",
+        "text": "diminuição da absorção de água."
+      },
+      {
+        "letter": "C",
+        "text": "estabilização da umidade."
+      },
+      {
+        "letter": "D",
+        "text": "elevação de temperatura."
+      },
+      {
+        "letter": "E",
+        "text": "liberação de oxigênio."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As pioneiras cobrem rapidamente o solo nu com folhagem e raízes. A sombra reduz a evaporação e a serapilheira que produzem retém a água da chuva, enquanto as raízes seguram as partículas e diminuem o escoamento superficial. O resultado é um solo com umidade mais constante — condição indispensável para que espécies mais exigentes se estabeleçam depois. Repare que elas diminuem, e não aumentam, a incidência de luz sobre o solo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q101",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 101,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26 °C a 28 °C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam- se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg−1 K−1 e a densidade 1 kg L−1. Se o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4,0 °C"
+      },
+      {
+        "letter": "B",
+        "text": "3,6 °C"
+      },
+      {
+        "letter": "C",
+        "text": "0,9 °C"
+      },
+      {
+        "letter": "D",
+        "text": "0,6 °C"
+      },
+      {
+        "letter": "E",
+        "text": "0,3 °C"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em regime estacionário, o aquecedor de 50 W repõe exatamente o calor que o aquário perde, de modo que a taxa de resfriamento é de 50 J por segundo. Desligado por 1 h = 3 600 s, o aquário perde Q = 50 × 3 600 = 180 000 J = 180 kJ. Com 50 L de água, isto é, 50 kg, e c = 4,0 kJ/(kg·K): ΔT = 180/(50 × 4,0) = 0,9 °C.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q103",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 103,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro:\n\nPreparação da matéria-prima\n• seleção dos grãos: separação das sujidades mais grossas;\n• descascamento: separação de polpa e casca;\n• trituração: rompimento dos tecidos e das paredes das células;\n• cozimento: aumento da permeabilidade das membranas celulares.\n\nExtração do óleo bruto\n• prensagem: remoção parcial do óleo;\n• extração: obtenção do óleo bruto com hexano;\n• destilação: separação do óleo e do solvente.\n\nQual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Trituração."
+      },
+      {
+        "letter": "B",
+        "text": "Cozimento."
+      },
+      {
+        "letter": "C",
+        "text": "Prensagem."
+      },
+      {
+        "letter": "D",
+        "text": "Extração."
+      },
+      {
+        "letter": "E",
+        "text": "Destilação."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Trituração, cozimento e prensagem são processos mecânicos ou térmicos. A destilação separa por diferença de ponto de ebulição. Já a extração com hexano se apoia exclusivamente na polaridade: o hexano é apolar e dissolve os triglicerídeos, também apolares, deixando para trás os componentes polares da massa vegetal — o princípio de que semelhante dissolve semelhante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q104",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 104,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "O dióxido de carbono passa para o estado sólido (gelo seco) a −78 °C e retorna ao estado gasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e não conduz eletricidade. Ele é utilizado como matéria-prima para a fotossíntese até o limite de saturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu excesso causa perturbações no equilíbrio ambiental. Considerando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução do potencial hidrogeniônico da água."
+      },
+      {
+        "letter": "B",
+        "text": "restrição da aerobiose pelo excesso de poluentes."
+      },
+      {
+        "letter": "C",
+        "text": "diminuição da emissão de oxigênio pelos autótrofos."
+      },
+      {
+        "letter": "D",
+        "text": "limitação de transferência de energia entre os seres vivos."
+      },
+      {
+        "letter": "E",
+        "text": "retração dos oceanos pelo congelamento do gás nos polos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto lembra que o CO2 é facilmente solubilizado em água. Dissolvido, ele reage formando ácido carbônico, que se ioniza e libera H+: CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3−. Mais CO2 atmosférico significa mais H+ na água e, portanto, pH menor — a acidificação dos oceanos, que dificulta a formação das conchas e dos esqueletos calcários dos organismos marinhos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q105",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 105,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação. Para flutuar, essas aves precisam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recuperar o tônus muscular."
+      },
+      {
+        "letter": "B",
+        "text": "restaurar a massa corporal."
+      },
+      {
+        "letter": "C",
+        "text": "substituir as penas danificadas."
+      },
+      {
+        "letter": "D",
+        "text": "restabelecer a capacidade de homeotermia."
+      },
+      {
+        "letter": "E",
+        "text": "refazer a camada de cera impermeabilizante das penas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As aves aquáticas flutuam porque suas penas mantêm uma camada de ar aprisionada, e isso só funciona enquanto elas estão impermeabilizadas pela secreção oleosa da glândula uropigiana. A lavagem com detergente, necessária para retirar o petróleo, remove também essa camada. Enquanto a ave não a refizer espalhando a secreção com o bico, a água encharca as penas e ela afunda.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q109",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 109,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30 m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar a profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360 m s-1. Se a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que será medida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "137 Hz."
+      },
+      {
+        "letter": "B",
+        "text": "138 Hz."
+      },
+      {
+        "letter": "C",
+        "text": "141 Hz."
+      },
+      {
+        "letter": "D",
+        "text": "144 Hz."
+      },
+      {
+        "letter": "E",
+        "text": "159 Hz."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A cavidade se comporta como um tubo fechado numa extremidade, cujas frequências de ressonância são f = n·v/(4L), com n ímpar. Para L = 30 m e v = 360 m/s, v/(4L) = 360/120 = 3 Hz. Assim as ressonâncias são múltiplos ímpares de 3 Hz, e 135 = 45 × 3 corresponde a n = 45. A ressonância seguinte é n = 47, ou seja, 47 × 3 = 141 Hz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q110",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 110,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus.\n\nOLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013. A técnica para gerar essa leguminosa é um exemplo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hibridismo."
+      },
+      {
+        "letter": "B",
+        "text": "transgenia."
+      },
+      {
+        "letter": "C",
+        "text": "conjugação."
+      },
+      {
+        "letter": "D",
+        "text": "terapia gênica."
+      },
+      {
+        "letter": "E",
+        "text": "melhoramento genético."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Inserir no genoma da soja um gene de outra espécie, para que a planta produza a cianovirina-N, é exatamente a definição de transgenia: a criação de um organismo geneticamente modificado que expressa um gene exógeno. O melhoramento genético clássico trabalha por cruzamentos dentro do pool gênico da espécie, e terapia gênica se aplica ao tratamento de indivíduos doentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q111",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 111,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre.\n\nBRUNNING, A. The Chemistry of Firework Pollution.\n\nDisponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).\n\nEsses espetáculos promovem riscos ambientais, porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as substâncias resultantes da queima de fogos de artifício são inflamáveis."
+      },
+      {
+        "letter": "B",
+        "text": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos."
+      },
+      {
+        "letter": "C",
+        "text": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima."
+      },
+      {
+        "letter": "D",
+        "text": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica."
+      },
+      {
+        "letter": "E",
+        "text": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A lista de resíduos inclui bário, chumbo, antimônio e cromo — metais pesados, tóxicos e cumulativos — além de dióxidos de nitrogênio e de enxofre, gases irritantes que também originam chuva ácida. Todo esse material fica em suspensão no ar como material particulado. O risco ambiental vem, portanto, da poluição atmosférica por metais pesados e gases tóxicos, e não de os resíduos permanecerem explosivos (B).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q112",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 112,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível.\n\nOLIVEIRA, A. Raios nas tempestades de verão.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado).\n\nQual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Isolamento elétrico dos pneus."
+      },
+      {
+        "letter": "B",
+        "text": "Efeito de para-raios da antena."
+      },
+      {
+        "letter": "C",
+        "text": "Blindagem pela carcaça metálica."
+      },
+      {
+        "letter": "D",
+        "text": "Escoamento da água pela lataria."
+      },
+      {
+        "letter": "E",
+        "text": "Aterramento pelo fio terra da bateria."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A carcaça metálica do automóvel funciona como uma gaiola de Faraday: as cargas do raio se distribuem pela superfície externa do condutor e o campo elétrico no interior permanece nulo. A corrente escoa pela lataria até o solo sem atravessar o compartimento dos passageiros. Não são os pneus que protegem — a tensão de um raio vence facilmente a isolação da borracha.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q119",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 119,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Em seu laboratório, um técnico em química foi incumbido de tratar um resíduo, evitando seu descarte direto no meio ambiente. Ao encontrar o frasco, observou a seguinte informação: “ Resíduo: mistura de acetato de etila e água ”. Considere os dados do acetato de etila: • Baixa solubilidade em água; • Massa específica = 0,9 g cm−3; • Temperatura de fusão = −83 °C; • Pressão de vapor maior que a da água. A fim de tratar o resíduo, recuperando o acetato de etila, o técnico deve",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "evaporar o acetato de etila sem alterar o conteúdo de água."
+      },
+      {
+        "letter": "B",
+        "text": "filtrar a mistura utilizando um funil comum e um papel de filtro."
+      },
+      {
+        "letter": "C",
+        "text": "realizar uma destilação simples para separar a água do acetato de etila."
+      },
+      {
+        "letter": "D",
+        "text": "proceder a uma centrifugação da mistura para remover o acetato de etila."
+      },
+      {
+        "letter": "E",
+        "text": "decantar a mistura separando os dois componentes em um funil adequado."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Acetato de etila e água têm baixa solubilidade mútua e densidades diferentes (0,9 contra 1,0 g/cm³), de modo que formam duas fases líquidas imiscíveis, com o éster por cima. A separação adequada é a decantação em funil de separação, que simplesmente escoa a fase inferior. Filtração serve para sólidos, e a destilação seria desnecessária e mais dispendiosa para líquidos que já se separam sozinhos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q120",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 120,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro. Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade."
+      },
+      {
+        "letter": "B",
+        "text": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais."
+      },
+      {
+        "letter": "C",
+        "text": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada."
+      },
+      {
+        "letter": "D",
+        "text": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera."
+      },
+      {
+        "letter": "E",
+        "text": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os hidrocarbonetos do petróleo são apolares e, portanto, praticamente insolúveis em água; além disso, sua densidade é menor que a da água do mar. O resultado é uma película que se espalha sobre a superfície e bloqueia tanto a entrada de oxigênio quanto a passagem de luz, sufocando os organismos e interrompendo a fotossíntese do fitoplâncton. A alternativa C erra ao supor dissolução.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q121",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 121,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Uma população encontra-se em equilíbrio genético quanto ao sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e 16%, ao grupo A homozigotos. Considerando que: p = frequência de IA; q = frequência de IB; e r = frequência de i, espera-se encontrar: Grupo Genótipos Frequências A IAIA e IAi p2 + 2pr B IBIB e IBi q2 + 2qr AB IAIB 2pq O ii r2 A porcentagem de doadores compatíveis para alguém do grupo B nessa população deve ser de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "11%."
+      },
+      {
+        "letter": "B",
+        "text": "19%."
+      },
+      {
+        "letter": "C",
+        "text": "26%."
+      },
+      {
+        "letter": "D",
+        "text": "36%."
+      },
+      {
+        "letter": "E",
+        "text": "60%."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Do grupo O: r² = 0,25, logo r = 0,5. Do grupo A homozigoto: p² = 0,16, logo p = 0,4. Então q = 1 − 0,5 − 0,4 = 0,1. Quem é do grupo B pode receber sangue B ou O. Frequência de B: q² + 2qr = 0,01 + 2(0,1)(0,5) = 0,11; frequência de O: r² = 0,25. Somando: 0,11 + 0,25 = 0,36, ou seja, 36% da população.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q123",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 123,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Química Ambiental"
+    ],
+    "statement": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura. Policloreto de vinila (PVC) Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico. Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "H2"
+      },
+      {
+        "letter": "B",
+        "text": "Cl2"
+      },
+      {
+        "letter": "C",
+        "text": "CO"
+      },
+      {
+        "letter": "D",
+        "text": "CO2"
+      },
+      {
+        "letter": "E",
+        "text": "HCl"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As pistas se somam: o gás é diatômico e heteronuclear (dois átomos diferentes), tornou ácida uma solução alcalina com indicador e deslocou CO2 do carbonato de sódio — comportamento de ácido forte. O PVC é o poli(cloreto de vinila), e sua decomposição térmica libera justamente cloreto de hidrogênio, HCl. O Cl2 é homonuclear, e CO e CO2 não deslocariam CO2 de um carbonato.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q125",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 125,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "DAVIS, J.\n\nDisponível em: http://garfield.com. Acesso em: 10 fev. 2015.\n\nPor qual motivo ocorre a eletrização ilustrada na tirinha?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Troca de átomos entre a calça e os pelos do gato."
+      },
+      {
+        "letter": "B",
+        "text": "Diminuição do número de prótons nos pelos do gato."
+      },
+      {
+        "letter": "C",
+        "text": "Criação de novas partículas eletrizadas nos pelos do gato."
+      },
+      {
+        "letter": "D",
+        "text": "Movimentação de elétrons entre a calça e os pelos do gato."
+      },
+      {
+        "letter": "E",
+        "text": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A eletrização por atrito não cria nem destrói cargas e não altera o número de prótons dos núcleos: o que ocorre é a transferência de elétrons de um material para o outro, conforme a afinidade de cada um por essas partículas. Um dos corpos fica com excesso de elétrons (carga negativa) e o outro, com falta (carga positiva) — daí os pelos eriçados da tirinha.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q126",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 126,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental",
+      "Química Orgânica"
+    ],
+    "statement": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis. Esses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "não são tóxicos."
+      },
+      {
+        "letter": "B",
+        "text": "não precisam ser reciclados."
+      },
+      {
+        "letter": "C",
+        "text": "não causam poluição ambiental quando descartados."
+      },
+      {
+        "letter": "D",
+        "text": "são degradados em um tempo bastante menor que os convencionais."
+      },
+      {
+        "letter": "E",
+        "text": "apresentam propriedades mecânicas semelhantes aos convencionais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Polímeros biodegradáveis também são materiais e também podem poluir se descartados de forma inadequada — o que elimina C. A diferença está no tempo: microrganismos conseguem quebrar suas cadeias em meses ou poucos anos, enquanto os convencionais permanecem no ambiente por séculos. É essa degradação muito mais rápida que traz a vantagem socioambiental.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q127",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 127,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Evolução"
+    ],
+    "statement": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundadas por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais. Uma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "formação de micro-hábitats."
+      },
+      {
+        "letter": "B",
+        "text": "ampliação do efeito de borda."
+      },
+      {
+        "letter": "C",
+        "text": "construção de corredores ecológicos."
+      },
+      {
+        "letter": "D",
+        "text": "promoção da sucessão ecológica."
+      },
+      {
+        "letter": "E",
+        "text": "introdução de novas espécies de animais e vegetais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O problema descrito é o isolamento: populações pequenas em fragmentos separados perdem variabilidade genética e acabam se extinguindo mesmo sem caça. Os corredores ecológicos religam os fragmentos por faixas de vegetação, permitindo que os animais transitem, encontrem parceiros e recolonizem áreas. Ampliar o efeito de borda (B) e introduzir espécies exóticas (E) agravariam o quadro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q128",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 128,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A sacarase (ou invertase) é uma enzima que atua no intestino humano hidrolisando o dissacarídeo sacarose nos monossacarídeos glicose e frutose. Em um estudo cinético da reação de hidrólise da sacarose (C12H22O11), foram dissolvidos 171 g de sacarose em 500 mL de água. Observou-se que, a cada 100 minutos de reação, a concentração de sacarose foi reduzida à metade, qualquer que fosse o momento escolhido como tempo inicial. As massas molares dos elementos H, C e O são iguais a 1, 12 e 16 g mol−1, respectivamente. Qual é a concentração de sacarose depois de 400 minutos do início da reação de hidrólise?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,50 × 10−3 mol L−1"
+      },
+      {
+        "letter": "B",
+        "text": "6,25 × 10−2 mol L−1"
+      },
+      {
+        "letter": "C",
+        "text": "1,25 × 10−1 mol L−1"
+      },
+      {
+        "letter": "D",
+        "text": "2,50 × 10−1 mol L−1"
+      },
+      {
+        "letter": "E",
+        "text": "4,27 × 10−1 mol L−1"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A massa molar da sacarose é 12×12 + 22×1 + 11×16 = 342 g/mol, logo 171 g correspondem a 0,5 mol. Em 0,5 L, a concentração inicial é 1,0 mol/L. A redução à metade a cada 100 minutos, independentemente do instante escolhido, caracteriza cinética de primeira ordem com meia-vida de 100 min. Em 400 minutos passam-se 4 meias-vidas: 1,0/2⁴ = 0,0625 = 6,25 × 10⁻² mol/L.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q129",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 129,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos. A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito."
+      },
+      {
+        "letter": "B",
+        "text": "nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre."
+      },
+      {
+        "letter": "C",
+        "text": "carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho."
+      },
+      {
+        "letter": "D",
+        "text": "carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos."
+      },
+      {
+        "letter": "E",
+        "text": "fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O petróleo do pré-sal é carbono que ficou retirado do ciclo por 150 milhões de anos, armazenado sob camadas de sedimento e sal. Ao ser extraído e queimado, esse carbono retorna de uma só vez à atmosfera como CO2, num ritmo incomparavelmente mais rápido que o de qualquer processo natural. É esse acréscimo súbito ao reservatório atmosférico que desequilibra o ciclo do carbono.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q130",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 130,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas. Nessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador."
+      },
+      {
+        "letter": "B",
+        "text": "fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado."
+      },
+      {
+        "letter": "C",
+        "text": "intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos."
+      },
+      {
+        "letter": "D",
+        "text": "rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular."
+      },
+      {
+        "letter": "E",
+        "text": "resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Pela lei de Faraday, a força eletromotriz induzida é igual à taxa de variação do fluxo magnético: ε = −ΔΦ/Δt. Aumentar a ddp sem alterar bobinas nem ímã significa fazer o fluxo variar mais depressa, ou seja, girar o rotor com maior velocidade angular. Um aumento inesperado da tensão indica, portanto, que o gerador acelerou.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q131",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 131,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica",
+      "Ondulatória"
+    ],
+    "statement": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento.\n\nReproduzindo o experimento, um estudante posiciona lado a lado, no interior de uma caixa de material isolante térmico e opaco, cinco recipientes idênticos com água, identificados por A, B, C, D e E. A luz solar entra na caixa, atravessa um prisma e se decompõe, incidindo sobre os recipientes: o recipiente A fica na extremidade correspondente ao vermelho do espectro e o recipiente E, na extremidade correspondente ao violeta. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.\n\nEm qual dos recipientes a água terá maior temperatura ao final do experimento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A"
+      },
+      {
+        "letter": "B",
+        "text": "B"
+      },
+      {
+        "letter": "C",
+        "text": "C"
+      },
+      {
+        "letter": "D",
+        "text": "D"
+      },
+      {
+        "letter": "E",
+        "text": "E"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O prisma dispersa a luz solar e, no arranjo descrito, o recipiente A fica na extremidade vermelha do espectro. Foi exatamente aí que Herschel encontrou o maior aquecimento — e mesmo um pouco além, onde não há luz visível, porque a radiação infravermelha, invisível, também incide nessa região e transporta energia. A extremidade violeta, no outro extremo, aquece menos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q132",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 132,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Ambiental"
+    ],
+    "statement": "A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia. O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A + B + C → D (a reação ocorre a altas pressões)."
+      },
+      {
+        "letter": "B",
+        "text": "A + B → C + D (a reação é fortemente endotérmica)."
+      },
+      {
+        "letter": "C",
+        "text": "A + 3B → C (a reação ocorre com uso de solvente orgânico)."
+      },
+      {
+        "letter": "D",
+        "text": "3A + 2B → 2C → 3D + 2E (a reação ocorrre sob pressão atmosférica)."
+      },
+      {
+        "letter": "E",
+        "text": "A + 1 − 2 B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A alternativa E é a única que reúne os princípios citados: um único produto (sem coprodutos), condições brandas e um catalisador de metal não tóxico, que acelera a reação e reduz o consumo de energia. As demais violam algum ponto — altas pressões em A, forte demanda energética em B, solvente orgânico agressivo em C, e etapas intermediárias com formação de coprodutos em D.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q133",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 133,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia. O não atendimento dessa recomendação resulta em aumento do consumo de energia porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o fluxo de calor por condução no condensador sofre considerável redução."
+      },
+      {
+        "letter": "B",
+        "text": "a temperatura da substância refrigerante no condensador diminui mais rapidamente."
+      },
+      {
+        "letter": "C",
+        "text": "o fluxo de calor promove significativa elevação da temperatura no interior do refrigerador."
+      },
+      {
+        "letter": "D",
+        "text": "a liquefação da substância refrigerante no condensador exige mais trabalho do compressor."
+      },
+      {
+        "letter": "E",
+        "text": "as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O condensador, na parte traseira do refrigerador, precisa entregar ao ambiente o calor retirado do interior, e é aí que o fluido refrigerante se liquefaz. Se o ar ao redor está quente, essa troca fica dificultada e o fluido tem mais dificuldade para condensar; o compressor precisa então trabalhar por mais tempo e com maior pressão, o que eleva o consumo de energia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q135",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 135,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real). Considere que a torre real tenha uma massa M torre e exerça na fundação sobre a qual foi erguida uma pressão P torre . O modelo construído pelo arquiteto terá uma massa M modelo e exercerá uma pressão P modelo . Como a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (P torre )/(P modelo ) ?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100"
+      },
+      {
+        "letter": "B",
+        "text": "101"
+      },
+      {
+        "letter": "C",
+        "text": "102"
+      },
+      {
+        "letter": "D",
+        "text": "104"
+      },
+      {
+        "letter": "E",
+        "text": "106"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A pressão na fundação é P = Mg/A. Reduzindo todas as dimensões lineares por 100, a massa (proporcional ao volume) cai por 100³ = 10⁶, e a área de apoio cai por 100² = 10⁴. A pressão fica, portanto, dividida por 10⁶/10⁴ = 10². Logo P_torre/P_modelo = 100 = 10².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q139",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 139,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Funções"
+    ],
+    "statement": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras: 2 h + b − 63,5 ≤ 1,5 e 16 ≤ h ≤ 19, nas quais h é a altura do degrau (denominada espelho) e b é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo h = 16. As unidades de h e b estão em centímetro. Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada ( b ) deve pertencer, para que as regras sejam satisfeitas é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30 ≤ b"
+      },
+      {
+        "letter": "B",
+        "text": "30 ≤ b ≤ 31,5"
+      },
+      {
+        "letter": "C",
+        "text": "30 ≤ b ≤ 33"
+      },
+      {
+        "letter": "D",
+        "text": "31,5 ≤ b ≤ 33"
+      },
+      {
+        "letter": "E",
+        "text": "b ≤ 33"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A regra é |2h + b − 63,5| ≤ 1,5. Com h = 16, tem-se 2h = 32, logo |b − 31,5| ≤ 1,5. Isso equivale a −1,5 ≤ b − 31,5 ≤ 1,5, ou seja, 30 ≤ b ≤ 33 centímetros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q140",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 140,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Funções"
+    ],
+    "statement": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo: • Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros; • Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível. Um veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “ X /100”. Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "X ∙ 100"
+      },
+      {
+        "letter": "B",
+        "text": "X 100"
+      },
+      {
+        "letter": "C",
+        "text": "100 X"
+      },
+      {
+        "letter": "D",
+        "text": "1 X"
+      },
+      {
+        "letter": "E",
+        "text": "1 ∙ X"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O computador do tipo A informa X litros para 100 km. O do tipo B informa quantos quilômetros se percorre com 1 litro, que é a razão inversa: 100 km divididos por X litros, isto é, 100/X.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q143",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 143,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e obtém, para cada um, o valor do saco de cimento, o valor do frete por quilômetro e a distância entre sua casa e o depósito:\n\nDepósito A — R$ 23,00 o saco — frete R$ 1,00 por km — 10 km\nDepósito B — R$ 21,50 o saco — frete R$ 3,00 por km — 12 km\nDepósito C — R$ 22,00 o saco — frete R$ 1,50 por km — 14 km\nDepósito D — R$ 21,00 o saco — frete R$ 3,50 por km — 18 km\nDepósito E — R$ 24,00 o saco — frete R$ 2,50 por km — 2 km\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.\n\nSe a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A."
+      },
+      {
+        "letter": "B",
+        "text": "B."
+      },
+      {
+        "letter": "C",
+        "text": "C."
+      },
+      {
+        "letter": "D",
+        "text": "D."
+      },
+      {
+        "letter": "E",
+        "text": "E."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O gasto é 15 vezes o preço do saco mais o frete pela distância. Depósito A: 15 × 23,00 + 10 × 1,00 = R$ 355,00. B: 15 × 21,50 + 12 × 3,00 = R$ 358,50. C: 15 × 22,00 + 14 × 1,50 = R$ 351,00. D: 15 × 21,00 + 18 × 3,50 = R$ 378,00. E: 15 × 24,00 + 2 × 2,50 = R$ 365,00. O menor total é o do depósito C.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q146",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 146,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n• seguir num ônibus, percorrendo 2,0 km;\n• alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade:\n\nSegunda-feira — ônibus 9 — bicicleta 15\nTerça-feira — ônibus 20 — bicicleta 22\nQuarta-feira — ônibus 15 — bicicleta 24\nQuinta-feira — ônibus 12 — bicicleta 15\nSexta-feira — ônibus 10 — bicicleta 18\nSábado — ônibus 30 — bicicleta 16\n\nA fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Às segundas, quintas e sextas-feiras."
+      },
+      {
+        "letter": "B",
+        "text": "Às terças e quintas-feiras e aos sábados."
+      },
+      {
+        "letter": "C",
+        "text": "Às segundas, quartas e sextas-feiras."
+      },
+      {
+        "letter": "D",
+        "text": "Às terças, quartas e sextas-feiras."
+      },
+      {
+        "letter": "E",
+        "text": "Às terças e quartas-feiras e aos sábados."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O tempo é distância dividida por velocidade: 2,0/v_ônibus contra 3,0/v_bicicleta. A bicicleta compensa quando 3/v_b < 2/v_o, ou seja, quando v_b/v_o > 1,5. Segunda: 15/9 ≈ 1,67 (compensa). Terça: 22/20 = 1,1 (não). Quarta: 24/15 = 1,6 (compensa). Quinta: 15/12 = 1,25 (não). Sexta: 18/10 = 1,8 (compensa). Sábado: 16/30 ≈ 0,53 (não). Logo, às segundas, quartas e sextas-feiras.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q147",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 147,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada. A escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro. Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 × 10 − 1"
+      },
+      {
+        "letter": "B",
+        "text": "1,0 × 10 − 3"
+      },
+      {
+        "letter": "C",
+        "text": "1,0 × 10 − 4"
+      },
+      {
+        "letter": "D",
+        "text": "1,0 × 10 − 6"
+      },
+      {
+        "letter": "E",
+        "text": "1,0 × 10 − 7"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Um micrômetro é 10⁻⁶ metro, de modo que 100 micrômetros valem 100 × 10⁻⁶ = 10² × 10⁻⁶ = 10⁻⁴ metro, isto é, 1,0 × 10⁻⁴ m.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q148",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 148,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. Segundo essa lei, o retângulo da bandeira mede 14 módulos de largura por 20 módulos de comprimento, e o círculo azul, centrado no losango amarelo, tem raio igual a 3,5 módulos.\n\nUm torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm × 150 cm) e amarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.\n\nQual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "27"
+      },
+      {
+        "letter": "B",
+        "text": "32"
+      },
+      {
+        "letter": "C",
+        "text": "53"
+      },
+      {
+        "letter": "D",
+        "text": "63"
+      },
+      {
+        "letter": "E",
+        "text": "90"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Lei 5.700 fixa a bandeira em 14 módulos de largura por 20 de comprimento, com o círculo azul de raio igual a 3,5 módulos. Do tecido verde de 180 cm por 150 cm, o módulo é limitado pelo comprimento: 180/20 = 9 cm (pela largura seria 150/14 ≈ 10,7 cm, o que exigiria 214 cm de comprimento). Com o módulo de 9 cm, o raio do círculo é 3,5 × 9 = 31,5 cm e o diâmetro, 63 cm — logo o quadrado azul precisa ter 63 cm de lado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q150",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 150,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm. Dado: 1 dm³ = 1 L. A escala usada pelo arquiteto foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 : 10"
+      },
+      {
+        "letter": "B",
+        "text": "1 : 100"
+      },
+      {
+        "letter": "C",
+        "text": "1 : 1 000"
+      },
+      {
+        "letter": "D",
+        "text": "1 : 10 000"
+      },
+      {
+        "letter": "E",
+        "text": "1 : 100 000"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O volume real é 28 080 L = 28 080 dm³ = 28,08 m³, e o da maquete é 2 × 3,51 × 4 = 28,08 cm³. A razão entre os volumes é 28,08 m³ / 28,08 cm³ = 10⁶, pois 1 m³ = 10⁶ cm³. Como o volume varia com o cubo da escala linear, a escala é a raiz cúbica de 10⁶, ou seja, 100 — isto é, 1 : 100.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q153",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 153,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo. Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "160"
+      },
+      {
+        "letter": "B",
+        "text": "157"
+      },
+      {
+        "letter": "C",
+        "text": "130"
+      },
+      {
+        "letter": "D",
+        "text": "120"
+      },
+      {
+        "letter": "E",
+        "text": "60"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Contam-se as ocorrências do algarismo 2 de 100 a 399. Na casa das centenas, ele aparece em todos os números de 200 a 299: 100 vezes. Na casa das dezenas, aparece em 120-129, 220-229 e 320-329: 3 × 10 = 30 vezes. Na casa das unidades, aparece uma vez a cada dez números, em cada centena: 3 × 10 = 30 vezes. Total: 100 + 30 + 30 = 160 peças.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q155",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 155,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico. 21,6 13,6 45,2 19,6 Jovens em atividade entre 15 e 29 anos (%) Somente estuda Trabalha e estuda Somente trabalha Não trabalha nem estuda\n\nDisponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014.\n\nDe acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "114 708."
+      },
+      {
+        "letter": "B",
+        "text": "164 076."
+      },
+      {
+        "letter": "C",
+        "text": "213 444."
+      },
+      {
+        "letter": "D",
+        "text": "284 592."
+      },
+      {
+        "letter": "E",
+        "text": "291 582."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Trabalham os que só trabalham (45,2%) e os que trabalham e estudam (13,6%), somando 58,8%. Aplicando esse percentual aos 363 000 entrevistados: 0,588 × 363 000 = 213 444 jovens.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q156",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 156,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência ( f ) de uma palavra em um dado texto com o seu ranking ( r ). Ela é dada por f = A r B . O ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas. Diponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado). Com base nos valores de X = log ( r ) e Y = log ( f ), é possível estimar valores para A e B . No caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Y = log A − B X"
+      },
+      {
+        "letter": "B",
+        "text": "Y = log A X + log B"
+      },
+      {
+        "letter": "C",
+        "text": "Y = A B − X log"
+      },
+      {
+        "letter": "D",
+        "text": "Y = A B X log"
+      },
+      {
+        "letter": "E",
+        "text": "Y = A X B log"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A lei de Zipf tem a forma f = A·r^(−B). Aplicando logaritmo aos dois lados: log f = log A + log(r^(−B)) = log A − B·log r. Como Y = log f e X = log r, obtém-se Y = log A − B·X — uma reta de coeficiente angular −B e coeficiente linear log A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q157",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 157,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo, caindo à metade a cada meia-vida. Sendo Q(t) a quantidade de carbono 14 restante no fóssil e Q0 a quantidade de carbono 14 no ser vivo correspondente, quanto menor a razão Q(t)/Q0, mais antigo é o fóssil.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediu a quantidade de carbono 14 neles existente:\n\nFóssil 1 — Q0 = 128 — Q(t) = 32\nFóssil 2 — Q0 = 256 — Q(t) = 8\nFóssil 3 — Q0 = 512 — Q(t) = 64\nFóssil 4 — Q0 = 1 024 — Q(t) = 512\nFóssil 5 — Q0 = 2 048 — Q(t) = 128\n\nO fóssil mais antigo encontrado nessa expedição foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      },
+      {
+        "letter": "E",
+        "text": "5."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Quanto menor a fração Q(t)/Q0 restante, mais meias-vidas se passaram e mais antigo é o fóssil. Fóssil 1: 32/128 = 1/4. Fóssil 2: 8/256 = 1/32. Fóssil 3: 64/512 = 1/8. Fóssil 4: 512/1 024 = 1/2. Fóssil 5: 128/2 048 = 1/16. A menor fração é a do fóssil 2, que já passou por cinco meias-vidas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q158",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 158,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada. As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2 quadrados e 4 retângulos."
+      },
+      {
+        "letter": "B",
+        "text": "1 retângulo e 4 triângulos isósceles."
+      },
+      {
+        "letter": "C",
+        "text": "2 quadrados e 4 trapézios isósceles."
+      },
+      {
+        "letter": "D",
+        "text": "1 quadrado, 3 retângulos e 2 trapézios retângulos."
+      },
+      {
+        "letter": "E",
+        "text": "2 retângulos, 2 quadrados e 2 trapézios retângulos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Um tronco de pirâmide reta de base quadrada tem duas faces paralelas quadradas — a base maior e a menor — e quatro faces laterais. Cada face lateral é o que resta de um triângulo isósceles depois de cortado o topo por um plano paralelo à base: um trapézio isósceles. Logo, 2 quadrados e 4 trapézios isósceles.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q161",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 161,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado.\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado).\n\nNessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4 301"
+      },
+      {
+        "letter": "B",
+        "text": "1 500"
+      },
+      {
+        "letter": "C",
+        "text": "930"
+      },
+      {
+        "letter": "D",
+        "text": "267"
+      },
+      {
+        "letter": "E",
+        "text": "93"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A massa de cada folha é a densidade superficial vezes a área: 75 g/m² × 0,062 m² = 4,65 g. Multiplicando pelas 20 mil folhas: 20 000 × 4,65 = 93 000 g, ou seja, 93 kg de papel por pé de eucalipto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q162",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 162,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação com clientes, avaliando três procedimentos com pesos diferentes. As notas dadas a cada uma das cinco empresas candidatas estão organizadas no quadro:\n\nRapidez no atendimento (peso 3) — X: 5; Y: 1; Z: 4; W: 3; T: 4\nClareza nas informações passadas aos clientes (peso 5) — X: 1; Y: 4; Z: 3; W: 3; T: 2\nCortesia no atendimento (peso 2) — X: 2; Y: 2; Z: 2; W: 3; T: 4\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.\n\nApós a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "X."
+      },
+      {
+        "letter": "B",
+        "text": "Y."
+      },
+      {
+        "letter": "C",
+        "text": "Z."
+      },
+      {
+        "letter": "D",
+        "text": "W."
+      },
+      {
+        "letter": "E",
+        "text": "T."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A média ponderada usa os pesos 3, 5 e 2, que somam 10. Empresa X: (3×5 + 5×1 + 2×2)/10 = 2,4. Y: (3×1 + 5×4 + 2×2)/10 = 2,7. Z: (3×4 + 5×3 + 2×2)/10 = 3,1. W: (3×3 + 5×3 + 2×3)/10 = 3,0. T: (3×4 + 5×2 + 2×4)/10 = 3,0. A maior média é a da empresa Z. Note que a nota mais alta em rapidez (empresa X) não compensa a nota baixa no item de maior peso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q163",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 163,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, prioridade na restituição do imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio. O grupo é o seguinte:\n\nOrlando, 89 anos; Gustavo, 86; Luana, 86; Teresa, 85; Márcia, 84; Roberto, 82; Heloisa, 75; Marisa, 75; Pedro, 75; João, 75; Antônio, 72; Fernanda, 70.\n\nNessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/12"
+      },
+      {
+        "letter": "B",
+        "text": "7/12"
+      },
+      {
+        "letter": "C",
+        "text": "1/8"
+      },
+      {
+        "letter": "D",
+        "text": "5/6"
+      },
+      {
+        "letter": "E",
+        "text": "1/4"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Pela ordem decrescente de idade, as seis primeiras posições estão determinadas: Orlando (89), Gustavo e Luana (86, em alguma ordem), Teresa (85), Márcia (84) e Roberto (82). As posições de 7 a 10 cabem aos quatro idosos de 75 anos — Heloisa, Marisa, Pedro e João —, e entre eles a ordem é sorteada. A chance de João ficar em primeiro lugar nesse subgrupo, ou seja, ser o sétimo do total, é 1/4.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q165",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 165,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por 5 × 10−2 mL de água. Quanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2 × 101"
+      },
+      {
+        "letter": "B",
+        "text": "1 × 101"
+      },
+      {
+        "letter": "C",
+        "text": "2 × 10−2"
+      },
+      {
+        "letter": "D",
+        "text": "1 × 10−2"
+      },
+      {
+        "letter": "E",
+        "text": "1 × 10−3"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Faltam 50% de 18 L, isto é, 9 L = 9 000 mL. Caem 5 gotas por segundo, e cada gota tem 5 × 10⁻² mL, de modo que a vazão é 5 × 5 × 10⁻² = 0,25 mL/s. O tempo é 9 000/0,25 = 36 000 s, que equivalem a 36 000/3 600 = 10 horas, ou 1 × 10¹ h.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q167",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 167,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. Os preços unitários, em real, são: perfume I, 200; perfume II, 170; perfume III, 150; perfume IV, 100; perfume V, 80.\n\nUm gráfico com a porcentagem da quantidade vendida de cada perfume no mês de novembro indica: perfume V, 32%; perfume IV, 29%; perfume III, 16%; perfume I, 13%; perfume II, 10%.\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.\n\nNessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como o estoque inicial era igual para os cinco perfumes, a arrecadação de cada um é proporcional ao produto do preço pela porcentagem vendida. Perfume I: 200 × 13 = 2 600. II: 170 × 10 = 1 700. III: 150 × 16 = 2 400. IV: 100 × 29 = 2 900. V: 80 × 32 = 2 560. O maior produto é o do perfume IV — o mais vendido em quantidade (V) não é o que mais arrecada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q168",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 168,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "R 2"
+      },
+      {
+        "letter": "B",
+        "text": "2 R"
+      },
+      {
+        "letter": "C",
+        "text": "4 R"
+      },
+      {
+        "letter": "D",
+        "text": "5 R"
+      },
+      {
+        "letter": "E",
+        "text": "16 R"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Igualando os volumes dos dois cilindros: πR²h = πr²(0,25h). Cancelando π e h: R² = 0,25r², ou seja, r² = 4R² e r = 2R. Reduzir a altura a um quarto exige dobrar o raio, já que o volume depende do quadrado do raio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q170",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 170,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”. Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras.\n\nNessas condições, o número de anagramas formados é dado por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9!"
+      },
+      {
+        "letter": "B",
+        "text": "4! · 5!"
+      },
+      {
+        "letter": "C",
+        "text": "2 · 4! · 5!"
+      },
+      {
+        "letter": "D",
+        "text": "9!/2"
+      },
+      {
+        "letter": "E",
+        "text": "4! · 5!/2"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A frase “I AM POTTER” tem 9 letras: 4 vogais (I, A, O, E) e 5 consoantes (M, P, T, T, R). Para alternar vogais e consoantes com 9 posições, a única disposição possível é começar e terminar por consoante: C V C V C V C V C. As consoantes podem ser permutadas de 5!/2! maneiras (o T se repete) e as vogais, de 4!. O total é (5!/2!) × 4! = 4!·5!/2.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q174",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 174,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho. Internet Mensalidade escolar Mesada do filho 120 700 400 No início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho. Qual será a porcentagem da redução da mesada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15,0"
+      },
+      {
+        "letter": "B",
+        "text": "23,5"
+      },
+      {
+        "letter": "C",
+        "text": "30,0"
+      },
+      {
+        "letter": "D",
+        "text": "70,0"
+      },
+      {
+        "letter": "E",
+        "text": "76,5"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A internet passa de 120 para 120 × 1,2 = R$ 144,00, um acréscimo de R$ 24,00; a mensalidade, de 700 para 700 × 1,1 = R$ 770,00, mais R$ 70,00. O aumento total é de R$ 94,00, que precisa sair da mesada. A redução é, portanto, 94/400 = 0,235, ou seja, 23,5%.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q175",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 175,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Num recipiente com a forma de paralelepípedo reto-retângulo, cuja base mede 4 cm por 3 cm e cuja altura é de 17 cm, colocou-se água até a altura de 8 cm e um objeto, que ficou flutuando na superfície da água. Para retirar o objeto de dentro do recipiente, a altura da coluna de água deve ser de, pelo menos, 15 cm. Para a coluna de água chegar até essa altura, é necessário colocar dentro do recipiente bolinhas de volume igual a 6 cm³ cada, que ficarão totalmente submersas.\n\nO número mínimo de bolinhas necessárias para que se possa retirar o objeto que flutua na água, seguindo as instruções dadas, é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "14."
+      },
+      {
+        "letter": "B",
+        "text": "16."
+      },
+      {
+        "letter": "C",
+        "text": "18."
+      },
+      {
+        "letter": "D",
+        "text": "30."
+      },
+      {
+        "letter": "E",
+        "text": "34."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A base do recipiente mede 4 cm por 3 cm, ou seja, 12 cm². Para elevar a água de 8 cm para 15 cm é preciso ganhar 7 cm de altura, o que corresponde a 12 × 7 = 84 cm³. Como cada bolinha submersa desloca 6 cm³, são necessárias 84/6 = 14 bolinhas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q176",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 176,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são: • Tipo A: apenas o antígeno A está presente; • Tipo B: apenas o antígeno B está presente; • Tipo AB: ambos os antígenos estão presentes; • Tipo O: nenhum dos antígenos está presente.\n\nDisponível em: http://saude.hsw.uol.com.br. Acesso em: 15 abr. 2012 (adaptado).\n\nForam coletadas amostras de sangue de 200 pessoas e, após análise laboratorial, foi identificado que em 100 amostras está presente o antígeno A, em 110 amostras há presença do antígeno B e em 20 amostras nenhum dos antígenos está presente. Dessas pessoas que foram submetidas à coleta de sangue, o número das que possuem o tipo sanguíneo A é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30."
+      },
+      {
+        "letter": "B",
+        "text": "60."
+      },
+      {
+        "letter": "C",
+        "text": "70."
+      },
+      {
+        "letter": "D",
+        "text": "90."
+      },
+      {
+        "letter": "E",
+        "text": "100."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Das 200 amostras, 20 não têm nenhum antígeno (tipo O), logo 180 têm ao menos um. Somando os que têm A (100) e os que têm B (110) obtém-se 210, que excede 180 em 30 — e esse excesso é justamente o número de amostras contadas duas vezes, isto é, as do tipo AB. Assim, o tipo A puro corresponde a 100 − 30 = 70 pessoas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2020-q177",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 177,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Álgebra"
+    ],
+    "statement": "Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios.\n\nA fração do capital de cada sócio que Antônio deverá adquirir é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/2"
+      },
+      {
+        "letter": "B",
+        "text": "1/3"
+      },
+      {
+        "letter": "C",
+        "text": "1/9"
+      },
+      {
+        "letter": "D",
+        "text": "2/3"
+      },
+      {
+        "letter": "E",
+        "text": "4/3"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O capital vale 4 + 6 + 6 = 16 partes, e a divisão igualitária daria 16/3 partes a cada sócio. Antônio precisa adquirir 16/3 − 4 = 4/3 de parte, metade de cada um dos outros dois: 2/3 de parte de cada. Como cada um deles possui 6 partes, a fração adquirida do capital de cada sócio é (2/3)/6 = 1/9.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
     "id": "enem-2021-q01",
     "exam": "enem",
     "year": 2021,
