@@ -1369,6 +1369,1878 @@
     }
   },
   {
+    "id": "uerj-2021-q01",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 1,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Texto base - MORRO VELHO (Milton Nascimento)\n\nNo sertão da minha terra,\nfazenda é o camarada que ao chão se deu.\nFez a obrigação com força,\nparece até que tudo aquilo ali é seu.\nSó poder sentar no morro e ver tudo verdinho, lindo a crescer.\nOrgulhoso camarada, de viola em vez de enxada.\nFilho do branco e do preto,\ncorrendo pela estrada atrás de passarinho.\nPela plantação adentro,\ncrescendo os dois meninos, sempre pequeninos.\nPeixe bom dá no riacho de água tão limpinha, dá pro fundo ver.\nOrgulhoso camarada conta histórias pra moçada.\nFilho do sinhô vai embora,\ntempo de estudos na cidade grande.\nParte, tem os olhos tristes,\ndeixando o companheiro na estação distante.\n\"Não me esqueça, amigo, eu vou voltar.\"\nSome longe o trenzinho ao deus-dará.\nQuando volta já é outro,\ntrouxe até sinhá-mocinha para apresentar.\nLinda como a luz da lua\nque em lugar nenhum rebrilha como lá.\nJá tem nome de doutor\ne agora na fazenda é quem vai mandar.\nE seu velho camarada\njá não brinca, mas trabalha.\n\nMILTON NASCIMENTO. Adaptado de miltonnascimento.com.br.\n\nDe acordo com o Censo Agropecuário de 2017, quinze milhões de pessoas trabalham na agropecuária brasileira. A distribuição percentual dessa população por grau de escolaridade é a seguinte:\n\n- Ensino fundamental incompleto: 67,1%\n- Ensino fundamental completo ou ensino médio incompleto: 15,9%\n- Ensino médio completo ou ensino superior incompleto: 15,1%\n- Ensino superior completo: 1,9%\n\nFonte: IBGE - Pesquisa Nacional por Amostras de Domicílios Contínuas, 2012-2017.\n\nA partir desses dados, o número de trabalhadores com ensino fundamental incompleto, em milhões, é mais próximo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12"
+      },
+      {
+        "letter": "B",
+        "text": "10"
+      },
+      {
+        "letter": "C",
+        "text": "8"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Basta aplicar o percentual sobre o total: 67,1% de 15 milhões = 0,671 × 15 = 10,065 milhões. Entre os valores oferecidos, o mais próximo de 10,065 é 10. As demais opções ficam distantes: 12 milhões corresponderiam a 80% da população, e 8 milhões, a cerca de 53%.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q02",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - MORRO VELHO (Milton Nascimento)\n\nNo sertão da minha terra,\nfazenda é o camarada que ao chão se deu.\nFez a obrigação com força,\nparece até que tudo aquilo ali é seu.\nSó poder sentar no morro e ver tudo verdinho, lindo a crescer.\nOrgulhoso camarada, de viola em vez de enxada.\nFilho do branco e do preto,\ncorrendo pela estrada atrás de passarinho.\nPela plantação adentro,\ncrescendo os dois meninos, sempre pequeninos.\nPeixe bom dá no riacho de água tão limpinha, dá pro fundo ver.\nOrgulhoso camarada conta histórias pra moçada.\nFilho do sinhô vai embora,\ntempo de estudos na cidade grande.\nParte, tem os olhos tristes,\ndeixando o companheiro na estação distante.\n\"Não me esqueça, amigo, eu vou voltar.\"\nSome longe o trenzinho ao deus-dará.\nQuando volta já é outro,\ntrouxe até sinhá-mocinha para apresentar.\nLinda como a luz da lua\nque em lugar nenhum rebrilha como lá.\nJá tem nome de doutor\ne agora na fazenda é quem vai mandar.\nE seu velho camarada\njá não brinca, mas trabalha.\n\nMILTON NASCIMENTO. Adaptado de miltonnascimento.com.br.\n\n\"fazenda é o camarada que ao chão se deu.\" (v. 2)\n\nNo verso da canção de Milton Nascimento, o poeta apresenta uma definição da palavra \"fazenda\". Com base na primeira estrofe, essa definição destaca o seguinte elemento do contexto descrito:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "riqueza da propriedade"
+      },
+      {
+        "letter": "B",
+        "text": "expectativa de liberdade"
+      },
+      {
+        "letter": "C",
+        "text": "dedicação do trabalhador"
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de autonomia"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O verso desloca o sentido usual de \"fazenda\" (a propriedade, a terra) para a pessoa que nela trabalha: a fazenda \"é o camarada\". A primeira estrofe reforça essa leitura ao dizer que ele \"fez a obrigação com força\" e que \"parece até que tudo aquilo ali é seu\" - ou seja, o que define a fazenda é o empenho de quem se entrega ao trabalho, e não a posse. Por isso a definição destaca a dedicação do trabalhador. A riqueza da propriedade é justamente o que o verso desloca para segundo plano, e liberdade e autonomia não aparecem na estrofe: o \"parece até\" indica que a terra não lhe pertence.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q03",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 3,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Texto base - MORRO VELHO (Milton Nascimento)\n\nNo sertão da minha terra,\nfazenda é o camarada que ao chão se deu.\nFez a obrigação com força,\nparece até que tudo aquilo ali é seu.\nSó poder sentar no morro e ver tudo verdinho, lindo a crescer.\nOrgulhoso camarada, de viola em vez de enxada.\nFilho do branco e do preto,\ncorrendo pela estrada atrás de passarinho.\nPela plantação adentro,\ncrescendo os dois meninos, sempre pequeninos.\nPeixe bom dá no riacho de água tão limpinha, dá pro fundo ver.\nOrgulhoso camarada conta histórias pra moçada.\nFilho do sinhô vai embora,\ntempo de estudos na cidade grande.\nParte, tem os olhos tristes,\ndeixando o companheiro na estação distante.\n\"Não me esqueça, amigo, eu vou voltar.\"\nSome longe o trenzinho ao deus-dará.\nQuando volta já é outro,\ntrouxe até sinhá-mocinha para apresentar.\nLinda como a luz da lua\nque em lugar nenhum rebrilha como lá.\nJá tem nome de doutor\ne agora na fazenda é quem vai mandar.\nE seu velho camarada\njá não brinca, mas trabalha.\n\nMILTON NASCIMENTO. Adaptado de miltonnascimento.com.br.\n\nA história da casa-grande é íntima de quase todo brasileiro: de sua vida doméstica, conjugal, sob o patriarcalismo escravocrata e polígamo; da sua vida de menino. Nas casas-grandes foi até hoje onde melhor se exprimiu o caráter brasileiro, a nossa continuidade social.\nAdaptado de FREYRE, G. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. Rio de Janeiro: Record, 1995.\n\nPublicado em 1933, Casa-grande & senzala tornou-se livro de referência nas análises sobre patriarcalismo na sociedade brasileira. Na letra da canção Morro velho, aspectos das relações patriarcais são abordados, entre eles a \"continuidade social\", presente na seguinte passagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "No sertão da minha terra, / fazenda é o camarada que ao chão se deu. (v. 1-2)"
+      },
+      {
+        "letter": "B",
+        "text": "Orgulhoso camarada conta histórias pra moçada. (v. 14)"
+      },
+      {
+        "letter": "C",
+        "text": "Parte, tem os olhos tristes, / deixando o companheiro na estação distante. (v. 17-18)"
+      },
+      {
+        "letter": "D",
+        "text": "Já tem nome de doutor / e agora na fazenda é quem vai mandar. (v. 25-26)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "\"Continuidade social\", em Freyre, é a reprodução da mesma hierarquia patriarcal de uma geração para a seguinte. É exatamente o que os versos 25-26 mostram: o filho do \"sinhô\" volta formado e assume o comando da fazenda, ocupando o lugar do pai, enquanto o amigo de infância permanece na condição de trabalhador (\"já não brinca, mas trabalha\"). A estrutura de mando se repete intacta na geração seguinte. As demais passagens tratam da definição de fazenda (v. 1-2), da convivência da infância (v. 14) e da separação dos amigos (v. 17-18) - momentos do enredo, mas não da reprodução da hierarquia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q04",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 4,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Texto base - MORRO VELHO (Milton Nascimento)\n\nNo sertão da minha terra,\nfazenda é o camarada que ao chão se deu.\nFez a obrigação com força,\nparece até que tudo aquilo ali é seu.\nSó poder sentar no morro e ver tudo verdinho, lindo a crescer.\nOrgulhoso camarada, de viola em vez de enxada.\nFilho do branco e do preto,\ncorrendo pela estrada atrás de passarinho.\nPela plantação adentro,\ncrescendo os dois meninos, sempre pequeninos.\nPeixe bom dá no riacho de água tão limpinha, dá pro fundo ver.\nOrgulhoso camarada conta histórias pra moçada.\nFilho do sinhô vai embora,\ntempo de estudos na cidade grande.\nParte, tem os olhos tristes,\ndeixando o companheiro na estação distante.\n\"Não me esqueça, amigo, eu vou voltar.\"\nSome longe o trenzinho ao deus-dará.\nQuando volta já é outro,\ntrouxe até sinhá-mocinha para apresentar.\nLinda como a luz da lua\nque em lugar nenhum rebrilha como lá.\nJá tem nome de doutor\ne agora na fazenda é quem vai mandar.\nE seu velho camarada\njá não brinca, mas trabalha.\n\nMILTON NASCIMENTO. Adaptado de miltonnascimento.com.br.\n\nObserve os dados sobre o percentual da renda total do Brasil nas mãos de cada grupo de rendimentos (2017):\n\n| Região | 10% com maiores rendimentos | 40% a 90% com rendimentos intermediários | 40% com menores rendimentos |\n|---|---|---|---|\n| BRASIL | 43,1 | 44,7 | 12,3 |\n| Norte | 42,1 | 46,0 | 12,0 |\n| Nordeste | 44,4 | 44,1 | 11,5 |\n| Sudeste | 42,4 | 44,8 | 12,8 |\n| Sul | 38,7 | 47,5 | 13,9 |\n| Centro-Oeste | 44,1 | 43,9 | 12,0 |\n\nAdaptado de biblioteca.ibge.gov.br.\n\nNo texto, a situação vivenciada pelos dois amigos, ao ingressarem na vida adulta, retrata uma antiga realidade social brasileira, sobretudo no campo, que pode ser reconhecida nos dados indicados nos gráficos. As duas macrorregiões que possuíam, em 2017, o maior e o menor grau de concentração da riqueza, respectivamente, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Sul e Norte"
+      },
+      {
+        "letter": "B",
+        "text": "Nordeste e Sul"
+      },
+      {
+        "letter": "C",
+        "text": "Norte e Sudeste"
+      },
+      {
+        "letter": "D",
+        "text": "Sudeste e Nordeste"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O grau de concentração da riqueza é medido pela fatia da renda apropriada pelos 10% mais ricos. Nessa coluna, o maior valor entre as macrorregiões é o do Nordeste (44,4%) e o menor é o do Sul (38,7%). A leitura se confirma pela outra ponta da distribuição: os 40% mais pobres ficam com apenas 11,5% da renda no Nordeste - o menor valor da tabela - e com 13,9% no Sul, o maior. Logo, a ordem pedida (maior e menor concentração) é Nordeste e Sul.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q05",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 5,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - LUGARES DE MEMÓRIA: PARA NÃO ESQUECER\n\nO Cais do Valongo, principal porto de entrada de escravizados das Américas, recebeu em 2017 o título de Patrimônio Cultural da Humanidade, pela Unesco. A distinção define o Valongo, localizado na região portuária do Rio de Janeiro, como um \"lugar de memória\", ao lado de outros, como o campo de concentração de Auschwitz, na Polônia, ou a cidade de Hiroshima, no Japão. (l. 1-4)\n\nInaugurado em 1811, o cais logo se converteu no principal ponto de desembarque de africanos escravizados das três Américas. Localizado a poucos passos do Palácio Real, não era raro aos monarcas brasileiros ver os africanos, apressadamente desembarcados, sendo separados de suas famílias, limpos, vestidos, pesados, tendo seus corpos marcados a ferro. (l. 5-8)\n\nComeçava, então, uma nova viagem. Dessa vez, rumo à tentativa de desterritorialização e de invisibilização dos africanos, de quem se procurava apagar a memória, qualquer laivo de identidade e orgulho que carregavam de suas nações. Vários viajantes passaram pelo Valongo e constataram o triste espetáculo que se apresentava naquele mercado, dentre eles o artista Jean-Baptiste Debret (1768-1848). (l. 9-13)\n\nEm sua aquarela, aparecem os mesmos \"esqueletos\" descritos em texto. À direita, o comerciante gorducho (cuja barriga simboliza a fartura) negocia com o proprietário de terras, com seu chapelão e bengala, os detalhes da venda do pequeno garoto postado à sua frente. O artista francês fez questão de caprichar no vazio do ambiente, e nos africanos sem rosto, quase nus, que apenas aguardam pelo destino nas Américas. Um desterro forçado nos campos tropicais do Brasil. (l. 14-21)\n\nEm 1911, o Cais do Valongo foi aterrado, da mesma maneira como se tentou esconder e esquecer \"os males e as lembranças dos tempos da escravidão\". Esse era o discurso civilizatório da Primeira República, que procurava jogar para o Império a conta da escravidão, cuja culpa é de todos nós. \"Redescoberto\" 100 anos depois, o Cais do Valongo é hoje um sítio arqueológico que expõe na nossa atualidade as perversões do sistema escravocrata, mas também testemunha a resistência dessas populações. Trata-se do mais importante acervo de vestígios materiais e simbólicos localizado fora da África, com quase 500 mil itens. (l. 22-30)\n\nA expressão \"lugar de memória\" foi criada pelo historiador francês Pierre Nora. Seu objetivo era justamente evitar o desaparecimento dos registros históricos, como arquivos, monumentos, museus e certos espaços específicos. Podem ser desde objetos materiais e concretos até vestígios imateriais e orais. O importante, porém, é que eles só se convertem, efetivamente, em \"lugares de memória\", se a imaginação coletiva investi-los como lugares simbólicos. (l. 31-34)\n\nConforme define Alberto da Costa e Silva: \"O Brasil é um país extraordinariamente africanizado. E só a quem não conhece a África pode escapar o quanto há de africano nos gestos, nas maneiras de ser e de viver e no sentimento estético do brasileiro. Por sua vez, em toda a costa atlântica da África, podem-se facilmente reconhecer os brasileirismos. O escravo ficou dentro de nós, qualquer que seja nossa origem.\" (l. 35-39)\n\nLILIA MORITZ SCHWARCZ. Adaptado de nexojornal.com.br, 31/07/2017.\n\n\"um 'lugar de memória', ao lado de outros, como o campo de concentração de Auschwitz, na Polônia, ou a cidade de Hiroshima, no Japão.\" (l. 3-4)\n\nA comparação acima inclui o Cais do Valongo no conjunto de lugares de memória pelo reconhecimento do seguinte atributo comum:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valor utópico"
+      },
+      {
+        "letter": "B",
+        "text": "natureza subjetiva"
+      },
+      {
+        "letter": "C",
+        "text": "expressão mundial"
+      },
+      {
+        "letter": "D",
+        "text": "caráter democrático"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A comparação aproxima três lugares situados em continentes distintos - Brasil, Polônia e Japão - todos reconhecidos pela Unesco como patrimônio da humanidade. O que os une é justamente o alcance universal do que ali ocorreu: são marcos cuja memória diz respeito a toda a humanidade, e não apenas às nações onde estão. Esse é o atributo de expressão mundial. Não há utopia (os três remetem a tragédias efetivamente ocorridas), nem subjetividade (o reconhecimento é institucional), nem caráter democrático (os episódios lembrados são de violência e exceção).",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q06",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - LUGARES DE MEMÓRIA: PARA NÃO ESQUECER\n\nO Cais do Valongo, principal porto de entrada de escravizados das Américas, recebeu em 2017 o título de Patrimônio Cultural da Humanidade, pela Unesco. A distinção define o Valongo, localizado na região portuária do Rio de Janeiro, como um \"lugar de memória\", ao lado de outros, como o campo de concentração de Auschwitz, na Polônia, ou a cidade de Hiroshima, no Japão. (l. 1-4)\n\nInaugurado em 1811, o cais logo se converteu no principal ponto de desembarque de africanos escravizados das três Américas. Localizado a poucos passos do Palácio Real, não era raro aos monarcas brasileiros ver os africanos, apressadamente desembarcados, sendo separados de suas famílias, limpos, vestidos, pesados, tendo seus corpos marcados a ferro. (l. 5-8)\n\nComeçava, então, uma nova viagem. Dessa vez, rumo à tentativa de desterritorialização e de invisibilização dos africanos, de quem se procurava apagar a memória, qualquer laivo de identidade e orgulho que carregavam de suas nações. Vários viajantes passaram pelo Valongo e constataram o triste espetáculo que se apresentava naquele mercado, dentre eles o artista Jean-Baptiste Debret (1768-1848). (l. 9-13)\n\nEm sua aquarela, aparecem os mesmos \"esqueletos\" descritos em texto. À direita, o comerciante gorducho (cuja barriga simboliza a fartura) negocia com o proprietário de terras, com seu chapelão e bengala, os detalhes da venda do pequeno garoto postado à sua frente. O artista francês fez questão de caprichar no vazio do ambiente, e nos africanos sem rosto, quase nus, que apenas aguardam pelo destino nas Américas. Um desterro forçado nos campos tropicais do Brasil. (l. 14-21)\n\nEm 1911, o Cais do Valongo foi aterrado, da mesma maneira como se tentou esconder e esquecer \"os males e as lembranças dos tempos da escravidão\". Esse era o discurso civilizatório da Primeira República, que procurava jogar para o Império a conta da escravidão, cuja culpa é de todos nós. \"Redescoberto\" 100 anos depois, o Cais do Valongo é hoje um sítio arqueológico que expõe na nossa atualidade as perversões do sistema escravocrata, mas também testemunha a resistência dessas populações. Trata-se do mais importante acervo de vestígios materiais e simbólicos localizado fora da África, com quase 500 mil itens. (l. 22-30)\n\nA expressão \"lugar de memória\" foi criada pelo historiador francês Pierre Nora. Seu objetivo era justamente evitar o desaparecimento dos registros históricos, como arquivos, monumentos, museus e certos espaços específicos. Podem ser desde objetos materiais e concretos até vestígios imateriais e orais. O importante, porém, é que eles só se convertem, efetivamente, em \"lugares de memória\", se a imaginação coletiva investi-los como lugares simbólicos. (l. 31-34)\n\nConforme define Alberto da Costa e Silva: \"O Brasil é um país extraordinariamente africanizado. E só a quem não conhece a África pode escapar o quanto há de africano nos gestos, nas maneiras de ser e de viver e no sentimento estético do brasileiro. Por sua vez, em toda a costa atlântica da África, podem-se facilmente reconhecer os brasileirismos. O escravo ficou dentro de nós, qualquer que seja nossa origem.\" (l. 35-39)\n\nLILIA MORITZ SCHWARCZ. Adaptado de nexojornal.com.br, 31/07/2017.\n\nPalavras de um mesmo campo de significados podem indicar diferentes valores, como o de definição de um elemento e o de resultado de um processo. Esses dois valores estão exemplificados, respectivamente, no seguinte par de palavras:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "africanos (l. 5) - africanizado (l. 35)"
+      },
+      {
+        "letter": "B",
+        "text": "desterritorialização (l. 9) - desterro (l. 21)"
+      },
+      {
+        "letter": "C",
+        "text": "escravocrata (l. 27) - escravo (l. 38)"
+      },
+      {
+        "letter": "D",
+        "text": "Brasil (l. 22) - brasileiro (l. 37)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O enunciado pede um par em que a primeira palavra defina um elemento e a segunda expresse o resultado de um processo, nessa ordem. Em \"africanos\", o substantivo nomeia diretamente as pessoas - é a definição do elemento. Já \"africanizado\" é um particípio adjetivo formado pelo sufixo verbal -izar mais -ado, e descreve o país como produto de uma transformação sofrida: o Brasil tornou-se africanizado. Nos outros pares a ordem ou a natureza não se sustenta: \"desterritorialização\" e \"desterro\" nomeiam ambos processos; \"escravocrata\" qualifica o sistema e \"escravo\" nomeia a pessoa (definição vindo em segundo lugar); e \"Brasil\" e \"brasileiro\" formam um par de país e gentílico, sem ideia de processo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q07",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - LUGARES DE MEMÓRIA: PARA NÃO ESQUECER\n\nO Cais do Valongo, principal porto de entrada de escravizados das Américas, recebeu em 2017 o título de Patrimônio Cultural da Humanidade, pela Unesco. A distinção define o Valongo, localizado na região portuária do Rio de Janeiro, como um \"lugar de memória\", ao lado de outros, como o campo de concentração de Auschwitz, na Polônia, ou a cidade de Hiroshima, no Japão. (l. 1-4)\n\nInaugurado em 1811, o cais logo se converteu no principal ponto de desembarque de africanos escravizados das três Américas. Localizado a poucos passos do Palácio Real, não era raro aos monarcas brasileiros ver os africanos, apressadamente desembarcados, sendo separados de suas famílias, limpos, vestidos, pesados, tendo seus corpos marcados a ferro. (l. 5-8)\n\nComeçava, então, uma nova viagem. Dessa vez, rumo à tentativa de desterritorialização e de invisibilização dos africanos, de quem se procurava apagar a memória, qualquer laivo de identidade e orgulho que carregavam de suas nações. Vários viajantes passaram pelo Valongo e constataram o triste espetáculo que se apresentava naquele mercado, dentre eles o artista Jean-Baptiste Debret (1768-1848). (l. 9-13)\n\nEm sua aquarela, aparecem os mesmos \"esqueletos\" descritos em texto. À direita, o comerciante gorducho (cuja barriga simboliza a fartura) negocia com o proprietário de terras, com seu chapelão e bengala, os detalhes da venda do pequeno garoto postado à sua frente. O artista francês fez questão de caprichar no vazio do ambiente, e nos africanos sem rosto, quase nus, que apenas aguardam pelo destino nas Américas. Um desterro forçado nos campos tropicais do Brasil. (l. 14-21)\n\nEm 1911, o Cais do Valongo foi aterrado, da mesma maneira como se tentou esconder e esquecer \"os males e as lembranças dos tempos da escravidão\". Esse era o discurso civilizatório da Primeira República, que procurava jogar para o Império a conta da escravidão, cuja culpa é de todos nós. \"Redescoberto\" 100 anos depois, o Cais do Valongo é hoje um sítio arqueológico que expõe na nossa atualidade as perversões do sistema escravocrata, mas também testemunha a resistência dessas populações. Trata-se do mais importante acervo de vestígios materiais e simbólicos localizado fora da África, com quase 500 mil itens. (l. 22-30)\n\nA expressão \"lugar de memória\" foi criada pelo historiador francês Pierre Nora. Seu objetivo era justamente evitar o desaparecimento dos registros históricos, como arquivos, monumentos, museus e certos espaços específicos. Podem ser desde objetos materiais e concretos até vestígios imateriais e orais. O importante, porém, é que eles só se convertem, efetivamente, em \"lugares de memória\", se a imaginação coletiva investi-los como lugares simbólicos. (l. 31-34)\n\nConforme define Alberto da Costa e Silva: \"O Brasil é um país extraordinariamente africanizado. E só a quem não conhece a África pode escapar o quanto há de africano nos gestos, nas maneiras de ser e de viver e no sentimento estético do brasileiro. Por sua vez, em toda a costa atlântica da África, podem-se facilmente reconhecer os brasileirismos. O escravo ficou dentro de nós, qualquer que seja nossa origem.\" (l. 35-39)\n\nLILIA MORITZ SCHWARCZ. Adaptado de nexojornal.com.br, 31/07/2017.\n\nAo final do texto, a autora expõe um posicionamento de Alberto da Costa e Silva. Segundo esse especialista, entre Brasil e países da África construiu-se uma relação cultural de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "trato indiferente"
+      },
+      {
+        "letter": "B",
+        "text": "influência mútua"
+      },
+      {
+        "letter": "C",
+        "text": "tolerância forçada"
+      },
+      {
+        "letter": "D",
+        "text": "antagonismo puro"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A citação é construída em duas mãos explicitamente simétricas. Primeiro, o Brasil é dito \"extraordinariamente africanizado\", com o africano presente nos gestos, no modo de viver e no sentimento estético do brasileiro. Em seguida, o movimento inverso: \"por sua vez, em toda a costa atlântica da África, podem-se facilmente reconhecer os brasileirismos\". A expressão \"por sua vez\" marca a reciprocidade - cada lado deixou marcas no outro. Trata-se, portanto, de influência mútua, o oposto de indiferença e de antagonismo; e não há sugestão de imposição que justifique \"tolerância forçada\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q08",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 08 a 11 referem-se ao romance Triste Fim de Policarpo Quaresma, de Lima Barreto.\n\nO romance põe em questão a ideia de patriotismo, apresentando diferentes visões de seus personagens sobre a noção de pátria. Isso se observa no confronto entre a noção idealizada de Policarpo Quaresma e aquela manifestada pelas elites militar e política do país.\n\nA apropriação da noção de pátria por essas elites se caracteriza como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "visionária"
+      },
+      {
+        "letter": "B",
+        "text": "subversiva"
+      },
+      {
+        "letter": "C",
+        "text": "progressista"
+      },
+      {
+        "letter": "D",
+        "text": "oportunista"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No romance, o patriotismo sincero e desinteressado de Quaresma contrasta com o uso que dele fazem os grupos no poder. Militares e políticos invocam a pátria como retórica de legitimação, mas a mobilizam conforme a conveniência do momento - Quaresma serve à República na Revolta da Armada e, quando deixa de ser útil e passa a criticar a repressão, é preso e executado em nome da mesma pátria que dizia defender. Esse uso instrumental e circunstancial caracteriza uma apropriação oportunista. \"Visionária\" e \"progressista\" descreveriam antes o idealismo de Quaresma, e \"subversiva\" não cabe a quem exerce o poder estabelecido.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q09",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 08 a 11 referem-se ao romance Triste Fim de Policarpo Quaresma, de Lima Barreto.\n\nMarechal Floriano Peixoto, segundo presidente do Brasil, é também personagem de Triste Fim de Policarpo Quaresma.\n\nO conceito que melhor sustenta a construção desse personagem ficcional, baseado numa figura histórica, é o da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "catarse"
+      },
+      {
+        "letter": "B",
+        "text": "polissemia"
+      },
+      {
+        "letter": "C",
+        "text": "generalização"
+      },
+      {
+        "letter": "D",
+        "text": "verossimilhança"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Trazer para dentro da ficção uma figura historicamente existente exige que ela se comporte de modo coerente com o que dela se conhece e com o mundo representado na obra - é isso que torna o romance crível para o leitor. Esse princípio é a verossimilhança, a coerência interna que faz o narrado parecer possível, independentemente de ser factual. A catarse diz respeito ao efeito emocional sobre o público, não à construção da personagem; a polissemia é um fenômeno de significação das palavras; e a generalização contraria o caso, já que Floriano é uma figura singular e nomeada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q10",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 08 a 11 referem-se ao romance Triste Fim de Policarpo Quaresma, de Lima Barreto.\n\nPRIMEIRA PARTE - IV - Desastrosas Consequências de um Requerimento\n\nPolicarpo Quaresma, cidadão brasileiro, funcionário público, certo de que a língua portuguesa é emprestada ao Brasil; certo também de que, por esse fato, o falar e o escrever em geral, sobretudo no campo das letras, se veem na humilhante contingência de sofrer continuamente censuras ásperas dos proprietários da língua; sabendo, além, que, dentro do nosso país, os autores e os escritores, com especialidade os gramáticos, não se entendem no tocante à correção gramatical, vendo-se, diariamente, surgir azedas polêmicas entre os mais profundos estudiosos do nosso idioma - usando do direito que lhe confere a Constituição, vem pedir que o Congresso Nacional decrete o tupi-guarani como língua oficial e nacional do povo brasileiro.\n\nO suplicante, deixando de parte os argumentos históricos que militam em favor de sua ideia, pede vênia para lembrar que a língua é a mais alta manifestação da inteligência de um povo, é a sua criação mais viva e original; e, portanto, a emancipação política do país requer como complemento e consequência a sua emancipação idiomática.\n\nO teor da solicitação de Policarpo Quaresma expressa uma ironia ao deixar implícita uma crítica histórica. O alvo dessa crítica é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a censura da elite econômica"
+      },
+      {
+        "letter": "B",
+        "text": "a burocracia republicana nascente"
+      },
+      {
+        "letter": "C",
+        "text": "o silenciamento da herança indígena"
+      },
+      {
+        "letter": "D",
+        "text": "o purismo do pensamento cientificista"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O requerimento é irônico porque propõe, com toda a formalidade jurídica, algo que a sociedade da época julgaria absurdo: adotar o tupi-guarani como língua oficial. Ao tratar o português como língua \"emprestada\" e seus falantes europeus como \"proprietários da língua\", Quaresma inverte a hierarquia consagrada e expõe o fato de que a independência política do Brasil não foi acompanhada do reconhecimento da matriz indígena - apagada em favor do idioma do colonizador. A crítica implícita recai, portanto, sobre o silenciamento da herança indígena. A burocracia aparece apenas como forma do documento, não como alvo, e nem a elite econômica nem o cientificismo estão em questão no trecho.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q11",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 08 a 11 referem-se ao romance Triste Fim de Policarpo Quaresma, de Lima Barreto.\n\nTERCEIRA PARTE - V - A Afilhada\n\nSaiu e andou. Olhou o céu, os ares, as árvores de Santa Teresa, e se lembrou que, por estas terras, já tinham errado tribos selvagens, das quais um dos chefes se orgulhava de ter no sangue o sangue de dez mil inimigos. Fora há quatro séculos. Olhou de novo o céu, os ares, as árvores de Santa Teresa, as casas, as igrejas; viu os bondes passarem; uma locomotiva apitou; um carro, puxado por uma linda parelha, atravessou-lhe na frente, quando já a entrar do campo... Tinha havido grandes e inúmeras modificações. Que fora aquele parque? Talvez um charco. Tinha havido grandes modificações nos aspectos, na fisionomia da terra, talvez no clima... Esperemos mais, pensou ela; e seguiu serenamente ao encontro de Ricardo Coração dos Outros.\n\nCom base no fragmento, o final do romance, apesar de triste, como anuncia o próprio título, contém uma mensagem de otimismo, expressa nos pensamentos da personagem Olga, afilhada de Policarpo. O otimismo se justifica pela expectativa de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "avanço civilizatório"
+      },
+      {
+        "letter": "B",
+        "text": "resistência popular"
+      },
+      {
+        "letter": "C",
+        "text": "progresso industrial"
+      },
+      {
+        "letter": "D",
+        "text": "miscigenação étnica"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Olga compara o presente com um passado de quatro séculos atrás, quando ali \"tinham errado tribos selvagens\" e um chefe se orgulhava do sangue de dez mil inimigos - isto é, um estado de violência. Diante das transformações que enumera (bondes, locomotiva, o charco convertido em parque, mudanças até no clima), conclui que a terra mudou profundamente e formula seu \"esperemos mais\": se tanto mudou em quatro séculos, a barbárie que vitimou seu padrinho também pode ser superada. O otimismo está na confiança de que a sociedade evolui - um avanço civilizatório. As transformações técnicas citadas são indício desse processo, não o objeto da esperança em si, e o trecho não menciona mobilização popular nem mistura étnica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q12",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 12,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\nLas letras de Latinoamérica y Morro velho manifiestan una misma actitud hacia la realidad de vida del trabajador del campo. Esa actitud se puede definir como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rechazo"
+      },
+      {
+        "letter": "B",
+        "text": "criticidad"
+      },
+      {
+        "letter": "C",
+        "text": "inconsciencia"
+      },
+      {
+        "letter": "D",
+        "text": "menosprecio"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ambas as canções expõem a exploração do trabalhador rural sem aderir a ela nem ignorá-la. Em Latinoamérica, versos como \"Mano de obra campesina para tu consumo\" e \"Soy toda la sobra de lo que te robaron\" denunciam a espoliação; em Morro velho, a canção mostra o camarada que permanece trabalhando enquanto o filho do senhor volta doutor para mandar. Nos dois casos há denúncia consciente, isto é, criticidade. Não há rechaço ou desprezo em relação ao trabalhador - ao contrário, ambas as letras se solidarizam com ele - e tampouco inconsciência, já que a desigualdade é justamente o que as canções tornam visível.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q13",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 13,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\n\"Un pueblo escondido en la cima\" (v. 3)\n\nEl término subrayado se puede sustituir, sin alteración importante de sentido, por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "el valle"
+      },
+      {
+        "letter": "B",
+        "text": "el prado"
+      },
+      {
+        "letter": "C",
+        "text": "la llanura"
+      },
+      {
+        "letter": "D",
+        "text": "la cumbre"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "\"Cima\" designa a parte mais alta de uma elevação. Seu sinônimo entre as opções é \"cumbre\", que nomeia igualmente o ponto culminante de uma montanha. As demais alternativas apontam para o sentido oposto ou para outro tipo de relevo: \"valle\" é a depressão entre montanhas, \"llanura\" é terreno plano e extenso, e \"prado\" designa um campo de pastagem - nenhum deles conserva a ideia de altura exigida pelo verso.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q14",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 14,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\nEl texto Latinoamérica abarca aspectos sociales desde una perspectiva política y económica. La denuncia sobre la explotación económica se observa en el siguiente fragmento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mi piel es de cuero por eso aguanta cualquier clima (v. 4)"
+      },
+      {
+        "letter": "B",
+        "text": "Mano de obra campesina para tu consumo (v. 6)"
+      },
+      {
+        "letter": "C",
+        "text": "El amor en los tiempos del cólera, mi hermano (v. 7)"
+      },
+      {
+        "letter": "D",
+        "text": "Aquí se comparte, lo mío es tuyo (v. 28)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O verso \"Mano de obra campesina para tu consumo\" reúne os dois termos da relação de exploração econômica: de um lado a força de trabalho camponesa da América Latina, de outro o \"tu\" que consome o que ela produz. A preposição \"para\" explicita que esse trabalho existe em função do consumo alheio - a definição mesma da espoliação denunciada. O verso 4 fala de resistência física, o verso 7 é uma referência literária a García Márquez, e o verso 28 descreve solidariedade interna ao continente, não exploração.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q15",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 15,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\nLa canción Latinoamérica también denuncia la colonización violenta y los regímenes dictatoriales. El verso que se refiere a las prácticas vividas durante la dictadura es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Soy lo que dejaron (v. 1)"
+      },
+      {
+        "letter": "B",
+        "text": "Soy el desarrollo en carne viva (v. 8)"
+      },
+      {
+        "letter": "C",
+        "text": "Soy la fotografía de un desaparecido (v. 11)"
+      },
+      {
+        "letter": "D",
+        "text": "Soy lo que sostiene mi bandera (v. 13)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "\"Desaparecido\" é o termo consagrado na América Latina para as vítimas de sequestro e assassinato pelas ditaduras militares, cujos corpos nunca foram entregues às famílias. A \"fotografía de un desaparecido\" evoca diretamente as imagens erguidas por mães e familiares em protestos - como as Madres de Plaza de Mayo - símbolo maior da repressão do período. Os demais versos remetem à herança da colonização (v. 1), aos custos humanos do desenvolvimento (v. 8) e à identidade nacional (v. 13), sem referência específica ao terrorismo de Estado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q16",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 16,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\n\"La espina dorsal del planeta es mi cordillera\" (v. 14)\n\nEn ese verso, el término espina dorsal se emplea en un sentido que se define como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eufemístico"
+      },
+      {
+        "letter": "B",
+        "text": "hiperbólico"
+      },
+      {
+        "letter": "C",
+        "text": "metafórico"
+      },
+      {
+        "letter": "D",
+        "text": "metonímico"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "\"Espina dorsal\" é termo da anatomia, e aqui é aplicado a um acidente geográfico: a cordilheira dos Andes. A transferência se apoia numa semelhança entre os dois referentes - ambos são estruturas alongadas que percorrem longitudinalmente um corpo e lhe dão sustentação. Comparação implícita fundada em semelhança é, por definição, metáfora. Não é metonímia, que exigiria uma relação de contiguidade (parte pelo todo, causa pelo efeito), e não há nem atenuação (eufemismo) nem exagero deliberado (hipérbole).",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q17",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\nLas personificaciones en Latinoamérica revelan el envolvimiento del poeta con lo que describe. Un ejemplo de personificación está presente en:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Las caras más bonitas que he conocido (v. 10)"
+      },
+      {
+        "letter": "B",
+        "text": "Soy lo que me enseñó mi padre (v. 15)"
+      },
+      {
+        "letter": "C",
+        "text": "Tengo mis dientes pa' cuando me sonrío (v. 19)"
+      },
+      {
+        "letter": "D",
+        "text": "Soy el mar Caribe que vigila las casitas (v. 20)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Personificação é a atribuição de comportamento humano a um ser inanimado. No verso 20, o mar do Caribe \"vigila\" as casas - vigiar exige intenção e atenção, capacidades próprias de uma pessoa, aqui emprestadas a um elemento da natureza. Nas outras alternativas os verbos e ações já pertencem a seres humanos: conhecer rostos (v. 10), aprender com o pai (v. 15), ter dentes e sorrir (v. 19). Nesses casos o eu lírico fala de si mesmo como pessoa, sem transferir traços humanos a algo que não os tem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q18",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - LATINOAMÉRICA (Calle 13)\n\nSoy lo que dejaron\nSoy toda la sobra de lo que te robaron\nUn pueblo escondido en la cima\nMi piel es de cuero por eso aguanta cualquier clima\nSoy una fábrica de humo\nMano de obra campesina para tu consumo\nEl amor en los tiempos del cólera, mi hermano\nSoy el desarrollo en carne viva\nUn discurso político sin saliva\nLas caras más bonitas que he conocido\nSoy la fotografía de un desaparecido\nLa sangre dentro de tus venas\nSoy lo que sostiene mi bandera\nLa espina dorsal del planeta es mi cordillera\nSoy lo que me enseñó mi padre\nEl que no quiere a su patria no quiere a su madre\nSoy América Latina\nUn pueblo sin piernas pero que camina, oye\nTengo mis dientes pa' cuando me sonrío\nSoy el mar Caribe que vigila las casitas\nHaciendo rituales de agua bendita\nTú no puedes comprar el viento\nTú no puedes comprar el sol\nTú no puedes comprar la lluvia\nNo puedes comprar mi vida\nLa tierra no se vende\nTrabajo bruto pero con orgullo\nAquí se comparte, lo mío es tuyo\nAquí se respira lucha\nYo canto porque se escucha (vamos caminando)\nAquí estamos de pie\nQue viva la América\n\nEDUARDO CABRA, RAFAEL ARCAUTE y RENÉ PÉREZ. Adaptado de letras.com.\n(versos numerados de 1 a 32, na ordem acima)\n\n\"Un pueblo sin piernas pero que camina, oye\" (v. 18)\n\nEn lo que se refiere al tipo de relación entre los interlocutores, la palabra oye es una marca de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "informalidad"
+      },
+      {
+        "letter": "B",
+        "text": "alejamiento"
+      },
+      {
+        "letter": "C",
+        "text": "entusiasmo"
+      },
+      {
+        "letter": "D",
+        "text": "cortesía"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "\"Oye\" é a forma de imperativo do pronome \"tú\", empregada como interjeição para chamar a atenção do interlocutor no meio da fala. Por ser tratamento de segunda pessoa direta - e não a forma de respeito \"oiga\", correspondente a \"usted\" - indica proximidade e coloquialidade entre quem fala e quem escuta. Marca, portanto, informalidade. Justamente por isso não sinaliza distanciamento nem cortesia, que pediriam \"oiga\"; e a palavra em si não expressa entusiasmo, apenas convoca o interlocutor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q19",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 19,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "De acordo com o teorema fundamental da aritmética, todo número natural maior do que 1 é primo ou é um produto de números primos. Observe os exemplos:\n\n1964 = 2² × 491\n1994 = 2 × 997\n\nO maior número primo obtido na fatoração de 1716 é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "17"
+      },
+      {
+        "letter": "B",
+        "text": "13"
+      },
+      {
+        "letter": "C",
+        "text": "11"
+      },
+      {
+        "letter": "D",
+        "text": "7"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Fatorando 1716 sucessivamente pelos primos: 1716 ÷ 2 = 858; 858 ÷ 2 = 429; 429 ÷ 3 = 143; e 143 = 11 × 13. Logo, 1716 = 2² × 3 × 11 × 13, e o maior fator primo é 13. O valor 17 pode ser descartado de imediato, pois 1716 não é divisível por 17 (17 × 101 = 1717).",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q20",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 20,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um escritório comercial enviou cinco correspondências diferentes, sendo uma para cada cliente. Cada correspondência foi colocada em um envelope, e os envelopes foram etiquetados com os cinco endereços distintos desses clientes.\n\nA probabilidade de apenas uma etiqueta estar trocada é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4/5"
+      },
+      {
+        "letter": "B",
+        "text": "1/5"
+      },
+      {
+        "letter": "C",
+        "text": "1/24"
+      },
+      {
+        "letter": "D",
+        "text": "0"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Trocar etiquetas significa permutar os destinos entre si. Se exatamente uma etiqueta estivesse no envelope errado, as outras quatro estariam corretas - mas então a etiqueta errada teria de ocupar o único lugar restante, que é justamente o seu próprio. Ela estaria, portanto, certa, o que contradiz a hipótese. Em linguagem de permutações: não existe permutação que desloque exatamente um elemento, pois o menor deslocamento possível envolve dois elementos trocados entre si. O evento é impossível e sua probabilidade é 0.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q21",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 21,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Em uma reunião, trabalhadores de uma indústria decidiram fundar um sindicato com uma diretoria escolhida entre todos os presentes e composta por um presidente, um vice-presidente e um secretário. O número total de possibilidades de composição dessa diretoria é trinta vezes o número de pessoas presentes nessa reunião.\n\nO número de trabalhadores presentes é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "13"
+      },
+      {
+        "letter": "B",
+        "text": "11"
+      },
+      {
+        "letter": "C",
+        "text": "9"
+      },
+      {
+        "letter": "D",
+        "text": "7"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como os três cargos são distintos, o número de diretorias possíveis com n presentes é o arranjo de n tomados 3 a 3: n(n-1)(n-2). A condição do enunciado dá n(n-1)(n-2) = 30n. Dividindo por n (que é positivo): (n-1)(n-2) = 30, ou seja, n² - 3n - 28 = 0. As raízes são n = 7 e n = -4, e apenas a positiva tem sentido. Verificando: 7 × 6 × 5 = 210 = 30 × 7.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q22",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 22,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Diferentes defensivos agrícolas podem intoxicar trabalhadores do campo. Admita uma situação na qual, quando intoxicado, o corpo de um trabalhador elimine, de modo natural, a cada 6 dias, 75% da quantidade total absorvida de um agrotóxico. Dessa forma, na absorção de 50 mg desse agrotóxico, a quantidade presente no corpo será dada por:\n\nV(t) = 50 × (0,25)^(t/6) miligramas\n\nAssim, o tempo t, em dias, necessário para que a quantidade total desse agrotóxico se reduza a 25 mg no corpo do trabalhador é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "3"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "5"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Impondo V(t) = 25: 50 × (0,25)^(t/6) = 25, logo (0,25)^(t/6) = 1/2. Escrevendo tudo na base 2, 0,25 = 2⁻², de modo que 2^(-2t/6) = 2⁻¹. Igualando os expoentes: -2t/6 = -1, ou seja, t/3 = 1 e t = 3 dias. Confere com a intuição: reduzir à metade deve levar menos que os 6 dias necessários para eliminar 75%.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q23",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um recipiente com a forma de uma pirâmide de base quadrada foi completamente preenchido com um líquido. Sua aresta da base mede 4 cm e a altura, 9 cm. Em seguida, todo esse líquido foi transferido para outro recipiente, com a forma de um prisma reto, sendo sua base um triângulo retângulo isósceles cujos catetos medem 4 cm.\n\nConsidere que as espessuras dos recipientes são desprezíveis e que as bases estão em planos horizontais, sendo as alturas definidas em relação às bases.\n\nA altura h, em centímetros, que o líquido atingirá no segundo recipiente é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O volume da pirâmide é um terço do produto da área da base pela altura: V = (1/3) × 4² × 9 = (1/3) × 16 × 9 = 48 cm³. A base do prisma é um triângulo retângulo isósceles de catetos 4 cm, cuja área é (4 × 4)/2 = 8 cm². Como todo o líquido é transferido, o volume se conserva, e no prisma vale V = área da base × altura: 48 = 8h, logo h = 6 cm.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q24",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 24,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Considere uma circunferência de centro O e raio 1. Sejam AC, BD e PQ diâmetros, com AC e BD perpendiculares entre si. O ponto P pertence ao arco BC e o ponto R pertence ao raio OD; o segmento QR é paralelo a AC; e α é a medida do ângulo CÔP.\n\nSabendo que sen 2α = 2 sen α · cos α, a área do triângulo PQR é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "(sen 2α)/2"
+      },
+      {
+        "letter": "B",
+        "text": "(cos 2α)/2"
+      },
+      {
+        "letter": "C",
+        "text": "sen 2α"
+      },
+      {
+        "letter": "D",
+        "text": "cos 2α"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tome QR como base do triângulo. Como PQ é diâmetro, O é seu ponto médio e, portanto, a mediana PO divide PQR em dois triângulos de mesma área; equivalentemente, a área de PQR é o dobro da área de OQR. Colocando O na origem com AC no eixo horizontal e BD no vertical, P tem coordenadas (cos α, sen α) e Q, diametralmente oposto, (-cos α, -sen α). Como QR é paralelo a AC (horizontal) e R está no raio OD (eixo vertical), R tem a mesma ordenada de Q, isto é, R = (0, -sen α), e QR mede |cos α|. A altura de PQR relativa a essa base horizontal é a distância vertical de P à reta QR: sen α - (-sen α) = 2 sen α. Assim, a área é (1/2) × cos α × 2 sen α = sen α · cos α, que, pela identidade fornecida, equivale a (sen 2α)/2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q25",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Para confeccionar uma calha, foi utilizada uma chapa retangular de 0,6 m × 8 m. A chapa foi dobrada no formato de um paralelepípedo retângulo de altura x, comprimento igual a 8 m, e largura y, de modo que a largura de 0,6 m da chapa se reparte em duas alturas x e uma largura y.\n\nPara que esse paralelepípedo tenha volume máximo, a altura x, em centímetros, deve ser igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "12"
+      },
+      {
+        "letter": "C",
+        "text": "15"
+      },
+      {
+        "letter": "D",
+        "text": "17"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A largura da chapa (0,6 m = 60 cm) é consumida pelas duas abas laterais de altura x e pelo fundo de largura y: 2x + y = 60, ou seja, y = 60 - 2x. O comprimento de 8 m permanece constante, de modo que o volume é V = 8 · x · y = 8x(60 - 2x). Maximizar V equivale a maximizar f(x) = x(60 - 2x) = -2x² + 60x, uma parábola com concavidade para baixo cujo vértice ocorre em x = -60/(2 · (-2)) = 15. Logo, x = 15 cm (e então y = 30 cm).",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q26",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 26,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A presença de peixes em rios e lagos pode diminuir em função do aporte de matéria orgânica proveniente de esgotos não tratados, o que contamina o ecossistema aquático.\n\nNessa situação, o desaparecimento de peixes em rios contaminados deve-se ao aumento da população de bactérias que realizam o seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "respiração aeróbia"
+      },
+      {
+        "letter": "B",
+        "text": "nutrição fotoautotrófica"
+      },
+      {
+        "letter": "C",
+        "text": "remoção de gás carbônico"
+      },
+      {
+        "letter": "D",
+        "text": "fixação de nitrogênio do ar"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O esgoto despejado é rico em matéria orgânica, que serve de alimento às bactérias decompositoras. A explosão populacional desses microrganismos aumenta enormemente o consumo de oxigênio dissolvido na água pela respiração aeróbia - é o que se mede como demanda bioquímica de oxigênio. Com o oxigênio esgotado, os peixes, que dependem dele para respirar, morrem por asfixia. As demais alternativas não explicam a mortandade: bactérias fotoautotróficas produziriam oxigênio, a remoção de gás carbônico não prejudica os peixes, e a fixação de nitrogênio não altera a oxigenação da água.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q27",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 27,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Uma das medidas profiláticas utilizadas contra o vírus causador da covid-19 é a higiene adequada das mãos com álcool etílico a 70º INPM.\n\nEm um primeiro momento, a ação dessa substância envolve a destruição da seguinte estrutura desse vírus:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enzima de replicação"
+      },
+      {
+        "letter": "B",
+        "text": "envelope de lipídeo"
+      },
+      {
+        "letter": "C",
+        "text": "DNA"
+      },
+      {
+        "letter": "D",
+        "text": "RNA"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O SARS-CoV-2 é um vírus envelopado: seu capsídeo é revestido por uma bicamada lipídica derivada da membrana da célula hospedeira. O álcool etílico, por ser um solvente orgânico, dissolve essa camada de lipídeos, e é essa a primeira estrutura atingida. Sem o envelope, o vírus perde as proteínas de superfície necessárias para reconhecer e invadir a célula, tornando-se inativo. As enzimas e o material genético só ficam expostos depois, como consequência da desestruturação inicial - e o DNA sequer se aplica, pois o material genético desse vírus é RNA.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q28",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 28,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Alimentos denominados probióticos, tais como leites fermentados, iogurtes naturais, quefir e kombucha, contêm microrganismos vivos benéficos à saúde humana.\n\nA ação desses microrganismos resulta em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "quebra de moléculas de celulose"
+      },
+      {
+        "letter": "B",
+        "text": "neutralização da acidez do suco gástrico"
+      },
+      {
+        "letter": "C",
+        "text": "aumento da produção de glóbulos vermelhos"
+      },
+      {
+        "letter": "D",
+        "text": "controle das bactérias patogênicas intestinais"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os probióticos introduzem no intestino microrganismos que reforçam a microbiota residente. Ao se instalarem, competem com bactérias patogênicas por nutrientes e por espaço de adesão à mucosa, além de produzirem ácidos orgânicos que acidificam o meio e dificultam a proliferação desses agentes. O resultado é o controle das bactérias patogênicas intestinais. A digestão de celulose não ocorre no ser humano por falta da enzima celulase; a acidez gástrica não é neutralizada por esses microrganismos; e a produção de hemácias depende da medula óssea, não da microbiota.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q31",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 31,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "A mucolipidose II é uma condição hereditária rara que ocasiona problemas ao crescimento. Ela é causada pela deficiência de uma enzima envolvida no processo de fosforilação das pré-enzimas a serem enviadas aos lisossomos. Sem a fosforilação adequada, essas pré-enzimas são encaminhadas para fora da célula, em vez de serem utilizadas nos processos de digestão intracelular.\n\nA disfunção provocada por essa síndrome impede que os processos adequados de fosforilação e de transporte das pré-enzimas ocorram na seguinte organela:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ribossomo"
+      },
+      {
+        "letter": "B",
+        "text": "mitocôndria"
+      },
+      {
+        "letter": "C",
+        "text": "complexo de Golgi"
+      },
+      {
+        "letter": "D",
+        "text": "retículo endoplasmático liso"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O complexo de Golgi é a organela responsável por modificar quimicamente e endereçar as proteínas que chegam do retículo endoplasmático. É nele que as enzimas destinadas aos lisossomos recebem a marcação de manose-6-fosfato, o \"endereço\" que garante seu envio ao compartimento correto; sem essa fosforilação, elas seguem por padrão para a via de secreção e são lançadas fora da célula - exatamente o que o enunciado descreve. O ribossomo apenas sintetiza as cadeias polipeptídicas, a mitocôndria produz ATP e o retículo liso atua no metabolismo de lipídeos e na desintoxicação, nenhum deles fazendo o endereçamento lisossômico.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q32",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 32,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Considere um DNA de fita dupla que deu origem, sem qualquer erro no processo de transcrição, a um filamento de RNA mensageiro com 150 adeninas, 300 guaninas, 250 uracilas e 200 citosinas.\n\nA quantidade de nucleotídeos de cada tipo encontrados no DNA de fita dupla original corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "250 adeninas, 650 guaninas, 250 timinas, 650 citosinas"
+      },
+      {
+        "letter": "B",
+        "text": "300 adeninas, 600 guaninas, 300 timinas, 600 citosinas"
+      },
+      {
+        "letter": "C",
+        "text": "350 adeninas, 550 guaninas, 350 timinas, 550 citosinas"
+      },
+      {
+        "letter": "D",
+        "text": "400 adeninas, 500 guaninas, 400 timinas, 500 citosinas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na transcrição, o RNA é complementar à fita-molde. A cada adenina do RNA corresponde uma timina na molde; a cada uracila, uma adenina; a cada guanina, uma citosina; e a cada citosina, uma guanina. Assim, a fita-molde tem 150 T, 250 A, 300 C e 200 G. A outra fita do DNA é complementar a essa, tendo portanto 150 A, 250 T, 300 G e 200 C. Somando as duas fitas: A = 250 + 150 = 400; T = 150 + 250 = 400; G = 200 + 300 = 500; C = 300 + 200 = 500. O resultado respeita a regra de Chargaff (A = T e G = C), o que já elimina qualquer alternativa que a violasse, e o total de 1800 nucleotídeos equivale ao dobro dos 900 do RNA.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q33",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 33,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Considere que um lavrador utiliza uma enxada de massa igual a 1,3 kg. Para realizar determinada tarefa, ele faz um movimento com a enxada que desloca seu centro de massa C entre os pontos x e y, sucessivamente, em uma altura h média de 0,8 m. Esse movimento é repetido 50 vezes, de modo que, ao final da tarefa, a força exercida pelo lavrador realiza o trabalho T.\n\nConsiderando a aceleração da gravidade g = 10 m/s², o valor mínimo de T, em joules, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "640"
+      },
+      {
+        "letter": "B",
+        "text": "520"
+      },
+      {
+        "letter": "C",
+        "text": "480"
+      },
+      {
+        "letter": "D",
+        "text": "360"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O trabalho mínimo é aquele que apenas vence o peso da enxada, elevando seu centro de massa a cada repetição. Em uma elevação, T₁ = m · g · h = 1,3 × 10 × 0,8 = 10,4 J. Como o movimento se repete 50 vezes, T = 50 × 10,4 = 520 J. Só a subida contribui: na descida o peso é que realiza trabalho, e por isso o valor obtido é o mínimo exigido do lavrador.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q34",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 34,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma empresa testou quatro molas para utilização em um sistema de fechamento automático de portas. Para avaliar sua eficiência, elas foram fixadas a uma haste horizontal e, em suas extremidades livres, foram fixados corpos com diferentes massas. Observe na tabela os valores tanto das constantes elásticas K das molas quanto das massas dos corpos:\n\n| mola | K (N/cm) | massa do corpo fixado (kg) |\n|---|---|---|\n| I | 0,9 | 0,9 |\n| II | 0,8 | 1,2 |\n| III | 0,6 | 1,8 |\n| IV | 0,7 | 1,4 |\n\nPara que o sistema de fechamento funcione com mais eficiência, a mola a ser utilizada deve ser a que apresentou maior deformação no teste. Essa mola está identificada pelo seguinte número:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em equilíbrio, a força elástica iguala o peso do corpo: K · x = m · g, logo x = m · g / K. Com g = 10 m/s² e K em N/cm, a deformação sai em centímetros. Mola I: (0,9 × 10)/0,9 = 10 cm. Mola II: (1,2 × 10)/0,8 = 15 cm. Mola III: (1,8 × 10)/0,6 = 30 cm. Mola IV: (1,4 × 10)/0,7 = 20 cm. A maior deformação é a da mola III. Note que ela combina a maior massa com a menor constante elástica, os dois fatores que aumentam x.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q36",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um decantador é utilizado em um processo de remoção de impurezas da água, como partículas de terra e de areia fina. Da altura onde se inicia a decantação até o fundo do decantador, há uma distância de 36 cm.\n\nConsiderem-se os seguintes dados:\n\n| partícula | velocidade de decantação (m/s) | tempo de descida até o fundo do decantador (s) |\n|---|---|---|\n| Terra | 0,01 | t_T |\n| Areia | 0,24 | t_A |\n\nNessas condições, a diferença t_T - t_A, em segundos, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "21,5"
+      },
+      {
+        "letter": "B",
+        "text": "26,5"
+      },
+      {
+        "letter": "C",
+        "text": "30,5"
+      },
+      {
+        "letter": "D",
+        "text": "34,5"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A decantação ocorre com velocidade constante, de modo que t = d / v. Convertendo a distância para o SI, d = 36 cm = 0,36 m. Para a terra: t_T = 0,36 / 0,01 = 36 s. Para a areia: t_A = 0,36 / 0,24 = 1,5 s. A diferença é 36 - 1,5 = 34,5 s. A conversão de centímetros para metros é o passo decisivo: mantendo os 36 cm, os tempos ficariam cem vezes maiores.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q37",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 37,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Em uma experiência de calorimetria, os corpos A, B e C, que possuem massas, temperaturas e energias térmicas distintas, são colocados em um recipiente isolante térmico e de paredes rígidas, suspensos por fios ideais.\n\nEm seguida, através de uma válvula, retira-se grande parte do ar do interior do recipiente. A partir desse instante, predomina um processo de transferência de calor entre os corpos, o que altera os valores de determinada grandeza física.\n\nO referido processo de transferência de calor e a grandeza física em questão são, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "irradiação - massa"
+      },
+      {
+        "letter": "B",
+        "text": "convecção - massa"
+      },
+      {
+        "letter": "C",
+        "text": "irradiação - temperatura"
+      },
+      {
+        "letter": "D",
+        "text": "convecção - temperatura"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com o ar praticamente removido, não há mais fluido em quantidade suficiente para formar correntes ascendentes e descendentes, o que inviabiliza a convecção; e os corpos, suspensos por fios ideais e sem contato entre si, não trocam calor por condução. Resta a irradiação, que se propaga por ondas eletromagnéticas e não exige meio material - é ela que predomina no vácuo. A troca de calor faz os corpos caminharem para o equilíbrio térmico, alterando suas temperaturas. A massa permanece constante, já que o recipiente é fechado e não há mudança de estado envolvida.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q38",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 38,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um elétron E de massa m e carga q executa um movimento circular uniforme devido à ação de um campo magnético constante de intensidade B = 3 × 10⁻⁵ T.\n\nAdmita que a razão q/m = 1,6 × 10¹¹ C/kg.\n\nNessas condições, a velocidade angular ω, em rad/s, desenvolvida pelo elétron, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4,8 × 10⁶"
+      },
+      {
+        "letter": "B",
+        "text": "4,6 × 10⁶"
+      },
+      {
+        "letter": "C",
+        "text": "1,8 × 10⁶"
+      },
+      {
+        "letter": "D",
+        "text": "1,4 × 10⁶"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No movimento circular uniforme, a força magnética faz o papel de resultante centrípeta: qvB = mv²/r. Simplificando v: qB = mv/r. Como v = ωr, tem-se qB = mω, ou seja, ω = (q/m) · B. Substituindo: ω = 1,6 × 10¹¹ × 3 × 10⁻⁵ = 4,8 × 10⁶ rad/s. Note que ω não depende da velocidade nem do raio da trajetória - é a chamada frequência de cíclotron, fixada apenas pela razão carga-massa e pelo campo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q39",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 39,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Uma lente convergente conjuga uma imagem cuja altura é três vezes maior que a do objeto posicionado entre seu centro óptico e seu foco principal. Esse objeto se encontra a 12 cm de distância do centro óptico da lente.\n\nA distância focal da lente, em centímetros, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "14"
+      },
+      {
+        "letter": "C",
+        "text": "18"
+      },
+      {
+        "letter": "D",
+        "text": "22"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com o objeto entre o centro óptico e o foco, a lente convergente forma imagem virtual, direita e maior, de modo que o aumento vale A = +3. Usando A = f/(f - p), com p = 12 cm: 3 = f/(f - 12), logo 3f - 36 = f, o que dá 2f = 36 e f = 18 cm. O resultado é coerente com o enunciado: como 12 cm < 18 cm, o objeto está de fato dentro da distância focal, condição para a imagem virtual ampliada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q40",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 40,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um dos pigmentos responsáveis pela cor verde nos vegetais é a clorofila de fórmula molecular C55H72O5N4Mg.\n\nObserva-se na composição dessa clorofila o metal denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "carbono"
+      },
+      {
+        "letter": "B",
+        "text": "oxigênio"
+      },
+      {
+        "letter": "C",
+        "text": "hidrogênio"
+      },
+      {
+        "letter": "D",
+        "text": "magnésio"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Entre os cinco elementos da fórmula, apenas o magnésio é metal: pertence ao grupo 2 da tabela periódica (metais alcalinoterrosos) e ocupa o centro do anel porfirínico da clorofila. Carbono, oxigênio, hidrogênio e nitrogênio são todos não metais, situados no bloco p (ou, no caso do hidrogênio, sem caráter metálico nas condições ordinárias).",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q41",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 41,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O rádio-223 tem aplicação medicinal no tratamento de tumores. Na reação de decaimento desse radioisótopo, são formados um átomo e uma partícula alfa.\n\nNesse decaimento, o átomo formado corresponde ao seguinte elemento químico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Rn"
+      },
+      {
+        "letter": "B",
+        "text": "Fr"
+      },
+      {
+        "letter": "C",
+        "text": "Ac"
+      },
+      {
+        "letter": "D",
+        "text": "Th"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A partícula alfa é um núcleo de hélio, ²₄He, e sua emissão reduz o número atômico em 2 unidades e o número de massa em 4. O rádio tem Z = 88, logo o elemento formado tem Z = 88 - 2 = 86, que é o radônio (Rn), e número de massa 223 - 4 = 219. As outras opções correspondem a números atômicos incompatíveis com uma emissão alfa a partir do rádio: Fr tem Z = 87, Ac tem Z = 89 e Th, Z = 90.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q42",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 42,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Duas das principais etapas do tratamento de água para abastecimento humano envolvem a filtração e a decantação do material particulado presente na água. Recentemente, devido ao excesso de esgoto doméstico presente no rio Guandu, onde fica a estação de tratamento de água do Rio de Janeiro, foi necessário acrescentar uma etapa complementar de filtração por carvão ativado. Essa nova etapa destina-se à remoção de compostos orgânicos, que afetam o cheiro e o sabor da água e que não são removidos pelo tratamento convencional. Um exemplo desses compostos é a geosmina, um álcool de estrutura formada por anéis carbônicos com dois grupos metila e uma hidroxila.\n\nA filtração complementar baseia-se na formação de interações intermoleculares entre a geosmina e o carvão ativado, que é composto basicamente por átomos de carbono.\n\nAs interações com o carvão ativado no processo de filtração são decorrentes da presença, na molécula de geosmina, do seguinte segmento de cadeia:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apolar"
+      },
+      {
+        "letter": "B",
+        "text": "alifático"
+      },
+      {
+        "letter": "C",
+        "text": "com hidroxila"
+      },
+      {
+        "letter": "D",
+        "text": "com carbonila"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O carvão ativado é formado essencialmente por carbono, uma superfície apolar. Interações intermoleculares só são eficientes entre segmentos de polaridade semelhante (\"semelhante dissolve semelhante\"), de modo que o que adere ao carvão é a porção apolar da geosmina - a parte hidrocarbônica, que interage por forças de dispersão de London. A hidroxila é justamente o segmento polar, responsável pela afinidade da molécula com a água, e não com o carvão. O termo \"alifático\" descreve o tipo de cadeia, não a polaridade que governa a interação, e a geosmina não possui carbonila.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q45",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 45,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O ácido iodídrico, utilizado na higienização de instrumentos médicos, dentre outras aplicações, é produzido a partir da seguinte reação química:\n\n2 I2 + N2H4 → 4 HI + N2\n\nEm um processo de produção industrial, ao adicionar 254 kg de I2 e 80 kg de N2H4, verifica-se o consumo completo do reagente limitante.\n\nA massa de reagente em excesso, que não foi consumida, em quilogramas, tem valor igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "16"
+      },
+      {
+        "letter": "B",
+        "text": "32"
+      },
+      {
+        "letter": "C",
+        "text": "64"
+      },
+      {
+        "letter": "D",
+        "text": "72"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As massas molares são M(I2) = 2 × 127 = 254 g/mol e M(N2H4) = 2 × 14 + 4 × 1 = 32 g/mol. Trabalhando em quilomols: 254 kg de I2 correspondem a 1 kmol, e 80 kg de N2H4 correspondem a 80/32 = 2,5 kmol. Pela estequiometria, 2 mols de I2 consomem 1 mol de N2H4, ou seja, 1 kmol de I2 consome apenas 0,5 kmol de N2H4. Como há 2,5 kmol disponíveis, o I2 é o reagente limitante e sobram 2,5 - 0,5 = 2 kmol de N2H4, isto é, 2 × 32 = 64 kg.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q46",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 46,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O ânion fenolato, empregado na produção de corantes, é formado na ionização do fenol em solução aquosa:\n\nC6H5OH + H2O ⇌ C6H5O⁻ + H⁺\n\nConsidere um processamento no qual houve a dissolução completa de 0,01 mol de fenol em água para formar 1 L de solução a 20 °C. Nessa temperatura, a constante de acidez do fenol é igual a 10⁻¹⁰.\n\nAtingido o equilíbrio químico da ionização, a concentração de ânion fenolato, em mol/L, na solução, é aproximadamente igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10⁻²"
+      },
+      {
+        "letter": "B",
+        "text": "10⁻⁴"
+      },
+      {
+        "letter": "C",
+        "text": "10⁻⁶"
+      },
+      {
+        "letter": "D",
+        "text": "10⁻⁸"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A concentração inicial é C = 0,01 mol/L = 10⁻² mol/L. Chamando de x a concentração de fenolato no equilíbrio, e como a ionização produz fenolato e H⁺ em igual quantidade, Ka = x²/(C - x). Sendo Ka extremamente pequeno (10⁻¹⁰), a ionização é desprezível frente a C, e vale a aproximação C - x ≈ C. Assim, x² ≈ Ka · C = 10⁻¹⁰ × 10⁻² = 10⁻¹², e x ≈ 10⁻⁶ mol/L. O valor obtido é de fato muito menor que 10⁻², o que valida a aproximação usada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q48",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Observe um mapa do Atlântico Norte na Projeção de Mercator, no qual estão marcadas as cidades de Nova York e Madri, ligadas por duas linhas: a linha 1, curva e arqueada para o norte, e a linha 2, reta.\n\nNo mapa, a menor distância real que deve ser percorrida por um avião em um voo de Nova York para Madri está representada pela linha 1, e não pela linha 2.\n\nEsse fato é explicado pela:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "forma esferoidal do planeta"
+      },
+      {
+        "letter": "B",
+        "text": "força centrífuga da rotação"
+      },
+      {
+        "letter": "C",
+        "text": "intensidade magnética do polo"
+      },
+      {
+        "letter": "D",
+        "text": "instabilidade regional da atmosfera"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Sobre uma esfera, o caminho mais curto entre dois pontos é o arco de círculo máximo (a chamada ortodromia), e não uma linha reta traçada no mapa. A projeção de Mercator é cilíndrica e conforme: preserva os ângulos, mas distorce progressivamente as distâncias e as áreas conforme se afasta do Equador. Por isso, o círculo máximo entre Nova York e Madri aparece nela como uma curva arqueada em direção ao norte, enquanto a linha reta do mapa (loxodromia) corresponde, na superfície real do planeta, a um percurso mais longo. A explicação está, portanto, na forma esferoidal da Terra combinada com a distorção da projeção. Rotação, magnetismo e condições atmosféricas não interferem na geometria da distância.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q50",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "INVESTIMENTOS EM NOVAS USINAS SOLARES VÃO CHEGAR A R$ 9,5 BILHÕES ATÉ 2025\n\nA energia solar representa pouco mais de 1% da matriz energética do Brasil. Mas essa fatia saltará a 8% em dez anos, de acordo com o plano do governo. Os investimentos para sustentar a meta já estão em curso, segundo especialistas. Somente em grandes usinas solares, estão previstos R$ 9,5 bilhões em projetos até 2025.\n\nNa geração distribuída, em que a energia solar é produzida em painéis em telhados e fachadas de casas ou empresas, além das fazendas solares (que geram e vendem energia solar em terrenos), a estimativa é que outros R$ 16 bilhões sejam movimentados em investimento, emprego e imposto.\n\nJOÃO SORIMA NETO. Adaptado de oglobo.globo.com, 17/02/2020.\n\n(A questão é acompanhada de um mapa do total diário de irradiação solar - média anual - no Brasil, em watts/hora/m² por dia.)\n\nO aproveitamento da fonte de energia abordado na reportagem é favorecido pela seguinte característica ambiental brasileira:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "disposição orográfica"
+      },
+      {
+        "letter": "B",
+        "text": "índice pluviométrico"
+      },
+      {
+        "letter": "C",
+        "text": "posição latitudinal"
+      },
+      {
+        "letter": "D",
+        "text": "cobertura vegetal"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O potencial de geração solar depende da quantidade de radiação que chega à superfície, e esta é determinada sobretudo pela latitude: quanto mais próximo do Equador, mais perpendiculares incidem os raios solares e menor é a variação sazonal ao longo do ano. O Brasil está majoritariamente na faixa intertropical, o que lhe garante índices de irradiação elevados e regulares em quase todo o território. As outras características ou são irrelevantes para a captação solar (disposição orográfica) ou a prejudicam, já que chuvas abundantes e cobertura vegetal densa implicam nebulosidade e sombreamento, reduzindo a radiação incidente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q51",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "PIÑERA PEDE \"PERDÃO\" E ANUNCIA MEDIDAS PARA CONTER PROTESTOS NO CHILE\n\nO presidente chileno, Sebastián Piñera, prometeu aumentar a aposentadoria, melhorar o atendimento de saúde e aplicar impostos aos que ganham mais, uma tentativa de acalmar uma onda de distúrbios e protestos contra a desigualdade que vem sacudindo um dos países mais estáveis da América Latina. Entre as medidas anunciadas, está o aumento imediato das pensões e elevações adicionais dentro de dois anos, assim como melhorias nas aposentadorias da classe média, das mulheres e de idosos deficientes. O presidente propôs ainda a criação de seguros para conter os gastos de saúde das famílias, um aumento de 16% no salário mínimo e um mecanismo para frear a alta recente das tarifas elétricas.\n\nNATALIA MIRANDA E FABIÁN CAMBERO. Adaptado de noticias.uol.com.br, 23/10/2019.\n\nAs medidas anunciadas pelo presidente chileno para conter os intensos e duradouros protestos de 2019 apontam para um programa de reconfiguração do país baseado na ampliação da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proteção social estatal"
+      },
+      {
+        "letter": "B",
+        "text": "política econômica liberal"
+      },
+      {
+        "letter": "C",
+        "text": "atividade empresarial do governo"
+      },
+      {
+        "letter": "D",
+        "text": "dimensão clientelista do caudilhismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Todas as medidas listadas - aumento de aposentadorias e pensões, melhoria do atendimento de saúde, seguros para gastos médicos, elevação do salário mínimo e controle das tarifas elétricas - consistem em ampliar direitos e benefícios garantidos pelo Estado. Isso caracteriza o fortalecimento da proteção social estatal, resposta às críticas ao modelo chileno de previdência e serviços privatizados que motivou os protestos. A alternativa liberal é o oposto do anunciado, já que inclui até tributação maior sobre os mais ricos; o Estado não passa a atuar como empresário; e não se trata de clientelismo, pois são políticas universais e não trocas pessoais de favores.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q52",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 52,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "BELO HORIZONTE PROÍBE CANALIZAÇÃO DE CÓRREGOS\n\nEntrou em vigor o novo Plano Diretor de Belo Horizonte que, entre outras medidas, proíbe a canalização de córregos, um dos maiores problemas da cidade. Como efeito das últimas chuvas que atingiram o município, em janeiro, bueiros explodiram em uma importante via da região Centro-Sul, e a rua se tornou um rio caudaloso, cuja correnteza arrastou carros, placas e tudo o mais que havia pela frente. De acordo com a Superintendência de Desenvolvimento da Capital, dos 654 quilômetros da malha fluvial do município, 208 estão escondidos sob ruas, avenidas e construções. Na última década, a capital mineira passou por diversas obras que agravaram a situação.\n\nAdaptado de exame.abril.com.br, 06/02/2020.\n\nA medida implantada através do novo Plano Diretor de Belo Horizonte pode contribuir para minimizar os problemas ambientais apontados na reportagem, ao produzir o seguinte impacto sobre o ambiente urbano:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevação da taxa de escoamento superficial"
+      },
+      {
+        "letter": "B",
+        "text": "diminuição do volume de sedimentação aluvial"
+      },
+      {
+        "letter": "C",
+        "text": "ampliação da bacia de drenagem da metrópole"
+      },
+      {
+        "letter": "D",
+        "text": "redução do índice de impermeabilização do solo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Canalizar um córrego significa confiná-lo em galerias e cobri-lo com ruas e construções, substituindo margens e leito naturais por superfícies impermeáveis. Ao proibir essa prática, o Plano Diretor preserva os cursos d'água abertos e o solo permeável do seu entorno, permitindo que parte da água da chuva se infiltre em vez de escoar toda para os bueiros. Daí a redução do índice de impermeabilização, que ataca a causa das enchentes descritas. A alternativa (A) inverte o efeito desejado - o objetivo é diminuir, não elevar, o escoamento superficial; a bacia de drenagem é uma unidade natural que não se amplia por decisão administrativa; e a sedimentação não é o problema apontado na reportagem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q53",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 53,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Na Idade Média, as cidades-Estado italianas lideravam a \"revolução comercial\" europeia com inovações nas áreas de finanças, intercâmbio e tecnologia. Então algo estranho aconteceu. Em 1264, por exemplo, a população da cidade de Ferrara decretou que \"O magnificente e ilustre Lorde Obizzo será dirigente, regente geral e permanente soberano sobre a cidade\". Repentinamente, uma república votou para que ela mesma deixasse de existir. As instituições da Itália medieval sucumbiram ao que chamamos agora de populismo: uma estratégia excludente e antielitista para criar uma coalizão dos descontentes. O método é excludente porque ele se baseia em uma definição específica de \"o povo\", cujos interesses devem ser defendidos não apenas da elite, mas de todos os outros.\n\nAdaptado de project-syndicate.org, 31/05/2019.\n\nO processo político descrito no texto pode ser associado a uma tendência atual de enfraquecimento dos regimes democráticos. Essa tendência está enunciada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retrocesso do pluralismo social, gerando o aumento da intolerância"
+      },
+      {
+        "letter": "B",
+        "text": "esvaziamento do poder presidencial, causando a descentralização da gestão"
+      },
+      {
+        "letter": "C",
+        "text": "desvalorização da identidade nacional, produzindo a negação do patriotismo"
+      },
+      {
+        "letter": "D",
+        "text": "limitação da propriedade privada, provocando o fortalecimento do sindicalismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto define o populismo como estratégia \"excludente\", assentada numa definição estreita de \"o povo\" cujos interesses devem ser defendidos \"não apenas da elite, mas de todos os outros\". Reduzir o povo a um único grupo legítimo é exatamente negar o pluralismo - o reconhecimento de que a sociedade é composta por interesses e identidades diversos, todos com direito a representação. O resultado desse retrocesso é a intolerância com quem fica de fora da definição, o que corrói a democracia por dentro, como ilustra Ferrara, onde a própria república votou sua extinção. As demais alternativas apontam para o contrário do descrito: o populismo concentra o poder no líder em vez de esvaziá-lo, costuma exaltar (não negar) a identidade nacional, e o texto não trata de propriedade privada nem de sindicalismo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q54",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 54,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Parasita, filme do sul-coreano Bong Joon-ho, estreou no Brasil em novembro de 2019 e foi ganhador do Oscar de 2020. Sucesso de bilheteria onde foi exibido, a trama se passa na Coreia do Sul, na atualidade, e aborda a relação entre duas famílias, os Kim, que são pobres e vivem num porão, e os Park, abastados e habitantes de uma mansão luxuosa. Os primeiros irão se \"infiltrar\" um a um na vida da família rica, empregando-se em diferentes funções de seu cotidiano. Parasita é uma história sobre o capitalismo, segundo declara o próprio diretor, tal qual são outros de seus filmes. É a distopia na qual vive a Coreia do Sul e o mundo. \"Antes de ser um grande termo sociológico, o capitalismo é apenas a nossa vida\", diz Bong.\n\nAdaptado de nexojornal.com.br, 16/11/2019.\n\n(A questão é acompanhada de imagens da casa da família Kim, um semissubsolo, e da casa da família Park, uma mansão em terreno elevado.)\n\nA partir da observação das imagens e da leitura do texto, pode-se apontar a seguinte contradição do desenvolvimento capitalista:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "relativização de liberdades democráticas"
+      },
+      {
+        "letter": "B",
+        "text": "separação de categorias profissionais"
+      },
+      {
+        "letter": "C",
+        "text": "espacialização das hierarquias sociais"
+      },
+      {
+        "letter": "D",
+        "text": "ascensão de classes populares"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A oposição entre as duas moradias é literalmente vertical: os Kim vivem num porão, abaixo do nível da rua, e os Park numa mansão em terreno elevado. A desigualdade de classe deixa de ser apenas econômica e se inscreve na organização do espaço urbano, com cada grupo ocupando um nível que corresponde à sua posição social - é a espacialização das hierarquias sociais. As demais alternativas não se sustentam no material apresentado: não se discutem liberdades democráticas, a divisão em categorias profissionais não é o eixo do contraste, e o filme mostra o oposto da ascensão popular, já que os Kim precisam se disfarçar para acessar a casa dos ricos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q55",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 55,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "ASSEMBLEIA DE OPERÁRIOS EM GREVE NA REGIÃO DO ABC\n\nEm 13 de março de 1979, metalúrgicos de São Bernardo, Diadema, Santo André e São Caetano deflagram a primeira greve geral de uma categoria no país desde a paralisação de Contagem (MG), em 1968. A medida foi aprovada para obter um reajuste salarial de 78,1%. Mesmo enfrentando forte repressão e a intervenção do governo nos sindicatos, a greve durou duas semanas. Foi suspensa por 45 dias para que fossem reabertas negociações com as empresas, que acabaram concedendo um reajuste de 63%.\n\nCerca de 200 mil operários participaram do movimento, que paralisou indústrias automobilísticas e de autopeças, além de outras grandes empresas da região. Os grevistas receberam apoio da igreja católica, de entidades de classe, do Movimento Democrático Brasileiro e de artistas famosos.\n\nAdaptado de memorialdademocracia.com.br.\n\nNa história do movimento sindical no Brasil, a greve dos metalúrgicos do ABC, em São Paulo, em 1979, representa um marco. Sua importância, no contexto da época, esteve associada aos seguintes fatores:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regularização da liberdade de associação e anistia das lideranças locais"
+      },
+      {
+        "letter": "B",
+        "text": "interrupção de setor produtivo estratégico e respaldo da sociedade civil"
+      },
+      {
+        "letter": "C",
+        "text": "garantia da estabilidade de emprego e flexibilização do corporativismo profissional"
+      },
+      {
+        "letter": "D",
+        "text": "fortalecimento do equilíbrio econômico nacional e modernização das relações capitalistas"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois fatores estão explicitados na reportagem. O primeiro é o peso econômico da paralisação: o ABC concentrava a indústria automobilística e de autopeças, carro-chefe da economia brasileira, e parar 200 mil operários desse setor tinha impacto imediato sobre o país. O segundo é a rede de apoio construída fora das fábricas - igreja católica, entidades de classe, o MDB e artistas -, que deu ao movimento respaldo da sociedade civil e dificultou a repressão em plena ditadura militar. Foi essa combinação que garantiu a resistência de duas semanas e o reajuste de 63%. As demais alternativas descrevem conquistas legais e econômicas que não foram objeto nem resultado dessa greve.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q56",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Perto de Joanesburgo, uma autoestrada separa duas comunidades contrastantes: o bairro burguês majoritariamente branco de Primrose e a povoação de Makause, onde os mineiros desempregados se apropriaram de terras na década de 1990. Quase todos os seus moradores são negros.\nAdaptado de nationalgeographic.sapo.pt.\n\nA África do Sul comemora, em 11 de fevereiro de 2020, o 30º aniversário da saída de Nelson Mandela da prisão. \"O dia 11 de fevereiro de 1990 sempre será lembrado como um dos dias mais memoráveis da história do mundo, não apenas da história da África do Sul. O dia em que Madiba foi libertado foi o dia em que todos sabíamos que o apartheid estava morto\", disse o atual presidente Ramaphosa à multidão que se reuniu para ouvi-lo.\nAdaptado de noticias.r7.com, 11/02/2020.\n\nHá 30 anos, a libertação de Nelson Mandela, na África do Sul, significou que o regime de apartheid \"estava morto\", conforme a reportagem. Na atualidade, a fotografia aérea de logradouros da cidade de Joanesburgo representa a seguinte herança desse regime:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rigidez do planejamento urbano"
+      },
+      {
+        "letter": "B",
+        "text": "modernização do transporte público"
+      },
+      {
+        "letter": "C",
+        "text": "aprimoramento do manejo ambiental"
+      },
+      {
+        "letter": "D",
+        "text": "permanência da segregação espacial"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O apartheid organizou juridicamente a separação racial do espaço, destinando bairros distintos a brancos e negros. Décadas após seu fim formal, a paisagem de Joanesburgo ainda exibe esse desenho: de um lado da autoestrada, o bairro de classe média majoritariamente branco; do outro, uma ocupação de moradores quase todos negros. A divisão deixou de ser lei, mas persiste inscrita na cidade como desigualdade socioespacial - a permanência da segregação espacial. As demais alternativas tratam a herança como um traço positivo de planejamento, transporte ou meio ambiente, o que contraria o sentido da comparação proposta.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q57",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 57,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "CIDADE RELEMBRA CERCO QUE A FEZ QUEIMAR LIVROS DE PAULO FREIRE\n\nMaria Eneide Araújo, de 63 anos, escondeu seus cadernos embaixo do colchão. Não queria perder a recordação da alfabetização, mas não teve jeito. Os boatos de que aquelas anotações poderiam levar seu pai e sua mãe presos, após o golpe militar de 1964, fizeram com que Eneide as entregasse, e todas foram queimadas. Em Angicos, no sertão do Rio Grande do Norte, outras pessoas fizeram o mesmo naqueles meados dos anos 1960: quem não queimou enterrou cadernos e livros que os ligassem às aulas dos monitores orientados por Paulo Freire. A cidade potiguar recebeu em 1963 o primeiro experimento do método criado pelo educador para alfabetização de adultos, e o objetivo era ambicioso: ensinar 300 pessoas a ler em 40 horas de aulas, em projeto que ficou conhecido como as 40 horas de Angicos.\n\nMARCEL RIZZO. Adaptado de Folha de São Paulo, 04/02/2020.\n\nO episódio relatado na reportagem, assim como a prisão e o exílio do pesquisador Paulo Freire, estiveram associados às ações repressoras instituídas logo após a deposição do presidente João Goulart, em 1964. Naquela conjuntura política, os novos governantes justificaram ações dessa natureza alegando a necessidade de evitar um contexto de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "democratização da prática pedagógica"
+      },
+      {
+        "letter": "B",
+        "text": "ideologização da cultura popular"
+      },
+      {
+        "letter": "C",
+        "text": "subversão de propostas liberais"
+      },
+      {
+        "letter": "D",
+        "text": "propagação de ideais comunistas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O golpe de 1964 se legitimou publicamente pelo anticomunismo, no quadro da Guerra Fria e da Doutrina de Segurança Nacional: qualquer iniciativa de organização popular era apresentada como ameaça de instalação de um regime comunista no Brasil. O método de Paulo Freire, ao alfabetizar adultos a partir de sua própria realidade e ao ampliar o eleitorado - já que analfabetos não votavam -, foi enquadrado nessa acusação, o que explica a perseguição, a queima de cadernos e o exílio do educador. As alternativas (A) e (B) descrevem características do próprio método, e não a justificativa alegada pelos militares, e (C) inverte os termos, pois o discurso oficial dizia defender a ordem contra a subversão, não atacar propostas liberais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q58",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 58,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "O tráfico de escravos africanos, maior movimento de migração forçada documentado pela história, forneceu a mão de obra que impulsionou o desenvolvimento econômico das Américas nos primeiros séculos de colonização europeia e moldou a composição genética das populações de norte a sul do continente. De 1514 a 1866, quando ocorreram, respectivamente, a primeira e a última das quase 35 mil viagens registradas de navios negreiros, cerca de 12,5 milhões de pessoas de diferentes regiões da África foram trazidas contra a vontade para o Novo Mundo. A maioria - quase 7,6 milhões, ou 61% do total - veio em um intervalo de tempo curto, entre 1750 e 1850. Esse período de maior tráfico transatlântico de escravos coincidiu com o aumento da miscigenação nas Américas, identificada em um estudo publicado em uma revista científica renomada. Segundo o geneticista Eduardo Tarazona Santos, \"o número de pessoas deslocadas nessa diáspora forçada foi tão grande que trouxe para as Américas representantes de toda a diversidade genética da África\".\n\nRICARDO ZORZETTO. Adaptado de revistapesquisa.fapesp.br, 03/03/2020.\n\nAo investigar a diversidade das populações africanas e seus vínculos com a miscigenação das populações afro-americanas, a pesquisa mencionada contribui para a crítica do racismo por valorizar o seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hierarquização das heranças de matriz étnica"
+      },
+      {
+        "letter": "B",
+        "text": "descrição das práticas de orientação eugênica"
+      },
+      {
+        "letter": "C",
+        "text": "redefinição das dinâmicas de mobilidade geográfica"
+      },
+      {
+        "letter": "D",
+        "text": "caracterização das relações de ancestralidade biológica"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A pesquisa rastreia geneticamente de quais regiões da África vieram os ancestrais das populações americanas, mostrando que a diáspora trouxe \"representantes de toda a diversidade genética da África\". Ao estabelecer cientificamente esses vínculos de ancestralidade biológica, ela desmonta a base do racismo, que supõe a existência de raças biologicamente distintas e desiguais: o que os dados revelam é uma continuidade genética entre africanos e afro-americanos e uma diversidade interna à África maior do que qualquer separação entre supostas raças. A alternativa (A) descreve justamente o que a pesquisa refuta; a eugenia não é objeto do estudo; e a mobilidade tratada é forçada e histórica, não redefinida pela genética.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2021-q59",
+    "exam": "uerj",
+    "year": 2021,
+    "originalNumber": 59,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "E, bem pensado, mesmo na sua pureza, o que vinha a ser a Pátria? Não teria levado toda a sua vida norteado por uma ilusão, por uma ideia a menos, sem base, sem apoio, por um Deus ou uma deusa cujo império se esvaía? Não sabia que essa ideia nascera da amplificação da crendice dos povos greco-romanos de que os ancestrais mortos continuariam a viver como sombras e era preciso alimentá-las para que eles não perseguissem os descendentes? (...) Reviu a história; viu as mutilações, os acréscimos em todos os países históricos e perguntou de si para si: como um homem que vivesse quatro séculos, sendo francês, inglês, italiano, alemão, podia sentir a Pátria?\n\nUma hora, para o francês, o Franco-Condado era terra dos seus avós, outra não era; num dado momento, a Alsácia não era, depois era e afinal não vinha a ser. Nós mesmos [brasileiros] não tivemos a Cisplatina e não a perdemos?\n\n(...) Certamente era uma noção sem consistência racional e precisava ser revista.\n\nLIMA BARRETO. Triste Fim de Policarpo Quaresma, parte III, capítulo V.\n\nNo romance Triste Fim de Policarpo Quaresma, Lima Barreto abordou contradições da sociedade brasileira do início do período republicano. Nesse contexto, na reflexão que faz no trecho citado, o personagem Major Quaresma ressalta um entendimento em que a noção de pátria pode ser definida atualmente como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "herança cultural"
+      },
+      {
+        "letter": "B",
+        "text": "comunidade imaginada"
+      },
+      {
+        "letter": "C",
+        "text": "contingência geográfica"
+      },
+      {
+        "letter": "D",
+        "text": "determinação econômica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Quaresma conclui que a pátria é \"uma noção sem consistência racional\": nasceu da amplificação de uma crença antiga e não corresponde a nenhuma realidade estável, já que as fronteiras se alteram continuamente - o Franco-Condado, a Alsácia, a Cisplatina ora pertencem, ora não. O que sustenta a pátria, portanto, é uma construção simbólica compartilhada, e não um dado objetivo. É precisamente a definição que Benedict Anderson consagraria como \"comunidade imaginada\": uma coletividade cujos membros nunca se conhecerão, mas que se representam mentalmente como unidade. A herança cultural e a geografia são justamente o que o personagem descarta como base sólida, e o texto não menciona fatores econômicos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "Vestibular Estadual UERJ 2021 - Exame Único (aplicado em 18/07/2021), caderno de questões objetivas e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2022-q01",
     "exam": "uerj",
     "year": 2022,
