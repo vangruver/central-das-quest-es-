@@ -36,6 +36,42 @@
     }
   },
   {
+    "id": "uerj-2016-q01",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A PRESSA DE ACABAR\n\nEvidentemente nós sofremos agora em todo o mundo de uma dolorosa moléstia: a pressa de acabar. Os nossos avós nunca tinham pressa. Ao contrário. Adiar, aumentar, era para eles a suprema delícia. Como os relógios, nesses tempos remotos, não eram maravilhas de precisão, os homens mediam os dias com todo o cuidado da atenção. (l. 1-5)\n\nSim! Em tudo, essa estranha pressa de acabar se ostenta como a marca do século. Não há mais livros definitivos, quadros destinados a não morrer, ideias imortais. Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, apenas sem fazer a digestão e sem ter tempo de a fazer. Antigamente as horas eram entidades que os homens conheciam imperfeitamente. Calcular a passagem das horas era tão complicado como calcular a passagem dos dias. Inventavam-se relógios de todos os moldes e formas. Hoje, nós somos escravos das horas, dessas senhoras inexoráveis* que não cedem nunca e cortam o dia da gente numa triste migalharia de minutos e segundos. Cada hora é para nós distinta, pessoal, característica, porque cada hora representa para nós o acúmulo de várias coisas que nós temos pressa de acabar. O relógio era um objeto de luxo. Hoje até os mendigos usam um marcador de horas, porque têm pressa, pressa de acabar. (l. 5-16)\n\nO homem mesmo será classificado, afirmo eu já com pressa, como o Homus cinematographicus. Nós somos uma delirante sucessão de fitas cinematográficas. Em meia hora de sessão tem-se um espetáculo multiforme e assustador cujo título geral é: Precisamos acabar depressa. O homem de agora é como a multidão: ativo e imediato. Não pensa, faz; não pergunta, obra; não reflete, julga. O homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. Todos os dias (dias em que ele não vê a beleza do sol ou do céu e a doçura das árvores porque não tem tempo, diariamente, nesse número de horas retalhadas em minutos e segundos que uma população de relógios marca, registra e desfia), o pobre diabo sua, labuta, desespera com os olhos fitos nesse hipotético poste de chegada que é a miragem da ilusão. Uns acabam pensando que encheram o tempo, que o mataram de vez. Outros desesperados vão para o hospício ou para os cemitérios. A corrida continua. E o Tempo também, o Tempo insensível e incomensurável, o Tempo infinito para o qual todo o esforço é inútil, o Tempo que não acaba nunca! É satanicamente doloroso. Mas que fazer? (l. 17-32)\n\nJOÃO DO RIO. Adaptado de Cinematógrafo: crônicas cariocas. Rio de Janeiro: ABL, 2009.\n* inexoráveis - que não cedem, implacáveis\n\nessa estranha pressa de acabar se ostenta como a marca do século. (l. 5)\n\nO trecho acima contém o eixo temático da crônica escrita por João do Rio em 1909. Na construção da opinião presente nesse trecho, é possível identificar um procedimento de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "negação"
+      },
+      {
+        "letter": "B",
+        "text": "dedução"
+      },
+      {
+        "letter": "C",
+        "text": "gradação"
+      },
+      {
+        "letter": "D",
+        "text": "generalização"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O narrador parte de uma observação particular — a pressa que percebe ao seu redor — e a estende a todo um período histórico, ao afirmar que essa pressa é “a marca do século”. Ampliar um traço observado até transformá-lo em característica de toda uma época é generalizar. Não há negação de tese anterior, nem encadeamento dedutivo a partir de premissas, nem intensificação progressiva de termos, que caracterizaria a gradação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q02",
     "exam": "uerj",
     "year": 2016,
@@ -69,6 +105,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q02",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - A PRESSA DE ACABAR\n\nEvidentemente nós sofremos agora em todo o mundo de uma dolorosa moléstia: a pressa de acabar. Os nossos avós nunca tinham pressa. Ao contrário. Adiar, aumentar, era para eles a suprema delícia. Como os relógios, nesses tempos remotos, não eram maravilhas de precisão, os homens mediam os dias com todo o cuidado da atenção. (l. 1-5)\n\nSim! Em tudo, essa estranha pressa de acabar se ostenta como a marca do século. Não há mais livros definitivos, quadros destinados a não morrer, ideias imortais. Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, apenas sem fazer a digestão e sem ter tempo de a fazer. Antigamente as horas eram entidades que os homens conheciam imperfeitamente. Calcular a passagem das horas era tão complicado como calcular a passagem dos dias. Inventavam-se relógios de todos os moldes e formas. Hoje, nós somos escravos das horas, dessas senhoras inexoráveis* que não cedem nunca e cortam o dia da gente numa triste migalharia de minutos e segundos. Cada hora é para nós distinta, pessoal, característica, porque cada hora representa para nós o acúmulo de várias coisas que nós temos pressa de acabar. O relógio era um objeto de luxo. Hoje até os mendigos usam um marcador de horas, porque têm pressa, pressa de acabar. (l. 5-16)\n\nO homem mesmo será classificado, afirmo eu já com pressa, como o Homus cinematographicus. Nós somos uma delirante sucessão de fitas cinematográficas. Em meia hora de sessão tem-se um espetáculo multiforme e assustador cujo título geral é: Precisamos acabar depressa. O homem de agora é como a multidão: ativo e imediato. Não pensa, faz; não pergunta, obra; não reflete, julga. O homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. Todos os dias (dias em que ele não vê a beleza do sol ou do céu e a doçura das árvores porque não tem tempo, diariamente, nesse número de horas retalhadas em minutos e segundos que uma população de relógios marca, registra e desfia), o pobre diabo sua, labuta, desespera com os olhos fitos nesse hipotético poste de chegada que é a miragem da ilusão. Uns acabam pensando que encheram o tempo, que o mataram de vez. Outros desesperados vão para o hospício ou para os cemitérios. A corrida continua. E o Tempo também, o Tempo insensível e incomensurável, o Tempo infinito para o qual todo o esforço é inútil, o Tempo que não acaba nunca! É satanicamente doloroso. Mas que fazer? (l. 17-32)\n\nJOÃO DO RIO. Adaptado de Cinematógrafo: crônicas cariocas. Rio de Janeiro: ABL, 2009.\n* inexoráveis - que não cedem, implacáveis\n\nHoje, nós somos escravos das horas, dessas senhoras inexoráveis que não cedem nunca (l. 12)\n\nNeste fragmento, o autor emprega uma figura de linguagem para expressar o embate entre o homem e o tempo. Essa figura de linguagem é conhecida como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ironia"
+      },
+      {
+        "letter": "B",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "C",
+        "text": "eufemismo"
+      },
+      {
+        "letter": "D",
+        "text": "personificação"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As horas são tratadas como “senhoras inexoráveis que não cedem nunca”, isto é, recebem vontade, caráter e capacidade de agir — atributos humanos conferidos a algo inanimado. Essa é a definição de personificação (ou prosopopeia). A escolha reforça o tema da crônica: o tempo aparece como adversário ativo, e o homem, como seu escravo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -108,6 +180,42 @@
     }
   },
   {
+    "id": "uerj-2016-q03",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 3,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A PRESSA DE ACABAR\n\nEvidentemente nós sofremos agora em todo o mundo de uma dolorosa moléstia: a pressa de acabar. Os nossos avós nunca tinham pressa. Ao contrário. Adiar, aumentar, era para eles a suprema delícia. Como os relógios, nesses tempos remotos, não eram maravilhas de precisão, os homens mediam os dias com todo o cuidado da atenção. (l. 1-5)\n\nSim! Em tudo, essa estranha pressa de acabar se ostenta como a marca do século. Não há mais livros definitivos, quadros destinados a não morrer, ideias imortais. Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, apenas sem fazer a digestão e sem ter tempo de a fazer. Antigamente as horas eram entidades que os homens conheciam imperfeitamente. Calcular a passagem das horas era tão complicado como calcular a passagem dos dias. Inventavam-se relógios de todos os moldes e formas. Hoje, nós somos escravos das horas, dessas senhoras inexoráveis* que não cedem nunca e cortam o dia da gente numa triste migalharia de minutos e segundos. Cada hora é para nós distinta, pessoal, característica, porque cada hora representa para nós o acúmulo de várias coisas que nós temos pressa de acabar. O relógio era um objeto de luxo. Hoje até os mendigos usam um marcador de horas, porque têm pressa, pressa de acabar. (l. 5-16)\n\nO homem mesmo será classificado, afirmo eu já com pressa, como o Homus cinematographicus. Nós somos uma delirante sucessão de fitas cinematográficas. Em meia hora de sessão tem-se um espetáculo multiforme e assustador cujo título geral é: Precisamos acabar depressa. O homem de agora é como a multidão: ativo e imediato. Não pensa, faz; não pergunta, obra; não reflete, julga. O homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. Todos os dias (dias em que ele não vê a beleza do sol ou do céu e a doçura das árvores porque não tem tempo, diariamente, nesse número de horas retalhadas em minutos e segundos que uma população de relógios marca, registra e desfia), o pobre diabo sua, labuta, desespera com os olhos fitos nesse hipotético poste de chegada que é a miragem da ilusão. Uns acabam pensando que encheram o tempo, que o mataram de vez. Outros desesperados vão para o hospício ou para os cemitérios. A corrida continua. E o Tempo também, o Tempo insensível e incomensurável, o Tempo infinito para o qual todo o esforço é inútil, o Tempo que não acaba nunca! É satanicamente doloroso. Mas que fazer? (l. 17-32)\n\nJOÃO DO RIO. Adaptado de Cinematógrafo: crônicas cariocas. Rio de Janeiro: ABL, 2009.\n* inexoráveis - que não cedem, implacáveis\n\nNós somos uma delirante sucessão de fitas cinematográficas. (l. 18)\n\nAo comparar os seres humanos com filmes, o autor estabelece uma crítica. No contexto, essa crítica pode ser sintetizada pelo seguinte termo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "insubordinação das hierarquias"
+      },
+      {
+        "letter": "B",
+        "text": "coisificação das pessoas"
+      },
+      {
+        "letter": "C",
+        "text": "arrogância desmedida"
+      },
+      {
+        "letter": "D",
+        "text": "intolerância moral"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao dizer que somos “uma delirante sucessão de fitas cinematográficas”, o cronista reduz o ser humano a um objeto produzido e consumido em série, sem interioridade e sem tempo para a reflexão — o que o parágrafo confirma em “Não pensa, faz; não pergunta, obra; não reflete, julga”. A crítica é, portanto, à coisificação das pessoas pela lógica da pressa.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q04",
     "exam": "uerj",
     "year": 2016,
@@ -141,6 +249,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q04",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 4,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A PRESSA DE ACABAR\n\nEvidentemente nós sofremos agora em todo o mundo de uma dolorosa moléstia: a pressa de acabar. Os nossos avós nunca tinham pressa. Ao contrário. Adiar, aumentar, era para eles a suprema delícia. Como os relógios, nesses tempos remotos, não eram maravilhas de precisão, os homens mediam os dias com todo o cuidado da atenção. (l. 1-5)\n\nSim! Em tudo, essa estranha pressa de acabar se ostenta como a marca do século. Não há mais livros definitivos, quadros destinados a não morrer, ideias imortais. Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, apenas sem fazer a digestão e sem ter tempo de a fazer. Antigamente as horas eram entidades que os homens conheciam imperfeitamente. Calcular a passagem das horas era tão complicado como calcular a passagem dos dias. Inventavam-se relógios de todos os moldes e formas. Hoje, nós somos escravos das horas, dessas senhoras inexoráveis* que não cedem nunca e cortam o dia da gente numa triste migalharia de minutos e segundos. Cada hora é para nós distinta, pessoal, característica, porque cada hora representa para nós o acúmulo de várias coisas que nós temos pressa de acabar. O relógio era um objeto de luxo. Hoje até os mendigos usam um marcador de horas, porque têm pressa, pressa de acabar. (l. 5-16)\n\nO homem mesmo será classificado, afirmo eu já com pressa, como o Homus cinematographicus. Nós somos uma delirante sucessão de fitas cinematográficas. Em meia hora de sessão tem-se um espetáculo multiforme e assustador cujo título geral é: Precisamos acabar depressa. O homem de agora é como a multidão: ativo e imediato. Não pensa, faz; não pergunta, obra; não reflete, julga. O homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. Todos os dias (dias em que ele não vê a beleza do sol ou do céu e a doçura das árvores porque não tem tempo, diariamente, nesse número de horas retalhadas em minutos e segundos que uma população de relógios marca, registra e desfia), o pobre diabo sua, labuta, desespera com os olhos fitos nesse hipotético poste de chegada que é a miragem da ilusão. Uns acabam pensando que encheram o tempo, que o mataram de vez. Outros desesperados vão para o hospício ou para os cemitérios. A corrida continua. E o Tempo também, o Tempo insensível e incomensurável, o Tempo infinito para o qual todo o esforço é inútil, o Tempo que não acaba nunca! É satanicamente doloroso. Mas que fazer? (l. 17-32)\n\nJOÃO DO RIO. Adaptado de Cinematógrafo: crônicas cariocas. Rio de Janeiro: ABL, 2009.\n* inexoráveis - que não cedem, implacáveis\n\nO homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. (l. 22-23)\n\nDe acordo com a leitura global do texto, o autor caracteriza a tentativa de controlar o tempo como “suprema insanidade”, porque se trata de uma tarefa que não está ao alcance do homem. O trecho que melhor expõe a insanidade dessa tentativa é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "homens mediam os dias com todo o cuidado da atenção. (l. 4)"
+      },
+      {
+        "letter": "B",
+        "text": "Inventavam-se relógios de todos os moldes e formas. (l. 10-11)"
+      },
+      {
+        "letter": "C",
+        "text": "O homem de agora é como a multidão: ativo e imediato. (l. 20)"
+      },
+      {
+        "letter": "D",
+        "text": "sua, labuta, desespera com os olhos fitos nesse hipotético poste (l. 26-27)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A insanidade está no esforço desesperado dirigido a um alvo que não existe. É o que se lê em “sua, labuta, desespera com os olhos fitos nesse hipotético poste” — poste de chegada que o próprio texto chama de “miragem da ilusão”. Os demais trechos descrevem hábitos de medir o tempo ou caracterizam o homem moderno, sem mostrar a inutilidade do empenho.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -180,6 +324,150 @@
     }
   },
   {
+    "id": "uerj-2016-q05",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 5,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - tirinha de André Dahmer (Folha de São Paulo, 13/05/2013)\n\nNa tirinha, dois personagens conversam sobre a internet. A conclusão da tira é a afirmação \"A internet é um tribunal...\", seguida da constatação de que, nesse tribunal, não há ninguém sendo acusado.\n\nA última fala da tirinha causa um estranhamento, porque assinala a ausência de um elemento fundamental para a instalação de um tribunal: a existência de alguém que esteja sendo acusado. Essa fala sugere o seguinte ponto de vista do autor em relação aos usuários da internet:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proferem vereditos fictícios sem que haja legitimidade do processo"
+      },
+      {
+        "letter": "B",
+        "text": "configuram julgamentos vazios ainda que existam crimes comprovados"
+      },
+      {
+        "letter": "C",
+        "text": "emitem juízos sobre os outros mas não se veem na posição de acusados"
+      },
+      {
+        "letter": "D",
+        "text": "apressam-se em opiniões superficiais mesmo que possuam dados concretos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O tribunal da internet só tem juízes: todos julgam, ninguém se reconhece como réu. É esse desequilíbrio que a última fala expõe, e é o que a alternativa C sintetiza. B e D pressupõem crimes comprovados ou dados concretos, o que a tira não afirma; A desloca o problema para a legitimidade do processo, quando o estranhamento vem justamente da ausência do acusado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q06",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - tirinha de André Dahmer (Folha de São Paulo, 13/05/2013)\n\nNa tirinha, dois personagens conversam sobre a internet. A conclusão da tira é a afirmação \"A internet é um tribunal...\", seguida da constatação de que, nesse tribunal, não há ninguém sendo acusado.\n\nA internet é um tribunal...\n\nA afirmação acima configura um exemplo de metáfora. A partir da análise desse exemplo, pode-se definir “metáfora” como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alusão negativa"
+      },
+      {
+        "letter": "B",
+        "text": "simbologia crítica"
+      },
+      {
+        "letter": "C",
+        "text": "representação parcial"
+      },
+      {
+        "letter": "D",
+        "text": "comparação subentendida"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Dizer que a internet “é” um tribunal equivale a compará-la a um tribunal, mas sem o conectivo comparativo (“como”, “tal qual”): a comparação fica implícita na própria identificação entre os dois termos. É exatamente isso que define a metáfora. A alternativa D descreve esse mecanismo; as demais apontam efeitos possíveis do uso da figura, não a sua definição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q07",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A PRESSA DE ACABAR\n\nEvidentemente nós sofremos agora em todo o mundo de uma dolorosa moléstia: a pressa de acabar. Os nossos avós nunca tinham pressa. Ao contrário. Adiar, aumentar, era para eles a suprema delícia. Como os relógios, nesses tempos remotos, não eram maravilhas de precisão, os homens mediam os dias com todo o cuidado da atenção. (l. 1-5)\n\nSim! Em tudo, essa estranha pressa de acabar se ostenta como a marca do século. Não há mais livros definitivos, quadros destinados a não morrer, ideias imortais. Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, apenas sem fazer a digestão e sem ter tempo de a fazer. Antigamente as horas eram entidades que os homens conheciam imperfeitamente. Calcular a passagem das horas era tão complicado como calcular a passagem dos dias. Inventavam-se relógios de todos os moldes e formas. Hoje, nós somos escravos das horas, dessas senhoras inexoráveis* que não cedem nunca e cortam o dia da gente numa triste migalharia de minutos e segundos. Cada hora é para nós distinta, pessoal, característica, porque cada hora representa para nós o acúmulo de várias coisas que nós temos pressa de acabar. O relógio era um objeto de luxo. Hoje até os mendigos usam um marcador de horas, porque têm pressa, pressa de acabar. (l. 5-16)\n\nO homem mesmo será classificado, afirmo eu já com pressa, como o Homus cinematographicus. Nós somos uma delirante sucessão de fitas cinematográficas. Em meia hora de sessão tem-se um espetáculo multiforme e assustador cujo título geral é: Precisamos acabar depressa. O homem de agora é como a multidão: ativo e imediato. Não pensa, faz; não pergunta, obra; não reflete, julga. O homem cinematográfico resolveu a suprema insanidade: encher o tempo, atopetar o tempo, abarrotar o tempo, paralisar o tempo para chegar antes dele. Todos os dias (dias em que ele não vê a beleza do sol ou do céu e a doçura das árvores porque não tem tempo, diariamente, nesse número de horas retalhadas em minutos e segundos que uma população de relógios marca, registra e desfia), o pobre diabo sua, labuta, desespera com os olhos fitos nesse hipotético poste de chegada que é a miragem da ilusão. Uns acabam pensando que encheram o tempo, que o mataram de vez. Outros desesperados vão para o hospício ou para os cemitérios. A corrida continua. E o Tempo também, o Tempo insensível e incomensurável, o Tempo infinito para o qual todo o esforço é inútil, o Tempo que não acaba nunca! É satanicamente doloroso. Mas que fazer? (l. 17-32)\n\nJOÃO DO RIO. Adaptado de Cinematógrafo: crônicas cariocas. Rio de Janeiro: ABL, 2009.\n* inexoráveis - que não cedem, implacáveis\n\nA tira de André Dahmer, em que a internet é apresentada como um tribunal em que todos julgam e ninguém é acusado, pode ser relacionada com o texto anterior, a crônica de João do Rio. O trecho da crônica que melhor evidencia essa relação é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Trabalha-se muito mais, pensa-se muito mais, ama-se mesmo muito mais, (l. 6-7)"
+      },
+      {
+        "letter": "B",
+        "text": "Em meia hora de sessão tem-se um espetáculo multiforme e assustador (l. 18-19)"
+      },
+      {
+        "letter": "C",
+        "text": "Não pensa, faz; não pergunta, obra; não reflete, julga. (l. 20-21)"
+      },
+      {
+        "letter": "D",
+        "text": "Uns acabam pensando que encheram o tempo, que o mataram de vez. (l. 28)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A tira mostra usuários que sentenciam sem processo, sem reflexão e sem se colocarem em questão. O trecho da crônica que descreve exatamente esse comportamento é “Não pensa, faz; não pergunta, obra; não reflete, julga”, em que o julgar aparece como substituto do refletir. Os demais trechos tratam do ritmo do trabalho ou da ilusão de vencer o tempo, sem a ideia de julgamento apressado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q08",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - O FUTURO ERA LINDO\n\nA informação seria livre. Todo o saber do mundo seria compartilhado, bem como a música, o cinema, a literatura e a ciência. O custo seria zero. O espaço seria infinito. A velocidade, estonteante. A solidariedade e a colaboração seriam os valores supremos. A criatividade, o único poder verdadeiro. O bem triunfaria sobre os males do capitalismo. O sistema de representação se tornaria obsoleto. Todos os seres humanos teriam oportunidades iguais em qualquer lugar do planeta. Todos seriam empreendedores e inventivos. Todos poderiam se expressar livremente. Censura, nunca mais. As fronteiras deixariam de existir. As distâncias se tornariam irrelevantes. O inimaginável seria possível. O sonho, qualquer sonho, poderia se tornar realidade. (l. 1-8)\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. Por anos esquecemos que a internet foi uma invenção militar, criada para manter o poder de quem já o tinha. Por anos fingimos que transformar produtos físicos em produtos virtuais era algo ecologicamente correto, esquecendo que a fabricação de computadores e celulares, com a obsolescência embutida em seu DNA, demanda o consumo de quantidades vexatórias de combustíveis fósseis, de produtos químicos e de água, sem falar no volume assombroso de lixo não reciclado em que resultam, incluindo lixo tóxico. (l. 9-15)\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades em tão pouco tempo. (l. 16-18)\n\nNinguém previu que os mesmos Estados Unidos, graças às maravilhas da internet sempre tão aberta e juvenil, se consolidariam como os maiores espiões do mundo, humilhando potências como a Alemanha e também o Brasil, impondo os métodos de sua inteligência militar sobre a população mundial, e guiando ao arrepio da justiça os bebês engenheiros nota dez em matemática mas ignorantes completos em matéria de ética, política e em boas maneiras. Ninguém previu a febre das notícias inventadas, a civilização de perfis falsos, as enxurradas de vírus, os arrastões de números de cartão de crédito, a empulhação dos resultados numéricos falseados por robôs ou gerados por trabalhadores mal pagos em países do terceiro mundo, o fim da privacidade, o terrorismo eletrônico, inclusive de Estado. (l. 18-28)\n\nMARION STRECKER. Adaptado de Folha de São Paulo, 29/07/2014.\n\nO primeiro parágrafo expõe projeções passadas sobre possibilidades de um futuro regido pela internet. O recurso linguístico que permite identificar que se trata de projeção e não de fatos do passado é o uso da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "forma verbal"
+      },
+      {
+        "letter": "B",
+        "text": "pontuação informal"
+      },
+      {
+        "letter": "C",
+        "text": "adjetivação positiva"
+      },
+      {
+        "letter": "D",
+        "text": "estrutura coordenativa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Todo o primeiro parágrafo está no futuro do pretérito — seria, teriam, poderiam, triunfaria. Esse tempo verbal exprime justamente o que se esperava que viesse a acontecer a partir de um ponto no passado, e não o que de fato ocorreu. É a forma verbal, portanto, que marca o caráter de projeção; pontuação, adjetivos e coordenação aparecem no trecho, mas não distinguem previsão de fato consumado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q09",
     "exam": "uerj",
     "year": 2016,
@@ -213,6 +501,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q09",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O FUTURO ERA LINDO\n\nA informação seria livre. Todo o saber do mundo seria compartilhado, bem como a música, o cinema, a literatura e a ciência. O custo seria zero. O espaço seria infinito. A velocidade, estonteante. A solidariedade e a colaboração seriam os valores supremos. A criatividade, o único poder verdadeiro. O bem triunfaria sobre os males do capitalismo. O sistema de representação se tornaria obsoleto. Todos os seres humanos teriam oportunidades iguais em qualquer lugar do planeta. Todos seriam empreendedores e inventivos. Todos poderiam se expressar livremente. Censura, nunca mais. As fronteiras deixariam de existir. As distâncias se tornariam irrelevantes. O inimaginável seria possível. O sonho, qualquer sonho, poderia se tornar realidade. (l. 1-8)\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. Por anos esquecemos que a internet foi uma invenção militar, criada para manter o poder de quem já o tinha. Por anos fingimos que transformar produtos físicos em produtos virtuais era algo ecologicamente correto, esquecendo que a fabricação de computadores e celulares, com a obsolescência embutida em seu DNA, demanda o consumo de quantidades vexatórias de combustíveis fósseis, de produtos químicos e de água, sem falar no volume assombroso de lixo não reciclado em que resultam, incluindo lixo tóxico. (l. 9-15)\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades em tão pouco tempo. (l. 16-18)\n\nNinguém previu que os mesmos Estados Unidos, graças às maravilhas da internet sempre tão aberta e juvenil, se consolidariam como os maiores espiões do mundo, humilhando potências como a Alemanha e também o Brasil, impondo os métodos de sua inteligência militar sobre a população mundial, e guiando ao arrepio da justiça os bebês engenheiros nota dez em matemática mas ignorantes completos em matéria de ética, política e em boas maneiras. Ninguém previu a febre das notícias inventadas, a civilização de perfis falsos, as enxurradas de vírus, os arrastões de números de cartão de crédito, a empulhação dos resultados numéricos falseados por robôs ou gerados por trabalhadores mal pagos em países do terceiro mundo, o fim da privacidade, o terrorismo eletrônico, inclusive de Estado. (l. 18-28)\n\nMARION STRECKER. Adaptado de Folha de São Paulo, 29/07/2014.\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. (l. 9)\n\nApós essa abertura, no segundo parágrafo, há uma sucessão de frases que desempenham um papel argumentativo. Esse papel é principalmente o de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revelar contradição"
+      },
+      {
+        "letter": "B",
+        "text": "expor comprovação"
+      },
+      {
+        "letter": "C",
+        "text": "fundamentar afirmação"
+      },
+      {
+        "letter": "D",
+        "text": "promover exemplificação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Depois de retomar as palavras de ordem otimistas, o parágrafo emenda o que “esquecemos” e o que “fingimos”: a origem militar da rede e o custo ambiental de equipamentos e lixo eletrônico. Cada frase desmente um traço da utopia enunciada, de modo que a função argumentativa é revelar a contradição entre o discurso e a realidade — e não comprovar ou exemplificar a promessa inicial.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -252,6 +576,42 @@
     }
   },
   {
+    "id": "uerj-2016-q10",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - O FUTURO ERA LINDO\n\nA informação seria livre. Todo o saber do mundo seria compartilhado, bem como a música, o cinema, a literatura e a ciência. O custo seria zero. O espaço seria infinito. A velocidade, estonteante. A solidariedade e a colaboração seriam os valores supremos. A criatividade, o único poder verdadeiro. O bem triunfaria sobre os males do capitalismo. O sistema de representação se tornaria obsoleto. Todos os seres humanos teriam oportunidades iguais em qualquer lugar do planeta. Todos seriam empreendedores e inventivos. Todos poderiam se expressar livremente. Censura, nunca mais. As fronteiras deixariam de existir. As distâncias se tornariam irrelevantes. O inimaginável seria possível. O sonho, qualquer sonho, poderia se tornar realidade. (l. 1-8)\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. Por anos esquecemos que a internet foi uma invenção militar, criada para manter o poder de quem já o tinha. Por anos fingimos que transformar produtos físicos em produtos virtuais era algo ecologicamente correto, esquecendo que a fabricação de computadores e celulares, com a obsolescência embutida em seu DNA, demanda o consumo de quantidades vexatórias de combustíveis fósseis, de produtos químicos e de água, sem falar no volume assombroso de lixo não reciclado em que resultam, incluindo lixo tóxico. (l. 9-15)\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades em tão pouco tempo. (l. 16-18)\n\nNinguém previu que os mesmos Estados Unidos, graças às maravilhas da internet sempre tão aberta e juvenil, se consolidariam como os maiores espiões do mundo, humilhando potências como a Alemanha e também o Brasil, impondo os métodos de sua inteligência militar sobre a população mundial, e guiando ao arrepio da justiça os bebês engenheiros nota dez em matemática mas ignorantes completos em matéria de ética, política e em boas maneiras. Ninguém previu a febre das notícias inventadas, a civilização de perfis falsos, as enxurradas de vírus, os arrastões de números de cartão de crédito, a empulhação dos resultados numéricos falseados por robôs ou gerados por trabalhadores mal pagos em países do terceiro mundo, o fim da privacidade, o terrorismo eletrônico, inclusive de Estado. (l. 18-28)\n\nMARION STRECKER. Adaptado de Folha de São Paulo, 29/07/2014.\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades (l. 16-18)\n\nO vocábulo tão, associado ao conectivo que, estabelece uma relação coesiva de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concessão"
+      },
+      {
+        "letter": "B",
+        "text": "explicação"
+      },
+      {
+        "letter": "C",
+        "text": "consequência"
+      },
+      {
+        "letter": "D",
+        "text": "simultaneidade"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O par correlativo tão... que introduz oração subordinada adverbial consecutiva: a intensidade indicada por tão produz o resultado expresso na oração seguinte. Aqui, a concentração de poder e dinheiro foi tamanha que teve como efeito a destruição de indústrias e atividades. Concessão exigiria embora ou ainda que; explicação, pois ou porque.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q11",
     "exam": "uerj",
     "year": 2016,
@@ -285,6 +645,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q11",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - O FUTURO ERA LINDO\n\nA informação seria livre. Todo o saber do mundo seria compartilhado, bem como a música, o cinema, a literatura e a ciência. O custo seria zero. O espaço seria infinito. A velocidade, estonteante. A solidariedade e a colaboração seriam os valores supremos. A criatividade, o único poder verdadeiro. O bem triunfaria sobre os males do capitalismo. O sistema de representação se tornaria obsoleto. Todos os seres humanos teriam oportunidades iguais em qualquer lugar do planeta. Todos seriam empreendedores e inventivos. Todos poderiam se expressar livremente. Censura, nunca mais. As fronteiras deixariam de existir. As distâncias se tornariam irrelevantes. O inimaginável seria possível. O sonho, qualquer sonho, poderia se tornar realidade. (l. 1-8)\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. Por anos esquecemos que a internet foi uma invenção militar, criada para manter o poder de quem já o tinha. Por anos fingimos que transformar produtos físicos em produtos virtuais era algo ecologicamente correto, esquecendo que a fabricação de computadores e celulares, com a obsolescência embutida em seu DNA, demanda o consumo de quantidades vexatórias de combustíveis fósseis, de produtos químicos e de água, sem falar no volume assombroso de lixo não reciclado em que resultam, incluindo lixo tóxico. (l. 9-15)\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades em tão pouco tempo. (l. 16-18)\n\nNinguém previu que os mesmos Estados Unidos, graças às maravilhas da internet sempre tão aberta e juvenil, se consolidariam como os maiores espiões do mundo, humilhando potências como a Alemanha e também o Brasil, impondo os métodos de sua inteligência militar sobre a população mundial, e guiando ao arrepio da justiça os bebês engenheiros nota dez em matemática mas ignorantes completos em matéria de ética, política e em boas maneiras. Ninguém previu a febre das notícias inventadas, a civilização de perfis falsos, as enxurradas de vírus, os arrastões de números de cartão de crédito, a empulhação dos resultados numéricos falseados por robôs ou gerados por trabalhadores mal pagos em países do terceiro mundo, o fim da privacidade, o terrorismo eletrônico, inclusive de Estado. (l. 18-28)\n\nMARION STRECKER. Adaptado de Folha de São Paulo, 29/07/2014.\n\nO termo megahipercorporações é formado por um processo que enfatiza o tamanho e o poder das corporações econômicas atuais. Essa ênfase é produzida pelo emprego de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sufixos de caráter aumentativo"
+      },
+      {
+        "letter": "B",
+        "text": "prefixos com sentido semelhante"
+      },
+      {
+        "letter": "C",
+        "text": "radicais de combinação obrigatória"
+      },
+      {
+        "letter": "D",
+        "text": "desinências de significado específico"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A palavra acumula dois prefixos de valor intensificador, mega- e hiper-, ambos com sentido de grandeza e excesso. A repetição de prefixos próximos é o que produz o efeito de exagero. Não há sufixo aumentativo (como -ão), e desinências são morfemas de flexão, que nada acrescentam de intensidade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -324,6 +720,42 @@
     }
   },
   {
+    "id": "uerj-2016-q12",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O FUTURO ERA LINDO\n\nA informação seria livre. Todo o saber do mundo seria compartilhado, bem como a música, o cinema, a literatura e a ciência. O custo seria zero. O espaço seria infinito. A velocidade, estonteante. A solidariedade e a colaboração seriam os valores supremos. A criatividade, o único poder verdadeiro. O bem triunfaria sobre os males do capitalismo. O sistema de representação se tornaria obsoleto. Todos os seres humanos teriam oportunidades iguais em qualquer lugar do planeta. Todos seriam empreendedores e inventivos. Todos poderiam se expressar livremente. Censura, nunca mais. As fronteiras deixariam de existir. As distâncias se tornariam irrelevantes. O inimaginável seria possível. O sonho, qualquer sonho, poderia se tornar realidade. (l. 1-8)\n\nLivre, grátis, inovador, coletivo, palavras-chave do novo mundo que a internet inaugurou. Por anos esquecemos que a internet foi uma invenção militar, criada para manter o poder de quem já o tinha. Por anos fingimos que transformar produtos físicos em produtos virtuais era algo ecologicamente correto, esquecendo que a fabricação de computadores e celulares, com a obsolescência embutida em seu DNA, demanda o consumo de quantidades vexatórias de combustíveis fósseis, de produtos químicos e de água, sem falar no volume assombroso de lixo não reciclado em que resultam, incluindo lixo tóxico. (l. 9-15)\n\nNinguém imaginou que o poder e o dinheiro se tornariam tão concentrados em megahipercorporações norte-americanas como o Google, que iriam destruir para sempre tantas indústrias e atividades em tão pouco tempo. (l. 16-18)\n\nNinguém previu que os mesmos Estados Unidos, graças às maravilhas da internet sempre tão aberta e juvenil, se consolidariam como os maiores espiões do mundo, humilhando potências como a Alemanha e também o Brasil, impondo os métodos de sua inteligência militar sobre a população mundial, e guiando ao arrepio da justiça os bebês engenheiros nota dez em matemática mas ignorantes completos em matéria de ética, política e em boas maneiras. Ninguém previu a febre das notícias inventadas, a civilização de perfis falsos, as enxurradas de vírus, os arrastões de números de cartão de crédito, a empulhação dos resultados numéricos falseados por robôs ou gerados por trabalhadores mal pagos em países do terceiro mundo, o fim da privacidade, o terrorismo eletrônico, inclusive de Estado. (l. 18-28)\n\nMARION STRECKER. Adaptado de Folha de São Paulo, 29/07/2014.\n\nNinguém imaginou (l. 16)\n\nNinguém previu (l. 18 e l. 24)\n\nA repetição do vocábulo ninguém, nos dois últimos parágrafos do texto, reforça o seguinte sentido:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "flexibilidade do ponto de vista"
+      },
+      {
+        "letter": "B",
+        "text": "contestação da verdade factual"
+      },
+      {
+        "letter": "C",
+        "text": "dimensão do otimismo ingênuo"
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de crítica ao passado"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A anáfora de ninguém mede a distância entre o que se esperava da internet e o que ela se tornou: absolutamente nenhuma das consequências negativas — concentração de poder, espionagem, perfis falsos, fim da privacidade — havia sido antevista. A repetição dimensiona, assim, o quanto era ingênuo o otimismo do primeiro parágrafo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q13",
     "exam": "uerj",
     "year": 2016,
@@ -357,6 +789,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q13",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Literatura"
+    ],
+    "statement": "Texto base - A EDUCAÇÃO PELA SEDA\n\nVestidos muito justos são vulgares. Revelar formas é vulgar. Toda revelação é de uma vulgaridade abominável.\n\nOs conceitos a vestiram como uma segunda pele, e pode-se adivinhar a norma que lhe rege a vida ao primeiro olhar.\n\nROSA AMANDA STRAUSZ. Mínimo múltiplo comum: contos. Rio de Janeiro: José Olympio, 1990.\n\nA narrativa condensada do texto sugere uma crítica relacionada à educação, tema anunciado no título. Essa crítica dirige-se principalmente à seguinte característica geral da vida social:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "problemas frequentes vividos na infância"
+      },
+      {
+        "letter": "B",
+        "text": "julgamentos superficiais produzidos por preconceitos"
+      },
+      {
+        "letter": "C",
+        "text": "dificuldades previsíveis criadas pelas individualidades"
+      },
+      {
+        "letter": "D",
+        "text": "desigualdades acentuadas encontradas na juventude"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O primeiro parágrafo enuncia sentenças categóricas sobre o que é “vulgar”; o segundo mostra que esses conceitos vestem a personagem “como uma segunda pele”, a ponto de permitirem adivinhar sua vida “ao primeiro olhar”. A educação a que o título se refere é a que transmite preconceitos, e a crítica recai sobre o hábito social de julgar as pessoas por aparências.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -396,6 +865,42 @@
     }
   },
   {
+    "id": "uerj-2016-q14",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Texto base - A EDUCAÇÃO PELA SEDA\n\nVestidos muito justos são vulgares. Revelar formas é vulgar. Toda revelação é de uma vulgaridade abominável.\n\nOs conceitos a vestiram como uma segunda pele, e pode-se adivinhar a norma que lhe rege a vida ao primeiro olhar.\n\nROSA AMANDA STRAUSZ. Mínimo múltiplo comum: contos. Rio de Janeiro: José Olympio, 1990.\n\nO conto contrasta dois tipos de texto em sua estrutura. Enquanto o segundo parágrafo se configura como narrativo, o primeiro parágrafo se aproxima da seguinte tipologia:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "injuntivo"
+      },
+      {
+        "letter": "B",
+        "text": "descritivo"
+      },
+      {
+        "letter": "C",
+        "text": "dramático"
+      },
+      {
+        "letter": "D",
+        "text": "argumentativo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O primeiro parágrafo não conta um fato nem descreve um objeto: enuncia juízos de valor em forma de sentenças assertivas — vestidos justos “são vulgares”, revelar formas “é vulgar”, toda revelação “é de uma vulgaridade abominável” —, encadeadas para sustentar uma tese. Essa é a marca do texto argumentativo. O injuntivo instruiria; o dramático se organizaria em falas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q15",
     "exam": "uerj",
     "year": 2016,
@@ -429,6 +934,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q15",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - A EDUCAÇÃO PELA SEDA\n\nVestidos muito justos são vulgares. Revelar formas é vulgar. Toda revelação é de uma vulgaridade abominável.\n\nOs conceitos a vestiram como uma segunda pele, e pode-se adivinhar a norma que lhe rege a vida ao primeiro olhar.\n\nROSA AMANDA STRAUSZ. Mínimo múltiplo comum: contos. Rio de Janeiro: José Olympio, 1990.\n\nOs conceitos a vestiram como uma segunda pele,\n\nO vocábulo a é comumente utilizado para substituir termos já enunciados. No texto, entretanto, ele tem um uso incomum, já que permite subentender um termo não enunciado. Esse uso indica um recurso assim denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elipse"
+      },
+      {
+        "letter": "B",
+        "text": "catáfora"
+      },
+      {
+        "letter": "C",
+        "text": "designação"
+      },
+      {
+        "letter": "D",
+        "text": "modalização"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O pronome oblíquo a retoma um referente que em momento algum aparece no conto: a personagem feminina julgada pelos conceitos. O termo está, portanto, omitido, mas recuperável pelo contexto — o que caracteriza a elipse. Catáfora exigiria que o referente fosse enunciado depois, o que não acontece.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -468,6 +1009,42 @@
     }
   },
   {
+    "id": "uerj-2016-q16",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A EDUCAÇÃO PELA SEDA\n\nVestidos muito justos são vulgares. Revelar formas é vulgar. Toda revelação é de uma vulgaridade abominável.\n\nOs conceitos a vestiram como uma segunda pele, e pode-se adivinhar a norma que lhe rege a vida ao primeiro olhar.\n\nROSA AMANDA STRAUSZ. Mínimo múltiplo comum: contos. Rio de Janeiro: José Olympio, 1990.\n\npode-se adivinhar a norma que lhe rege a vida ao primeiro olhar.\n\nA expressão destacada, “ao primeiro olhar”, reforça o sentido geral do texto, porque remete a uma ação baseada no seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vulgaridade"
+      },
+      {
+        "letter": "B",
+        "text": "exterioridade"
+      },
+      {
+        "letter": "C",
+        "text": "regularidade"
+      },
+      {
+        "letter": "D",
+        "text": "ingenuidade"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "“Ao primeiro olhar” indica um juízo formado apenas pelo que se vê por fora — a roupa, a aparência —, sem qualquer conhecimento da pessoa. A expressão reforça, assim, o tema do conto: a vida inteira de alguém é deduzida de sua exterioridade. Vulgaridade é o conteúdo do preconceito enunciado, não o critério do julgamento.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q17",
     "exam": "uerj",
     "year": 2016,
@@ -501,6 +1078,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q17",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - SEYMOUR MENTON: EL LEGADO CRÍTICO DE UN LECTOR APASIONADO\n\nConocí a Seymour Menton hace unos años, en la Universidad de California, cuyos departamentos de lenguas extranjeras contribuyó a formar. Recuerdo la emoción que me causó estrechar su mano. En su conjunto, el trabajo crítico de Menton es una de las semblanzas más completas y amplias de la experiencia literaria latinoamericana, escrita conforme la producción narrativa continental emergía y gradualmente encontraba lectores e interlocutores. (l. 1-5)\n\nPor momentos, algunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) pueden resultar evidentes a un lector contemporáneo. Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones, de buscar complementar sus lecturas y llevarlas más allá, fue posibilitada por su incansable compromiso de poner a la literatura latinoamericana en el centro del debate crítico, de hacerla disponible a los lectores de Estados Unidos y América Latina, y de mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación. (l. 6-13)\n\nComo norteamericano, Seymour hizo esto a contracorriente de una gran cantidad de prejuicios en ambos lados de la división continental. En su país de origen, Menton fue uno de los primeros críticos en dar énfasis a la narrativa latinoamericana, en una época en que la enseñanza de la literatura en lengua española estaba fuertemente cargada hacia la literatura ibérica. Si los que trabajamos en Estados Unidos como latinoamericanistas podemos tener un espacio de debate y consideración, se debe al hecho de que Seymour Menton y otros de sus distinguidos contemporáneos limpiaron el terreno para poder desarrollar un campo y para poder preparar lectores de nuestra tradición. (l. 14-20)\n\nGracias a sus monumentales libros sobre literatura de distintos países, los lectores del subcontinente tenemos un lugar al que podemos siempre volver a ponderar y debatir nuestras tradiciones, desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, más que por nacimiento, puede proporcionar. (l. 21-24)\n\nCreo que la triste pérdida de Seymour Menton, agregando su nombre a la lista de los que nos han dejado en 2014, debe ser, sobre todo, una oportunidad para volver a su obra, para reentablar con él la conversación que hemos tenido en algún tiempo. (l. 25-27)\n\nIGNACIO M. SÁNCHEZ PRADO. milenio.com\n\nEl texto destaca el valor del investigador estadounidense Seymour Menton en su país. De acuerdo con el texto, el valor de su actuación como crítico se basa en el siguiente hecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valoró importantes obras de origen ibérico"
+      },
+      {
+        "letter": "B",
+        "text": "conquistó lectores fieles a sus discusiones teóricas"
+      },
+      {
+        "letter": "C",
+        "text": "fomentó un amplio debate sobre la literatura latinoamericana"
+      },
+      {
+        "letter": "D",
+        "text": "desarrolló actividades relevantes en universidades extranjeras"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O terceiro parágrafo diz que, nos Estados Unidos, Menton foi um dos primeiros críticos a dar ênfase à narrativa latino-americana numa época em que o ensino de literatura em língua espanhola pendia para a literatura ibérica, e que ele “limpou o terreno” para o campo latino-americanista. Seu mérito no próprio país foi, portanto, ter posto a literatura latino-americana no centro do debate crítico. A alternativa A inverte o dado do texto sobre a literatura ibérica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -540,6 +1153,78 @@
     }
   },
   {
+    "id": "uerj-2016-q18",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - SEYMOUR MENTON: EL LEGADO CRÍTICO DE UN LECTOR APASIONADO\n\nConocí a Seymour Menton hace unos años, en la Universidad de California, cuyos departamentos de lenguas extranjeras contribuyó a formar. Recuerdo la emoción que me causó estrechar su mano. En su conjunto, el trabajo crítico de Menton es una de las semblanzas más completas y amplias de la experiencia literaria latinoamericana, escrita conforme la producción narrativa continental emergía y gradualmente encontraba lectores e interlocutores. (l. 1-5)\n\nPor momentos, algunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) pueden resultar evidentes a un lector contemporáneo. Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones, de buscar complementar sus lecturas y llevarlas más allá, fue posibilitada por su incansable compromiso de poner a la literatura latinoamericana en el centro del debate crítico, de hacerla disponible a los lectores de Estados Unidos y América Latina, y de mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación. (l. 6-13)\n\nComo norteamericano, Seymour hizo esto a contracorriente de una gran cantidad de prejuicios en ambos lados de la división continental. En su país de origen, Menton fue uno de los primeros críticos en dar énfasis a la narrativa latinoamericana, en una época en que la enseñanza de la literatura en lengua española estaba fuertemente cargada hacia la literatura ibérica. Si los que trabajamos en Estados Unidos como latinoamericanistas podemos tener un espacio de debate y consideración, se debe al hecho de que Seymour Menton y otros de sus distinguidos contemporáneos limpiaron el terreno para poder desarrollar un campo y para poder preparar lectores de nuestra tradición. (l. 14-20)\n\nGracias a sus monumentales libros sobre literatura de distintos países, los lectores del subcontinente tenemos un lugar al que podemos siempre volver a ponderar y debatir nuestras tradiciones, desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, más que por nacimiento, puede proporcionar. (l. 21-24)\n\nCreo que la triste pérdida de Seymour Menton, agregando su nombre a la lista de los que nos han dejado en 2014, debe ser, sobre todo, una oportunidad para volver a su obra, para reentablar con él la conversación que hemos tenido en algún tiempo. (l. 25-27)\n\nIGNACIO M. SÁNCHEZ PRADO. milenio.com\n\nRecuerdo la emoción que me causó estrechar su mano. (l. 2-3)\n\nUn ejemplo de que el autor del texto comparte la misma actividad laboral que Seymour Menton es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones (l. 8-9)"
+      },
+      {
+        "letter": "B",
+        "text": "mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación (l. 12-13)"
+      },
+      {
+        "letter": "C",
+        "text": "Gracias a sus monumentales libros sobre literatura de distintos países, (l. 21)"
+      },
+      {
+        "letter": "D",
+        "text": "desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, (l. 23-24)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pergunta pede o trecho em que o autor se inclui na mesma atividade de Menton. Em “nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones”, a primeira pessoa do plural coloca o autor entre os que discutem e interpretam criticamente — isto é, entre os críticos literários. Os demais trechos falam da obra de Menton, sem incluir o autor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q19",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 19,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - SEYMOUR MENTON: EL LEGADO CRÍTICO DE UN LECTOR APASIONADO\n\nConocí a Seymour Menton hace unos años, en la Universidad de California, cuyos departamentos de lenguas extranjeras contribuyó a formar. Recuerdo la emoción que me causó estrechar su mano. En su conjunto, el trabajo crítico de Menton es una de las semblanzas más completas y amplias de la experiencia literaria latinoamericana, escrita conforme la producción narrativa continental emergía y gradualmente encontraba lectores e interlocutores. (l. 1-5)\n\nPor momentos, algunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) pueden resultar evidentes a un lector contemporáneo. Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones, de buscar complementar sus lecturas y llevarlas más allá, fue posibilitada por su incansable compromiso de poner a la literatura latinoamericana en el centro del debate crítico, de hacerla disponible a los lectores de Estados Unidos y América Latina, y de mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación. (l. 6-13)\n\nComo norteamericano, Seymour hizo esto a contracorriente de una gran cantidad de prejuicios en ambos lados de la división continental. En su país de origen, Menton fue uno de los primeros críticos en dar énfasis a la narrativa latinoamericana, en una época en que la enseñanza de la literatura en lengua española estaba fuertemente cargada hacia la literatura ibérica. Si los que trabajamos en Estados Unidos como latinoamericanistas podemos tener un espacio de debate y consideración, se debe al hecho de que Seymour Menton y otros de sus distinguidos contemporáneos limpiaron el terreno para poder desarrollar un campo y para poder preparar lectores de nuestra tradición. (l. 14-20)\n\nGracias a sus monumentales libros sobre literatura de distintos países, los lectores del subcontinente tenemos un lugar al que podemos siempre volver a ponderar y debatir nuestras tradiciones, desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, más que por nacimiento, puede proporcionar. (l. 21-24)\n\nCreo que la triste pérdida de Seymour Menton, agregando su nombre a la lista de los que nos han dejado en 2014, debe ser, sobre todo, una oportunidad para volver a su obra, para reentablar con él la conversación que hemos tenido en algún tiempo. (l. 25-27)\n\nIGNACIO M. SÁNCHEZ PRADO. milenio.com\n\nescrita conforme la producción narrativa continental emergía (l. 4-5)\n\nEl término subrayado se puede sustituir, sin alteración relevante de significado, por el siguiente conector:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "como"
+      },
+      {
+        "letter": "B",
+        "text": "con tal que"
+      },
+      {
+        "letter": "C",
+        "text": "no obstante"
+      },
+      {
+        "letter": "D",
+        "text": "a medida que"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Aqui conforme tem valor temporal e proporcional: a obra crítica foi sendo escrita ao mesmo tempo em que a produção narrativa do continente ia surgindo. O conector que preserva esse sentido de simultaneidade progressiva é a medida que. Como introduziria causa ou comparação; con tal que, condição; no obstante, oposição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q20",
     "exam": "uerj",
     "year": 2016,
@@ -573,6 +1258,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q20",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 20,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - SEYMOUR MENTON: EL LEGADO CRÍTICO DE UN LECTOR APASIONADO\n\nConocí a Seymour Menton hace unos años, en la Universidad de California, cuyos departamentos de lenguas extranjeras contribuyó a formar. Recuerdo la emoción que me causó estrechar su mano. En su conjunto, el trabajo crítico de Menton es una de las semblanzas más completas y amplias de la experiencia literaria latinoamericana, escrita conforme la producción narrativa continental emergía y gradualmente encontraba lectores e interlocutores. (l. 1-5)\n\nPor momentos, algunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) pueden resultar evidentes a un lector contemporáneo. Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones, de buscar complementar sus lecturas y llevarlas más allá, fue posibilitada por su incansable compromiso de poner a la literatura latinoamericana en el centro del debate crítico, de hacerla disponible a los lectores de Estados Unidos y América Latina, y de mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación. (l. 6-13)\n\nComo norteamericano, Seymour hizo esto a contracorriente de una gran cantidad de prejuicios en ambos lados de la división continental. En su país de origen, Menton fue uno de los primeros críticos en dar énfasis a la narrativa latinoamericana, en una época en que la enseñanza de la literatura en lengua española estaba fuertemente cargada hacia la literatura ibérica. Si los que trabajamos en Estados Unidos como latinoamericanistas podemos tener un espacio de debate y consideración, se debe al hecho de que Seymour Menton y otros de sus distinguidos contemporáneos limpiaron el terreno para poder desarrollar un campo y para poder preparar lectores de nuestra tradición. (l. 14-20)\n\nGracias a sus monumentales libros sobre literatura de distintos países, los lectores del subcontinente tenemos un lugar al que podemos siempre volver a ponderar y debatir nuestras tradiciones, desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, más que por nacimiento, puede proporcionar. (l. 21-24)\n\nCreo que la triste pérdida de Seymour Menton, agregando su nombre a la lista de los que nos han dejado en 2014, debe ser, sobre todo, una oportunidad para volver a su obra, para reentablar con él la conversación que hemos tenido en algún tiempo. (l. 25-27)\n\nIGNACIO M. SÁNCHEZ PRADO. milenio.com\n\nalgunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) (l. 6-7)\n\nRespecto al fragmento que lo antecede, el contenido entre paréntesis presenta una idea de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conclusión"
+      },
+      {
+        "letter": "B",
+        "text": "comparación"
+      },
+      {
+        "letter": "C",
+        "text": "generalización"
+      },
+      {
+        "letter": "D",
+        "text": "ejemplificación"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O trecho entre parênteses especifica quais são as “limitaciones” anunciadas logo antes: a reticência ideológica e a fidelidade à vocação pedagógica. Trata-se, portanto, de exemplificação — o parêntese abre o termo genérico em casos concretos. Não há conclusão nem comparação, e generalização seria o movimento inverso, do particular para o geral.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -612,6 +1333,78 @@
     }
   },
   {
+    "id": "uerj-2016-q21",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 21,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - SEYMOUR MENTON: EL LEGADO CRÍTICO DE UN LECTOR APASIONADO\n\nConocí a Seymour Menton hace unos años, en la Universidad de California, cuyos departamentos de lenguas extranjeras contribuyó a formar. Recuerdo la emoción que me causó estrechar su mano. En su conjunto, el trabajo crítico de Menton es una de las semblanzas más completas y amplias de la experiencia literaria latinoamericana, escrita conforme la producción narrativa continental emergía y gradualmente encontraba lectores e interlocutores. (l. 1-5)\n\nPor momentos, algunas de las limitaciones de la obra de Seymour (su reticencia ideológica a ciertas prácticas, su fidelidad a la vocación pedagógica del crítico) pueden resultar evidentes a un lector contemporáneo. Sin embargo, nuestra habilidad misma de debatir con él, de estar en desacuerdo con sus interpretaciones, de buscar complementar sus lecturas y llevarlas más allá, fue posibilitada por su incansable compromiso de poner a la literatura latinoamericana en el centro del debate crítico, de hacerla disponible a los lectores de Estados Unidos y América Latina, y de mostrar que existía en ella un depósito de riqueza cultural y estética que resultaba difícil discernir al momento de su publicación. (l. 6-13)\n\nComo norteamericano, Seymour hizo esto a contracorriente de una gran cantidad de prejuicios en ambos lados de la división continental. En su país de origen, Menton fue uno de los primeros críticos en dar énfasis a la narrativa latinoamericana, en una época en que la enseñanza de la literatura en lengua española estaba fuertemente cargada hacia la literatura ibérica. Si los que trabajamos en Estados Unidos como latinoamericanistas podemos tener un espacio de debate y consideración, se debe al hecho de que Seymour Menton y otros de sus distinguidos contemporáneos limpiaron el terreno para poder desarrollar un campo y para poder preparar lectores de nuestra tradición. (l. 14-20)\n\nGracias a sus monumentales libros sobre literatura de distintos países, los lectores del subcontinente tenemos un lugar al que podemos siempre volver a ponderar y debatir nuestras tradiciones, desde la perspectiva que solo un extranjero enamorado de una cultura que le pertenece por naturalización, más que por nacimiento, puede proporcionar. (l. 21-24)\n\nCreo que la triste pérdida de Seymour Menton, agregando su nombre a la lista de los que nos han dejado en 2014, debe ser, sobre todo, una oportunidad para volver a su obra, para reentablar con él la conversación que hemos tenido en algún tiempo. (l. 25-27)\n\nIGNACIO M. SÁNCHEZ PRADO. milenio.com\n\nCreo que la triste pérdida de Seymour Menton, (l. 25)\n\nla lista de los que nos han dejado en 2014, (l. 25-26)\n\nEn las citaciones arriba, se observa una figura de lenguaje que busca amenizar la información sobre la muerte de personalidades. A esa figura de lenguaje se le denomina:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "antítese"
+      },
+      {
+        "letter": "B",
+        "text": "eufemismo"
+      },
+      {
+        "letter": "C",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "D",
+        "text": "personificación"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Nem “pérdida” nem “los que nos han dejado” nomeiam a morte diretamente: são expressões que a substituem por termos mais suaves, atenuando o que a palavra crua traria de brutal. Esse abrandamento deliberado de uma ideia penosa é o eufemismo. Hipérbole exageraria, e antítese oporia termos contrários.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q22",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 22,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "O ano bissexto possui 366 dias e sempre é múltiplo de 4. O ano de 2012 foi o último bissexto. Porém, há casos especiais de anos que, apesar de múltiplos de 4, não são bissextos: são aqueles que também são múltiplos de 100 e não são múltiplos de 400. O ano de 1900 foi o último caso especial.\n\nA soma dos algarismos do próximo ano que será um caso especial é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "5"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O caso especial exige um ano múltiplo de 100 e não múltiplo de 400. Depois de 1900 vêm 2000, que é múltiplo de 400 e portanto bissexto, e 2100, que é múltiplo de 100 mas não de 400 — este é o próximo caso especial. A soma de seus algarismos é 2 + 1 + 0 + 0 = 3.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q23",
     "exam": "uerj",
     "year": 2016,
@@ -645,6 +1438,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q23",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um fabricante produz embalagens de volume igual a 8 litros no formato de um prisma reto com base quadrada de aresta a e altura h. Visando à redução de custos, a área superficial da embalagem é a menor possível. Nesse caso, o valor de a corresponde, em decímetros, à raiz real da seguinte equação:\n\n4a − 32/a² = 0\n\nAs medidas da embalagem, em decímetros, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a = 1 ; h = 2"
+      },
+      {
+        "letter": "B",
+        "text": "a = 1 ; h = 4"
+      },
+      {
+        "letter": "C",
+        "text": "a = 2 ; h = 4"
+      },
+      {
+        "letter": "D",
+        "text": "a = 2 ; h = 2"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como 8 litros equivalem a 8 dm³, tem-se a²h = 8, ou seja, h = 8/a². A área total do prisma é S = 2a² + 4ah = 2a² + 32/a. Anulando a equação dada, 4a = 32/a², logo a³ = 8 e a = 2 dm. Substituindo em h = 8/a², obtém-se h = 8/4 = 2 dm. A embalagem de menor área é, portanto, um cubo de aresta 2 dm.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -684,6 +1513,42 @@
     }
   },
   {
+    "id": "uerj-2016-q24",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 24,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma campanha de supermercado permite a troca de oito garrafas vazias, de qualquer volume, por uma garrafa de 1 litro cheia de guaraná. Considere uma pessoa que, tendo 96 garrafas vazias, fez todas as trocas possíveis. Após esvaziar todas as garrafas que ganhou, ela também as troca no mesmo supermercado.\n\nSe não são acrescentadas novas garrafas vazias, o total máximo de litros de guaraná recebidos por essa pessoa em todo o processo de troca equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12"
+      },
+      {
+        "letter": "B",
+        "text": "13"
+      },
+      {
+        "letter": "C",
+        "text": "14"
+      },
+      {
+        "letter": "D",
+        "text": "15"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na primeira troca, 96 ÷ 8 = 12 garrafas cheias. Bebendo-as, sobram 12 vazias, que rendem 12 ÷ 8 = 1 garrafa cheia, restando 4 vazias. Depois de esvaziar essa garrafa, ficam 5 vazias, insuficientes para nova troca. O total recebido é 12 + 1 = 13 litros.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q25",
     "exam": "uerj",
     "year": 2016,
@@ -720,6 +1585,42 @@
     }
   },
   {
+    "id": "uerj-2016-q25",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "No ano letivo de 2014, em uma turma de 40 alunos, 60% eram meninas. Nessa turma, ao final do ano, todas as meninas foram aprovadas e alguns meninos foram reprovados. Em 2015, nenhum aluno novo foi matriculado, e todos os aprovados confirmaram suas matrículas. Com essa nova composição, em 2015, a turma passou a ter 20% de meninos.\n\nO número de meninos aprovados em 2014 foi igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4"
+      },
+      {
+        "letter": "B",
+        "text": "5"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "8"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em 2014 havia 0,60 × 40 = 24 meninas e 16 meninos. Como todas as meninas passaram, em 2015 elas continuam sendo 24 e correspondem a 80% da turma, já que os meninos são 20%. Assim, o total de 2015 é 24 ÷ 0,80 = 30 alunos, dos quais 30 − 24 = 6 são meninos. Foram, portanto, 6 meninos aprovados.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q26",
     "exam": "uerj",
     "year": 2016,
@@ -753,6 +1654,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q26",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 26,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "No Brasil, o imposto de renda deve ser pago de acordo com o ganho mensal dos contribuintes, com base em uma tabela de descontos percentuais. Esses descontos incidem, progressivamente, sobre cada parcela do valor total do ganho, denominadas base de cálculo, de acordo com a tabela a seguir.\n\nBase de cálculo aproximada (R$) — Desconto (%)\naté 1.900,00 — isento\nde 1.900,01 até 2.800,00 — 7,5\nde 2.800,01 até 3.750,00 — 15,0\nde 3.750,01 até 4.665,00 — 22,5\nacima de 4.665,00 — 27,5\n\nSegundo a tabela, um ganho mensal de R$ 2.100,00 corresponde a R$ 15,00 de imposto. Admita um contribuinte cujo ganho total, em determinado mês, tenha sido de R$ 3.000,00. Para efeito do cálculo progressivo do imposto, deve-se considerar esse valor formado por três parcelas: R$ 1.900,00, R$ 900,00 e R$ 200,00.\n\nO imposto de renda, em reais, que deve ser pago nesse mês sobre o ganho total é aproximadamente igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "55"
+      },
+      {
+        "letter": "B",
+        "text": "98"
+      },
+      {
+        "letter": "C",
+        "text": "128"
+      },
+      {
+        "letter": "D",
+        "text": "180"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A tributação é progressiva: cada parcela paga a alíquota da sua faixa. A primeira parcela, de R$ 1.900,00, é isenta. A segunda, de R$ 900,00, cai na faixa de 7,5% e gera 0,075 × 900 = R$ 67,50. A terceira, de R$ 200,00, entra na faixa de 15% e gera 0,15 × 200 = R$ 30,00. O total é 67,50 + 30,00 = R$ 97,50, aproximadamente R$ 98,00.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -828,6 +1765,42 @@
     }
   },
   {
+    "id": "uerj-2016-q28",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 28,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Na compra de um fogão, os clientes podem optar por uma das seguintes formas de pagamento:\n\n• à vista, no valor de R$ 860,00;\n• em duas parcelas fixas de R$ 460,00, sendo a primeira paga no ato da compra e a segunda 30 dias depois.\n\nA taxa de juros mensal para pagamentos não efetuados no ato da compra é de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10%"
+      },
+      {
+        "letter": "B",
+        "text": "12%"
+      },
+      {
+        "letter": "C",
+        "text": "15%"
+      },
+      {
+        "letter": "D",
+        "text": "18%"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Quem parcela entrega R$ 460,00 no ato, de modo que ainda deve, em valores à vista, 860 − 460 = R$ 400,00. Trinta dias depois, paga R$ 460,00 por essa dívida. Os juros do período são 460 − 400 = R$ 60,00 sobre R$ 400,00, ou seja, 60/400 = 0,15 — uma taxa mensal de 15%.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q29",
     "exam": "uerj",
     "year": 2016,
@@ -861,6 +1834,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q29",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Considere dois círculos congruentes, de centros C1 e C2, pertencentes ao mesmo plano α, dispostos de modo que cada um passe pelo centro do outro. O segmento C1C2 mede 6 cm.\n\nA área da região limitada pelos círculos, em cm², possui valor aproximado de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "108"
+      },
+      {
+        "letter": "B",
+        "text": "162"
+      },
+      {
+        "letter": "C",
+        "text": "182"
+      },
+      {
+        "letter": "D",
+        "text": "216"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Se cada círculo passa pelo centro do outro, o raio é igual à distância entre os centros: r = 6 cm. A área de cada círculo é πr² = 36π ≈ 113,1 cm², somando ≈ 226,2 cm². A região comum às duas circunferências (a lente) tem área 2r²·arccos(d/2r) − (d/2)·√(4r² − d²) = 72·(π/3) − 3·√108 ≈ 75,4 − 31,2 ≈ 44,2 cm². Como essa parte foi contada duas vezes, a área da união é 226,2 − 44,2 ≈ 182 cm².",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -900,6 +1909,42 @@
     }
   },
   {
+    "id": "uerj-2016-q30",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 30,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "O ciclo de Krebs, que ocorre no interior das mitocôndrias, é um conjunto de reações químicas aeróbias fundamental no processo de produção de energia para a célula eucarionte. Ele pode ser representado pelo seguinte esquema de etapas:\n\nacetil-CoA + oxalacetato → citrato → isocitrato → α-cetoglutarato (libera CO2 e NADH) → succinil-CoA (libera CO2 e NADH) → succinato (produz GTP, equivalente a ATP) → fumarato (produz FADH2) → malato → oxalacetato (produz NADH).\n\nAdmita um ciclo de Krebs que, após a entrada de uma única molécula de acetil-CoA, ocorra normalmente até a etapa de produção do fumarato. Ao final da passagem dos produtos desse ciclo pela cadeia respiratória, a quantidade total de energia produzida, expressa em adenosinas trifosfato (ATP), será igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "9"
+      },
+      {
+        "letter": "D",
+        "text": "12"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Até a formação do fumarato, o ciclo rende dois NADH (nas oxidações do isocitrato e do α-cetoglutarato), um GTP (na conversão de succinil-CoA em succinato) e um FADH2 (na oxidação do succinato). Na cadeia respiratória, cada NADH gera 3 ATP e cada FADH2 gera 2 ATP. O total é 2 × 3 + 1 × 2 + 1 = 9 ATP. O NADH da etapa malato → oxalacetato não entra na conta, pois ocorre depois do fumarato.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q31",
     "exam": "uerj",
     "year": 2016,
@@ -936,6 +1981,42 @@
     }
   },
   {
+    "id": "uerj-2016-q31",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 31,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O íon oxalacetato participa não só do ciclo de Krebs como também da produção do íon aspartato, por meio de uma reação de transaminação entre o glutamato e o oxalacetato, que produz aspartato e α-cetoglutarato. Nessa reação, o grupo amino do glutamato é transferido para o carbono 2 do oxalacetato, que é um ânion dicarboxílico de quatro carbonos.\n\nCom base nessa reação, pode-se afirmar que o aspartato é o ânion correspondente ao ácido dicarboxílico denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2-aminobutanodioico"
+      },
+      {
+        "letter": "B",
+        "text": "3-aminobutanodioico"
+      },
+      {
+        "letter": "C",
+        "text": "2-aminopentanodioico"
+      },
+      {
+        "letter": "D",
+        "text": "3-aminopentanodioico"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O oxalacetato tem quatro átomos de carbono e dois grupos carboxila, o que corresponde ao ácido butanodioico (succínico) com uma cetona no carbono 2. Substituindo essa função pelo grupo amino recebido do glutamato, obtém-se o ácido 2-aminobutanodioico — o ácido aspártico. A alternativa C, ácido 2-aminopentanodioico, é o ácido glutâmico, que tem cinco carbonos e corresponde ao outro reagente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q32",
     "exam": "uerj",
     "year": 2016,
@@ -969,6 +2050,78 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q32",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 32,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Em um experimento que recebeu seu nome, James Joule determinou o equivalente mecânico do calor: 1 cal = 4,2 J. Para isso, ele utilizou um dispositivo em que um conjunto de paletas gira imerso em água no interior de um recipiente.\n\nConsidere um dispositivo igual a esse, no qual a energia cinética das paletas em movimento, totalmente convertida em calor, provoque uma variação de 2 °C em 100 g de água. Essa quantidade de calor corresponde à variação da energia cinética de um corpo de massa igual a 10 kg ao cair em queda livre de uma determinada altura.\n\nEssa altura, em metros, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,1"
+      },
+      {
+        "letter": "B",
+        "text": "4,2"
+      },
+      {
+        "letter": "C",
+        "text": "8,4"
+      },
+      {
+        "letter": "D",
+        "text": "16,8"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O calor recebido pela água é Q = m·c·ΔT = 100 g × 1 cal/(g·°C) × 2 °C = 200 cal, o que equivale a 200 × 4,2 = 840 J. Na queda livre, essa energia vem da energia potencial gravitacional: E = m·g·h, com m = 10 kg e g = 10 m/s². Logo h = 840 / (10 × 10) = 8,4 m.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q33",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 33,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A ionização do ácido cianídrico é representada pela equação química abaixo:\n\nHCN (aq) ⇌ H⁺ (aq) + CN⁻ (aq)\n\nUm experimento sobre esse equilíbrio químico, realizado a temperatura constante, analisou quatro parâmetros:\n\ngrau de ionização — α\nconstante de equilíbrio — Ka\npotencial hidrogeniônico — pH\nconcentração de HCN — [HCN]\n\nAo ser estabelecido o equilíbrio químico da ionização, foi adicionada certa quantidade de NaCN(s). Após a dissolução e dissociação completa desse composto, houve deslocamento do equilíbrio de ionização.\n\nO parâmetro que sofreu redução, após a adição do composto, é representado pelo seguinte símbolo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "α"
+      },
+      {
+        "letter": "B",
+        "text": "Ka"
+      },
+      {
+        "letter": "C",
+        "text": "pH"
+      },
+      {
+        "letter": "D",
+        "text": "[HCN]"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O NaCN se dissocia liberando CN⁻, íon comum ao equilíbrio. Pelo princípio de Le Chatelier, o excesso de CN⁻ desloca a reação para a esquerda: parte do H⁺ é consumida e mais HCN se forma. Assim, [HCN] aumenta, [H⁺] diminui e o pH sobe; a constante Ka não muda, pois a temperatura é constante. O único parâmetro que diminui é o grau de ionização α, já que uma fração menor do ácido permanece ionizada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1080,6 +2233,42 @@
     }
   },
   {
+    "id": "uerj-2016-q36",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 36,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Um morador de uma cidade situada no nível do mar decidiu passar um período de férias em uma cidade com altitude de 2500 m. Antes da viagem, os resultados de seu exame de sangue eram compatíveis com a normalidade em todos os parâmetros medidos. No entanto, logo nos primeiros dias da viagem, sentiu fortes tonturas e dores de cabeça, apesar de não ter entrado em contato com agentes infecciosos ou com substâncias químicas nocivas ao organismo.\n\nAs condições ambientais responsáveis pelo surgimento desses sintomas são também responsáveis por estimular o organismo dessa pessoa a produzir um maior número de células denominadas:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "linfócitos"
+      },
+      {
+        "letter": "B",
+        "text": "hemácias"
+      },
+      {
+        "letter": "C",
+        "text": "plaquetas"
+      },
+      {
+        "letter": "D",
+        "text": "megacariócitos"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em grandes altitudes a pressão parcial de oxigênio no ar é menor, o que reduz a saturação da hemoglobina e provoca hipóxia — daí as tonturas e a cefaleia. Em resposta, os rins secretam mais eritropoetina, que estimula a medula óssea a produzir hemácias, aumentando a capacidade de transporte de oxigênio. Linfócitos atuam na defesa imunológica, e plaquetas e megacariócitos, na coagulação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q37",
     "exam": "uerj",
     "year": 2016,
@@ -1113,6 +2302,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q37",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 37,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Para descrever o comportamento dos gases ideais em função do volume V, da pressão P e da temperatura T, podem ser utilizadas as seguintes equações:\n\nequação de Clapeyron: P × V = n × R × T\nequação de Boltzmann: P × V = N × k × T\n\nem que n é o número de mols, N o número de moléculas, R a constante dos gases e k a constante de Boltzmann.\n\nDe acordo com essas equações, a razão R/k é aproximadamente igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6 × 10⁻²³"
+      },
+      {
+        "letter": "B",
+        "text": "1/(6 × 10²³)"
+      },
+      {
+        "letter": "C",
+        "text": "1/(6 × 10⁻²³)"
+      },
+      {
+        "letter": "D",
+        "text": "6 × 10²³"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Igualando as duas expressões para o mesmo gás, n·R·T = N·k·T, de onde R/k = N/n. Mas N/n é justamente o número de moléculas por mol, isto é, a constante de Avogadro, aproximadamente 6 × 10²³ mol⁻¹. A razão entre a constante universal dos gases e a constante de Boltzmann é, portanto, da ordem de 6 × 10²³.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1152,6 +2377,42 @@
     }
   },
   {
+    "id": "uerj-2016-q38",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 38,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Admita duas amostras de substâncias distintas com a mesma capacidade térmica, ou seja, que sofrem a mesma variação de temperatura ao receberem a mesma quantidade de calor. A diferença entre suas massas é igual a 100 g, e a razão entre seus calores específicos é igual a 6/5.\n\nA massa da amostra mais leve, em gramas, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "250"
+      },
+      {
+        "letter": "B",
+        "text": "300"
+      },
+      {
+        "letter": "C",
+        "text": "500"
+      },
+      {
+        "letter": "D",
+        "text": "600"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Capacidade térmica é C = m·c. Se as duas amostras têm a mesma capacidade térmica, m₁·c₁ = m₂·c₂, ou seja, as massas são inversamente proporcionais aos calores específicos. Com c₁/c₂ = 6/5, tem-se m₁/m₂ = 5/6, de modo que a amostra de maior calor específico é a mais leve. Escrevendo m₁ = 5x e m₂ = 6x, a diferença 6x − 5x = x vale 100 g. Logo a massa menor é 5 × 100 = 500 g.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q39",
     "exam": "uerj",
     "year": 2016,
@@ -1185,6 +2446,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q39",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 39,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Quatro bolas são lançadas horizontalmente no espaço, a partir da borda de uma mesa que está sobre o solo. Veja na tabela abaixo algumas características dessas bolas:\n\nbola 1 — chumbo — velocidade inicial 4,0 m/s — tempo de queda t1\nbola 2 — vidro — velocidade inicial 4,0 m/s — tempo de queda t2\nbola 3 — madeira — velocidade inicial 2,0 m/s — tempo de queda t3\nbola 4 — plástico — velocidade inicial 2,0 m/s — tempo de queda t4\n\nA relação entre os tempos de queda de cada bola pode ser expressa como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "t1 = t2 < t3 = t4"
+      },
+      {
+        "letter": "B",
+        "text": "t1 = t2 > t3 = t4"
+      },
+      {
+        "letter": "C",
+        "text": "t1 < t2 < t3 < t4"
+      },
+      {
+        "letter": "D",
+        "text": "t1 = t2 = t3 = t4"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No lançamento horizontal, os movimentos são independentes: na vertical há queda livre, com h = g·t²/2, e na horizontal, movimento uniforme. O tempo de queda depende apenas da altura da mesa e da gravidade — não da massa, do material nem da velocidade de lançamento. Como todas partem da mesma borda, os quatro tempos são iguais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1224,6 +2521,78 @@
     }
   },
   {
+    "id": "uerj-2016-q40",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 40,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A reprodução em animais do sexo masculino envolve uma série de divisões celulares, que produzem espermatócitos primários e secundários como etapas intermediárias para a produção dos gametas masculinos.\n\nConsidere um macho adulto diploide que apresenta 28 cromossomos em suas células somáticas. Nesse caso, seus espermatócitos primários e seus espermatócitos secundários devem conter, respectivamente, os seguintes números de cromossomos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "28 – 14"
+      },
+      {
+        "letter": "B",
+        "text": "14 – 28"
+      },
+      {
+        "letter": "C",
+        "text": "28 – 28"
+      },
+      {
+        "letter": "D",
+        "text": "14 – 14"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O espermatócito primário resulta do crescimento da espermatogônia e ainda não passou pela meiose: mantém o número diploide, 28 cromossomos. Ele sofre a primeira divisão meiótica, que separa os cromossomos homólogos e origina dois espermatócitos secundários já haploides, com 14 cromossomos cada — ainda que cada um deles seja formado por duas cromátides. A redução do número de cromossomos ocorre, portanto, na meiose I.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q41",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 41,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Em uma loja, a potência média máxima absorvida pelo enrolamento primário de um transformador ideal é igual a 100 W. O enrolamento secundário desse transformador, cuja tensão eficaz é igual a 5,0 V, fornece energia a um conjunto de aparelhos eletrônicos ligados em paralelo. Nesse conjunto, a corrente em cada aparelho corresponde a 0,1 A.\n\nO número máximo de aparelhos que podem ser alimentados nessas condições é de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "50"
+      },
+      {
+        "letter": "B",
+        "text": "100"
+      },
+      {
+        "letter": "C",
+        "text": "200"
+      },
+      {
+        "letter": "D",
+        "text": "400"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em um transformador ideal não há perdas, de modo que a potência do secundário é igual à do primário: 100 W. Como o secundário fornece 5,0 V, a corrente total disponível é I = P/U = 100/5,0 = 20 A. Estando os aparelhos em paralelo, as correntes se somam; com 0,1 A em cada um, o número máximo é 20 ÷ 0,1 = 200 aparelhos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q43",
     "exam": "uerj",
     "year": 2016,
@@ -1260,6 +2629,79 @@
     }
   },
   {
+    "id": "uerj-2016-q43",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 43,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Para diferenciar os hidrocarbonetos etano e eteno em uma mistura gasosa, utiliza-se uma reação com bromo molecular: o etano não reage com esse composto, enquanto o eteno reage por adição, formando 1,2-dibromoetano (CH2Br—CH2Br), de massa molar igual a 188 g/mol.\n\nConsidere um cilindro de capacidade igual a 10 L, contendo apenas esses hidrocarbonetos em uma mistura com massa igual a 200 g. Ao se adicionar bromo em excesso à mistura, todo o eteno reagiu, formando 940 g de 1,2-dibromoetano.\n\nA concentração inicial de etano, em mol·L⁻¹, no interior do cilindro, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,1"
+      },
+      {
+        "letter": "B",
+        "text": "0,2"
+      },
+      {
+        "letter": "C",
+        "text": "0,3"
+      },
+      {
+        "letter": "D",
+        "text": "0,4"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os 940 g de 1,2-dibromoetano correspondem a 940 ÷ 188 = 5 mol. Como a adição é de um para um, havia 5 mol de eteno, cuja massa é 5 × 28 = 140 g. O restante da mistura é etano: 200 − 140 = 60 g, ou seja, 60 ÷ 30 = 2 mol. Em 10 L, a concentração inicial de etano é 2/10 = 0,2 mol·L⁻¹.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q44",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 44,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Zoologia"
+    ],
+    "statement": "A temperatura e a pressão afetam a solubilidade do oxigênio no sangue dos organismos. Alguns animais marinhos sem pigmentos respiratórios realizam o transporte de oxigênio por meio da dissolução desse gás diretamente no plasma sanguíneo. Gráficos da solubilidade do oxigênio no plasma mostram que ela diminui à medida que a temperatura aumenta e cresce à medida que aumenta a profundidade a que o animal está submetido.\n\nUm estudo realizado sob quatro diferentes condições experimentais, para avaliar a dissolução de oxigênio no plasma desses animais, apresentou os seguintes parâmetros:\n\nW — temperatura baixa, profundidade alta\nX — temperatura baixa, profundidade baixa\nY — temperatura alta, profundidade baixa\nZ — temperatura alta, profundidade alta\n\nO transporte de oxigênio dissolvido no plasma sanguíneo foi mais favorecido na condição experimental representada pela seguinte letra:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "W"
+      },
+      {
+        "letter": "B",
+        "text": "X"
+      },
+      {
+        "letter": "C",
+        "text": "Y"
+      },
+      {
+        "letter": "D",
+        "text": "Z"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A solubilidade de um gás em líquido cresce quando a temperatura cai e quando a pressão sobe — e a pressão aumenta com a profundidade. A condição que reúne os dois fatores favoráveis é a de temperatura baixa com profundidade alta, isto é, W. Em Y ocorre o oposto, com temperatura alta e pequena profundidade, e X e Z combinam um fator favorável com outro desfavorável.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q45",
     "exam": "uerj",
     "year": 2016,
@@ -1293,6 +2735,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q45",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 45,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A Rio-Niterói começou a ser erguida em dezembro de 1968, nove dias antes da edição do AI-5, e só foi concluída no dia 4 de março de 1974. No começo, a Ponte era uma via de 13,2 quilômetros, construída pelos militares para ligar dois trechos da BR-101. No primeiro ano, atingiu a marca de 20 mil veículos por dia. Hoje, quando o movimento diário já ultrapassa os 150 mil veículos, seus operadores preferem vê-la como uma grande rua unindo duas cidades. Talvez seja essa a mesma impressão dos usuários, que, nos horários de pico, levam quase o mesmo tempo para atravessá-la que seus antepassados que usavam barcaças.\n\nAdaptado de infograficos.oglobo.globo.com, 2014.\n\nPor sua história e seus usos atuais, a Ponte Rio-Niterói sinaliza algumas das mudanças que afetaram a sociedade brasileira a partir da década de 1960. A principal função da Ponte no momento de sua inauguração e uma problemática que ela evidencia hoje, respectivamente, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "favorecer o progresso industrial – incremento da poluição urbana"
+      },
+      {
+        "letter": "B",
+        "text": "possibilitar a conexão de rodovias – saturação de fluxos intermunicipais"
+      },
+      {
+        "letter": "C",
+        "text": "promover a substituição de vias ferroviárias – deterioração das zonas portuárias"
+      },
+      {
+        "letter": "D",
+        "text": "garantir a nacionalização do transporte público – privatização da administração das rotas"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O próprio texto informa a finalidade original: ligar dois trechos da BR-101, integrando a malha rodoviária num período em que o regime militar priorizava as rodovias. E indica o problema atual: com mais de 150 mil veículos diários, o tempo de travessia nos horários de pico se aproxima do das antigas barcas — congestionamento típico da saturação dos deslocamentos entre municípios de uma mesma região metropolitana.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1368,6 +2846,42 @@
     }
   },
   {
+    "id": "uerj-2016-q47",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 47,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O cartão-postal é o melhor veículo de propaganda e reclame de que podem dispor os homens, as empresas, a indústria, o comércio e as nações.\n\nOLAVO BILAC. A cartophilia, 15/06/1904.\n\nA frase de Olavo Bilac assinala a ampliação da produção de cartões-postais no início do século XX, que animou colecionadores e o trabalho de editores, fotógrafos e gravuristas. Entre os cartões mais difundidos estavam os que retratavam a Avenida Central, inaugurada em 1904, e o Palácio Monroe, inaugurado em 1906. As imagens dos cartões do Rio de Janeiro, capital brasileira naquele momento, associaram-se à propaganda das ações governamentais indicadas em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "modernização e progresso material de espaços públicos"
+      },
+      {
+        "letter": "B",
+        "text": "planejamento e racionalização do crescimento urbano"
+      },
+      {
+        "letter": "C",
+        "text": "valorização e preservação dos monumentos arquitetônicos"
+      },
+      {
+        "letter": "D",
+        "text": "remodelamento e expansão das vias de transportes coletivos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os cartões circulavam imagens da reforma Pereira Passos: avenidas largas abertas com a demolição de cortiços, fachadas ecléticas, iluminação e saneamento. Eram vitrines do que o governo apresentava como modernização e progresso material da capital, à imagem de Paris. Não se tratava de preservar monumentos — ao contrário, a reforma demoliu boa parte da cidade colonial — nem de um plano de crescimento urbano ou de transporte coletivo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q48",
     "exam": "uerj",
     "year": 2016,
@@ -1401,6 +2915,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q48",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 48,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "CAMPOS DE “REEDUCAÇÃO PELO TRABALHO” NA CHINA: A MUDANÇA DE UM SISTEMA DE OPRESSÃO POR OUTRO\n\nA extinção do sistema chinês de campos de “reeducação pelo trabalho” (RTL) arrisca não ser mais do que uma mudança cosmética. “Abolir o sistema de RTL é um passo na direção certa. Mas há agora indicadores de que isto é apenas para desviar as atenções públicas dos abusos cometidos naqueles campos, onde a tortura é uma prática sistemática. É claro que as políticas subjacentes de castigar pessoas pelas suas atividades políticas ou pelas suas crenças religiosas não mudaram”, sustenta a perita Corinna Barbara Francis, da Anistia Internacional.\n\nAdaptado de amnistia-internacional.pt, 17/12/2013.\n\nNas últimas quatro décadas, o sistema político chinês vem evoluindo de forma muito lenta, se comparado às grandes mudanças econômicas observadas no país. A prática mencionada no texto foi intensamente utilizada no momento da história chinesa denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Longa Marcha"
+      },
+      {
+        "letter": "B",
+        "text": "Guerra do Ópio"
+      },
+      {
+        "letter": "C",
+        "text": "Revolução Cultural"
+      },
+      {
+        "letter": "D",
+        "text": "Levante dos Boxers"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Foi durante a Revolução Cultural (1966-1976) que o envio de opositores, intelectuais e “inimigos de classe” para o campo, a fim de serem reeducados pelo trabalho manual, se tornou política de massa. A Longa Marcha (1934-1935) foi o deslocamento militar do Exército Vermelho; a Guerra do Ópio e o Levante dos Boxers ocorreram no século XIX e início do XX, ligados à presença estrangeira na China imperial.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1440,6 +2990,42 @@
     }
   },
   {
+    "id": "uerj-2016-q49",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O Índice de Desenvolvimento Humano Municipal (IDH-M) é composto por três indicadores: longevidade, educação e renda. No Brasil, o IDH-M cresceu 47,5% entre 1991 e 2010, conforme mapas que mostram a passagem generalizada dos municípios brasileiros das faixas de IDH-M muito baixo e baixo para as faixas médio e alto.\n\nAdaptado de O Globo, 15/03/2015.\n\nGeograficamente, o desenvolvimento humano no Brasil apresenta mudanças decorrentes dos seguintes fatores principais:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "erradicação do analfabetismo – elevação do PIB"
+      },
+      {
+        "letter": "B",
+        "text": "desaceleração do desemprego – incremento da industrialização"
+      },
+      {
+        "letter": "C",
+        "text": "decréscimo da natalidade – crescimento da qualificação profissional"
+      },
+      {
+        "letter": "D",
+        "text": "diminuição da mortalidade infantil – aumento da expectativa de vida"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Entre 1991 e 2010, o componente que mais puxou o IDH-M para cima foi a longevidade, sustentada pela forte queda da mortalidade infantil — resultado da ampliação do saneamento, da vacinação e da atenção básica — e pelo consequente aumento da esperança de vida. As demais alternativas apontam processos que não se completaram no período: o analfabetismo não foi erradicado e a industrialização não avançou de forma generalizada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q50",
     "exam": "uerj",
     "year": 2016,
@@ -1473,6 +3059,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q50",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 50,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "“Reivindicar liberdade para as mulheres não é crime. Pessoas presas por solicitar o direito de votar não devem ser tratadas como criminosas” (1917).\n\nO cartaz de que foi extraída a frase acima retrata a luta das mulheres pelo sufrágio universal nas décadas iniciais do século XX, nas sociedades norte-americana e europeia. Naquele momento, a negação desse direito indicava o seguinte problema social:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exclusão da mão de obra feminina do mercado de trabalho"
+      },
+      {
+        "letter": "B",
+        "text": "monopólio masculino sobre o acesso ao sistema escolar"
+      },
+      {
+        "letter": "C",
+        "text": "restrição ao exercício da cidadania política"
+      },
+      {
+        "letter": "D",
+        "text": "manutenção das tradições aristocráticas"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O direito de votar e de ser votado é o núcleo da cidadania política. Impedir metade da população de exercê-lo — e ainda prender quem o reivindicasse, como denuncia o cartaz — significava restringir a cidadania a um critério de sexo, num regime formalmente democrático. As outras alternativas tratam de exclusões reais, no trabalho e na escola, mas que não são o direito em disputa no movimento sufragista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1512,6 +3135,42 @@
     }
   },
   {
+    "id": "uerj-2016-q51",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "As usinas geotérmicas são uma forma alternativa de geração de energia elétrica por utilizarem as elevadas temperaturas do próprio subsolo em algumas regiões. Em uma central geotérmica, um furo de injeção leva água fria até uma camada de rocha quente, situada a poucos quilômetros de profundidade, e um furo de captação traz de volta a água aquecida, cujo vapor aciona as turbinas. Um mapa das principais placas tectônicas mostra que essas condições ocorrem sobretudo nas zonas de contato entre placas.\n\nO país cuja localização espacial proporciona condições ideais para amplo aproveitamento da energia geotérmica é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Islândia"
+      },
+      {
+        "letter": "B",
+        "text": "Nigéria"
+      },
+      {
+        "letter": "C",
+        "text": "Uruguai"
+      },
+      {
+        "letter": "D",
+        "text": "Austrália"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O aproveitamento geotérmico depende de calor do interior da Terra próximo à superfície, o que ocorre em zonas de contato entre placas e de intenso vulcanismo. A Islândia situa-se justamente sobre a dorsal mesoatlântica, no limite entre as placas norte-americana e euro-asiática, e por isso concentra vulcões, gêiseres e fontes termais — obtendo dessa fonte boa parte de sua eletricidade e de seu aquecimento. Nigéria, Uruguai e Austrália ficam em áreas intraplaca, geologicamente estáveis.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q52",
     "exam": "uerj",
     "year": 2016,
@@ -1545,6 +3204,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q52",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 52,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Dirijo-me a todos os brasileiros, não apenas aos que conseguiram adquirir instrução nas escolas, mas também aos milhões de irmãos nossos que dão ao Brasil mais do que recebem, que pagam em sofrimento, em miséria, em privações, o direito de ser brasileiro e de trabalhar sol a sol para a grandeza deste país. [...] Àqueles que reclamam do Presidente da República uma palavra tranquilizadora para a Nação, o que posso dizer-lhes é que só conquistaremos a paz social pela justiça social. A maioria dos brasileiros já não se conforma com uma ordem social imperfeita, injusta e desumana.\n\nJOÃO GOULART, em comício no Rio de Janeiro, 13/03/1964. Adaptado de jornalggn.com.br.\n\nNo evento conhecido como Comício da Central do Brasil, o Presidente João Goulart proferiu discurso em que reafirmava algumas das propostas de seu governo, atendendo a demandas de organizações sindicais. A proposta desse governo mais diretamente associada à promoção da justiça social foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "realização da reforma agrária"
+      },
+      {
+        "letter": "B",
+        "text": "gratuidade do ensino público"
+      },
+      {
+        "letter": "C",
+        "text": "concessão do voto aos analfabetos"
+      },
+      {
+        "letter": "D",
+        "text": "introdução dos direitos trabalhistas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No comício da Central do Brasil, Jango anunciou as Reformas de Base, e a mais radical delas — a que mexia diretamente na estrutura de propriedade e na desigualdade brasileira — era a reforma agrária, com a desapropriação de terras improdutivas às margens de rodovias e ferrovias. Os direitos trabalhistas já haviam sido consolidados na CLT, em 1943, e o voto do analfabeto, também defendido então, é medida de cidadania política, e não de redistribuição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1584,6 +3279,42 @@
     }
   },
   {
+    "id": "uerj-2016-q53",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 53,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "No início do século XXI, as favelas da cidade do Rio de Janeiro não são apenas distintas daquelas existentes há cinquenta anos, como também apresentam diferenças internas que foram constituídas ao longo do tempo e de sua expansão espacial. No entanto, a visão homogeneizante, que considera “iguais” todas as favelas, ainda está presente no senso comum – e também nas práticas de alguns agentes do setor público. Trata-se de uma visão que não dá conta da complexa dinâmica socioespacial das favelas cariocas e deve, portanto, ser revista.\n\nGERÔNIMO LEITÃO. Adaptado de observatoriodefavelas.org.br.\n\nUma característica socioespacial presente no conjunto das favelas cariocas e que contribui para o tipo de visão a que o autor do texto faz referência é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "densidade elevada de habitações"
+      },
+      {
+        "letter": "B",
+        "text": "valorização semelhante dos imóveis"
+      },
+      {
+        "letter": "C",
+        "text": "sociabilidade reduzida de moradores"
+      },
+      {
+        "letter": "D",
+        "text": "topografia acidentada dos assentamentos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pergunta pede um traço comum a todas as favelas, capaz de alimentar a impressão de que são iguais. A alta densidade de construções, com casas justapostas e vielas estreitas, é justamente o que salta aos olhos em qualquer delas e o que produz a imagem homogênea. Os preços dos imóveis variam muito entre favelas e dentro delas, a sociabilidade é intensa, e nem todas se assentam em encostas — há favelas em áreas planas e alagadiças.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q54",
     "exam": "uerj",
     "year": 2016,
@@ -1617,6 +3348,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q54",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 54,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Uma charge de Ziraldo publicada em 1975, no livro A última dos brasileiros, ironiza um momento de alterações nas disputas partidárias durante os governos militares de 1964 a 1985.\n\nA organização partidária implantada por esses governos e a mudança nas disputas partidárias contextualizada na charge estão identificadas, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apartidarismo – controle da propaganda televisiva"
+      },
+      {
+        "letter": "B",
+        "text": "bipartidarismo – crescimento dos grupos de oposição"
+      },
+      {
+        "letter": "C",
+        "text": "unipartidarismo – diminuição da participação eleitoral"
+      },
+      {
+        "letter": "D",
+        "text": "pluripartidarismo – censura dos meios de comunicação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Ato Institucional nº 2, de 1965, extinguiu os partidos existentes e impôs o bipartidarismo, com a ARENA, de sustentação do regime, e o MDB, oposição consentida. Em 1975, o contexto era o das eleições legislativas de 1974, nas quais o MDB obteve votação expressiva e transformou-se em canal de manifestação do descontentamento — o crescimento da oposição que a charge ironiza. As demais alternativas descrevem arranjos partidários que não existiram no período.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1656,6 +3423,43 @@
     }
   },
   {
+    "id": "uerj-2016-q55",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial",
+      "Geopolítica"
+    ],
+    "statement": "Os contêineres são grandes caixas metálicas utilizadas para o transporte de mercadorias. Um mapa dos portos com maior movimentação de contêineres em 2012, em que o diâmetro de cada círculo é proporcional à quantidade anual movimentada, mostra forte concentração desses portos no Leste e no Sudeste da Ásia — sobretudo na China —, com volumes muito superiores aos dos portos europeus e norte-americanos.\n\nO fluxo de contêineres dos portos mais movimentados do mundo, observado no mapa, é explicado por uma tendência da economia mundial nas últimas décadas. Essa tendência está apresentada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação da rede de telecomunicações"
+      },
+      {
+        "letter": "B",
+        "text": "redução do comércio de matérias-primas"
+      },
+      {
+        "letter": "C",
+        "text": "concentração do consumo de mercadorias"
+      },
+      {
+        "letter": "D",
+        "text": "terceirização da produção de bens industriais"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A concentração dos maiores portos de contêineres na Ásia reflete a transferência das etapas industriais das empresas transnacionais para países de mão de obra barata, sobretudo a China. Fabricados ali, os bens são exportados em contêineres para os mercados consumidores da Europa e da América do Norte. Essa desconcentração produtiva — a terceirização da produção industrial — é o que explica o padrão observado, e não o consumo, que continua disperso pelos países ricos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q56",
     "exam": "uerj",
     "year": 2016,
@@ -1692,6 +3496,42 @@
     }
   },
   {
+    "id": "uerj-2016-q56",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 56,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Sobretudo compreendam os críticos a missão dos poetas, escritores e artistas, neste período especial e ambíguo da formação de uma nacionalidade. São estes os operários incumbidos de polir o talhe e as feições da individualidade que se vai esboçando no viver do povo. O povo que chupa o caju, a manga, o cambucá e a jabuticaba pode falar com igual pronúncia e o mesmo espírito do povo que sorve o figo, a pera, o damasco e a nêspera?\n\nJOSÉ DE ALENCAR, prefácio a Sonhos d'ouro, 1872. Adaptado de ebooksbrasil.org.\n\nDe acordo com José de Alencar, a caracterização da identidade nacional brasileira, no século XIX, estava vinculada ao processo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promoção da cultura letrada"
+      },
+      {
+        "letter": "B",
+        "text": "integração do mundo lusófono"
+      },
+      {
+        "letter": "C",
+        "text": "valorização da miscigenação étnica"
+      },
+      {
+        "letter": "D",
+        "text": "particularização da língua portuguesa"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A pergunta retórica do prefácio contrapõe o povo dos frutos tropicais ao povo dos frutos europeus para concluir que não podem falar “com igual pronúncia e o mesmo espírito”. Alencar reivindica, assim, uma língua portuguesa brasileira, moldada pela experiência e pela natureza do país — programa central do romantismo nacionalista, que buscava distinguir a norma daqui da de Portugal, e não integrá-las.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2016-eq1-q57",
     "exam": "uerj",
     "year": 2016,
@@ -1725,6 +3565,79 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q57",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Mapas comparativos mostram a diferença entre a expansão das redes de metrô nas cidades do Rio de Janeiro e de Xangai. Em 1993, Xangai não tinha metrô e o Rio de Janeiro já contava com uma rede modesta; em 2013, a rede carioca havia crescido pouco, enquanto a chinesa se tornara uma das maiores do mundo.\n\nAdaptado de diariodorio.com.\n\nAs escolhas feitas pelo poder público, no que se refere às modalidades de transporte urbano, são muito importantes para a compreensão dos fenômenos sociais e ambientais verificados em cada cidade. Caso a evolução do metrô de Xangai entre 1993 e 2013 tivesse ocorrido em proporção semelhante à do metrô carioca, uma provável consequência espacial sobre a metrópole chinesa seria:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "supressão da inversão térmica"
+      },
+      {
+        "letter": "B",
+        "text": "aumento da poluição atmosférica"
+      },
+      {
+        "letter": "C",
+        "text": "redução da segregação residencial"
+      },
+      {
+        "letter": "D",
+        "text": "crescimento da especialização comercial"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Com uma rede de metrô pequena, os deslocamentos de uma metrópole de mais de vinte milhões de habitantes seriam absorvidos por automóveis e ônibus, movidos a combustíveis fósseis. O resultado direto seria mais emissão de poluentes e agravamento da qualidade do ar — problema que Xangai enfrenta mesmo com o metrô que construiu. A inversão térmica não seria suprimida, e sim agravada em seus efeitos, e as demais alternativas não decorrem da escolha modal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q58",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 58,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Imagine mandar um sinal para todos os dispositivos conectados à Internet ao redor do globo? Foi exatamente o que fez John Matherly, que se autointitula um “cartógrafo” da rede. Com essa técnica, que permite sondar tão rapidamente o panorama de conexões no mundo, o criador pretende fazer isso mais vezes ao longo do tempo, para comparar a evolução do acesso à rede. Quanto mais intensa a cor, maior o número de dispositivos, e por enquanto sabemos bem onde eles se concentram.\n\nAdaptado de revistagalileu.globo.com, setembro/2014.\n\nA análise do mapa de dispositivos conectados à Internet possibilita visualizar o uso da rede nas diversas regiões do mundo, com forte concentração na América do Norte, na Europa e no Leste da Ásia e vazios na África e em partes da Ásia central. A principal causa para as diferenças regionais na concentração do uso dessa rede é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "baixa densidade demográfica"
+      },
+      {
+        "letter": "B",
+        "text": "redução do crescimento econômico"
+      },
+      {
+        "letter": "C",
+        "text": "descontinuidade das transmissões globais"
+      },
+      {
+        "letter": "D",
+        "text": "desigualdade de desenvolvimento tecnológico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As áreas iluminadas no mapa coincidem com as regiões de maior renda e maior infraestrutura de telecomunicações; os vazios, com as de menor desenvolvimento. O acesso à rede depende de cabos, energia, equipamentos e capacidade de compra — condições distribuídas de forma muito desigual entre países. A baixa densidade demográfica não explica os vazios, já que regiões populosas da África e da Ásia aparecem pouco conectadas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -1797,6 +3710,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-q60",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 60,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica",
+      "Geografia da População"
+    ],
+    "statement": "Em novembro de 2014, a Alemanha celebrou 25 anos da queda do Muro de Berlim. Apesar do tempo decorrido e dos investimentos realizados, ainda persistem muitas diferenças entre as porções ocidental e oriental do país. Dois mapas apontam exemplos dessas diferenças: um mostra que a taxa de desemprego em 2013 é mais alta na porção oriental; o outro, que o sucesso eleitoral do Partido Nacional Democrata Alemão, em 2013, também se concentra nessa mesma porção.\n\nAdaptado de washingtonpost.com, 31/10/2014.\n\nUma prioridade da plataforma política do Partido Nacional Democrata, da extrema-direita alemã, é a adoção de severas restrições à imigração para o país. Com base nessa informação e na análise dos mapas, a porção oriental do país possui atualmente, como característica social marcante, níveis mais elevados de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inclusão política"
+      },
+      {
+        "letter": "B",
+        "text": "automação industrial"
+      },
+      {
+        "letter": "C",
+        "text": "sentimento xenófobo"
+      },
+      {
+        "letter": "D",
+        "text": "qualificação profissional"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A sobreposição dos dois mapas mostra que a votação do partido de extrema-direita, cuja bandeira é restringir a imigração, é maior justamente onde o desemprego é maior — a antiga Alemanha Oriental. A leitura combinada indica ali um sentimento xenófobo mais intenso, alimentado pela competição percebida por postos de trabalho e pelo atraso econômico relativo em relação ao Oeste.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 13/09/2015), caderno de questões e gabarito oficial."
     }
   },
   {
