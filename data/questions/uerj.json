@@ -1,5 +1,1805 @@
 [
   {
+    "id": "uerj-2016-eq1-q01",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - DICIONÁRIO INFANTIL\n\nO curioso deste \"dicionário infantil\" é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber. (l. 4-5)\n\nVerbetes citados:\n• Amigo: \"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\". (l. 8-9)\n• Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)\n• Branco: o branco é uma cor que não pinta. (l. 13)\n• Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)\n• Céu: de onde sai o dia. (l. 15)\n• Dinheiro: coisa de interesse para os outros com a qual se faz amigos e, sem ela, se faz inimigos. (Ana María, 12 anos)\n• Escuridão: é como o frescor da noite. (Ana Cristina, 8 anos) (l. 18)\n• Guerra: gente que se mata por um pedaço de terra ou de paz. (Juan Carlos, 11 anos) (l. 19)\n• Inveja: atirar pedras nos amigos. (Alejandro, 7 anos)\n• Mãe: mãe entende e depois vai dormir. (Juan, 6 anos) (l. 21)\n• Paz: quando a pessoa se perdoa. (Juan Camilo, 8 anos) (l. 22)\n• Solidão: tristeza que dá na pessoa às vezes. (Iván, 10 anos)\n• Tempo: coisa que passa para lembrar. (Jorge, 8 anos)\n• Universo: casa das estrelas. (Carlos, 12 anos) (l. 25)\n\nANDRÉ FANTIN. Adaptado de repertoriocriativo.com.br, 22/05/2013.\n\n\"O curioso deste 'dicionário infantil' é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber.\" (l. 4-5)\n\nAdultos e crianças, embora usando a mesma linguagem, não veem e não descrevem o mundo da mesma maneira. Com base no conteúdo desse fragmento, pode-se concluir que qualquer descrição da realidade apresenta a seguinte característica:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "requer alguém que a realize sem receio"
+      },
+      {
+        "letter": "B",
+        "text": "necessita de que se faça formulação detalhada"
+      },
+      {
+        "letter": "C",
+        "text": "depende da perspectiva daquele que observa"
+      },
+      {
+        "letter": "D",
+        "text": "mostra-se precisa para os que já amadureceram"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O fragmento afirma que as crianças percebem o que os adultos \"já não conseguem perceber\": não é o mundo que muda, e sim o olhar sobre ele. Se o mesmo objeto gera descrições diferentes conforme quem o descreve, então nenhuma descrição é neutra - toda ela depende da perspectiva do observador. A alternativa (D) contraria diretamente o texto, que valoriza justamente o olhar infantil; e as alternativas (A) e (B) tratam de coragem e de detalhamento, aspectos que o fragmento não aborda.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q02",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - DICIONÁRIO INFANTIL\n\nO curioso deste \"dicionário infantil\" é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber. (l. 4-5)\n\nVerbetes citados:\n• Amigo: \"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\". (l. 8-9)\n• Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)\n• Branco: o branco é uma cor que não pinta. (l. 13)\n• Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)\n• Céu: de onde sai o dia. (l. 15)\n• Dinheiro: coisa de interesse para os outros com a qual se faz amigos e, sem ela, se faz inimigos. (Ana María, 12 anos)\n• Escuridão: é como o frescor da noite. (Ana Cristina, 8 anos) (l. 18)\n• Guerra: gente que se mata por um pedaço de terra ou de paz. (Juan Carlos, 11 anos) (l. 19)\n• Inveja: atirar pedras nos amigos. (Alejandro, 7 anos)\n• Mãe: mãe entende e depois vai dormir. (Juan, 6 anos) (l. 21)\n• Paz: quando a pessoa se perdoa. (Juan Camilo, 8 anos) (l. 22)\n• Solidão: tristeza que dá na pessoa às vezes. (Iván, 10 anos)\n• Tempo: coisa que passa para lembrar. (Jorge, 8 anos)\n• Universo: casa das estrelas. (Carlos, 12 anos) (l. 25)\n\nANDRÉ FANTIN. Adaptado de repertoriocriativo.com.br, 22/05/2013.\n\nUma afirmação paradoxal contém alguma contradição interna. Um exemplo de afirmação paradoxal é identificado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)"
+      },
+      {
+        "letter": "B",
+        "text": "Guerra: gente que se mata por um pedaço de terra ou de paz. (l. 19)"
+      },
+      {
+        "letter": "C",
+        "text": "Mãe: mãe entende e depois vai dormir. (l. 21)"
+      },
+      {
+        "letter": "D",
+        "text": "Paz: quando a pessoa se perdoa. (l. 22)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A definição de guerra reúne dois termos que se excluem: matar-se por \"um pedaço de paz\". Se a paz é justamente a ausência de guerra, buscá-la pelo extermínio é contradizer o próprio objetivo - e é essa contradição interna que caracteriza o paradoxo. A criança capta, sem saber, uma das grandes ironias da história humana. As demais definições são apenas observações inusitadas ou sintéticas, sem termos que se anulem mutuamente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q03",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 3,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - DICIONÁRIO INFANTIL\n\nO curioso deste \"dicionário infantil\" é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber. (l. 4-5)\n\nVerbetes citados:\n• Amigo: \"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\". (l. 8-9)\n• Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)\n• Branco: o branco é uma cor que não pinta. (l. 13)\n• Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)\n• Céu: de onde sai o dia. (l. 15)\n• Dinheiro: coisa de interesse para os outros com a qual se faz amigos e, sem ela, se faz inimigos. (Ana María, 12 anos)\n• Escuridão: é como o frescor da noite. (Ana Cristina, 8 anos) (l. 18)\n• Guerra: gente que se mata por um pedaço de terra ou de paz. (Juan Carlos, 11 anos) (l. 19)\n• Inveja: atirar pedras nos amigos. (Alejandro, 7 anos)\n• Mãe: mãe entende e depois vai dormir. (Juan, 6 anos) (l. 21)\n• Paz: quando a pessoa se perdoa. (Juan Camilo, 8 anos) (l. 22)\n• Solidão: tristeza que dá na pessoa às vezes. (Iván, 10 anos)\n• Tempo: coisa que passa para lembrar. (Jorge, 8 anos)\n• Universo: casa das estrelas. (Carlos, 12 anos) (l. 25)\n\nANDRÉ FANTIN. Adaptado de repertoriocriativo.com.br, 22/05/2013.\n\n\"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\" (l. 8-9)\n\nNa definição acima, o trecho sublinhado contém duas comparações implícitas, que têm como referência o mundo dos adultos. Essas comparações são feitas por meio do seguinte recurso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oposição"
+      },
+      {
+        "letter": "B",
+        "text": "gradação"
+      },
+      {
+        "letter": "C",
+        "text": "classificação"
+      },
+      {
+        "letter": "D",
+        "text": "reformulação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A criança é definida pelo que não faz: não toma rum e dorme cedo. Cada traço só significa alguma coisa porque o adulto faz o contrário - bebe e se deita tarde. A definição se constrói, portanto, por contraste com um termo que não chega a ser mencionado, o que caracteriza a oposição. Não há gradação, pois os traços não formam escala; não há classificação em categorias; e não há reformulação, já que nada é dito duas vezes de modos diferentes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q04",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 4,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - DICIONÁRIO INFANTIL\n\nO curioso deste \"dicionário infantil\" é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber. (l. 4-5)\n\nVerbetes citados:\n• Amigo: \"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\". (l. 8-9)\n• Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)\n• Branco: o branco é uma cor que não pinta. (l. 13)\n• Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)\n• Céu: de onde sai o dia. (l. 15)\n• Dinheiro: coisa de interesse para os outros com a qual se faz amigos e, sem ela, se faz inimigos. (Ana María, 12 anos)\n• Escuridão: é como o frescor da noite. (Ana Cristina, 8 anos) (l. 18)\n• Guerra: gente que se mata por um pedaço de terra ou de paz. (Juan Carlos, 11 anos) (l. 19)\n• Inveja: atirar pedras nos amigos. (Alejandro, 7 anos)\n• Mãe: mãe entende e depois vai dormir. (Juan, 6 anos) (l. 21)\n• Paz: quando a pessoa se perdoa. (Juan Camilo, 8 anos) (l. 22)\n• Solidão: tristeza que dá na pessoa às vezes. (Iván, 10 anos)\n• Tempo: coisa que passa para lembrar. (Jorge, 8 anos)\n• Universo: casa das estrelas. (Carlos, 12 anos) (l. 25)\n\nANDRÉ FANTIN. Adaptado de repertoriocriativo.com.br, 22/05/2013.\n\n\"Escuridão: é como o frescor da noite.\" (l. 18)\n\nO verbete citado apresenta uma definição poética para o termo \"escuridão\". Essa afirmativa pode ser justificada pelo fato de a autora do verbete ter optado por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "priorizar as crenças antes de se pautar pela racionalidade"
+      },
+      {
+        "letter": "B",
+        "text": "construir uma figuração particular sem se ater ao fenômeno físico"
+      },
+      {
+        "letter": "C",
+        "text": "expressar seu medo da noite no lugar de descrevê-la minuciosamente"
+      },
+      {
+        "letter": "D",
+        "text": "apoiar-se na linguagem denotativa ao invés de elaborar um argumento conotativo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Uma definição técnica de escuridão trataria da ausência de luz. A menina substitui esse dado físico por uma sensação térmica - o frescor -, associando a escuridão a uma experiência sensorial vivida por ela. Trata-se de uma imagem pessoal, uma figuração particular que abandona o fenômeno objetivo, e é isso que a torna poética. A alternativa (D) inverte os termos: a definição é conotativa, não denotativa. E o verbete não expressa crença nem medo: a palavra \"frescor\" tem conotação agradável.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q05",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 5,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - DICIONÁRIO INFANTIL\n\nO curioso deste \"dicionário infantil\" é como as crianças definem o mundo através daquilo que os adultos já não conseguem perceber. (l. 4-5)\n\nVerbetes citados:\n• Amigo: \"uma criança é um amigo que tem o cabelo curtinho, não toma rum e vai dormir cedo\". (l. 8-9)\n• Adulto: pessoa que, em toda coisa que fala, fala primeiro dela mesma. (l. 11)\n• Branco: o branco é uma cor que não pinta. (l. 13)\n• Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)\n• Céu: de onde sai o dia. (l. 15)\n• Dinheiro: coisa de interesse para os outros com a qual se faz amigos e, sem ela, se faz inimigos. (Ana María, 12 anos)\n• Escuridão: é como o frescor da noite. (Ana Cristina, 8 anos) (l. 18)\n• Guerra: gente que se mata por um pedaço de terra ou de paz. (Juan Carlos, 11 anos) (l. 19)\n• Inveja: atirar pedras nos amigos. (Alejandro, 7 anos)\n• Mãe: mãe entende e depois vai dormir. (Juan, 6 anos) (l. 21)\n• Paz: quando a pessoa se perdoa. (Juan Camilo, 8 anos) (l. 22)\n• Solidão: tristeza que dá na pessoa às vezes. (Iván, 10 anos)\n• Tempo: coisa que passa para lembrar. (Jorge, 8 anos)\n• Universo: casa das estrelas. (Carlos, 12 anos) (l. 25)\n\nANDRÉ FANTIN. Adaptado de repertoriocriativo.com.br, 22/05/2013.\n\nPor meio da generalização, pode-se atribuir um determinado conjunto de traços que não se relacionam apenas com o que está sendo nomeado. O melhor exemplo desse procedimento de generalização está presente em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Branco: o branco é uma cor que não pinta. (l. 13)"
+      },
+      {
+        "letter": "B",
+        "text": "Camponês: um camponês não tem casa, nem dinheiro, somente seus filhos. (l. 14)"
+      },
+      {
+        "letter": "C",
+        "text": "Céu: de onde sai o dia. (l. 15)"
+      },
+      {
+        "letter": "D",
+        "text": "Universo: casa das estrelas. (l. 25)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A definição de camponês atribui a todo um grupo social - sem casa, sem dinheiro, tendo apenas os filhos - traços que decorrem da condição de pobreza, e não do trabalho no campo. Existem camponeses proprietários e camponeses sem filhos; a criança estende ao conjunto características observadas em alguns, o que caracteriza a generalização. As demais definições permanecem restritas ao objeto nomeado: a cor branca, o céu e o universo são descritos por propriedades que lhes são próprias.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q09",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A ARTE DE ENGANAR\n\nEm seu livro Pernas pro ar, Eduardo Galeano recorda que, na era vitoriana, era proibido mencionar \"calças\" na presença de uma jovem. Hoje em dia, diz ele, não cai bem utilizar certas expressões perante a opinião pública: \"O capitalismo exibe o nome artístico de economia de mercado; imperialismo se chama globalização; suas vítimas se chamam países em via de desenvolvimento; oportunismo se chama pragmatismo; despedir sem indenização nem explicação se chama flexibilização laboral\" etc. (l. 1-6)\n\nA lista é longa. Acrescento os inúmeros preconceitos que carregamos: ladrão é sonegador; lobista é consultor; fracasso é crise; especulação é derivativo; latifúndio é agronegócio; desmatamento é investimento rural; lavanderia de dinheiro escuso é paraíso fiscal; acumulação privada de riqueza é democracia; socialização de bens é ditadura; governar a favor da maioria é populismo; tortura é constrangimento ilegal; invasão é intervenção; peste é pandemia; magricela é anoréxica. (l. 7-11)\n\nEufemismo é a arte de dizer uma coisa e acreditar que o público escuta ou lê outra. É um jeitinho de escamotear significados. De tentar encobrir verdades e realidades. Posso admitir que pertenço à terceira idade, embora esteja na cara: sou velho. Ora, poderia dizer que sou seminovo! Como carros em revendedoras de veículos. Todos velhos! Mas o adjetivo seminovo os torna mais vendáveis. (l. 12-16)\n\nCoitadas das palavras! Elas são distorcidas para que a realidade, escamoteada, permaneça como está. Não conseguem, contudo, escapar da luta de classes: pobre é ladrão, rico é corrupto. Pobre é viciado, rico é dependente químico. Em suma, eufemismo é um truque semântico para tentar amenizar os fatos. (l. 17-19)\n\nFREI BETTO. Adaptado de O Dia, 21/03/2015.\n\nEm sua origem grega, o termo \"eufemismo\" significa \"palavra de bom agouro\" ou \"palavra que deseja o bem\". Como figura de linguagem, indica um recurso que suaviza alguma ideia ou expressão mais chocante. Na crônica, o autor enfatiza o aspecto negativo dos eufemismos, que serviriam para distorcer a realidade.\n\nDe acordo com o autor, o eufemismo camufla a desigualdade social no seguinte exemplo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fracasso é crise (l. 8)"
+      },
+      {
+        "letter": "B",
+        "text": "peste é pandemia (l. 11)"
+      },
+      {
+        "letter": "C",
+        "text": "magricela é anoréxica (l. 11)"
+      },
+      {
+        "letter": "D",
+        "text": "rico é corrupto (l. 18)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No último parágrafo, Frei Betto apresenta pares que mostram como a mesma conduta recebe nomes diferentes conforme a classe social de quem a pratica: \"pobre é ladrão, rico é corrupto\" e \"pobre é viciado, rico é dependente químico\". O termo mais brando é sempre reservado ao rico, e é justamente esse tratamento desigual da linguagem que camufla a desigualdade social. As alternativas (A), (B) e (C) também são eufemismos - substituem termos duros por outros técnicos ou neutros -, mas nenhuma delas opõe classes sociais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q10",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A ARTE DE ENGANAR\n\nEm seu livro Pernas pro ar, Eduardo Galeano recorda que, na era vitoriana, era proibido mencionar \"calças\" na presença de uma jovem. Hoje em dia, diz ele, não cai bem utilizar certas expressões perante a opinião pública: \"O capitalismo exibe o nome artístico de economia de mercado; imperialismo se chama globalização; suas vítimas se chamam países em via de desenvolvimento; oportunismo se chama pragmatismo; despedir sem indenização nem explicação se chama flexibilização laboral\" etc. (l. 1-6)\n\nA lista é longa. Acrescento os inúmeros preconceitos que carregamos: ladrão é sonegador; lobista é consultor; fracasso é crise; especulação é derivativo; latifúndio é agronegócio; desmatamento é investimento rural; lavanderia de dinheiro escuso é paraíso fiscal; acumulação privada de riqueza é democracia; socialização de bens é ditadura; governar a favor da maioria é populismo; tortura é constrangimento ilegal; invasão é intervenção; peste é pandemia; magricela é anoréxica. (l. 7-11)\n\nEufemismo é a arte de dizer uma coisa e acreditar que o público escuta ou lê outra. É um jeitinho de escamotear significados. De tentar encobrir verdades e realidades. Posso admitir que pertenço à terceira idade, embora esteja na cara: sou velho. Ora, poderia dizer que sou seminovo! Como carros em revendedoras de veículos. Todos velhos! Mas o adjetivo seminovo os torna mais vendáveis. (l. 12-16)\n\nCoitadas das palavras! Elas são distorcidas para que a realidade, escamoteada, permaneça como está. Não conseguem, contudo, escapar da luta de classes: pobre é ladrão, rico é corrupto. Pobre é viciado, rico é dependente químico. Em suma, eufemismo é um truque semântico para tentar amenizar os fatos. (l. 17-19)\n\nFREI BETTO. Adaptado de O Dia, 21/03/2015.\n\nFrei Betto inicia seu texto com uma citação do escritor uruguaio Eduardo Galeano, recorrendo a recurso comum de argumentação. Esse recurso constitui um argumento de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comparação"
+      },
+      {
+        "letter": "B",
+        "text": "causalidade"
+      },
+      {
+        "letter": "C",
+        "text": "contestação"
+      },
+      {
+        "letter": "D",
+        "text": "autoridade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O autor abre a crônica invocando um escritor reconhecido e transcrevendo longamente suas palavras, para só depois acrescentar suas próprias observações (\"A lista é longa. Acrescento...\"). Ao apoiar-se no prestígio de Galeano para sustentar a tese sobre os eufemismos, ele emprega o argumento de autoridade. Não há comparação entre dois elementos, nem relação de causa e efeito, nem contestação - ao contrário, o autor concorda inteiramente com o que cita.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q11",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - A ARTE DE ENGANAR\n\nEm seu livro Pernas pro ar, Eduardo Galeano recorda que, na era vitoriana, era proibido mencionar \"calças\" na presença de uma jovem. Hoje em dia, diz ele, não cai bem utilizar certas expressões perante a opinião pública: \"O capitalismo exibe o nome artístico de economia de mercado; imperialismo se chama globalização; suas vítimas se chamam países em via de desenvolvimento; oportunismo se chama pragmatismo; despedir sem indenização nem explicação se chama flexibilização laboral\" etc. (l. 1-6)\n\nA lista é longa. Acrescento os inúmeros preconceitos que carregamos: ladrão é sonegador; lobista é consultor; fracasso é crise; especulação é derivativo; latifúndio é agronegócio; desmatamento é investimento rural; lavanderia de dinheiro escuso é paraíso fiscal; acumulação privada de riqueza é democracia; socialização de bens é ditadura; governar a favor da maioria é populismo; tortura é constrangimento ilegal; invasão é intervenção; peste é pandemia; magricela é anoréxica. (l. 7-11)\n\nEufemismo é a arte de dizer uma coisa e acreditar que o público escuta ou lê outra. É um jeitinho de escamotear significados. De tentar encobrir verdades e realidades. Posso admitir que pertenço à terceira idade, embora esteja na cara: sou velho. Ora, poderia dizer que sou seminovo! Como carros em revendedoras de veículos. Todos velhos! Mas o adjetivo seminovo os torna mais vendáveis. (l. 12-16)\n\nCoitadas das palavras! Elas são distorcidas para que a realidade, escamoteada, permaneça como está. Não conseguem, contudo, escapar da luta de classes: pobre é ladrão, rico é corrupto. Pobre é viciado, rico é dependente químico. Em suma, eufemismo é um truque semântico para tentar amenizar os fatos. (l. 17-19)\n\nFREI BETTO. Adaptado de O Dia, 21/03/2015.\n\nNa produção do humor, traço típico da crônica, o autor combina eufemismos com outros recursos ou figuras de linguagem. O exemplo em que o humor é produzido por meio da superposição entre um eufemismo e uma comparação entre elementos distintos é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "despedir sem indenização nem explicação se chama flexibilização laboral (l. 5-6)"
+      },
+      {
+        "letter": "B",
+        "text": "acumulação privada de riqueza é democracia; (l. 9-10)"
+      },
+      {
+        "letter": "C",
+        "text": "Ora, poderia dizer que sou seminovo! (l. 14-15)"
+      },
+      {
+        "letter": "D",
+        "text": "são distorcidas para que a realidade, escamoteada, permaneça como está. (l. 17-18)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em (C) há duas operações simultâneas. Primeiro o eufemismo: \"seminovo\" no lugar de \"velho\", aplicado ao próprio autor. Depois a comparação, explicitada na frase seguinte - \"Como carros em revendedoras de veículos\" -, que aproxima uma pessoa de um automóvel usado. O humor nasce exatamente dessa superposição, com o autor tratando a si mesmo como mercadoria a ser tornada \"mais vendável\". As alternativas (A) e (B) trazem eufemismos, mas sem comparação; e (D) não contém eufemismo algum.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q12",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - A ARTE DE ENGANAR\n\nEm seu livro Pernas pro ar, Eduardo Galeano recorda que, na era vitoriana, era proibido mencionar \"calças\" na presença de uma jovem. Hoje em dia, diz ele, não cai bem utilizar certas expressões perante a opinião pública: \"O capitalismo exibe o nome artístico de economia de mercado; imperialismo se chama globalização; suas vítimas se chamam países em via de desenvolvimento; oportunismo se chama pragmatismo; despedir sem indenização nem explicação se chama flexibilização laboral\" etc. (l. 1-6)\n\nA lista é longa. Acrescento os inúmeros preconceitos que carregamos: ladrão é sonegador; lobista é consultor; fracasso é crise; especulação é derivativo; latifúndio é agronegócio; desmatamento é investimento rural; lavanderia de dinheiro escuso é paraíso fiscal; acumulação privada de riqueza é democracia; socialização de bens é ditadura; governar a favor da maioria é populismo; tortura é constrangimento ilegal; invasão é intervenção; peste é pandemia; magricela é anoréxica. (l. 7-11)\n\nEufemismo é a arte de dizer uma coisa e acreditar que o público escuta ou lê outra. É um jeitinho de escamotear significados. De tentar encobrir verdades e realidades. Posso admitir que pertenço à terceira idade, embora esteja na cara: sou velho. Ora, poderia dizer que sou seminovo! Como carros em revendedoras de veículos. Todos velhos! Mas o adjetivo seminovo os torna mais vendáveis. (l. 12-16)\n\nCoitadas das palavras! Elas são distorcidas para que a realidade, escamoteada, permaneça como está. Não conseguem, contudo, escapar da luta de classes: pobre é ladrão, rico é corrupto. Pobre é viciado, rico é dependente químico. Em suma, eufemismo é um truque semântico para tentar amenizar os fatos. (l. 17-19)\n\nFREI BETTO. Adaptado de O Dia, 21/03/2015.\n\nNo segundo parágrafo, o emprego de certa estrutura encaminha a reflexão do leitor para os disfarces que a linguagem permite. Essa estrutura é caracterizada principalmente por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "modalização"
+      },
+      {
+        "letter": "B",
+        "text": "pressuposição"
+      },
+      {
+        "letter": "C",
+        "text": "exemplificação"
+      },
+      {
+        "letter": "D",
+        "text": "particularização"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O segundo parágrafo é uma longa enumeração de casos concretos, todos com a mesma fórmula \"X é Y\": ladrão é sonegador, lobista é consultor, latifúndio é agronegócio, tortura é constrangimento ilegal. A repetição acumula exemplos que, juntos, evidenciam o padrão que o autor quer demonstrar - é a exemplificação, anunciada aliás pela frase de abertura, \"A lista é longa. Acrescento...\". Não há marcas de dúvida ou atenuação (modalização), nem conteúdos implícitos operando como pressupostos, nem movimento do geral para o específico (particularização).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q13",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - TERRORISMO LÓGICO\n\nSubtítulo: O TERRORISMO É DUPLAMENTE OBSCURANTISTA: PRIMEIRO NO ATENTADO, DEPOIS NAS REAÇÕES QUE DESENCADEIA.\n\nSaid e Chérif Kouachi eram descendentes de imigrantes. Said e Chérif Kouachi são suspeitos do ataque ao jornal Charlie Hebdo, na França. Se não houvesse imigrantes na França, não teria havido ataque ao Charlie Hebdo.\n\nSaid e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Zinedine Zidane é filho de argelinos. Zinedine Zidane é terrorista. (l. 4-5)\n\nZinedine Zidane é filho de argelinos. Said e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Said e Chérif Kouachi sabiam jogar futebol.\n\nMuçulmanos são uma minoria na França. Membros de uma minoria são suspeitos do ataque terrorista. Olha aí no que dá defender minoria...\n\nA esquerda francesa defende minorias. Membros de uma minoria são suspeitos pelo ataque terrorista. A esquerda francesa é culpada pelo ataque terrorista.\n\nA extrema direita francesa demoniza os imigrantes. O ataque terrorista fortalece a extrema direita francesa. A extrema direita francesa está por trás do ataque terrorista.\n\nMarine Le Pen é a líder da extrema direita francesa. \"Le Pen\" é \"O Caneta\", se tomarmos o artigo em francês e o substantivo em inglês. Eis aí uma demonstração de apoio da extrema direita francesa à liberdade de expressão - e aos erros de concordância nominal.\n\nNuma democracia, é desejável que as pessoas sejam livres para se expressar. Algumas dessas expressões podem ofender indivíduos ou grupos. Numa democracia, é desejável que indivíduos ou grupos sejam ofendidos.\n\nOs terroristas que atacaram o jornal Charlie Hebdo usavam gorros pretos. \"Black blocs\" usam gorros pretos. \"Black blocs\" são terroristas.\n\nTodo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate. (l. 22)\n\nANTONIO PRATA. Adaptado de Folha de São Paulo, 11/01/2015.\n\n\"O terrorismo é duplamente obscurantista: primeiro no atentado, depois nas reações que desencadeia.\"\n\nO subtítulo do texto sugere uma explicação para o título. Essa explicação é melhor compreendida pela associação entre:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tiros e opiniões"
+      },
+      {
+        "letter": "B",
+        "text": "armas e negociações"
+      },
+      {
+        "letter": "C",
+        "text": "convicções e mentiras"
+      },
+      {
+        "letter": "D",
+        "text": "crenças e esclarecimentos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O subtítulo aponta dois momentos de obscurantismo. O primeiro é o atentado em si - os tiros disparados contra a redação do Charlie Hebdo. O segundo são as reações que ele desencadeia, e é a essas reações que a crônica inteira se dedica: as opiniões apressadas que culpam os imigrantes, a esquerda ou a extrema direita, todas construídas sobre raciocínios falaciosos. A associação entre tiros e opiniões cobre, portanto, os dois momentos. As demais alternativas não correspondem ao par indicado pelo \"primeiro... depois\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q14",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 14,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Texto base - TERRORISMO LÓGICO\n\nSubtítulo: O TERRORISMO É DUPLAMENTE OBSCURANTISTA: PRIMEIRO NO ATENTADO, DEPOIS NAS REAÇÕES QUE DESENCADEIA.\n\nSaid e Chérif Kouachi eram descendentes de imigrantes. Said e Chérif Kouachi são suspeitos do ataque ao jornal Charlie Hebdo, na França. Se não houvesse imigrantes na França, não teria havido ataque ao Charlie Hebdo.\n\nSaid e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Zinedine Zidane é filho de argelinos. Zinedine Zidane é terrorista. (l. 4-5)\n\nZinedine Zidane é filho de argelinos. Said e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Said e Chérif Kouachi sabiam jogar futebol.\n\nMuçulmanos são uma minoria na França. Membros de uma minoria são suspeitos do ataque terrorista. Olha aí no que dá defender minoria...\n\nA esquerda francesa defende minorias. Membros de uma minoria são suspeitos pelo ataque terrorista. A esquerda francesa é culpada pelo ataque terrorista.\n\nA extrema direita francesa demoniza os imigrantes. O ataque terrorista fortalece a extrema direita francesa. A extrema direita francesa está por trás do ataque terrorista.\n\nMarine Le Pen é a líder da extrema direita francesa. \"Le Pen\" é \"O Caneta\", se tomarmos o artigo em francês e o substantivo em inglês. Eis aí uma demonstração de apoio da extrema direita francesa à liberdade de expressão - e aos erros de concordância nominal.\n\nNuma democracia, é desejável que as pessoas sejam livres para se expressar. Algumas dessas expressões podem ofender indivíduos ou grupos. Numa democracia, é desejável que indivíduos ou grupos sejam ofendidos.\n\nOs terroristas que atacaram o jornal Charlie Hebdo usavam gorros pretos. \"Black blocs\" usam gorros pretos. \"Black blocs\" são terroristas.\n\nTodo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate. (l. 22)\n\nANTONIO PRATA. Adaptado de Folha de São Paulo, 11/01/2015.\n\nAntonio Prata, ao comentar o ataque ao jornal Charlie Hebdo, construiu uma série de variações do argumento típico do método dedutivo, conhecido como \"silogismo\" e normalmente organizado na forma de três sentenças em sequência.\n\nA organização do silogismo sintetiza a estrutura do próprio método dedutivo, que se encontra melhor apresentada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "premissa geral - premissa particular - conclusão"
+      },
+      {
+        "letter": "B",
+        "text": "premissa particular - premissa geral - conclusão"
+      },
+      {
+        "letter": "C",
+        "text": "premissa geral - segunda premissa geral - conclusão particular"
+      },
+      {
+        "letter": "D",
+        "text": "premissa particular - segunda premissa particular - conclusão geral"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O silogismo clássico parte de uma premissa maior, de alcance geral, acrescenta uma premissa menor, que enquadra um caso particular nessa regra, e conclui. O exemplo canônico ilustra a estrutura: \"todo homem é mortal\" (geral), \"Sócrates é homem\" (particular), \"logo Sócrates é mortal\". É esse o movimento do método dedutivo, que vai do geral ao particular - o inverso da indução, descrita na alternativa (D). O último parágrafo da crônica segue exatamente esse molde: \"todo abacate é verde\" (geral), \"o Incrível Hulk é verde\" (particular), seguido da conclusão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q15",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - TERRORISMO LÓGICO\n\nSubtítulo: O TERRORISMO É DUPLAMENTE OBSCURANTISTA: PRIMEIRO NO ATENTADO, DEPOIS NAS REAÇÕES QUE DESENCADEIA.\n\nSaid e Chérif Kouachi eram descendentes de imigrantes. Said e Chérif Kouachi são suspeitos do ataque ao jornal Charlie Hebdo, na França. Se não houvesse imigrantes na França, não teria havido ataque ao Charlie Hebdo.\n\nSaid e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Zinedine Zidane é filho de argelinos. Zinedine Zidane é terrorista. (l. 4-5)\n\nZinedine Zidane é filho de argelinos. Said e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Said e Chérif Kouachi sabiam jogar futebol.\n\nMuçulmanos são uma minoria na França. Membros de uma minoria são suspeitos do ataque terrorista. Olha aí no que dá defender minoria...\n\nA esquerda francesa defende minorias. Membros de uma minoria são suspeitos pelo ataque terrorista. A esquerda francesa é culpada pelo ataque terrorista.\n\nA extrema direita francesa demoniza os imigrantes. O ataque terrorista fortalece a extrema direita francesa. A extrema direita francesa está por trás do ataque terrorista.\n\nMarine Le Pen é a líder da extrema direita francesa. \"Le Pen\" é \"O Caneta\", se tomarmos o artigo em francês e o substantivo em inglês. Eis aí uma demonstração de apoio da extrema direita francesa à liberdade de expressão - e aos erros de concordância nominal.\n\nNuma democracia, é desejável que as pessoas sejam livres para se expressar. Algumas dessas expressões podem ofender indivíduos ou grupos. Numa democracia, é desejável que indivíduos ou grupos sejam ofendidos.\n\nOs terroristas que atacaram o jornal Charlie Hebdo usavam gorros pretos. \"Black blocs\" usam gorros pretos. \"Black blocs\" são terroristas.\n\nTodo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate. (l. 22)\n\nANTONIO PRATA. Adaptado de Folha de São Paulo, 11/01/2015.\n\nConsidere o último parágrafo do texto: \"Todo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate.\" (l. 22)\n\nEste parágrafo indica como o leitor deve ler todos os anteriores. Segundo essa indicação, os argumentos apresentados pelo cronista devem ser compreendidos como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "críticas irônicas"
+      },
+      {
+        "letter": "B",
+        "text": "exercícios formais"
+      },
+      {
+        "letter": "C",
+        "text": "raciocínios aceitáveis"
+      },
+      {
+        "letter": "D",
+        "text": "recriações linguísticas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O parágrafo final é absurdo de forma evidente - ninguém confundiria o Hulk com um abacate. Ao encerrar assim, o cronista revela que todos os raciocínios anteriores têm a mesma estrutura defeituosa, ainda que pareçam plausíveis quando aplicados a imigrantes, à esquerda ou aos black blocs. Ele não subscreve nenhum deles: reproduz-os para expor sua fragilidade, o que caracteriza a crítica irônica - dizer o contrário do que se pensa para denunciar. A alternativa (C) é justamente o que o texto refuta, e (B) e (D) reduzem a crônica a um jogo formal ou verbal, ignorando sua intenção crítica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q16",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 16,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Texto base - TERRORISMO LÓGICO\n\nSubtítulo: O TERRORISMO É DUPLAMENTE OBSCURANTISTA: PRIMEIRO NO ATENTADO, DEPOIS NAS REAÇÕES QUE DESENCADEIA.\n\nSaid e Chérif Kouachi eram descendentes de imigrantes. Said e Chérif Kouachi são suspeitos do ataque ao jornal Charlie Hebdo, na França. Se não houvesse imigrantes na França, não teria havido ataque ao Charlie Hebdo.\n\nSaid e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Zinedine Zidane é filho de argelinos. Zinedine Zidane é terrorista. (l. 4-5)\n\nZinedine Zidane é filho de argelinos. Said e Chérif Kouachi, suspeitos do ataque ao jornal Charlie Hebdo, eram filhos de argelinos. Said e Chérif Kouachi sabiam jogar futebol.\n\nMuçulmanos são uma minoria na França. Membros de uma minoria são suspeitos do ataque terrorista. Olha aí no que dá defender minoria...\n\nA esquerda francesa defende minorias. Membros de uma minoria são suspeitos pelo ataque terrorista. A esquerda francesa é culpada pelo ataque terrorista.\n\nA extrema direita francesa demoniza os imigrantes. O ataque terrorista fortalece a extrema direita francesa. A extrema direita francesa está por trás do ataque terrorista.\n\nMarine Le Pen é a líder da extrema direita francesa. \"Le Pen\" é \"O Caneta\", se tomarmos o artigo em francês e o substantivo em inglês. Eis aí uma demonstração de apoio da extrema direita francesa à liberdade de expressão - e aos erros de concordância nominal.\n\nNuma democracia, é desejável que as pessoas sejam livres para se expressar. Algumas dessas expressões podem ofender indivíduos ou grupos. Numa democracia, é desejável que indivíduos ou grupos sejam ofendidos.\n\nOs terroristas que atacaram o jornal Charlie Hebdo usavam gorros pretos. \"Black blocs\" usam gorros pretos. \"Black blocs\" são terroristas.\n\nTodo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate. (l. 22)\n\nANTONIO PRATA. Adaptado de Folha de São Paulo, 11/01/2015.\n\nTodo argumento pode se tornar um sofisma: um raciocínio errado ou inadequado que nos leva a conclusões falsas ou improcedentes. O último parágrafo do texto - \"Todo abacate é verde. O Incrível Hulk é verde. O Incrível Hulk é um abacate.\" - é um exemplo de sofisma, considerando que, da constatação de que todo abacate é verde, não se pode deduzir que só os abacates têm cor verde.\n\nEsse é o tipo de sofisma que adota o seguinte procedimento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enumeração incorreta"
+      },
+      {
+        "letter": "B",
+        "text": "generalização indevida"
+      },
+      {
+        "letter": "C",
+        "text": "representação imprecisa"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificação inconsistente"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A premissa afirma que todos os abacates estão no conjunto das coisas verdes, mas não que esse conjunto se resuma aos abacates - há inúmeras outras coisas verdes. O erro consiste em estender indevidamente o alcance da regra, tratando-a como se valesse também no sentido inverso, e daí concluir que qualquer coisa verde seria um abacate. Trata-se, portanto, de generalização indevida. As demais alternativas descrevem falhas de enumeração, de representação ou de escolha de exemplos, e não o salto lógico entre as premissas e a conclusão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q17",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - tira de QUINO (¡Cuánta bondad!. Buenos Aires: Ediciones de la Flor, 1999)\n\nDiálogo entre um cliente e os vendedores de uma papelaria:\n\n(viñeta 1) VENDEDOR: BUENOS DÍAS, ¿EN QUÉ PUEDO AYUDARLO?\n(viñeta 2) CLIENTE: QUISIERA PAPEL PARA ESCRIBIR.\nVENDEDOR: CÓMO NO, ¿USTED QUÉ MÁQUINA POSESIONA?\nCLIENTE: NNNO,... NO TENGO MÁQUINA, ESCRIBO A MANO.\n(viñeta 3) VENDEDOR: ¡AH! ¿Y PODRÍA DESCRIPCIONARME QUÉ FORMATO DE HOJA PREFERENCIA: A-3, A-6, A-4, A-5?\n(viñeta 4) CLIENTE: NO SÉ,... CUALQUIERA, YO ESCRIBO FRASES, ALGÚN POEMA, APUNTES SUELTOS...\nVENDEDOR: COMPRENDO, PERO SI USTED ME TIPOLOGIZA SOBRE QUÉ CÓDIGO DE FORMATO ESCRIBE MEJOR YO PUEDO SUGERIRLE EL A-4, O EL A...\nCLIENTE: ¡YO NO ESCRIBO SOBRE CÓDIGOS, YO ESCRIBO SOBRE PAPEL, SOBRE SIMPLE PAPEL DE ESCRIBIR!! ¿TIENE O NO?\n(viñeta 7) VENDEDOR: AGUARDE UN INSTANTE, DEBO CONSULTAR A MI SUPERVISORA.\nSUPERVISORA: ENCANTADA, WANDA, PARA SERVIRLE. MI COLEGA YA ME HA REFERENCIADO, USTED BUSCA PAPEL PARA GRAFICAR... ¿QUÉ, EXACTAMENTE?\nCLIENTE: ¡MIS IDEAS!; YO SÓLO QUIERO LLEVAR MIS IDEAS AL PAPEL!\n(viñeta 12) SUPERVISORA: O SEA, EFECTUAR UN TRANSFER DE IDEAS. ¡OH, ENTIENDO, USTED BUSCA PAPEL DE EMBALAJE! ¡LO SIENTO, NO LO OPERACIONAMOS!\nCLIENTE: ESTÁ BIEN, OLVIDÉMOSLO.\n(última viñeta) SUPERVISORA: ¡POBRE, ES QUE LA GENTE, A ESA EDAD, YA ESTÁ DESNEURONIZADA!\nVENDEDOR: ¡ESO, Y NO SABE EXPRESIONAR BIEN LO QUE DESEA!\n\nEntre los vendedores y el cliente predomina el tratamiento formal, adecuado a ese contexto social. El fragmento que no representa un ejemplo de registro formal es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "puedo ayudarlo (viñeta 1)"
+      },
+      {
+        "letter": "B",
+        "text": "podría descripcionarme (viñeta 3)"
+      },
+      {
+        "letter": "C",
+        "text": "No sé,...cualquiera (viñeta 4)"
+      },
+      {
+        "letter": "D",
+        "text": "Aguarde un instante (viñeta 7)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As alternativas (A), (B) e (D) trazem marcas típicas do registro formal: o pronome \"lo\" correspondente ao tratamento de \"usted\", o condicional de cortesia \"podría\" e o imperativo \"aguarde\", também na forma de \"usted\". Já \"No sé,... cualquiera\" é a fala espontânea do cliente, marcada pela hesitação das reticências e pela indefinição de \"cualquiera\" - traços da oralidade coloquial. É justamente esse contraste que a tira explora: o cliente fala como se fala, enquanto os vendedores se refugiam num jargão empolado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q18",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - tira de QUINO (¡Cuánta bondad!. Buenos Aires: Ediciones de la Flor, 1999)\n\nDiálogo entre um cliente e os vendedores de uma papelaria:\n\n(viñeta 1) VENDEDOR: BUENOS DÍAS, ¿EN QUÉ PUEDO AYUDARLO?\n(viñeta 2) CLIENTE: QUISIERA PAPEL PARA ESCRIBIR.\nVENDEDOR: CÓMO NO, ¿USTED QUÉ MÁQUINA POSESIONA?\nCLIENTE: NNNO,... NO TENGO MÁQUINA, ESCRIBO A MANO.\n(viñeta 3) VENDEDOR: ¡AH! ¿Y PODRÍA DESCRIPCIONARME QUÉ FORMATO DE HOJA PREFERENCIA: A-3, A-6, A-4, A-5?\n(viñeta 4) CLIENTE: NO SÉ,... CUALQUIERA, YO ESCRIBO FRASES, ALGÚN POEMA, APUNTES SUELTOS...\nVENDEDOR: COMPRENDO, PERO SI USTED ME TIPOLOGIZA SOBRE QUÉ CÓDIGO DE FORMATO ESCRIBE MEJOR YO PUEDO SUGERIRLE EL A-4, O EL A...\nCLIENTE: ¡YO NO ESCRIBO SOBRE CÓDIGOS, YO ESCRIBO SOBRE PAPEL, SOBRE SIMPLE PAPEL DE ESCRIBIR!! ¿TIENE O NO?\n(viñeta 7) VENDEDOR: AGUARDE UN INSTANTE, DEBO CONSULTAR A MI SUPERVISORA.\nSUPERVISORA: ENCANTADA, WANDA, PARA SERVIRLE. MI COLEGA YA ME HA REFERENCIADO, USTED BUSCA PAPEL PARA GRAFICAR... ¿QUÉ, EXACTAMENTE?\nCLIENTE: ¡MIS IDEAS!; YO SÓLO QUIERO LLEVAR MIS IDEAS AL PAPEL!\n(viñeta 12) SUPERVISORA: O SEA, EFECTUAR UN TRANSFER DE IDEAS. ¡OH, ENTIENDO, USTED BUSCA PAPEL DE EMBALAJE! ¡LO SIENTO, NO LO OPERACIONAMOS!\nCLIENTE: ESTÁ BIEN, OLVIDÉMOSLO.\n(última viñeta) SUPERVISORA: ¡POBRE, ES QUE LA GENTE, A ESA EDAD, YA ESTÁ DESNEURONIZADA!\nVENDEDOR: ¡ESO, Y NO SABE EXPRESIONAR BIEN LO QUE DESEA!\n\nEn la historieta, se observa la dificultad de comunicación entre los personajes. Esa dificultad se puede explicar por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "informatización excesiva en la tienda"
+      },
+      {
+        "letter": "B",
+        "text": "avance tecnológico de los productos"
+      },
+      {
+        "letter": "C",
+        "text": "pensamiento arcaico de los mayores"
+      },
+      {
+        "letter": "D",
+        "text": "lenguaje adoptado por los vendedores"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cliente formula um pedido simples e claro - papel para escrever - e os vendedores respondem com um jargão empresarial cheio de verbos inventados: \"posesiona\", \"descripcionarme\", \"preferencia\", \"tipologiza\", \"referenciado\", \"graficar\", \"operacionamos\". A comunicação falha porque essa linguagem artificial não serve para nomear coisas concretas, e o pedido acaba traduzido em \"efectuar un transfer de ideas\", que leva ao equívoco final do papel de embalagem. A alternativa (C) reproduz o diagnóstico dos próprios vendedores, que culpam a idade do cliente - conclusão que a tira apresenta ironicamente, já que o problema está neles.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q20",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 20,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - tira de QUINO (¡Cuánta bondad!. Buenos Aires: Ediciones de la Flor, 1999)\n\nDiálogo entre um cliente e os vendedores de uma papelaria:\n\n(viñeta 1) VENDEDOR: BUENOS DÍAS, ¿EN QUÉ PUEDO AYUDARLO?\n(viñeta 2) CLIENTE: QUISIERA PAPEL PARA ESCRIBIR.\nVENDEDOR: CÓMO NO, ¿USTED QUÉ MÁQUINA POSESIONA?\nCLIENTE: NNNO,... NO TENGO MÁQUINA, ESCRIBO A MANO.\n(viñeta 3) VENDEDOR: ¡AH! ¿Y PODRÍA DESCRIPCIONARME QUÉ FORMATO DE HOJA PREFERENCIA: A-3, A-6, A-4, A-5?\n(viñeta 4) CLIENTE: NO SÉ,... CUALQUIERA, YO ESCRIBO FRASES, ALGÚN POEMA, APUNTES SUELTOS...\nVENDEDOR: COMPRENDO, PERO SI USTED ME TIPOLOGIZA SOBRE QUÉ CÓDIGO DE FORMATO ESCRIBE MEJOR YO PUEDO SUGERIRLE EL A-4, O EL A...\nCLIENTE: ¡YO NO ESCRIBO SOBRE CÓDIGOS, YO ESCRIBO SOBRE PAPEL, SOBRE SIMPLE PAPEL DE ESCRIBIR!! ¿TIENE O NO?\n(viñeta 7) VENDEDOR: AGUARDE UN INSTANTE, DEBO CONSULTAR A MI SUPERVISORA.\nSUPERVISORA: ENCANTADA, WANDA, PARA SERVIRLE. MI COLEGA YA ME HA REFERENCIADO, USTED BUSCA PAPEL PARA GRAFICAR... ¿QUÉ, EXACTAMENTE?\nCLIENTE: ¡MIS IDEAS!; YO SÓLO QUIERO LLEVAR MIS IDEAS AL PAPEL!\n(viñeta 12) SUPERVISORA: O SEA, EFECTUAR UN TRANSFER DE IDEAS. ¡OH, ENTIENDO, USTED BUSCA PAPEL DE EMBALAJE! ¡LO SIENTO, NO LO OPERACIONAMOS!\nCLIENTE: ESTÁ BIEN, OLVIDÉMOSLO.\n(última viñeta) SUPERVISORA: ¡POBRE, ES QUE LA GENTE, A ESA EDAD, YA ESTÁ DESNEURONIZADA!\nVENDEDOR: ¡ESO, Y NO SABE EXPRESIONAR BIEN LO QUE DESEA!\n\n\"O sea, efectuar un transfer de ideas.\" (viñeta 12)\n\nEl término subrayado tiene la función de introducir una idea de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "restricción"
+      },
+      {
+        "letter": "B",
+        "text": "explicación"
+      },
+      {
+        "letter": "C",
+        "text": "rectificación"
+      },
+      {
+        "letter": "D",
+        "text": "generalización"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A locução \"o sea\" corresponde ao português \"ou seja\" e serve para reformular em outros termos o que acabou de ser dito - no caso, a fala do cliente \"yo sólo quiero llevar mis ideas al papel\", que a supervisora traduz para seu jargão. Trata-se, portanto, de explicação, e não de retificação: a supervisora não corrige o cliente, ela julga estar dizendo a mesma coisa. É justamente aí que reside o humor, pois a suposta equivalência produz um mal-entendido completo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q21",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 21,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - tira de QUINO (¡Cuánta bondad!. Buenos Aires: Ediciones de la Flor, 1999)\n\nDiálogo entre um cliente e os vendedores de uma papelaria:\n\n(viñeta 1) VENDEDOR: BUENOS DÍAS, ¿EN QUÉ PUEDO AYUDARLO?\n(viñeta 2) CLIENTE: QUISIERA PAPEL PARA ESCRIBIR.\nVENDEDOR: CÓMO NO, ¿USTED QUÉ MÁQUINA POSESIONA?\nCLIENTE: NNNO,... NO TENGO MÁQUINA, ESCRIBO A MANO.\n(viñeta 3) VENDEDOR: ¡AH! ¿Y PODRÍA DESCRIPCIONARME QUÉ FORMATO DE HOJA PREFERENCIA: A-3, A-6, A-4, A-5?\n(viñeta 4) CLIENTE: NO SÉ,... CUALQUIERA, YO ESCRIBO FRASES, ALGÚN POEMA, APUNTES SUELTOS...\nVENDEDOR: COMPRENDO, PERO SI USTED ME TIPOLOGIZA SOBRE QUÉ CÓDIGO DE FORMATO ESCRIBE MEJOR YO PUEDO SUGERIRLE EL A-4, O EL A...\nCLIENTE: ¡YO NO ESCRIBO SOBRE CÓDIGOS, YO ESCRIBO SOBRE PAPEL, SOBRE SIMPLE PAPEL DE ESCRIBIR!! ¿TIENE O NO?\n(viñeta 7) VENDEDOR: AGUARDE UN INSTANTE, DEBO CONSULTAR A MI SUPERVISORA.\nSUPERVISORA: ENCANTADA, WANDA, PARA SERVIRLE. MI COLEGA YA ME HA REFERENCIADO, USTED BUSCA PAPEL PARA GRAFICAR... ¿QUÉ, EXACTAMENTE?\nCLIENTE: ¡MIS IDEAS!; YO SÓLO QUIERO LLEVAR MIS IDEAS AL PAPEL!\n(viñeta 12) SUPERVISORA: O SEA, EFECTUAR UN TRANSFER DE IDEAS. ¡OH, ENTIENDO, USTED BUSCA PAPEL DE EMBALAJE! ¡LO SIENTO, NO LO OPERACIONAMOS!\nCLIENTE: ESTÁ BIEN, OLVIDÉMOSLO.\n(última viñeta) SUPERVISORA: ¡POBRE, ES QUE LA GENTE, A ESA EDAD, YA ESTÁ DESNEURONIZADA!\nVENDEDOR: ¡ESO, Y NO SABE EXPRESIONAR BIEN LO QUE DESEA!\n\n\"¡Pobre, es que la gente, a esa edad, ya está desneuronizada!\" / \"¡Eso, y no sabe expresionar bien lo que desea!\" (última viñeta)\n\nEl enunciado subrayado establece una relación de sentido con el anterior que se puede comprender como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oposición"
+      },
+      {
+        "letter": "B",
+        "text": "condición"
+      },
+      {
+        "letter": "C",
+        "text": "alternancia"
+      },
+      {
+        "letter": "D",
+        "text": "consecuencia"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O vendedor inicia sua fala com \"¡Eso!\", concordando com a supervisora, e acrescenta um segundo fato que decorre do primeiro: se o cliente está \"desneuronizado\" pela idade, então não consegue expressar bem o que deseja. A segunda afirmação é apresentada como efeito da causa enunciada na primeira - relação de consequência. Não há oposição, pois os dois personagens concordam; não há condição nem alternância entre as falas. A ironia da tira está em que o diagnóstico é exatamente o inverso do que o leitor observou.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q23",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Observe a função f, definida por f(x) = x² - 2kx + 29, para x ∈ IR.\n\nSe f(x) ≥ 4, para todo número real x, o valor mínimo da função f é 4. Assim, o valor positivo do parâmetro k é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5"
+      },
+      {
+        "letter": "B",
+        "text": "6"
+      },
+      {
+        "letter": "C",
+        "text": "10"
+      },
+      {
+        "letter": "D",
+        "text": "15"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A função é quadrática com coeficiente de x² positivo, de modo que sua concavidade é voltada para cima e seu valor mínimo ocorre no vértice. Esse mínimo vale y_v = -Δ/(4a), com a = 1, b = -2k e c = 29: Δ = 4k² - 116, logo y_v = (116 - 4k²)/4 = 29 - k². Impondo y_v = 4, tem-se 29 - k² = 4, ou seja, k² = 25 e k = ±5. O valor positivo pedido é 5. Um caminho equivalente é completar o quadrado: f(x) = (x - k)² + 29 - k², cujo mínimo é 29 - k², atingido em x = k.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q24",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 24,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Dois dados, com doze faces pentagonais cada um, têm a forma de dodecaedros regulares. Se os dodecaedros estão justapostos por uma de suas faces, que coincidem perfeitamente, formam um poliedro côncavo.\n\nConsidere o número de vértices V, de faces F e de arestas A desse poliedro côncavo. A soma V + F + A é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "102"
+      },
+      {
+        "letter": "B",
+        "text": "106"
+      },
+      {
+        "letter": "C",
+        "text": "110"
+      },
+      {
+        "letter": "D",
+        "text": "112"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Um dodecaedro regular tem 12 faces pentagonais, 20 vértices e 30 arestas. Ao colar dois deles por uma face, a face de contato desaparece em ambos - restam 24 - 2 = 22 faces -, e os 5 vértices e as 5 arestas do pentágono comum passam a ser compartilhados, contando uma só vez: V = 40 - 5 = 35 e A = 60 - 5 = 55. A soma é 35 + 22 + 55 = 112. O resultado pode ser conferido pela relação de Euler, válida para poliedros convexos e também para este sólido, que é topologicamente equivalente a uma esfera: V - A + F = 35 - 55 + 22 = 2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q25",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Admita que a ordem de grandeza de uma medida x é uma potência de base 10, com expoente n inteiro, para 10^(n - 1/2) ≤ x < 10^(n + 1/2).\n\nConsidere que um terremoto tenha liberado uma energia E, em joules, cujo valor numérico é tal que log₁₀ E = 15,3. A ordem de grandeza de E, em joules, equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10¹⁴"
+      },
+      {
+        "letter": "B",
+        "text": "10¹⁵"
+      },
+      {
+        "letter": "C",
+        "text": "10¹⁶"
+      },
+      {
+        "letter": "D",
+        "text": "10¹⁷"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Aplicando o logaritmo à condição do enunciado, ela se torna n - 0,5 ≤ log₁₀ E < n + 0,5. Substituindo log₁₀ E = 15,3, procura-se o inteiro n que satisfaça n - 0,5 ≤ 15,3 < n + 0,5, ou seja, 14,8 < n ≤ 15,8. O único inteiro nesse intervalo é n = 15, e a ordem de grandeza é 10¹⁵. Em termos numéricos, E = 10^15,3 ≈ 2 × 10¹⁵, valor de fato mais próximo de 10¹⁵ do que de 10¹⁶.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q26",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 26,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O raio de uma roda gigante de centro C mede CA = CB = 10 m. Do centro C ao plano horizontal do chão, há uma distância de 11 m. Os pontos A e B, situados no mesmo plano vertical ACB, pertencem à circunferência dessa roda e distam, respectivamente, 16 m e 3,95 m do plano do chão.\n\nConsidere a tabela: sen 15° = 0,259; sen 30° = 0,500; sen 45° = 0,707; sen 60° = 0,866.\n\nA medida, em graus, mais próxima do menor ângulo ACB corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "45"
+      },
+      {
+        "letter": "B",
+        "text": "60"
+      },
+      {
+        "letter": "C",
+        "text": "75"
+      },
+      {
+        "letter": "D",
+        "text": "105"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Tome como referência a reta horizontal que passa por C, a 11 m do chão. O ponto A está 16 - 11 = 5 m acima dessa reta; no triângulo retângulo formado, o seno do ângulo entre CA e a horizontal vale 5/10 = 0,500, o que corresponde a 30°. O ponto B está 11 - 3,95 = 7,05 m abaixo da mesma reta, e o seno do ângulo entre CB e a horizontal vale 7,05/10 = 0,705, valor muito próximo de 0,707, ou seja, 45°. Como A e B ficam em lados opostos da horizontal, o ângulo ACB é a soma: 30° + 45° = 75°.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q27",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 27,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Um índice de inflação de 25% em um determinado período de tempo indica que, em média, os preços aumentaram 25% nesse período. Um trabalhador que antes podia comprar uma quantidade X de produtos, com a inflação e sem aumento salarial, só poderá comprar agora uma quantidade Y dos mesmos produtos, sendo Y < X.\n\nCom a inflação de 25%, a perda do poder de compra desse trabalhador é de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20%"
+      },
+      {
+        "letter": "B",
+        "text": "30%"
+      },
+      {
+        "letter": "C",
+        "text": "50%"
+      },
+      {
+        "letter": "D",
+        "text": "80%"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Sem aumento salarial, o trabalhador continua com o mesmo dinheiro, mas cada produto passa a custar 1,25 vez o preço anterior. A quantidade que ele consegue comprar é, portanto, Y = X/1,25 = 0,8X. A perda de poder de compra é a diferença relativa: (X - 0,8X)/X = 0,2, ou 20%. Note que a perda não é igual à inflação: uma alta de 25% nos preços corresponde a uma queda de 20% na quantidade adquirida, porque as duas variações têm bases de cálculo diferentes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q28",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 28,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um painel de iluminação possui nove seções distintas, e cada uma delas acende uma luz de cor vermelha ou azul. A cada segundo, são acesas, ao acaso, duas seções de uma mesma cor e uma terceira de outra cor, enquanto as seis demais permanecem apagadas.\n\nO tempo mínimo necessário para a ocorrência de todas as possibilidades distintas de iluminação do painel, após seu acionamento, é igual a x minutos e y segundos, sendo y < 60. Os valores respectivos de x e y são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4 e 12"
+      },
+      {
+        "letter": "B",
+        "text": "8 e 24"
+      },
+      {
+        "letter": "C",
+        "text": "25 e 12"
+      },
+      {
+        "letter": "D",
+        "text": "50 e 24"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A contagem se faz em três etapas. Primeiro, escolher quais três das nove seções ficarão acesas: C(9,3) = 84 maneiras. Depois, dentre as três acesas, escolher qual delas terá a cor diferente das outras duas: 3 maneiras. Por fim, definir as cores: a dupla pode ser vermelha com a terceira azul, ou o inverso - 2 maneiras. O total é 84 × 3 × 2 = 504 configurações distintas. Como cada uma ocupa um segundo, são necessários 504 segundos, isto é, 8 minutos (480 s) e 24 segundos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q29",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Em um sistema de codificação, AB representa os algarismos do dia do nascimento de uma pessoa e CD os algarismos de seu mês de nascimento. Nesse sistema, a data trinta de julho, por exemplo, corresponderia a A = 3, B = 0, C = 0, D = 7.\n\nAdmita uma pessoa cuja data de nascimento obedeça à seguinte condição: A + B + C + D = 20.\n\nO mês de nascimento dessa pessoa é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "agosto"
+      },
+      {
+        "letter": "B",
+        "text": "setembro"
+      },
+      {
+        "letter": "C",
+        "text": "outubro"
+      },
+      {
+        "letter": "D",
+        "text": "novembro"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "É preciso ver quanto cada parte pode contribuir no máximo. No dia, A é o algarismo das dezenas e vale no máximo 3 (dia 31), mas nesse caso B seria 1, somando apenas 4; a maior soma A + B ocorre no dia 29, com A = 2 e B = 9, totalizando 11. No mês, C vale 0 ou 1: com C = 1, D é no máximo 2 (dezembro), somando 3; a maior soma C + D é 9, no mês 09. Assim, o máximo possível de A + B + C + D é 11 + 9 = 20 - exatamente o valor exigido. A solução é, portanto, única: dia 29 e mês 09, ou seja, setembro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q30",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 30,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Em algumas raças de gado bovino, o cruzamento de indivíduos de pelagem totalmente vermelha com outros de pelagem totalmente branca produz sempre indivíduos malhados, com pelagem de manchas vermelhas e brancas. Admita um grupo de indivíduos malhados, cruzados apenas entre si, que gerou uma prole de 20 indivíduos de coloração totalmente vermelha, 40 indivíduos com pelagem malhada e 20 indivíduos com coloração inteiramente branca.\n\nO resultado desse cruzamento é exemplo do seguinte fenômeno genético:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "epistasia"
+      },
+      {
+        "letter": "B",
+        "text": "pleiotropia"
+      },
+      {
+        "letter": "C",
+        "text": "dominância"
+      },
+      {
+        "letter": "D",
+        "text": "codominância"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Dois indícios apontam para a codominância. Primeiro, o cruzamento entre as duas linhagens puras produz sempre heterozigotos malhados - e não intermediários rosados, como ocorreria na dominância incompleta: os dois alelos se expressam simultaneamente, cada um em suas manchas. Segundo, o cruzamento entre malhados devolve a proporção 20:40:20, ou seja, 1:2:1, em que os três genótipos correspondem a três fenótipos distintos, o que não aconteceria se houvesse dominância (a proporção fenotípica seria 3:1). A epistasia envolve a interação entre genes de loci diferentes e a pleiotropia, um gene que afeta várias características - nenhuma delas descreve o caso.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q31",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 31,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nO suco gástrico contém um ácido, produzido pelas células da parede do estômago, que desempenha papel fundamental para a eficiência do processo digestório no ser humano.\n\nO ânion do ácido produzido no estômago corresponde ao elemento químico pertencente ao grupo 17 e ao terceiro período da tabela de classificação periódica. Esse ácido é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nítrico"
+      },
+      {
+        "letter": "B",
+        "text": "sulfúrico"
+      },
+      {
+        "letter": "C",
+        "text": "clorídrico"
+      },
+      {
+        "letter": "D",
+        "text": "fluorídrico"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O grupo 17 é o dos halogênios, e o terceiro período corresponde à terceira camada eletrônica: o elemento nessa posição é o cloro (Z = 17). O ácido cujo ânion é o cloreto é o ácido clorídrico, HCl - de fato o componente ácido do suco gástrico. A alternativa (D) erra o período, pois o flúor é do segundo; e nítrico e sulfúrico têm como elementos centrais o nitrogênio e o enxofre, dos grupos 15 e 16.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q32",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 32,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Utilize as informações a seguir para responder à questão.\n\nO suco gástrico contém um ácido, produzido pelas células da parede do estômago, que desempenha papel fundamental para a eficiência do processo digestório no ser humano.\n\nO consumo excessivo de antiácidos pode interferir na atuação do suco gástrico, prejudicando o funcionamento normal do estômago. As duas principais funções do estômago prejudicadas por esse uso excessivo são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emulsificação de gorduras - absorção de aminoácidos"
+      },
+      {
+        "letter": "B",
+        "text": "quebra de moléculas de carboidratos - produção de muco"
+      },
+      {
+        "letter": "C",
+        "text": "transformação de pepsinogênio em pepsina - eliminação de micro-organismos"
+      },
+      {
+        "letter": "D",
+        "text": "digestão de compostos carboxílicos - manutenção de pH adequado à absorção"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O antiácido neutraliza o HCl e eleva o pH do estômago, comprometendo justamente o que depende da acidez. Uma dessas funções é a ativação enzimática: o pepsinogênio, secretado em forma inativa, só se converte em pepsina em meio muito ácido, e sem ela a digestão das proteínas fica prejudicada. A outra é a defesa: a acidez elimina boa parte dos micro-organismos ingeridos com o alimento, e sua redução favorece infecções. A emulsificação de gorduras é feita pela bile no intestino, a digestão de carboidratos começa na boca, e a produção de muco não depende do pH.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q34",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 34,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O número de bactérias em uma cultura cresce de modo análogo ao deslocamento de uma partícula em movimento uniformemente acelerado com velocidade inicial nula. Assim, pode-se afirmar que a taxa de crescimento de bactérias comporta-se da mesma maneira que a velocidade de uma partícula.\n\nAdmita um experimento no qual foi medido o crescimento do número de bactérias em um meio adequado de cultura, durante um determinado período de tempo. Ao fim das primeiras quatro horas do experimento, o número de bactérias era igual a 8 × 10⁵.\n\nApós a primeira hora, a taxa de crescimento dessa amostra, em número de bactérias por hora, foi igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 × 10⁵"
+      },
+      {
+        "letter": "B",
+        "text": "2,0 × 10⁵"
+      },
+      {
+        "letter": "C",
+        "text": "4,0 × 10⁵"
+      },
+      {
+        "letter": "D",
+        "text": "8,0 × 10⁵"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pela analogia proposta, o número de bactérias corresponde ao deslocamento e a taxa de crescimento, à velocidade. Num movimento uniformemente acelerado com velocidade inicial nula, vale s = at²/2. Com s = 8 × 10⁵ em t = 4 h: 8 × 10⁵ = a · 16/2 = 8a, logo a = 10⁵ (bactérias por hora ao quadrado). A \"velocidade\" é v = at, de modo que, após a primeira hora, v = 10⁵ × 1 = 1,0 × 10⁵ bactérias por hora. Note que a taxa cresce com o tempo: ao final das 4 horas ela já seria 4,0 × 10⁵.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q35",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 35,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Um dos fatores determinantes da perda de cálcio dos ossos é o envelhecimento, sobretudo em mulheres. Considere um esquema que representa a regulação do cálcio no sangue humano, realizada pelas glândulas X e Y, responsáveis diretas pela produção dos hormônios A e B, respectivamente: quando o nível de cálcio no sangue fica alto demais, a glândula X produz o hormônio A e o nível de cálcio cai; quando o nível fica baixo demais, a glândula Y produz o hormônio B e o nível de cálcio aumenta.\n\nEsse processo de perda de cálcio resulta, principalmente, da atuação intensa do hormônio e da glândula indicados em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "calcitonina - tireoide"
+      },
+      {
+        "letter": "B",
+        "text": "adrenalina - suprarrenal"
+      },
+      {
+        "letter": "C",
+        "text": "somatotrófico - hipófise"
+      },
+      {
+        "letter": "D",
+        "text": "paratormônio - paratireoide"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A perda de cálcio dos ossos decorre do hormônio que eleva a calcemia, pois é dos ossos que esse cálcio é retirado. Trata-se do paratormônio, produzido pelas paratireoides, que estimula os osteoclastos a reabsorver tecido ósseo, aumenta a absorção intestinal e reduz a excreção renal de cálcio. No esquema, corresponde ao hormônio B da glândula Y. A calcitonina, da tireoide, faz o oposto: baixa a calcemia depositando cálcio nos ossos, e por isso não causa perda óssea. Adrenalina e somatotrofina não participam dessa regulação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q36",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Uma rede elétrica fornece tensão eficaz de 100 V a uma sala com três lâmpadas, L1, L2 e L3, associadas em paralelo, que permanecem acesas durante dez horas. Considere as características elétricas nominais:\n\n| lâmpada | tipo | características nominais |\n|---|---|---|\n| L1 | incandescente | 200 V - 120 W |\n| L2 | incandescente | 100 V - 60 W |\n| L3 | fluorescente | 100 V - 20 W |\n\nSendo E1, E2 e E3 as energias consumidas, respectivamente, por L1, L2 e L3, a relação entre essas energias pode ser expressa como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "E1 > E2 > E3"
+      },
+      {
+        "letter": "B",
+        "text": "E1 = E2 > E3"
+      },
+      {
+        "letter": "C",
+        "text": "E2 > E1 > E3"
+      },
+      {
+        "letter": "D",
+        "text": "E2 > E3 = E1"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A potência nominal só vale na tensão nominal; o que permanece constante é a resistência, R = U²/P. Para L1, projetada para 200 V, R = 200²/120 = 1000/3 Ω. Ligada a 100 V, ela dissipa P = 100²/(1000/3) = 30 W - apenas um quarto da potência nominal, já que a potência varia com o quadrado da tensão. L2 e L3 operam na tensão para a qual foram projetadas e dissipam 60 W e 20 W. Como todas ficam acesas o mesmo tempo, a energia é proporcional à potência: E2 (60 W) > E1 (30 W) > E3 (20 W).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q37",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 37,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Um gráfico indica a concentração de um metal pesado no corpo de vários habitantes de um lago, bem como a concentração do isótopo de nitrogênio ¹⁵N, cujos valores mais elevados estão associados a níveis crescentes na cadeia alimentar. A concentração do metal aumenta à medida que aumenta a concentração de ¹⁵N.\n\nA curva de concentração de metal, nesses seres vivos, pode ser explicada pelo processo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "magnificação trófica"
+      },
+      {
+        "letter": "B",
+        "text": "eutrofização do lago"
+      },
+      {
+        "letter": "C",
+        "text": "interrupção do fluxo de energia"
+      },
+      {
+        "letter": "D",
+        "text": "retenção de matéria orgânica em consumidores maiores"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O ¹⁵N funciona como marcador da posição trófica: quanto maior sua concentração, mais alto o organismo está na cadeia alimentar. O gráfico mostra que a concentração do metal pesado cresce junto com esse marcador, ou seja, aumenta a cada nível trófico. Isso ocorre porque metais pesados não são metabolizados nem excretados: acumulam-se nos tecidos e são integralmente transferidos ao predador, que consome muitas presas ao longo da vida. Esse acúmulo progressivo ao longo da cadeia é a magnificação trófica, também chamada biomagnificação. A eutrofização diz respeito ao excesso de nutrientes na água, e as alternativas (C) e (D) não explicam a relação com a posição trófica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q38",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 38,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "No solo da floresta amazônica, são encontradas partículas ricas em fósforo, trazidas pelos ventos, com velocidade constante de 0,1 m · s⁻¹, desde o deserto do Saara. Admita que uma das partículas contenha 2,0% em massa de fósforo, o que equivale a 1,2 × 10¹⁵ átomos desse elemento químico.\n\nA energia cinética de uma dessas partículas, em joules, ao ser trazida pelos ventos, equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,75 × 10⁻¹⁰"
+      },
+      {
+        "letter": "B",
+        "text": "1,55 × 10⁻¹¹"
+      },
+      {
+        "letter": "C",
+        "text": "2,30 × 10⁻¹²"
+      },
+      {
+        "letter": "D",
+        "text": "3,10 × 10⁻¹³"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Primeiro calcula-se a massa de fósforo. O número de mols é 1,2 × 10¹⁵ / 6,0 × 10²³ = 2,0 × 10⁻⁹ mol; multiplicando pela massa molar do fósforo, 31 g/mol, obtêm-se 6,2 × 10⁻⁸ g. Como isso corresponde a 2,0% da partícula, a massa total é 6,2 × 10⁻⁸ / 0,02 = 3,1 × 10⁻⁶ g, ou 3,1 × 10⁻⁹ kg. A energia cinética vale então Ec = mv²/2 = 3,1 × 10⁻⁹ × (0,1)²/2 = 3,1 × 10⁻⁹ × 0,005 = 1,55 × 10⁻¹¹ J.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q39",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 39,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma barca para transportar automóveis entre as margens de um rio, quando vazia, tem volume igual a 100 m³ e massa igual a 4,0 × 10⁴ kg. Considere que todos os automóveis transportados tenham a mesma massa de 1,5 × 10³ kg e que a densidade da água seja de 1000 kg · m⁻³.\n\nO número máximo de automóveis que podem ser simultaneamente transportados pela barca corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "40"
+      },
+      {
+        "letter": "C",
+        "text": "80"
+      },
+      {
+        "letter": "D",
+        "text": "120"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A barca flutua enquanto o empuxo equilibra o peso total. No limite, ela está inteiramente submersa, deslocando 100 m³ de água: a massa de água deslocada é 1000 × 100 = 1,0 × 10⁵ kg, valor máximo que o conjunto pode ter. Descontando a massa da barca vazia, restam 1,0 × 10⁵ - 4,0 × 10⁴ = 6,0 × 10⁴ kg para a carga. Dividindo pela massa de cada automóvel: 6,0 × 10⁴ / 1,5 × 10³ = 40 automóveis.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q40",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 40,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Aceleradores de partículas são ambientes onde partículas eletricamente carregadas são mantidas em movimento, como as cargas elétricas em um condutor. No Laboratório Europeu de Física de Partículas - CERN, está localizado o mais potente acelerador em operação no mundo. Considere as seguintes informações:\n\n• os prótons são acelerados em grupos de cerca de 3000 pacotes, que constituem o feixe do acelerador;\n• esses pacotes são mantidos em movimento no interior e ao longo de um anel de cerca de 30 km de comprimento;\n• cada pacote contém, aproximadamente, 10¹¹ prótons que se deslocam com velocidades próximas à da luz no vácuo;\n• a carga do próton é igual a 1,6 × 10⁻¹⁹ C e a velocidade da luz no vácuo é igual a 3 × 10⁸ m · s⁻¹.\n\nNessas condições, o feixe do CERN equivale a uma corrente elétrica, em ampères, da ordem de grandeza de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10⁰"
+      },
+      {
+        "letter": "B",
+        "text": "10²"
+      },
+      {
+        "letter": "C",
+        "text": "10⁴"
+      },
+      {
+        "letter": "D",
+        "text": "10⁶"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A corrente é a carga que passa por uma seção do anel dividida pelo tempo. A carga total do feixe é 3000 × 10¹¹ prótons × 1,6 × 10⁻¹⁹ C = 3 × 10¹⁴ × 1,6 × 10⁻¹⁹ = 4,8 × 10⁻⁵ C. Como os prótons percorrem o anel praticamente à velocidade da luz, o tempo de uma volta completa é t = 30000/3 × 10⁸ = 1 × 10⁻⁴ s - intervalo em que toda essa carga atravessa uma dada seção. Logo, i = 4,8 × 10⁻⁵/1 × 10⁻⁴ = 0,48 A, cuja ordem de grandeza é 10⁰.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q43",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 43,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em um pêndulo, um fio de massa desprezível sustenta uma pequena esfera magnetizada de massa igual a 0,01 kg. O sistema encontra-se em estado de equilíbrio, com o fio de sustentação em uma direção perpendicular ao solo. Um ímã, ao ser aproximado do sistema, exerce uma força horizontal sobre a esfera, e o pêndulo alcança um novo estado de equilíbrio, com o fio de sustentação formando um ângulo de 45º com a direção inicial.\n\nAdmitindo a aceleração da gravidade igual a 10 m · s⁻², a magnitude dessa força, em newtons, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,1"
+      },
+      {
+        "letter": "B",
+        "text": "0,2"
+      },
+      {
+        "letter": "C",
+        "text": "1,0"
+      },
+      {
+        "letter": "D",
+        "text": "2,0"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No novo equilíbrio, três forças atuam sobre a esfera: o peso (vertical, para baixo), a força magnética (horizontal) e a tração do fio, inclinada 45º. Decompondo a tração, sua componente vertical equilibra o peso e a horizontal equilibra a força magnética, o que leva a F = P · tg 45°. Como tg 45° = 1, a força é igual ao peso: F = m · g = 0,01 × 10 = 0,1 N. O ângulo de 45° torna o resultado imediato - as duas componentes têm necessariamente o mesmo valor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q45",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 45,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "CIDADE MARAVILHOSA (André Filho e Silva Sobreira, 1935)\n\nCidade maravilhosa / Cheia de encantos mil / Cidade maravilhosa / Coração do meu Brasil\nBerço do samba e de lindas canções / Que vivem n'alma da gente / És o altar dos nossos corações / Que cantam alegremente (...)\n\nRIO 40 GRAUS (Fernanda Abreu, 1992)\n\nRio 40 graus / Cidade maravilha / Purgatório da beleza / E do caos (...)\nO Rio é uma cidade / De cidades misturadas / O Rio é uma cidade / De cidades camufladas / Com governos misturados / Camuflados, paralelos / Sorrateiros / Ocultando comandos... (...)\nGatilho de disket / Marcação pagode, funk / De gatilho marcação / De samba-lance / Com batuque digital / Na sub-uzi musical / De batucada digital (...)\n\nletras.mus.br\n\nAs letras das canções Cidade maravilhosa, de 1935, e Rio 40 graus, de 1992, parecem não retratar a mesma cidade. As diferentes percepções do Rio de Janeiro, retratadas em cada letra, podem ser associadas, respectivamente, às ideias de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ostentação da beleza natural - reformulação da segurança pública"
+      },
+      {
+        "letter": "B",
+        "text": "mistificação da relevância política - caracterização da desordem urbana"
+      },
+      {
+        "letter": "C",
+        "text": "enaltecimento da tranquilidade social - valorização da integração étnica"
+      },
+      {
+        "letter": "D",
+        "text": "glorificação da identidade local - reconhecimento da diversidade cultural"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A marcha de 1935 é um hino de exaltação: a cidade é \"coração do meu Brasil\", \"berço do samba\", \"altar dos nossos corações\" - uma identidade local celebrada sem fissuras. A canção de 1992 mantém o epíteto \"cidade maravilha\", mas o desdobra em contradições: \"purgatório da beleza e do caos\", \"cidades misturadas\", \"camufladas\", com \"governos paralelos\". Sua própria trilha mistura pagode, funk, samba e batuque digital, encenando na forma a pluralidade que descreve. Trata-se, portanto, do reconhecimento da diversidade cultural, e não de um retrato meramente negativo - o que afasta a alternativa (B). Segurança pública e integração étnica não são os eixos das duas letras.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q46",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 46,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "No desenvolvimento das indústrias ocorrido em diversas sociedades, acompanhado pela aplicação de conhecimentos científicos, destaca-se o caso da petroquímica.\n\n\"A química permite ao homem realizar transformações íntimas na estrutura da matéria. Com seu desenvolvimento e aplicação nos processos de industrialização, a partir de finais do século XVIII, essas transformações passaram a se realizar em uma escala massiva, tendo efeitos ainda mais abrangentes. A cada vez que inovações mudavam a base tecnológica, produtos e serviços inéditos chegavam à sociedade, surgindo também problemas ambientais novos e complexos.\"\nAdaptado de polipetembalagens.com.br, julho/2011.\n\nO principal problema ambiental causado pela indústria petroquímica está identificado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "erosão de solos agricultáveis"
+      },
+      {
+        "letter": "B",
+        "text": "derrubada de reservas florestais"
+      },
+      {
+        "letter": "C",
+        "text": "produção de resíduos poluentes"
+      },
+      {
+        "letter": "D",
+        "text": "superexploração de recursos hídricos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A petroquímica transforma o petróleo em plásticos, solventes, fertilizantes e inúmeros outros compostos, e cada etapa desse processamento gera efluentes líquidos, emissões atmosféricas e resíduos sólidos - muitos deles tóxicos e de difícil degradação, como os próprios plásticos, que persistem por séculos no ambiente. É o problema apontado pelo texto ao mencionar os \"problemas ambientais novos e complexos\" trazidos por cada inovação. Erosão do solo e desmatamento estão associados sobretudo à atividade agropecuária e à extração de madeira, e o consumo de água, embora relevante, não é o efeito característico desse setor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q47",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 47,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "A Lei Federal nº 9.433/1997 estabelece que serão cobrados os usos dos recursos hídricos sujeitos à concessão do Estado. Tal regulamentação modificou substancialmente as bases operacionais e econômicas da utilização da água bruta. Essa cobrança, embora criticada por alguns setores, foi um instrumento benéfico, tanto em termos de conservação dos recursos hídricos, por estimular a gestão da demanda, como em termos de proteção ambiental.\nAdaptado de HESPANHOL, I. Scientific American Brasil, edição especial, nº 62, 2015.\n\nAté a aprovação dessa lei, as indústrias não pagavam pela captação da água diretamente de um manancial, a chamada água bruta, para utilizá-la em seus processos produtivos.\n\nO instrumento de cobrança pela água bruta utilizada industrialmente obteve os resultados mencionados no texto porque:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estimulou o reúso do bem"
+      },
+      {
+        "letter": "B",
+        "text": "ampliou a dispersão do consumo"
+      },
+      {
+        "letter": "C",
+        "text": "reduziu a desigualdade de acesso"
+      },
+      {
+        "letter": "D",
+        "text": "inibiu o assoreamento de nascentes"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Enquanto a água era gratuita, não havia razão econômica para economizá-la. Ao atribuir-lhe um preço, a lei transformou cada metro cúbico captado em custo de produção, criando incentivo direto para que as indústrias tratassem e reutilizassem a água em seus processos - o reúso. É exatamente essa \"gestão da demanda\" a que o texto se refere, e ela produz os dois resultados citados: conserva os recursos hídricos e reduz o volume de efluentes lançados. A alternativa (B) descreve o oposto do pretendido, e as alternativas (C) e (D) tratam de efeitos sociais e físicos que a cobrança não produz diretamente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q48",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 48,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "EN LA HABANA: DE OLHO NOS NOVOS NEGÓCIOS\n\nOs novos negócios em Havana impulsionaram outro setor, até então pouco em voga na ilha: a publicidade. As histórias de pequenos empreendedores que deram certo foram a inspiração para a revista eletrônica mensal En la Habana, que chegou ao seu terceiro número em março deste ano. O objetivo, segundo um dos seus criadores, é mostrar o que está acontecendo na cidade e as transformações no país, principalmente na capital.\nAdaptado de O Globo, 06/04/2015.\n\nCuba passou a ser um país socialista após a revolução ocorrida em 1959. Nas últimas décadas, porém, tem vivenciado mudanças derivadas da dissolução da U.R.S.S., dentre as quais estão as citadas no trecho da reportagem. A expansão desses novos negócios cubanos está diretamente relacionada à expectativa da seguinte possibilidade:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integração com países latino-americanos"
+      },
+      {
+        "letter": "B",
+        "text": "celebração de acordo comercial com a China"
+      },
+      {
+        "letter": "C",
+        "text": "fim do embargo econômico norte-americano"
+      },
+      {
+        "letter": "D",
+        "text": "liberalização para investimentos de capitais europeus"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A reportagem é de abril de 2015, poucos meses depois do anúncio, em dezembro de 2014, do restabelecimento das relações diplomáticas entre Cuba e Estados Unidos por Raúl Castro e Barack Obama. O embargo norte-americano, em vigor desde 1962, era o principal entrave à economia cubana, e a perspectiva de seu fim - com a chegada de turistas, investimentos e mercadorias - explica o surgimento de pequenos empreendedores e de um mercado publicitário na ilha. As demais alternativas não corresponderiam a uma mudança de escala capaz de justificar esse movimento naquele momento.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q49",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "As imagens noturnas feitas por satélites revelam a distribuição espacial do consumo de energia elétrica, permitindo identificar diferenças importantes entre as sociedades humanas. Uma dessas imagens mostra a Península Coreana à noite: a Coreia do Sul aparece intensamente iluminada, enquanto a Coreia do Norte permanece quase inteiramente escura.\n\nAdaptado de news.nationalgeographic.com.\n\nA imagem indica diferentes padrões espaciais do consumo de energia entre as regiões norte e sul da Península Coreana. Entre essas regiões, tal diferença é explicada, principalmente, por seus respectivos níveis de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "poderio militar"
+      },
+      {
+        "letter": "B",
+        "text": "democracia política"
+      },
+      {
+        "letter": "C",
+        "text": "contingente populacional"
+      },
+      {
+        "letter": "D",
+        "text": "desenvolvimento econômico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O consumo de energia elétrica é um dos indicadores mais diretos do grau de desenvolvimento econômico, pois reflete a intensidade da atividade industrial, a urbanização, a infraestrutura e o padrão de vida da população. A Coreia do Sul industrializou-se aceleradamente a partir dos anos 1960 e figura hoje entre as maiores economias do mundo, enquanto a Coreia do Norte permanece isolada e com infraestrutura precária. A alternativa (C) é descartada pelos números: a Coreia do Norte tem cerca de 25 milhões de habitantes, população que, distribuída pelo território, apareceria na imagem se houvesse energia disponível. O regime político e o poderio militar não se traduzem diretamente em iluminação noturna - a Coreia do Norte, aliás, mantém forças armadas numerosas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q50",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Compare duas imagens. Na Imagem 1, apresenta-se o desenho original do perfil de uma cabeça humana sobre uma representação possível do globo terrestre. Na Imagem 2, esse mesmo desenho é apresentado em um planisfério elaborado com a projeção cartográfica de Mercator, que é utilizada desde o período das grandes navegações.\n\nMENEZES, P.; FERNANDES, M. Roteiro de cartografia. São Paulo: Oficina de Textos, 2013.\n\nCom base na comparação entre essas imagens, conclui-se que o território das Américas que tem a área mais ampliada com o uso da projeção de Mercator é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Brasil"
+      },
+      {
+        "letter": "B",
+        "text": "México"
+      },
+      {
+        "letter": "C",
+        "text": "Argentina"
+      },
+      {
+        "letter": "D",
+        "text": "Groenlândia"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A projeção de Mercator é cilíndrica e conforme: preserva os ângulos, o que a tornou útil à navegação, mas amplia progressivamente as áreas à medida que se afasta do Equador, com distorção crescente rumo aos polos. Entre as opções, a Groenlândia é de longe a mais setentrional, situada acima do Círculo Polar Ártico, e por isso é a mais deformada - no mapa de Mercator ela aparece com tamanho próximo ao da África, embora seja cerca de catorze vezes menor. Brasil e México situam-se próximos ao Equador, onde a distorção é mínima, e a Argentina, embora mais austral, não alcança latitudes comparáveis às da Groenlândia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q51",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "No fim da década de 1960, sob a justificativa de evitar a internacionalização da Amazônia, os governos militares distribuíram terras e subsídios a quem se dispusesse a se embrenhar na floresta. Atualmente, 36% do gado bovino e 5% das plantações de soja do país encontram-se na região amazônica. Investir ali é um ótimo negócio. As terras custam até um décimo do valor no Sudeste.\nAdaptado de planetasustentavel.abril.com.br.\n\nRecentemente, a ocupação econômica da Amazônia vem passando por várias alterações, como a expansão do agronegócio, citada no texto. Um efeito negativo e outro positivo, ocasionados por essa expansão, estão respectivamente identificados em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desmatamento - geração de empregos"
+      },
+      {
+        "letter": "B",
+        "text": "assoreamento de rios - modernização de ferrovias"
+      },
+      {
+        "letter": "C",
+        "text": "destruição da fauna - renovação das fontes de energia"
+      },
+      {
+        "letter": "D",
+        "text": "poluição ambiental - redistribuição da propriedade fundiária"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pecuária e a soja exigem grandes áreas abertas, e sua expansão na Amazônia se faz sobretudo pela conversão de floresta em pasto e lavoura - o desmatamento é, portanto, o efeito negativo direto. Do lado positivo, a atividade cria postos de trabalho e movimenta a economia regional, o que atrai população para a área. As demais alternativas apresentam supostos efeitos positivos que não decorrem do agronegócio: o transporte na região se faz por rodovias e hidrovias, não por ferrovias; a agropecuária não renova fontes de energia; e sua expansão concentra a propriedade da terra em vez de redistribuí-la.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q52",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 52,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Em 18 de dezembro de 2008, foi retirada a última estátua equestre do General Francisco Franco, na cidade de Santander, na Espanha.\n\nEm 2007, na Espanha, aprovou-se uma lei que possibilitou indenizar vítimas da Guerra Civil (1936-1939) e do governo de Francisco Franco (1939-1975). A ação retratada na fotografia também é decorrente dessa lei.\n\nNo contexto das denúncias e apurações acerca dos crimes cometidos pelo governo franquista, a retirada da estátua equestre está associada à seguinte proposta:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rejeição da história política"
+      },
+      {
+        "letter": "B",
+        "text": "reforço da identidade nacional"
+      },
+      {
+        "letter": "C",
+        "text": "redistribuição do patrimônio cultural"
+      },
+      {
+        "letter": "D",
+        "text": "redimensionamento da memória social"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Lei da Memória Histórica de 2007 reconheceu as vítimas da Guerra Civil e da ditadura e determinou a retirada de símbolos de exaltação ao franquismo dos espaços públicos. Uma estátua equestre não é registro neutro do passado: é homenagem, e mantê-la em praça pública significa continuar honrando quem a lei passou a tratar como responsável por crimes. Removê-la altera aquilo que a sociedade escolhe celebrar, redimensionando a memória social sem apagar a história - que segue sendo estudada e, agora, também a das vítimas. A alternativa (A) confunde recusar uma homenagem com negar o passado, e as alternativas (B) e (C) não correspondem ao propósito da lei.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q53",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 53,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O passado sempre fez parte do cotidiano de diversas sociedades contemporâneas. Esse não foi o caso do Brasil. O peso material e simbólico das formas urbanas herdadas de tempos anteriores foi aí muito menos paralisante do que na Europa. O projeto modernizador do século XIX fundamentou-se na esperança de um futuro melhor e na rejeição do passado, na abolição dos seus vestígios, na sua superação. Essa fé no \"país do futuro\" tornou-se uma ideologia avassaladora a partir da República, e isto explica por que foram tão bem-sucedidas, no século XX, as reformas urbanísticas radicais que tanto transformaram a face de diversas cidades brasileiras.\n\nAdaptado de ABREU, M. Sobre a memória da cidade. In: FRIDMAN, F.; HAESBAERT, R. (orgs.). Escritos sobre espaço e história. Rio de Janeiro: Garamond, 2014.\n\nUma intervenção específica do poder público no espaço da cidade do Rio de Janeiro, que ilustra de modo exemplar a perspectiva descrita no texto, foi responsável pela:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ocupação da Barra da Tijuca"
+      },
+      {
+        "letter": "B",
+        "text": "construção da Avenida Brasil"
+      },
+      {
+        "letter": "C",
+        "text": "derrubada do Morro do Castelo"
+      },
+      {
+        "letter": "D",
+        "text": "urbanização do Aterro do Flamengo"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O Morro do Castelo era o berço da cidade: ali se instalou o núcleo original do Rio de Janeiro no século XVI, com igrejas, o Colégio dos Jesuítas e construções coloniais. Seu desmonte, concluído em 1922, eliminou fisicamente o mais antigo vestígio urbano da capital em nome do saneamento, da circulação e da modernização - exatamente a \"abolição dos vestígios\" do passado de que fala o texto. As demais intervenções ocorreram em áreas sem herança colonial significativa: a Barra da Tijuca e a Avenida Brasil expandiram a cidade sobre terrenos pouco ocupados, e o Aterro do Flamengo foi construído sobre área ganha ao mar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q54",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Considere um mapa em que o território brasileiro foi redividido em apenas cinco unidades federativas, todas com população equivalente, em torno de 40 milhões de pessoas.\n\nConsiderando a realidade atual do Brasil, essa redivisão territorial também igualaria a seguinte característica socioespacial:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nível de renda por habitante"
+      },
+      {
+        "letter": "B",
+        "text": "oferta de água por domicílio"
+      },
+      {
+        "letter": "C",
+        "text": "produção de alimentos por área"
+      },
+      {
+        "letter": "D",
+        "text": "proporção de eleitores por senador"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No Brasil, cada unidade federativa elege três senadores, independentemente de sua população. Como os estados têm tamanhos demográficos muito díspares, o voto de um eleitor de Roraima pesa hoje muitas vezes mais do que o de um eleitor de São Paulo na composição do Senado. Se as cinco novas unidades tivessem populações equivalentes, cada senador representaria aproximadamente o mesmo número de eleitores, igualando essa proporção. As demais características dependem de fatores econômicos e naturais - distribuição de renda, disponibilidade hídrica, aptidão agrícola - que nenhuma redivisão política por critério populacional é capaz de uniformizar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q55",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "EM NOVA YORK, HABITAÇÃO SOCIAL VIVE O \"BOOM\" DAS RENDAS MISTAS\n\n\"50-30-20\" é um termo quente na cidade norte-americana de Nova York hoje em dia. É também o apelido dos imóveis financiados pela prefeitura que miram a integração das rendas mistas na habitação. Nesse modelo de empreendimento, 50% do total de unidades de cada prédio são ocupadas por famílias de classe média, 30% por moradores de classe média-baixa, e 20% destinam-se à baixa renda. O presidente da Companhia de Desenvolvimento Habitacional de Nova York, Marc Jahr, afirma que a instituição já financiou e construiu quase 8 mil apartamentos nesse modelo: \"Acreditamos que prédios com rendas mistas e bairros com economias diversas são pilares de comunidades estáveis\".\n\nAdaptado de prefeitura.sp.gov.br.\n\nO Estado é um agente fundamental na produção do espaço, pois suas ações interferem de forma acentuada sobre a dinâmica e a organização das cidades. A principal finalidade de uma política pública como a relatada no texto é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reduzir a segregação espacial"
+      },
+      {
+        "letter": "B",
+        "text": "elevar a arrecadação municipal"
+      },
+      {
+        "letter": "C",
+        "text": "favorecer a atividade comercial"
+      },
+      {
+        "letter": "D",
+        "text": "desconcentrar a população urbana"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A política habitacional convencional tende a concentrar famílias de baixa renda em conjuntos afastados, reproduzindo a divisão da cidade por classes. O modelo \"50-30-20\" faz o oposto: distribui, dentro de um mesmo prédio, moradores de três faixas de renda, impedindo que a área se torne homogeneamente pobre ou rica. A própria declaração do gestor explicita o objetivo ao falar em \"bairros com economias diversas\" como \"pilares de comunidades estáveis\". Trata-se, portanto, de reduzir a segregação espacial. As alternativas (B) e (C) apontam efeitos econômicos secundários, e (D) descreve outro tipo de política, voltada à distribuição da população pelo território.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q56",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Observe os dados sobre a proporção de nascidos por idade da mãe no Brasil entre 2000 e 2012:\n\n| Idade da mãe | 2000 | 2012 |\n|---|---|---|\n| menos de 15 anos | 0,9% | 1,0% |\n| de 15 a 19 anos | 22,6% | 18,3% |\n| de 20 a 24 anos | 31,3% | 26,1% |\n| de 25 a 29 anos | 22,6% | 24,5% |\n| de 30 a 34 anos | 13,9% | 18,9% |\n| de 35 a 39 anos | 6,7% | 8,9% |\n| acima de 40 anos | 1,9% | 2,4% |\n\nAdaptado de O Globo, 30/10/2014.\n\nExiste uma relação direta entre o dinamismo das práticas sociais e as transformações nos indicadores demográficos das sociedades. As mudanças verificadas entre os anos de 2000 e 2012 ocasionam o seguinte comportamento demográfico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevação da expectativa de vida"
+      },
+      {
+        "letter": "B",
+        "text": "ampliação da população escolar"
+      },
+      {
+        "letter": "C",
+        "text": "redução da taxa de fecundidade"
+      },
+      {
+        "letter": "D",
+        "text": "diminuição da mortalidade infantil"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os dados mostram um deslocamento consistente da maternidade para idades mais avançadas: as faixas até 24 anos perdem participação, enquanto todas as faixas a partir dos 25 anos ganham. Adiar o primeiro filho encurta o período reprodutivo efetivo da mulher e amplia o intervalo entre gerações, o que reduz o número médio de filhos por mulher - a taxa de fecundidade. As demais alternativas dependem de outros fatores: a expectativa de vida e a mortalidade infantil relacionam-se a condições de saúde e saneamento, e a população escolar tenderia a diminuir, não a crescer, com menos nascimentos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q57",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 57,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "HOMENAGENS E PROTESTOS MARCAM DIA DE MARTIN LUTHER KING NOS E.U.A.\n\nNo último mês de janeiro, nas comemorações do Dia de Martin Luther King, propagou-se, mais uma vez, a frase Black lives matter - \"Vidas negras importam\" -, que surgiu nos protestos gerados pela morte de jovem negro, em agosto de 2014, na cidade norte-americana de Ferguson.\nwww.cnab.org.br, janeiro/2015.\n\nA utilização dessa frase nas comemorações de 2015 aponta para uma contradição existente entre uma característica da ordem política norte-americana e um impedimento ao pleno exercício dos direitos civis. Essa característica e esse impedimento, respectivamente, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "prevalência do republicanismo e existência de grupos paramilitares"
+      },
+      {
+        "letter": "B",
+        "text": "legitimidade do associativismo e regulação dos movimentos populares"
+      },
+      {
+        "letter": "C",
+        "text": "vigência do ideal democrático e permanência de desigualdades étnicas"
+      },
+      {
+        "letter": "D",
+        "text": "garantia da liberdade de manifestação e monitoramento das redes sociais"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A contradição está entre o princípio e a prática. Os Estados Unidos se apresentam como democracia fundada na igualdade de todos perante a lei, e as leis segregacionistas foram revogadas ainda nos anos 1960, em boa medida graças à luta de Martin Luther King. Meio século depois, porém, a morte de um jovem negro em Ferguson e a necessidade de afirmar que \"vidas negras importam\" evidenciam que o tratamento desigual persiste na prática das instituições. A contradição, portanto, opõe a vigência do ideal democrático à permanência de desigualdades étnicas. As demais alternativas apontam impedimentos - grupos paramilitares, regulação de movimentos, vigilância digital - que não são o que a frase denuncia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q59",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 59,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "As comunidades quilombolas, que são predominantemente constituídas por população negra, se autodefinem a partir das relações com a terra, do parentesco, do território, da ancestralidade, das tradições e das práticas culturais próprias. Estima-se que em todo o país existam mais de três mil comunidades quilombolas. O Decreto Federal nº 4.887, de 20 de novembro de 2003, regulamenta o procedimento para identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas por remanescentes das comunidades dos quilombos.\n\nAdaptado de incra.gov.br.\n\nA demarcação de terras de comunidades quilombolas é fato recente nas práticas governamentais brasileiras. Um dos principais objetivos dessa política pública é viabilizar a promoção de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aceleração da reforma agrária"
+      },
+      {
+        "letter": "B",
+        "text": "reparação de grupos excluídos"
+      },
+      {
+        "letter": "C",
+        "text": "absorção de trabalhadores urbanos"
+      },
+      {
+        "letter": "D",
+        "text": "reconhecimento da diversidade étnica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os quilombos foram formados por pessoas que escaparam da escravidão e por seus descendentes, e permaneceram por mais de um século sem qualquer garantia sobre as terras que ocupavam, sujeitos a expulsões e à insegurança jurídica. Titular esses territórios é uma medida de justiça histórica: repara oficialmente uma exclusão produzida pela escravidão e pelo Estado que a sustentou, devolvendo direitos a um grupo sistematicamente privado deles. A alternativa (D) descreve um efeito cultural da política, mas o objetivo central é reparatório e fundiário; a titulação quilombola tampouco se confunde com a reforma agrária, que tem outro fundamento legal, e não visa deslocar trabalhadores urbanos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2016-eq1-q60",
+    "exam": "uerj",
+    "year": 2016,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A Europa passou por grande número de reconfigurações territoriais, em virtude das disputas seculares entre os povos do continente. Considere um mapa elaborado em 2014 em que estão assinalados, para cada país europeu, o nome da última potência estrangeira a desocupar aquele espaço nacional e o ano em que isso ocorreu.\n\nAdaptado de news.nationalgeographic.com.\n\nA desocupação estrangeira na Europa Oriental, após a Segunda Guerra Mundial, está associada ao seguinte contexto geopolítico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fim da Guerra Fria"
+      },
+      {
+        "letter": "B",
+        "text": "fundação da União Europeia"
+      },
+      {
+        "letter": "C",
+        "text": "término da Crise dos Mísseis"
+      },
+      {
+        "letter": "D",
+        "text": "início da Coexistência Pacífica"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Terminada a Segunda Guerra Mundial, os países da Europa Oriental não recuperaram autonomia plena: passaram à órbita soviética, com tropas do Exército Vermelho estacionadas em seus territórios e governos alinhados a Moscou por meio do Pacto de Varsóvia. Essa presença militar só se encerrou entre 1989 e 1994, com a queda do Muro de Berlim, a dissolução do Pacto de Varsóvia e o fim da própria URSS - ou seja, com o fim da Guerra Fria. A União Europeia foi fundada em 1992 e não determinou a retirada de tropas; a Crise dos Mísseis, de 1962, e a Coexistência Pacífica, dos anos 1950, ocorreram em plena Guerra Fria, quando a ocupação permanecia intacta.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2016 (aplicado em 14/06/2015), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q01",
     "exam": "uerj",
     "year": 2017,
