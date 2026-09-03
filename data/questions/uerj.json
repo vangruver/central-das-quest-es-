@@ -1,5 +1,1913 @@
 [
   {
+    "id": "uerj-2019-q01",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - FÍSICA PARA POETAS\n\nO ensino da física sempre foi um grande desafio. Nos últimos anos, muitos esforços foram feitos com o objetivo de ensiná-la desde as séries iniciais do ensino fundamental, no contexto do ensino de ciências. Porém, como disciplina regular, a física aparece no ensino médio, quando se torna \"um terror\" para muitos estudantes. (l. 1-4)\n\nVárias pesquisas vêm tentando identificar quais são as principais dificuldades do ensino de física e das ciências em geral. Em particular, a queixa que sempre se detecta é que os estudantes não conseguem compreender a linguagem matemática na qual, muitas vezes, os conceitos físicos são expressos. Outro ponto importante é que as questões que envolvem a física são apresentadas fora de uma contextualização do cotidiano das pessoas, o que dificulta seu aprendizado. Por fim, existe uma enorme carência de professores formados em física para ministrar as aulas da disciplina. (l. 5-11)\n\nAs pessoas que vão para o ensino superior e que não são da área de ciências exatas praticamente nunca mais têm contato com a física, da mesma maneira que os estudantes de física, engenharia e química poucas vezes voltam a ter contato com a literatura, a história e a sociologia. É triste notar que a especialização na formação dos indivíduos costuma deixá-los distantes de partes importantes da nossa cultura, da qual as ciências físicas e as humanidades fazem parte. (l. 12-16)\n\nMas vamos pensar em soluções. Há alguns anos, ofereço um curso chamado \"Física para poetas\". A ideia não é original - ao contrário, é muito utilizada em diversos países e aqui mesmo no Brasil. Seu objetivo é apresentar a física sem o uso da linguagem matemática e tentar mostrá-la próxima ao cotidiano das pessoas. Procuro destacar a beleza dessa ciência, associando-a, por exemplo, à poesia e à música. (l. 17-21)\n\nAlguns dos temas que trabalho em \"Física para poetas\" são inspirados nos artigos que publico. Por exemplo, \"A busca pela compreensão cósmica\" é uma das aulas, na qual apresento a evolução dos modelos que temos do universo. Começando pelas visões místicas e mitológicas e chegando até as modernas teorias cosmológicas, falo sobre a busca por responder a questões sobre a origem do universo e, consequentemente, a nossa origem, para compreendermos o nosso lugar no mundo e na história. (l. 22-28)\n\nNa aula \"Memórias de um carbono\", faço uma narrativa de um átomo de carbono contando sua história, em primeira pessoa, desde seu nascimento, em uma distante estrela que morreu há bilhões de anos, até o momento em que sai pelo nariz de uma pessoa respirando. Temas como astronomia, biologia, evolução e química surgem ao longo dessa aula, bem como as músicas \"Átimo de pó\" e \"Estrela\", de Gilberto Gil, além da poesia \"Psicologia de um vencido\", de Álvares de Azevedo. (l. 29-34)\n\nEm \"O tempo em nossas vidas\", apresento esse fascinante conceito que, na verdade, vai muito além da física: está presente em áreas como a filosofia, a biologia e a psicologia. Algumas músicas de Chico Buarque e Caetano Veloso, além de poesias de Vinicius de Moraes e Carlos Drummond de Andrade, ajudaram nessa abordagem. Não faltou também \"Tempo Rei\", de Gil. (l. 35-38)\n\nA arte é uma forma importante do conhecimento humano. Se músicas e poesias inspiram as mentes e os corações, podemos mostrar que a ciência, em particular a física, também é algo inspirador e belo, capaz de criar certa poesia e encantar não somente aos físicos, mas a todos os poetas da natureza. (l. 39-42)\n\nADILSON DE OLIVEIRA. Adaptado de cienciahoje.org.br, 08/08/2016.\n\nTEMPO REI\n\nNão me iludo\nTudo permanecerá do jeito\nQue tem sido\nTranscorrendo, transformando\nTempo e espaço navegando todos os sentidos\n(...)\nTempo Rei, ó Tempo Rei, ó Tempo Rei\nTransformai as velhas formas do viver\nEnsinai-me, ó Pai, o que eu ainda não sei\nMãe Senhora do Perpétuo, socorrei\nPensamento, mesmo fundamento singular\nDo ser humano, de um momento para o outro\nPoderá não mais fundar nem gregos nem baianos\nMães zelosas, pais corujas\nVejam como as águas de repente ficam sujas\nNão se iludam, não me iludo\nTudo agora mesmo pode estar por um segundo\nTempo Rei, ó Tempo Rei, ó Tempo Rei\n(...)\n\nGILBERTO GIL. letras.com.br\n\nO tempo, além de relacionado aos fenômenos naturais, é também condicionador das vidas humanas. Na letra da canção de Gilberto Gil, a dimensão do tempo histórico destacada é denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "evolução"
+      },
+      {
+        "letter": "B",
+        "text": "aceleração"
+      },
+      {
+        "letter": "C",
+        "text": "linearidade"
+      },
+      {
+        "letter": "D",
+        "text": "descontinuidade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A canção insiste em rupturas bruscas: o pensamento pode deixar de valer \"de um momento para o outro\", as águas ficam sujas \"de repente\", e \"tudo agora mesmo pode estar por um segundo\". O tempo aparece como sucessão de cortes imprevisíveis, capaz de \"transformar as velhas formas do viver\" sem aviso - isto é, como descontinuidade. As demais alternativas supõem regularidade: evolução implica progresso ordenado, linearidade supõe curso contínuo e uniforme, e aceleração apenas alteraria o ritmo de um fluxo que permaneceria contínuo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q02",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - FÍSICA PARA POETAS\n\nO ensino da física sempre foi um grande desafio. Nos últimos anos, muitos esforços foram feitos com o objetivo de ensiná-la desde as séries iniciais do ensino fundamental, no contexto do ensino de ciências. Porém, como disciplina regular, a física aparece no ensino médio, quando se torna \"um terror\" para muitos estudantes. (l. 1-4)\n\nVárias pesquisas vêm tentando identificar quais são as principais dificuldades do ensino de física e das ciências em geral. Em particular, a queixa que sempre se detecta é que os estudantes não conseguem compreender a linguagem matemática na qual, muitas vezes, os conceitos físicos são expressos. Outro ponto importante é que as questões que envolvem a física são apresentadas fora de uma contextualização do cotidiano das pessoas, o que dificulta seu aprendizado. Por fim, existe uma enorme carência de professores formados em física para ministrar as aulas da disciplina. (l. 5-11)\n\nAs pessoas que vão para o ensino superior e que não são da área de ciências exatas praticamente nunca mais têm contato com a física, da mesma maneira que os estudantes de física, engenharia e química poucas vezes voltam a ter contato com a literatura, a história e a sociologia. É triste notar que a especialização na formação dos indivíduos costuma deixá-los distantes de partes importantes da nossa cultura, da qual as ciências físicas e as humanidades fazem parte. (l. 12-16)\n\nMas vamos pensar em soluções. Há alguns anos, ofereço um curso chamado \"Física para poetas\". A ideia não é original - ao contrário, é muito utilizada em diversos países e aqui mesmo no Brasil. Seu objetivo é apresentar a física sem o uso da linguagem matemática e tentar mostrá-la próxima ao cotidiano das pessoas. Procuro destacar a beleza dessa ciência, associando-a, por exemplo, à poesia e à música. (l. 17-21)\n\nAlguns dos temas que trabalho em \"Física para poetas\" são inspirados nos artigos que publico. Por exemplo, \"A busca pela compreensão cósmica\" é uma das aulas, na qual apresento a evolução dos modelos que temos do universo. Começando pelas visões místicas e mitológicas e chegando até as modernas teorias cosmológicas, falo sobre a busca por responder a questões sobre a origem do universo e, consequentemente, a nossa origem, para compreendermos o nosso lugar no mundo e na história. (l. 22-28)\n\nNa aula \"Memórias de um carbono\", faço uma narrativa de um átomo de carbono contando sua história, em primeira pessoa, desde seu nascimento, em uma distante estrela que morreu há bilhões de anos, até o momento em que sai pelo nariz de uma pessoa respirando. Temas como astronomia, biologia, evolução e química surgem ao longo dessa aula, bem como as músicas \"Átimo de pó\" e \"Estrela\", de Gilberto Gil, além da poesia \"Psicologia de um vencido\", de Álvares de Azevedo. (l. 29-34)\n\nEm \"O tempo em nossas vidas\", apresento esse fascinante conceito que, na verdade, vai muito além da física: está presente em áreas como a filosofia, a biologia e a psicologia. Algumas músicas de Chico Buarque e Caetano Veloso, além de poesias de Vinicius de Moraes e Carlos Drummond de Andrade, ajudaram nessa abordagem. Não faltou também \"Tempo Rei\", de Gil. (l. 35-38)\n\nA arte é uma forma importante do conhecimento humano. Se músicas e poesias inspiram as mentes e os corações, podemos mostrar que a ciência, em particular a física, também é algo inspirador e belo, capaz de criar certa poesia e encantar não somente aos físicos, mas a todos os poetas da natureza. (l. 39-42)\n\nADILSON DE OLIVEIRA. Adaptado de cienciahoje.org.br, 08/08/2016.\n\nO trecho do texto de Adilson de Oliveira que melhor sintetiza o problema exposto acerca da abordagem da física é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Várias pesquisas vêm tentando identificar quais são as principais dificuldades do ensino de física e das ciências em geral. (l. 5-6)"
+      },
+      {
+        "letter": "B",
+        "text": "os estudantes não conseguem compreender a linguagem matemática na qual, muitas vezes, os conceitos físicos são expressos. (l. 6-8)"
+      },
+      {
+        "letter": "C",
+        "text": "a especialização na formação dos indivíduos costuma deixá-los distantes de partes importantes da nossa cultura, da qual as ciências físicas e as humanidades fazem parte. (l. 15-16)"
+      },
+      {
+        "letter": "D",
+        "text": "ofereço um curso chamado \"Física para poetas\". A ideia não é original - ao contrário, é muito utilizada em diversos países e aqui mesmo no Brasil. (l. 17-18)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O enunciado pede o problema da abordagem da física, isto é, do modo como ela é apresentada aos estudantes. O trecho da alternativa (B) nomeia exatamente isso: os conceitos físicos são expressos numa linguagem matemática que os alunos não conseguem compreender. É esse diagnóstico que o autor procura responder ao criar um curso \"sem o uso da linguagem matemática\". A alternativa (A) apenas anuncia que há pesquisas sobre o tema, sem sintetizar o problema; (C) trata da especialização da formação superior, outra questão levantada no texto; e (D) descreve a solução proposta, não o problema.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q03",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 3,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Texto base - FÍSICA PARA POETAS\n\nO ensino da física sempre foi um grande desafio. Nos últimos anos, muitos esforços foram feitos com o objetivo de ensiná-la desde as séries iniciais do ensino fundamental, no contexto do ensino de ciências. Porém, como disciplina regular, a física aparece no ensino médio, quando se torna \"um terror\" para muitos estudantes. (l. 1-4)\n\nVárias pesquisas vêm tentando identificar quais são as principais dificuldades do ensino de física e das ciências em geral. Em particular, a queixa que sempre se detecta é que os estudantes não conseguem compreender a linguagem matemática na qual, muitas vezes, os conceitos físicos são expressos. Outro ponto importante é que as questões que envolvem a física são apresentadas fora de uma contextualização do cotidiano das pessoas, o que dificulta seu aprendizado. Por fim, existe uma enorme carência de professores formados em física para ministrar as aulas da disciplina. (l. 5-11)\n\nAs pessoas que vão para o ensino superior e que não são da área de ciências exatas praticamente nunca mais têm contato com a física, da mesma maneira que os estudantes de física, engenharia e química poucas vezes voltam a ter contato com a literatura, a história e a sociologia. É triste notar que a especialização na formação dos indivíduos costuma deixá-los distantes de partes importantes da nossa cultura, da qual as ciências físicas e as humanidades fazem parte. (l. 12-16)\n\nMas vamos pensar em soluções. Há alguns anos, ofereço um curso chamado \"Física para poetas\". A ideia não é original - ao contrário, é muito utilizada em diversos países e aqui mesmo no Brasil. Seu objetivo é apresentar a física sem o uso da linguagem matemática e tentar mostrá-la próxima ao cotidiano das pessoas. Procuro destacar a beleza dessa ciência, associando-a, por exemplo, à poesia e à música. (l. 17-21)\n\nAlguns dos temas que trabalho em \"Física para poetas\" são inspirados nos artigos que publico. Por exemplo, \"A busca pela compreensão cósmica\" é uma das aulas, na qual apresento a evolução dos modelos que temos do universo. Começando pelas visões místicas e mitológicas e chegando até as modernas teorias cosmológicas, falo sobre a busca por responder a questões sobre a origem do universo e, consequentemente, a nossa origem, para compreendermos o nosso lugar no mundo e na história. (l. 22-28)\n\nNa aula \"Memórias de um carbono\", faço uma narrativa de um átomo de carbono contando sua história, em primeira pessoa, desde seu nascimento, em uma distante estrela que morreu há bilhões de anos, até o momento em que sai pelo nariz de uma pessoa respirando. Temas como astronomia, biologia, evolução e química surgem ao longo dessa aula, bem como as músicas \"Átimo de pó\" e \"Estrela\", de Gilberto Gil, além da poesia \"Psicologia de um vencido\", de Álvares de Azevedo. (l. 29-34)\n\nEm \"O tempo em nossas vidas\", apresento esse fascinante conceito que, na verdade, vai muito além da física: está presente em áreas como a filosofia, a biologia e a psicologia. Algumas músicas de Chico Buarque e Caetano Veloso, além de poesias de Vinicius de Moraes e Carlos Drummond de Andrade, ajudaram nessa abordagem. Não faltou também \"Tempo Rei\", de Gil. (l. 35-38)\n\nA arte é uma forma importante do conhecimento humano. Se músicas e poesias inspiram as mentes e os corações, podemos mostrar que a ciência, em particular a física, também é algo inspirador e belo, capaz de criar certa poesia e encantar não somente aos físicos, mas a todos os poetas da natureza. (l. 39-42)\n\nADILSON DE OLIVEIRA. Adaptado de cienciahoje.org.br, 08/08/2016.\n\nPara atingir seus propósitos, o curso oferecido pelo autor explora uma estratégia baseada no seguinte aspecto da linguagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "registro formal"
+      },
+      {
+        "letter": "B",
+        "text": "gêneros textuais"
+      },
+      {
+        "letter": "C",
+        "text": "metáforas cristalizadas"
+      },
+      {
+        "letter": "D",
+        "text": "vocábulos polissêmicos"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O curso aproxima a física de textos de natureza diversa: canções de Gilberto Gil, Chico Buarque e Caetano Veloso, poesias de Álvares de Azevedo, Vinicius de Moraes e Drummond, e a própria narrativa em primeira pessoa de \"Memórias de um carbono\". A estratégia consiste, portanto, em recorrer a diferentes gêneros textuais para tratar do mesmo conteúdo científico, tornando-o acessível. Não se trata de registro formal (ao contrário, o autor busca a linguagem cotidiana), nem de explorar metáforas já cristalizadas ou a polissemia de palavras isoladas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q05",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 5,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Texto base - FÍSICA PARA POETAS\n\nO ensino da física sempre foi um grande desafio. Nos últimos anos, muitos esforços foram feitos com o objetivo de ensiná-la desde as séries iniciais do ensino fundamental, no contexto do ensino de ciências. Porém, como disciplina regular, a física aparece no ensino médio, quando se torna \"um terror\" para muitos estudantes. (l. 1-4)\n\nVárias pesquisas vêm tentando identificar quais são as principais dificuldades do ensino de física e das ciências em geral. Em particular, a queixa que sempre se detecta é que os estudantes não conseguem compreender a linguagem matemática na qual, muitas vezes, os conceitos físicos são expressos. Outro ponto importante é que as questões que envolvem a física são apresentadas fora de uma contextualização do cotidiano das pessoas, o que dificulta seu aprendizado. Por fim, existe uma enorme carência de professores formados em física para ministrar as aulas da disciplina. (l. 5-11)\n\nAs pessoas que vão para o ensino superior e que não são da área de ciências exatas praticamente nunca mais têm contato com a física, da mesma maneira que os estudantes de física, engenharia e química poucas vezes voltam a ter contato com a literatura, a história e a sociologia. É triste notar que a especialização na formação dos indivíduos costuma deixá-los distantes de partes importantes da nossa cultura, da qual as ciências físicas e as humanidades fazem parte. (l. 12-16)\n\nMas vamos pensar em soluções. Há alguns anos, ofereço um curso chamado \"Física para poetas\". A ideia não é original - ao contrário, é muito utilizada em diversos países e aqui mesmo no Brasil. Seu objetivo é apresentar a física sem o uso da linguagem matemática e tentar mostrá-la próxima ao cotidiano das pessoas. Procuro destacar a beleza dessa ciência, associando-a, por exemplo, à poesia e à música. (l. 17-21)\n\nAlguns dos temas que trabalho em \"Física para poetas\" são inspirados nos artigos que publico. Por exemplo, \"A busca pela compreensão cósmica\" é uma das aulas, na qual apresento a evolução dos modelos que temos do universo. Começando pelas visões místicas e mitológicas e chegando até as modernas teorias cosmológicas, falo sobre a busca por responder a questões sobre a origem do universo e, consequentemente, a nossa origem, para compreendermos o nosso lugar no mundo e na história. (l. 22-28)\n\nNa aula \"Memórias de um carbono\", faço uma narrativa de um átomo de carbono contando sua história, em primeira pessoa, desde seu nascimento, em uma distante estrela que morreu há bilhões de anos, até o momento em que sai pelo nariz de uma pessoa respirando. Temas como astronomia, biologia, evolução e química surgem ao longo dessa aula, bem como as músicas \"Átimo de pó\" e \"Estrela\", de Gilberto Gil, além da poesia \"Psicologia de um vencido\", de Álvares de Azevedo. (l. 29-34)\n\nEm \"O tempo em nossas vidas\", apresento esse fascinante conceito que, na verdade, vai muito além da física: está presente em áreas como a filosofia, a biologia e a psicologia. Algumas músicas de Chico Buarque e Caetano Veloso, além de poesias de Vinicius de Moraes e Carlos Drummond de Andrade, ajudaram nessa abordagem. Não faltou também \"Tempo Rei\", de Gil. (l. 35-38)\n\nA arte é uma forma importante do conhecimento humano. Se músicas e poesias inspiram as mentes e os corações, podemos mostrar que a ciência, em particular a física, também é algo inspirador e belo, capaz de criar certa poesia e encantar não somente aos físicos, mas a todos os poetas da natureza. (l. 39-42)\n\nADILSON DE OLIVEIRA. Adaptado de cienciahoje.org.br, 08/08/2016.\n\nEm seu ciclo, um átomo de carbono pode ser incorporado a diferentes compostos por meio de processos contínuos de decomposição e formação de novas moléculas. Os átomos de carbono deste caderno de prova, por exemplo, serão degradados ao longo do tempo e, posteriormente, incorporados a outros seres vivos.\n\nConsidere que, ao se degradarem, os átomos de carbono deste caderno se distribuam igualmente entre os 7,5 bilhões de habitantes do planeta.\n\nSabendo que o caderno possui 90 g de massa, com 45% de carbono em sua composição, o número de átomos que será incorporado em cada habitante é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,7 × 10¹⁴"
+      },
+      {
+        "letter": "B",
+        "text": "6,0 × 10¹⁴"
+      },
+      {
+        "letter": "C",
+        "text": "2,0 × 10²⁴"
+      },
+      {
+        "letter": "D",
+        "text": "6,7 × 10²⁴"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A massa de carbono no caderno é 45% de 90 g, ou seja, 40,5 g. Com massa molar 12 g/mol, isso corresponde a 40,5/12 = 3,375 mol. Multiplicando pela constante de Avogadro: 3,375 × 6,0 × 10²³ ≈ 2,025 × 10²⁴ átomos. Dividindo igualmente entre 7,5 × 10⁹ habitantes: 2,025 × 10²⁴ / 7,5 × 10⁹ = 2,7 × 10¹⁴ átomos por pessoa. As alternativas (C) e (D) correspondem à ordem de grandeza do total de átomos, sem a divisão pela população.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q06",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 6,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "No processo de evolução biológica, ao longo das gerações, ocorrem alterações nas moléculas que contêm carbono. Considere duas espécies de peixes separadas pelo Istmo do Panamá, uma no Mar do Caribe e outra no Oceano Pacífico. Ambas surgiram a partir de uma única população, existente no local antes da elevação geológica da América Central.\n\nO processo evolutivo que deu origem a essas duas espécies é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anagênese"
+      },
+      {
+        "letter": "B",
+        "text": "ortogênese"
+      },
+      {
+        "letter": "C",
+        "text": "cladogênese"
+      },
+      {
+        "letter": "D",
+        "text": "morfogênese"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A formação do Istmo do Panamá dividiu fisicamente uma população ancestral única em dois grupos que deixaram de trocar genes. Isolados, cada grupo acumulou diferenças até se tornarem espécies distintas - um caso clássico de especiação alopátrica por vicariância. Quando uma linhagem se ramifica em duas, o processo se chama cladogênese. A anagênese é a transformação gradual de uma linhagem única, sem ramificação; a ortogênese é uma hipótese hoje abandonada de evolução dirigida a uma finalidade; e a morfogênese é um processo do desenvolvimento embrionário, não da evolução.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q07",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 7,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Considera-se a morte de uma estrela o momento em que ela deixa de emitir luz, o que não é percebido de imediato na Terra. A distância das estrelas em relação ao planeta Terra é medida em anos-luz, que corresponde ao deslocamento que a luz percorre no vácuo durante o período de um ano.\n\nAdmita que a luz de uma estrela que se encontra a 7500 anos-luz da Terra se apague. O tempo para que a morte dessa estrela seja visível na Terra equivale à seguinte ordem de grandeza, em meses:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10³"
+      },
+      {
+        "letter": "B",
+        "text": "10⁴"
+      },
+      {
+        "letter": "C",
+        "text": "10⁵"
+      },
+      {
+        "letter": "D",
+        "text": "10⁶"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Por definição de ano-luz, a luz emitida por uma estrela a 7500 anos-luz leva 7500 anos para chegar à Terra. Convertendo para meses: 7500 × 12 = 90 000 meses, ou 9 × 10⁴. Para determinar a ordem de grandeza, compara-se o coeficiente com √10 ≈ 3,16: como 9 > 3,16, o valor está mais próximo de 10⁵ do que de 10⁴. Logo, a ordem de grandeza é 10⁵ meses.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q08",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 8,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O Sol é a estrela mais próxima da Terra e dista cerca de 150 000 000 km do nosso planeta.\n\nAdmitindo que a luz percorre 300 000 km por segundo, o tempo, em minutos, para a luz que sai do Sol chegar à Terra é, aproximadamente, igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7,3"
+      },
+      {
+        "letter": "B",
+        "text": "7,8"
+      },
+      {
+        "letter": "C",
+        "text": "8,3"
+      },
+      {
+        "letter": "D",
+        "text": "8,8"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como a luz se propaga com velocidade constante, t = d/v = 150 000 000 / 300 000 = 500 segundos. Convertendo para minutos: 500/60 ≈ 8,33 minutos. O valor mais próximo entre as alternativas é 8,3.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q09",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 9,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "MEMÓRIAS DE UM CARBONO\n\nPouco tempo atrás, o átomo de carbono foi liberado de sua prisão química. No processo de transformação industrial do petróleo, ele foi incorporado à gasolina que era processada em uma refinaria. Não demorou muito e ele estava participando de uma reação de queima no motor de um automóvel e rapidamente estava novamente livre na atmosfera. A excessiva liberação desses átomos de carbono que ficaram aprisionados por milhões de anos no subsolo é um dos maiores problemas que a humanidade enfrenta atualmente.\nADILSON DE OLIVEIRA. Adaptado de cienciahoje.org.br.\n\nO FUTURO JÁ ESTÁ ENTRE NÓS\n\nO gestor hospitalar Edgar Escobar comprou um carro elétrico em 2016. Ele tem um dos 4784 veículos elétricos ou híbridos que circulam pelas ruas do Brasil hoje. São carros e ônibus que ajudam a preservar o meio ambiente. E cerca de 300 deles são 100% elétricos. Ou seja, a emissão de gases poluentes é zero. Todo o funcionamento do carro é sustentado pela bateria, que pode ser carregada numa tomada dentro de casa.\nAdaptado de cbn.globoradio.globo.com, 14/07/2017.\n\nO desenvolvimento de veículos elétricos é uma das medidas para enfrentar o problema apontado acima, no primeiro texto. A eficácia ambiental dessa medida, considerando as tecnologias comercialmente viáveis a curto prazo no mundo, depende principalmente do seguinte fator:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "perfil da matriz energética"
+      },
+      {
+        "letter": "B",
+        "text": "tamanho da carga tributária"
+      },
+      {
+        "letter": "C",
+        "text": "qualidade da rede rodoviária"
+      },
+      {
+        "letter": "D",
+        "text": "automação da cadeia produtiva"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O carro elétrico não emite poluentes no escapamento, mas a eletricidade que carrega sua bateria precisa ser gerada em algum lugar. Se a matriz energética do país for baseada em combustíveis fósseis - carvão e gás natural, como ocorre na maior parte do mundo -, a emissão de carbono apenas se desloca do automóvel para a usina, e o ganho ambiental é pequeno ou nulo. Só onde a matriz é predominantemente renovável a substituição reduz de fato as emissões. Daí a dependência do perfil da matriz energética. Carga tributária, malha rodoviária e automação industrial podem afetar o preço ou a difusão dos veículos, mas não determinam quanto carbono deixa de ser lançado na atmosfera.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q10",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 10,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "FÍSICA\n\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nConsidere um triângulo ABC que representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BÂC = 80°.\n\nA medida do ângulo θ entre n e n' é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "90º"
+      },
+      {
+        "letter": "B",
+        "text": "100º"
+      },
+      {
+        "letter": "C",
+        "text": "110º"
+      },
+      {
+        "letter": "D",
+        "text": "120º"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Considere o quadrilátero formado pelo vértice A, pelos pés das perpendiculares sobre AB e AC, e pelo ponto de encontro de n e n'. Seus quatro ângulos internos somam 360°: dois deles são retos (90° cada), por construção das perpendiculares, um é o ângulo BÂC = 80°, e o quarto é o ângulo entre n e n'. Assim, θ = 360° - 90° - 90° - 80° = 100°. Em geral, o ângulo entre duas retas perpendiculares aos lados de um ângulo é o suplemento desse ângulo: 180° - 80° = 100°.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q11",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O DNA DO RACISMO\n\nProponho ao leitor um simples experimento. Dirija-se a um local bastante movimentado e observe cuidadosamente as pessoas ao redor. Deverá logo saltar aos olhos que somos todos muito parecidos e, ao mesmo tempo, muito diferentes. (l. 1-3)\n\nRealmente, podemos ver grandes similaridades no plano corporal, na postura ereta, na pele fina e na falta relativa de pelos, características da espécie humana que nos distinguem dos outros primatas. Por outro lado, serão evidentes as extraordinárias variações morfológicas entre as diferentes pessoas: sexo, idade, altura, peso, massa muscular, cor e textura dos cabelos, cor e formato dos olhos, cor da pele etc. A priori, não existe absolutamente nenhuma razão para valorizar mais uma ou outra dessas características no exercício de investigação. (l. 4-9)\n\nNem todos esses traços têm a mesma relevância. Há características que podem nos fornecer informações sobre a origem geográfica ancestral das pessoas: uma pele negra pode nos levar a inferir que a pessoa tem ancestrais africanos, olhos puxados evocam ancestralidade oriental etc. E isso é tudo: não há absolutamente mais nada que possamos captar à flor da pele. Pense bem. O que têm a pigmentação da pele, o formato e a cor dos olhos ou a textura do cabelo a ver com as qualidades humanas singulares que definam uma individualidade existencial? (l. 10-15)\n\nEm nítido contraste com as conclusões do experimento de observação empírica acima, está a rigidez da classificação da humanidade feita pelo naturalista sueco Carl Linnaeus, em 1767. Ele apresentou, pela primeira vez na esfera científica, uma categorização da espécie humana, distinguindo quatro raças principais e qualificando-as de acordo com o que ele considerava suas características principais: (l. 16-20)\n\n• Homo sapiens europaeus: branco, sério, forte;\n• Homo sapiens asiaticus: amarelo, melancólico, avaro;\n• Homo sapiens afer: negro, impassível, preguiçoso;\n• Homo sapiens americanus: vermelho, mal-humorado, violento. (l. 21-24)\n\nObserve o leitor que as raças de Linnaeus continham traços peculiares fixos, ou seja, havia a expectativa de todos os europeus serem \"brancos, sérios e fortes\". Assim, teríamos de esperar que as pessoas negras ao redor de nós tivessem tendências \"impassíveis e preguiçosas\", e que as de olhos puxados fossem predispostas a \"melancolia e avareza\". (l. 25-29)\n\nEsse é um exemplo do absurdo da perspectiva essencialista ou tipológica de raças humanas. Nesse paradigma, o indivíduo não pode simplesmente ter a pele mais ou menos pigmentada, ou o cabelo mais ou menos crespo - ele tem de ser definido como \"negro\" ou \"branco\", rótulo determinante de sua identidade. (l. 30-33)\n\nEsse tipo de associação fixa de características físicas e psicológicas, que incrivelmente ainda persiste na atualidade, não faz absolutamente nenhum sentido do ponto de vista genético e biológico! O genoma humano tem cerca de 20 mil genes e sabemos que poucas dúzias deles controlam a pigmentação da pele e a aparência física dos humanos. Está 100% estabelecido que esses genes não têm nenhuma influência sobre qualquer traço comportamental ou intelectual. (l. 34-38)\n\nSÉRGIO DANILO PENA. Adaptado de cienciahoje.org.br, 11/07/2008.\n\nO terceiro parágrafo contém uma conclusão acerca dos resultados do experimento descrito nos dois parágrafos anteriores. Essa conclusão se baseia no seguinte posicionamento do autor:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "afirmação de crenças excêntricas"
+      },
+      {
+        "letter": "B",
+        "text": "valorização da racionalidade ocidental"
+      },
+      {
+        "letter": "C",
+        "text": "desconsideração de opiniões polêmicas"
+      },
+      {
+        "letter": "D",
+        "text": "contestação do determinismo biológico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O terceiro parágrafo conclui que os traços físicos visíveis informam apenas sobre a origem geográfica ancestral - \"e isso é tudo: não há absolutamente mais nada que possamos captar à flor da pele\" - e encerra perguntando o que a cor da pele ou o formato dos olhos teriam a ver com as qualidades que definem uma individualidade. O autor nega, portanto, que características biológicas determinem atributos morais ou intelectuais: é a contestação do determinismo biológico, base científica do racismo que o texto combate. Ele não afirma crenças excêntricas nem exalta a racionalidade ocidental, e o que faz é justamente enfrentar - não evitar - uma questão polêmica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q12",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O DNA DO RACISMO\n\nProponho ao leitor um simples experimento. Dirija-se a um local bastante movimentado e observe cuidadosamente as pessoas ao redor. Deverá logo saltar aos olhos que somos todos muito parecidos e, ao mesmo tempo, muito diferentes. (l. 1-3)\n\nRealmente, podemos ver grandes similaridades no plano corporal, na postura ereta, na pele fina e na falta relativa de pelos, características da espécie humana que nos distinguem dos outros primatas. Por outro lado, serão evidentes as extraordinárias variações morfológicas entre as diferentes pessoas: sexo, idade, altura, peso, massa muscular, cor e textura dos cabelos, cor e formato dos olhos, cor da pele etc. A priori, não existe absolutamente nenhuma razão para valorizar mais uma ou outra dessas características no exercício de investigação. (l. 4-9)\n\nNem todos esses traços têm a mesma relevância. Há características que podem nos fornecer informações sobre a origem geográfica ancestral das pessoas: uma pele negra pode nos levar a inferir que a pessoa tem ancestrais africanos, olhos puxados evocam ancestralidade oriental etc. E isso é tudo: não há absolutamente mais nada que possamos captar à flor da pele. Pense bem. O que têm a pigmentação da pele, o formato e a cor dos olhos ou a textura do cabelo a ver com as qualidades humanas singulares que definam uma individualidade existencial? (l. 10-15)\n\nEm nítido contraste com as conclusões do experimento de observação empírica acima, está a rigidez da classificação da humanidade feita pelo naturalista sueco Carl Linnaeus, em 1767. Ele apresentou, pela primeira vez na esfera científica, uma categorização da espécie humana, distinguindo quatro raças principais e qualificando-as de acordo com o que ele considerava suas características principais: (l. 16-20)\n\n• Homo sapiens europaeus: branco, sério, forte;\n• Homo sapiens asiaticus: amarelo, melancólico, avaro;\n• Homo sapiens afer: negro, impassível, preguiçoso;\n• Homo sapiens americanus: vermelho, mal-humorado, violento. (l. 21-24)\n\nObserve o leitor que as raças de Linnaeus continham traços peculiares fixos, ou seja, havia a expectativa de todos os europeus serem \"brancos, sérios e fortes\". Assim, teríamos de esperar que as pessoas negras ao redor de nós tivessem tendências \"impassíveis e preguiçosas\", e que as de olhos puxados fossem predispostas a \"melancolia e avareza\". (l. 25-29)\n\nEsse é um exemplo do absurdo da perspectiva essencialista ou tipológica de raças humanas. Nesse paradigma, o indivíduo não pode simplesmente ter a pele mais ou menos pigmentada, ou o cabelo mais ou menos crespo - ele tem de ser definido como \"negro\" ou \"branco\", rótulo determinante de sua identidade. (l. 30-33)\n\nEsse tipo de associação fixa de características físicas e psicológicas, que incrivelmente ainda persiste na atualidade, não faz absolutamente nenhum sentido do ponto de vista genético e biológico! O genoma humano tem cerca de 20 mil genes e sabemos que poucas dúzias deles controlam a pigmentação da pele e a aparência física dos humanos. Está 100% estabelecido que esses genes não têm nenhuma influência sobre qualquer traço comportamental ou intelectual. (l. 34-38)\n\nSÉRGIO DANILO PENA. Adaptado de cienciahoje.org.br, 11/07/2008.\n\nComparando as quatro categorias apresentadas pelo naturalista sueco Carl Linnaeus, a perspectiva adotada em sua classificação pode ser definida como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "neutra"
+      },
+      {
+        "letter": "B",
+        "text": "parcial"
+      },
+      {
+        "letter": "C",
+        "text": "universal"
+      },
+      {
+        "letter": "D",
+        "text": "homogênea"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As qualificações não são simétricas. Ao europeu couberam apenas atributos positivos - \"sério, forte\" -, enquanto asiáticos (\"melancólico, avaro\"), africanos (\"impassível, preguiçoso\") e americanos (\"mal-humorado, violento\") receberam traços depreciativos. Uma classificação que reserva o elogio ao grupo do próprio classificador e a desqualificação aos demais é enviesada, isto é, parcial. Justamente por isso não é neutra; não é universal, pois adota o europeu como padrão; e não é homogênea, já que trata as categorias com critérios desiguais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q13",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O DNA DO RACISMO\n\nProponho ao leitor um simples experimento. Dirija-se a um local bastante movimentado e observe cuidadosamente as pessoas ao redor. Deverá logo saltar aos olhos que somos todos muito parecidos e, ao mesmo tempo, muito diferentes. (l. 1-3)\n\nRealmente, podemos ver grandes similaridades no plano corporal, na postura ereta, na pele fina e na falta relativa de pelos, características da espécie humana que nos distinguem dos outros primatas. Por outro lado, serão evidentes as extraordinárias variações morfológicas entre as diferentes pessoas: sexo, idade, altura, peso, massa muscular, cor e textura dos cabelos, cor e formato dos olhos, cor da pele etc. A priori, não existe absolutamente nenhuma razão para valorizar mais uma ou outra dessas características no exercício de investigação. (l. 4-9)\n\nNem todos esses traços têm a mesma relevância. Há características que podem nos fornecer informações sobre a origem geográfica ancestral das pessoas: uma pele negra pode nos levar a inferir que a pessoa tem ancestrais africanos, olhos puxados evocam ancestralidade oriental etc. E isso é tudo: não há absolutamente mais nada que possamos captar à flor da pele. Pense bem. O que têm a pigmentação da pele, o formato e a cor dos olhos ou a textura do cabelo a ver com as qualidades humanas singulares que definam uma individualidade existencial? (l. 10-15)\n\nEm nítido contraste com as conclusões do experimento de observação empírica acima, está a rigidez da classificação da humanidade feita pelo naturalista sueco Carl Linnaeus, em 1767. Ele apresentou, pela primeira vez na esfera científica, uma categorização da espécie humana, distinguindo quatro raças principais e qualificando-as de acordo com o que ele considerava suas características principais: (l. 16-20)\n\n• Homo sapiens europaeus: branco, sério, forte;\n• Homo sapiens asiaticus: amarelo, melancólico, avaro;\n• Homo sapiens afer: negro, impassível, preguiçoso;\n• Homo sapiens americanus: vermelho, mal-humorado, violento. (l. 21-24)\n\nObserve o leitor que as raças de Linnaeus continham traços peculiares fixos, ou seja, havia a expectativa de todos os europeus serem \"brancos, sérios e fortes\". Assim, teríamos de esperar que as pessoas negras ao redor de nós tivessem tendências \"impassíveis e preguiçosas\", e que as de olhos puxados fossem predispostas a \"melancolia e avareza\". (l. 25-29)\n\nEsse é um exemplo do absurdo da perspectiva essencialista ou tipológica de raças humanas. Nesse paradigma, o indivíduo não pode simplesmente ter a pele mais ou menos pigmentada, ou o cabelo mais ou menos crespo - ele tem de ser definido como \"negro\" ou \"branco\", rótulo determinante de sua identidade. (l. 30-33)\n\nEsse tipo de associação fixa de características físicas e psicológicas, que incrivelmente ainda persiste na atualidade, não faz absolutamente nenhum sentido do ponto de vista genético e biológico! O genoma humano tem cerca de 20 mil genes e sabemos que poucas dúzias deles controlam a pigmentação da pele e a aparência física dos humanos. Está 100% estabelecido que esses genes não têm nenhuma influência sobre qualquer traço comportamental ou intelectual. (l. 34-38)\n\nSÉRGIO DANILO PENA. Adaptado de cienciahoje.org.br, 11/07/2008.\n\nNo último parágrafo, o autor expressa uma crítica à teoria de Linnaeus, por reconhecer na classificação que este propôs o seguinte problema:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "omissão"
+      },
+      {
+        "letter": "B",
+        "text": "abstração"
+      },
+      {
+        "letter": "C",
+        "text": "incorreção"
+      },
+      {
+        "letter": "D",
+        "text": "fragmentação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No último parágrafo o autor não diz que a classificação é incompleta ou abstrata: afirma que ela \"não faz absolutamente nenhum sentido do ponto de vista genético e biológico\" e que está \"100% estabelecido\" que os genes da aparência física não influenciam traços comportamentais ou intelectuais. A crítica é, portanto, de ordem factual - a teoria está simplesmente errada, o que caracteriza incorreção. Omissão suporia algo deixado de fora, abstração suporia excesso de generalidade e fragmentação suporia divisão indevida, mas nenhuma dessas ressalvas aparece no parágrafo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q14",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - O DNA DO RACISMO\n\nProponho ao leitor um simples experimento. Dirija-se a um local bastante movimentado e observe cuidadosamente as pessoas ao redor. Deverá logo saltar aos olhos que somos todos muito parecidos e, ao mesmo tempo, muito diferentes. (l. 1-3)\n\nRealmente, podemos ver grandes similaridades no plano corporal, na postura ereta, na pele fina e na falta relativa de pelos, características da espécie humana que nos distinguem dos outros primatas. Por outro lado, serão evidentes as extraordinárias variações morfológicas entre as diferentes pessoas: sexo, idade, altura, peso, massa muscular, cor e textura dos cabelos, cor e formato dos olhos, cor da pele etc. A priori, não existe absolutamente nenhuma razão para valorizar mais uma ou outra dessas características no exercício de investigação. (l. 4-9)\n\nNem todos esses traços têm a mesma relevância. Há características que podem nos fornecer informações sobre a origem geográfica ancestral das pessoas: uma pele negra pode nos levar a inferir que a pessoa tem ancestrais africanos, olhos puxados evocam ancestralidade oriental etc. E isso é tudo: não há absolutamente mais nada que possamos captar à flor da pele. Pense bem. O que têm a pigmentação da pele, o formato e a cor dos olhos ou a textura do cabelo a ver com as qualidades humanas singulares que definam uma individualidade existencial? (l. 10-15)\n\nEm nítido contraste com as conclusões do experimento de observação empírica acima, está a rigidez da classificação da humanidade feita pelo naturalista sueco Carl Linnaeus, em 1767. Ele apresentou, pela primeira vez na esfera científica, uma categorização da espécie humana, distinguindo quatro raças principais e qualificando-as de acordo com o que ele considerava suas características principais: (l. 16-20)\n\n• Homo sapiens europaeus: branco, sério, forte;\n• Homo sapiens asiaticus: amarelo, melancólico, avaro;\n• Homo sapiens afer: negro, impassível, preguiçoso;\n• Homo sapiens americanus: vermelho, mal-humorado, violento. (l. 21-24)\n\nObserve o leitor que as raças de Linnaeus continham traços peculiares fixos, ou seja, havia a expectativa de todos os europeus serem \"brancos, sérios e fortes\". Assim, teríamos de esperar que as pessoas negras ao redor de nós tivessem tendências \"impassíveis e preguiçosas\", e que as de olhos puxados fossem predispostas a \"melancolia e avareza\". (l. 25-29)\n\nEsse é um exemplo do absurdo da perspectiva essencialista ou tipológica de raças humanas. Nesse paradigma, o indivíduo não pode simplesmente ter a pele mais ou menos pigmentada, ou o cabelo mais ou menos crespo - ele tem de ser definido como \"negro\" ou \"branco\", rótulo determinante de sua identidade. (l. 30-33)\n\nEsse tipo de associação fixa de características físicas e psicológicas, que incrivelmente ainda persiste na atualidade, não faz absolutamente nenhum sentido do ponto de vista genético e biológico! O genoma humano tem cerca de 20 mil genes e sabemos que poucas dúzias deles controlam a pigmentação da pele e a aparência física dos humanos. Está 100% estabelecido que esses genes não têm nenhuma influência sobre qualquer traço comportamental ou intelectual. (l. 34-38)\n\nSÉRGIO DANILO PENA. Adaptado de cienciahoje.org.br, 11/07/2008.\n\n\"Está 100% estabelecido que esses genes não têm nenhuma influência sobre qualquer traço comportamental ou intelectual.\" (l. 37-38)\n\nPara introduzir a frase acima, mantendo a coerência com a que a precede, pode ser utilizada a seguinte expressão:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ou seja"
+      },
+      {
+        "letter": "B",
+        "text": "além disso"
+      },
+      {
+        "letter": "C",
+        "text": "em resumo"
+      },
+      {
+        "letter": "D",
+        "text": "por exemplo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase anterior informa que poucas dúzias de genes controlam a pigmentação da pele e a aparência física. A frase em questão acrescenta uma informação nova e distinta: esses mesmos genes não influenciam comportamento nem intelecto. Trata-se de adição de argumento, papel desempenhado por \"além disso\". \"Ou seja\" e \"em resumo\" anunciariam reformulação ou síntese do que já foi dito, e a frase não repete a anterior; \"por exemplo\" exigiria que ela fosse uma ilustração particular do enunciado precedente, o que também não ocorre.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q15",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - VIOLÊNCIA E PSIQUIATRIA\n\nO tipo de violência que aqui considerarei pouco tem a ver com pessoas que utilizam martelos para golpear a cabeça de outras, nem se aproximará muito do que se supõe façam os doentes mentais. Se se quer falar de violência em psiquiatria, a violência que brada, que se proclama em tão alta voz que raramente é ouvida, é a sutil, tortuosa violência perpetrada pelos outros, pelos \"sadios\", contra os rotulados de \"loucos\". Na medida em que a psiquiatria representa os interesses ou pretensos interesses dos sadios, podemos descobrir que, de fato, a violência em psiquiatria é sobretudo a violência da psiquiatria. (l. 1-7)\n\nQuem são porém as pessoas sadias? Como se definem a si próprias? As definições de saúde mental propostas pelos especialistas ou estabelecem a necessidade do conformismo a um conjunto de normas sociais arbitrariamente pressupostas, ou são tão convenientemente gerais - como, por exemplo, \"a capacidade de tolerar conflitos\" - que deixam de fazer sentido. Fica-se com a lamentável reflexão de que os sadios serão, talvez, todos aqueles que não seriam admitidos na enfermaria de observação psiquiátrica. Ou seja, eles se definem pela ausência de certa experiência. (l. 8-13)\n\nSabe-se, porém, que os nazistas asfixiaram com gás dezenas de milhares de doentes mentais, assim como dezenas de milhares de outros tiveram seus cérebros mutilados ou danificados por sucessivas séries de choques elétricos: suas personalidades foram deformadas, de modo sistemático, pela institucionalização psiquiátrica. Como podem fatos tão concretos emergir na base de uma ausência, de uma negatividade - a compulsiva não loucura dos sadios? De fato, toda a área de definição de sanidade mental e loucura é tão confusa, e os que se arriscam dentro dela são tão aterrorizados pela ideia do que possam encontrar, não só nos \"outros\" como também em si mesmos, que se deve considerar seriamente a renúncia ao projeto. (l. 14-21)\n\nDAVID COOPER. Adaptado de Psiquiatria e antipsiquiatria. São Paulo: Perspectiva, 1967.\n\n\"a violência em psiquiatria é sobretudo a violência da psiquiatria.\" (l. 6-7)\n\nA relação entre \"violência\" e \"psiquiatria\" é destacada pelos dois termos sublinhados, que expressam, respectivamente, as noções de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "substância e causa"
+      },
+      {
+        "letter": "B",
+        "text": "posse e matéria"
+      },
+      {
+        "letter": "C",
+        "text": "foco e assunto"
+      },
+      {
+        "letter": "D",
+        "text": "área e agente"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A troca de preposição desloca inteiramente o sentido. \"Violência em psiquiatria\" situa o fenômeno: a psiquiatria é o campo, a área onde a violência ocorre - e onde se supõe que os pacientes sejam os violentos. \"Violência da psiquiatria\" atribui a autoria: a psiquiatria passa a ser o agente que pratica a violência. É exatamente essa inversão que sustenta a tese de Cooper. Logo, \"em\" indica área e \"da\" indica agente, nessa ordem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q16",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 16,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "Texto base - VIOLÊNCIA E PSIQUIATRIA\n\nO tipo de violência que aqui considerarei pouco tem a ver com pessoas que utilizam martelos para golpear a cabeça de outras, nem se aproximará muito do que se supõe façam os doentes mentais. Se se quer falar de violência em psiquiatria, a violência que brada, que se proclama em tão alta voz que raramente é ouvida, é a sutil, tortuosa violência perpetrada pelos outros, pelos \"sadios\", contra os rotulados de \"loucos\". Na medida em que a psiquiatria representa os interesses ou pretensos interesses dos sadios, podemos descobrir que, de fato, a violência em psiquiatria é sobretudo a violência da psiquiatria. (l. 1-7)\n\nQuem são porém as pessoas sadias? Como se definem a si próprias? As definições de saúde mental propostas pelos especialistas ou estabelecem a necessidade do conformismo a um conjunto de normas sociais arbitrariamente pressupostas, ou são tão convenientemente gerais - como, por exemplo, \"a capacidade de tolerar conflitos\" - que deixam de fazer sentido. Fica-se com a lamentável reflexão de que os sadios serão, talvez, todos aqueles que não seriam admitidos na enfermaria de observação psiquiátrica. Ou seja, eles se definem pela ausência de certa experiência. (l. 8-13)\n\nSabe-se, porém, que os nazistas asfixiaram com gás dezenas de milhares de doentes mentais, assim como dezenas de milhares de outros tiveram seus cérebros mutilados ou danificados por sucessivas séries de choques elétricos: suas personalidades foram deformadas, de modo sistemático, pela institucionalização psiquiátrica. Como podem fatos tão concretos emergir na base de uma ausência, de uma negatividade - a compulsiva não loucura dos sadios? De fato, toda a área de definição de sanidade mental e loucura é tão confusa, e os que se arriscam dentro dela são tão aterrorizados pela ideia do que possam encontrar, não só nos \"outros\" como também em si mesmos, que se deve considerar seriamente a renúncia ao projeto. (l. 14-21)\n\nDAVID COOPER. Adaptado de Psiquiatria e antipsiquiatria. São Paulo: Perspectiva, 1967.\n\nDavid Cooper dirige uma crítica à psiquiatria quando esta define saúde como ausência de doença e, desse modo, acaba por não definir adequadamente a própria doença mental. Essa forma de definição incorre em um sofisma conhecido como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "círculo vicioso"
+      },
+      {
+        "letter": "B",
+        "text": "falsa autoridade"
+      },
+      {
+        "letter": "C",
+        "text": "argumento contra a pessoa"
+      },
+      {
+        "letter": "D",
+        "text": "confusão entre causa e efeito"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Se a saúde mental é definida como ausência de loucura e a loucura, por sua vez, só se caracteriza como ausência de saúde, cada termo depende do outro para ser compreendido e nenhum dos dois chega a ser definido. A definição volta ao ponto de partida sem acrescentar conteúdo - é o círculo vicioso, ou petição de princípio. Cooper explicita o problema ao observar que os sadios \"se definem pela ausência de certa experiência\". Falsa autoridade e argumento contra a pessoa são falácias sobre a fonte do argumento, e não sobre a estrutura da definição; e não há aqui inversão entre causa e efeito.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q17",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 17,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Texto base - VIOLÊNCIA E PSIQUIATRIA\n\nO tipo de violência que aqui considerarei pouco tem a ver com pessoas que utilizam martelos para golpear a cabeça de outras, nem se aproximará muito do que se supõe façam os doentes mentais. Se se quer falar de violência em psiquiatria, a violência que brada, que se proclama em tão alta voz que raramente é ouvida, é a sutil, tortuosa violência perpetrada pelos outros, pelos \"sadios\", contra os rotulados de \"loucos\". Na medida em que a psiquiatria representa os interesses ou pretensos interesses dos sadios, podemos descobrir que, de fato, a violência em psiquiatria é sobretudo a violência da psiquiatria. (l. 1-7)\n\nQuem são porém as pessoas sadias? Como se definem a si próprias? As definições de saúde mental propostas pelos especialistas ou estabelecem a necessidade do conformismo a um conjunto de normas sociais arbitrariamente pressupostas, ou são tão convenientemente gerais - como, por exemplo, \"a capacidade de tolerar conflitos\" - que deixam de fazer sentido. Fica-se com a lamentável reflexão de que os sadios serão, talvez, todos aqueles que não seriam admitidos na enfermaria de observação psiquiátrica. Ou seja, eles se definem pela ausência de certa experiência. (l. 8-13)\n\nSabe-se, porém, que os nazistas asfixiaram com gás dezenas de milhares de doentes mentais, assim como dezenas de milhares de outros tiveram seus cérebros mutilados ou danificados por sucessivas séries de choques elétricos: suas personalidades foram deformadas, de modo sistemático, pela institucionalização psiquiátrica. Como podem fatos tão concretos emergir na base de uma ausência, de uma negatividade - a compulsiva não loucura dos sadios? De fato, toda a área de definição de sanidade mental e loucura é tão confusa, e os que se arriscam dentro dela são tão aterrorizados pela ideia do que possam encontrar, não só nos \"outros\" como também em si mesmos, que se deve considerar seriamente a renúncia ao projeto. (l. 14-21)\n\nDAVID COOPER. Adaptado de Psiquiatria e antipsiquiatria. São Paulo: Perspectiva, 1967.\n\nO ensaio do médico David Cooper, publicado em 1967, e \"O alienista\", de 1882, questionam a psiquiatria com argumentos semelhantes, embora com tipos de textos distintos. Esses textos possuem os seguintes traços que os distinguem, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "descrição e teorização"
+      },
+      {
+        "letter": "B",
+        "text": "argumentação e narração"
+      },
+      {
+        "letter": "C",
+        "text": "ambiguidade e causalidade"
+      },
+      {
+        "letter": "D",
+        "text": "particularização e generalização"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto de Cooper é um ensaio: expõe uma tese, define conceitos, formula objeções e sustenta pontos de vista - procedimentos típicos da argumentação. \"O alienista\" é uma novela: constrói personagens, situa-os em Itaguaí e desenvolve uma sequência de acontecimentos ao longo do tempo, o que caracteriza a narração. A ordem pedida (\"respectivamente\") confirma a alternativa (B). As demais alternativas não correspondem à distinção entre os dois tipos de texto: nenhum dos dois é primordialmente descritivo, e ambiguidade, causalidade, particularização e generalização são recursos que podem ocorrer em qualquer deles.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q18",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\nTexto base - VIOLÊNCIA E PSIQUIATRIA\n\nO tipo de violência que aqui considerarei pouco tem a ver com pessoas que utilizam martelos para golpear a cabeça de outras, nem se aproximará muito do que se supõe façam os doentes mentais. Se se quer falar de violência em psiquiatria, a violência que brada, que se proclama em tão alta voz que raramente é ouvida, é a sutil, tortuosa violência perpetrada pelos outros, pelos \"sadios\", contra os rotulados de \"loucos\". Na medida em que a psiquiatria representa os interesses ou pretensos interesses dos sadios, podemos descobrir que, de fato, a violência em psiquiatria é sobretudo a violência da psiquiatria. (l. 1-7)\n\nQuem são porém as pessoas sadias? Como se definem a si próprias? As definições de saúde mental propostas pelos especialistas ou estabelecem a necessidade do conformismo a um conjunto de normas sociais arbitrariamente pressupostas, ou são tão convenientemente gerais - como, por exemplo, \"a capacidade de tolerar conflitos\" - que deixam de fazer sentido. Fica-se com a lamentável reflexão de que os sadios serão, talvez, todos aqueles que não seriam admitidos na enfermaria de observação psiquiátrica. Ou seja, eles se definem pela ausência de certa experiência. (l. 8-13)\n\nSabe-se, porém, que os nazistas asfixiaram com gás dezenas de milhares de doentes mentais, assim como dezenas de milhares de outros tiveram seus cérebros mutilados ou danificados por sucessivas séries de choques elétricos: suas personalidades foram deformadas, de modo sistemático, pela institucionalização psiquiátrica. Como podem fatos tão concretos emergir na base de uma ausência, de uma negatividade - a compulsiva não loucura dos sadios? De fato, toda a área de definição de sanidade mental e loucura é tão confusa, e os que se arriscam dentro dela são tão aterrorizados pela ideia do que possam encontrar, não só nos \"outros\" como também em si mesmos, que se deve considerar seriamente a renúncia ao projeto. (l. 14-21)\n\nDAVID COOPER. Adaptado de Psiquiatria e antipsiquiatria. São Paulo: Perspectiva, 1967.\n\nAo final do texto \"Violência e psiquiatria\" (l. 19-21), David Cooper introduz um comentário a respeito da fronteira entre sanidade e loucura. Esse comentário dialoga com questão fundamental de \"O alienista\", apresentada no seguinte trecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Os loucos por amor eram três ou quatro, mas só dous espantavam pelo curioso do delírio. (capítulo II)"
+      },
+      {
+        "letter": "B",
+        "text": "a vila inteira ficou abalada com a notícia de que a própria esposa do alienista fora metida na Casa Verde. (capítulo X)"
+      },
+      {
+        "letter": "C",
+        "text": "Não só findaram as queixas contra o alienista, mas até nenhum ressentimento ficou dos atos que ele praticara; (capítulo XII)"
+      },
+      {
+        "letter": "D",
+        "text": "Alguns chegam ao ponto de conjecturar que nunca houve outro louco, além dele, em Itaguaí; (capítulo XIII)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cooper afirma que a área de definição entre sanidade e loucura é confusa e que quem se arrisca nela teme o que possa encontrar \"não só nos 'outros' como também em si mesmos\". O trecho do capítulo XIII leva essa suspeita ao extremo: o único louco de Itaguaí teria sido justamente o alienista, aquele que classificava os demais. Nos dois casos, a fronteira se dissolve e volta-se contra quem a traçou. As alternativas (A), (B) e (C) tratam de episódios do enredo - a tipologia dos internos, o internamento de D. Evarista e o apaziguamento da vila - sem colocar em questão a distinção entre são e louco.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q19",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\nNo início do capítulo I, o médico Simão Bacamarte explica que se casou com D. Evarista porque ela \"estava assim apta para dar-lhe filhos robustos, sãos e inteligentes\", mas logo em seguida observa que ela \"não lhe deu filhos robustos nem mofinos\".\n\nAs duas informações do personagem anunciam para o leitor o seguinte tom predominante da narrativa:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "irônico"
+      },
+      {
+        "letter": "B",
+        "text": "trágico"
+      },
+      {
+        "letter": "C",
+        "text": "apelativo"
+      },
+      {
+        "letter": "D",
+        "text": "melancólico"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Bacamarte escolhe a esposa por critérios pretensamente científicos e o resultado desmente por completo a previsão: ela não lhe deu filho algum, nem robusto nem franzino. O narrador registra o fracasso com naturalidade e sem comentário, deixando que o contraste entre a certeza do método e o desfecho fale por si. Esse descompasso entre o que se anuncia e o que ocorre, exposto com aparente neutralidade, é a marca da ironia machadiana, e antecipa o tom com que toda a obra tratará das pretensões da ciência. Não há tragédia (o episódio é banal), apelo ao leitor nem melancolia no registro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q20",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 20,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\nO texto literário recorre com frequência a \"índices\" que anunciam reviravoltas posteriores no enredo, preparando os leitores para o que ainda vai acontecer. O índice que melhor anuncia e prepara o final de \"O alienista\" está presente em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ao cabo daqueles cinco anos, pessoas que levavam o chapéu ao chão, logo que ele assomava no fim da rua, agora batiam-lhe no ombro, (capítulo V)"
+      },
+      {
+        "letter": "B",
+        "text": "D. Evarista era a esperança de Itaguaí; contava-se com ela para minorar o flagelo da Casa Verde. Daí as aclamações públicas, a imensa gente que atulhava as ruas, (capítulo V)"
+      },
+      {
+        "letter": "C",
+        "text": "Nada tenho que ver com a ciência; mas se tantos homens em quem supomos juízo são reclusos por dementes, quem nos afirma que o alienado não é o alienista? (capítulo VI)"
+      },
+      {
+        "letter": "D",
+        "text": "Morra o Dr. Bacamarte! Morra o tirano!, uivaram fora trezentas vozes. Era a rebelião que desembocava na Rua Nova. (capítulo VI)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A novela termina com Bacamarte concluindo que o único desequilibrado de Itaguaí é ele próprio e recolhendo-se sozinho à Casa Verde. A pergunta do capítulo VI - \"quem nos afirma que o alienado não é o alienista?\" - formula essa hipótese muitos capítulos antes, plantando no leitor exatamente a suspeita que o desfecho confirmará. É, portanto, o índice que prepara o final. As alternativas (A) e (B) registram mudanças na relação da vila com o médico e a expectativa em torno de D. Evarista, e (D) anuncia a Revolta dos Canjicas - episódios importantes do enredo, mas que não apontam para o desenlace.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q21",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 21,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\n\"A loucura, objeto dos meus estudos, era até agora uma ilha perdida no oceano da razão; começo a suspeitar que é um continente.\" (capítulo IV)\n\nAo definir o campo de seu objeto de estudos, o alienista recorre à figura de linguagem denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "metáfora"
+      },
+      {
+        "letter": "B",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "C",
+        "text": "paradoxo"
+      },
+      {
+        "letter": "D",
+        "text": "eufemismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Bacamarte não compara explicitamente a loucura a uma ilha - afirma que ela é uma ilha, e depois um continente. Trata-se de identificação direta entre termos de campos diferentes, fundada numa semelhança implícita: a ilha sugere um domínio pequeno e cercado, o continente, uma extensão vastíssima. Essa comparação sem conectivo é a metáfora. A imagem também explicita a virada do personagem, que passa a considerar a loucura a regra, e não a exceção. Não há exagero com fim expressivo (hipérbole), contradição aparente (paradoxo) nem atenuação de termo desagradável (eufemismo).",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q22",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\nAlém de se opor ao cientificismo dogmático do século XIX, \"O alienista\" também põe em xeque práticas de outros grupos da sociedade da época. A narração da revolta dos Canjicas e da postura de seu líder, o barbeiro Porfírio, tem como alvo o grupo dos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "políticos"
+      },
+      {
+        "letter": "B",
+        "text": "soldados"
+      },
+      {
+        "letter": "C",
+        "text": "comerciantes"
+      },
+      {
+        "letter": "D",
+        "text": "trabalhadores"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Porfírio encabeça a revolta em nome do povo de Itaguaí e prometendo o fim da Casa Verde, mas, assim que assume o poder, negocia com Bacamarte, mantém o asilo em funcionamento e trata de garantir sua própria posição. A trajetória caricatura o comportamento político: o discurso em nome do interesse público que se converte, na primeira oportunidade, em acomodação e proveito pessoal. O alvo da sátira é, portanto, o grupo dos políticos. Sua condição de barbeiro é apenas o ponto de partida da personagem, e não o objeto da crítica - militares, comerciantes e trabalhadores não estão em questão no episódio.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q23",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 23,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "AS QUESTÕES 18 A 23 REFEREM-SE À OBRA \"O ALIENISTA\", DE MACHADO DE ASSIS.\n\nEm 1879, Machado de Assis escreve o artigo \"A nova geração\", no qual sustenta a tese de que o Realismo \"não presta para nada\". \"O alienista\" expõe essa mesma tese sob a forma ficcional, já que o personagem Dr. Bacamarte pode ser compreendido, em relação ao Realismo, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "resgate"
+      },
+      {
+        "letter": "B",
+        "text": "exaltação"
+      },
+      {
+        "letter": "C",
+        "text": "caricatura"
+      },
+      {
+        "letter": "D",
+        "text": "divulgação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Bacamarte encarna, levados ao extremo, os pressupostos que Machado atribuía ao Realismo: fé absoluta no método científico, na observação objetiva e na possibilidade de classificar exaustivamente o comportamento humano. Ao aplicá-los sem qualquer limite - até internar meia cidade e, por fim, a si mesmo -, a personagem expõe o absurdo desses princípios pelo exagero. Essa deformação intencional que ridiculariza um modelo é a caricatura, forma ficcional da crítica que o autor fizera em artigo. Resgate, exaltação e divulgação suporiam adesão ao Realismo, e não a recusa que Machado declara.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q24",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 24,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - GRACIAS A LA VIDA (Violeta Parra)\n\nGracias a la vida, que me ha dado tanto\nMe dio dos luceros que cuando los abro\nPerfecto distingo lo negro del blanco\nY en el alto cielo su fondo estrellado\nY en las multitudes el hombre que yo amo\nGracias a la vida, que me ha dado tanto\nMe ha dado el sonido del abecedario\nCon él las palabras que pienso y declaro\nMadre amigo hermano\nY luz alumbrando la ruta del alma del que estoy amando\nGracias a la vida, que me ha dado tanto\nMe ha dado la marcha de mis pies cansados\nCon ellos anduve ciudades y charcos\nPlayas y desiertos, montañas y llanos\nY la casa tuya, tu calle y tu patio\nGracias a la vida, que me ha dado tanto\nMe dio el corazón que agita su marco\nCuando miro el fruto del cerebro humano\nCuando miro el bueno tan lejos del malo\nCuando miro el fondo de tus ojos claros\nGracias a la vida, que me ha dado tanto\nMe ha dado la risa y me ha dado el llanto\nAsí yo distingo dicha de quebranto\nLos dos materiales que forman mi canto\nY el canto de ustedes que es el mismo canto\nY el canto de todos que es mi propio canto\nGracias a la vida, gracias a la vida\nGracias a la vida, gracias a la vida\n\nVIOLETA PARRA. letras.mus.br\n(versos numerados de 1 a 28, na ordem acima)\n\nLa canción \"Gracias a la vida\" podría usarse para introducir la clase \"O tempo em nossas vidas\" sugerida en el texto \"Física para poetas\". El fragmento de la letra de esa canción que mejor se aplica para esa clase es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Gracias a la vida, que me ha dado tanto (v. 1)"
+      },
+      {
+        "letter": "B",
+        "text": "Y en el alto cielo su fondo estrellado (v. 4)"
+      },
+      {
+        "letter": "C",
+        "text": "Playas y desiertos, montañas y llanos (v. 14)"
+      },
+      {
+        "letter": "D",
+        "text": "Y la casa tuya, tu calle y tu patio (v. 15)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O verso-refrão faz um balanço de tudo o que a vida deu ao eu lírico ao longo dos anos - a visão, a palavra, o caminhar, o coração, o riso e o pranto. Trata-se de um olhar retrospectivo sobre a própria existência, isto é, sobre a passagem do tempo em uma vida, exatamente o tema da aula \"O tempo em nossas vidas\". Os demais versos descrevem o espaço: o céu estrelado (v. 4), as paisagens percorridas (v. 14) e os lugares do outro (v. 15) - dimensão espacial, e não temporal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q25",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 25,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - GRACIAS A LA VIDA (Violeta Parra)\n\nGracias a la vida, que me ha dado tanto\nMe dio dos luceros que cuando los abro\nPerfecto distingo lo negro del blanco\nY en el alto cielo su fondo estrellado\nY en las multitudes el hombre que yo amo\nGracias a la vida, que me ha dado tanto\nMe ha dado el sonido del abecedario\nCon él las palabras que pienso y declaro\nMadre amigo hermano\nY luz alumbrando la ruta del alma del que estoy amando\nGracias a la vida, que me ha dado tanto\nMe ha dado la marcha de mis pies cansados\nCon ellos anduve ciudades y charcos\nPlayas y desiertos, montañas y llanos\nY la casa tuya, tu calle y tu patio\nGracias a la vida, que me ha dado tanto\nMe dio el corazón que agita su marco\nCuando miro el fruto del cerebro humano\nCuando miro el bueno tan lejos del malo\nCuando miro el fondo de tus ojos claros\nGracias a la vida, que me ha dado tanto\nMe ha dado la risa y me ha dado el llanto\nAsí yo distingo dicha de quebranto\nLos dos materiales que forman mi canto\nY el canto de ustedes que es el mismo canto\nY el canto de todos que es mi propio canto\nGracias a la vida, gracias a la vida\nGracias a la vida, gracias a la vida\n\nVIOLETA PARRA. letras.mus.br\n(versos numerados de 1 a 28, na ordem acima)\n\n\"Me dio dos luceros que cuando los abro\" (v. 2)\n\nEn el verso destacado, para referirse a los ojos que se abren para ver el mundo, se emplea la siguiente figura de lenguaje:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "personificación"
+      },
+      {
+        "letter": "B",
+        "text": "eufemismo"
+      },
+      {
+        "letter": "C",
+        "text": "metáfora"
+      },
+      {
+        "letter": "D",
+        "text": "ironía"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O eu lírico chama os olhos de \"luceros\", isto é, astros luminosos. A substituição se apoia numa semelhança implícita - o brilho e a luz que ambos evocam -, sem uso de conectivo comparativo. Comparação implícita fundada em semelhança é a definição de metáfora. Não há personificação, pois não se atribui comportamento humano a algo inanimado; não há eufemismo, pois nada de desagradável é atenuado; e não há ironia, já que o sentido pretendido coincide com o expresso.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q26",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 26,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - GRACIAS A LA VIDA (Violeta Parra)\n\nGracias a la vida, que me ha dado tanto\nMe dio dos luceros que cuando los abro\nPerfecto distingo lo negro del blanco\nY en el alto cielo su fondo estrellado\nY en las multitudes el hombre que yo amo\nGracias a la vida, que me ha dado tanto\nMe ha dado el sonido del abecedario\nCon él las palabras que pienso y declaro\nMadre amigo hermano\nY luz alumbrando la ruta del alma del que estoy amando\nGracias a la vida, que me ha dado tanto\nMe ha dado la marcha de mis pies cansados\nCon ellos anduve ciudades y charcos\nPlayas y desiertos, montañas y llanos\nY la casa tuya, tu calle y tu patio\nGracias a la vida, que me ha dado tanto\nMe dio el corazón que agita su marco\nCuando miro el fruto del cerebro humano\nCuando miro el bueno tan lejos del malo\nCuando miro el fondo de tus ojos claros\nGracias a la vida, que me ha dado tanto\nMe ha dado la risa y me ha dado el llanto\nAsí yo distingo dicha de quebranto\nLos dos materiales que forman mi canto\nY el canto de ustedes que es el mismo canto\nY el canto de todos que es mi propio canto\nGracias a la vida, gracias a la vida\nGracias a la vida, gracias a la vida\n\nVIOLETA PARRA. letras.mus.br\n(versos numerados de 1 a 28, na ordem acima)\n\n\"Perfecto distingo lo negro del blanco\" (v. 3)\n\nAsí como en el verso arriba, una relación de antítesis se establece en:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Y en las multitudes el hombre que yo amo (v. 5)"
+      },
+      {
+        "letter": "B",
+        "text": "Y luz alumbrando la ruta del alma del que estoy amando (v. 10)"
+      },
+      {
+        "letter": "C",
+        "text": "Cuando miro el fruto del cerebro humano (v. 18)"
+      },
+      {
+        "letter": "D",
+        "text": "Me ha dado la risa y me ha dado el llanto (v. 22)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Antítese é a aproximação de termos de sentido oposto na mesma construção. No verso 3, \"lo negro\" e \"lo blanco\" formam esse par; no verso 22, \"la risa\" e \"el llanto\" repetem exatamente a mesma estrutura, opondo alegria e sofrimento em construção paralela. Os versos 5, 10 e 18 não contrapõem termos: apresentam, respectivamente, o amado em meio à multidão, a luz que ilumina o caminho e a contemplação do engenho humano.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q27",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 27,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - GRACIAS A LA VIDA (Violeta Parra)\n\nGracias a la vida, que me ha dado tanto\nMe dio dos luceros que cuando los abro\nPerfecto distingo lo negro del blanco\nY en el alto cielo su fondo estrellado\nY en las multitudes el hombre que yo amo\nGracias a la vida, que me ha dado tanto\nMe ha dado el sonido del abecedario\nCon él las palabras que pienso y declaro\nMadre amigo hermano\nY luz alumbrando la ruta del alma del que estoy amando\nGracias a la vida, que me ha dado tanto\nMe ha dado la marcha de mis pies cansados\nCon ellos anduve ciudades y charcos\nPlayas y desiertos, montañas y llanos\nY la casa tuya, tu calle y tu patio\nGracias a la vida, que me ha dado tanto\nMe dio el corazón que agita su marco\nCuando miro el fruto del cerebro humano\nCuando miro el bueno tan lejos del malo\nCuando miro el fondo de tus ojos claros\nGracias a la vida, que me ha dado tanto\nMe ha dado la risa y me ha dado el llanto\nAsí yo distingo dicha de quebranto\nLos dos materiales que forman mi canto\nY el canto de ustedes que es el mismo canto\nY el canto de todos que es mi propio canto\nGracias a la vida, gracias a la vida\nGracias a la vida, gracias a la vida\n\nVIOLETA PARRA. letras.mus.br\n(versos numerados de 1 a 28, na ordem acima)\n\n\"Me dio el corazón que agita su marco\" (v. 17)\n\nLa forma verbal subrayada se refiere a una acción que se puede describir como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "en desarrollo"
+      },
+      {
+        "letter": "B",
+        "text": "ya completada"
+      },
+      {
+        "letter": "C",
+        "text": "siempre repetida"
+      },
+      {
+        "letter": "D",
+        "text": "acabó de empezar"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "\"Dio\" é a terceira pessoa do pretérito perfeito simples (pretérito indefinido) de \"dar\". Esse tempo apresenta a ação como um fato pontual, inteiramente ocorrido e encerrado no passado, sem prolongamento até o presente: a vida deu o coração, e a doação está concluída. Uma ação em curso pediria o gerúndio ou o presente; uma ação repetida, o pretérito imperfeito; e uma ação recém-iniciada, uma perífrase como \"acaba de dar\".",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q28",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 28,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - GRACIAS A LA VIDA (Violeta Parra)\n\nGracias a la vida, que me ha dado tanto\nMe dio dos luceros que cuando los abro\nPerfecto distingo lo negro del blanco\nY en el alto cielo su fondo estrellado\nY en las multitudes el hombre que yo amo\nGracias a la vida, que me ha dado tanto\nMe ha dado el sonido del abecedario\nCon él las palabras que pienso y declaro\nMadre amigo hermano\nY luz alumbrando la ruta del alma del que estoy amando\nGracias a la vida, que me ha dado tanto\nMe ha dado la marcha de mis pies cansados\nCon ellos anduve ciudades y charcos\nPlayas y desiertos, montañas y llanos\nY la casa tuya, tu calle y tu patio\nGracias a la vida, que me ha dado tanto\nMe dio el corazón que agita su marco\nCuando miro el fruto del cerebro humano\nCuando miro el bueno tan lejos del malo\nCuando miro el fondo de tus ojos claros\nGracias a la vida, que me ha dado tanto\nMe ha dado la risa y me ha dado el llanto\nAsí yo distingo dicha de quebranto\nLos dos materiales que forman mi canto\nY el canto de ustedes que es el mismo canto\nY el canto de todos que es mi propio canto\nGracias a la vida, gracias a la vida\nGracias a la vida, gracias a la vida\n\nVIOLETA PARRA. letras.mus.br\n(versos numerados de 1 a 28, na ordem acima)\n\nUn verso que evidencia que la autora comparte las experiencias ajenas es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Con él las palabras que pienso y declaro (v. 8)"
+      },
+      {
+        "letter": "B",
+        "text": "Con ellos anduve ciudades y charcos (v. 13)"
+      },
+      {
+        "letter": "C",
+        "text": "Los dos materiales que forman mi canto (v. 24)"
+      },
+      {
+        "letter": "D",
+        "text": "Y el canto de todos que es mi propio canto (v. 26)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O verso 26 funde explicitamente o coletivo e o individual: o canto de todos é também o canto próprio da autora. A identificação entre a experiência alheia e a sua é justamente o que o enunciado pede. Os versos 8, 13 e 24 permanecem no âmbito pessoal - as palavras que ela pensa e declara, as cidades que ela andou, os materiais que formam o seu canto -, todos em primeira pessoa do singular e sem referência aos outros.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q29",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Observe a projeção para 2020 dos maiores produtores de petróleo, em milhões de barris/dia:\n\n| País | 2011 | 2020 |\n|---|---|---|\n| Arábia Saudita | 12,3 | 13,2 |\n| E.U.A. | 8,1 | 11,6 |\n| Rússia | 10,2 | 10,6 |\n| Iraque | 2,5 | 7,6 |\n| Canadá | 3,3 | 5,5 |\n| Brasil | 2,0 | 4,5 |\n| China | 4,1 | 4,5 |\n| Irã | 3,8 | 3,4 |\n| Kuwait | 3,0 | 3,4 |\n\nAdaptado de fernandonogueiradacosta.wordpress.com.\n\nDe acordo com a projeção apresentada na tabela, no período de 2011 a 2020, o país com maior aumento percentual na produção de petróleo seria o Iraque. O segundo país com maior aumento percentual seria:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "E.U.A."
+      },
+      {
+        "letter": "B",
+        "text": "Brasil"
+      },
+      {
+        "letter": "C",
+        "text": "Canadá"
+      },
+      {
+        "letter": "D",
+        "text": "Arábia Saudita"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O aumento percentual é dado por (valor de 2020 - valor de 2011)/valor de 2011. Calculando para os candidatos: Brasil, (4,5 - 2,0)/2,0 = 1,25, ou 125%; Canadá, (5,5 - 3,3)/3,3 ≈ 0,667, ou 66,7%; E.U.A., (11,6 - 8,1)/8,1 ≈ 0,432, ou 43,2%; Arábia Saudita, (13,2 - 12,3)/12,3 ≈ 0,073, ou 7,3%. O Iraque lidera com (7,6 - 2,5)/2,5 = 204%, como diz o enunciado, e o Brasil vem em segundo lugar. Note que o critério é percentual, não absoluto: os E.U.A. tiveram o maior aumento em número de barris (3,5 milhões), mas partindo de uma base muito maior.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q30",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 30,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Três circunferências, de raios 1, 2 e 3, são tangentes duas a duas. Sejam A, B e C seus centros, com raios 1, 2 e 3 respectivamente. Considere M o ponto de tangência entre as circunferências de raios 3 e 2, e N o ponto de tangência entre as circunferências de raios 3 e 1.\n\nO comprimento do segmento de reta MN é igual à raiz quadrada de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,6"
+      },
+      {
+        "letter": "B",
+        "text": "3,8"
+      },
+      {
+        "letter": "C",
+        "text": "4,2"
+      },
+      {
+        "letter": "D",
+        "text": "4,4"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Como as circunferências são tangentes externamente, a distância entre dois centros é a soma dos raios: AB = 1 + 2 = 3, AC = 1 + 3 = 4 e BC = 2 + 3 = 5. Os pontos M e N estão sobre os segmentos CB e CA, ambos a uma distância 3 do centro C, pois pertencem à circunferência de raio 3. No triângulo ACB, a lei dos cossenos dá o ângulo em C: cos C = (CA² + CB² - AB²)/(2 · CA · CB) = (16 + 25 - 9)/(2 · 4 · 5) = 32/40 = 0,8. Aplicando novamente a lei dos cossenos ao triângulo MCN, com CM = CN = 3: MN² = 3² + 3² - 2 · 3 · 3 · 0,8 = 18 - 14,4 = 3,6. Logo, MN = √3,6.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q31",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 31,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "No plano cartesiano, está representada a circunferência de centro P = (3, 4) e raio 2.\n\nO ponto Q da circunferência, que é o mais distante da origem, tem coordenadas iguais a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "(21/5, 28/5)"
+      },
+      {
+        "letter": "B",
+        "text": "(31/5, 26/5)"
+      },
+      {
+        "letter": "C",
+        "text": "(33/5, 29/5)"
+      },
+      {
+        "letter": "D",
+        "text": "(36/5, 37/5)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O ponto mais distante da origem está sobre a semirreta que parte de O, passa por P e segue além dele. A distância de O a P é √(3² + 4²) = 5, de modo que o versor na direção de OP é (3/5, 4/5). Caminhando mais 2 unidades (o raio) nessa direção a partir de P: Q = (3, 4) + 2 · (3/5, 4/5) = (3 + 6/5, 4 + 8/5) = (21/5, 28/5). Confere-se o resultado notando que a distância de Q à origem é 5 + 2 = 7, e de fato √((21/5)² + (28/5)²) = √(441 + 784)/5 = 35/5 = 7.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q32",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "A população de uma espécie animal fica multiplicada pelo mesmo fator após intervalos de tempo iguais. No período de 1984 a 1996, essa população passou de 12500 para 25000 indivíduos. Considere que, para o mesmo intervalo de tempo nos anos seguintes, o fator permanece constante.\n\nO número de indivíduos dessa população em 2032 será aproximadamente igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100000"
+      },
+      {
+        "letter": "B",
+        "text": "120000"
+      },
+      {
+        "letter": "C",
+        "text": "160000"
+      },
+      {
+        "letter": "D",
+        "text": "200000"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Entre 1984 e 1996 passaram-se 12 anos e a população dobrou (12500 para 25000), de modo que o fator é 2 a cada período de 12 anos. De 1996 a 2032 há 36 anos, ou seja, 3 períodos completos. A população, portanto, dobra três vezes: 25000 → 50000 (2008) → 100000 (2020) → 200000 (2032).",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q33",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 33,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um menino vai retirar ao acaso um único cartão de um conjunto de sete cartões. Em cada um deles está escrito apenas um dia da semana, sem repetições: segunda, terça, quarta, quinta, sexta, sábado, domingo. O menino gostaria de retirar sábado ou domingo.\n\nA probabilidade de ocorrência de uma das preferências do menino é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/49"
+      },
+      {
+        "letter": "B",
+        "text": "2/49"
+      },
+      {
+        "letter": "C",
+        "text": "1/7"
+      },
+      {
+        "letter": "D",
+        "text": "2/7"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "São 7 cartões igualmente prováveis, e 2 deles satisfazem o desejo do menino (sábado e domingo). Como os eventos são mutuamente exclusivos - só um cartão é retirado -, as probabilidades se somam: 1/7 + 1/7 = 2/7. As alternativas com denominador 49 corresponderiam a duas retiradas independentes, o que não é o caso, pois há apenas um sorteio.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q34",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 34,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Considere uma pirâmide de base quadrada, seccionada por dois planos paralelos à base, um contendo o ponto A e o outro o ponto B. Esses planos dividem cada aresta lateral em três partes iguais.\n\nConsidere as seguintes medidas da pirâmide:\n• altura = 9 cm;\n• aresta da base = 6 cm;\n• volume total = 108 cm³.\n\nO volume da região compreendida entre os planos paralelos, em cm³, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "26"
+      },
+      {
+        "letter": "B",
+        "text": "24"
+      },
+      {
+        "letter": "C",
+        "text": "28"
+      },
+      {
+        "letter": "D",
+        "text": "30"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cada plano paralelo à base determina, com o vértice, uma pirâmide semelhante à original. O plano mais próximo do vértice corta as arestas em 1/3, gerando razão de semelhança k = 1/3; o outro corta em 2/3, com k = 2/3. Como os volumes de sólidos semelhantes variam com o cubo da razão, a pirâmide menor tem volume 108 × (1/3)³ = 108/27 = 4 cm³, e a intermediária, 108 × (2/3)³ = 108 × 8/27 = 32 cm³. A região entre os dois planos é a diferença entre esses sólidos: 32 - 4 = 28 cm³.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q35",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 35,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Na produção industrial dos comercialmente chamados leites \"sem lactose\", o leite integral é aquecido a altas temperaturas. Após o resfriamento, adiciona-se ao leite a enzima lactase. Com esse processo, o produto gera menos desconforto aos intolerantes à lactose, que é o carboidrato presente no leite integral.\n\nNa fabricação do produto, descrita no texto, aguardar o resfriamento do leite tem a finalidade de evitar o seguinte processo em relação à lactase:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ativação"
+      },
+      {
+        "letter": "B",
+        "text": "maturação"
+      },
+      {
+        "letter": "C",
+        "text": "desnaturação"
+      },
+      {
+        "letter": "D",
+        "text": "hidrogenação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A lactase é uma proteína, e sua atividade catalítica depende inteiramente da estrutura tridimensional da molécula, mantida por ligações fracas sensíveis ao calor. Acrescentada ao leite ainda quente, ela sofreria desnaturação: as ligações se romperiam, a conformação se desfaria e o sítio ativo deixaria de reconhecer a lactose, tornando a enzima inútil. Por isso se aguarda o resfriamento. A ativação seria desejável, não algo a evitar; maturação não se aplica a enzimas; e hidrogenação é uma reação de adição de hidrogênio, típica do processamento de óleos, sem relação com o calor aqui descrito.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q36",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 36,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Na produção industrial dos leites \"sem lactose\", a lactose é hidrolisada no leite, formando dois carboidratos, conforme a equação química:\n\nlactose + água → glicose + galactose\n\nSe apenas os carboidratos forem considerados, o valor calórico de 1 litro tanto do leite integral quanto do leite \"sem lactose\" é igual a -90 kcal, que corresponde à entalpia-padrão de combustão de 1 mol de lactose.\n\nAssumindo que as entalpias-padrão de combustão da glicose e da galactose são iguais, a entalpia de combustão da glicose, em kcal/mol, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "-45"
+      },
+      {
+        "letter": "B",
+        "text": "-60"
+      },
+      {
+        "letter": "C",
+        "text": "-120"
+      },
+      {
+        "letter": "D",
+        "text": "-180"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A hidrólise de 1 mol de lactose produz 1 mol de glicose e 1 mol de galactose. Como o valor calórico total permanece o mesmo nos dois leites (-90 kcal), a energia liberada na combustão do par glicose + galactose deve igualar a da lactose: ΔH(glicose) + ΔH(galactose) = -90 kcal. Sendo as duas entalpias iguais por hipótese, cada uma vale -90/2 = -45 kcal/mol.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q38",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 38,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Considere um campo elétrico uniforme estabelecido entre duas placas paralelas carregadas, uma positiva e outra negativa. Os pontos I, II, III e IV estão alinhados na região entre as placas, sendo I o mais próximo da placa positiva e IV o mais próximo da placa negativa.\n\nUma partícula de massa desprezível e carga positiva adquire a maior energia potencial elétrica possível se for colocada no ponto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A energia potencial elétrica de uma carga vale E = q · V, onde V é o potencial no ponto. Como a carga é positiva, a energia é máxima onde o potencial é maior, e o potencial cresce em direção à placa positiva. O ponto I, mais próximo dela, é portanto o de maior energia potencial. A leitura se confirma pelo raciocínio físico: uma carga positiva é repelida pela placa positiva, de modo que colocá-la ali exige o maior trabalho externo, trabalho que fica armazenado como energia potencial - a partir de I ela seria acelerada espontaneamente rumo à placa negativa, convertendo essa energia em cinética.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q39",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 39,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Considere as informações a seguir sobre a perfluorodecalina, substância utilizada no preparo de sangue artificial.\n\nFórmula mínima: C5F9.\nMassa molar: 462 g/mol.\n\nSua fórmula molecular é representada por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C25F45"
+      },
+      {
+        "letter": "B",
+        "text": "C20F36"
+      },
+      {
+        "letter": "C",
+        "text": "C15F27"
+      },
+      {
+        "letter": "D",
+        "text": "C10F18"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A massa da unidade da fórmula mínima C5F9 é 5 × 12 + 9 × 19 = 60 + 171 = 231 g/mol. Dividindo a massa molar pela massa da fórmula mínima obtém-se quantas vezes ela se repete: 462/231 = 2. Multiplicando os índices por 2: C10F18. As demais alternativas correspondem a multiplicadores 5, 4 e 3, que levariam a massas molares de 1155, 924 e 693 g/mol, todas incompatíveis com o dado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q40",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 40,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Durante a gestação humana, observa-se o aparecimento de anexos embrionários que desempenham funções importantes para o desenvolvimento do feto. Uma dessas estruturas é o saco vitelínico.\n\nA presença do saco vitelínico evidencia a descendência humana a partir do seguinte tipo de ancestrais:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "amoniotélicos"
+      },
+      {
+        "letter": "B",
+        "text": "celomados"
+      },
+      {
+        "letter": "C",
+        "text": "aquáticos"
+      },
+      {
+        "letter": "D",
+        "text": "ovíparos"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O saco vitelínico é a estrutura que, nos animais que põem ovos, armazena o vitelo - a reserva nutritiva que alimenta o embrião durante seu desenvolvimento fora do corpo materno. No ser humano ele persiste, mas praticamente sem vitelo e sem essa função, já que a nutrição do feto passou a ser feita pela placenta. Trata-se de uma estrutura vestigial, herdada de ancestrais ovíparos. Excreção de amônia, presença de celoma e vida aquática são características de grupos muito mais amplos e não se relacionam especificamente com essa estrutura.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q44",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 44,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Em determinados casos, populações de consumidores terciários são menores do que as populações de consumidores primários e secundários. Considere uma cadeia alimentar formada por trevo (produtor), caramujo (consumidor primário), tordo (consumidor secundário) e falcão (consumidor terciário).\n\nA população de falcões é reduzida em comparação com a de tordos e a de caramujos em função do seguinte fator:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "perda energética ao longo dos níveis tróficos"
+      },
+      {
+        "letter": "B",
+        "text": "demanda elevada de vegetais pelos herbívoros"
+      },
+      {
+        "letter": "C",
+        "text": "digestão lenta de celulose pelos decompositores"
+      },
+      {
+        "letter": "D",
+        "text": "competição interna por recursos entre os predadores"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na transferência de um nível trófico para o seguinte, apenas cerca de 10% da energia é incorporada à biomassa do consumidor; o restante se dissipa como calor na respiração celular ou não chega a ser assimilado. Assim, a energia disponível diminui drasticamente a cada elo, e os níveis mais altos só conseguem sustentar populações progressivamente menores. Os falcões, no topo da cadeia, são os mais afetados. A demanda de vegetais pelos herbívoros e a ação dos decompositores não explicam a redução ao longo dos níveis, e a competição entre predadores é consequência da escassez de energia, não sua causa.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q45",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 45,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "CANUDINHOS DE PLÁSTICO ESTÃO COM OS DIAS CONTADOS NO RIO DE JANEIRO\n\nA Câmara de Vereadores aprovou projeto de lei que obriga os estabelecimentos da cidade a usarem canudinhos de papel biodegradável ou de material reutilizável, como metais e vidro borossilicato.\nAdaptado de g1.globo.com, 08/06/2018.\n\nA tabela abaixo apresenta a composição química de uma amostra de 500 g de vidro borossilicato:\n\n| Componente | Porcentagem em massa (%) |\n|---|---|\n| SiO2 | 81 |\n| B2O3 | 13 |\n| Na2O | 4 |\n| Al2O3 | 2 |\n\nA massa, em gramas, do óxido básico presente nessa amostra é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "85"
+      },
+      {
+        "letter": "B",
+        "text": "65"
+      },
+      {
+        "letter": "C",
+        "text": "20"
+      },
+      {
+        "letter": "D",
+        "text": "10"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Primeiro é preciso identificar o óxido básico. SiO2 e B2O3 são óxidos ácidos, formados por não metais; Al2O3 é anfótero, pois o alumínio se comporta ora como ácido, ora como base. O único óxido básico é o Na2O, formado por um metal alcalino, que reage com água produzindo a base forte NaOH. Sua fração na amostra é 4%: 0,04 × 500 = 20 g.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q46",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 46,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um canudo de plástico e outro de vidro borossilicato possuem mesmo volume e densidades de 0,90 g/cm³ e 2,25 g/cm³, respectivamente.\n\nA razão entre as massas do canudo de plástico e do canudo de vidro corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,2"
+      },
+      {
+        "letter": "B",
+        "text": "0,8"
+      },
+      {
+        "letter": "C",
+        "text": "0,4"
+      },
+      {
+        "letter": "D",
+        "text": "0,2"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como m = d · V e o volume é o mesmo para os dois canudos, a razão entre as massas é igual à razão entre as densidades: m(plástico)/m(vidro) = d(plástico)/d(vidro) = 0,90/2,25 = 0,4. O resultado é coerente com o fato de o plástico ser bem menos denso que o vidro, e por isso o canudo plástico tem menos da metade da massa do de vidro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q47",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 47,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "TRATADO DE VERSALHES (1919)\n\nPARTE VII - Sanções\nArtigo 227: As Potências aliadas ou associadas acusam publicamente a Guilherme II de Hohenzollern, ex-Imperador da Alemanha, por ofensa suprema contra a moral internacional e a autoridade sagrada dos Tratados.\n\nPARTE VIII - Reparações\nArtigo 231: Os Governos aliados e associados declaram e a Alemanha reconhece que ela e seus aliados são responsáveis por haver causado todas as perdas e todos os prejuízos que sofreram os Governos aliados e associados e seus cidadãos, como consequência da guerra que foi imposta pela agressão da Alemanha e de seus aliados.\n\nO Tratado de Versalhes foi elaborado no contexto das negociações de paz após o fim da Primeira Guerra Mundial (1914-1918). A partir do texto, observa-se que no tratado foram instituídas cláusulas para o governo alemão com base no seguinte princípio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "belicismo"
+      },
+      {
+        "letter": "B",
+        "text": "revanchismo"
+      },
+      {
+        "letter": "C",
+        "text": "integracionismo"
+      },
+      {
+        "letter": "D",
+        "text": "colaboracionismo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois artigos citados não organizam a paz: punem. O artigo 227 acusa publicamente o ex-imperador, e o artigo 231 - a chamada \"cláusula de culpa de guerra\" - obriga a Alemanha a reconhecer-se responsável por todas as perdas do conflito, fundamento jurídico das reparações impostas. Os vencedores tratam o vencido como culpado único, a ser castigado e humilhado: é o revanchismo, cujo ressentimento alimentaria a ascensão do nazismo nas décadas seguintes. Belicismo seria a defesa da guerra em si, e integracionismo e colaboracionismo pressuporiam aproximação entre as partes, o contrário do que os artigos estabelecem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q48",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 48,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "BRASIL NÃO CRESCE SE NÃO REDUZIR SUA DESIGUALDADE\n\nO Brasil não voltará a crescer de forma sustentável enquanto não reduzir sua desigualdade e a extrema concentração da renda no topo da pirâmide social, diz o economista francês Thomas Piketty. Autor do livro O capital no século XXI, no qual apontou um aumento da concentração no topo da pirâmide social nos Estados Unidos e na Europa, Piketty agora se dedica a um grupo de pesquisas que investiga o que ocorreu em países em desenvolvimento como o Brasil, a China e a Índia.\nAdaptado de folha.uol.com.br, 28/09/2017.\n\nPara Thomas Piketty, a situação de desigualdade referida no texto dificulta o crescimento econômico nacional. Tendo em vista a lógica do modo de produção capitalista, um motivo que explica essa dificuldade é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação da insegurança jurídica"
+      },
+      {
+        "letter": "B",
+        "text": "restrição do mercado consumidor"
+      },
+      {
+        "letter": "C",
+        "text": "intensificação do processo inflacionário"
+      },
+      {
+        "letter": "D",
+        "text": "limitação da criatividade empreendedora"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O capitalismo depende da realização da mercadoria: não basta produzir, é preciso vender. Quando a renda se concentra no topo, a maioria da população fica sem poder de compra, enquanto os mais ricos, que já têm suas necessidades atendidas, destinam boa parte do que recebem à poupança e a aplicações financeiras, e não ao consumo. O resultado é um mercado consumidor interno estreito, que desestimula o investimento produtivo e trava o crescimento. Insegurança jurídica, inflação e falta de empreendedorismo não decorrem necessariamente da concentração de renda nem explicam o mecanismo apontado por Piketty.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q50",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A cidade dos sonhos do arquiteto Le Corbusier teve enorme impacto em nossas cidades. Ele procurou fazer do planejamento para automóveis um elemento essencial do seu projeto. Traçou grandes artérias de mão única para trânsito expresso. Reduziu o número de ruas porque \"os cruzamentos são inimigos do tráfego\". Manteve os pedestres fora das ruas e dentro dos parques. Essa visão deu enorme impulso aos defensores do zoneamento urbano e dos conceitos de superquadra. Não importava quão vulgar ou acanhado fosse o projeto, quão árido ou inútil o espaço, quão monótona fosse a vista, a imitação de Le Corbusier gritava: \"Olhem o que eu fiz!\".\n\nAdaptado de JACOBS, J. Morte e vida de grandes cidades. São Paulo: Martins Fontes, 2000.\n\nO texto expressa a crítica de Jane Jacobs a um modelo urbanístico importante ao longo do século XX. A escritora defendia a mistura de usos no espaço urbano de forma a valorizá-lo e a fortalecer o convívio. A cidade que apresenta o predomínio do padrão urbano criticado por Jane Jacobs é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Brasília"
+      },
+      {
+        "letter": "B",
+        "text": "Curitiba"
+      },
+      {
+        "letter": "C",
+        "text": "São Paulo"
+      },
+      {
+        "letter": "D",
+        "text": "Belo Horizonte"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Brasília é a realização mais completa dos princípios modernistas descritos no texto. Projetada por Lúcio Costa e Oscar Niemeyer sob influência direta de Le Corbusier e da Carta de Atenas, a cidade adota exatamente os elementos que Jacobs critica: separação rígida de funções por setores (bancário, hoteleiro, comercial, residencial), superquadras, grandes eixos viários pensados para o automóvel e escassez de cruzamentos e de ruas comerciais tradicionais. É o oposto da mistura de usos que a autora defendia. Curitiba, São Paulo e Belo Horizonte, embora tenham sofrido intervenções urbanísticas relevantes, não foram inteiramente concebidas segundo esse modelo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q52",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 52,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "No início da noite de 26 de janeiro de 1893, por ordem do prefeito do Distrito Federal, Cândido Barata Ribeiro, a polícia ocupou o mais célebre dos cortiços cariocas, conhecido como Cabeça de Porco, no centro da cidade. A estalagem, conjunto de casinhas onde viviam de 400 a 2 000 pessoas, foi em seguida desocupada, sem que se desse aos moradores o tempo necessário para recolherem suas coisas. Em poucas horas, foi demolida. Não tardou para que a expressão \"cabeça de porco\" se impusesse como sinônimo de cortiço.\n\nAdaptado de projetomemoria.art.br.\n\nA ordem de desocupação e demolição do famoso cortiço em 1893, ironizada em capa de revista da época, representou mudanças na ação do então prefeito com relação aos problemas sociais da cidade do Rio de Janeiro. Um desses problemas sociais e o objetivo dessa demolição estão indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "déficit escolar - planificação da expansão urbana"
+      },
+      {
+        "letter": "B",
+        "text": "fluxo migratório - integração de novos logradouros"
+      },
+      {
+        "letter": "C",
+        "text": "criminalidade elevada - reordenação da ação repressora"
+      },
+      {
+        "letter": "D",
+        "text": "crescimento demográfico - erradicação de habitações populares"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Rio de Janeiro do fim do século XIX crescia aceleradamente com a chegada de ex-escravizados após a Abolição e de imigrantes, e a população pobre se concentrava em cortiços no centro, próximos ao trabalho. O Cabeça de Porco abrigava sozinho entre 400 e 2 000 pessoas - dimensão que evidencia o problema demográfico e habitacional. A resposta do poder público não foi criar moradia, mas destruir a existente: a demolição inaugura a política de erradicação das habitações populares do centro, que culminaria nas reformas de Pereira Passos e no deslocamento dessa população para os morros. As demais alternativas apontam problemas ou objetivos que não correspondem ao episódio narrado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q53",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 53,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "PREÂMBULO DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (1988)\n\nNós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte Constituição da República Federativa do Brasil.\nplanalto.gov.br\n\nA Constituição brasileira vigente promoveu mudanças que visam a assegurar o exercício dos direitos sociais e individuais, como menciona seu preâmbulo. A premissa de garantir e valorizar esses direitos está relacionada ao seguinte aspecto naquela conjuntura do país:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atendimento de pressões externas pela abertura do regime"
+      },
+      {
+        "letter": "B",
+        "text": "aumento do extremismo ideológico pelos partidos políticos"
+      },
+      {
+        "letter": "C",
+        "text": "crise da economia nacional causada pela escalada da inflação"
+      },
+      {
+        "letter": "D",
+        "text": "crítica da repressão política instituída pelos governos autoritários"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Constituição de 1988 foi promulgada logo após vinte e um anos de ditadura militar, período marcado por censura, prisões arbitrárias, tortura e supressão de direitos. É contra essa experiência que o preâmbulo se define, ao instituir um \"Estado Democrático\" e elencar a liberdade, a segurança e a justiça como valores supremos de uma sociedade \"pluralista e sem preconceitos\". A ênfase nos direitos individuais e sociais responde diretamente à crítica da repressão dos governos autoritários - daí o apelido de \"Constituição Cidadã\". A abertura foi conduzida sobretudo por pressões internas, e nem o extremismo partidário nem a inflação, ainda que presentes na conjuntura, explicam a centralidade dos direitos no texto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q54",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Considere dois mapas do Oriente Médio. O MAPA 1 - \"Oriente Médio das minorias\" - apresenta um cenário hipotético no qual as reivindicações de autodeterminação das principais minorias fossem atendidas, com territórios como Curdistão, Estado Árabe Xiita, Iraque Sunita, Grande Líbano, Grande Jordânia, Baluquistão e Territórios Saudistas Sagrados. O MAPA 2 - \"Oriente Médio atual\" - mostra a divisão política vigente, com Estados como Iraque, Síria, Arábia Saudita, Jordânia, Líbano, Kuwait e Catar.\n\nAdaptado de libertesinternets.wordpress.com.\n\nA principal explicação para as diferenças entre os dois mapas, no que se refere à configuração territorial, está indicada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "predomínio numérico da etnia árabe"
+      },
+      {
+        "letter": "B",
+        "text": "ação intervencionista do governo estadunidense"
+      },
+      {
+        "letter": "C",
+        "text": "interferência histórica do imperialismo europeu"
+      },
+      {
+        "letter": "D",
+        "text": "homogeneidade religiosa da população regional"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As fronteiras atuais do Oriente Médio foram traçadas por França e Reino Unido após a Primeira Guerra Mundial, com a desagregação do Império Otomano - processo iniciado no acordo Sykes-Picot (1916) e consolidado pelos mandatos da Liga das Nações. Os limites atenderam aos interesses das potências europeias, seguindo linhas geométricas e áreas de influência, e ignoraram deliberadamente a distribuição de povos, etnias e vertentes religiosas. Daí o descompasso entre os dois mapas: minorias como os curdos ficaram repartidas entre quatro países, e grupos rivais foram reunidos sob um mesmo Estado, o que ajuda a explicar os conflitos posteriores. A intervenção estadunidense é bem mais recente e não redesenhou essas fronteiras, e as alternativas (A) e (D) contrariam a diversidade étnica e religiosa que o Mapa 1 justamente evidencia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q55",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 55,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "O álbum de músicas Tropicália ou Panis et circensis foi lançado em 1968. A fotografia que estampou sua capa foi realizada na casa de Oliver Perroy, fotógrafo da Editora Abril, em São Paulo. Cada um levou seus apetrechos, até um penico, comicamente usado por Rogério Duprat como se fosse uma xícara. A imagem ficou tão famosa que se tornou uma espécie de cartão-postal do movimento tropicalista.\n\nAdaptado de f508.com.br.\n\nNo contexto do final da década de 1960, o Tropicalismo, que causou polêmicas com produções como a do álbum citado, tornou-se símbolo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "purismo estético"
+      },
+      {
+        "letter": "B",
+        "text": "extremismo político"
+      },
+      {
+        "letter": "C",
+        "text": "tradicionalismo artístico"
+      },
+      {
+        "letter": "D",
+        "text": "experimentalismo cultural"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Tropicalismo caracterizou-se pela mistura deliberada de elementos tidos como inconciliáveis: guitarra elétrica e berimbau, rock e baião, cultura de massa e vanguarda, o erudito e o kitsch. A própria capa do álbum encena essa atitude ao converter um penico em xícara, gesto que dessacraliza a imagem do artista e embaralha o refinado e o vulgar. Essa recusa de fronteiras e essa busca constante de novas combinações definem o experimentalismo cultural. As alternativas (A) e (C) descrevem justamente o que o movimento combatia - a pureza estética e a defesa da tradição, bandeiras dos setores nacionalistas que o atacavam -, e a crítica tropicalista operava pela via cultural, não pelo extremismo político.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q56",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "É impossível representar, sem distorções, uma superfície esférica em um plano. A área e a forma são atributos espaciais frequentemente alterados nos mapeamentos, conforme a projeção cartográfica utilizada.\n\nConsidere uma imagem em que uma mesma área circular é representada repetidamente ao longo dos paralelos e meridianos, mantendo a área constante e alterando a forma conforme a posição no mapa. Essa característica ocorre na projeção cartográfica denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Peters"
+      },
+      {
+        "letter": "B",
+        "text": "Mercator"
+      },
+      {
+        "letter": "C",
+        "text": "Robinson"
+      },
+      {
+        "letter": "D",
+        "text": "Mollweide"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Toda projeção deforma alguma propriedade da esfera, e cada uma escolhe o que preservar. A projeção de Peters é equivalente (ou equiárea): mantém as proporções de área entre as regiões representadas, ao custo de distorcer as formas - por isso os círculos aparecem achatados ou alongados conforme a latitude, mas com a mesma área. A de Mercator é conforme: preserva os ângulos e as formas locais, mas amplia enormemente as áreas em direção aos polos. Robinson e Mollweide não atendem à descrição - a primeira é uma projeção de compromisso, que não conserva rigorosamente nem área nem forma, e a segunda, embora também equiárea, é pseudocilíndrica e não produz a distribuição regular ao longo de paralelos e meridianos aqui descrita.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q57",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "BRASIL: USO DE AGROTÓXICOS POR CULTURA (2015)\n\n| Cultura | Participação |\n|---|---|\n| soja | 52% |\n| cana | 10% |\n| milho | 10% |\n| algodão | 7% |\n| trigo | 4% |\n| café | 3% |\n| pastagem | 8% |\n| arroz | 2% |\n| feijão | 2% |\n| outros | 2% |\n\nAdaptado de BOMBARDI, L. M. Geografia do uso de agrotóxicos no Brasil e conexões com a União Europeia. São Paulo: FFLCH/USP, 2017.\n\nUma característica econômica comum aos quatro cultivos brasileiros nos quais os agrotóxicos são mais utilizados é a expressiva:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "relevância na pauta de exportação"
+      },
+      {
+        "letter": "B",
+        "text": "participação na absorção de mão de obra"
+      },
+      {
+        "letter": "C",
+        "text": "centralidade na alimentação da população"
+      },
+      {
+        "letter": "D",
+        "text": "influência na desconcentração da propriedade"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os quatro maiores consumidores de agrotóxicos são soja (52%), cana (10%), milho (10%) e algodão (7%) - todos produtos de exportação ou de agroindústria, cultivados em larga escala nas commodities que sustentam a balança comercial brasileira. É essa lógica de monocultura extensiva voltada ao mercado externo que explica o uso intensivo de defensivos. As demais alternativas contrariam as características desses cultivos: são altamente mecanizados e empregam pouca mão de obra; não constituem a base da alimentação cotidiana da população, papel que caberia ao arroz e ao feijão, justamente os de menor consumo de agrotóxicos; e estão associados à concentração fundiária, não à sua desconcentração.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q58",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 58,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Os levantamentos feitos pelo Instituto Brasileiro de Geografia e Estatística indicam diferenças quanto à remuneração e ao acesso ao ensino superior de homens e mulheres. Os dados de 2016 são apresentados em dois conjuntos de gráficos - diferença de salários e população de 25 anos ou mais com ensino superior completo -, ambos desagregados simultaneamente por sexo (homens e mulheres) e por cor ou raça (brancos e negros ou pardos).\n\nAdaptado de O Globo, 08/03/2018.\n\nA partir dos dados, observa-se a permanência da seguinte prática:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exclusão política"
+      },
+      {
+        "letter": "B",
+        "text": "discriminação racial"
+      },
+      {
+        "letter": "C",
+        "text": "homogeneização cultural"
+      },
+      {
+        "letter": "D",
+        "text": "hierarquização econômica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O que torna os gráficos significativos é o cruzamento das duas variáveis. Não fosse a desagregação por cor ou raça, restaria apenas a desigualdade de gênero; ao separar brancos de negros ou pardos dentro de cada sexo, os dados revelam que a cor da pele produz, por si só, diferenças persistentes tanto no rendimento quanto na conclusão do ensino superior. Essa desvantagem sistemática associada ao pertencimento racial caracteriza a discriminação racial. A alternativa (D) descreve o efeito observado - a diferença de renda -, mas não a prática que o produz; e nem exclusão política nem homogeneização cultural são medidas por esses indicadores.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q59",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 59,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Para boa parte do mundo, a cidade nigeriana de Maiduguri é conhecida apenas como o local de origem do Boko Haram, o grupo extremista que mata desenfreadamente e trata mulheres e meninas como propriedades, obrigando-as a cozinhar, limpar, parir filhos e morrer, se necessário. Mas existe outra Maiduguri totalmente diferente, que ajuda a entender a batalha ideológica que está ocorrendo no norte da Nigéria: trata-se de uma capital regional, reconhecida por acolher pessoas de todas as crenças e etnias, uma cidade universitária há muito conhecida por sua vida noturna e por sua energia, com uma juventude ousada e muitas vezes liberal que oito anos de guerra parecem não conseguir extinguir.\n\nAdaptado de noticias.uol.com.br, 27/12/2017.\n\nGrupos extremistas instauram guerras civis em diversas sociedades contemporâneas, inclusive com ações terroristas como as realizadas pelo Boko Haram. Com base na reportagem, a batalha ideológica na cidade de Maiduguri está associada ao confronto entre as seguintes ideias:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "identidade de raça - pluralismo político"
+      },
+      {
+        "letter": "B",
+        "text": "liberdade de expressão - nacionalismo africano"
+      },
+      {
+        "letter": "C",
+        "text": "superioridade de classe - culturalismo ocidental"
+      },
+      {
+        "letter": "D",
+        "text": "igualdade de gênero - fundamentalismo religioso"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A reportagem opõe dois retratos da mesma cidade. De um lado, o Boko Haram, cujo nome significa \"a educação ocidental é proibida\" e que trata mulheres e meninas como propriedades, submetendo-as ao trabalho doméstico e à maternidade forçada - expressão de fundamentalismo religioso. De outro, a Maiduguri universitária, acolhedora de todas as crenças e etnias, com juventude liberal e vida noturna ativa, contexto em que mulheres estudam e circulam livremente - horizonte de igualdade de gênero. É esse o embate ideológico descrito. As demais alternativas mobilizam eixos - raça, nacionalismo, classe - que não aparecem no texto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-q60",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Um cartaz divulgado no aeroporto, nas ruas e nos ônibus de Yerevan, capital da Armênia, faz alusão ao líder otomano Talaat Pasha e a Adolf Hitler, com as datas 1915 e 1939 e os dizeres \"CONDENANDO O PRIMEIRO, PODERÍAMOS TER EVITADO O SEGUNDO\". A imagem é uma das muitas espalhadas pela cidade para lembrar o centenário do massacre de até 1,5 milhão de armênios nas mãos dos turcos-otomanos, cujo império estava se desintegrando em meio à Primeira Guerra Mundial (1914-1918). Muitos eram civis deportados a regiões desérticas, onde morreram de fome e sede. Outros milhares foram massacrados. No centro da cidade, muitos pontos de ônibus exibem fotos de sobreviventes.\n\nAdaptado de bbc.com, 24/04/2015.\n\nAtravés da lembrança do massacre dos armênios, em 1915, é possível comparar experiências históricas com o objetivo de fomentar, na atualidade, práticas sociais de reconhecimento de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atos de genocídio e reparação das famílias vitimadas"
+      },
+      {
+        "letter": "B",
+        "text": "ações de expansionismo e continuidade das disputas territoriais"
+      },
+      {
+        "letter": "C",
+        "text": "projetos do totalitarismo e permanência de regimes autocráticos"
+      },
+      {
+        "letter": "D",
+        "text": "estratégias de conquista e convocação de tribunais internacionais"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A campanha aproxima 1915 e 1939 - o massacre armênio e o Holocausto - para sustentar que a impunidade do primeiro tornou possível o segundo: \"condenando o primeiro, poderíamos ter evitado o segundo\". O elemento comum aos dois episódios é a tentativa de eliminação sistemática de um grupo em razão de sua identidade, ou seja, o genocídio, termo cunhado por Raphael Lemkin justamente a partir do caso armênio. Ao exibir fotos de sobreviventes nos pontos de ônibus, a campanha reivindica também o reconhecimento das vítimas e de suas famílias. A comparação não trata de expansionismo territorial, de formas de governo nem de estratégias militares de conquista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
     "id": "uerj-2020-q01",
     "exam": "uerj",
     "year": 2020,
