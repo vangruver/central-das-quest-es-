@@ -15155,6 +15155,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q01",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "SOBRE A FORMA DA TERRA\n\nNesses últimos tempos, tem-se difundido na internet uma concepção sobre a forma da Terra: a Terra Plana. Na verdade, essa concepção está associada com outras ideias em conflito com o conhecimento científico atual. Afirma-se, por exemplo, que a gravidade inexiste; a Lua é autoiluminada; o Sol e os demais astros se encontram a não mais de alguns milhares de quilômetros de nós; o Sol e a Lua descrevem órbitas paralelas à superfície da Terra; as viagens espaciais são impossíveis. Negam-se, assim, a ida do homem à Lua e a existência de satélites artificiais, ao mesmo tempo que se afirmam o geocentrismo antropocêntrico e o criacionismo fixista dos 6 mil anos.\n\nFERNANDO LANG DA SILVEIRA. Adaptado de researchgate.net, maio/2017.\n\nDe acordo com essa concepção sobre a forma da Terra, dentre as viagens empreendidas pelos exploradores do período das Grandes Navegações, a que faz alusão Stephen Hawking ao lembrar que “foi a curiosidade obstinada que levou os exploradores a provar que a Terra não era plana”, seria impossível a realização do seguinte percurso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cristóvão Colombo (1492)"
+      },
+      {
+        "letter": "B",
+        "text": "Vasco da Gama (1497-1498)"
+      },
+      {
+        "letter": "C",
+        "text": "Américo Vespúcio (1498-1499)"
+      },
+      {
+        "letter": "D",
+        "text": "Fernão de Magalhães (1519-1522)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As três primeiras viagens são travessias entre pontos da superfície — o Atlântico rumo à América, o contorno da África até a Índia, a costa sul-americana —, compatíveis, ao menos em tese, com um mundo plano. A expedição iniciada por Fernão de Magalhães é de outra natureza: partiu para oeste e retornou ao ponto de origem vindo de leste, dando a volta completa no planeta. Numa Terra plana e limitada por uma barreira, essa circum-navegação seria impossível — e foi justamente ela a demonstração prática da esfericidade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q02",
     "exam": "uerj",
     "year": 2020,
@@ -15188,6 +15224,79 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q02",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - SOBREVIVEREMOS NA TERRA?\n\nTenho interesse pessoal no tempo. Primeiro, meu best-seller chama-se Uma breve história do tempo. Segundo, por ser alguém que, aos 21 anos, foi informado pelos médicos de que teria apenas mais cinco anos de vida e que completou 76 anos em 2018. Tenho uma aguda e desconfortável consciência da passagem do tempo. Durante a maior parte da minha vida, convivi com a sensação de que estava fazendo hora extra. (l. 1-5)\n\nParece que nosso mundo enfrenta uma instabilidade política maior do que em qualquer outro momento. Uma grande quantidade de pessoas sente ter ficado para trás. Como resultado, temos nos voltado para políticos populistas, com experiência de governo limitada e cuja capacidade para tomar decisões ponderadas em uma crise ainda está para ser testada. A Terra sofre ameaças em tantas frentes que é difícil permanecer otimista. Os perigos são grandes e numerosos demais. O planeta está ficando pequeno para nós. Nossos recursos físicos estão se esgotando a uma velocidade alarmante. A mudança climática foi uma trágica dádiva humana ao planeta. (l. 6-13)\n\nTemperaturas cada vez mais elevadas, redução da calota polar, desmatamento, superpopulação, doenças, guerras, fome, escassez de água e extermínio de espécies; todos esses problemas poderiam ser resolvidos, mas até hoje não foram. O aquecimento global está sendo causado por todos nós. Queremos andar de carro, viajar e desfrutar um padrão de vida melhor. Mas quando as pessoas se derem conta do que está acontecendo, pode ser tarde demais. Estamos no limiar de um período de mudança climática sem precedentes. No entanto, muitos políticos negam a mudança climática provocada pelo homem, ou a capacidade do homem de revertê-la. (l. 14-20)\n\nO derretimento das calotas polares ártica e antártica reduz a fração de energia solar refletida de volta no espaço e aumenta ainda mais a temperatura. A mudança climática pode destruir a Amazônia e outras florestas tropicais, eliminando uma das principais ferramentas para a remoção do dióxido de carbono da atmosfera. A elevação da temperatura dos oceanos pode provocar a liberação de grandes quantidades de dióxido de carbono. Ambos os fenômenos aumentariam o efeito estufa e exacerbariam o aquecimento global, tornando o clima em nosso planeta parecido com o de Vênus: atmosfera escaldante e chuva ácida a uma temperatura de 250 °C. A vida humana seria impossível. (l. 21-28)\n\nPrecisamos ir além do Protocolo de Kyoto – o acordo internacional adotado em 1997 – e cortar imediatamente as emissões de carbono. Temos a tecnologia. Só precisamos de vontade política. Quando enfrentamos crises parecidas no passado, havia algum outro lugar para colonizar. Estamos ficando sem espaço, e o único lugar para ir são outros mundos. Tenho esperança e fé de que nossa engenhosa raça encontrará uma maneira de escapar dos sombrios grilhões do planeta e, deste modo, sobreviver ao desastre. A mesma providência talvez não seja possível para os milhões de outras espécies que vivem na Terra, e isso pesará em nossa consciência. (l. 29-35)\n\nMas somos, por natureza, exploradores. Somos motivados pela curiosidade, essa qualidade humana única. Foi a curiosidade obstinada que levou os exploradores a provar que a Terra não era plana, e é esse mesmo impulso que nos leva a viajar para as estrelas na velocidade do pensamento, instigando-nos a realmente chegar lá. E sempre que realizamos um grande salto, como nos pousos lunares, exaltamos a humanidade, unimos povos e nações, introduzimos novas descobertas e novas tecnologias. Deixar a Terra exige uma abordagem global combinada – todos devem participar. (l. 36-42)\n\nSTEPHEN HAWKING (1942-2018). Adaptado de Breves respostas para grandes questões. Rio de Janeiro: Intrínseca, 2018.\n\nSegundo, por ser alguém que, aos 21 anos, foi informado pelos médicos de que teria apenas mais cinco anos de vida e que completou 76 anos em 2018. (l. 2-3)\n\nOs verbos sublinhados, “teria” e “completou”, descrevem dois fatos que podem ser caracterizados, respectivamente, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hipotético – realizado"
+      },
+      {
+        "letter": "B",
+        "text": "inconcluso – eventual"
+      },
+      {
+        "letter": "C",
+        "text": "contínuo – momentâneo"
+      },
+      {
+        "letter": "D",
+        "text": "repetitivo – retrospectivo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "“Teria apenas mais cinco anos de vida” está no futuro do pretérito e exprime uma previsão médica que não se cumpriu — um fato apenas hipotético. Já “completou 76 anos” está no pretérito perfeito, tempo que marca a ação concluída e efetivamente ocorrida. O contraste entre os dois tempos verbais é o próprio argumento do autor sobre sua relação com a passagem do tempo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q03",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 3,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geopolítica"
+    ],
+    "statement": "OBAMA ACRESCENTA A SEU LEGADO A LUTA CONTRA A MUDANÇA CLIMÁTICA\n\nO presidente dos Estados Unidos, Barack Obama, revelou, em agosto de 2015, seu plano definitivo para reduzir as emissões de dióxido de carbono na atmosfera, consideradas as principais responsáveis pelo aquecimento global. É a primeira vez que um presidente norte-americano determina limites para as emissões das usinas de energia do país. “A mudança climática já não é um problema das gerações futuras”, afirma o presidente. As previsões mais recentes indicam graves consequências se a temperatura global média subir 2 °C.\n\nAdaptado de brasil.elpais.com, agosto/2015.\n\nDONALD TRUMP DECIDE RETIRAR E.U.A. DO ACORDO CLIMÁTICO DE PARIS\n\nO presidente dos Estados Unidos, Donald Trump, anunciou em junho de 2017 que o país sairá do Acordo de Paris. Em declaração realizada nos jardins da Casa Branca, afirmou: “Para proteger a América e seus cidadãos, os Estados Unidos se retirarão do Acordo Climático de Paris. Mas começaremos a rediscutir esses acordos em termos justos para os trabalhadores e os contribuintes: estamos saindo, mas iniciaremos negociações para um acordo justo”.\n\nOs dois textos revelam posicionamentos distintos de governos norte-americanos quanto à questão climática. Esses posicionamentos apoiam-se, respectivamente, nos seguintes fundamentos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão dos insumos agrícolas – incremento da indústria bélica"
+      },
+      {
+        "letter": "B",
+        "text": "ingerência dos organismos internacionais – aprofundamento da crise financeira"
+      },
+      {
+        "letter": "C",
+        "text": "neutralização dos desastres ecológicos – valorização da independência nacional"
+      },
+      {
+        "letter": "D",
+        "text": "reconhecimento dos prognósticos científicos – defesa do crescimento econômico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Obama apoia-se explicitamente nas “previsões mais recentes” sobre o aquecimento de 2 °C, isto é, no diagnóstico científico. Trump justifica a saída pela proteção de “trabalhadores e contribuintes” e pela exigência de termos econômicos mais favoráveis ao país. O contraste é, portanto, entre o reconhecimento dos prognósticos científicos e a prioridade dada ao crescimento econômico nacional.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15227,6 +15336,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q04",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 4,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Várias mudanças ambientais interferem no ciclo biogeoquímico do carbono. Sabe-se que a maior parte desse elemento está armazenada nas rochas e sedimentos da crosta terrestre, como indica a tabela dos principais reservatórios de carbono na Terra, com a porcentagem do total:\n\nRochas e sedimentos — mais de 99,5%\nOceanos — 0,05%\nBiosfera terrestre — 0,003%\nBiosfera aquática — 0,000002%\nCombustíveis fósseis — 0,006%\nHidratos de metano — 0,014%\n\nAdaptado de ib.usp.br.\n\nA exploração intensa dos recursos naturais acelera o processo de conversão do carbono encontrado em rochas e sedimentos em compostos de carbono que circulam nos outros reservatórios. Uma consequência desse processo é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução da eutrofização"
+      },
+      {
+        "letter": "B",
+        "text": "aumento do efeito estufa"
+      },
+      {
+        "letter": "C",
+        "text": "aumento da camada de ozônio"
+      },
+      {
+        "letter": "D",
+        "text": "redução da fixação de nitrogênio"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O carbono das rochas e dos combustíveis fósseis estava fora de circulação havia milhões de anos. Extraí-lo e queimá-lo transfere esse estoque para a atmosfera na forma de CO2 e CH4, gases que absorvem a radiação infravermelha emitida pela Terra. O resultado é a intensificação do efeito estufa e o aquecimento global. As demais alternativas envolvem outros ciclos, como o do nitrogênio e o do fósforo, ou a camada de ozônio, que não depende do carbono.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q05",
     "exam": "uerj",
     "year": 2020,
@@ -15260,6 +15405,78 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q05",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 5,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Admita que, para escovar os dentes, seja necessário, em média, 1 litro de água. Caso a torneira permaneça aberta durante toda a escovação, serão gastos, em média, 11 litros, havendo desperdício de 10 litros.\n\nConsidere uma família de quatro pessoas que escovam os dentes três vezes ao dia, mantendo a torneira aberta. Em 365 dias, o desperdício de água dessa família, em litros, será igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "21900"
+      },
+      {
+        "letter": "B",
+        "text": "43800"
+      },
+      {
+        "letter": "C",
+        "text": "65700"
+      },
+      {
+        "letter": "D",
+        "text": "87600"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada escovação com a torneira aberta desperdiça 10 litros. São 4 pessoas × 3 escovações = 12 escovações por dia, ou seja, 120 litros desperdiçados diariamente. Em um ano: 120 × 365 = 43 800 litros.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q06",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - SOBREVIVEREMOS NA TERRA?\n\nTenho interesse pessoal no tempo. Primeiro, meu best-seller chama-se Uma breve história do tempo. Segundo, por ser alguém que, aos 21 anos, foi informado pelos médicos de que teria apenas mais cinco anos de vida e que completou 76 anos em 2018. Tenho uma aguda e desconfortável consciência da passagem do tempo. Durante a maior parte da minha vida, convivi com a sensação de que estava fazendo hora extra. (l. 1-5)\n\nParece que nosso mundo enfrenta uma instabilidade política maior do que em qualquer outro momento. Uma grande quantidade de pessoas sente ter ficado para trás. Como resultado, temos nos voltado para políticos populistas, com experiência de governo limitada e cuja capacidade para tomar decisões ponderadas em uma crise ainda está para ser testada. A Terra sofre ameaças em tantas frentes que é difícil permanecer otimista. Os perigos são grandes e numerosos demais. O planeta está ficando pequeno para nós. Nossos recursos físicos estão se esgotando a uma velocidade alarmante. A mudança climática foi uma trágica dádiva humana ao planeta. (l. 6-13)\n\nTemperaturas cada vez mais elevadas, redução da calota polar, desmatamento, superpopulação, doenças, guerras, fome, escassez de água e extermínio de espécies; todos esses problemas poderiam ser resolvidos, mas até hoje não foram. O aquecimento global está sendo causado por todos nós. Queremos andar de carro, viajar e desfrutar um padrão de vida melhor. Mas quando as pessoas se derem conta do que está acontecendo, pode ser tarde demais. Estamos no limiar de um período de mudança climática sem precedentes. No entanto, muitos políticos negam a mudança climática provocada pelo homem, ou a capacidade do homem de revertê-la. (l. 14-20)\n\nO derretimento das calotas polares ártica e antártica reduz a fração de energia solar refletida de volta no espaço e aumenta ainda mais a temperatura. A mudança climática pode destruir a Amazônia e outras florestas tropicais, eliminando uma das principais ferramentas para a remoção do dióxido de carbono da atmosfera. A elevação da temperatura dos oceanos pode provocar a liberação de grandes quantidades de dióxido de carbono. Ambos os fenômenos aumentariam o efeito estufa e exacerbariam o aquecimento global, tornando o clima em nosso planeta parecido com o de Vênus: atmosfera escaldante e chuva ácida a uma temperatura de 250 °C. A vida humana seria impossível. (l. 21-28)\n\nPrecisamos ir além do Protocolo de Kyoto – o acordo internacional adotado em 1997 – e cortar imediatamente as emissões de carbono. Temos a tecnologia. Só precisamos de vontade política. Quando enfrentamos crises parecidas no passado, havia algum outro lugar para colonizar. Estamos ficando sem espaço, e o único lugar para ir são outros mundos. Tenho esperança e fé de que nossa engenhosa raça encontrará uma maneira de escapar dos sombrios grilhões do planeta e, deste modo, sobreviver ao desastre. A mesma providência talvez não seja possível para os milhões de outras espécies que vivem na Terra, e isso pesará em nossa consciência. (l. 29-35)\n\nMas somos, por natureza, exploradores. Somos motivados pela curiosidade, essa qualidade humana única. Foi a curiosidade obstinada que levou os exploradores a provar que a Terra não era plana, e é esse mesmo impulso que nos leva a viajar para as estrelas na velocidade do pensamento, instigando-nos a realmente chegar lá. E sempre que realizamos um grande salto, como nos pousos lunares, exaltamos a humanidade, unimos povos e nações, introduzimos novas descobertas e novas tecnologias. Deixar a Terra exige uma abordagem global combinada – todos devem participar. (l. 36-42)\n\nSTEPHEN HAWKING (1942-2018). Adaptado de Breves respostas para grandes questões. Rio de Janeiro: Intrínseca, 2018.\n\nComo resultado, temos nos voltado para políticos populistas, com experiência de governo limitada e cuja capacidade para tomar decisões ponderadas em uma crise ainda está para ser testada. (l. 7-9)\n\nNo trecho acima, Stephen Hawking faz uma afirmação cujo conteúdo se desdobra nas cinco frases subsequentes. Essas cinco frases cumprem o propósito de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "justificar a estrutura econômica"
+      },
+      {
+        "letter": "B",
+        "text": "relativizar as alterações ambientais"
+      },
+      {
+        "letter": "C",
+        "text": "caracterizar a conjuntura internacional"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificar as ações institucionais"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Depois de mencionar a ascensão de políticos populistas, o autor enumera as ameaças que pesam sobre o planeta: os perigos numerosos, o espaço que encolhe, os recursos que se esgotam, a mudança climática. As frases não explicam nem exemplificam ações de governos: desenham o quadro geral em que essa política se dá — a conjuntura internacional que torna difícil permanecer otimista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15299,6 +15516,43 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q07",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 7,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Química Ambiental"
+    ],
+    "statement": "Com o reflorestamento, é possível minimizar os efeitos do aquecimento global, tendo em vista que uma árvore consegue captar, em média, 15,6 kg do CO2 lançado na atmosfera por ano.\n\nSabe-se que, na combustão completa da gasolina, todos os átomos de carbono são convertidos em moléculas de CO2. Admitindo que 1 litro de gasolina contém 600 g de isoctano (C8H18) e 200 g de etanol (C2H6O), no período de 1 ano uma árvore será capaz de captar o CO2 emitido na combustão completa de x litros de gasolina.\n\nO valor de x corresponde, aproximadamente, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "5"
+      },
+      {
+        "letter": "C",
+        "text": "7"
+      },
+      {
+        "letter": "D",
+        "text": "9"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em 1 L de gasolina há 600 ÷ 114 ≈ 5,26 mol de isoctano, que geram 8 mol de CO2 cada, ou seja, ≈ 42,1 mol; e 200 ÷ 46 ≈ 4,35 mol de etanol, que geram 2 mol cada, ou seja, ≈ 8,7 mol. O total é cerca de 50,8 mol de CO2, o que corresponde a 50,8 × 44 ≈ 2,24 kg. Dividindo a captação anual da árvore por esse valor: 15,6 ÷ 2,24 ≈ 7 litros.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q08",
     "exam": "uerj",
     "year": 2020,
@@ -15332,6 +15586,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q08",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 8,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Com o aumento do efeito estufa, a chuva ácida pode atingir a temperatura de 250 °C.\n\nNa escala Kelvin, esse valor de temperatura corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "212"
+      },
+      {
+        "letter": "B",
+        "text": "346"
+      },
+      {
+        "letter": "C",
+        "text": "482"
+      },
+      {
+        "letter": "D",
+        "text": "523"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A conversão entre as escalas Celsius e Kelvin é T(K) = T(°C) + 273. Assim, 250 + 273 = 523 K. Note que as escalas têm o mesmo tamanho de grau, diferindo apenas na origem: o zero absoluto corresponde a −273 °C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15371,6 +15661,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q09",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - SOBREVIVEREMOS NA TERRA?\n\nTenho interesse pessoal no tempo. Primeiro, meu best-seller chama-se Uma breve história do tempo. Segundo, por ser alguém que, aos 21 anos, foi informado pelos médicos de que teria apenas mais cinco anos de vida e que completou 76 anos em 2018. Tenho uma aguda e desconfortável consciência da passagem do tempo. Durante a maior parte da minha vida, convivi com a sensação de que estava fazendo hora extra. (l. 1-5)\n\nParece que nosso mundo enfrenta uma instabilidade política maior do que em qualquer outro momento. Uma grande quantidade de pessoas sente ter ficado para trás. Como resultado, temos nos voltado para políticos populistas, com experiência de governo limitada e cuja capacidade para tomar decisões ponderadas em uma crise ainda está para ser testada. A Terra sofre ameaças em tantas frentes que é difícil permanecer otimista. Os perigos são grandes e numerosos demais. O planeta está ficando pequeno para nós. Nossos recursos físicos estão se esgotando a uma velocidade alarmante. A mudança climática foi uma trágica dádiva humana ao planeta. (l. 6-13)\n\nTemperaturas cada vez mais elevadas, redução da calota polar, desmatamento, superpopulação, doenças, guerras, fome, escassez de água e extermínio de espécies; todos esses problemas poderiam ser resolvidos, mas até hoje não foram. O aquecimento global está sendo causado por todos nós. Queremos andar de carro, viajar e desfrutar um padrão de vida melhor. Mas quando as pessoas se derem conta do que está acontecendo, pode ser tarde demais. Estamos no limiar de um período de mudança climática sem precedentes. No entanto, muitos políticos negam a mudança climática provocada pelo homem, ou a capacidade do homem de revertê-la. (l. 14-20)\n\nO derretimento das calotas polares ártica e antártica reduz a fração de energia solar refletida de volta no espaço e aumenta ainda mais a temperatura. A mudança climática pode destruir a Amazônia e outras florestas tropicais, eliminando uma das principais ferramentas para a remoção do dióxido de carbono da atmosfera. A elevação da temperatura dos oceanos pode provocar a liberação de grandes quantidades de dióxido de carbono. Ambos os fenômenos aumentariam o efeito estufa e exacerbariam o aquecimento global, tornando o clima em nosso planeta parecido com o de Vênus: atmosfera escaldante e chuva ácida a uma temperatura de 250 °C. A vida humana seria impossível. (l. 21-28)\n\nPrecisamos ir além do Protocolo de Kyoto – o acordo internacional adotado em 1997 – e cortar imediatamente as emissões de carbono. Temos a tecnologia. Só precisamos de vontade política. Quando enfrentamos crises parecidas no passado, havia algum outro lugar para colonizar. Estamos ficando sem espaço, e o único lugar para ir são outros mundos. Tenho esperança e fé de que nossa engenhosa raça encontrará uma maneira de escapar dos sombrios grilhões do planeta e, deste modo, sobreviver ao desastre. A mesma providência talvez não seja possível para os milhões de outras espécies que vivem na Terra, e isso pesará em nossa consciência. (l. 29-35)\n\nMas somos, por natureza, exploradores. Somos motivados pela curiosidade, essa qualidade humana única. Foi a curiosidade obstinada que levou os exploradores a provar que a Terra não era plana, e é esse mesmo impulso que nos leva a viajar para as estrelas na velocidade do pensamento, instigando-nos a realmente chegar lá. E sempre que realizamos um grande salto, como nos pousos lunares, exaltamos a humanidade, unimos povos e nações, introduzimos novas descobertas e novas tecnologias. Deixar a Terra exige uma abordagem global combinada – todos devem participar. (l. 36-42)\n\nSTEPHEN HAWKING (1942-2018). Adaptado de Breves respostas para grandes questões. Rio de Janeiro: Intrínseca, 2018.\n\nAo enfatizar a atitude de curiosidade no último parágrafo, pode-se inferir a seguinte proposta do autor para o problema que debate:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estímulo a ações inovadoras"
+      },
+      {
+        "letter": "B",
+        "text": "cautela com práticas antigas"
+      },
+      {
+        "letter": "C",
+        "text": "confiança em soluções padronizadas"
+      },
+      {
+        "letter": "D",
+        "text": "questionamento de decisões precipitadas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No fecho, Hawking associa a curiosidade à descoberta da esfericidade da Terra, às viagens às estrelas e aos pousos lunares — momentos em que a humanidade “introduziu novas descobertas e novas tecnologias”. Diante das ameaças que descreveu, sua proposta é apostar nesse impulso exploratório, isto é, estimular ações inovadoras, e não recuar para a cautela ou para soluções já conhecidas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q10",
     "exam": "uerj",
     "year": 2020,
@@ -15404,6 +15730,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q10",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - CIVILIZAÇÃO\n\nA matéria saiu no New York Times, foi publicada na Folha de São Paulo; deveria ser bibliografia obrigatória do ensino fundamental à pós-graduação, deveria ser colada aos postes, lançada de aviões, viralizada nas redes sociais, impressa em santinhos, guardada na carteira, no bolso ou no sutiã e lida toda vez que a desilusão, o desespero, a melancolia ou mesmo o tédio batesse na porta, batesse na aorta: “Para salvar Stradivarius, uma cidade inteira fica em silêncio”. (l. 1-5)\n\nAntonio Stradivari viveu entre 1644 e 1737 em Cremona, norte da Itália, cidadezinha que hoje conta com 72267 habitantes. Durante algumas décadas dos séculos XVII e XVIII, Stradivari produziu instrumentos de corda, como violinos, cujos sons quase quatro séculos de conhecimento acumulado não foram capazes de igualar. Por muito tempo permaneceu um mistério o que fazia aqueles instrumentos tão diferentes dos demais, fabricados antes ou depois. Estudos recentes, porém, mostraram que, para além da artesania magistral do luthier*, um tratamento químico dado à madeira, à época da fabricação, interfere na qualidade do som dos instrumentos. O tempo de uso também entra na equação: a secura da madeira e a distância entre as fibras, causada pela oxidação, são razões pelas quais, segundo o dr. Hwan-Ching Tai, autor de um estudo de 2016, “esses velhos violinos vibram mais livremente, o que permite a eles expressar uma gama mais ampla de emoções”. (l. 6-17)\n\nSe é verdade que os violinos Stradivarius, como muitos vinhos, melhoraram com o tempo, é inexorável que, em algum momento, avinagrem. Pois esse momento se aproxima: depois de quase quatrocentos anos espalhando a melhor música que já foi ouvida, os violinos, violoncelos e violas de Cremona estão atingindo seu limite. Logo estarão frágeis demais para serem tocados e serão, segundo Fausto Cacciatori, curador do Museu do Violino de Cremona, “colocados para dormir”. (l. 18-22)\n\nAntecipando-se ao sono derradeiro, os moradores de Cremona criaram o Projeto Stradivarius. “Por cinco semanas, quatro músicos, tocando dois violinos, uma viola e um violoncelo, farão centenas de escalas e arpejos, usando técnicas diferentes com arcos, ou dedilhando as cordas”, sob “trinta e dois microfones de alta sensibilidade”. Três engenheiros de som, trancados num quartinho à prova de qualquer ruído, no auditório do museu, gravarão cada uma das centenas de milhares de variações sonoras, de modo que, no futuro, será possível compor músicas com o som dos Stradivarius. (l. 23-29)\n\nO projeto já estava quase saindo do papel em 2017 quando os idealizadores perceberam que o barulho em torno do museu impossibilitaria as gravações. O prefeito de Cremona, então, permitiu que as ruas da região fossem fechadas até que a última nota fosse imortalizada. A cidade calou-se e os Stradivarius começaram a cantar. Até meados de fevereiro, os 72267 moradores da cidadezinha italiana deixarão de buzinar suas lambretas, “nonas” evitarão gritar às janelas e amigos cochicharão pelas mesas dos cafés para que daqui a quatrocentos anos um garoto em Cremona, Mumbai ou Reykjavik possa compor uma música com as notas únicas e inimitáveis saídas de instrumentos feitos à mão por um homem que morreu quase um milênio antes de esse garoto nascer. Acho que é disso que estamos falando quando falamos em civilização. (l. 30-38)\n\nANTONIO PRATA. Adaptado de www1.folha.uol.com.br, 27/01/2019.\n* Luthier: profissional especializado em instrumentos de cordas.\n\nA matéria saiu no New York Times, foi publicada na Folha de São Paulo; deveria ser bibliografia obrigatória do ensino fundamental à pós-graduação, deveria ser colada aos postes, lançada de aviões, viralizada nas redes sociais, impressa em santinhos, (l. 1-3)\n\nCom base no trecho acima, é possível reconhecer que, para o autor, o conteúdo da notícia comentada se caracteriza por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "interessar a diferentes espaços sociais"
+      },
+      {
+        "letter": "B",
+        "text": "remeter a diversos recortes temporais"
+      },
+      {
+        "letter": "C",
+        "text": "possuir variados significados alegóricos"
+      },
+      {
+        "letter": "D",
+        "text": "permitir múltiplas interpretações pessoais"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A enumeração percorre âmbitos muito distintos de circulação: a escola em todos os níveis, a rua, o céu, as redes sociais, a devoção popular dos santinhos, o bolso de cada um. Ao imaginar a notícia em todos esses lugares, o cronista afirma que ela deveria alcançar a sociedade inteira, e não apenas um público especializado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15443,6 +15805,115 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q11",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - CIVILIZAÇÃO\n\nA matéria saiu no New York Times, foi publicada na Folha de São Paulo; deveria ser bibliografia obrigatória do ensino fundamental à pós-graduação, deveria ser colada aos postes, lançada de aviões, viralizada nas redes sociais, impressa em santinhos, guardada na carteira, no bolso ou no sutiã e lida toda vez que a desilusão, o desespero, a melancolia ou mesmo o tédio batesse na porta, batesse na aorta: “Para salvar Stradivarius, uma cidade inteira fica em silêncio”. (l. 1-5)\n\nAntonio Stradivari viveu entre 1644 e 1737 em Cremona, norte da Itália, cidadezinha que hoje conta com 72267 habitantes. Durante algumas décadas dos séculos XVII e XVIII, Stradivari produziu instrumentos de corda, como violinos, cujos sons quase quatro séculos de conhecimento acumulado não foram capazes de igualar. Por muito tempo permaneceu um mistério o que fazia aqueles instrumentos tão diferentes dos demais, fabricados antes ou depois. Estudos recentes, porém, mostraram que, para além da artesania magistral do luthier*, um tratamento químico dado à madeira, à época da fabricação, interfere na qualidade do som dos instrumentos. O tempo de uso também entra na equação: a secura da madeira e a distância entre as fibras, causada pela oxidação, são razões pelas quais, segundo o dr. Hwan-Ching Tai, autor de um estudo de 2016, “esses velhos violinos vibram mais livremente, o que permite a eles expressar uma gama mais ampla de emoções”. (l. 6-17)\n\nSe é verdade que os violinos Stradivarius, como muitos vinhos, melhoraram com o tempo, é inexorável que, em algum momento, avinagrem. Pois esse momento se aproxima: depois de quase quatrocentos anos espalhando a melhor música que já foi ouvida, os violinos, violoncelos e violas de Cremona estão atingindo seu limite. Logo estarão frágeis demais para serem tocados e serão, segundo Fausto Cacciatori, curador do Museu do Violino de Cremona, “colocados para dormir”. (l. 18-22)\n\nAntecipando-se ao sono derradeiro, os moradores de Cremona criaram o Projeto Stradivarius. “Por cinco semanas, quatro músicos, tocando dois violinos, uma viola e um violoncelo, farão centenas de escalas e arpejos, usando técnicas diferentes com arcos, ou dedilhando as cordas”, sob “trinta e dois microfones de alta sensibilidade”. Três engenheiros de som, trancados num quartinho à prova de qualquer ruído, no auditório do museu, gravarão cada uma das centenas de milhares de variações sonoras, de modo que, no futuro, será possível compor músicas com o som dos Stradivarius. (l. 23-29)\n\nO projeto já estava quase saindo do papel em 2017 quando os idealizadores perceberam que o barulho em torno do museu impossibilitaria as gravações. O prefeito de Cremona, então, permitiu que as ruas da região fossem fechadas até que a última nota fosse imortalizada. A cidade calou-se e os Stradivarius começaram a cantar. Até meados de fevereiro, os 72267 moradores da cidadezinha italiana deixarão de buzinar suas lambretas, “nonas” evitarão gritar às janelas e amigos cochicharão pelas mesas dos cafés para que daqui a quatrocentos anos um garoto em Cremona, Mumbai ou Reykjavik possa compor uma música com as notas únicas e inimitáveis saídas de instrumentos feitos à mão por um homem que morreu quase um milênio antes de esse garoto nascer. Acho que é disso que estamos falando quando falamos em civilização. (l. 30-38)\n\nANTONIO PRATA. Adaptado de www1.folha.uol.com.br, 27/01/2019.\n* Luthier: profissional especializado em instrumentos de cordas.\n\nPara valorizar poeticamente os violinos, combinam-se duas figuras de linguagem, o eufemismo e a personificação. Essa combinação se encontra em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Stradivari produziu instrumentos de corda, como violinos, cujos sons quase quatro séculos de conhecimento acumulado não foram capazes de igualar. (l. 7-9)"
+      },
+      {
+        "letter": "B",
+        "text": "“esses velhos violinos vibram mais livremente, o que permite a eles expressar uma gama mais ampla de emoções”. (l. 16-17)"
+      },
+      {
+        "letter": "C",
+        "text": "Se é verdade que os violinos Stradivarius, como muitos vinhos, melhoraram com o tempo, é inexorável que, em algum momento, avinagrem. (l. 18-19)"
+      },
+      {
+        "letter": "D",
+        "text": "Logo estarão frágeis demais para serem tocados e serão, segundo Fausto Cacciatori, curador do Museu do Violino de Cremona, “colocados para dormir”. (l. 21-22)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "“Colocados para dormir” atribui aos instrumentos uma ação de seres vivos — dormir — e, ao mesmo tempo, atenua o que de fato ocorrerá: eles serão retirados de uso definitivamente, ficando silenciosos para sempre. Há, portanto, personificação e eufemismo na mesma expressão. A alternativa B só personifica, e a C constrói uma comparação com o vinho.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q12",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - CIVILIZAÇÃO\n\nA matéria saiu no New York Times, foi publicada na Folha de São Paulo; deveria ser bibliografia obrigatória do ensino fundamental à pós-graduação, deveria ser colada aos postes, lançada de aviões, viralizada nas redes sociais, impressa em santinhos, guardada na carteira, no bolso ou no sutiã e lida toda vez que a desilusão, o desespero, a melancolia ou mesmo o tédio batesse na porta, batesse na aorta: “Para salvar Stradivarius, uma cidade inteira fica em silêncio”. (l. 1-5)\n\nAntonio Stradivari viveu entre 1644 e 1737 em Cremona, norte da Itália, cidadezinha que hoje conta com 72267 habitantes. Durante algumas décadas dos séculos XVII e XVIII, Stradivari produziu instrumentos de corda, como violinos, cujos sons quase quatro séculos de conhecimento acumulado não foram capazes de igualar. Por muito tempo permaneceu um mistério o que fazia aqueles instrumentos tão diferentes dos demais, fabricados antes ou depois. Estudos recentes, porém, mostraram que, para além da artesania magistral do luthier*, um tratamento químico dado à madeira, à época da fabricação, interfere na qualidade do som dos instrumentos. O tempo de uso também entra na equação: a secura da madeira e a distância entre as fibras, causada pela oxidação, são razões pelas quais, segundo o dr. Hwan-Ching Tai, autor de um estudo de 2016, “esses velhos violinos vibram mais livremente, o que permite a eles expressar uma gama mais ampla de emoções”. (l. 6-17)\n\nSe é verdade que os violinos Stradivarius, como muitos vinhos, melhoraram com o tempo, é inexorável que, em algum momento, avinagrem. Pois esse momento se aproxima: depois de quase quatrocentos anos espalhando a melhor música que já foi ouvida, os violinos, violoncelos e violas de Cremona estão atingindo seu limite. Logo estarão frágeis demais para serem tocados e serão, segundo Fausto Cacciatori, curador do Museu do Violino de Cremona, “colocados para dormir”. (l. 18-22)\n\nAntecipando-se ao sono derradeiro, os moradores de Cremona criaram o Projeto Stradivarius. “Por cinco semanas, quatro músicos, tocando dois violinos, uma viola e um violoncelo, farão centenas de escalas e arpejos, usando técnicas diferentes com arcos, ou dedilhando as cordas”, sob “trinta e dois microfones de alta sensibilidade”. Três engenheiros de som, trancados num quartinho à prova de qualquer ruído, no auditório do museu, gravarão cada uma das centenas de milhares de variações sonoras, de modo que, no futuro, será possível compor músicas com o som dos Stradivarius. (l. 23-29)\n\nO projeto já estava quase saindo do papel em 2017 quando os idealizadores perceberam que o barulho em torno do museu impossibilitaria as gravações. O prefeito de Cremona, então, permitiu que as ruas da região fossem fechadas até que a última nota fosse imortalizada. A cidade calou-se e os Stradivarius começaram a cantar. Até meados de fevereiro, os 72267 moradores da cidadezinha italiana deixarão de buzinar suas lambretas, “nonas” evitarão gritar às janelas e amigos cochicharão pelas mesas dos cafés para que daqui a quatrocentos anos um garoto em Cremona, Mumbai ou Reykjavik possa compor uma música com as notas únicas e inimitáveis saídas de instrumentos feitos à mão por um homem que morreu quase um milênio antes de esse garoto nascer. Acho que é disso que estamos falando quando falamos em civilização. (l. 30-38)\n\nANTONIO PRATA. Adaptado de www1.folha.uol.com.br, 27/01/2019.\n* Luthier: profissional especializado em instrumentos de cordas.\n\nAcho que é disso que estamos falando quando falamos em civilização. (l. 37-38)\n\nO termo “disso” se refere a praticamente toda a crônica de Antonio Prata e pode ser resumido como o esforço da comunidade para:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "renovar sua história social"
+      },
+      {
+        "letter": "B",
+        "text": "divulgar seu folclore regional"
+      },
+      {
+        "letter": "C",
+        "text": "preservar sua herança cultural"
+      },
+      {
+        "letter": "D",
+        "text": "pesquisar seu cancioneiro popular"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A crônica narra uma cidade inteira que se cala por semanas para que o som de instrumentos com quatro séculos seja gravado e continue existindo depois que os originais não puderem mais ser tocados. O gesto coletivo é de guardar, para gerações que ainda não nasceram, algo que a humanidade produziu de melhor — e é essa preservação da herança cultural que o autor chama de civilização.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q13",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - CENA ANTIGA, de Marina Colasanti\n\nAmanhece o dia entre neblinas, quando o Bem e o Mal se encontram para mais um duelo. Escolhem as armas nos estojos, aproximam-se para o encontro ritual, encaram-se. Os padrinhos que aguardam ao lado do campo, escuros como as gralhas que saltitam entre restolhos, são instados a partir. Que não haja testemunhas. (l. 1-4)\n\nAfastados estes, Bem e Mal guardam as armas, se envolvem em suas capas e caminham até a taverna mais próxima. Ali, frente a canecos cheios, discutirão estratégias e trocarão conselhos durante dias ou séculos, até o próximo duelo. (l. 5-7)\n\nNo conto de Marina Colasanti, Bem e Mal são ideias personificadas. Essa personificação é identificada pela narração de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ações"
+      },
+      {
+        "letter": "B",
+        "text": "crenças"
+      },
+      {
+        "letter": "C",
+        "text": "desejos"
+      },
+      {
+        "letter": "D",
+        "text": "sentimentos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O conto não descreve o que Bem e Mal pensam ou sentem: mostra o que fazem. Eles escolhem armas, aproximam-se, encaram-se, dispensam os padrinhos, guardam as armas, envolvem-se nas capas, caminham até a taverna, bebem e conversam. É essa cadeia de ações concretas, próprias de personagens humanas, que transforma as duas ideias abstratas em figuras.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q14",
     "exam": "uerj",
     "year": 2020,
@@ -15476,6 +15947,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q14",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - CENA ANTIGA, de Marina Colasanti\n\nAmanhece o dia entre neblinas, quando o Bem e o Mal se encontram para mais um duelo. Escolhem as armas nos estojos, aproximam-se para o encontro ritual, encaram-se. Os padrinhos que aguardam ao lado do campo, escuros como as gralhas que saltitam entre restolhos, são instados a partir. Que não haja testemunhas. (l. 1-4)\n\nAfastados estes, Bem e Mal guardam as armas, se envolvem em suas capas e caminham até a taverna mais próxima. Ali, frente a canecos cheios, discutirão estratégias e trocarão conselhos durante dias ou séculos, até o próximo duelo. (l. 5-7)\n\nO título “Cena antiga” alude à repetição de um ritual, evidenciada pelo seguinte trecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Amanhece o dia entre neblinas, (l. 1)"
+      },
+      {
+        "letter": "B",
+        "text": "se encontram para mais um duelo. (l. 1)"
+      },
+      {
+        "letter": "C",
+        "text": "Que não haja testemunhas. (l. 4)"
+      },
+      {
+        "letter": "D",
+        "text": "caminham até a taverna mais próxima. (l. 5-6)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A expressão “mais um duelo” pressupõe que outros já ocorreram antes e que outros virão — ideia confirmada no fecho, quando conversam “durante dias ou séculos, até o próximo duelo”. É esse indicador de recorrência que liga o texto ao título. Os demais trechos descrevem circunstâncias da cena, sem indicar repetição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15515,6 +16022,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q15",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - CENA ANTIGA, de Marina Colasanti\n\nAmanhece o dia entre neblinas, quando o Bem e o Mal se encontram para mais um duelo. Escolhem as armas nos estojos, aproximam-se para o encontro ritual, encaram-se. Os padrinhos que aguardam ao lado do campo, escuros como as gralhas que saltitam entre restolhos, são instados a partir. Que não haja testemunhas. (l. 1-4)\n\nAfastados estes, Bem e Mal guardam as armas, se envolvem em suas capas e caminham até a taverna mais próxima. Ali, frente a canecos cheios, discutirão estratégias e trocarão conselhos durante dias ou séculos, até o próximo duelo. (l. 5-7)\n\nÉ comum, no pensamento contemporâneo, o entendimento de que os conceitos de Bem e de Mal não são fixos, mas sim relativos a épocas e lugares. Esse entendimento se reflete no conto quando o Bem e o Mal têm a atitude de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mudar comportamento"
+      },
+      {
+        "letter": "B",
+        "text": "reafirmar argumentos"
+      },
+      {
+        "letter": "C",
+        "text": "radicalizar traição"
+      },
+      {
+        "letter": "D",
+        "text": "revelar ambições"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Diante das testemunhas, os dois encenam a inimizade absoluta do duelo; sozinhos, guardam as armas e vão beber juntos, trocando conselhos e estratégias. A mudança de comportamento assim que ninguém os observa desfaz a oposição rígida entre os dois princípios e sugere que a fronteira entre Bem e Mal é convencional, não essencial.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q16",
     "exam": "uerj",
     "year": 2020,
@@ -15548,6 +16091,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q16",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 16,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Texto base - PARA COMEÇAR, de Marina Colasanti\n\nDesejou ter a beleza de uma árvore frondosa tatuada nas costas, copa espraiada sobre os ombros. Temendo, porém, o longo sofrimento imposto pelas agulhas, mandou tatuar na base da coluna, bem na base, a mínima semente.\n\nObserve a imagem do quadro de René Magritte chamado “A Clarividência” (1936): nele, o pintor observa atentamente um ovo pousado sobre a mesa enquanto pinta, na tela à sua frente, uma ave de asas abertas.\n\nO par “semente-árvore” do conto pode ser comparado ao par “ovo-ave” do quadro, devido a uma mesma relação existente entre os elementos de cada par. Essa relação expressa, no contexto das duas obras, a ideia de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "simultaneidade"
+      },
+      {
+        "letter": "B",
+        "text": "possibilidade"
+      },
+      {
+        "letter": "C",
+        "text": "instabilidade"
+      },
+      {
+        "letter": "D",
+        "text": "uniformidade"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A semente ainda não é árvore e o ovo ainda não é ave, mas ambos contêm o que podem vir a ser. Nos dois casos, o que se representa não é o estado atual do objeto e sim aquilo que nele está em potencial — a ideia de possibilidade. Simultaneidade suporia coexistência dos dois termos, e não há instabilidade nem uniformidade entre eles.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15588,6 +16167,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q17",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 17,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "Texto base - PARA COMEÇAR, de Marina Colasanti\n\nDesejou ter a beleza de uma árvore frondosa tatuada nas costas, copa espraiada sobre os ombros. Temendo, porém, o longo sofrimento imposto pelas agulhas, mandou tatuar na base da coluna, bem na base, a mínima semente.\n\nTanto o conto de Marina Colasanti quanto o quadro “A Clarividência”, de René Magritte, põem em evidência a seguinte condição da criação artística:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a razão"
+      },
+      {
+        "letter": "B",
+        "text": "a beleza"
+      },
+      {
+        "letter": "C",
+        "text": "a verdade"
+      },
+      {
+        "letter": "D",
+        "text": "a imaginação"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em ambos, o que está diante dos olhos é mínimo — uma semente, um ovo — e o que se representa é o que ainda não existe: a árvore frondosa, a ave em voo. Essa capacidade de ver no objeto aquilo que ele pode se tornar é a imaginação, condição sem a qual nem o conto nem o quadro se sustentariam. A razão, a beleza e a verdade não explicam esse salto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q18",
     "exam": "uerj",
     "year": 2020,
@@ -15621,6 +16236,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q18",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - PARA COMEÇAR, de Marina Colasanti\n\nDesejou ter a beleza de uma árvore frondosa tatuada nas costas, copa espraiada sobre os ombros. Temendo, porém, o longo sofrimento imposto pelas agulhas, mandou tatuar na base da coluna, bem na base, a mínima semente.\n\nNa narrativa, o desejo inicial e a decisão final do personagem podem ser relacionados por meio da seguinte figura de linguagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "metonímia"
+      },
+      {
+        "letter": "B",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "C",
+        "text": "antítese"
+      },
+      {
+        "letter": "D",
+        "text": "ironia"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O personagem queria a árvore frondosa e acabou tatuando a semente. Como a semente contém a árvore e a origina, uma passa a valer pela outra: a parte, ou a causa, representa o todo. Essa substituição por relação de contiguidade é a metonímia. Não há oposição de sentidos, exagero nem inversão irônica entre os dois termos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15660,6 +16311,115 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q19",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - PESCANDO NA MARGEM DO RIO, de Marina Colasanti\n\nEra um homem muito velho, que cada manhã acordava certo de que aquela seria a última. E porque seria a última, pegava o caniço, a latinha de iscas, e ia pescar na beira do rio. As poucas pessoas que ainda se ocupavam dele reclamaram, a princípio. Que aquilo era perigoso, que ficava muito só, que poderia ter um mal súbito. Depois, considerando que um mal súbito seria solução para vários problemas, deixaram que fosse, e logo deixaram de reparar quando ia. O velho entrou, assim, na categoria dos ausentes. (l. 1-6)\n\nAusente para os outros, continuava docemente presente para si mesmo. Ia ao rio com a alma fresca como a manhã. Demorava um pouco a chegar porque seus passos eram lentos, mas, não tendo pressa alguma, o caminho lhe era só prazer. Não havia nada ali que não conhecesse, as pedras, as poças, as árvores, e até o sapo que saltava na poça e as aves que cantavam nos galhos, tudo lhe era familiar. E embora a natureza não se curvasse para cumprimentá-lo, sabia-se bem-vindo. (l. 7-12)\n\nO dia escorria mais lento que a água. Quando algum peixe tinha a delicadeza de morder o seu anzol, ele o limpava ali mesmo, cuidadoso, e o assava sobre um fogo de gravetos. Quando nenhuma presença esticava a linha do caniço, comia o pão que havia trazido, molhado no rio para não ferir as gengivas desguarnecidas. À noite, em casa, ninguém lhe perguntava como havia sido o seu dia. (l. 13-17)\n\nFazia-se mais fraco, porém. E chegou a manhã em que, debruçando-se sobre a água antes mesmo de prender a isca na barbela afiada, viu faiscar um brilho novo. Apertou as pálpebras para ver melhor, não era um peixe. Movido pela correnteza, um anzol bem maior do que o seu agitava-se, sem isca. Por mais que se esforçasse, não conseguiu ver a linha, enxergava cada vez menos. Nem havia qualquer pescador por perto. (l. 18-24)\n\nO velho não descalçou as sandálias, as pedras da margem eram ásperas. Entrou na água devagar, evitando escorregar. Não chegou a perceber o frio, o tempo das percepções havia acabado. Alongou-se na água, mordeu o anzol que havia vindo por ele, e deixou-se levar. (l. 25-28)\n\nO conto inteiro pode ser compreendido como um eufemismo, que procura atenuar o sentido do seguinte tema abordado na narrativa:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a limitação da velhice"
+      },
+      {
+        "letter": "B",
+        "text": "a decadência do corpo"
+      },
+      {
+        "letter": "C",
+        "text": "a indiferença da família"
+      },
+      {
+        "letter": "D",
+        "text": "a proximidade da morte"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O velho acorda todo dia certo de que aquele será o último; vai enfraquecendo; e, no fim, entra no rio, morde um anzol vindo por ele e deixa-se levar. A morte nunca é nomeada — é dita pela imagem do pescador que se entrega ao anzol. O conto inteiro funciona, assim, como um modo suave de falar do que estava próximo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q20",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 20,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - PESCANDO NA MARGEM DO RIO, de Marina Colasanti\n\nEra um homem muito velho, que cada manhã acordava certo de que aquela seria a última. E porque seria a última, pegava o caniço, a latinha de iscas, e ia pescar na beira do rio. As poucas pessoas que ainda se ocupavam dele reclamaram, a princípio. Que aquilo era perigoso, que ficava muito só, que poderia ter um mal súbito. Depois, considerando que um mal súbito seria solução para vários problemas, deixaram que fosse, e logo deixaram de reparar quando ia. O velho entrou, assim, na categoria dos ausentes. (l. 1-6)\n\nAusente para os outros, continuava docemente presente para si mesmo. Ia ao rio com a alma fresca como a manhã. Demorava um pouco a chegar porque seus passos eram lentos, mas, não tendo pressa alguma, o caminho lhe era só prazer. Não havia nada ali que não conhecesse, as pedras, as poças, as árvores, e até o sapo que saltava na poça e as aves que cantavam nos galhos, tudo lhe era familiar. E embora a natureza não se curvasse para cumprimentá-lo, sabia-se bem-vindo. (l. 7-12)\n\nO dia escorria mais lento que a água. Quando algum peixe tinha a delicadeza de morder o seu anzol, ele o limpava ali mesmo, cuidadoso, e o assava sobre um fogo de gravetos. Quando nenhuma presença esticava a linha do caniço, comia o pão que havia trazido, molhado no rio para não ferir as gengivas desguarnecidas. À noite, em casa, ninguém lhe perguntava como havia sido o seu dia. (l. 13-17)\n\nFazia-se mais fraco, porém. E chegou a manhã em que, debruçando-se sobre a água antes mesmo de prender a isca na barbela afiada, viu faiscar um brilho novo. Apertou as pálpebras para ver melhor, não era um peixe. Movido pela correnteza, um anzol bem maior do que o seu agitava-se, sem isca. Por mais que se esforçasse, não conseguiu ver a linha, enxergava cada vez menos. Nem havia qualquer pescador por perto. (l. 18-24)\n\nO velho não descalçou as sandálias, as pedras da margem eram ásperas. Entrou na água devagar, evitando escorregar. Não chegou a perceber o frio, o tempo das percepções havia acabado. Alongou-se na água, mordeu o anzol que havia vindo por ele, e deixou-se levar. (l. 25-28)\n\nO conto constrói um paradoxo, que está formulado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o velho rejuvenesce"
+      },
+      {
+        "letter": "B",
+        "text": "o peixe se torna isca"
+      },
+      {
+        "letter": "C",
+        "text": "o pescador é pescado"
+      },
+      {
+        "letter": "D",
+        "text": "a natureza se artificializa"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Durante toda a narrativa o velho é quem lança o anzol. No desfecho, é ele quem morde o anzol que “havia vindo por ele” — o pescador ocupa o lugar da presa. A inversão dos papéis é o paradoxo em que o conto se resolve, e é também o que dá à morte a forma de um gesto familiar e sereno.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q21",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 21,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - PESCANDO NA MARGEM DO RIO, de Marina Colasanti\n\nEra um homem muito velho, que cada manhã acordava certo de que aquela seria a última. E porque seria a última, pegava o caniço, a latinha de iscas, e ia pescar na beira do rio. As poucas pessoas que ainda se ocupavam dele reclamaram, a princípio. Que aquilo era perigoso, que ficava muito só, que poderia ter um mal súbito. Depois, considerando que um mal súbito seria solução para vários problemas, deixaram que fosse, e logo deixaram de reparar quando ia. O velho entrou, assim, na categoria dos ausentes. (l. 1-6)\n\nAusente para os outros, continuava docemente presente para si mesmo. Ia ao rio com a alma fresca como a manhã. Demorava um pouco a chegar porque seus passos eram lentos, mas, não tendo pressa alguma, o caminho lhe era só prazer. Não havia nada ali que não conhecesse, as pedras, as poças, as árvores, e até o sapo que saltava na poça e as aves que cantavam nos galhos, tudo lhe era familiar. E embora a natureza não se curvasse para cumprimentá-lo, sabia-se bem-vindo. (l. 7-12)\n\nO dia escorria mais lento que a água. Quando algum peixe tinha a delicadeza de morder o seu anzol, ele o limpava ali mesmo, cuidadoso, e o assava sobre um fogo de gravetos. Quando nenhuma presença esticava a linha do caniço, comia o pão que havia trazido, molhado no rio para não ferir as gengivas desguarnecidas. À noite, em casa, ninguém lhe perguntava como havia sido o seu dia. (l. 13-17)\n\nFazia-se mais fraco, porém. E chegou a manhã em que, debruçando-se sobre a água antes mesmo de prender a isca na barbela afiada, viu faiscar um brilho novo. Apertou as pálpebras para ver melhor, não era um peixe. Movido pela correnteza, um anzol bem maior do que o seu agitava-se, sem isca. Por mais que se esforçasse, não conseguiu ver a linha, enxergava cada vez menos. Nem havia qualquer pescador por perto. (l. 18-24)\n\nO velho não descalçou as sandálias, as pedras da margem eram ásperas. Entrou na água devagar, evitando escorregar. Não chegou a perceber o frio, o tempo das percepções havia acabado. Alongou-se na água, mordeu o anzol que havia vindo por ele, e deixou-se levar. (l. 25-28)\n\nFalas e pensamentos de personagens podem ser incorporados pelo narrador, em discurso indireto livre, como se observa em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pegava o caniço, a latinha de iscas, e ia pescar na beira do rio. (l. 2)"
+      },
+      {
+        "letter": "B",
+        "text": "Que aquilo era perigoso, que ficava muito só, que poderia ter um mal súbito. (l. 3-4)"
+      },
+      {
+        "letter": "C",
+        "text": "O velho entrou, assim, na categoria dos ausentes. (l. 5-6)"
+      },
+      {
+        "letter": "D",
+        "text": "Demorava um pouco a chegar porque seus passos eram lentos, (l. 8-9)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em B, o narrador reproduz as reclamações das pessoas sem verbo de dizer e sem travessão ou aspas: as orações iniciadas por “que” trazem a fala alheia embutida na narração, com sua entonação preservada. É a marca do discurso indireto livre. As demais alternativas são narração pura, na voz do narrador.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q22",
     "exam": "uerj",
     "year": 2020,
@@ -15693,6 +16453,222 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q22",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - PESCANDO NA MARGEM DO RIO, de Marina Colasanti\n\nEra um homem muito velho, que cada manhã acordava certo de que aquela seria a última. E porque seria a última, pegava o caniço, a latinha de iscas, e ia pescar na beira do rio. As poucas pessoas que ainda se ocupavam dele reclamaram, a princípio. Que aquilo era perigoso, que ficava muito só, que poderia ter um mal súbito. Depois, considerando que um mal súbito seria solução para vários problemas, deixaram que fosse, e logo deixaram de reparar quando ia. O velho entrou, assim, na categoria dos ausentes. (l. 1-6)\n\nAusente para os outros, continuava docemente presente para si mesmo. Ia ao rio com a alma fresca como a manhã. Demorava um pouco a chegar porque seus passos eram lentos, mas, não tendo pressa alguma, o caminho lhe era só prazer. Não havia nada ali que não conhecesse, as pedras, as poças, as árvores, e até o sapo que saltava na poça e as aves que cantavam nos galhos, tudo lhe era familiar. E embora a natureza não se curvasse para cumprimentá-lo, sabia-se bem-vindo. (l. 7-12)\n\nO dia escorria mais lento que a água. Quando algum peixe tinha a delicadeza de morder o seu anzol, ele o limpava ali mesmo, cuidadoso, e o assava sobre um fogo de gravetos. Quando nenhuma presença esticava a linha do caniço, comia o pão que havia trazido, molhado no rio para não ferir as gengivas desguarnecidas. À noite, em casa, ninguém lhe perguntava como havia sido o seu dia. (l. 13-17)\n\nFazia-se mais fraco, porém. E chegou a manhã em que, debruçando-se sobre a água antes mesmo de prender a isca na barbela afiada, viu faiscar um brilho novo. Apertou as pálpebras para ver melhor, não era um peixe. Movido pela correnteza, um anzol bem maior do que o seu agitava-se, sem isca. Por mais que se esforçasse, não conseguiu ver a linha, enxergava cada vez menos. Nem havia qualquer pescador por perto. (l. 18-24)\n\nO velho não descalçou as sandálias, as pedras da margem eram ásperas. Entrou na água devagar, evitando escorregar. Não chegou a perceber o frio, o tempo das percepções havia acabado. Alongou-se na água, mordeu o anzol que havia vindo por ele, e deixou-se levar. (l. 25-28)\n\nAusente para os outros, continuava docemente presente para si mesmo. (l. 7)\n\nUma reformulação que mantém sentido equivalente ao da frase acima é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Continuava docemente presente para si mesmo, porque ausente para os outros."
+      },
+      {
+        "letter": "B",
+        "text": "Continuava docemente presente para si mesmo, quando ausente para os outros."
+      },
+      {
+        "letter": "C",
+        "text": "Continuava docemente presente para si mesmo, embora ausente para os outros."
+      },
+      {
+        "letter": "D",
+        "text": "Continuava docemente presente para si mesmo, portanto ausente para os outros."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A frase original contrapõe duas situações: ele desapareceu para os outros, mas continuou inteiro para si. Essa oposição, sem conectivo no original, é recuperada pela conjunção concessiva embora. Porque e portanto instalariam uma relação de causa e consequência que o texto não afirma, e quando reduziria a oposição a simples simultaneidade temporal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q23",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 23,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ¿FLETAR UN CRUCERO HASTA EL BORDE DE LA TIERRA?\n\nLa Conferencia Internacional de Flat Earth (FEIC) ha anunciado que fletará un crucero el año que viene con el absurdo fin de llegar hasta los confines de la Tierra. Según una parte de los seguidores de esta corriente, que defiende que la Tierra no es redonda, el planeta acaba en un muro de hielo que nos separa del espacio exterior, al que pretenden llegar en el crucero. Será “la aventura más grande, más audaz y mejor hasta la fecha”, según la publicitan en la web. La organización Flat Earth anunció el proyecto en su conferencia anual y así lo ha confirmado el periódico The Guardian. (l. 1-7)\n\nEl excapitán de barco Henk Keijer cuenta en este periódico que el crucero lo tiene crudo para navegar porque todas las cartas náuticas y los sistemas de navegación están diseñados bajo la premisa de que la Tierra es redonda. Si la tripulación opina que el planeta no es esférico, la navegación podría convertirse en una tarea “muy complicada”. “Los barcos navegan basándose en el principio de que la Tierra es redonda. Las cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, recuerda el excapitán, que añade que los barcos usan “un moderno sistema de navegación que se llama ECDIS, que proporciona una gran mejora en la seguridad de la navegación”. (l. 8-14)\n\nExisten varias teorías dentro de las que creen que la Tierra es plana, aunque la principal afirma que, después de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante con el polo norte en el centro y rodeado de “una barrera de pared de hielo: la Antártida”, según la sociedad terraplanista. “Hasta donde sabemos, nadie ha logrado ir mucho más allá del muro de hielo y ha regresado para contarlo. Lo que sabemos es que rodea la Tierra, sirve para contener a los océanos y ayuda a protegernos de lo que pueda haber más allá”, asegura la Flatpedia, la Wikipedia de los terraplanistas. (l. 15-21)\n\nLos organizadores del crucero advierten, por tanto, de que no garantizan llegar al muro, pero aseguran que los viajeros encontrarán “evidencias” suficientes para dar el viaje por bueno. Además de navegar al borde del precipicio, los terraplanistas podrán disfrutar de restaurantes y piscinas de olas para poder hacer surf. En los foros terraplanistas han colgado fotos que “demuestran la existencia de dicho muro”. En realidad son grandes láminas de hielo ártico que, al desprenderse de forma cada vez más frecuente debido al calentamiento global, dejan grandes cortes verticales que se asemejan a murallas. (l. 22-28)\n\nLa Flat Earth Society asegura que “las agencias espaciales del mundo” han conspirado para falsificar “el viaje espacial y la exploración”. “Probablemente empezó durante la Guerra Fría. La U.R.S.S. y los Estados Unidos estaban obsesionados con ser los mejores en cuanto a llegar al espacio se refiere, hasta el punto de que cada uno fingía sus logros en un intento por seguir el ritmo de los supuestos logros del rival”, aseguran. (l. 29-33)\n\nAdaptado de elpais.com, 12/01/2019.\n\nLos textos Sobreviveremos na Terra? y ¿Fletar un crucero hasta el borde de la Tierra? tienen un tema en común. El tema que comparten ambos los textos es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "el uso del espacio"
+      },
+      {
+        "letter": "B",
+        "text": "el formato del planeta"
+      },
+      {
+        "letter": "C",
+        "text": "la tecnología de navegación"
+      },
+      {
+        "letter": "D",
+        "text": "la planificación de una huida"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto de Hawking encerra lembrando que foi a curiosidade que levou os exploradores a provar que a Terra não era plana; o texto espanhol trata justamente de quem nega essa conclusão e organiza um cruzeiro até a suposta borda do disco. O ponto de contato entre ambos é, portanto, a forma do planeta.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q24",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 24,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ¿FLETAR UN CRUCERO HASTA EL BORDE DE LA TIERRA?\n\nLa Conferencia Internacional de Flat Earth (FEIC) ha anunciado que fletará un crucero el año que viene con el absurdo fin de llegar hasta los confines de la Tierra. Según una parte de los seguidores de esta corriente, que defiende que la Tierra no es redonda, el planeta acaba en un muro de hielo que nos separa del espacio exterior, al que pretenden llegar en el crucero. Será “la aventura más grande, más audaz y mejor hasta la fecha”, según la publicitan en la web. La organización Flat Earth anunció el proyecto en su conferencia anual y así lo ha confirmado el periódico The Guardian. (l. 1-7)\n\nEl excapitán de barco Henk Keijer cuenta en este periódico que el crucero lo tiene crudo para navegar porque todas las cartas náuticas y los sistemas de navegación están diseñados bajo la premisa de que la Tierra es redonda. Si la tripulación opina que el planeta no es esférico, la navegación podría convertirse en una tarea “muy complicada”. “Los barcos navegan basándose en el principio de que la Tierra es redonda. Las cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, recuerda el excapitán, que añade que los barcos usan “un moderno sistema de navegación que se llama ECDIS, que proporciona una gran mejora en la seguridad de la navegación”. (l. 8-14)\n\nExisten varias teorías dentro de las que creen que la Tierra es plana, aunque la principal afirma que, después de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante con el polo norte en el centro y rodeado de “una barrera de pared de hielo: la Antártida”, según la sociedad terraplanista. “Hasta donde sabemos, nadie ha logrado ir mucho más allá del muro de hielo y ha regresado para contarlo. Lo que sabemos es que rodea la Tierra, sirve para contener a los océanos y ayuda a protegernos de lo que pueda haber más allá”, asegura la Flatpedia, la Wikipedia de los terraplanistas. (l. 15-21)\n\nLos organizadores del crucero advierten, por tanto, de que no garantizan llegar al muro, pero aseguran que los viajeros encontrarán “evidencias” suficientes para dar el viaje por bueno. Además de navegar al borde del precipicio, los terraplanistas podrán disfrutar de restaurantes y piscinas de olas para poder hacer surf. En los foros terraplanistas han colgado fotos que “demuestran la existencia de dicho muro”. En realidad son grandes láminas de hielo ártico que, al desprenderse de forma cada vez más frecuente debido al calentamiento global, dejan grandes cortes verticales que se asemejan a murallas. (l. 22-28)\n\nLa Flat Earth Society asegura que “las agencias espaciales del mundo” han conspirado para falsificar “el viaje espacial y la exploración”. “Probablemente empezó durante la Guerra Fría. La U.R.S.S. y los Estados Unidos estaban obsesionados con ser los mejores en cuanto a llegar al espacio se refiere, hasta el punto de que cada uno fingía sus logros en un intento por seguir el ritmo de los supuestos logros del rival”, aseguran. (l. 29-33)\n\nAdaptado de elpais.com, 12/01/2019.\n\nEl periodista relata la noticia sobre el crucero y añade una evaluación suya sobre la teoría terraplanista. Esa evaluación se presenta en:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "con el absurdo fin de llegar hasta los confines de la Tierra. (l. 2)"
+      },
+      {
+        "letter": "B",
+        "text": "“la aventura más grande, más audaz y mejor hasta la fecha” (l. 4-5)"
+      },
+      {
+        "letter": "C",
+        "text": "advierten, por tanto, de que no garantizan llegar al muro, (l. 22)"
+      },
+      {
+        "letter": "D",
+        "text": "En realidad son grandes láminas de hielo ártico (l. 26-27)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O adjetivo absurdo não pertence à fala de ninguém: é do próprio jornalista, que assim qualifica o objetivo da viagem. As alternativas B e C reproduzem o que dizem os organizadores, com aspas ou verbo de dizer, e a D apresenta uma correção factual — informação, e não juízo de valor.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q25",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 25,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - ¿FLETAR UN CRUCERO HASTA EL BORDE DE LA TIERRA?\n\nLa Conferencia Internacional de Flat Earth (FEIC) ha anunciado que fletará un crucero el año que viene con el absurdo fin de llegar hasta los confines de la Tierra. Según una parte de los seguidores de esta corriente, que defiende que la Tierra no es redonda, el planeta acaba en un muro de hielo que nos separa del espacio exterior, al que pretenden llegar en el crucero. Será “la aventura más grande, más audaz y mejor hasta la fecha”, según la publicitan en la web. La organización Flat Earth anunció el proyecto en su conferencia anual y así lo ha confirmado el periódico The Guardian. (l. 1-7)\n\nEl excapitán de barco Henk Keijer cuenta en este periódico que el crucero lo tiene crudo para navegar porque todas las cartas náuticas y los sistemas de navegación están diseñados bajo la premisa de que la Tierra es redonda. Si la tripulación opina que el planeta no es esférico, la navegación podría convertirse en una tarea “muy complicada”. “Los barcos navegan basándose en el principio de que la Tierra es redonda. Las cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, recuerda el excapitán, que añade que los barcos usan “un moderno sistema de navegación que se llama ECDIS, que proporciona una gran mejora en la seguridad de la navegación”. (l. 8-14)\n\nExisten varias teorías dentro de las que creen que la Tierra es plana, aunque la principal afirma que, después de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante con el polo norte en el centro y rodeado de “una barrera de pared de hielo: la Antártida”, según la sociedad terraplanista. “Hasta donde sabemos, nadie ha logrado ir mucho más allá del muro de hielo y ha regresado para contarlo. Lo que sabemos es que rodea la Tierra, sirve para contener a los océanos y ayuda a protegernos de lo que pueda haber más allá”, asegura la Flatpedia, la Wikipedia de los terraplanistas. (l. 15-21)\n\nLos organizadores del crucero advierten, por tanto, de que no garantizan llegar al muro, pero aseguran que los viajeros encontrarán “evidencias” suficientes para dar el viaje por bueno. Además de navegar al borde del precipicio, los terraplanistas podrán disfrutar de restaurantes y piscinas de olas para poder hacer surf. En los foros terraplanistas han colgado fotos que “demuestran la existencia de dicho muro”. En realidad son grandes láminas de hielo ártico que, al desprenderse de forma cada vez más frecuente debido al calentamiento global, dejan grandes cortes verticales que se asemejan a murallas. (l. 22-28)\n\nLa Flat Earth Society asegura que “las agencias espaciales del mundo” han conspirado para falsificar “el viaje espacial y la exploración”. “Probablemente empezó durante la Guerra Fría. La U.R.S.S. y los Estados Unidos estaban obsesionados con ser los mejores en cuanto a llegar al espacio se refiere, hasta el punto de que cada uno fingía sus logros en un intento por seguir el ritmo de los supuestos logros del rival”, aseguran. (l. 29-33)\n\nAdaptado de elpais.com, 12/01/2019.\n\nLas cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, (l. 11-12)\n\nRespecto a la declaración que lo precede, el fragmento subrayado tiene valor de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "condición"
+      },
+      {
+        "letter": "B",
+        "text": "explicación"
+      },
+      {
+        "letter": "C",
+        "text": "comparación"
+      },
+      {
+        "letter": "D",
+        "text": "generalización"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase anterior afirma que os navios navegam com base no princípio de que a Terra é redonda. O fragmento seguinte detalha como isso se dá na prática — as cartas náuticas são desenhadas sob essa premissa —, esclarecendo a afirmação. Trata-se, portanto, de valor explicativo, reforçado pelos dois-pontos que abrem o conteúdo de “eso”.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q26",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 26,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - ¿FLETAR UN CRUCERO HASTA EL BORDE DE LA TIERRA?\n\nLa Conferencia Internacional de Flat Earth (FEIC) ha anunciado que fletará un crucero el año que viene con el absurdo fin de llegar hasta los confines de la Tierra. Según una parte de los seguidores de esta corriente, que defiende que la Tierra no es redonda, el planeta acaba en un muro de hielo que nos separa del espacio exterior, al que pretenden llegar en el crucero. Será “la aventura más grande, más audaz y mejor hasta la fecha”, según la publicitan en la web. La organización Flat Earth anunció el proyecto en su conferencia anual y así lo ha confirmado el periódico The Guardian. (l. 1-7)\n\nEl excapitán de barco Henk Keijer cuenta en este periódico que el crucero lo tiene crudo para navegar porque todas las cartas náuticas y los sistemas de navegación están diseñados bajo la premisa de que la Tierra es redonda. Si la tripulación opina que el planeta no es esférico, la navegación podría convertirse en una tarea “muy complicada”. “Los barcos navegan basándose en el principio de que la Tierra es redonda. Las cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, recuerda el excapitán, que añade que los barcos usan “un moderno sistema de navegación que se llama ECDIS, que proporciona una gran mejora en la seguridad de la navegación”. (l. 8-14)\n\nExisten varias teorías dentro de las que creen que la Tierra es plana, aunque la principal afirma que, después de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante con el polo norte en el centro y rodeado de “una barrera de pared de hielo: la Antártida”, según la sociedad terraplanista. “Hasta donde sabemos, nadie ha logrado ir mucho más allá del muro de hielo y ha regresado para contarlo. Lo que sabemos es que rodea la Tierra, sirve para contener a los océanos y ayuda a protegernos de lo que pueda haber más allá”, asegura la Flatpedia, la Wikipedia de los terraplanistas. (l. 15-21)\n\nLos organizadores del crucero advierten, por tanto, de que no garantizan llegar al muro, pero aseguran que los viajeros encontrarán “evidencias” suficientes para dar el viaje por bueno. Además de navegar al borde del precipicio, los terraplanistas podrán disfrutar de restaurantes y piscinas de olas para poder hacer surf. En los foros terraplanistas han colgado fotos que “demuestran la existencia de dicho muro”. En realidad son grandes láminas de hielo ártico que, al desprenderse de forma cada vez más frecuente debido al calentamiento global, dejan grandes cortes verticales que se asemejan a murallas. (l. 22-28)\n\nLa Flat Earth Society asegura que “las agencias espaciales del mundo” han conspirado para falsificar “el viaje espacial y la exploración”. “Probablemente empezó durante la Guerra Fría. La U.R.S.S. y los Estados Unidos estaban obsesionados con ser los mejores en cuanto a llegar al espacio se refiere, hasta el punto de que cada uno fingía sus logros en un intento por seguir el ritmo de los supuestos logros del rival”, aseguran. (l. 29-33)\n\nAdaptado de elpais.com, 12/01/2019.\n\ndespués de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante (l. 16)\n\nEn el enunciado arriba, las comillas se usan con la función de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "destacar argumento de autoridad"
+      },
+      {
+        "letter": "B",
+        "text": "resaltar extranjerismo"
+      },
+      {
+        "letter": "C",
+        "text": "indicar énfasis"
+      },
+      {
+        "letter": "D",
+        "text": "marcar citación"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As aspas delimitam palavras que não são do jornalista: elas reproduzem literalmente o que afirma a sociedade terraplanista, como o próprio texto indica ao encerrar a frase com “según la sociedad terraplanista”. É o uso mais comum das aspas no jornalismo — marcar a citação literal e, ao mesmo tempo, tomar distância do que é citado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q27",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 27,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - ¿FLETAR UN CRUCERO HASTA EL BORDE DE LA TIERRA?\n\nLa Conferencia Internacional de Flat Earth (FEIC) ha anunciado que fletará un crucero el año que viene con el absurdo fin de llegar hasta los confines de la Tierra. Según una parte de los seguidores de esta corriente, que defiende que la Tierra no es redonda, el planeta acaba en un muro de hielo que nos separa del espacio exterior, al que pretenden llegar en el crucero. Será “la aventura más grande, más audaz y mejor hasta la fecha”, según la publicitan en la web. La organización Flat Earth anunció el proyecto en su conferencia anual y así lo ha confirmado el periódico The Guardian. (l. 1-7)\n\nEl excapitán de barco Henk Keijer cuenta en este periódico que el crucero lo tiene crudo para navegar porque todas las cartas náuticas y los sistemas de navegación están diseñados bajo la premisa de que la Tierra es redonda. Si la tripulación opina que el planeta no es esférico, la navegación podría convertirse en una tarea “muy complicada”. “Los barcos navegan basándose en el principio de que la Tierra es redonda. Las cartas náuticas se diseñan con eso en mente: que la Tierra es redonda”, recuerda el excapitán, que añade que los barcos usan “un moderno sistema de navegación que se llama ECDIS, que proporciona una gran mejora en la seguridad de la navegación”. (l. 8-14)\n\nExisten varias teorías dentro de las que creen que la Tierra es plana, aunque la principal afirma que, después de “una extensa experimentación, análisis e investigación”, la Tierra es un disco gigante con el polo norte en el centro y rodeado de “una barrera de pared de hielo: la Antártida”, según la sociedad terraplanista. “Hasta donde sabemos, nadie ha logrado ir mucho más allá del muro de hielo y ha regresado para contarlo. Lo que sabemos es que rodea la Tierra, sirve para contener a los océanos y ayuda a protegernos de lo que pueda haber más allá”, asegura la Flatpedia, la Wikipedia de los terraplanistas. (l. 15-21)\n\nLos organizadores del crucero advierten, por tanto, de que no garantizan llegar al muro, pero aseguran que los viajeros encontrarán “evidencias” suficientes para dar el viaje por bueno. Además de navegar al borde del precipicio, los terraplanistas podrán disfrutar de restaurantes y piscinas de olas para poder hacer surf. En los foros terraplanistas han colgado fotos que “demuestran la existencia de dicho muro”. En realidad son grandes láminas de hielo ártico que, al desprenderse de forma cada vez más frecuente debido al calentamiento global, dejan grandes cortes verticales que se asemejan a murallas. (l. 22-28)\n\nLa Flat Earth Society asegura que “las agencias espaciales del mundo” han conspirado para falsificar “el viaje espacial y la exploración”. “Probablemente empezó durante la Guerra Fría. La U.R.S.S. y los Estados Unidos estaban obsesionados con ser los mejores en cuanto a llegar al espacio se refiere, hasta el punto de que cada uno fingía sus logros en un intento por seguir el ritmo de los supuestos logros del rival”, aseguran. (l. 29-33)\n\nAdaptado de elpais.com, 12/01/2019.\n\ncada uno fingía sus logros (l. 32)\n\nEn el trecho, una palabra que puede sustituir logros sin alteración significativa de sentido es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "actos"
+      },
+      {
+        "letter": "B",
+        "text": "desafíos"
+      },
+      {
+        "letter": "C",
+        "text": "conquistas"
+      },
+      {
+        "letter": "D",
+        "text": "experimentos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Logro, em espanhol, é a realização bem-sucedida de algo pretendido — nesse caso, os feitos espaciais que soviéticos e norte-americanos teriam simulado na corrida espacial. O equivalente mais próximo entre as opções é conquistas. Actos é genérico demais, desafíos designa o obstáculo e não a realização, e experimentos remete ao processo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15732,6 +16708,151 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q28",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 28,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Admita que, em dezembro de 2014, uma filha tinha 20 anos e seu pai, 50.\n\nEm dezembro de 2024, a razão entre as idades da filha e do pai será de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/5"
+      },
+      {
+        "letter": "B",
+        "text": "1/2"
+      },
+      {
+        "letter": "C",
+        "text": "3/4"
+      },
+      {
+        "letter": "D",
+        "text": "4/3"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Passados dez anos, ambos envelhecem igualmente: a filha terá 30 anos e o pai, 60. A razão entre as idades é 30/60 = 1/2. Note que a razão muda com o tempo, embora a diferença de idades, 30 anos, permaneça constante.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q29",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma gerente de loja e seu assistente viajam com frequência para São Paulo e voltam no mesmo dia. A gerente viaja a cada 24 dias e o assistente, a cada 16 dias, regularmente. Em um final de semana, eles viajaram juntos. Depois de x viagens da gerente e y viagens do assistente sozinhos, eles viajaram juntos novamente.\n\nO menor valor de x + y é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Eles voltam a viajar juntos no mínimo múltiplo comum de 24 e 16, que é 48 dias. Nesse intervalo, a gerente viaja nos dias 24 e 48 — uma viagem sozinha (dia 24) antes do reencontro; o assistente viaja nos dias 16, 32 e 48 — duas viagens sozinho. Logo x = 1, y = 2 e x + y = 3.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q30",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 30,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Um número N, inteiro e positivo, que satisfaz à inequação N² − 17N + 16 > 0 é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "7"
+      },
+      {
+        "letter": "C",
+        "text": "16"
+      },
+      {
+        "letter": "D",
+        "text": "17"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Fatorando, N² − 17N + 16 = (N − 1)(N − 16). O produto é positivo quando ambos os fatores têm o mesmo sinal, isto é, quando N < 1 ou N > 16. Entre as opções, apenas 17 satisfaz a condição: 17² − 17 × 17 + 16 = 16 > 0. Os valores 2, 7 e 16 estão no intervalo em que a expressão é negativa ou nula.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q31",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 31,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Plana"
+    ],
+    "statement": "Considere a função periódica definida por f(x) = 2·sen(x), com x ∈ R. No intervalo [π/2 , 5π/2], A e B são os pontos do gráfico em que f(π/2) = f(5π/2) = 2 são valores máximos dessa função. O retângulo ABCD tem o lado AB unindo esses dois pontos de máximo e os vértices C e D sobre o eixo x.\n\nA área do retângulo ABCD é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6π"
+      },
+      {
+        "letter": "B",
+        "text": "5π"
+      },
+      {
+        "letter": "C",
+        "text": "4π"
+      },
+      {
+        "letter": "D",
+        "text": "3π"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os dois máximos consecutivos ocorrem em x = π/2 e x = 5π/2, de modo que o lado AB mede 5π/2 − π/2 = 2π. Como o valor máximo da função é 2, a altura do retângulo é 2. A área é, portanto, 2π × 2 = 4π.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q32",
     "exam": "uerj",
     "year": 2020,
@@ -15765,6 +16886,78 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q32",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um valor aproximado da área do círculo pode ser obtido elevando-se ao quadrado 8/9 do seu diâmetro — método usado pelos egípcios da Antiguidade. Fazer esse cálculo corresponde a substituir, na fórmula da área do círculo, o valor de π por um número racional.\n\nEsse número é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "128/9"
+      },
+      {
+        "letter": "B",
+        "text": "256/9"
+      },
+      {
+        "letter": "C",
+        "text": "128/81"
+      },
+      {
+        "letter": "D",
+        "text": "256/81"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Sendo r o raio, o diâmetro é 2r e a aproximação dá A = (8/9 × 2r)² = (16r/9)² = 256r²/81. Comparando com a fórmula exata A = πr², conclui-se que o método equivale a tomar π ≈ 256/81 ≈ 3,16 — valor bastante próximo de 3,14.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q33",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 33,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Em uma fábrica, uma caixa com a forma de um paralelepípedo retângulo, com 25 cm de comprimento, 10 cm de largura e 8 cm de altura, é preenchida com pequenos cubos de 0,5 cm³. Inicialmente, apenas um cubo é colocado na caixa. Em seguida, a cada minuto, duplica-se o número de cubos dentro dela.\n\nConsidere a tabela: para x igual a 0,30; 0,48; 0,60 e 0,70, tem-se 10^x igual a 2, 3, 4 e 5, respectivamente.\n\nO valor do tempo t, em minutos, necessário para a caixa ser totalmente preenchida, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12"
+      },
+      {
+        "letter": "B",
+        "text": "14"
+      },
+      {
+        "letter": "C",
+        "text": "16"
+      },
+      {
+        "letter": "D",
+        "text": "18"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O volume da caixa é 25 × 10 × 8 = 2000 cm³, o que comporta 2000 ÷ 0,5 = 4000 cubos. Como o número de cubos dobra a cada minuto a partir de um, tem-se 2^t = 4000. Aplicando logaritmo decimal: t × log 2 = log 4000. Da tabela, log 2 = 0,30, e log 4000 = log 4 + log 1000 = 0,60 + 3 = 3,60. Logo t = 3,60 ÷ 0,30 = 12 minutos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15804,6 +16997,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q34",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 34,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um ponto P descreve uma trajetória curva sobre a superfície lateral de um cone circular reto cujo raio da base mede 10 cm e a geratriz, 60 cm. O ponto P inicia sua trajetória no ponto A, que pertence à circunferência da base, e dá uma volta completa em torno do cone, até retornar ao ponto A.\n\nCom a planificação da superfície lateral do cone, é possível calcular o menor comprimento da trajetória percorrida por P, que corresponde, em centímetros, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "50"
+      },
+      {
+        "letter": "B",
+        "text": "60"
+      },
+      {
+        "letter": "C",
+        "text": "18π"
+      },
+      {
+        "letter": "D",
+        "text": "20π"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Planificando a superfície lateral, obtém-se um setor circular de raio igual à geratriz, 60 cm, cujo arco tem comprimento igual ao da circunferência da base, 2π × 10 = 20π cm. O ângulo central desse setor é 20π ÷ 60 = π/3 rad, ou 60°. O menor caminho entre as duas posições do ponto A no plano é o segmento de reta que as une — a corda do setor —, que vale 2 × 60 × sen 30° = 60 cm. Como o triângulo formado é equilátero, o resultado se confirma.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q35",
     "exam": "uerj",
     "year": 2020,
@@ -15837,6 +17066,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q35",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 35,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Genética"
+    ],
+    "statement": "As duas cadeias carbônicas que formam a molécula de DNA são unidas por meio de ligações de hidrogênio entre bases nitrogenadas: o par adenina-timina é unido por duas ligações de hidrogênio, e o par guanina-citosina, por três.\n\nConsidere que uma molécula de DNA com todas as citosinas marcadas radioativamente foi transferida para uma célula sem qualquer substância radioativa. Após esse procedimento, a célula sofreu duas divisões mitóticas, originando quatro células-filhas.\n\nAo final das divisões mitóticas, a quantidade de células-filhas com radioatividade é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A replicação do DNA é semiconservativa: cada molécula-filha conserva uma das fitas originais. Na primeira divisão, as duas fitas marcadas se separam e cada célula-filha recebe uma delas — duas células marcadas. Na segunda divisão, cada uma dessas células origina uma célula com a fita marcada e outra sem marcação. Ao final, das quatro células, apenas duas contêm material radioativo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15876,6 +17142,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q36",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para romper uma ligação de hidrogênio de 1 mol de DNA, é necessário um valor médio de energia E = 30 kJ. Desprezando as forças dissipativas, e considerando g = 10 m/s², esse valor de E é capaz de elevar um corpo de massa m = 120 kg a uma altura h.\n\nO valor de h, em metros, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "25"
+      },
+      {
+        "letter": "B",
+        "text": "35"
+      },
+      {
+        "letter": "C",
+        "text": "45"
+      },
+      {
+        "letter": "D",
+        "text": "55"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Toda a energia é convertida em energia potencial gravitacional: E = m·g·h. Convertendo, E = 30 kJ = 30 000 J. Assim, h = E ÷ (m·g) = 30 000 ÷ (120 × 10) = 30 000 ÷ 1200 = 25 m.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q37",
     "exam": "uerj",
     "year": 2020,
@@ -15909,6 +17211,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q37",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 37,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Genética"
+    ],
+    "statement": "As duas cadeias carbônicas que formam a molécula de DNA são unidas por meio de ligações de hidrogênio entre bases nitrogenadas: o par adenina-timina é unido por duas ligações de hidrogênio, e o par guanina-citosina, por três.\n\nA desnaturação do DNA é o processo no qual as duas cadeias da molécula se separam devido à quebra das ligações de hidrogênio entre as bases nitrogenadas. Considere um estudo que comparou a desnaturação de quatro fragmentos de DNA — W, X, Y, Z — todos com a mesma quantidade total de bases nitrogenadas. O percentual de timina presente em cada um é: W, 10%; X, 20%; Y, 30%; Z, 40%.\n\nPara os quatro fragmentos, a desnaturação foi realizada mediante aquecimento, sem alteração de pH e com mesma temperatura inicial. No processo de aquecimento, a maior quantidade de energia foi consumida na desnaturação do seguinte fragmento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "W"
+      },
+      {
+        "letter": "B",
+        "text": "X"
+      },
+      {
+        "letter": "C",
+        "text": "Y"
+      },
+      {
+        "letter": "D",
+        "text": "Z"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Quanto menor a proporção de timina, menor a de adenina — que a acompanha em igual número — e, portanto, maior a de pares guanina-citosina. Como cada par G-C é mantido por três ligações de hidrogênio, contra duas do par A-T, o fragmento mais rico em G-C exige mais energia para se desnaturar. Com apenas 10% de timina, o fragmento W é o que tem mais pares G-C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -15948,6 +17287,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q39",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 39,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "ANO INTERNACIONAL DA TABELA PERIÓDICA\n\nHá 150 anos, a primeira versão da tabela periódica foi publicada por Dmitri Mendeleiev, que deixou lacunas para elementos ainda não descobertos e chegou a prever suas propriedades, dando-lhes nomes provisórios com o prefixo eca-, como o ecassilício.\n\nAtualmente, o símbolo do elemento correspondente ao ecassilício é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Al"
+      },
+      {
+        "letter": "B",
+        "text": "C"
+      },
+      {
+        "letter": "C",
+        "text": "Ge"
+      },
+      {
+        "letter": "D",
+        "text": "P"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Mendeleiev previu, na lacuna abaixo do silício, um elemento a que chamou ecassilício, antecipando com notável precisão sua massa atômica e sua densidade. Em 1886 esse elemento foi isolado e recebeu o nome de germânio (Ge), confirmando a força preditiva da classificação periódica. Alumínio, carbono e fósforo já eram conhecidos à época.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q40",
     "exam": "uerj",
     "year": 2020,
@@ -15981,6 +17356,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q40",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 40,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Considere uma amostra laboratorial de 0,43 g de mendelévio, elemento cuja massa molar é aproximadamente 258 g/mol.\n\nO número de átomos presentes nessa amostra equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10¹⁹"
+      },
+      {
+        "letter": "B",
+        "text": "10²¹"
+      },
+      {
+        "letter": "C",
+        "text": "10²³"
+      },
+      {
+        "letter": "D",
+        "text": "10²⁵"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A quantidade de matéria é n = 0,43 ÷ 258 ≈ 1,7 × 10⁻³ mol. Multiplicando pela constante de Avogadro: 1,7 × 10⁻³ × 6,0 × 10²³ ≈ 1,0 × 10²¹ átomos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16020,6 +17431,151 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q41",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 41,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução",
+      "Genética"
+    ],
+    "statement": "Determinado processo presente em todos os seres vivos não foi explicado pela teoria evolutiva de Charles Darwin, tendo sido esclarecido, mais tarde, pelas contribuições da teoria sintética da evolução.\n\nEsse processo é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "especiação"
+      },
+      {
+        "letter": "B",
+        "text": "diversificação"
+      },
+      {
+        "letter": "C",
+        "text": "seleção natural"
+      },
+      {
+        "letter": "D",
+        "text": "hereditariedade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Darwin observou que os descendentes se parecem com os pais e que há variação entre os indivíduos, mas não dispunha de uma explicação para o mecanismo de transmissão das características — as leis de Mendel só seriam redescobertas em 1900. Foi a teoria sintética, ao integrar genética e seleção natural na primeira metade do século XX, que esclareceu a hereditariedade e completou o modelo darwinista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q42",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 42,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um portão fixado a uma coluna está articulado no ponto O. A imagem indica também outros dois pontos, A e B, sobre o portão, situados a OB = 2,4 m e OA = 0,8 m do eixo de rotação. Para abrir o portão, uma pessoa exerce uma força perpendicular de 20 N no ponto B, produzindo um momento resultante M(B).\n\nO menor valor da força que deve ser aplicada no ponto A para que o momento resultante seja igual a M(B), em newtons, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15"
+      },
+      {
+        "letter": "B",
+        "text": "30"
+      },
+      {
+        "letter": "C",
+        "text": "45"
+      },
+      {
+        "letter": "D",
+        "text": "60"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O momento de uma força em relação ao eixo é o produto da força pela distância perpendicular ao eixo: M(B) = 20 × 2,4 = 48 N·m. Para obter o mesmo momento em A, que está a 0,8 m do eixo, é preciso F = 48 ÷ 0,8 = 60 N. O menor valor ocorre quando a força é aplicada perpendicularmente ao portão, pois qualquer outra direção reduziria o braço efetivo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q43",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 43,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Em situações de perigo, o sistema nervoso autônomo simpático produz uma série de alterações fisiológicas importantes para o corpo humano. Essa resposta do organismo é chamada de reação de luta ou fuga e provoca a liberação de adrenalina na corrente sanguínea.\n\nA liberação desse hormônio resulta na redução do seguinte processo vital:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sístole ventricular"
+      },
+      {
+        "letter": "B",
+        "text": "batimento cardíaco"
+      },
+      {
+        "letter": "C",
+        "text": "dilatação brônquica"
+      },
+      {
+        "letter": "D",
+        "text": "peristaltismo intestinal"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A adrenalina prepara o corpo para o esforço imediato: acelera o coração, aumenta a força de contração ventricular e dilata os brônquios, para levar mais oxigênio aos músculos. Ao mesmo tempo, desvia o sangue do aparelho digestório e inibe seus movimentos, já que a digestão pode esperar. O peristaltismo intestinal é, portanto, o único processo listado que diminui.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q44",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 44,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Em uma unidade industrial, emprega-se uma mistura líquida formada por solventes orgânicos que apresentam a fórmula molecular C2H6O.\n\nEntre os componentes da mistura, ocorre isomeria plana do seguinte tipo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cadeia"
+      },
+      {
+        "letter": "B",
+        "text": "função"
+      },
+      {
+        "letter": "C",
+        "text": "posição"
+      },
+      {
+        "letter": "D",
+        "text": "compensação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Dois compostos distintos respondem à fórmula C2H6O: o etanol (CH3—CH2—OH), um álcool, e o éter dimetílico (CH3—O—CH3), um éter. Como os isômeros pertencem a funções orgânicas diferentes, trata-se de isomeria de função, também chamada de isomeria funcional.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q45",
     "exam": "uerj",
     "year": 2020,
@@ -16053,6 +17609,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q45",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 45,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Botânica"
+    ],
+    "statement": "APICULTORES BRASILEIROS ENCONTRAM MEIO BILHÃO DE ABELHAS MORTAS EM TRÊS MESES\n\nNos últimos três meses, mais de 500 milhões de abelhas foram encontradas mortas por apicultores apenas em quatro estados brasileiros, segundo levantamento da Agência Pública e Repórter Brasil.\n\nAdaptado de sul21.com.br, março/2019.\n\nAlguns ecossistemas são gravemente afetados por desequilíbrios como o relatado na reportagem. Nesse caso, uma consequência para as plantas polinizadas por abelhas é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diminuição da necessidade de água"
+      },
+      {
+        "letter": "B",
+        "text": "redução da dispersão de sementes"
+      },
+      {
+        "letter": "C",
+        "text": "perda da variabilidade genética"
+      },
+      {
+        "letter": "D",
+        "text": "limitação da taxa de fotossíntese"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As abelhas transportam pólen de uma flor a outra, promovendo a polinização cruzada. Sem elas, as plantas dependentes desse serviço passam a se reproduzir por autofecundação ou simplesmente deixam de produzir sementes, e a recombinação entre indivíduos distintos diminui drasticamente. O efeito direto é a perda de variabilidade genética, que reduz a capacidade da população de responder a doenças e a mudanças ambientais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16092,6 +17685,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q47",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 47,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "O ALTO CUSTO DA ROUPA BARATA\n\n“O barato que sai caro.” Esse popular clichê fica nítido no documentário The true cost (“o verdadeiro custo”), do diretor Andrew Morgan, que investiga as práticas inconsequentes da indústria da moda ao inundar o mercado com roupas de baixo preço e quase descartáveis. O filme denuncia que alguém paga o preço para uma roupa custar muito barato, mostrando histórias chocantes, como um vilarejo em que há uma grande incidência de crianças nascidas com deficiências mentais e físicas devido aos resíduos da indústria têxtil que poluem as águas da região. Mas o documentário também traz uma contraposição: a ação de pessoas que estão trabalhando para mudar essa realidade, como a inglesa Safia Minney, uma das pioneiras do conceito de “comércio justo” no mundo.\n\nAdaptado de modapermitida.wordpress.com, 16/02/2016.\n\nO conceito de “comércio justo”, mencionado no texto, engloba o compromisso de viabilizar que o preço pago por uma mercadoria resulte nas seguintes garantias:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "direitos sociais e conservação ambiental"
+      },
+      {
+        "letter": "B",
+        "text": "direitos civis e flexibilidade da produção"
+      },
+      {
+        "letter": "C",
+        "text": "direitos autorais e preservação da natureza"
+      },
+      {
+        "letter": "D",
+        "text": "direitos políticos e concorrência empresarial"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O documentário aponta dois custos escondidos no preço baixo da roupa: a exploração de quem a produz e a contaminação provocada pelos resíduos têxteis. O comércio justo se propõe a corrigir exatamente esses dois pontos, assegurando remuneração digna e condições adequadas de trabalho — direitos sociais — e produção que não degrade o ambiente. Direitos civis, autorais e políticos não estão em questão no texto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q48",
     "exam": "uerj",
     "year": 2020,
@@ -16125,6 +17754,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q48",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 48,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "APÓS 70 ANOS, SIMONE DE BEAUVOIR AINDA MOSTRA CAMINHO DA LIBERDADE FEMININA\n\n“Ninguém nasce mulher: torna-se mulher”. A célebre frase que abre o segundo volume de O segundo sexo, de 1949, sintetiza as teses apresentadas por Simone de Beauvoir nas mais de 900 páginas de um estudo fascinante sobre a condição feminina. Beauvoir admite que as diferenças biológicas desempenham algum papel na construção da inferioridade feminina, mas defende que a importância social dada a essas diferenças é muito mais determinante para a opressão.\n\nAdaptado de revistatrip.uol.com.br, 29/01/2019.\n\nDe acordo com a filósofa, a condição de subordinação da mulher se explica, sobretudo, por fatores:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "étnico-raciais"
+      },
+      {
+        "letter": "B",
+        "text": "político-religiosos"
+      },
+      {
+        "letter": "C",
+        "text": "histórico-culturais"
+      },
+      {
+        "letter": "D",
+        "text": "econômico-científicos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao afirmar que não se nasce mulher, mas se torna, Beauvoir separa o sexo biológico da condição feminina: esta é construída ao longo da vida pela educação, pelos papéis atribuídos e pelas expectativas de cada sociedade. A subordinação não decorreria da natureza, e sim do sentido que a história e a cultura deram às diferenças corporais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16200,6 +17865,79 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q50",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "OS ARREPENDIDOS DO BREXIT\n\nO britânico Will Dry, estudante de política e economia, tinha 18 anos quando votou pela saída do Reino Unido da União Europeia (UE) no plebiscito de 2016. Dry faz parte de um grupo de arrependidos, identificados pela hashtag “Bregret” (combinação de “Brexit” e regret, arrependimento). São eleitores que se dizem enganados pelas promessas da campanha em defesa da retirada britânica da UE, principalmente a ideia de que o Reino Unido poderia manter o status de inserção e influência no plano europeu e mundial sem ter de se submeter à burocracia de uma entidade supranacional.\n\nAdaptado de epoca.globo.com, 02/05/2018.\n\nNo âmbito das novas relações com o bloco europeu, parte da população britânica que votou a favor do Brexit não dimensionou adequadamente a seguinte consequência dessa decisão:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ameaças à defesa do território"
+      },
+      {
+        "letter": "B",
+        "text": "restrições à circulação de riqueza"
+      },
+      {
+        "letter": "C",
+        "text": "limitações à autonomia do governo"
+      },
+      {
+        "letter": "D",
+        "text": "riscos à continuidade da democracia"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A União Europeia é, antes de tudo, um mercado comum: sair dela significa perder a livre circulação de mercadorias, serviços, capitais e trabalhadores, com volta de tarifas, controles alfandegários e barreiras não tarifárias. Foi esse custo econômico — subestimado por quem imaginava manter os benefícios sem as obrigações — que os arrependidos passaram a reconhecer. A autonomia do governo, ao contrário, aumenta com a saída.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q51",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População",
+      "Geopolítica"
+    ],
+    "statement": "MEDITERRÂNEO É O MAIOR CEMITÉRIO DA EUROPA HOJE\n\nTrata-se de um grave problema: as próprias leis da União Europeia e as convenções internacionais afirmam que os fugitivos salvos não podem ser levados de volta ao porto de embarque de onde escaparam da guerra, do terrorismo e da fome. Mas, ainda assim, todos os dias, dezenas de pessoas morrem durante a tentativa de atingir a Europa. Hoje, o Mediterrâneo virou o maior cemitério da Europa. [...] Vivemos uma situação absurda. A África é saqueada pelos países ocidentais, que depois não querem ver de perto o efeito de sua política. Os países europeus fecham suas fronteiras e ignoram que essas vítimas vão morrer justamente tentando fugir da situação que eles criaram.\n\nCLAUS PETER REISCH. Adaptado de gazetaonline.com.br, julho/2018. Acompanha a questão a imagem de um painel do artista Banksy na cidade britânica de Dover, onde chegam os navios provenientes da França, em que uma estrela da bandeira da União Europeia é apagada a cinzel.\n\nO depoimento e a imagem relacionam a atual crise migratória no Mediterrâneo aos seguintes processos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integração global e localismo étnico"
+      },
+      {
+        "letter": "B",
+        "text": "herança imperialista e nacionalismo xenófobo"
+      },
+      {
+        "letter": "C",
+        "text": "crise demográfica e modernização econômica"
+      },
+      {
+        "letter": "D",
+        "text": "dinamização comercial e desqualificação laboral"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O depoimento aponta a origem do fluxo na pilhagem histórica da África pelos países ocidentais — a herança colonial e imperialista que produziu guerras, miséria e Estados frágeis — e denuncia a resposta europeia de fechar fronteiras e ignorar as mortes. O painel de Banksy, com uma estrela da bandeira europeia sendo apagada, sintetiza o recuo nacionalista e a hostilidade ao estrangeiro que acompanham essa recusa.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q52",
     "exam": "uerj",
     "year": 2020,
@@ -16233,6 +17971,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q52",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 52,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Uma charge de 2016 apresenta lado a lado duas listas de características. À esquerda, ARÁBIA SAUDITA: aliado dos Estados Unidos; autoritário; fundamentalista; desrespeita os Direitos Humanos; aplica castigos corporais; tortura pessoas regularmente; decapita pessoas regularmente; oprime mulheres e minorias. À direita, GRUPO ESTADO ISLÂMICO (ISIS): inimigo dos Estados Unidos; autoritário; fundamentalista; desrespeita os Direitos Humanos; aplica castigos corporais; tortura pessoas regularmente; decapita pessoas regularmente; oprime mulheres e minorias.\n\nAdaptado de billingsgazette.com, 05/01/2016.\n\nEntre 2014 e 2017, derrotar o Estado Islâmico (ISIS) foi uma das prioridades da política externa dos Estados Unidos. Ao final de 2017, o ISIS foi considerado militarmente derrotado, perdendo o controle de praticamente todos os territórios que havia conquistado na Síria e no Iraque. A charge aponta a existência de uma incoerência entre os seguintes aspectos da política externa estadunidense no Oriente Médio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alinhamento étnico e liberdade religiosa"
+      },
+      {
+        "letter": "B",
+        "text": "fundamento ideológico e interesse econômico"
+      },
+      {
+        "letter": "C",
+        "text": "conservadorismo social e protagonismo ambiental"
+      },
+      {
+        "letter": "D",
+        "text": "multilateralismo diplomático e unilateralismo bélico"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As duas listas são idênticas em tudo, exceto na primeira linha: um é aliado, o outro é inimigo. A charge mostra que o discurso de defesa dos direitos humanos e da democracia — o fundamento ideológico invocado para combater o ISIS — não se aplica à Arábia Saudita, parceira estratégica por causa do petróleo e da venda de armamentos. A incoerência está entre o princípio proclamado e o interesse econômico que orienta as alianças.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16272,6 +18046,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q53",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 53,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O QUE É UMA NAÇÃO?\n\nO homem não é escravo nem de sua raça, nem de sua língua, nem de sua religião, nem do curso dos rios, nem da direção das cadeias de montanhas. Um grande agrupamento de homens, de espírito sadio e coração ardoroso, cria uma consciência moral que se chama nação. Enquanto puder provar sua força através dos sacrifícios que exigem a abdicação dos indivíduos em prol de uma comunidade, essa consciência moral será legítima, terá o direito de existir. Se surgem dúvidas quanto a fronteiras, consultem-se as populações envolvidas. Elas têm bem o direito de ter uma opinião na questão.\n\nERNEST RENAN. Conferência na Universidade de Sorbonne, 1882.\n\nAo longo do século XX, houve acontecimentos vinculados a projetos nacionalistas similares à concepção defendida por Ernest Renan, em 1882. Identifica-se como um desses acontecimentos a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emancipação do Vietnã na pacificação da Indochina"
+      },
+      {
+        "letter": "B",
+        "text": "divisão da Polônia no curso da Segunda Guerra Mundial"
+      },
+      {
+        "letter": "C",
+        "text": "criação da Iugoslávia no final da Primeira Guerra Mundial"
+      },
+      {
+        "letter": "D",
+        "text": "reunificação da Alemanha no contexto da crise da U.R.S.S."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Renan define a nação como escolha e vontade de viver em comum, e não como identidade de raça, língua ou religião. A Iugoslávia nasceu em 1918 justamente como união voluntária de povos de línguas, religiões e origens distintas — sérvios, croatas, eslovenos, bósnios — num mesmo Estado, projeto que corresponde a essa concepção. A divisão da Polônia foi imposição externa, e a reunificação alemã reuniu um povo já identificado por língua e cultura.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q54",
     "exam": "uerj",
     "year": 2020,
@@ -16305,6 +18115,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q54",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "TRANSAMAZÔNICA COMPLETA 45 ANOS\n\nA rodovia federal Transamazônica (BR−230) completou 45 anos em outubro de 2015, mas ainda não é asfaltada na sua totalidade. A rodovia começou a ser implantada ainda em 1970, no governo do general Emílio Garrastazu Médici. Dois anos depois, ela foi inaugurada. O trecho entre Marabá e Altamira é o que está em melhor estado atualmente. Um dos diretores do Departamento Nacional de Infraestrutura de Transportes (DNIT) disse que, durante esse período de mais de quatro décadas, muita coisa já foi feita, mas explicou que o país viveu uma mudança de filosofia: “Antigamente, o que era símbolo de desenvolvimento era um trator V8 derrubando uma árvore, uma castanheira; hoje, isso é um crime”.\n\nA mencionada “mudança de filosofia”, entre a década de 1970 e a atualidade, refere-se às seguintes prioridades em cada um desses momentos históricos, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estimular a presença militar – valorizar a proteção estrangeira"
+      },
+      {
+        "letter": "B",
+        "text": "solucionar a disparidade inter-regional – expandir a atividade extrativista"
+      },
+      {
+        "letter": "C",
+        "text": "garantir o crescimento econômico – promover o equilíbrio socioambiental"
+      },
+      {
+        "letter": "D",
+        "text": "controlar o deslocamento populacional – redimensionar a propriedade fundiária"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na década de 1970, sob o lema do “Brasil Grande”, a floresta era vista como obstáculo e a derrubada, como sinal de progresso: a rodovia integrava o projeto de crescimento econômico acelerado do regime militar. A fala do diretor do DNIT registra a inversão desse valor — derrubar uma castanheira hoje é crime —, expressão da prioridade atual de conciliar desenvolvimento e conservação, isto é, do equilíbrio socioambiental.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16344,6 +18191,43 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q55",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 55,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "O filme “O nascimento de uma nação”, lançado em 1915, foi baseado no livro The clansmen, publicado em 1905, de autoria do reverendo Thomas Dixon. Assim como Dixon, o diretor do filme, D. W. Griffith, foi um admirador da Ku Klux Klan.\n\nAinda hoje atuando nos E.U.A., a Ku Klux Klan defende o seguinte princípio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ética capitalista"
+      },
+      {
+        "letter": "B",
+        "text": "destino manifesto"
+      },
+      {
+        "letter": "C",
+        "text": "supremacia racial"
+      },
+      {
+        "letter": "D",
+        "text": "cultura individualista"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Fundada no Sul dos Estados Unidos após a Guerra de Secessão, a Ku Klux Klan organizou-se para impedir, pelo terror, o acesso da população negra recém-liberta aos direitos civis e políticos. Seu princípio é a supremacia branca, estendida depois à hostilidade contra judeus, católicos e imigrantes. O filme de Griffith foi decisivo para o ressurgimento da organização, ao retratá-la como heroica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q56",
     "exam": "uerj",
     "year": 2020,
@@ -16377,6 +18261,79 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q56",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 56,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade",
+      "Cidadania e Democracia"
+    ],
+    "statement": "INTELIGÊNCIA ARTIFICIAL ENTRA NO JOGO DA POLÍTICA\n\nO uso de tecnologias para influenciar o debate político não é novidade. Na eleição presidencial brasileira de 2014, 10% das interações no Twitter foram feitas por máquinas. Desde então, os cientistas encontraram evidências da influência de robôs em todos os grandes debates. Uma pesquisa da USP, com participantes de um protesto em São Paulo contra o governo Dilma, em 2015, mostrou que 64% acreditavam que o PT queria implantar um regime comunista, 71% que o filho de Lula é um dos sócios da Friboi e 53% que o PCC é um braço armado do PT. Já em manifestação contra o impeachment, no ano seguinte, 56,7% afirmavam que os protestos contra a corrupção foram articulados pelos E.U.A. e 55,7% diziam que o juiz Sergio Moro é filiado ao PSDB. Nenhum dos pontos mencionados nas enquetes é fato.\n\nFELIPE FLORESTI. Adaptado de revistagalileu.globo.com, 27/02/2018.\n\nA influência da inteligência artificial no debate político tornou-se eficaz após a ocorrência do seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação da inclusão digital"
+      },
+      {
+        "letter": "B",
+        "text": "enfraquecimento da ação legal"
+      },
+      {
+        "letter": "C",
+        "text": "eliminação da regulação estatal"
+      },
+      {
+        "letter": "D",
+        "text": "crescimento da competição empresarial"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Robôs e perfis automatizados só ganham poder de influência quando há muita gente conectada e informando-se pelas redes sociais. Foi a difusão do acesso à internet e aos smartphones — a inclusão digital de milhões de brasileiros — que criou o público capaz de receber e reproduzir em massa as informações falsas descritas na pesquisa. Sem essa base social, a técnica não teria alcance.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q57",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "COMO A REFORMA AGRÁRIA VEM OCORRENDO NO BRASIL\n\nO processo de reforma agrária com contornos similares aos atuais se iniciou em 1985, sob o governo de José Sarney. O Instituto Nacional de Colonização e Reforma Agrária disponibiliza dados sobre a forma como esse processo vem se dando no Brasil até 2018. No que diz respeito a desapropriações, a reforma agrária ocorreu de forma mais acentuada no primeiro governo do presidente Fernando Henrique Cardoso (1995-2003), mas perdeu fôlego já na metade de seu segundo mandato. O governo Lula (2004-2011) realizou muitos assentamentos, sem retomar, no entanto, as desapropriações. Gráficos da área desapropriada para fins de reforma agrária e da área utilizada para assentamentos, em hectares, entre 1994 e 2018, mostram queda acentuada das desapropriações a partir dos anos 2000.\n\nANDRÉ C. FÁBIO. Adaptado de nexojornal.com.br, 10/01/2019.\n\nOs dados apresentados indicam, como característica persistente da estrutura agrária brasileira, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação da pecuária intensiva"
+      },
+      {
+        "letter": "B",
+        "text": "declínio da produtividade laboral"
+      },
+      {
+        "letter": "C",
+        "text": "manutenção da concentração fundiária"
+      },
+      {
+        "letter": "D",
+        "text": "redirecionamento da exportação primária"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Assentar famílias em terras públicas ou já disponíveis não altera quem detém a propriedade da terra; só a desapropriação de grandes imóveis improdutivos faria isso. Como as desapropriações declinam a partir dos anos 2000 enquanto os assentamentos continuam, a estrutura fundiária permanece praticamente intacta — a concentração de terras nas mãos de poucos proprietários se mantém.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -16416,6 +18373,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q58",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 58,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "MUITA GENTE SEM CASA, MUITA CASA SEM GENTE\n\nA Constituição de 1988 e o Estatuto da Cidade de 2001 contemplam a função social da cidade. O problema é que, com a desindustrialização das metrópoles, a cidade deixou de ser o lugar de produção de bens e virou o próprio objeto da produção econômica. Em consequência dessa mudança, o número de imóveis vazios supera e muito o de famílias com problemas de moradia: em 2015, eram 7,91 milhões de imóveis vazios contra 6,36 milhões de famílias dentro do déficit habitacional.\n\nRODRIGO BERTOLOTTO. Adaptado de tab.uol.com.br, 03/12/2018.\n\nA contradição apresentada no texto e nos gráficos deve-se ao fato de que o espaço urbano possui, simultaneamente, os seguintes atributos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valor de uso e valor de troca"
+      },
+      {
+        "letter": "B",
+        "text": "patrimônio cultural e patrimônio individual"
+      },
+      {
+        "letter": "C",
+        "text": "estrutura unicêntrica e estrutura policêntrica"
+      },
+      {
+        "letter": "D",
+        "text": "território de circulação e território de resistência"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A moradia serve para morar — é seu valor de uso — mas também é mercadoria e reserva de valor, comprada para especulação e mantida vazia à espera de valorização: seu valor de troca. É a prevalência do segundo sobre o primeiro que produz o paradoxo de milhões de imóveis fechados convivendo com milhões de famílias sem casa, contrariando a função social da propriedade prevista na Constituição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q59",
     "exam": "uerj",
     "year": 2020,
@@ -16452,6 +18445,42 @@
     }
   },
   {
+    "id": "uerj-2020-eq1-q59",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 59,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "PUTIN INAUGURA PONTE ENTRE RÚSSIA E CRIMEIA\n\nO presidente russo, Vladimir Putin, inaugurou em maio de 2018 o trecho rodoviário de nova ponte que liga a Rússia continental à Península da Crimeia, anexada à Rússia em 2014. A Crimeia, uma ex-república autônoma que integrava a Ucrânia, foi anexada pela Rússia durante uma grave crise que culminou num conflito entre forças leais ao governo ucraniano e milícias separatistas apoiadas por Moscou. A Ucrânia denunciou a construção como uma flagrante violação das leis internacionais. Putin dirigiu um enorme caminhão Kamaz, de fabricação russa, pelos 19 quilômetros da ponte sobre o estreito de Kerch. Em discurso, o presidente exaltou a construção da ponte de 3,6 bilhões de dólares como um feito histórico e prometeu novas obras de infraestrutura na península.\n\nAdaptado de dw.com. Um mapa mostra que a Crimeia liga-se por terra apenas à Ucrânia, pelo istmo de Armyansk, e que a nova ponte cruza o estreito de Kerch, unindo-a diretamente ao território russo.\n\nA ponte mencionada indica mudanças no processo de anexação da Crimeia à jurisdição do governo russo, na atualidade. Tendo como base o mapa e as informações da reportagem, essa obra promove a seguinte estratégia:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "homogeneização política"
+      },
+      {
+        "letter": "B",
+        "text": "modernização financeira"
+      },
+      {
+        "letter": "C",
+        "text": "centralização cultural"
+      },
+      {
+        "letter": "D",
+        "text": "integração territorial"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Até 2018, a única ligação terrestre da Crimeia era com a Ucrânia, pelo istmo de Armyansk — o que mantinha a península dependente do país de que fora separada. A ponte sobre o estreito de Kerch cria um vínculo físico direto com a Rússia continental, consolidando na prática a anexação e assegurando o abastecimento e o trânsito militar. Trata-se, portanto, de integração territorial.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2020-q60",
     "exam": "uerj",
     "year": 2020,
@@ -16485,6 +18514,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2020, reproduzida na íntegra para fins educacionais e não comerciais."
+    }
+  },
+  {
+    "id": "uerj-2020-eq1-q60",
+    "exam": "uerj",
+    "year": 2020,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "ATO INSTITUCIONAL Nº 1, DE 09 DE ABRIL DE 1964\n\nArt. 1º - São mantidas a Constituição de 1946 e as Constituições estaduais e respectivas Emendas, com as modificações constantes deste Ato. (...)\n\nArt. 4º - O Presidente da República poderá enviar ao Congresso Nacional projetos de lei sobre qualquer matéria, os quais deverão ser apreciados dentro de trinta (30) dias, a contar do seu recebimento na Câmara dos Deputados, e de igual prazo no Senado Federal; caso contrário, serão tidos como aprovados. (...)\n\nArt. 10º - No interesse da paz e da honra nacional, e sem as limitações previstas na Constituição, os Comandantes-em-Chefe, que editam o presente Ato, poderão suspender os direitos políticos pelo prazo de dez (10) anos e cassar mandatos legislativos federais, estaduais e municipais, excluída a apreciação judicial desses atos. (...)\n\nplanalto.gov.br\n\nO Ato Institucional nº 1 foi editado logo após a deposição do presidente João Goulart, em 1964. Nele, figuraram medidas destinadas a legitimar as ações do novo governo, como indica o texto. Um dos efeitos imediatos dessas medidas, no que se refere à atuação do Poder Legislativo, foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação de atribuições decisórias"
+      },
+      {
+        "letter": "B",
+        "text": "restrição de incumbências tributárias"
+      },
+      {
+        "letter": "C",
+        "text": "convocação de eleições parlamentares"
+      },
+      {
+        "letter": "D",
+        "text": "perseguição de grupos oposicionistas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O artigo 10 autoriza os comandantes militares a suspender direitos políticos por dez anos e a cassar mandatos de deputados, senadores e vereadores, sem qualquer possibilidade de recurso ao Judiciário. O efeito imediato sobre o Legislativo foi a eliminação dos parlamentares contrários ao golpe. A alternativa A inverte o sentido do artigo 4º, que reduz o poder do Congresso ao impor aprovação por decurso de prazo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2020 (aplicado em 09/06/2019), caderno de questões e gabarito oficial."
     }
   },
   {
