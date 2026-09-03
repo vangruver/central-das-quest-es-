@@ -3786,6 +3786,43 @@
     }
   },
   {
+    "id": "uerj-2017-q01",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Literatura"
+    ],
+    "statement": "Texto base - ESAÚ E JACÓ (excerto)\n\nEra a primeira vez que as duas iam ao morro do Castelo. Começaram a subir pelo lado da Rua do Carmo. Muita gente há no Rio de Janeiro que nunca lá foi, muita haverá morrido, muita mais nascerá e morrerá sem lá pôr os pés. Nem todos podem dizer que conhecem uma cidade inteira. Um velho inglês, que aliás andara terras e terras, confiava-me há muitos anos em Londres que de Londres só conhecia bem o seu clube, e era o que lhe bastava da metrópole e do mundo. (l. 1-5)\n\nNatividade e Perpétua conheciam outras partes, além de Botafogo, mas o morro do Castelo, por mais que ouvissem falar dele e da cabocla que lá reinava em 1871, era-lhes tão estranho e remoto como o clube. O íngreme, o desigual, o mal calçado da ladeira mortificavam os pés às duas pobres donas. Não obstante, continuavam a subir, como se fosse penitência, devagarinho, cara no chão, véu para baixo. A manhã trazia certo movimento; mulheres, homens, crianças que desciam ou subiam, lavadeiras e soldados, algum empregado, algum lojista, algum padre, todos olhavam espantados para elas, que aliás vestiam com grande simplicidade; mas há um donaire* que se não perde, e não era vulgar naquelas alturas. A mesma lentidão no andar, comparada à rapidez das outras pessoas, fazia desconfiar que era a primeira vez que ali iam. (l. 6-14)\n\nCom efeito, as duas senhoras buscavam disfarçadamente o número da casa da cabocla, até que deram com ele. A casa era como as outras, trepada no morro. Subia-se por uma escadinha, estreita, sombria, adequada à aventura. Quiseram entrar depressa, mas esbarraram com dous sujeitos que vinham saindo, e coseram-se ao portal. Um deles perguntou-lhes familiarmente se iam consultar a adivinha. — Perdem o seu tempo, concluiu furioso, e hão de ouvir muito disparate... — É mentira dele, emendou o outro, rindo; a cabocla sabe muito bem onde tem o nariz. (l. 15-22)\n\nHesitaram um pouco; mas, logo depois advertiram que as palavras do primeiro eram sinal certo da vidência e da franqueza da adivinha; nem todos teriam a mesma sorte alegre. A dos meninos da Natividade podia ser miserável, e então... Enquanto cogitavam passou fora um carteiro, que as fez subir mais depressa, para escapar a outros olhos. Tinham fé, mas tinham também vexame da opinião, como um devoto que se benzesse às escondidas. (l. 22-26)\n\nVelho caboclo, pai da adivinha, conduziu as senhoras à sala. — Minha filha já vem, disse o velho. As senhoras como se chamam? A falar verdade, temiam o seu tanto, Perpétua menos que Natividade. A aventura parecia audaz, e algum perigo possível. Não ponho aqui os seus gestos; imaginai que eram inquietos e desconcertados. Nenhuma dizia nada. Natividade confessou depois que tinha um nó na garganta. Felizmente, a cabocla não se demorou muito; ao cabo de três ou quatro minutos, o pai a trouxe pela mão, erguendo a cortina do fundo. (l. 27-33)\n\nMACHADO DE ASSIS. Esaú e Jacó. Rio de Janeiro: Francisco Alves, 1976.\n* donaire - elegância\n\nNo texto de Machado de Assis, narra-se um episódio protagonizado por duas personagens que se dirigem a uma consulta com uma adivinha. Com base no exposto no texto, uma motivação para essa consulta pode ser descrita como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "preocupação oriunda de perda de bens"
+      },
+      {
+        "letter": "B",
+        "text": "decepção em virtude de traição de amigos"
+      },
+      {
+        "letter": "C",
+        "text": "angústia em função de mudanças no trabalho"
+      },
+      {
+        "letter": "D",
+        "text": "ansiedade derivada de acontecimentos na família"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A única pista sobre o objeto da consulta está em “A dos meninos da Natividade podia ser miserável” — isto é, o que as move é a sorte dos filhos de Natividade, os gêmeos que dão título ao romance. A motivação é, portanto, a ansiedade diante de acontecimentos familiares, reforçada pelo nó na garganta e pelo temor descrito no último parágrafo. Nada no trecho remete a bens, amigos ou trabalho.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q02",
     "exam": "uerj",
     "year": 2017,
@@ -3819,6 +3856,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q02",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - ESAÚ E JACÓ (excerto)\n\nEra a primeira vez que as duas iam ao morro do Castelo. Começaram a subir pelo lado da Rua do Carmo. Muita gente há no Rio de Janeiro que nunca lá foi, muita haverá morrido, muita mais nascerá e morrerá sem lá pôr os pés. Nem todos podem dizer que conhecem uma cidade inteira. Um velho inglês, que aliás andara terras e terras, confiava-me há muitos anos em Londres que de Londres só conhecia bem o seu clube, e era o que lhe bastava da metrópole e do mundo. (l. 1-5)\n\nNatividade e Perpétua conheciam outras partes, além de Botafogo, mas o morro do Castelo, por mais que ouvissem falar dele e da cabocla que lá reinava em 1871, era-lhes tão estranho e remoto como o clube. O íngreme, o desigual, o mal calçado da ladeira mortificavam os pés às duas pobres donas. Não obstante, continuavam a subir, como se fosse penitência, devagarinho, cara no chão, véu para baixo. A manhã trazia certo movimento; mulheres, homens, crianças que desciam ou subiam, lavadeiras e soldados, algum empregado, algum lojista, algum padre, todos olhavam espantados para elas, que aliás vestiam com grande simplicidade; mas há um donaire* que se não perde, e não era vulgar naquelas alturas. A mesma lentidão no andar, comparada à rapidez das outras pessoas, fazia desconfiar que era a primeira vez que ali iam. (l. 6-14)\n\nCom efeito, as duas senhoras buscavam disfarçadamente o número da casa da cabocla, até que deram com ele. A casa era como as outras, trepada no morro. Subia-se por uma escadinha, estreita, sombria, adequada à aventura. Quiseram entrar depressa, mas esbarraram com dous sujeitos que vinham saindo, e coseram-se ao portal. Um deles perguntou-lhes familiarmente se iam consultar a adivinha. — Perdem o seu tempo, concluiu furioso, e hão de ouvir muito disparate... — É mentira dele, emendou o outro, rindo; a cabocla sabe muito bem onde tem o nariz. (l. 15-22)\n\nHesitaram um pouco; mas, logo depois advertiram que as palavras do primeiro eram sinal certo da vidência e da franqueza da adivinha; nem todos teriam a mesma sorte alegre. A dos meninos da Natividade podia ser miserável, e então... Enquanto cogitavam passou fora um carteiro, que as fez subir mais depressa, para escapar a outros olhos. Tinham fé, mas tinham também vexame da opinião, como um devoto que se benzesse às escondidas. (l. 22-26)\n\nVelho caboclo, pai da adivinha, conduziu as senhoras à sala. — Minha filha já vem, disse o velho. As senhoras como se chamam? A falar verdade, temiam o seu tanto, Perpétua menos que Natividade. A aventura parecia audaz, e algum perigo possível. Não ponho aqui os seus gestos; imaginai que eram inquietos e desconcertados. Nenhuma dizia nada. Natividade confessou depois que tinha um nó na garganta. Felizmente, a cabocla não se demorou muito; ao cabo de três ou quatro minutos, o pai a trouxe pela mão, erguendo a cortina do fundo. (l. 27-33)\n\nMACHADO DE ASSIS. Esaú e Jacó. Rio de Janeiro: Francisco Alves, 1976.\n* donaire - elegância\n\nA caracterização das personagens centrais se faz, em grande medida, em relação com a composição do espaço onde circulam. No segundo parágrafo (l. 6-14), observa-se essa relação na ênfase dada ao seguinte aspecto retratado no ambiente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "censura moral"
+      },
+      {
+        "letter": "B",
+        "text": "rotinas de trabalho"
+      },
+      {
+        "letter": "C",
+        "text": "preconceito religioso"
+      },
+      {
+        "letter": "D",
+        "text": "diferenças de gênero"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O parágrafo povoa o morro com “lavadeiras e soldados, algum empregado, algum lojista, algum padre”, todos em movimento rápido pela manhã — o mundo do trabalho cotidiano. É contra esse fundo que as duas senhoras se destacam: andam devagar, vestem-se com simplicidade mas conservam um donaire que “não era vulgar naquelas alturas”. O espaço laborioso é o que define, por contraste, a condição social delas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -3858,6 +3931,42 @@
     }
   },
   {
+    "id": "uerj-2017-q03",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 3,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - ESAÚ E JACÓ (excerto)\n\nEra a primeira vez que as duas iam ao morro do Castelo. Começaram a subir pelo lado da Rua do Carmo. Muita gente há no Rio de Janeiro que nunca lá foi, muita haverá morrido, muita mais nascerá e morrerá sem lá pôr os pés. Nem todos podem dizer que conhecem uma cidade inteira. Um velho inglês, que aliás andara terras e terras, confiava-me há muitos anos em Londres que de Londres só conhecia bem o seu clube, e era o que lhe bastava da metrópole e do mundo. (l. 1-5)\n\nNatividade e Perpétua conheciam outras partes, além de Botafogo, mas o morro do Castelo, por mais que ouvissem falar dele e da cabocla que lá reinava em 1871, era-lhes tão estranho e remoto como o clube. O íngreme, o desigual, o mal calçado da ladeira mortificavam os pés às duas pobres donas. Não obstante, continuavam a subir, como se fosse penitência, devagarinho, cara no chão, véu para baixo. A manhã trazia certo movimento; mulheres, homens, crianças que desciam ou subiam, lavadeiras e soldados, algum empregado, algum lojista, algum padre, todos olhavam espantados para elas, que aliás vestiam com grande simplicidade; mas há um donaire* que se não perde, e não era vulgar naquelas alturas. A mesma lentidão no andar, comparada à rapidez das outras pessoas, fazia desconfiar que era a primeira vez que ali iam. (l. 6-14)\n\nCom efeito, as duas senhoras buscavam disfarçadamente o número da casa da cabocla, até que deram com ele. A casa era como as outras, trepada no morro. Subia-se por uma escadinha, estreita, sombria, adequada à aventura. Quiseram entrar depressa, mas esbarraram com dous sujeitos que vinham saindo, e coseram-se ao portal. Um deles perguntou-lhes familiarmente se iam consultar a adivinha. — Perdem o seu tempo, concluiu furioso, e hão de ouvir muito disparate... — É mentira dele, emendou o outro, rindo; a cabocla sabe muito bem onde tem o nariz. (l. 15-22)\n\nHesitaram um pouco; mas, logo depois advertiram que as palavras do primeiro eram sinal certo da vidência e da franqueza da adivinha; nem todos teriam a mesma sorte alegre. A dos meninos da Natividade podia ser miserável, e então... Enquanto cogitavam passou fora um carteiro, que as fez subir mais depressa, para escapar a outros olhos. Tinham fé, mas tinham também vexame da opinião, como um devoto que se benzesse às escondidas. (l. 22-26)\n\nVelho caboclo, pai da adivinha, conduziu as senhoras à sala. — Minha filha já vem, disse o velho. As senhoras como se chamam? A falar verdade, temiam o seu tanto, Perpétua menos que Natividade. A aventura parecia audaz, e algum perigo possível. Não ponho aqui os seus gestos; imaginai que eram inquietos e desconcertados. Nenhuma dizia nada. Natividade confessou depois que tinha um nó na garganta. Felizmente, a cabocla não se demorou muito; ao cabo de três ou quatro minutos, o pai a trouxe pela mão, erguendo a cortina do fundo. (l. 27-33)\n\nMACHADO DE ASSIS. Esaú e Jacó. Rio de Janeiro: Francisco Alves, 1976.\n* donaire - elegância\n\nO íngreme, o desigual, o mal calçado da ladeira mortificavam os pés às duas pobres donas. (l. 8-9)\n\nNessa frase, um recurso de linguagem é utilizado para reforçar o incômodo das personagens. Esse recurso é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "paráfrase"
+      },
+      {
+        "letter": "B",
+        "text": "gradação"
+      },
+      {
+        "letter": "C",
+        "text": "eufemismo"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase enfileira três características da ladeira — o íngreme, o desigual, o mal calçado — numa sequência que vai somando dificuldades até culminar no verbo “mortificavam”. Esse encadeamento em intensidade crescente é a gradação, e é ele que faz o leitor sentir o desconforto acumulado da subida. Não há reformulação de um enunciado anterior (paráfrase) nem atenuação (eufemismo).",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q04",
     "exam": "uerj",
     "year": 2017,
@@ -3891,6 +4000,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q04",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 4,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - ESAÚ E JACÓ (excerto)\n\nEra a primeira vez que as duas iam ao morro do Castelo. Começaram a subir pelo lado da Rua do Carmo. Muita gente há no Rio de Janeiro que nunca lá foi, muita haverá morrido, muita mais nascerá e morrerá sem lá pôr os pés. Nem todos podem dizer que conhecem uma cidade inteira. Um velho inglês, que aliás andara terras e terras, confiava-me há muitos anos em Londres que de Londres só conhecia bem o seu clube, e era o que lhe bastava da metrópole e do mundo. (l. 1-5)\n\nNatividade e Perpétua conheciam outras partes, além de Botafogo, mas o morro do Castelo, por mais que ouvissem falar dele e da cabocla que lá reinava em 1871, era-lhes tão estranho e remoto como o clube. O íngreme, o desigual, o mal calçado da ladeira mortificavam os pés às duas pobres donas. Não obstante, continuavam a subir, como se fosse penitência, devagarinho, cara no chão, véu para baixo. A manhã trazia certo movimento; mulheres, homens, crianças que desciam ou subiam, lavadeiras e soldados, algum empregado, algum lojista, algum padre, todos olhavam espantados para elas, que aliás vestiam com grande simplicidade; mas há um donaire* que se não perde, e não era vulgar naquelas alturas. A mesma lentidão no andar, comparada à rapidez das outras pessoas, fazia desconfiar que era a primeira vez que ali iam. (l. 6-14)\n\nCom efeito, as duas senhoras buscavam disfarçadamente o número da casa da cabocla, até que deram com ele. A casa era como as outras, trepada no morro. Subia-se por uma escadinha, estreita, sombria, adequada à aventura. Quiseram entrar depressa, mas esbarraram com dous sujeitos que vinham saindo, e coseram-se ao portal. Um deles perguntou-lhes familiarmente se iam consultar a adivinha. — Perdem o seu tempo, concluiu furioso, e hão de ouvir muito disparate... — É mentira dele, emendou o outro, rindo; a cabocla sabe muito bem onde tem o nariz. (l. 15-22)\n\nHesitaram um pouco; mas, logo depois advertiram que as palavras do primeiro eram sinal certo da vidência e da franqueza da adivinha; nem todos teriam a mesma sorte alegre. A dos meninos da Natividade podia ser miserável, e então... Enquanto cogitavam passou fora um carteiro, que as fez subir mais depressa, para escapar a outros olhos. Tinham fé, mas tinham também vexame da opinião, como um devoto que se benzesse às escondidas. (l. 22-26)\n\nVelho caboclo, pai da adivinha, conduziu as senhoras à sala. — Minha filha já vem, disse o velho. As senhoras como se chamam? A falar verdade, temiam o seu tanto, Perpétua menos que Natividade. A aventura parecia audaz, e algum perigo possível. Não ponho aqui os seus gestos; imaginai que eram inquietos e desconcertados. Nenhuma dizia nada. Natividade confessou depois que tinha um nó na garganta. Felizmente, a cabocla não se demorou muito; ao cabo de três ou quatro minutos, o pai a trouxe pela mão, erguendo a cortina do fundo. (l. 27-33)\n\nMACHADO DE ASSIS. Esaú e Jacó. Rio de Janeiro: Francisco Alves, 1976.\n* donaire - elegância\n\nTinham fé, mas tinham também vexame da opinião, como um devoto que se benzesse às escondidas. (l. 25-26)\n\nA frase acima expõe um ponto de vista do narrador acerca do comportamento ambíguo das personagens. Uma passagem que antecipa a exposição desse ponto de vista está registrada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "continuavam a subir, como se fosse penitência, devagarinho, cara no chão, véu para baixo. (l. 9-10)"
+      },
+      {
+        "letter": "B",
+        "text": "A mesma lentidão no andar, comparada à rapidez das outras pessoas, fazia desconfiar (l. 13-14)"
+      },
+      {
+        "letter": "C",
+        "text": "Subia-se por uma escadinha, estreita, sombria, adequada à aventura. (l. 16-17)"
+      },
+      {
+        "letter": "D",
+        "text": "Um deles perguntou-lhes familiarmente se iam consultar a adivinha. (l. 18-19)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A ambiguidade consiste em crer e, ao mesmo tempo, envergonhar-se de crer. A imagem da subida “como se fosse penitência, devagarinho, cara no chão, véu para baixo” já reúne os dois lados: o gesto devoto e o esforço de não ser reconhecida. As demais passagens registram a estranheza dos outros ou descrevem o espaço, sem antecipar o conflito interno das personagens.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -3930,6 +4075,42 @@
     }
   },
   {
+    "id": "uerj-2017-q05",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 5,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - crônica de Francisco Bosco sobre as redes sociais\n\nResisti a entrar para o Facebook e, mesmo quando já fazia parte de sua rede, minha opinião sobre ela não era das melhores: fragmentação da percepção, e portanto da capacidade cognitiva; intensificação do narcisismo exibicionista da cultura contemporânea; império do senso comum; indistinção entre o público e o privado. Não sei se fui eu quem mudou, se foram meus “amigos” ou se foi a própria rede, mas, hoje, sem que os traços acima tenham deixado de existir, nenhum deles, nem mesmo todos eles em conjunto me parecem decisivos, ao menos na minha experiência: agora compreendo e utilizo a rede social como a televisão do século XXI, com diferenças e vantagens sobre a TV tradicional. (l. 1-8)\n\nA internet, as tecnologias wiki de interação e as redes sociais têm uma dimensão, para usar a expressão do escritor Andrew Keen, de “culto do amador”, mas tal dimensão convive com o seu oposto, que é essa crítica da mídia tradicional pela nova mídia, cujos agentes muitas vezes nada têm de amadores. Assim, a metatelevisão do Facebook opera tanto selecionando conteúdo da TV tradicional como submetendo-o à crítica. E faz circular ainda informações que a TV, por motivos diversos, suprime. Alguns acontecimentos recentes, no Brasil e no mundo, tiveram coberturas nas redes sociais melhores que nos canais tradicionais. A divergência é uma virtude democrática, e as redes sociais têm contribuído para isso (e para derrubar ditaduras onde não há democracia). (l. 9-17)\n\nA publicização da intimidade, sem nenhuma transfiguração que lhe confira o estatuto de interesse público, é muito presente na rede. Deve-se lembrar, entretanto, que redes sociais não são exatamente um espaço público, mas um espaço privado ampliado ou uma espécie nova e híbrida de espaço público-privado. Seja como for, aqui também é o usuário que decide sobre o registro em que prevalecerá sua experiência. E não se deve exagerar no tom crítico a essa dimensão; o registro imaginário, narcisista, de promoção do eu é humano, demasiadamente humano, e até certo ponto necessário. Deve-se apenas relativizá-lo; ora, essa relativização vigora igualmente nas redes sociais. (l. 18-25)\n\nAlém disso, a publicização da intimidade não significa necessariamente autopromoção do eu. Ela pode ativar uma dimensão importante da comunicação humana. Roland Barthes, escritor francês, costumava dizer que a linguagem sempre diz o que diz e ainda diz o que não diz. Por exemplo, ao citar o nome de Barthes, estou, além de dizer o que ele disse, dizendo que eu o li, que sou um leitor culto. Esse tema do que passa por meio de, indiretamente, era importante para Barthes. Ele adorava o caso da brincadeira de passar o anel, onde o que está em jogo é tanto o roçar das mãos quanto o destino do objeto. Pois bem, fui percebendo que a escrita nas redes sociais é uma forma de roçar as mãos, tanto quanto de saber, afinal, onde foi parar o anel. O indireto dessa escrita, o que por meio dela se diz, é uma pura abertura ao outro. (l. 25-33)\n\nFRANCISCO BOSCO. Adaptado de Alta ajuda. Rio de Janeiro: Foz, 2012.\n\nNo primeiro parágrafo, o autor introduz uma discussão a respeito das redes sociais. Essa introdução está organizada a partir do seguinte procedimento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crítica de ideias contraditórias"
+      },
+      {
+        "letter": "B",
+        "text": "valorização de experiência coletiva"
+      },
+      {
+        "letter": "C",
+        "text": "exposição de deslocamento de opinião"
+      },
+      {
+        "letter": "D",
+        "text": "simulação de proximidade com o leitor"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O parágrafo começa pela resistência do autor ao Facebook e pela lista de defeitos que lhe atribuía, e termina no reconhecimento de vantagens da rede. O movimento — “minha opinião não era das melhores... mas, hoje... agora compreendo e utilizo” — é justamente a exposição de uma mudança de posição, que serve de porta de entrada para o argumento. Os defeitos não são negados, apenas deixam de ser decisivos, o que afasta a alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q06",
     "exam": "uerj",
     "year": 2017,
@@ -3963,6 +4144,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q06",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - crônica de Francisco Bosco sobre as redes sociais\n\nResisti a entrar para o Facebook e, mesmo quando já fazia parte de sua rede, minha opinião sobre ela não era das melhores: fragmentação da percepção, e portanto da capacidade cognitiva; intensificação do narcisismo exibicionista da cultura contemporânea; império do senso comum; indistinção entre o público e o privado. Não sei se fui eu quem mudou, se foram meus “amigos” ou se foi a própria rede, mas, hoje, sem que os traços acima tenham deixado de existir, nenhum deles, nem mesmo todos eles em conjunto me parecem decisivos, ao menos na minha experiência: agora compreendo e utilizo a rede social como a televisão do século XXI, com diferenças e vantagens sobre a TV tradicional. (l. 1-8)\n\nA internet, as tecnologias wiki de interação e as redes sociais têm uma dimensão, para usar a expressão do escritor Andrew Keen, de “culto do amador”, mas tal dimensão convive com o seu oposto, que é essa crítica da mídia tradicional pela nova mídia, cujos agentes muitas vezes nada têm de amadores. Assim, a metatelevisão do Facebook opera tanto selecionando conteúdo da TV tradicional como submetendo-o à crítica. E faz circular ainda informações que a TV, por motivos diversos, suprime. Alguns acontecimentos recentes, no Brasil e no mundo, tiveram coberturas nas redes sociais melhores que nos canais tradicionais. A divergência é uma virtude democrática, e as redes sociais têm contribuído para isso (e para derrubar ditaduras onde não há democracia). (l. 9-17)\n\nA publicização da intimidade, sem nenhuma transfiguração que lhe confira o estatuto de interesse público, é muito presente na rede. Deve-se lembrar, entretanto, que redes sociais não são exatamente um espaço público, mas um espaço privado ampliado ou uma espécie nova e híbrida de espaço público-privado. Seja como for, aqui também é o usuário que decide sobre o registro em que prevalecerá sua experiência. E não se deve exagerar no tom crítico a essa dimensão; o registro imaginário, narcisista, de promoção do eu é humano, demasiadamente humano, e até certo ponto necessário. Deve-se apenas relativizá-lo; ora, essa relativização vigora igualmente nas redes sociais. (l. 18-25)\n\nAlém disso, a publicização da intimidade não significa necessariamente autopromoção do eu. Ela pode ativar uma dimensão importante da comunicação humana. Roland Barthes, escritor francês, costumava dizer que a linguagem sempre diz o que diz e ainda diz o que não diz. Por exemplo, ao citar o nome de Barthes, estou, além de dizer o que ele disse, dizendo que eu o li, que sou um leitor culto. Esse tema do que passa por meio de, indiretamente, era importante para Barthes. Ele adorava o caso da brincadeira de passar o anel, onde o que está em jogo é tanto o roçar das mãos quanto o destino do objeto. Pois bem, fui percebendo que a escrita nas redes sociais é uma forma de roçar as mãos, tanto quanto de saber, afinal, onde foi parar o anel. O indireto dessa escrita, o que por meio dela se diz, é uma pura abertura ao outro. (l. 25-33)\n\nFRANCISCO BOSCO. Adaptado de Alta ajuda. Rio de Janeiro: Foz, 2012.\n\nagora compreendo e utilizo a rede social como a televisão do século XXI, com diferenças e vantagens sobre a TV tradicional. (l. 7-8)\n\nOs termos sublinhados designam mídias distintas para o autor. Uma vantagem que ele destaca da primeira sobre a segunda é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regulação do acesso pelo governo"
+      },
+      {
+        "letter": "B",
+        "text": "sofisticação de recursos tecnológicos"
+      },
+      {
+        "letter": "C",
+        "text": "heterogeneidade dos públicos alcançados"
+      },
+      {
+        "letter": "D",
+        "text": "desenvolvimento de conteúdo pelo usuário"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O segundo parágrafo apresenta a rede como “metatelevisão”: os próprios usuários selecionam o conteúdo da TV, submetem-no à crítica e fazem circular o que a TV suprime — inclusive coberturas melhores que as dos canais tradicionais. A vantagem apontada é, portanto, a produção e a curadoria de conteúdo pelo próprio usuário, e não vantagens técnicas ou de alcance.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4002,6 +4219,42 @@
     }
   },
   {
+    "id": "uerj-2017-q07",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - crônica de Francisco Bosco sobre as redes sociais\n\nResisti a entrar para o Facebook e, mesmo quando já fazia parte de sua rede, minha opinião sobre ela não era das melhores: fragmentação da percepção, e portanto da capacidade cognitiva; intensificação do narcisismo exibicionista da cultura contemporânea; império do senso comum; indistinção entre o público e o privado. Não sei se fui eu quem mudou, se foram meus “amigos” ou se foi a própria rede, mas, hoje, sem que os traços acima tenham deixado de existir, nenhum deles, nem mesmo todos eles em conjunto me parecem decisivos, ao menos na minha experiência: agora compreendo e utilizo a rede social como a televisão do século XXI, com diferenças e vantagens sobre a TV tradicional. (l. 1-8)\n\nA internet, as tecnologias wiki de interação e as redes sociais têm uma dimensão, para usar a expressão do escritor Andrew Keen, de “culto do amador”, mas tal dimensão convive com o seu oposto, que é essa crítica da mídia tradicional pela nova mídia, cujos agentes muitas vezes nada têm de amadores. Assim, a metatelevisão do Facebook opera tanto selecionando conteúdo da TV tradicional como submetendo-o à crítica. E faz circular ainda informações que a TV, por motivos diversos, suprime. Alguns acontecimentos recentes, no Brasil e no mundo, tiveram coberturas nas redes sociais melhores que nos canais tradicionais. A divergência é uma virtude democrática, e as redes sociais têm contribuído para isso (e para derrubar ditaduras onde não há democracia). (l. 9-17)\n\nA publicização da intimidade, sem nenhuma transfiguração que lhe confira o estatuto de interesse público, é muito presente na rede. Deve-se lembrar, entretanto, que redes sociais não são exatamente um espaço público, mas um espaço privado ampliado ou uma espécie nova e híbrida de espaço público-privado. Seja como for, aqui também é o usuário que decide sobre o registro em que prevalecerá sua experiência. E não se deve exagerar no tom crítico a essa dimensão; o registro imaginário, narcisista, de promoção do eu é humano, demasiadamente humano, e até certo ponto necessário. Deve-se apenas relativizá-lo; ora, essa relativização vigora igualmente nas redes sociais. (l. 18-25)\n\nAlém disso, a publicização da intimidade não significa necessariamente autopromoção do eu. Ela pode ativar uma dimensão importante da comunicação humana. Roland Barthes, escritor francês, costumava dizer que a linguagem sempre diz o que diz e ainda diz o que não diz. Por exemplo, ao citar o nome de Barthes, estou, além de dizer o que ele disse, dizendo que eu o li, que sou um leitor culto. Esse tema do que passa por meio de, indiretamente, era importante para Barthes. Ele adorava o caso da brincadeira de passar o anel, onde o que está em jogo é tanto o roçar das mãos quanto o destino do objeto. Pois bem, fui percebendo que a escrita nas redes sociais é uma forma de roçar as mãos, tanto quanto de saber, afinal, onde foi parar o anel. O indireto dessa escrita, o que por meio dela se diz, é uma pura abertura ao outro. (l. 25-33)\n\nFRANCISCO BOSCO. Adaptado de Alta ajuda. Rio de Janeiro: Foz, 2012.\n\nAlém disso, a publicização da intimidade não significa necessariamente autopromoção do eu. Ela pode ativar uma dimensão importante da comunicação humana. (l. 25-26)\n\nO valor da frase sublinhada, “Ela pode ativar uma dimensão importante da comunicação humana”, em relação àquela que a antecede, pode ser caracterizado como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "opositivo"
+      },
+      {
+        "letter": "B",
+        "text": "conclusivo"
+      },
+      {
+        "letter": "C",
+        "text": "explicativo"
+      },
+      {
+        "letter": "D",
+        "text": "conformativo"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A primeira frase nega que a exposição da intimidade seja necessariamente autopromoção; a segunda diz o que ela pode ser em lugar disso, justificando a negação anterior. A relação é, portanto, explicativa: a segunda oração fundamenta a afirmação da primeira. Não há oposição entre as duas ideias, que caminham no mesmo sentido, nem conclusão extraída de premissas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q08",
     "exam": "uerj",
     "year": 2017,
@@ -4035,6 +4288,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q08",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - crônica de Francisco Bosco sobre as redes sociais\n\nResisti a entrar para o Facebook e, mesmo quando já fazia parte de sua rede, minha opinião sobre ela não era das melhores: fragmentação da percepção, e portanto da capacidade cognitiva; intensificação do narcisismo exibicionista da cultura contemporânea; império do senso comum; indistinção entre o público e o privado. Não sei se fui eu quem mudou, se foram meus “amigos” ou se foi a própria rede, mas, hoje, sem que os traços acima tenham deixado de existir, nenhum deles, nem mesmo todos eles em conjunto me parecem decisivos, ao menos na minha experiência: agora compreendo e utilizo a rede social como a televisão do século XXI, com diferenças e vantagens sobre a TV tradicional. (l. 1-8)\n\nA internet, as tecnologias wiki de interação e as redes sociais têm uma dimensão, para usar a expressão do escritor Andrew Keen, de “culto do amador”, mas tal dimensão convive com o seu oposto, que é essa crítica da mídia tradicional pela nova mídia, cujos agentes muitas vezes nada têm de amadores. Assim, a metatelevisão do Facebook opera tanto selecionando conteúdo da TV tradicional como submetendo-o à crítica. E faz circular ainda informações que a TV, por motivos diversos, suprime. Alguns acontecimentos recentes, no Brasil e no mundo, tiveram coberturas nas redes sociais melhores que nos canais tradicionais. A divergência é uma virtude democrática, e as redes sociais têm contribuído para isso (e para derrubar ditaduras onde não há democracia). (l. 9-17)\n\nA publicização da intimidade, sem nenhuma transfiguração que lhe confira o estatuto de interesse público, é muito presente na rede. Deve-se lembrar, entretanto, que redes sociais não são exatamente um espaço público, mas um espaço privado ampliado ou uma espécie nova e híbrida de espaço público-privado. Seja como for, aqui também é o usuário que decide sobre o registro em que prevalecerá sua experiência. E não se deve exagerar no tom crítico a essa dimensão; o registro imaginário, narcisista, de promoção do eu é humano, demasiadamente humano, e até certo ponto necessário. Deve-se apenas relativizá-lo; ora, essa relativização vigora igualmente nas redes sociais. (l. 18-25)\n\nAlém disso, a publicização da intimidade não significa necessariamente autopromoção do eu. Ela pode ativar uma dimensão importante da comunicação humana. Roland Barthes, escritor francês, costumava dizer que a linguagem sempre diz o que diz e ainda diz o que não diz. Por exemplo, ao citar o nome de Barthes, estou, além de dizer o que ele disse, dizendo que eu o li, que sou um leitor culto. Esse tema do que passa por meio de, indiretamente, era importante para Barthes. Ele adorava o caso da brincadeira de passar o anel, onde o que está em jogo é tanto o roçar das mãos quanto o destino do objeto. Pois bem, fui percebendo que a escrita nas redes sociais é uma forma de roçar as mãos, tanto quanto de saber, afinal, onde foi parar o anel. O indireto dessa escrita, o que por meio dela se diz, é uma pura abertura ao outro. (l. 25-33)\n\nFRANCISCO BOSCO. Adaptado de Alta ajuda. Rio de Janeiro: Foz, 2012.\n\nEsse tema do que passa por meio de, indiretamente, era importante para Barthes. (l. 29-30)\n\nCom base na compreensão do último parágrafo, a expressão que pode substituir o trecho sublinhado, “do que passa por meio de, indiretamente”, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "das sugestões implícitas"
+      },
+      {
+        "letter": "B",
+        "text": "das negações assumidas"
+      },
+      {
+        "letter": "C",
+        "text": "das metáforas cristalizadas"
+      },
+      {
+        "letter": "D",
+        "text": "dos eufemismos recorrentes"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O parágrafo explica a ideia com o exemplo da citação de Barthes: ao citá-lo, o autor diz o que Barthes disse e, sem enunciá-lo, informa que é um leitor culto. É o que a linguagem “diz sem dizer”, como no roçar das mãos da brincadeira de passar o anel. Trata-se, portanto, das sugestões implícitas — sentidos que se transmitem indiretamente, e não de negações, metáforas fixas ou eufemismos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4182,6 +4471,42 @@
     }
   },
   {
+    "id": "uerj-2017-q12",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - crônica de Mia Couto sobre fronteiras\n\nNosso pensamento, como toda entidade viva, nasce para se vestir de fronteiras. Essa invenção é uma espécie de vício de arquitetura, pois não há infinito sem linha do horizonte. A verdade é que a vida tem fome de fronteiras. Porque essas fronteiras da natureza não servem apenas para fechar. Todas as membranas orgânicas são entidades vivas e permeáveis. São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 1-5)\n\nUm dos casos mais notáveis na construção de fronteiras acontece no mundo das aves. É o caso do nosso tucano, o tucano africano, que fabrica o ninho a partir do oco de uma árvore. Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. Naquele cárcere escuro, a fêmea arranca as próprias penas para preparar o ninho das futuras crias. Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 6-12)\n\nMas o que aqueles pássaros construíram não foi uma parede: foi um buraco. Erguemos paredes inteiras como se fôssemos tucanos cegos. De um e do outro lado há sempre algo que morre, truncado do seu lado gêmeo. Aprendemos a demarcarmo-nos do Outro e do Estranho como se fossem ameaças à nossa integridade. Temos medo da mudança, medo da desordem, medo da complexidade. Precisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), que foi construído em permanente mudança, no meio do caos e do imprevisível. (l. 13-19)\n\nA própria palavra “fronteira” nasceu como um conceito militar, era o modo como se designava a frente de batalha. Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. Esse código servia para que, nas noites de combate, os soldados pudessem se comunicar em silêncio e no escuro. Foi a partir desse código que se inventou o sistema de leitura Braille. No mesmo lugar em que nasceu a palavra “fronteira” sucedeu um episódio que negava o sentido limitador da palavra. (l. 20-26)\n\nA fronteira concebida como vedação estanque tem a ver com o modo como pensamos e vivemos a nossa própria identidade. Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. Mas seriam as asas e a capacidade de voar que nos devolveriam a segurança de ter o mundo inteiro como a nossa casa. (l. 26-30)\n\nMIA COUTO. Adaptado de fronteiras.com, 10/08/2014.\n\nA exposição do autor confere um caráter universal ao tema das fronteiras. No primeiro parágrafo, a marca linguística que melhor evidencia esse caráter conferido ao tema é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "predomínio dos verbos no presente do indicativo"
+      },
+      {
+        "letter": "B",
+        "text": "emprego das aspas como índice de formalidade"
+      },
+      {
+        "letter": "C",
+        "text": "destaque de estruturas explicativas diversas"
+      },
+      {
+        "letter": "D",
+        "text": "uso de elementos de negação categórica"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O parágrafo é todo construído no presente do indicativo — nasce, é, há, tem, servem, são, trocam-se. Esse é o chamado presente atemporal ou gnômico, usado para enunciar o que vale sempre, como em definições e provérbios. É ele que retira o tema do plano de um caso particular e lhe dá alcance universal. As aspas em “dentro” e “fora” marcam uso metalinguístico, não formalidade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q13",
     "exam": "uerj",
     "year": 2017,
@@ -4215,6 +4540,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q13",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - crônica de Mia Couto sobre fronteiras\n\nNosso pensamento, como toda entidade viva, nasce para se vestir de fronteiras. Essa invenção é uma espécie de vício de arquitetura, pois não há infinito sem linha do horizonte. A verdade é que a vida tem fome de fronteiras. Porque essas fronteiras da natureza não servem apenas para fechar. Todas as membranas orgânicas são entidades vivas e permeáveis. São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 1-5)\n\nUm dos casos mais notáveis na construção de fronteiras acontece no mundo das aves. É o caso do nosso tucano, o tucano africano, que fabrica o ninho a partir do oco de uma árvore. Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. Naquele cárcere escuro, a fêmea arranca as próprias penas para preparar o ninho das futuras crias. Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 6-12)\n\nMas o que aqueles pássaros construíram não foi uma parede: foi um buraco. Erguemos paredes inteiras como se fôssemos tucanos cegos. De um e do outro lado há sempre algo que morre, truncado do seu lado gêmeo. Aprendemos a demarcarmo-nos do Outro e do Estranho como se fossem ameaças à nossa integridade. Temos medo da mudança, medo da desordem, medo da complexidade. Precisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), que foi construído em permanente mudança, no meio do caos e do imprevisível. (l. 13-19)\n\nA própria palavra “fronteira” nasceu como um conceito militar, era o modo como se designava a frente de batalha. Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. Esse código servia para que, nas noites de combate, os soldados pudessem se comunicar em silêncio e no escuro. Foi a partir desse código que se inventou o sistema de leitura Braille. No mesmo lugar em que nasceu a palavra “fronteira” sucedeu um episódio que negava o sentido limitador da palavra. (l. 20-26)\n\nA fronteira concebida como vedação estanque tem a ver com o modo como pensamos e vivemos a nossa própria identidade. Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. Mas seriam as asas e a capacidade de voar que nos devolveriam a segurança de ter o mundo inteiro como a nossa casa. (l. 26-30)\n\nMIA COUTO. Adaptado de fronteiras.com, 10/08/2014.\n\nNo segundo parágrafo, ao descrever a construção do ninho do tucano africano, o autor expressa seu ponto de vista acerca da relatividade do papel das fronteiras. Esse ponto de vista está enunciado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. (l. 7-8)"
+      },
+      {
+        "letter": "B",
+        "text": "Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. (l. 8-9)"
+      },
+      {
+        "letter": "C",
+        "text": "Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. (l. 10-11)"
+      },
+      {
+        "letter": "D",
+        "text": "Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 11-12)"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As três primeiras alternativas apenas descrevem o comportamento da ave. A quarta é a única em que o autor comenta o que descreveu e formula sua tese: até no caso extremo de um emparedamento voluntário, a fronteira existe para ser atravessada. É a afirmação da relatividade das fronteiras, retomada logo depois em “o que aqueles pássaros construíram não foi uma parede: foi um buraco”.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4254,6 +4615,42 @@
     }
   },
   {
+    "id": "uerj-2017-q14",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - crônica de Mia Couto sobre fronteiras\n\nNosso pensamento, como toda entidade viva, nasce para se vestir de fronteiras. Essa invenção é uma espécie de vício de arquitetura, pois não há infinito sem linha do horizonte. A verdade é que a vida tem fome de fronteiras. Porque essas fronteiras da natureza não servem apenas para fechar. Todas as membranas orgânicas são entidades vivas e permeáveis. São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 1-5)\n\nUm dos casos mais notáveis na construção de fronteiras acontece no mundo das aves. É o caso do nosso tucano, o tucano africano, que fabrica o ninho a partir do oco de uma árvore. Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. Naquele cárcere escuro, a fêmea arranca as próprias penas para preparar o ninho das futuras crias. Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 6-12)\n\nMas o que aqueles pássaros construíram não foi uma parede: foi um buraco. Erguemos paredes inteiras como se fôssemos tucanos cegos. De um e do outro lado há sempre algo que morre, truncado do seu lado gêmeo. Aprendemos a demarcarmo-nos do Outro e do Estranho como se fossem ameaças à nossa integridade. Temos medo da mudança, medo da desordem, medo da complexidade. Precisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), que foi construído em permanente mudança, no meio do caos e do imprevisível. (l. 13-19)\n\nA própria palavra “fronteira” nasceu como um conceito militar, era o modo como se designava a frente de batalha. Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. Esse código servia para que, nas noites de combate, os soldados pudessem se comunicar em silêncio e no escuro. Foi a partir desse código que se inventou o sistema de leitura Braille. No mesmo lugar em que nasceu a palavra “fronteira” sucedeu um episódio que negava o sentido limitador da palavra. (l. 20-26)\n\nA fronteira concebida como vedação estanque tem a ver com o modo como pensamos e vivemos a nossa própria identidade. Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. Mas seriam as asas e a capacidade de voar que nos devolveriam a segurança de ter o mundo inteiro como a nossa casa. (l. 26-30)\n\nMIA COUTO. Adaptado de fronteiras.com, 10/08/2014.\n\nPrecisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), (l. 17-18)\n\nNesse trecho, o conteúdo entre parênteses propõe uma reformulação da palavra universo, em função da argumentação feita pelo autor. Essa reformulação explora o seguinte recurso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contraste de morfemas de sentidos distintos"
+      },
+      {
+        "letter": "B",
+        "text": "citação de neologismos de valor polissêmico"
+      },
+      {
+        "letter": "C",
+        "text": "comparação de conceitos relacionados ao tema"
+      },
+      {
+        "letter": "D",
+        "text": "enumeração de sinônimos possíveis no contexto"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As três palavras compartilham o radical -verso e se distinguem apenas pelo prefixo: uni-, que indica unidade, contra pluri- e multi-, que indicam pluralidade. É a troca desses morfemas que produz o sentido novo e sustenta o argumento do texto, contrário à ideia de mundo único e fechado. Não são sinônimos, e sim termos de sentido oposto no elemento que os difere.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q15",
     "exam": "uerj",
     "year": 2017,
@@ -4287,6 +4684,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q15",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - crônica de Mia Couto sobre fronteiras\n\nNosso pensamento, como toda entidade viva, nasce para se vestir de fronteiras. Essa invenção é uma espécie de vício de arquitetura, pois não há infinito sem linha do horizonte. A verdade é que a vida tem fome de fronteiras. Porque essas fronteiras da natureza não servem apenas para fechar. Todas as membranas orgânicas são entidades vivas e permeáveis. São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 1-5)\n\nUm dos casos mais notáveis na construção de fronteiras acontece no mundo das aves. É o caso do nosso tucano, o tucano africano, que fabrica o ninho a partir do oco de uma árvore. Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. Naquele cárcere escuro, a fêmea arranca as próprias penas para preparar o ninho das futuras crias. Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 6-12)\n\nMas o que aqueles pássaros construíram não foi uma parede: foi um buraco. Erguemos paredes inteiras como se fôssemos tucanos cegos. De um e do outro lado há sempre algo que morre, truncado do seu lado gêmeo. Aprendemos a demarcarmo-nos do Outro e do Estranho como se fossem ameaças à nossa integridade. Temos medo da mudança, medo da desordem, medo da complexidade. Precisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), que foi construído em permanente mudança, no meio do caos e do imprevisível. (l. 13-19)\n\nA própria palavra “fronteira” nasceu como um conceito militar, era o modo como se designava a frente de batalha. Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. Esse código servia para que, nas noites de combate, os soldados pudessem se comunicar em silêncio e no escuro. Foi a partir desse código que se inventou o sistema de leitura Braille. No mesmo lugar em que nasceu a palavra “fronteira” sucedeu um episódio que negava o sentido limitador da palavra. (l. 20-26)\n\nA fronteira concebida como vedação estanque tem a ver com o modo como pensamos e vivemos a nossa própria identidade. Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. Mas seriam as asas e a capacidade de voar que nos devolveriam a segurança de ter o mundo inteiro como a nossa casa. (l. 26-30)\n\nMIA COUTO. Adaptado de fronteiras.com, 10/08/2014.\n\nNo penúltimo parágrafo, a menção ao surgimento do sistema de leitura Braille serve de exemplo à argumentação do autor. Esse exemplo, no contexto, assume o seguinte objetivo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rever o caráter restritivo das experiências pessoais"
+      },
+      {
+        "letter": "B",
+        "text": "contradizer os usos correntes da linguagem técnica"
+      },
+      {
+        "letter": "C",
+        "text": "ressaltar a fragilidade humana nos contextos de guerra"
+      },
+      {
+        "letter": "D",
+        "text": "demonstrar apropriação nova no emprego de uma ideia"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Um código criado para a comunicação silenciosa entre soldados, no berço militar da palavra “fronteira”, acabou convertido no sistema que abre o mundo escrito às pessoas cegas. O exemplo mostra uma ideia que muda de destino e passa a servir ao oposto do seu propósito inicial — exatamente a apropriação nova que o autor quer demonstrar ao afirmar que ali “sucedeu um episódio que negava o sentido limitador da palavra”.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4326,6 +4759,42 @@
     }
   },
   {
+    "id": "uerj-2017-q16",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - crônica de Mia Couto sobre fronteiras\n\nNosso pensamento, como toda entidade viva, nasce para se vestir de fronteiras. Essa invenção é uma espécie de vício de arquitetura, pois não há infinito sem linha do horizonte. A verdade é que a vida tem fome de fronteiras. Porque essas fronteiras da natureza não servem apenas para fechar. Todas as membranas orgânicas são entidades vivas e permeáveis. São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 1-5)\n\nUm dos casos mais notáveis na construção de fronteiras acontece no mundo das aves. É o caso do nosso tucano, o tucano africano, que fabrica o ninho a partir do oco de uma árvore. Nesse vão, a fêmea se empareda literalmente, erguendo, ela e o macho, um tapume de barro. Essa parede tem apenas um pequeno orifício, ele é a única janela aberta sobre o mundo. Naquele cárcere escuro, a fêmea arranca as próprias penas para preparar o ninho das futuras crias. Se quisesse desistir da empreitada, ela morreria, sem possibilidade de voar. Mesmo neste caso de consentida clausura, a divisória foi inventada para ser negada. (l. 6-12)\n\nMas o que aqueles pássaros construíram não foi uma parede: foi um buraco. Erguemos paredes inteiras como se fôssemos tucanos cegos. De um e do outro lado há sempre algo que morre, truncado do seu lado gêmeo. Aprendemos a demarcarmo-nos do Outro e do Estranho como se fossem ameaças à nossa integridade. Temos medo da mudança, medo da desordem, medo da complexidade. Precisamos de modelos para entender o universo (que é, afinal, um pluriverso ou um multiverso), que foi construído em permanente mudança, no meio do caos e do imprevisível. (l. 13-19)\n\nA própria palavra “fronteira” nasceu como um conceito militar, era o modo como se designava a frente de batalha. Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. Esse código servia para que, nas noites de combate, os soldados pudessem se comunicar em silêncio e no escuro. Foi a partir desse código que se inventou o sistema de leitura Braille. No mesmo lugar em que nasceu a palavra “fronteira” sucedeu um episódio que negava o sentido limitador da palavra. (l. 20-26)\n\nA fronteira concebida como vedação estanque tem a ver com o modo como pensamos e vivemos a nossa própria identidade. Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. Mas seriam as asas e a capacidade de voar que nos devolveriam a segurança de ter o mundo inteiro como a nossa casa. (l. 26-30)\n\nMIA COUTO. Adaptado de fronteiras.com, 10/08/2014.\n\nOs dois-pontos podem delimitar uma relação entre uma expressão e a especificação de seu sentido. Observa-se esse uso dos dois-pontos no trecho apresentado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "São fronteiras feitas para, ao mesmo tempo, delimitar e negociar: o “dentro” e o “fora” trocam-se por turnos. (l. 4-5)"
+      },
+      {
+        "letter": "B",
+        "text": "Mas o que aqueles pássaros construíram não foi uma parede: foi um buraco. (l. 13)"
+      },
+      {
+        "letter": "C",
+        "text": "Nesse mesmo berço aconteceu um fato curioso: um oficial do exército francês inventou um código de gravação de mensagens em alto-relevo. (l. 21-22)"
+      },
+      {
+        "letter": "D",
+        "text": "Somos um pouco como a tucana que se despluma dentro do escuro: temos a ilusão de que a nossa proteção vem da espessura da parede. (l. 27-28)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em C, a expressão “um fato curioso” é genérica e os dois-pontos abrem justamente o seu conteúdo: qual foi o fato. É o uso pedido no enunciado — especificar o sentido de uma expressão anterior. Nos outros trechos os dois-pontos introduzem uma contraposição (B), um desdobramento explicativo da frase inteira (A) ou o esclarecimento de uma comparação (D), e não a especificação de um termo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q17",
     "exam": "uerj",
     "year": 2017,
@@ -4359,6 +4828,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q17",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 17,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CULTURA E IDENTIDAD: MEXICANOS EN LA ERA GLOBAL\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. Se forjó esta originalidad en el crisol de las altas culturas mesoamericanas y en el diálogo con una gran diversidad de culturas del mundo. (l. 1-3)\n\nLo que marca en especial la cultura de México es que, a lo largo del siglo XX, la mexicanidad, como voluntad colectiva nacional, forma parte de la combinatoria tanto del nacionalismo como del cosmopolitismo de diversas fuentes políticas. Se basa esta mexicanidad tanto en la fuerza de compartir una historia que nos hiere, como en el deseo de comunicar e intercambiar diversidades, lo que explica la gran creatividad cultural de los mexicanos. (l. 4-8)\n\nRecordemos que México es el cuarto país del mundo en biodiversidad y, no por coincidencia, es también uno de los diez primeros en densidad cultural. Hasta hace diez años, era también uno de los diez principales en la producción de artesanías y en innovaciones museológicas y culturales. (l. 9-11)\n\nSin embargo, el crecimiento exponencial de las telecomunicaciones, los audiovisuales e Internet, características de la nueva globalidad, están creando nuevas homogeneizaciones culturales y, al mismo tiempo, nuevas diversidades. Como reacción ha surgido con gran fuerza una voluntad de recrear la identidad y en México, como en otros países, se hace evidente una gran efervescencia en la creación de nuevos códigos identitarios, sobre todo entre los jóvenes, digamos, con el rock en náhuatl y la renovación del ritmo huapango en el ir y venir de Veracruz a Los Ángeles. Vale mencionar también, en el arte postobjetual, el performance y el videoarte. (l. 12-18)\n\nLos mexicanos toman nuevas posiciones en el marco de la pantalla comunicacional global y se vuelven hacia lo que más comparten: la cultura, ya que ella hace visibles, tangibles e intangibles, sus memorias, sus deseos y sus búsquedas de futuro. Hoy es vital afirmar que la cultura no está conformada por objetos, sino por formas de relación en las que interviene la libre decisión de las personas de asumir, portar y practicar un comportamiento cultural. Si no se considera la cultura como este acto de libre decisión, se niega el derecho de las personas de cambiar las vetas de su propia cultura a través de la originalidad y la creatividad. (l. 19-26)\n\nSin embargo, esas vetas tienen siempre un designio político, entendido éste como la conciencia de saber que se necesitan alianzas y lealtades para asegurar la sobrevivencia de todos. Esta es actualmente la frontera extrema que impone el planeta, a partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. Es decir, la relación con los demás y con nosotros mismos. En México, a lo largo del siglo XX, se fortaleció una cultura de libertad que permitió la convivencia de ideologías y doctrinas de gran diversidad. Hoy amenaza esa cultura el regreso, en gran medida soterrado en el pasado, de acciones para imponer un orden ultraconservador que, además, es ya imposible en la etapa de evolución actual del mundo. (l. 27-34)\n\nrevistadelauniversidad.unam.mx\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. (l. 1-2)\n\nSegún el texto, uno de los elementos de la mexicanidad es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "el rechazo hacia la diversidad"
+      },
+      {
+        "letter": "B",
+        "text": "la mirada anclada en el pasado"
+      },
+      {
+        "letter": "C",
+        "text": "la unión de lo global y lo nacional"
+      },
+      {
+        "letter": "D",
+        "text": "el crecimiento demográfico exponencial"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O segundo parágrafo define a mexicanidade como “parte de la combinatoria tanto del nacionalismo como del cosmopolitismo”, isto é, resultado da soma entre o que é próprio do país e o que vem de fora. O primeiro parágrafo já dizia que a originalidade se forjou no diálogo com uma grande diversidade de culturas. A alternativa A contraria diretamente essa abertura à diversidade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4398,6 +4903,42 @@
     }
   },
   {
+    "id": "uerj-2017-q18",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 18,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CULTURA E IDENTIDAD: MEXICANOS EN LA ERA GLOBAL\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. Se forjó esta originalidad en el crisol de las altas culturas mesoamericanas y en el diálogo con una gran diversidad de culturas del mundo. (l. 1-3)\n\nLo que marca en especial la cultura de México es que, a lo largo del siglo XX, la mexicanidad, como voluntad colectiva nacional, forma parte de la combinatoria tanto del nacionalismo como del cosmopolitismo de diversas fuentes políticas. Se basa esta mexicanidad tanto en la fuerza de compartir una historia que nos hiere, como en el deseo de comunicar e intercambiar diversidades, lo que explica la gran creatividad cultural de los mexicanos. (l. 4-8)\n\nRecordemos que México es el cuarto país del mundo en biodiversidad y, no por coincidencia, es también uno de los diez primeros en densidad cultural. Hasta hace diez años, era también uno de los diez principales en la producción de artesanías y en innovaciones museológicas y culturales. (l. 9-11)\n\nSin embargo, el crecimiento exponencial de las telecomunicaciones, los audiovisuales e Internet, características de la nueva globalidad, están creando nuevas homogeneizaciones culturales y, al mismo tiempo, nuevas diversidades. Como reacción ha surgido con gran fuerza una voluntad de recrear la identidad y en México, como en otros países, se hace evidente una gran efervescencia en la creación de nuevos códigos identitarios, sobre todo entre los jóvenes, digamos, con el rock en náhuatl y la renovación del ritmo huapango en el ir y venir de Veracruz a Los Ángeles. Vale mencionar también, en el arte postobjetual, el performance y el videoarte. (l. 12-18)\n\nLos mexicanos toman nuevas posiciones en el marco de la pantalla comunicacional global y se vuelven hacia lo que más comparten: la cultura, ya que ella hace visibles, tangibles e intangibles, sus memorias, sus deseos y sus búsquedas de futuro. Hoy es vital afirmar que la cultura no está conformada por objetos, sino por formas de relación en las que interviene la libre decisión de las personas de asumir, portar y practicar un comportamiento cultural. Si no se considera la cultura como este acto de libre decisión, se niega el derecho de las personas de cambiar las vetas de su propia cultura a través de la originalidad y la creatividad. (l. 19-26)\n\nSin embargo, esas vetas tienen siempre un designio político, entendido éste como la conciencia de saber que se necesitan alianzas y lealtades para asegurar la sobrevivencia de todos. Esta es actualmente la frontera extrema que impone el planeta, a partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. Es decir, la relación con los demás y con nosotros mismos. En México, a lo largo del siglo XX, se fortaleció una cultura de libertad que permitió la convivencia de ideologías y doctrinas de gran diversidad. Hoy amenaza esa cultura el regreso, en gran medida soterrado en el pasado, de acciones para imponer un orden ultraconservador que, además, es ya imposible en la etapa de evolución actual del mundo. (l. 27-34)\n\nrevistadelauniversidad.unam.mx\n\nCon la globalización, la cultura mexicana ha sufrido cambios identitarios significativos. Entre ellos, la autora destaca explícitamente la actuación de los jóvenes en lo que se refiere al siguiente aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recursos multimedia"
+      },
+      {
+        "letter": "B",
+        "text": "propuestas musicales"
+      },
+      {
+        "letter": "C",
+        "text": "proyectos performáticos"
+      },
+      {
+        "letter": "D",
+        "text": "innovaciones lingüísticas"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao tratar dos novos códigos identitários criados “sobre todo entre los jóvenes”, o texto dá dois exemplos, ambos musicais: o rock cantado em náuatle e a renovação do ritmo huapango no vaivém entre Veracruz e Los Angeles. O performance e a videoarte são citados logo depois, mas sem vínculo explícito com os jovens.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q19",
     "exam": "uerj",
     "year": 2017,
@@ -4431,6 +4972,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q19",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 19,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - CULTURA E IDENTIDAD: MEXICANOS EN LA ERA GLOBAL\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. Se forjó esta originalidad en el crisol de las altas culturas mesoamericanas y en el diálogo con una gran diversidad de culturas del mundo. (l. 1-3)\n\nLo que marca en especial la cultura de México es que, a lo largo del siglo XX, la mexicanidad, como voluntad colectiva nacional, forma parte de la combinatoria tanto del nacionalismo como del cosmopolitismo de diversas fuentes políticas. Se basa esta mexicanidad tanto en la fuerza de compartir una historia que nos hiere, como en el deseo de comunicar e intercambiar diversidades, lo que explica la gran creatividad cultural de los mexicanos. (l. 4-8)\n\nRecordemos que México es el cuarto país del mundo en biodiversidad y, no por coincidencia, es también uno de los diez primeros en densidad cultural. Hasta hace diez años, era también uno de los diez principales en la producción de artesanías y en innovaciones museológicas y culturales. (l. 9-11)\n\nSin embargo, el crecimiento exponencial de las telecomunicaciones, los audiovisuales e Internet, características de la nueva globalidad, están creando nuevas homogeneizaciones culturales y, al mismo tiempo, nuevas diversidades. Como reacción ha surgido con gran fuerza una voluntad de recrear la identidad y en México, como en otros países, se hace evidente una gran efervescencia en la creación de nuevos códigos identitarios, sobre todo entre los jóvenes, digamos, con el rock en náhuatl y la renovación del ritmo huapango en el ir y venir de Veracruz a Los Ángeles. Vale mencionar también, en el arte postobjetual, el performance y el videoarte. (l. 12-18)\n\nLos mexicanos toman nuevas posiciones en el marco de la pantalla comunicacional global y se vuelven hacia lo que más comparten: la cultura, ya que ella hace visibles, tangibles e intangibles, sus memorias, sus deseos y sus búsquedas de futuro. Hoy es vital afirmar que la cultura no está conformada por objetos, sino por formas de relación en las que interviene la libre decisión de las personas de asumir, portar y practicar un comportamiento cultural. Si no se considera la cultura como este acto de libre decisión, se niega el derecho de las personas de cambiar las vetas de su propia cultura a través de la originalidad y la creatividad. (l. 19-26)\n\nSin embargo, esas vetas tienen siempre un designio político, entendido éste como la conciencia de saber que se necesitan alianzas y lealtades para asegurar la sobrevivencia de todos. Esta es actualmente la frontera extrema que impone el planeta, a partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. Es decir, la relación con los demás y con nosotros mismos. En México, a lo largo del siglo XX, se fortaleció una cultura de libertad que permitió la convivencia de ideologías y doctrinas de gran diversidad. Hoy amenaza esa cultura el regreso, en gran medida soterrado en el pasado, de acciones para imponer un orden ultraconservador que, además, es ya imposible en la etapa de evolución actual del mundo. (l. 27-34)\n\nrevistadelauniversidad.unam.mx\n\nDesde el punto de vista de las tipologías textuales, el tercero y el sexto párrafos pueden clasificarse, respectivamente, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "instructivo - narrativo"
+      },
+      {
+        "letter": "B",
+        "text": "narrativo - descriptivo"
+      },
+      {
+        "letter": "C",
+        "text": "argumentativo - instructivo"
+      },
+      {
+        "letter": "D",
+        "text": "descriptivo - argumentativo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O terceiro parágrafo limita-se a apresentar dados sobre o México — quarto país em biodiversidade, entre os dez primeiros em densidade cultural e em produção de artesanato —, ou seja, descreve um estado de coisas. O sexto defende uma tese sobre o designo político da cultura e sobre a ameaça de um ordenamento ultraconservador, encadeando argumentos. Daí a sequência descritivo-argumentativo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4470,6 +5047,42 @@
     }
   },
   {
+    "id": "uerj-2017-q20",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 20,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - CULTURA E IDENTIDAD: MEXICANOS EN LA ERA GLOBAL\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. Se forjó esta originalidad en el crisol de las altas culturas mesoamericanas y en el diálogo con una gran diversidad de culturas del mundo. (l. 1-3)\n\nLo que marca en especial la cultura de México es que, a lo largo del siglo XX, la mexicanidad, como voluntad colectiva nacional, forma parte de la combinatoria tanto del nacionalismo como del cosmopolitismo de diversas fuentes políticas. Se basa esta mexicanidad tanto en la fuerza de compartir una historia que nos hiere, como en el deseo de comunicar e intercambiar diversidades, lo que explica la gran creatividad cultural de los mexicanos. (l. 4-8)\n\nRecordemos que México es el cuarto país del mundo en biodiversidad y, no por coincidencia, es también uno de los diez primeros en densidad cultural. Hasta hace diez años, era también uno de los diez principales en la producción de artesanías y en innovaciones museológicas y culturales. (l. 9-11)\n\nSin embargo, el crecimiento exponencial de las telecomunicaciones, los audiovisuales e Internet, características de la nueva globalidad, están creando nuevas homogeneizaciones culturales y, al mismo tiempo, nuevas diversidades. Como reacción ha surgido con gran fuerza una voluntad de recrear la identidad y en México, como en otros países, se hace evidente una gran efervescencia en la creación de nuevos códigos identitarios, sobre todo entre los jóvenes, digamos, con el rock en náhuatl y la renovación del ritmo huapango en el ir y venir de Veracruz a Los Ángeles. Vale mencionar también, en el arte postobjetual, el performance y el videoarte. (l. 12-18)\n\nLos mexicanos toman nuevas posiciones en el marco de la pantalla comunicacional global y se vuelven hacia lo que más comparten: la cultura, ya que ella hace visibles, tangibles e intangibles, sus memorias, sus deseos y sus búsquedas de futuro. Hoy es vital afirmar que la cultura no está conformada por objetos, sino por formas de relación en las que interviene la libre decisión de las personas de asumir, portar y practicar un comportamiento cultural. Si no se considera la cultura como este acto de libre decisión, se niega el derecho de las personas de cambiar las vetas de su propia cultura a través de la originalidad y la creatividad. (l. 19-26)\n\nSin embargo, esas vetas tienen siempre un designio político, entendido éste como la conciencia de saber que se necesitan alianzas y lealtades para asegurar la sobrevivencia de todos. Esta es actualmente la frontera extrema que impone el planeta, a partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. Es decir, la relación con los demás y con nosotros mismos. En México, a lo largo del siglo XX, se fortaleció una cultura de libertad que permitió la convivencia de ideologías y doctrinas de gran diversidad. Hoy amenaza esa cultura el regreso, en gran medida soterrado en el pasado, de acciones para imponer un orden ultraconservador que, además, es ya imposible en la etapa de evolución actual del mundo. (l. 27-34)\n\nrevistadelauniversidad.unam.mx\n\nla cultura no está conformada por objetos, sino por formas de relación (l. 22-23)\n\nEl término subrayado, “sino”, introduce una idea de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "finalidad"
+      },
+      {
+        "letter": "B",
+        "text": "condición"
+      },
+      {
+        "letter": "C",
+        "text": "adversidad"
+      },
+      {
+        "letter": "D",
+        "text": "explicación"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Sino é o conector espanhol que corrige uma negação anterior, opondo à ideia negada aquela que o autor sustenta: não objetos, e sim formas de relação. Trata-se, portanto, de valor adversativo. Em português corresponde a “mas sim”. Finalidade seria para, e condição, si.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q21",
     "exam": "uerj",
     "year": 2017,
@@ -4503,6 +5116,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q21",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 21,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - CULTURA E IDENTIDAD: MEXICANOS EN LA ERA GLOBAL\n\nEn gran número de países del mundo, la cultura y la identidad de los mexicanos es reconocida por su originalidad. Se forjó esta originalidad en el crisol de las altas culturas mesoamericanas y en el diálogo con una gran diversidad de culturas del mundo. (l. 1-3)\n\nLo que marca en especial la cultura de México es que, a lo largo del siglo XX, la mexicanidad, como voluntad colectiva nacional, forma parte de la combinatoria tanto del nacionalismo como del cosmopolitismo de diversas fuentes políticas. Se basa esta mexicanidad tanto en la fuerza de compartir una historia que nos hiere, como en el deseo de comunicar e intercambiar diversidades, lo que explica la gran creatividad cultural de los mexicanos. (l. 4-8)\n\nRecordemos que México es el cuarto país del mundo en biodiversidad y, no por coincidencia, es también uno de los diez primeros en densidad cultural. Hasta hace diez años, era también uno de los diez principales en la producción de artesanías y en innovaciones museológicas y culturales. (l. 9-11)\n\nSin embargo, el crecimiento exponencial de las telecomunicaciones, los audiovisuales e Internet, características de la nueva globalidad, están creando nuevas homogeneizaciones culturales y, al mismo tiempo, nuevas diversidades. Como reacción ha surgido con gran fuerza una voluntad de recrear la identidad y en México, como en otros países, se hace evidente una gran efervescencia en la creación de nuevos códigos identitarios, sobre todo entre los jóvenes, digamos, con el rock en náhuatl y la renovación del ritmo huapango en el ir y venir de Veracruz a Los Ángeles. Vale mencionar también, en el arte postobjetual, el performance y el videoarte. (l. 12-18)\n\nLos mexicanos toman nuevas posiciones en el marco de la pantalla comunicacional global y se vuelven hacia lo que más comparten: la cultura, ya que ella hace visibles, tangibles e intangibles, sus memorias, sus deseos y sus búsquedas de futuro. Hoy es vital afirmar que la cultura no está conformada por objetos, sino por formas de relación en las que interviene la libre decisión de las personas de asumir, portar y practicar un comportamiento cultural. Si no se considera la cultura como este acto de libre decisión, se niega el derecho de las personas de cambiar las vetas de su propia cultura a través de la originalidad y la creatividad. (l. 19-26)\n\nSin embargo, esas vetas tienen siempre un designio político, entendido éste como la conciencia de saber que se necesitan alianzas y lealtades para asegurar la sobrevivencia de todos. Esta es actualmente la frontera extrema que impone el planeta, a partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. Es decir, la relación con los demás y con nosotros mismos. En México, a lo largo del siglo XX, se fortaleció una cultura de libertad que permitió la convivencia de ideologías y doctrinas de gran diversidad. Hoy amenaza esa cultura el regreso, en gran medida soterrado en el pasado, de acciones para imponer un orden ultraconservador que, además, es ya imposible en la etapa de evolución actual del mundo. (l. 27-34)\n\nrevistadelauniversidad.unam.mx\n\na partir de la cual hay que hacer un camino de vuelta para recrear la política y la cultura. (l. 29-30)\n\nEl fragmento subrayado, “hay que hacer”, indica una actitud que se caracteriza como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "obligatoria"
+      },
+      {
+        "letter": "B",
+        "text": "improbable"
+      },
+      {
+        "letter": "C",
+        "text": "prohibida"
+      },
+      {
+        "letter": "D",
+        "text": "posible"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A perífrase hay que + infinitivo exprime obrigação ou necessidade impessoal, equivalente ao português “é preciso fazer”. O autor não apresenta o caminho de volta como possibilidade ou hipótese, mas como algo que se impõe. Possibilidade seria expressa por se puede, e proibição, por no se debe.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4542,6 +5191,42 @@
     }
   },
   {
+    "id": "uerj-2017-q22",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 22,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Observe a matriz:\n\n| 3 + t   −4 |\n|   3    t − 4 |\n\nPara que o determinante dessa matriz seja nulo, o maior valor real de t deve ser igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O determinante de uma matriz 2×2 é o produto da diagonal principal menos o da secundária: (3 + t)(t − 4) − (−4)(3) = t² − t − 12 + 12 = t² − t. Igualando a zero, t(t − 1) = 0, cujas raízes são 0 e 1. O maior valor real de t é, portanto, 1.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q23",
     "exam": "uerj",
     "year": 2017,
@@ -4575,6 +5260,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q23",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 23,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um anel contém 15 gramas de ouro 16 quilates. Isso significa que o anel contém 10 g de ouro puro e 5 g de uma liga metálica. Sabe-se que o ouro é considerado 18 quilates se há a proporção de 3 g de ouro puro para 1 g de liga metálica.\n\nPara transformar esse anel de ouro 16 quilates em outro de 18 quilates, é preciso acrescentar a seguinte quantidade, em gramas, de ouro puro:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6"
+      },
+      {
+        "letter": "B",
+        "text": "5"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "3"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A liga metálica não muda: continuam sendo 5 g. Para que o anel seja 18 quilates, a razão entre ouro puro e liga deve ser 3 para 1, ou seja, o ouro puro deve chegar a 3 × 5 = 15 g. Como já há 10 g, é preciso acrescentar 15 − 10 = 5 g de ouro puro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4650,6 +5371,42 @@
     }
   },
   {
+    "id": "uerj-2017-q25",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 25,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Considere a matriz A(n×9), de nove colunas, formada por números inteiros consecutivos, escrita a seguir:\n\n1  2  3  4  5  6  7  8  9\n10 11 12 13 14 15 16 17 18\n19 20 21 22 23 24 25 26 27\n28 29 30 31 32 33 34 35 36\n...\n\nSe o número 18109 é um elemento da última linha, linha de ordem n, o número de linhas dessa matriz é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2011"
+      },
+      {
+        "letter": "B",
+        "text": "2012"
+      },
+      {
+        "letter": "C",
+        "text": "2013"
+      },
+      {
+        "letter": "D",
+        "text": "2014"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cada linha tem nove elementos, de modo que a linha de ordem k começa em 9(k − 1) + 1 e termina em 9k. Como 9 × 2012 = 18108, a linha 2012 vai de 18100 a 18108, e o número 18109 é o primeiro elemento da linha seguinte. Logo 18109 pertence à linha 2013, e a matriz tem 2013 linhas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q26",
     "exam": "uerj",
     "year": 2017,
@@ -4683,6 +5440,115 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q26",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 26,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Dois cubos cujas arestas medem 2 cm são colados de modo a formar o paralelepípedo ABCDA'B'C'D', de dimensões 4 cm × 2 cm × 2 cm, em que ABCD é a face inferior, de 4 cm por 2 cm. Esse paralelepípedo é seccionado pelos planos ADEF e BCEF, que passam pelos pontos médios F e E das arestas A'B' e C'D', respectivamente. A parte desse paralelepípedo compreendida entre esses planos define o sólido ABCDEF, uma cunha cuja base é a face ABCD e cuja aresta superior é o segmento EF, de 2 cm.\n\nO volume do sólido ABCDEF, em cm³, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4"
+      },
+      {
+        "letter": "B",
+        "text": "6"
+      },
+      {
+        "letter": "C",
+        "text": "8"
+      },
+      {
+        "letter": "D",
+        "text": "12"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Tomando A na origem, o sólido fica limitado pelos planos que contêm AD e EF (x = z) e BC e EF (x = 4 − z), com z variando de 0 a 2. A seção horizontal na altura z é um retângulo de largura (4 − 2z) por 2 de profundidade, de área 2(4 − 2z). Integrando de 0 a 2: V = ∫ 2(4 − 2z) dz = 2(8 − 4) = 8 cm³ — metade do volume do paralelepípedo, que é 16 cm³.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q27",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 27,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Plana"
+    ],
+    "statement": "No plano cartesiano estão representados o gráfico da função definida por f(x) = x² + 2, com x ∈ IR, e os vértices dos quadrados adjacentes ABCD e DMNP, situados no primeiro quadrante. Os pontos A, B, D e M pertencem aos eixos coordenados: A é a origem, B está sobre o eixo das ordenadas e D e M estão sobre o eixo das abscissas. Observe ainda que B e P são pontos do gráfico da função f.\n\nDesse modo, a área do polígono ABCPNM, formado pela união dos dois quadrados, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20"
+      },
+      {
+        "letter": "B",
+        "text": "28"
+      },
+      {
+        "letter": "C",
+        "text": "36"
+      },
+      {
+        "letter": "D",
+        "text": "40"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Como A é a origem e B está no eixo y, tem-se B = (0, f(0)) = (0, 2), de modo que o quadrado ABCD tem lado 2 e D = (2, 0). O segundo quadrado apoia-se em D, e seu vértice P fica sobre a vertical x = 2: P = (2, f(2)) = (2, 6), o que dá lado 6. As áreas são 2² = 4 e 6² = 36, e como os quadrados são apenas adjacentes, a área da união é 4 + 36 = 40.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q28",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 28,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Em uma atividade com sua turma, um professor utilizou 64 cartões, cada um com dois algarismos x e y, iguais ou distintos, pertencentes ao conjunto {1, 2, 3, 4, 5, 6, 7, 8}. Um aluno escolheu um único cartão e efetuou as seguintes operações em sequência:\n\nI - multiplicou um dos algarismos do cartão escolhido por 5;\nII - acrescentou 3 unidades ao produto obtido em I;\nIII - multiplicou o total obtido em II por 2;\nIV - somou o consecutivo do outro algarismo do cartão ao resultado obtido em III.\n\nAo final dessas operações, obteve-se no sistema decimal o número 73. O cartão que o aluno pegou contém os algarismos cuja soma x + y é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15"
+      },
+      {
+        "letter": "B",
+        "text": "14"
+      },
+      {
+        "letter": "C",
+        "text": "13"
+      },
+      {
+        "letter": "D",
+        "text": "12"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Chamando de x o algarismo usado no passo I e de y o outro, as operações dão (5x + 3)·2 + (y + 1) = 10x + 6 + y + 1 = 10x + y + 7. Igualando a 73, obtém-se 10x + y = 66. Como x e y estão entre 1 e 8, a única solução é x = 6 e y = 6. Portanto x + y = 12.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4722,6 +5588,42 @@
     }
   },
   {
+    "id": "uerj-2017-q29",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma urna contém uma bola branca, quatro bolas pretas e x bolas vermelhas, sendo x > 2. Uma bola é retirada ao acaso dessa urna, é observada e recolocada na urna. Em seguida, retira-se novamente, ao acaso, uma bola dessa urna.\n\nSe 1/2 é a probabilidade de que as duas bolas retiradas sejam da mesma cor, o valor de x é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "7"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Com reposição, o total de bolas é n = 5 + x em cada sorteio. A probabilidade de duas bolas da mesma cor é (1² + 4² + x²)/n² = (17 + x²)/(5 + x)². Igualando a 1/2: 2(17 + x²) = (5 + x)², ou seja, 34 + 2x² = 25 + 10x + x², o que leva a x² − 10x + 9 = 0. As raízes são 1 e 9; como x > 2, tem-se x = 9.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q30",
     "exam": "uerj",
     "year": 2017,
@@ -4755,6 +5657,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q30",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 30,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "Um peixe ósseo com bexiga natatória, órgão responsável por seu deslocamento vertical, encontra-se a 20 m de profundidade no tanque de um oceanário. Para buscar alimento, esse peixe se desloca em direção à superfície; ao atingi-la, sua bexiga natatória encontra-se preenchida por 112 mL de oxigênio molecular.\n\nO deslocamento vertical do peixe, para cima, ocorre por conta da variação do seguinte fator:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "densidade"
+      },
+      {
+        "letter": "B",
+        "text": "viscosidade"
+      },
+      {
+        "letter": "C",
+        "text": "resistividade"
+      },
+      {
+        "letter": "D",
+        "text": "osmolaridade"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A bexiga natatória funciona como um regulador de flutuabilidade: ao encher-se de gás, ela aumenta o volume do peixe sem aumentar praticamente sua massa, o que reduz a densidade média do animal. Ficando menos denso que a água, o peixe sobe; esvaziando a bexiga, torna-se mais denso e desce. É o mesmo princípio do empuxo aplicado a submarinos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4794,6 +5733,42 @@
     }
   },
   {
+    "id": "uerj-2017-q31",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 31,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um peixe ósseo com bexiga natatória, órgão responsável por seu deslocamento vertical, encontra-se a 20 m de profundidade no tanque de um oceanário. Para buscar alimento, esse peixe se desloca em direção à superfície; ao atingi-la, sua bexiga natatória encontra-se preenchida por 112 mL de oxigênio molecular.\n\nConsidere que o oxigênio molecular se comporta como gás ideal, em condições normais de temperatura e pressão. Quando o peixe atinge a superfície, a massa de oxigênio molecular na bexiga natatória, em miligramas, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "80"
+      },
+      {
+        "letter": "B",
+        "text": "120"
+      },
+      {
+        "letter": "C",
+        "text": "160"
+      },
+      {
+        "letter": "D",
+        "text": "240"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Nas CNTP, um mol de gás ideal ocupa 22,4 L. Os 112 mL correspondem a 0,112 ÷ 22,4 = 0,005 mol de O2. Como a massa molar do oxigênio molecular é 32 g/mol, a massa é 0,005 × 32 = 0,16 g, ou seja, 160 mg.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q32",
     "exam": "uerj",
     "year": 2017,
@@ -4830,6 +5805,42 @@
     }
   },
   {
+    "id": "uerj-2017-q32",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 32,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um peixe ósseo com bexiga natatória, órgão responsável por seu deslocamento vertical, encontra-se a 20 m de profundidade no tanque de um oceanário. Para buscar alimento, esse peixe se desloca em direção à superfície; ao atingi-la, sua bexiga natatória encontra-se preenchida por 112 mL de oxigênio molecular.\n\nA variação de pressão sobre o peixe, durante seu deslocamento até a superfície, corresponde, em atmosferas, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,5"
+      },
+      {
+        "letter": "B",
+        "text": "2,0"
+      },
+      {
+        "letter": "C",
+        "text": "1,5"
+      },
+      {
+        "letter": "D",
+        "text": "1,0"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A pressão sobre um corpo submerso é a soma da pressão atmosférica com a pressão da coluna de água. Como cada 10 m de profundidade equivalem a cerca de 1 atm, a 20 m a pressão é 1 + 2 = 3 atm. Na superfície ela é de 1 atm. A variação, em módulo, é de 3 − 1 = 2,0 atm.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q34",
     "exam": "uerj",
     "year": 2017,
@@ -4863,6 +5874,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q34",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 34,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Em determinadas condições, a toxina presente na carambola, chamada caramboxina, é convertida em uma molécula X sem atividade biológica, com liberação de uma molécula de água. Nessa transformação, dois grupamentos químicos presentes na caramboxina — um grupo carboxila (—COOH) e um grupo amino (—NH2) — reagem entre si, formando um novo grupamento e o ciclo da molécula X.\n\nA função orgânica desse novo grupamento químico é denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "éster"
+      },
+      {
+        "letter": "B",
+        "text": "fenol"
+      },
+      {
+        "letter": "C",
+        "text": "amida"
+      },
+      {
+        "letter": "D",
+        "text": "cetona"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A reação entre um grupo carboxila e um grupo amino, com eliminação de água, forma a ligação —CO—NH—, característica da função amida. É a mesma reação que une aminoácidos nas proteínas, ali chamada de ligação peptídica. Éster resultaria da reação de um ácido carboxílico com um álcool, e cetona e fenol não se formam por condensação entre esses dois grupos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -4938,6 +5985,42 @@
     }
   },
   {
+    "id": "uerj-2017-q36",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 36,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "A presença de nitrogênio e fósforo na alimentação de todos os seres vivos é fundamental ao bom funcionamento da célula.\n\nO processo celular que envolve diretamente a participação de moléculas compostas por esses elementos é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contração do músculo"
+      },
+      {
+        "letter": "B",
+        "text": "armazenamento de energia"
+      },
+      {
+        "letter": "C",
+        "text": "reconhecimento de antígenos"
+      },
+      {
+        "letter": "D",
+        "text": "transmissão do impulso nervoso"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A molécula que reúne nitrogênio e fósforo e responde pelo processo citado é o ATP: sua base nitrogenada, a adenina, contém nitrogênio, e os três grupos fosfato contêm fósforo. É nas ligações entre esses fosfatos que a célula armazena e libera energia. As demais opções envolvem sobretudo proteínas e íons, sem exigir necessariamente os dois elementos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q37",
     "exam": "uerj",
     "year": 2017,
@@ -4971,6 +6054,150 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q37",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 37,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Pela turbina de uma hidrelétrica, passam 500 m³ de água por segundo.\n\nA ordem de grandeza do volume de água que passa por essa turbina em 3 h corresponde, em litros, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10⁸"
+      },
+      {
+        "letter": "B",
+        "text": "10¹⁰"
+      },
+      {
+        "letter": "C",
+        "text": "10¹²"
+      },
+      {
+        "letter": "D",
+        "text": "10¹⁴"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Três horas correspondem a 3 × 3600 = 10 800 s. O volume escoado é 500 × 10 800 = 5,4 × 10⁶ m³. Convertendo para litros, com 1 m³ = 1000 L, obtém-se 5,4 × 10⁹ L. Como o coeficiente 5,4 é maior que √10 ≈ 3,16, a ordem de grandeza é 10¹⁰.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q38",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 38,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Recentemente, quatro novos elementos químicos foram incorporados à tabela de classificação periódica, sendo representados pelos símbolos Uut, Uup, Uus e Uuo, de números atômicos 113, 115, 117 e 118, respectivamente.\n\nDentre esses elementos, aquele que apresenta maior energia de ionização é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Uut"
+      },
+      {
+        "letter": "B",
+        "text": "Uup"
+      },
+      {
+        "letter": "C",
+        "text": "Uus"
+      },
+      {
+        "letter": "D",
+        "text": "Uuo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os quatro elementos completam o sétimo período da tabela, de modo que a comparação se faz ao longo de uma mesma linha. Da esquerda para a direita, o número atômico cresce sem que se acrescente uma nova camada, a carga nuclear efetiva aumenta, o raio atômico diminui e os elétrons ficam mais fortemente presos. A energia de ionização, portanto, cresce nesse sentido, sendo máxima no Uuo (hoje oganessônio), o último do período.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q40",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 40,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Um gráfico indica o comportamento térmico de 10 g de uma substância que, ao receber calor de uma fonte, passa integralmente da fase sólida para a fase líquida. Nele, a temperatura permanece constante em 50 °C durante toda a mudança de estado, patamar que se estende de 300 cal a 1000 cal de calor recebido.\n\nO calor latente de fusão dessa substância, em cal/g, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "70"
+      },
+      {
+        "letter": "B",
+        "text": "80"
+      },
+      {
+        "letter": "C",
+        "text": "90"
+      },
+      {
+        "letter": "D",
+        "text": "100"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Durante a mudança de estado a temperatura não varia, e todo o calor recebido é usado na fusão. O patamar do gráfico vai de 300 cal a 1000 cal, de modo que a fusão consumiu Q = 700 cal. Como o calor latente é L = Q/m, tem-se L = 700 ÷ 10 = 70 cal/g.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q41",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 41,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Durante a Segunda Guerra Mundial, um cientista dissolveu duas medalhas de ouro para evitar que fossem confiscadas pelo exército nazista. Posteriormente, o ouro foi recuperado e as medalhas novamente confeccionadas. As equações balanceadas a seguir representam os processos de dissolução e de recuperação das medalhas:\n\nDissolução: Au (s) + 3 HNO3 (aq) + 4 HCl (aq) → HAuCl4 (aq) + 3 H2O (l) + 3 NO2 (g)\nRecuperação: 3 NaHSO3 (aq) + 2 HAuCl4 (aq) + 3 H2O (l) → 3 NaHSO4 (aq) + 8 HCl (aq) + 2 Au (s)\n\nAdmita que foram consumidos 252 g de HNO3 para a completa dissolução das medalhas. Nesse caso, a massa de NaHSO3, em gramas, necessária para a recuperação de todo o ouro corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "104"
+      },
+      {
+        "letter": "B",
+        "text": "126"
+      },
+      {
+        "letter": "C",
+        "text": "208"
+      },
+      {
+        "letter": "D",
+        "text": "252"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A massa molar do HNO3 é 63 g/mol, logo 252 g equivalem a 4 mol. Pela equação de dissolução, 3 mol de HNO3 produzem 1 mol de HAuCl4, de modo que se formaram 4/3 mol desse composto. Na recuperação, 2 mol de HAuCl4 exigem 3 mol de NaHSO3, o que dá (3/2) × (4/3) = 2 mol. Com massa molar 104 g/mol, são necessários 2 × 104 = 208 g.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5010,6 +6237,79 @@
     }
   },
   {
+    "id": "uerj-2017-q42",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 42,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia",
+      "Ecologia"
+    ],
+    "statement": "Esponjas e mexilhões podem ser considerados bioindicadores, uma vez que a análise de seus tecidos revela a concentração de poluentes na água.\n\nIsso ocorre pois, no meio aquático, esses animais são caracterizados, em sua maioria, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "filtradores"
+      },
+      {
+        "letter": "B",
+        "text": "raspadores"
+      },
+      {
+        "letter": "C",
+        "text": "predadores"
+      },
+      {
+        "letter": "D",
+        "text": "decompositores"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Poríferos e bivalves alimentam-se filtrando grandes volumes de água para reter as partículas em suspensão. Junto com o alimento, retêm também os poluentes dissolvidos ou particulados, que vão se acumulando em seus tecidos. Essa bioacumulação, somada ao fato de serem sésseis ou pouco móveis, faz deles excelentes indicadores da qualidade da água do local onde vivem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q43",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 43,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Pela seção de um condutor metálico submetido a uma tensão elétrica, atravessam 4,0 × 10¹⁸ elétrons em 20 segundos.\n\nA intensidade média da corrente elétrica, em ampere, que se estabelece no condutor corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 × 10⁻²"
+      },
+      {
+        "letter": "B",
+        "text": "3,2 × 10⁻²"
+      },
+      {
+        "letter": "C",
+        "text": "2,4 × 10⁻³"
+      },
+      {
+        "letter": "D",
+        "text": "4,1 × 10⁻³"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A carga que atravessa a seção é Q = n·e = 4,0 × 10¹⁸ × 1,6 × 10⁻¹⁹ C = 0,64 C. A intensidade média da corrente é i = Q/Δt = 0,64 ÷ 20 = 0,032 A, isto é, 3,2 × 10⁻² A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q44",
     "exam": "uerj",
     "year": 2017,
@@ -5043,6 +6343,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q44",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 44,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Os diferentes tipos de transplantes representam um grande avanço da medicina. Entretanto, a compatibilidade entre doador e receptor nem sempre ocorre, resultando em rejeição do órgão transplantado.\n\nO componente da membrana plasmática envolvido no processo de rejeição é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "colesterol"
+      },
+      {
+        "letter": "B",
+        "text": "fosfolipídeo"
+      },
+      {
+        "letter": "C",
+        "text": "citoesqueleto"
+      },
+      {
+        "letter": "D",
+        "text": "glicoproteína"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A rejeição decorre do reconhecimento, pelos linfócitos do receptor, de marcadores de superfície do tecido transplantado — as glicoproteínas do complexo principal de histocompatibilidade. São elas que dão a cada indivíduo sua identidade celular. Fosfolipídeos e colesterol compõem a bicamada, mas não identificam o indivíduo, e o citoesqueleto é intracelular.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5118,6 +6454,43 @@
     }
   },
   {
+    "id": "uerj-2017-q46",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 46,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Depois da votação no parlamento alemão da resolução que classifica a matança de armênios pela Turquia como genocídio, as relações entre Turquia e Alemanha ameaçam congelar. A Comissão de Relações Internacionais do Parlamento turco acusou os alemães de deturparem fatos históricos sobre os acontecimentos de 1915. A Turquia, até hoje, nega veementemente que se trate de genocídio a morte de até 1,5 milhão de armênios em massacres e marchas ao deserto ordenadas pelo Império Otomano, sobretudo entre 1915 e 1917.\n\nAdaptado de O Globo, 03/06/2016.\n\nNo contexto dos efeitos da Segunda Guerra Mundial (1939-1945), a ONU passou a conceber o genocídio como um crime contra o Direito Internacional. De acordo com o texto acima, o posicionamento do governo turco indica o temor de possíveis punições, especialmente se esse organismo internacional conceber o massacre dos armênios como um ato deliberado de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "limpeza étnica"
+      },
+      {
+        "letter": "B",
+        "text": "segregação política"
+      },
+      {
+        "letter": "C",
+        "text": "rivalidade nacionalista"
+      },
+      {
+        "letter": "D",
+        "text": "discriminação religiosa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O que caracteriza juridicamente o genocídio, na convenção da ONU de 1948, é a intenção de destruir, total ou parcialmente, um grupo nacional, étnico, racial ou religioso. Os massacres e as marchas forçadas ao deserto atingiram os armênios enquanto povo, com o objetivo de eliminá-los do território otomano — definição de limpeza étnica. Segregação e discriminação implicam separar ou tratar de forma desigual, não exterminar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q47",
     "exam": "uerj",
     "year": 2017,
@@ -5190,6 +6563,43 @@
     }
   },
   {
+    "id": "uerj-2017-q48",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "No Brasil, os principais problemas oriundos da mineração podem ser englobados em quatro categorias: poluição da água, poluição do ar, poluição sonora e subsidência, ou seja, afundamento do terreno. Inicialmente, a mineração afeta a cobertura vegetal, em graus variados, desde a supressão total ou parcial na área a ser minerada, até a utilização de grandes volumes de água. A atividade gera profundas alterações, modificando toda a estrutura física e social tanto do local onde está situada a mina quanto da região no entorno.\n\nAdaptado de ge902ferro.wordpress.com.\n\nO desastre ocorrido em novembro de 2015 na cidade de Mariana (MG), com o rompimento da barragem de rejeitos da mineradora Samarco no distrito de Bento Rodrigues, evidenciou o quanto a mineração de ferro pode causar impactos socioambientais negativos. Nesse episódio, esses impactos provocaram a seguinte mudança nas condições de vida da localidade mineira:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação do número de idosos"
+      },
+      {
+        "letter": "B",
+        "text": "aumento da desigualdade salarial"
+      },
+      {
+        "letter": "C",
+        "text": "interrupção definitiva do extrativismo"
+      },
+      {
+        "letter": "D",
+        "text": "deslocamento compulsório da população"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A onda de rejeitos soterrou Bento Rodrigues e outros povoados, destruindo casas, escolas e a própria base de vida local. Os moradores perderam suas moradias e tiveram de ser reassentados em outras localidades, sem escolha — um deslocamento compulsório. O extrativismo não foi interrompido em definitivo, e as demais alternativas descrevem processos demográficos ou econômicos que o desastre não produziu de imediato.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q49",
     "exam": "uerj",
     "year": 2017,
@@ -5223,6 +6633,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q50",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "O livro Terra, do fotógrafo Sebastião Salgado, documenta o drama dos despossuídos e migrantes no Brasil, ao longo da história, sendo dedicado a milhares de famílias no país. A exposição Terra, resultante desse trabalho, passou por 40 países e mais de 100 cidades brasileiras em 1997.\n\nAdaptado de landless-voices.org.\n\nNas últimas décadas, a questão agrária no Brasil estimulou diversas iniciativas de protesto e de mobilização artística e social, como a exemplificada pela foto publicada no livro Terra. Na atualidade, a manutenção dos conflitos agrários no Brasil é explicada pela continuidade dos seguintes aspectos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concentração da propriedade fundiária e desigualdade social"
+      },
+      {
+        "letter": "B",
+        "text": "estagnação da produtividade rural e elevação do desemprego"
+      },
+      {
+        "letter": "C",
+        "text": "desqualificação da mão-de-obra assalariada e corporativismo sindical"
+      },
+      {
+        "letter": "D",
+        "text": "crescimento populacional camponês e regionalização do progresso industrial"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A raiz histórica dos conflitos no campo brasileiro é a estrutura fundiária herdada das sesmarias coloniais e consolidada pela Lei de Terras de 1850: poucos proprietários concentram a maior parte da área agricultável, enquanto milhões de famílias permanecem sem terra. Essa concentração, somada à desigualdade social que dela decorre, sustenta as ocupações e os enfrentamentos até hoje. A produtividade rural, aliás, cresceu no período, o que elimina a alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5262,6 +6708,43 @@
     }
   },
   {
+    "id": "uerj-2017-q51",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População",
+      "Geopolítica"
+    ],
+    "statement": "Mapas da distribuição das pessoas que vivem com menos de um dólar por dia, comparando 1990 e 1999, mostram que a redução mais acentuada do número de pobres ocorreu na região da Ásia Oriental e Pacífico, enquanto na África Subsaariana o total aumentou.\n\nAdaptado de TERRA, L. e outros. Conexões: Estudos de Geografia Geral e do Brasil. São Paulo: Moderna, 2008.\n\nA partir da análise dos mapas, identifica-se que a diminuição da pobreza, entre 1990 e 1999, foi mais acentuada em determinada região do mundo. Um processo socioeconômico que explica o desempenho alcançado por essa região é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tecnificação agrícola"
+      },
+      {
+        "letter": "B",
+        "text": "redistribuição fundiária"
+      },
+      {
+        "letter": "C",
+        "text": "industrialização periférica"
+      },
+      {
+        "letter": "D",
+        "text": "reformulação previdenciária"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na década de 1990, a Ásia Oriental recebeu a transferência de etapas produtivas das empresas transnacionais, atraídas pela mão de obra barata e abundante — o processo conhecido como industrialização periférica, que na China e nos tigres asiáticos absorveu enormes contingentes de trabalhadores rurais e elevou a renda de centenas de milhões de pessoas. Não houve ali reforma agrária nem reforma previdenciária capazes de produzir esse efeito.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q52",
     "exam": "uerj",
     "year": 2017,
@@ -5295,6 +6778,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q52",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 52,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República",
+      "Idade Contemporânea"
+    ],
+    "statement": "Duas canções gravadas pela banda brasileira Os Incríveis ilustram o período:\n\n“Era um garoto que como eu amava os Beatles e os Rolling Stones” (1967): “Era um garoto / Que como eu / Amava os Beatles / E os Rolling Stones / Girava o mundo / Sempre a cantar / As coisas lindas / Da América / Cantava viva à liberdade / Mas uma carta sem esperar / Da sua guitarra o separou / Fora chamado na América / Stop! Com Rolling Stones / Stop! Com Beatles songs / Mandado foi ao Vietnã / Lutar com vietcongs”.\n\n“Eu te amo, meu Brasil” (1970): “As praias do Brasil ensolaradas / O chão onde o país se elevou / A mão de Deus abençoou / Mulher que nasce aqui tem muito mais amor / O céu do meu Brasil tem mais estrelas / O sol do meu país mais esplendor / Em terras brasileiras vou plantar amor / Eu te amo, meu Brasil, eu te amo / Meu coração é verde, amarelo, branco, azul anil / Ninguém segura a juventude do Brasil”.\n\nBANDA OS INCRÍVEIS. Adaptado de vagalume.com.br.\n\nA banda brasileira Os Incríveis marcou época ao cantar acontecimentos e ideias que afetavam especialmente a vida dos mais jovens no final da década de 1960, como ilustram as letras citadas. Essas letras estão relacionadas, respectivamente, aos seguintes contextos internacional e brasileiro daquele momento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "declínio do liberalismo − patriotismo militarista"
+      },
+      {
+        "letter": "B",
+        "text": "apogeu do imperialismo − naturalismo romântico"
+      },
+      {
+        "letter": "C",
+        "text": "bipolaridade da Guerra Fria − nacionalismo ufanista"
+      },
+      {
+        "letter": "D",
+        "text": "política da coexistência pacífica − conservadorismo ambiental"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A primeira canção trata de um jovem convocado para lutar no Vietnã contra os vietcongues — episódio central do enfrentamento entre Estados Unidos e bloco socialista, ou seja, da bipolaridade da Guerra Fria. A segunda exalta as belezas naturais e a grandeza do país em tom de propaganda, sintonizada com o ufanismo do “Brasil, ame-o ou deixe-o” difundido pela ditadura militar no auge do chamado milagre econômico.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5334,6 +6854,42 @@
     }
   },
   {
+    "id": "uerj-2017-q53",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 53,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Um mapa dos projetos logísticos no Centro-Norte do Brasil apresenta a Ferrovia Norte-Sul, a Ferrovia Paraense, a Ferrogrão, além de rodovias e hidrovias que ligam as áreas produtoras de grãos do Centro-Oeste aos portos do Arco Norte, como Barcarena, Belém, Santarém e Miritituba.\n\nAdaptado de O Globo, 14/03/2016.\n\nCom a implantação dos projetos logísticos mencionados, a competitividade dos fazendeiros brasileiros será mais intensificada pelo seguinte fator:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eliminação de impostos aduaneiros"
+      },
+      {
+        "letter": "B",
+        "text": "localização dos mercados consumidores"
+      },
+      {
+        "letter": "C",
+        "text": "qualidade dos artigos comercializados"
+      },
+      {
+        "letter": "D",
+        "text": "rapidez do deslocamento das mercadorias"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os projetos redirecionam a produção de grãos do Centro-Oeste para os portos do Arco Norte, e não mais para Santos ou Paranaguá. Embarcada em Barcarena, Belém ou Santarém, a soja fica muito mais próxima dos grandes importadores — Europa, América do Norte e, pelo canal do Panamá ampliado, a Ásia —, o que encurta a rota marítima e reduz o custo do frete internacional. É essa vantagem de posição em relação aos mercados consumidores que aumenta a competitividade do produtor brasileiro. As obras não mexem em impostos aduaneiros nem na qualidade do produto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q54",
     "exam": "uerj",
     "year": 2017,
@@ -5367,6 +6923,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q54",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Um mapa da importância do investimento externo direto de origem chinesa entre 2005 e 2013 mostra a proporção desse investimento no total recebido por diversos países de alto risco, como Coreia do Norte (93%), Zimbábue (82%), Afeganistão (79%), Serra Leoa (70%), Equador (57%), Iraque (38%), Sri Lanka (27%) e Venezuela (12%).\n\nAdaptado de nytimes.com.\n\nAs agências de classificação de risco avaliam a maior ou menor possibilidade de prejuízo que cada país oferece aos investidores, principalmente em função do grau de estabilidade política e econômica desses mesmos países. Com base no mapa, é possível reconhecer que a China tem grande peso como investidor em dois grupos de países classificados como de alto risco. O primeiro grupo é o dos aliados políticos, como o Irã e a Coreia do Norte. Já o segundo grupo inclui as nações nas quais os chineses possuem um forte interesse comercial. Um fator econômico prioritário que justifica esse interesse comercial é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incentivo à indústria local"
+      },
+      {
+        "letter": "B",
+        "text": "desenvolvimento de tecnologia"
+      },
+      {
+        "letter": "C",
+        "text": "acesso ao mercado consumidor"
+      },
+      {
+        "letter": "D",
+        "text": "suprimento de matérias-primas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os países do segundo grupo — Zimbábue, Serra Leoa, Equador, Iraque, Venezuela — são exportadores de minérios e petróleo, e não mercados consumidores relevantes. Sendo a maior indústria do mundo, a China investe ali para garantir o abastecimento constante de matérias-primas e energia de que sua produção depende, aceitando o risco político em troca dessa segurança de suprimento.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5406,6 +6998,42 @@
     }
   },
   {
+    "id": "uerj-2017-q55",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "O Índice de Progresso Social (IPS) varia de 0 a 100 e é calculado levando em consideração 36 indicadores. Entre eles, estão acesso a esgoto sanitário e água canalizada, mobilidade, taxa de homicídios, incidência de dengue, mortalidade por tuberculose e HIV, homicídios de jovens negros e frequência no ensino superior. Não são levadas em conta variáveis econômicas, como renda. Um levantamento no município do Rio de Janeiro apontou os melhores índices em Botafogo, Lagoa e Copacabana (de 82,49 a 86,90) e os piores em Guaratiba, Rocinha e Jacarezinho (de 43,53 a 45,18), com valores baixos também em regiões administrativas periféricas como Pavuna, Santa Cruz, Bangu e Campo Grande.\n\nAdaptado de O Globo, 17/05/2016.\n\nA análise do mapa e dos dados aponta tanto para aspectos sociais que se modificaram quanto para aqueles que permaneceram, no que diz respeito a bairros e regiões do município do Rio de Janeiro. Um dos aspectos que explica a situação das regiões administrativas com os mais baixos índices de progresso social é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução da rede de saneamento básico"
+      },
+      {
+        "letter": "B",
+        "text": "desigualdade no acesso a vias de transporte"
+      },
+      {
+        "letter": "C",
+        "text": "redistribuição da força de segurança pública"
+      },
+      {
+        "letter": "D",
+        "text": "uniformização na oferta de assistência hospitalar"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os piores índices concentram-se em favelas e na periferia da Zona Oeste, áreas em que a mobilidade — um dos 36 indicadores do IPS — é precária: os moradores dependem de longos deslocamentos até os empregos, com transporte insuficiente e caro. Essa desigualdade no acesso às vias e aos meios de transporte é histórica e ajuda a explicar o baixo desempenho dessas regiões, ao contrário de A e D, que afirmam retrocesso ou uniformização inexistentes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q56",
     "exam": "uerj",
     "year": 2017,
@@ -5442,6 +7070,42 @@
     }
   },
   {
+    "id": "uerj-2017-q56",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 56,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O Canal do Panamá é uma obra de engenharia das mais grandiosas. Tem 77 quilômetros de extensão e liga o oceano Atlântico ao Pacífico. Suas eclusas, que são uma espécie de elevador, levantam as embarcações até o lago Gatún, de onde se pode ir para um ou outro lado do continente. A construção dessa passagem que encurtaria as viagens, evitando as rotas mortíferas que passavam pelo cabo Horn ou pelo estreito de Magalhães, começou em 1881, mas os trabalhadores morriam como moscas por conta das febres tropicais, houve problemas de engenharia, e o projeto foi abandonado. Os Estados Unidos resolveram retomar o trabalho em 1904 e em dez anos terminaram as obras. O Canal foi inaugurado em 15 de agosto de 1914.\n\nAdaptado de sindprevs-sc.org.br.\n\nPassados mais de cem anos, o Canal do Panamá ainda impressiona os que observam seu funcionamento. No contexto de sua inauguração, essa obra possuía o seguinte caráter estratégico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desenvolvimento da indústria naval"
+      },
+      {
+        "letter": "B",
+        "text": "globalização das economias nacionais"
+      },
+      {
+        "letter": "C",
+        "text": "monopólio das vias mundiais de transportes"
+      },
+      {
+        "letter": "D",
+        "text": "integração capitalista do comércio internacional"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em 1914, o canal encurtou drasticamente a rota entre o Atlântico e o Pacífico, barateando o transporte de mercadorias e articulando os mercados americano, europeu e asiático sob o comando das potências capitalistas — os Estados Unidos, em particular, que controlaram a via até 1999. Trata-se, portanto, de uma obra a serviço da integração do comércio internacional. A globalização, no sentido contemporâneo, é processo bem posterior, e não houve monopólio de todas as rotas mundiais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2017-eq1-q57",
     "exam": "uerj",
     "year": 2017,
@@ -5475,6 +7139,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q57",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 57,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Um gráfico do número de países membros da ONU mostra a ampliação da organização desde 1945: partindo de cerca de 50 Estados fundadores, o total salta para aproximadamente 150 entre 1950 e 1975, e ultrapassa 190 nos anos 2000.\n\nAdaptado de statistiques-mondiales.com.\n\nA variação da curva do gráfico entre os anos de 1950 e 1975 é explicada pelo seguinte evento histórico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integração do bloco socialista"
+      },
+      {
+        "letter": "B",
+        "text": "fragmentação do leste europeu"
+      },
+      {
+        "letter": "C",
+        "text": "democratização latino-americana"
+      },
+      {
+        "letter": "D",
+        "text": "descolonização asiático-africana"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "É nesse intervalo que se desmontam os impérios coloniais europeus: independências na Ásia logo após a guerra e, sobretudo, na África, com o chamado Ano da África em 1960, quando 17 países se tornaram independentes. Cada novo Estado ingressava na ONU, o que triplica o número de membros. A fragmentação do leste europeu é dos anos 1990, e a redemocratização latino-americana não criou países novos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -5547,6 +7247,78 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 12/06/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q59",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 59,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Um dos fatores que impulsionaram a tecnologia da informação foi o sucesso dos profissionais indianos nos Estados Unidos, principalmente no Vale do Silício. A saída de estudantes indianos gerou um intenso debate dentro da Índia: emigrantes eram acusados de usarem a excelente educação recebida gratuitamente do governo para impulsionar suas carreiras sem dar nada de volta ao país. O grosso da emigração indiana hoje vai para os E.U.A., Austrália, Canadá e Nova Zelândia.\n\nAdaptado de COSTA, F. Os indianos. São Paulo: Contexto, 2015.\n\nApesar da crítica relatada no texto, a economia indiana também se beneficiou com a emigração de profissionais indianos qualificados. Para a Índia, uma consequência positiva desse processo demográfico tem sido:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "barateamento da mão de obra local"
+      },
+      {
+        "letter": "B",
+        "text": "recebimento de remessas financeiras"
+      },
+      {
+        "letter": "C",
+        "text": "diminuição dos índices de desemprego"
+      },
+      {
+        "letter": "D",
+        "text": "ampliação das exportações da indústria"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os emigrantes enviam regularmente parte de seus salários às famílias que ficaram no país. A Índia é, há anos, o maior receptor mundial dessas remessas, que entram como divisas, sustentam o consumo doméstico e ajudam a equilibrar as contas externas. Trata-se do principal retorno econômico da emigração qualificada, ao lado das redes profissionais que ela cria — e não da redução do desemprego, dado o peso demográfico do país.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2017-q60",
+    "exam": "uerj",
+    "year": 2017,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "“Já passaram 71 anos desde aquele dia. Era uma manhã luminosa e sem nuvens. A morte caiu do céu e o mundo mudou”, declarou Obama, ao começar seu discurso durante sua visita à cidade japonesa arrasada por uma bomba atômica em 6 de agosto de 1945. O presidente americano, que se tornou o primeiro no exercício do cargo a visitar Hiroshima, afirmou que a memória das vítimas da bomba “nunca deve desaparecer”, já que representa uma “esperança para o futuro” e “alimenta uma mudança”.\n\nAdaptado de g1.globo.com, maio/2016.\n\nEm 2016, a visita do presidente norte-americano Barack Obama à cidade de Hiroshima indica uma perspectiva de mudança nas políticas armamentistas mundiais na atualidade. Comparada às circunstâncias internacionais de 1945, tal mudança está associada à seguinte iniciativa diplomática:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redistribuição de equipamentos bélicos"
+      },
+      {
+        "letter": "B",
+        "text": "equanimidade de cooperação tecnológica"
+      },
+      {
+        "letter": "C",
+        "text": "restrição da produção de artefatos nucleares"
+      },
+      {
+        "letter": "D",
+        "text": "falência da implantação de sistemas defensivos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Se em 1945 o arsenal atômico era instrumento de guerra e de afirmação de poder, a agenda internacional posterior passou a girar em torno de contê-lo: o Tratado de Não Proliferação, os acordos de desarmamento entre Estados Unidos e Rússia e, no contexto imediato da visita, o acordo nuclear com o Irã de 2015. A ida de Obama a Hiroshima é gesto simbólico dessa política de restrição à produção de artefatos nucleares.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2017 (aplicado em 16/10/2016), caderno de questões e gabarito oficial."
     }
   },
   {
