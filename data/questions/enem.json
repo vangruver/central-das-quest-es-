@@ -51705,5 +51705,2510 @@
       "institution": "INEP",
       "note": "ENEM 2024 – 1º dia (Linguagens e Ciências Humanas), Caderno 1 Azul, 1ª aplicação"
     }
+  },
+  {
+    "id": "enem-2024-q91",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 91,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "O esquema representa um experimento feito com células do protozoário Amoeba proteus . Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).\n\nQual componente celular foi afetado pela droga utilizada no experimento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Vacúolos."
+      },
+      {
+        "letter": "B",
+        "text": "Mitocôndrias."
+      },
+      {
+        "letter": "C",
+        "text": "Microfilamentos."
+      },
+      {
+        "letter": "D",
+        "text": "Material genético."
+      },
+      {
+        "letter": "E",
+        "text": "Membrana plasmática."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A Amoeba proteus se move e muda de forma emitindo pseudópodes, e quem produz esse movimento é a rede de microfilamentos de actina logo abaixo da membrana. A citocalasina B liga-se à extremidade dos filamentos de actina e impede sua polimerização. Sem poder montar e desmontar essa rede, a célula perde a capacidade de deformar-se e de deslocar-se — exatamente o que o experimento registrou.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q92",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 92,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon Mg2+ e hidróxido de cálcio, Ca(OH)2, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons Ca2+, de acordo com a equação química: Mg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq) O método adequado para separar o Mg(OH)2 dessa mistura é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "filtração."
+      },
+      {
+        "letter": "B",
+        "text": "catação."
+      },
+      {
+        "letter": "C",
+        "text": "destilação."
+      },
+      {
+        "letter": "D",
+        "text": "dissolução."
+      },
+      {
+        "letter": "E",
+        "text": "evaporação."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A própria equação indica o estado físico de cada espécie: o Mg(OH)2 aparece como sólido (s), enquanto o Ca2+ permanece em solução (aq). Separar um sólido insolúvel de um líquido é o caso clássico da filtração. Catação serve para sólidos grandes e distinguíveis a olho nu; destilação e evaporação separam componentes líquidos ou dissolvidos, e não a suspensão formada aqui.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q93",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 93,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus jahnstonei , que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas. Pererecas-assobiadoras tiram o sono de moradores do Brooklin.\n\nDisponível em: http://g1.globo.com. Acesso em: 26 mar. 2015 (adaptado).\n\nAo emitirem o som estridente, esses anfíbios",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indicam que estão fora de seu hábitat natural."
+      },
+      {
+        "letter": "B",
+        "text": "alertam para a presença de poluição urbana."
+      },
+      {
+        "letter": "C",
+        "text": "sinalizam a existência de superpopulação."
+      },
+      {
+        "letter": "D",
+        "text": "direcionam insetos para sua alimentação."
+      },
+      {
+        "letter": "E",
+        "text": "atraem fêmeas para o acasalamento."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O canto alto e repetido dos anuros é vocalização de corte: são os machos que cantam, e cantam para anunciar sua presença e atrair fêmeas para o acasalamento. O incômodo dos moradores é efeito colateral de uma espécie introduzida que encontrou em São Paulo condições favoráveis à reprodução. O som não indica poluição, nem serve para capturar insetos, nem sinaliza superpopulação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q94",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 94,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso:\n\nCa5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO4 3− (aq) + H2O (l)\n\nO sentido direto corresponde à desmineralização, associada à fragilização do esmalte do dente e à formação de cáries; o sentido inverso, à mineralização.\n\nO uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais:\n\nCreme dental I — bicarbonato de sódio — pH 9,5\nCreme dental II — carbonato de cálcio — pH 11,0\nCreme dental III — citrato de potássio — pH 7,7\nCreme dental IV — dióxido de silício — pH 6,9\nCreme dental V — fosfato de cálcio — pH 7,3\n\nSTORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado).\n\nConsiderando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O H+ é reagente da desmineralização. Quanto mais ácido o meio — isto é, quanto menor o pH —, maior a concentração de H+ e mais o equilíbrio se desloca para a direita, dissolvendo a hidroxiapatita. Entre os cremes listados, o de menor pH é o IV, com pH 6,9 (dióxido de silício). Os de pH básico, como o II (11,0), deslocariam o equilíbrio no sentido da mineralização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q95",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 95,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "A tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca. LAERTE.\n\nDisponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado).\n\nNa tirinha, a geladeira é necessária para fazer gelo porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a temperatura interna do iglu é maior que a de solidificação da água."
+      },
+      {
+        "letter": "B",
+        "text": "a umidade dentro do iglu dificulta o processo de mudança de fase da água."
+      },
+      {
+        "letter": "C",
+        "text": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água."
+      },
+      {
+        "letter": "D",
+        "text": "a temperatura uniforme no interior do iglu impede as correntes de convecção."
+      },
+      {
+        "letter": "E",
+        "text": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O iglu é construído justamente para conservar o calor: a neve compactada isola o interior, que se mantém acima de 0 °C mesmo com o frio extremo lá fora. Como a água só congela abaixo da temperatura de solidificação, dentro do iglu ela não congelaria sozinha — daí a necessidade da geladeira, que retira calor e leva a água abaixo de 0 °C. A umidade, a convecção e a pressão não são os fatores determinantes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q98",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 98,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura. Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa. Zinc Sulphide Phosphorescence.\n\nDisponível em: https://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).\n\nO aparecimento do brilho nessas condições ocorre como consequência de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "colisões interatômicas."
+      },
+      {
+        "letter": "B",
+        "text": "coloração dos átomos."
+      },
+      {
+        "letter": "C",
+        "text": "transições eletrônicas."
+      },
+      {
+        "letter": "D",
+        "text": "reações nucleares."
+      },
+      {
+        "letter": "E",
+        "text": "reflexão da luz."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao ser exposto à luz, o ZnS dopado absorve fótons que promovem elétrons a níveis de energia mais altos. Esses elétrons ficam retidos em estados metaestáveis criados pelos átomos de prata ou cobre e retornam lentamente ao nível fundamental, emitindo luz verde-amarelada por muito tempo depois de cessada a iluminação — é a fosforescência. Todo o fenômeno consiste, portanto, em transições eletrônicas, e não em reflexão (E) nem em processos nucleares (D).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q99",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 99,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula ( spike , em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença. O que são vacinas?\n\nDisponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado).\n\nNessas vacinas, essa proteína viral induz a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "produção de anticorpos específicos contra os vírus."
+      },
+      {
+        "letter": "B",
+        "text": "imunidade passiva contra o desenvolvimento da doença."
+      },
+      {
+        "letter": "C",
+        "text": "alteração genômica para formação da memória imunológica."
+      },
+      {
+        "letter": "D",
+        "text": "neutralização direta dos vírus presentes na circulação sanguínea."
+      },
+      {
+        "letter": "E",
+        "text": "modificação dos receptores de membrana específicos para o vírus."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A vacina apresenta ao organismo apenas a espícula, sem o vírus capaz de causar a doença. O sistema imune reconhece essa proteína como antígeno e monta uma resposta ativa: produz anticorpos dirigidos contra ela e gera células de memória. Se o SARS-CoV-2 chegar depois, esses anticorpos bloqueiam a espícula e impedem o encaixe “chave-fechadura” no receptor celular. Como é o próprio corpo que fabrica os anticorpos, a imunidade é ativa — o que elimina B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q101",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 101,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva (Am+ e Bn−) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons (e−) se movimente ao longo da superfície.\n\nTANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain. Angewandte Chemie International Edition, n. 55, 2016 (adaptado).\n\nAo produzir eletricidade em dias chuvosos, o grafeno",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oxida os cátions dissolvidos na água da chuva."
+      },
+      {
+        "letter": "B",
+        "text": "impede a difusão da água através das placas solares."
+      },
+      {
+        "letter": "C",
+        "text": "diminui a energia de ativação da reação no pseudocapacitor."
+      },
+      {
+        "letter": "D",
+        "text": "forma um compósito não metálico com os íons na água da chuva."
+      },
+      {
+        "letter": "E",
+        "text": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A camada de grafeno é excelente condutora e tem elétrons π deslocalizados por toda a superfície. Quando a água da chuva escorre sobre ela, os cátions dissolvidos (Am+) são atraídos e formam com esses elétrons uma dupla camada elétrica na interface. O movimento da gota desfaz e refaz essa camada, criando uma diferença de potencial entre as extremidades da placa — é essa d.d.p. que gera corrente. Não há oxidação dos cátions pelo grafeno (A).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q103",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 103,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia",
+      "Mecânica"
+    ],
+    "statement": "O diagrama P-V do ciclo de Otto representa o funcionamento de um motor de combustão interna, como os motores a gasolina ou a etanol utilizados nos automóveis. As etapas representadas no diagrama estão descritas no quadro:\n\nEtapa I (0 a 1) — admissão isobárica da mistura ar-combustível no cilindro do motor.\nEtapa II (1 a 2) — compressão adiabática da mistura.\nEtapa III (2 a 3) — introdução de energia na forma de calor da combustão.\nEtapa IV (3 a 4) — expansão adiabática.\nEtapa V (4 a 1) — liberação de energia na forma de calor.\nEtapa VI (1 a 0) — liberação dos gases resultantes da combustão.\n\nDisponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado).\n\nA transformação da energia térmica em energia útil ocorre na etapa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "II."
+      },
+      {
+        "letter": "B",
+        "text": "III."
+      },
+      {
+        "letter": "C",
+        "text": "IV."
+      },
+      {
+        "letter": "D",
+        "text": "V."
+      },
+      {
+        "letter": "E",
+        "text": "VI."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "É na expansão adiabática, etapa IV (3 a 4), que os gases quentes e a alta pressão empurram o pistão. Só aí o sistema realiza trabalho sobre o motor: a energia térmica liberada na combustão converte-se em energia mecânica útil, que move o virabrequim. As etapas II e III consomem ou introduzem energia, e as etapas V e VI apenas descartam calor e gases.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q105",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 105,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia",
+      "Genética"
+    ],
+    "statement": "O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.\n\nROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? Revista da Associação Médica Brasileira, v. 56, 2010 (adaptado).\n\nUma possível consequência da infecção por HTLV-1 é o desenvolvimento de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aids."
+      },
+      {
+        "letter": "B",
+        "text": "câncer."
+      },
+      {
+        "letter": "C",
+        "text": "diabetes."
+      },
+      {
+        "letter": "D",
+        "text": "hepatite B."
+      },
+      {
+        "letter": "E",
+        "text": "hemorragia."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto destaca a diferença decisiva: o HIV destrói os linfócitos T, ao passo que o HTLV-1 estimula a produção dessas células. Uma proliferação contínua e descontrolada de um tipo celular é justamente o que caracteriza um processo tumoral — e o HTLV-1 é reconhecidamente o agente da leucemia/linfoma de células T do adulto. Aids é consequência do HIV, não do HTLV-1.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q107",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 107,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.\n\nLUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).\n\nO método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas."
+      },
+      {
+        "letter": "B",
+        "text": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil."
+      },
+      {
+        "letter": "C",
+        "text": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas."
+      },
+      {
+        "letter": "D",
+        "text": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal."
+      },
+      {
+        "letter": "E",
+        "text": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A questão pede o método que retira o mercúrio da área e o impede de entrar na cadeia alimentar. Na fitoextração as plantas absorvem o metal e o acumulam na parte aérea; depois de crescerem, essa biomassa é colhida e removida do local, levando o mercúrio embora. A fitoestabilização apenas imobiliza o metal no solo, e a fitovolatilização o lança na atmosfera — em nenhuma das duas ele é retirado da área.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q108",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 108,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Química Ambiental"
+    ],
+    "statement": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio A bauxita contém alumina (Al2O3), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 105 toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.\n\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).\n\nLevando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0 × 104 ton"
+      },
+      {
+        "letter": "B",
+        "text": "3,9 × 105 ton"
+      },
+      {
+        "letter": "C",
+        "text": "5,0 × 105 ton"
+      },
+      {
+        "letter": "D",
+        "text": "1,9 × 106 ton"
+      },
+      {
+        "letter": "E",
+        "text": "2,0 × 107 ton"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As latas recicladas correspondem a 4,0 × 10⁵ × 0,974 ≈ 3,9 × 10⁵ toneladas de alumínio que não precisaram ser produzidas a partir do minério. Como são necessários 50 kg de bauxita para cada 10 kg de alumínio, a proporção é de 5 para 1: 3,9 × 10⁵ × 5 ≈ 1,9 × 10⁶ toneladas de bauxita deixaram de ser extraídas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q111",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 111,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Orgânica"
+    ],
+    "statement": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m3 de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL). Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "300 g."
+      },
+      {
+        "letter": "B",
+        "text": "400 g."
+      },
+      {
+        "letter": "C",
+        "text": "510 g."
+      },
+      {
+        "letter": "D",
+        "text": "590 g."
+      },
+      {
+        "letter": "E",
+        "text": "720 g."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Dez mol de etanol equivalem a 10 × 46 = 460 g, que ocupam 460/0,78 ≈ 590 mL, ou seja, cerca de 0,59 L — exatamente o volume que 1 m³ de biogás substitui. Nesse metro cúbico (1 000 L), 70% é metano: 700 L. Em mols, 700/22 ≈ 31,8 mol, e em massa, 31,8 × 16 ≈ 510 g de metano.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q112",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 112,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton (H+). Na figura são apresentados os grupamentos presentes na estrutura química da nimesulida. Nimesulida GONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida. Química Nova, n. 3, 2013 (adaptado).\n\nNa estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sulfonamida."
+      },
+      {
+        "letter": "B",
+        "text": "metila."
+      },
+      {
+        "letter": "C",
+        "text": "fenila."
+      },
+      {
+        "letter": "D",
+        "text": "nitro."
+      },
+      {
+        "letter": "E",
+        "text": "éter."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Uma base de Brönsted-Lowry captura um próton, de modo que o grupo capaz de reagir com ela é o que tem hidrogênio ionizável. Na nimesulida, esse hidrogênio está no nitrogênio da sulfonamida (—SO2—NH—): a retirada desse H gera um ânion estabilizado por ressonância com os oxigênios do grupo sulfonila, o que explica tanto a acidez quanto o aumento de solubilidade em água. Metila, fenila, nitro e éter não têm hidrogênio ácido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q113",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 113,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA. Nesse contexto, essa técnica é importante para detectar genes",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expressos."
+      },
+      {
+        "letter": "B",
+        "text": "plasmidiais."
+      },
+      {
+        "letter": "C",
+        "text": "bacterianos."
+      },
+      {
+        "letter": "D",
+        "text": "dominantes."
+      },
+      {
+        "letter": "E",
+        "text": "autossômicos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A transcriptase reversa parte de moléculas de RNA para sintetizar cDNA. Ora, o RNA mensageiro presente numa célula corresponde exatamente aos genes que ali estão sendo transcritos naquele momento — os genes expressos. Genes silenciados não geram mRNA e, portanto, não aparecem no cDNA. É por isso que a RT-PCR é a técnica de escolha para identificar e clonar os genes em expressão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q115",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 115,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL. Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol. Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,7 g"
+      },
+      {
+        "letter": "B",
+        "text": "1,8 g"
+      },
+      {
+        "letter": "C",
+        "text": "2,8 g"
+      },
+      {
+        "letter": "D",
+        "text": "3,6 g"
+      },
+      {
+        "letter": "E",
+        "text": "7,0 g"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Nos 2 L de soro há 1,4 mg/mL × 2 000 mL = 2 800 mg = 2,8 g de íon sódio. Cada 23 g de Na corresponde a 58,5 g de NaCl, logo a massa de sal é 2,8 × 58,5/23 ≈ 7,1 g. Como essa quantidade veio de duas colheres pequenas, cada colher contém cerca de 3,6 g de cloreto de sódio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q117",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 117,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f 0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência f r. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta. Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências f r e f 0 medidas pelo radar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mais grave do que o som emitido e f r < f 0."
+      },
+      {
+        "letter": "B",
+        "text": "Mais agudo do que o som emitido e f r < f 0."
+      },
+      {
+        "letter": "C",
+        "text": "Mais agudo do que o som emitido e f r = f 0."
+      },
+      {
+        "letter": "D",
+        "text": "Mais agudo do que o som emitido e f r > f 0."
+      },
+      {
+        "letter": "E",
+        "text": "Mais grave do que o som emitido e f r > f 0."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "São dois efeitos Doppler com a mesma causa. Para o som: a ambulância se aproxima, as frentes de onda chegam mais juntas e o operador ouve um som mais agudo que o emitido. Para as ondas de rádio: a dianteira do veículo funciona como refletor em movimento de aproximação, e a onda refletida volta ao radar com frequência maior que a emitida — daí f_r > f_0. É justamente essa diferença que o radar mede para calcular a velocidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q119",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 119,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas, que durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente.\n\nDAY, C. Crumple Zones.\n\nDisponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado).\n\nAssim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como crumple zone (região deformável, em inglês), conforme a figura. Momentum and Car safety. GCSE Physics Revision.\n\nDisponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado).\n\nConsiderando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aciona os airbags do veículo."
+      },
+      {
+        "letter": "B",
+        "text": "absorve a energia cinética do sistema."
+      },
+      {
+        "letter": "C",
+        "text": "consome a quantidade de movimento do sistema."
+      },
+      {
+        "letter": "D",
+        "text": "cria uma barreira de proteção para seus ocupantes."
+      },
+      {
+        "letter": "E",
+        "text": "diminui a velocidade do centro de massa do sistema."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Numa colisão, a quantidade de movimento do sistema isolado se conserva, e a velocidade do centro de massa não muda — o que elimina C e E. A energia cinética, ao contrário, precisa ir para algum lugar. A crumple zone se amassa de forma controlada, e o trabalho gasto para deformar o metal absorve grande parte dessa energia, que assim não é transferida aos ocupantes. Deformar-se muito é, portanto, mais seguro que ser rígido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q120",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 120,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias urbanas e agroindustriais. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. A figura esquematiza uma CCM e as reações envolvidas. CH3COO− (aq) + 2 H2O (I) →2 CO2 (g) + 7 H+ (aq) + 8 e− 4 H+ (aq) + O2 (g) + 4 e− → 2 H2O (I)\n\nQUINTO, A. C. Biobaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais.\n\nDisponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).\n\nQual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "CH3COO− (aq) + O2 (g) → 2 CO2 (g) + 3 H+ (aq)"
+      },
+      {
+        "letter": "B",
+        "text": "CO2 (g) + O2 (g) + H+ (aq) → H2O (l) + CH3COO− (aq)"
+      },
+      {
+        "letter": "C",
+        "text": "CH3COO− (aq) + H+ (aq) + 2 O2 (g) →2 CO2 (g) + 2 H2O (l)"
+      },
+      {
+        "letter": "D",
+        "text": "CH3COO− (aq) + 6 H2O (l) →2 CO2 (g) + 2 O2 (g) + 15 H+ (aq)"
+      },
+      {
+        "letter": "E",
+        "text": "2 CO2 (g) + 11 H+ (aq) + O2 (g) →CH3COO− (aq) + 4 H2O (l)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Basta igualar os elétrons das duas semirreações. A oxidação do acetato libera 8 e⁻; a redução do O2 consome 4 e⁻, e por isso deve ser multiplicada por 2. Somando: CH3COO⁻ + 2 H2O + 8 H+ + 2 O2 → 2 CO2 + 7 H+ + 4 H2O. Cancelando 7 H+ e 2 H2O de ambos os lados, resta CH3COO⁻ + H+ + 2 O2 → 2 CO2 + 2 H2O.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q121",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 121,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado. A concepção científica atual define esses compostos como substâncias",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "benéficas à saúde humana."
+      },
+      {
+        "letter": "B",
+        "text": "capazes de serem biodegradadas."
+      },
+      {
+        "letter": "C",
+        "text": "formadas a partir de gás carbônico."
+      },
+      {
+        "letter": "D",
+        "text": "produzidas sem o uso de agrotóxicos."
+      },
+      {
+        "letter": "E",
+        "text": "contendo carbono como elemento principal."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A definição vitalista — substâncias produzidas por seres vivos — caiu em 1828, quando Wöhler sintetizou ureia a partir de material inorgânico. Desde então a Química Orgânica se define pelo elemento, não pela origem: compostos orgânicos são aqueles que têm o carbono como elemento principal, formando cadeias e ligando-se sobretudo a H, O, N e halogênios. Ser benéfico, biodegradável ou livre de agrotóxicos nada tem a ver com a classificação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q124",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 124,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "A saúde do professor: acústica arquitetônica Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.\n\nDisponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).\n\nPara um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,0 m."
+      },
+      {
+        "letter": "B",
+        "text": "4,5 m."
+      },
+      {
+        "letter": "C",
+        "text": "6,5 m."
+      },
+      {
+        "letter": "D",
+        "text": "8,0 m."
+      },
+      {
+        "letter": "E",
+        "text": "9,5 m."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para ser compreendida, a fala precisa estar 5 dB acima do ruído de 45 dB, ou seja, chegar ao estudante com pelo menos 50 dB. A intensidade de uma fonte pontual cai com o quadrado da distância, o que corresponde a uma queda de 20·log(d) no nível sonoro: 50 = 60 − 20·log(d), logo log(d) = 0,5 e d = 10^0,5 ≈ 3,2 m. A maior distância possível é, portanto, próxima de 3,0 m.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q125",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 125,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Botânica"
+    ],
+    "statement": "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado. Utilizando esse procedimento, o sabor foi conservado porque houve",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desnaturação enzimática pela alta temperatura."
+      },
+      {
+        "letter": "B",
+        "text": "conversão de nutrientes pela redução de temperatura."
+      },
+      {
+        "letter": "C",
+        "text": "degradação das reservas nutritivas pelo choque térmico."
+      },
+      {
+        "letter": "D",
+        "text": "impedimento da entrada de oxigênio pela fervura da água."
+      },
+      {
+        "letter": "E",
+        "text": "desidratação dos grãos por causa da alteração da temperatura."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Depois de colhido, o milho continua vivo, e as enzimas do grão seguem convertendo glicose em amido — é isso que faz a espiga perder o sabor doce. A imersão em água fervente desnatura essas enzimas: o calor rompe as ligações que mantêm sua estrutura tridimensional, o sítio ativo se desfaz e a reação para. O resfriamento posterior apenas interrompe o cozimento e conserva a textura.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q126",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 126,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento. 5 dicas de instalação de aquecedor solar.\n\nDisponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).\n\nO processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difusão."
+      },
+      {
+        "letter": "B",
+        "text": "absorção."
+      },
+      {
+        "letter": "C",
+        "text": "condução."
+      },
+      {
+        "letter": "D",
+        "text": "irradiação."
+      },
+      {
+        "letter": "E",
+        "text": "convecção."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A água aquecida nos coletores fica menos densa e sobe pela tubulação até o reservatório, enquanto a água mais fria do reservatório desce e ocupa seu lugar nos coletores. Esse ciclo, chamado termossifão, é uma corrente de convecção: o calor é transportado pelo próprio deslocamento do fluido, e não por vibração de partículas vizinhas (condução) nem por ondas eletromagnéticas (irradiação), que é como o calor chega do Sol até a placa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q128",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 128,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "Impactos do microplástico A ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.\n\nDisponível em: www.ecycle.com.br. Acesso em: 9 dez. 2021 (adaptado).\n\nEm animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ósseo."
+      },
+      {
+        "letter": "B",
+        "text": "nervoso."
+      },
+      {
+        "letter": "C",
+        "text": "epitelial."
+      },
+      {
+        "letter": "D",
+        "text": "adiposo."
+      },
+      {
+        "letter": "E",
+        "text": "sanguíneo."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto informa que os poluentes aderidos ao microplástico são apolares e lipossolúveis, e que sua concentração nos tecidos é diretamente proporcional a essa solubilidade. Substâncias lipossolúveis acumulam-se onde há lipídios: o tecido adiposo. É esse mecanismo que sustenta a bioacumulação e, ao longo da cadeia alimentar, a biomagnificação desses contaminantes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q129",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 129,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Óptica"
+    ],
+    "statement": "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira. Que explicação física justifica esse procedimento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens."
+      },
+      {
+        "letter": "B",
+        "text": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão."
+      },
+      {
+        "letter": "C",
+        "text": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador."
+      },
+      {
+        "letter": "D",
+        "text": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles."
+      },
+      {
+        "letter": "E",
+        "text": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A imagem de raios X é uma sombra: o que aparece depende de quanto cada material absorve a radiação. As baterias, placas e blindagens metálicas do notebook são densas e barram quase todos os raios, projetando uma mancha opaca que esconde tudo o que estiver alinhado atrás ou à frente dele. Retirando o computador da mochila, o operador consegue examinar separadamente o aparelho e o restante da bagagem.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q130",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 130,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos. Em qual órgão esse processo será iniciado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Rim."
+      },
+      {
+        "letter": "B",
+        "text": "Fígado."
+      },
+      {
+        "letter": "C",
+        "text": "Intestino."
+      },
+      {
+        "letter": "D",
+        "text": "Pâncreas."
+      },
+      {
+        "letter": "E",
+        "text": "Estômago."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O ácido clorídrico do enunciado é o suco gástrico, produzido exclusivamente no estômago, onde o pH chega a 1 ou 2. É ali que o nitrito de sódio ingerido com a carne processada encontra esse ácido e se converte em ácido nitroso, que então reage com as aminas dos alimentos formando as nitrosaminas. O processo começa, portanto, no estômago.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q131",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 131,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Sistemas agroflorestais (SAFs) Os sistemas agroflorestais alinham os interesses econômicos aos ecológicos. Esses sistemas podem ser usados na recuperação ambiental de áreas degradadas que se tornaram pouco produtivas, como as utilizadas por muito tempo para pastagem. Para isso, num primeiro momento, as árvores nativas são plantadas em conjunto com culturas agrícolas anuais, como feijão, mandioca, milho e abóbora, que geram renda para os proprietários da terra e incentivam a manutenção do sistema. Em um segundo momento, são introduzidas outras espécies, como trepadeiras e arbustos, de acordo com um arranjo espacial e temporal preestabelecido. Nesse processo, ocorrerão mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo, que culminarão no aumento da diversidade do ambiente.\n\nDisponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado).\n\nO conjunto dessas mudanças graduais é análogo ao processo natural denominado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rotação de culturas."
+      },
+      {
+        "letter": "B",
+        "text": "sucessão ecológica."
+      },
+      {
+        "letter": "C",
+        "text": "coevolução específica."
+      },
+      {
+        "letter": "D",
+        "text": "adaptação por seleção."
+      },
+      {
+        "letter": "E",
+        "text": "convergência adaptativa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O sistema agroflorestal reproduz, de forma dirigida, o que ocorre naturalmente numa área degradada deixada em recuperação: primeiro espécies pioneiras de ciclo curto, depois arbustos e trepadeiras, e assim por diante, com a estrutura e a composição da comunidade mudando gradualmente e a diversidade aumentando até uma comunidade estável. Esse processo é a sucessão ecológica — no caso, secundária, por partir de um solo já ocupado antes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q132",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 132,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009 (adaptado).\n\nUm atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Triatlo."
+      },
+      {
+        "letter": "B",
+        "text": "Salto em altura."
+      },
+      {
+        "letter": "C",
+        "text": "Marcha atlética."
+      },
+      {
+        "letter": "D",
+        "text": "Maratona aquática."
+      },
+      {
+        "letter": "E",
+        "text": "Ciclismo em estrada."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As fibras brancas têm poucas mitocôndrias e pouca irrigação: trabalham em anaerobiose, contraem-se rapidamente e geram muita força em pouco tempo, mas fatigam depressa. Servem, portanto, a esforços explosivos e breves — como a corrida e a impulsão do salto em altura. Triatlo, marcha, maratona aquática e ciclismo de estrada são provas de longa duração, que dependem das fibras vermelhas e do metabolismo aeróbico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q133",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 133,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução",
+      "Zoologia"
+    ],
+    "statement": "O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.\n\nFRANÇA, F. G. R. [...] serpentes corais em ambientes campestres, savânicos e florestais da América do Sul. Brasília: UnB, 2008 (adaptado).\n\nNas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.\n\nSILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).\n\nQual é a vantagem dessa similaridade para as falsas-corais?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Facilita a captura de presas."
+      },
+      {
+        "letter": "B",
+        "text": "Diminui a competição por recursos."
+      },
+      {
+        "letter": "C",
+        "text": "Possibilita a geração de indivíduos híbridos."
+      },
+      {
+        "letter": "D",
+        "text": "Reduz a possibilidade de sofrerem predação."
+      },
+      {
+        "letter": "E",
+        "text": "Otimiza o encontro de parceiros reprodutivos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A falsa-coral não tem peçonha, mas exibe o mesmo padrão de anéis coloridos da coral-verdadeira. Predadores que aprenderam a evitar a serpente peçonhenta passam a evitar também a inofensiva, que assim escapa de ser atacada. Esse é o mimetismo batesiano: a espécie inócua ganha proteção ao imitar a aparência de uma espécie perigosa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q134",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 134,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais. Para superar essa limitação, o exoesqueleto deve ser",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "formado somente na fase adulta do animal."
+      },
+      {
+        "letter": "B",
+        "text": "fragmentado para expansão nas áreas de articulação."
+      },
+      {
+        "letter": "C",
+        "text": "modelado continuamente para ajuste ao tamanho do corpo."
+      },
+      {
+        "letter": "D",
+        "text": "substituído por meio de mudas que ocorrem periodicamente."
+      },
+      {
+        "letter": "E",
+        "text": "impregnado por pequena quantidade de sais para sua distensão."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O exoesqueleto de quitina impregnada de sais de cálcio é rígido e não acompanha o crescimento do animal. A saída dos crustáceos é a ecdise: periodicamente o revestimento antigo se rompe e é abandonado, e o animal, ainda de carapaça mole, absorve água e aumenta de tamanho antes que o novo exoesqueleto endureça. O crescimento é, por isso, descontínuo, em saltos entre uma muda e outra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q136",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 136,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas:\n\n30 mochilas — R$ 1 050,00\n50 mochilas — R$ 1 650,00\n100 mochilas — R$ 3 150,00\n\nO custo total, em real, para a produção de 80 mochilas será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2 400,00."
+      },
+      {
+        "letter": "B",
+        "text": "2 520,00."
+      },
+      {
+        "letter": "C",
+        "text": "2 550,00."
+      },
+      {
+        "letter": "D",
+        "text": "2 700,00."
+      },
+      {
+        "letter": "E",
+        "text": "2 800,00."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Como o custo é linear, o custo variável por mochila sai da variação entre dois pontos: (1 650 − 1 050)/(50 − 30) = 600/20 = R$ 30,00 por unidade. O custo fixo é 1 050 − 30 × 30 = R$ 150,00. Assim C(q) = 150 + 30q, e para 80 mochilas: 150 + 30 × 80 = R$ 2 550,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q137",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 137,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade:\n\nMaio — 66%\nJunho — 64%\nJulho — 54%\nAgosto — 46%\nSetembro — 60%\nOutubro — 64%\n\nNessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "56."
+      },
+      {
+        "letter": "B",
+        "text": "58."
+      },
+      {
+        "letter": "C",
+        "text": "59."
+      },
+      {
+        "letter": "D",
+        "text": "60."
+      },
+      {
+        "letter": "E",
+        "text": "62."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ordenando as seis médias: 46, 54, 60, 64, 64, 66. Com um número par de dados, a mediana é a média dos dois valores centrais, que ocupam a terceira e a quarta posições: (60 + 64)/2 = 62.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q138",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 138,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de R$ 71 250,00. Os sócios da empresa decidiram que 40% desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias trabalhadas pelos engenheiros foram, respectivamente:\n\n• engenheiro I: 4 dias, numa jornada de 5 horas e meia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e meia por dia.\n\nQual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 000"
+      },
+      {
+        "letter": "B",
+        "text": "1 500"
+      },
+      {
+        "letter": "C",
+        "text": "3 500"
+      },
+      {
+        "letter": "D",
+        "text": "3 800"
+      },
+      {
+        "letter": "E",
+        "text": "5 250"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As horas trabalhadas são: engenheiro I, 4 × 5,5 = 22 h; II, 5 × 4 = 20 h; III, 6 × 2,5 = 15 h — total de 57 h. O valor a repartir é 40% de R$ 71 250,00 = R$ 28 500,00, o que dá 28 500/57 = R$ 500,00 por hora. Os pagamentos são, então, R$ 11 000,00, R$ 10 000,00 e R$ 7 500,00, e a maior diferença é 11 000 − 7 500 = R$ 3 500,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q140",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 140,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15 60 . A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4 100 , considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,35."
+      },
+      {
+        "letter": "B",
+        "text": "3,00."
+      },
+      {
+        "letter": "C",
+        "text": "9,00."
+      },
+      {
+        "letter": "D",
+        "text": "12,60."
+      },
+      {
+        "letter": "E",
+        "text": "13,80."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Sendo t o novo tempo de vermelho em cada semáforo, a probabilidade de encontrar um deles vermelho é t/60. Como os eventos são independentes, a de encontrar ambos vermelhos é (t/60)² = 4/100. Daí t/60 = 2/10, ou seja, t = 12 segundos. A redução estabelecida foi de 15 − 12 = 3 segundos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q141",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 141,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "A densidade demográfica de uma região é definida como sendo a razão entre o número de habitantes dessa região e sua área, expressa na unidade habitantes por quilômetro quadrado. Uma região R é subdividida em várias outras, sendo uma delas a região Q . A área de Q é igual a três quartos da área de R, e o número de habitantes de Q é igual à metade do número de habitantes de R. As densidades demográficas correspondentes a essas regiões são denotadas por d ( Q ) e d ( R ). A expressão que relaciona d ( Q ) e d ( R ) é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "d(Q) = (1/4)·d(R)"
+      },
+      {
+        "letter": "B",
+        "text": "d(Q) = (1/2)·d(R)"
+      },
+      {
+        "letter": "C",
+        "text": "d(Q) = (3/4)·d(R)"
+      },
+      {
+        "letter": "D",
+        "text": "d(Q) = (3/2)·d(R)"
+      },
+      {
+        "letter": "E",
+        "text": "d(Q) = (2/3)·d(R)"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Sejam N e A o número de habitantes e a área de R, de modo que d(R) = N/A. Para Q tem-se N/2 habitantes e 3A/4 de área, logo d(Q) = (N/2)/(3A/4) = (N/2)·(4/3A) = (2/3)·(N/A). Portanto d(Q) = (2/3)·d(R).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q142",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 142,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 1/2 polegadas (celular 1), com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo 4 5/6 polegadas (celular 2).\n\nDisponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado).\n\nA diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,1."
+      },
+      {
+        "letter": "B",
+        "text": "0,5."
+      },
+      {
+        "letter": "C",
+        "text": "1,0."
+      },
+      {
+        "letter": "D",
+        "text": "1,3."
+      },
+      {
+        "letter": "E",
+        "text": "1,8."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As medidas são números mistos: a tela menor tem 3 + 1/2 = 3,5 polegadas e a maior, 4 + 5/6 ≈ 4,833 polegadas. A diferença é 4,833 − 3,5 ≈ 1,333, que, com uma casa decimal, é 1,3 polegada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q143",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 143,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Matemática Financeira"
+    ],
+    "statement": "Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Fevereiro."
+      },
+      {
+        "letter": "B",
+        "text": "Abril."
+      },
+      {
+        "letter": "C",
+        "text": "Maio."
+      },
+      {
+        "letter": "D",
+        "text": "Junho."
+      },
+      {
+        "letter": "E",
+        "text": "Agosto."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As parcelas formam uma progressão geométrica crescente, de modo que as últimas são as mais caras. O cliente quer que as parcelas pagas pela imobiliária — as de maio — sejam as maiores possíveis. Comprando em fevereiro, a primeira parcela cai em fevereiro e as de maio ocupam as posições 4, 16, 28, …, isto é, 4 + 12k. Com k = 8 chega-se à parcela 100, a última e maior de todas. Nenhum outro mês de compra faz a parcela final coincidir com maio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q145",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 145,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto H representa o local onde está construído o hospital; os pontos P1, P2 e P3, os postos de saúde; e esses quatro pontos estão em um mesmo plano.\n\nA distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2 e 3."
+      },
+      {
+        "letter": "B",
+        "text": "4 e 5."
+      },
+      {
+        "letter": "C",
+        "text": "5 e 6."
+      },
+      {
+        "letter": "D",
+        "text": "7 e 8."
+      },
+      {
+        "letter": "E",
+        "text": "8 e 9."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os três postos formam um triângulo equilátero de lado 10 km, e o ponto equidistante dos três vértices é o circuncentro. Num triângulo equilátero, o raio da circunferência circunscrita é R = L/√3 = 10/√3 = 10√3/3 ≈ 5,8 km. A distância procurada está, portanto, entre 5 e 6 quilômetros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q147",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 147,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado por essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será pela forma que resulte na maior área. O jardineiro escolherá a forma de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hexágono regular, pois a área do jardim, em metro quadrado, será k²√3/24."
+      },
+      {
+        "letter": "B",
+        "text": "hexágono regular, pois a área do jardim, em metro quadrado, será 3k²√3/2."
+      },
+      {
+        "letter": "C",
+        "text": "quadrado, pois a área do jardim, em metro quadrado, será k²/16."
+      },
+      {
+        "letter": "D",
+        "text": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k²√3/36."
+      },
+      {
+        "letter": "E",
+        "text": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k²√3/4."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Entre polígonos regulares de mesmo perímetro, a área cresce com o número de lados — logo o hexágono vence. Com perímetro k, cada lado mede k/6, e o hexágono regular decompõe-se em 6 triângulos equiláteros de lado k/6: A = 6 · (√3/4)·(k/6)² = 6·(√3/4)·(k²/36) = k²√3/24.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q148",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 148,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem, nessa ordem, partes sucessivas do trecho a partir do terminal 1. O alcance de cada uma das cinco câmeras é:\n\n• câmera I: 1/5 do percurso;\n• câmera II: 3/10 do percurso;\n• câmera III: 1/10 do percurso;\n• câmera IV: 1/10 do percurso;\n• câmera V: 3/10 do percurso.\n\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.\n\nQual câmera registra o momento em que os ônibus A e B se encontram?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os ônibus se aproximam a 250 + 150 = 400 m/min, e os 9 000 m são vencidos em 9 000/400 = 22,5 min. Nesse tempo o ônibus A percorreu 250 × 22,5 = 5 625 m a partir do terminal 1, isto é, 5 625/9 000 = 0,625 do percurso. Somando os alcances das câmeras na ordem em que aparecem — I até 0,2; II até 0,5; III até 0,6; IV até 0,7 —, o ponto 0,625 está sob a câmera IV.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q149",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 149,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente. A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A B C Letra do texto codificado A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Letra do texto original\n\nDisponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.\n\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas. Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes. A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/25 + 1/25 + 1/25"
+      },
+      {
+        "letter": "B",
+        "text": "24/25 + 23/24 + 1/23"
+      },
+      {
+        "letter": "C",
+        "text": "1/25 × 1/24 × 1/23"
+      },
+      {
+        "letter": "D",
+        "text": "24/25 × 23/25 × 1/25"
+      },
+      {
+        "letter": "E",
+        "text": "24/25 × 23/24 × 1/23"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Há 25 letras possíveis para substituir o “A” (todas menos ele próprio). Como cada tentativa frustrada é descartada, na primeira o erro tem probabilidade 24/25; restando 24 opções, o erro na segunda tem probabilidade 23/24; e, restando 23, o acerto na terceira tem probabilidade 1/23. Pela regra do produto: (24/25) × (23/24) × (1/23).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q150",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 150,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidas segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores, dada por\n\nM2 − M1 = (2/3)·log(E2/E1)\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5,4."
+      },
+      {
+        "letter": "B",
+        "text": "6,2."
+      },
+      {
+        "letter": "C",
+        "text": "7,6."
+      },
+      {
+        "letter": "D",
+        "text": "8,2."
+      },
+      {
+        "letter": "E",
+        "text": "8,4."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Substituindo na relação M2 − M1 = (2/3)·log(E2/E1): como E1 é um décimo de E2, tem-se E2/E1 = 10 e log 10 = 1. Logo M2 − M1 = 2/3 ≈ 0,67, e M2 = 6,9 + 0,67 ≈ 7,6.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q154",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 154,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo. O quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais, em minuto:\n\nServiço A — 36\nServiço B — 17\nServiço C — 27\nServiço D — 13\nServiço E — 13\nServiço F — 13\n\nROMERO, L. Não li e concordo. Superinteressante, n. 307, ago. 2012 (adaptado).\n\nO tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "13,0."
+      },
+      {
+        "letter": "B",
+        "text": "15,0."
+      },
+      {
+        "letter": "C",
+        "text": "19,8."
+      },
+      {
+        "letter": "D",
+        "text": "20,0."
+      },
+      {
+        "letter": "E",
+        "text": "23,3."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A média é a soma dos tempos dividida pelo número de serviços: (36 + 17 + 27 + 13 + 13 + 13)/6 = 119/6 ≈ 19,83, ou seja, aproximadamente 19,8 minutos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q155",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 155,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S . Essa área depende da medida do ângulo α, em grau, e do raio R , em metro. Ao aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor. Para esse fim, há cinco tipos de sensores disponíveis no mercado, cada um com as seguintes características: • tipo I: α = 15° e R = 20 m; • tipo II: α = 30° e R = 22 m; • tipo III: α = 40° e R = 12 m; • tipo IV: α = 60° e R = 16 m; • tipo V: α = 90° e R = 10 m. Esse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 70 m2, com o menor preço possível. Use 3 como valor aproximado para π. O proprietário do imóvel deverá adquirir o sensor do tipo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A área coberta é a de um setor circular: A = (α/360)·π·R², com π ≈ 3. Tipo I: (15/360)·3·400 = 50 m². II: (30/360)·3·484 = 121 m². III: (40/360)·3·144 = 48 m². IV: (60/360)·3·256 = 128 m². V: (90/360)·3·100 = 75 m². Como o preço cresce com a área, entre os que atingem os 70 m² exigidos (II, IV e V) o mais barato é o de menor área: o tipo V, com 75 m².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q156",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 156,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de: • tarifa base F : valor fixo, em real, cobrado no início da viagem; • tempo T : tempo, em minuto, de duração da viagem; • distância D : distância percorrida, em quilômetro. Um desses aplicativos cobra R$ 2,00 de valor fixo, acrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado. Nessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,00 F + 0,26 T + 1,40 D"
+      },
+      {
+        "letter": "B",
+        "text": "2,00 + 0,26 T + 1,40 D"
+      },
+      {
+        "letter": "C",
+        "text": "2,00 + 0,26 T + D"
+      },
+      {
+        "letter": "D",
+        "text": "0,26 T + 1,40 D"
+      },
+      {
+        "letter": "E",
+        "text": "F + T + D"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A tarifa base é um valor fixo já expresso em reais: entram os R$ 2,00, e não “2,00 F”, que multiplicaria o valor por ele mesmo — o que elimina A. A cada minuto somam-se R$ 0,26, e a cada quilômetro, R$ 1,40. Logo V = 2,00 + 0,26·T + 1,40·D.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q157",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 157,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina. A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8 250."
+      },
+      {
+        "letter": "B",
+        "text": "7 920."
+      },
+      {
+        "letter": "C",
+        "text": "6 545."
+      },
+      {
+        "letter": "D",
+        "text": "5 500."
+      },
+      {
+        "letter": "E",
+        "text": "5 280."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A primeira piscina leva 2 500 000/6 000 ≈ 416,7 minutos para encher. O tempo da segunda é 20% maior: 416,7 × 1,2 = 500 minutos. Como ela comporta 2 750 000 litros, a vazão necessária é 2 750 000/500 = 5 500 litros por minuto — menor que a da primeira, porque o tempo aumentou proporcionalmente mais que o volume.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q158",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 158,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma tubulação despeja sempre o mesmo volume de água por unidade de tempo em uma caixa-d’água, o que significa dizer que a vazão de água nessa tubulação é constante. Na junção dessa tubulação com a caixa-d’água, está instalada uma membrana de filtragem cujo objetivo é filtrar eventuais impurezas presentes na água, combinado a um bom fluxo de água. O fluxo (ϕ) de água através da superfície da membrana é diretamente proporcional à vazão de água na tubulação, medida em mililitro por segundo, e inversamente proporcional à área da superfície da membrana, medida em centímetro quadrado. A unidade de medida adequada para descrever o fluxo (ϕ) de água que atravessa a superfície da membrana é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mL·s·cm²"
+      },
+      {
+        "letter": "B",
+        "text": "(mL·s)/cm²"
+      },
+      {
+        "letter": "C",
+        "text": "mL/(cm²·s)"
+      },
+      {
+        "letter": "D",
+        "text": "(cm²·s)/mL"
+      },
+      {
+        "letter": "E",
+        "text": "cm²/(s·mL)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O fluxo é diretamente proporcional à vazão (mL/s) e inversamente proporcional à área (cm²). Montando a expressão: ϕ = k · (mL/s)/cm², de modo que a unidade fica mL dividido por centímetro quadrado e por segundo — isto é, mL/(cm²·s).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q160",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 160,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Álgebra"
+    ],
+    "statement": "Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma porção é R$ 25,00. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será R$ 15,00, e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo. A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12,50"
+      },
+      {
+        "letter": "B",
+        "text": "20,00"
+      },
+      {
+        "letter": "C",
+        "text": "24,00"
+      },
+      {
+        "letter": "D",
+        "text": "30,00"
+      },
+      {
+        "letter": "E",
+        "text": "37,50"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Hoje, cinco porções custam 10 + 5 × 25 = R$ 135,00. Com a nova taxa de R$ 15,00, o total precisa continuar sendo 135: 15 + 5x = 135, logo 5x = 120 e x = R$ 24,00 por porção.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q163",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 163,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 100 micrômetros (1 micrômetro = 10−3 milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 mm de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação: • lente I: 2 vezes; • lente II: 10 vezes; • lente III: 15 vezes; • lente IV: 1,1 vez; • lente V: 1,4 vez. O funcionamento desse microscópio permite o uso da lente ocular sozinha ou a combinação dela com uma de suas lentes objetivas, proporcionando, nesse caso, um aumento de sua capacidade de ampliação final, que é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva. Essa estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano. A lente objetiva a ser selecionada pela estudante é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As hemácias medem 0,007 mm, ou 7 micrômetros, e a visão desarmada só distingue 100 µm. É preciso, portanto, uma ampliação de pelo menos 100/7 ≈ 14,3 vezes. A ocular sozinha amplia 10 vezes, o que ainda é insuficiente. Combinando-a com uma objetiva, a ampliação final é o produto: com a lente I (2×) chega-se a 20×, já acima do necessário; as lentes IV (1,1×) e V (1,4×) dariam 11× e 14×, ambas insuficientes. A menor objetiva que resolve é a I.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q164",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 164,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Álgebra"
+    ],
+    "statement": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente. O valor correto da média das notas desse estudante é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4."
+      },
+      {
+        "letter": "B",
+        "text": "5."
+      },
+      {
+        "letter": "C",
+        "text": "6."
+      },
+      {
+        "letter": "D",
+        "text": "19."
+      },
+      {
+        "letter": "E",
+        "text": "21."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Seja S a soma das quatro notas. A média correta é S/4 e a obtida por engano, S/5, sendo esta 1 unidade menor: S/4 − S/5 = 1. Como S/4 − S/5 = S/20, tem-se S = 20 e a média correta é 20/4 = 5.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q165",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 165,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado alfanumérico como o representado na figura. Por exemplo: a tecla que contém o número 2 traz as letras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B e C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira. As senhas a serem cadastradas pelos funcionários devem conter 5 caracteres, sendo 2 algarismos distintos seguidos de 3 letras diferentes, nessa ordem. Um funcionário irá cadastrar a sua primeira senha, podendo escolher entre as teclas que apresentam os números 1, 2, 5, 7 e 0 e as respectivas letras correlacionadas, quando houver. O número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "11 520."
+      },
+      {
+        "letter": "B",
+        "text": "14 400."
+      },
+      {
+        "letter": "C",
+        "text": "18 000."
+      },
+      {
+        "letter": "D",
+        "text": "312 000."
+      },
+      {
+        "letter": "E",
+        "text": "390 000."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois algarismos, distintos e escolhidos entre 1, 2, 5, 7 e 0, podem ser ordenados de 5 × 4 = 20 maneiras. Quanto às letras, apenas três das teclas disponíveis as trazem: a 2 (A, B, C), a 5 (J, K, L) e a 7 (P, Q, R, S), num total de 3 + 3 + 4 = 10 letras. Escolhendo 3 delas, todas diferentes e em ordem: 10 × 9 × 8 = 720. Multiplicando: 20 × 720 = 14 400 senhas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q166",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 166,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um artesão utiliza dois tipos de componentes, X e Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. O quadro apresenta os preços dos dois tipos de componentes nas lojas I e II:\n\nLoja I — componente X: R$ 3,00; componente Y: R$ 1,00\nLoja II — componente X: R$ 2,00; componente Y: R$ 4,00\n\nEle confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y e efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite.\n\nO artesão efetuará a compra na loja",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I, pois o valor é R$ 7,00."
+      },
+      {
+        "letter": "B",
+        "text": "I, pois o valor é R$ 4,00."
+      },
+      {
+        "letter": "C",
+        "text": "II, pois o valor é R$ 6,00."
+      },
+      {
+        "letter": "D",
+        "text": "I, pois anuncia o componente com o menor preço."
+      },
+      {
+        "letter": "E",
+        "text": "II, pois o componente X, que é o mais utilizado, tem menor preço."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Cada enfeite leva duas unidades de X e uma de Y. Na loja I: 2 × 3,00 + 1,00 = R$ 7,00. Na loja II: 2 × 2,00 + 4,00 = R$ 8,00. O menor total é o da loja I, com R$ 7,00 — repare que o preço unitário mais baixo de X, na loja II, não compensa o preço muito maior de Y.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q167",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 167,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Estatística e Probabilidade"
+    ],
+    "statement": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito: • insatisfatório: se 0 ≤ P < 50; • regular: se 50 ≤ P < 60; • bom: se 60 ≤ P < 75; • muito bom: se 75 ≤ P < 90; • excelente: se 90 ≤ P ≤ 100. João acertou 75% das questões da maratona e Felipe acertou 30% a menos que a quantidade de questões que João acertou. Os conceitos de João e Felipe foram, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "muito bom e bom."
+      },
+      {
+        "letter": "B",
+        "text": "muito bom e regular."
+      },
+      {
+        "letter": "C",
+        "text": "muito bom e insatisfatório."
+      },
+      {
+        "letter": "D",
+        "text": "bom e regular."
+      },
+      {
+        "letter": "E",
+        "text": "bom e insatisfatório."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "João acertou 75% de 200, ou seja, 150 questões — e 75% cai na faixa de 75 ≤ P < 90, conceito “muito bom”. Felipe acertou 30% a menos que a quantidade de João: 150 × 0,7 = 105 questões, o que dá 105/200 = 52,5%, faixa de 50 ≤ P < 60, conceito “regular”. Note que o desconto de 30% incide sobre os acertos de João, e não sobre o percentual.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q169",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 169,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Análise Combinatória"
+    ],
+    "statement": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas: Etapas Visor de escrita 1ª etapa: inseriu três figuras do tipo no visor de escrita da mensagem; 2ª etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; 3ª etapa: copiou o que tinha no visor na 2ª etapa e colou ao lado. A criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3 × 2¹⁹"
+      },
+      {
+        "letter": "B",
+        "text": "3 × 2²⁰"
+      },
+      {
+        "letter": "C",
+        "text": "3 × 2²¹"
+      },
+      {
+        "letter": "D",
+        "text": "3 × 2²⁰ − 1"
+      },
+      {
+        "letter": "E",
+        "text": "3 × 2²⁰ − 3"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na 1ª etapa há 3 figuras. Cada etapa seguinte cola ao lado uma cópia de tudo o que havia, o que dobra a quantidade: 3, 6, 12, 24, … — uma progressão geométrica de razão 2. Na etapa n há 3 × 2^(n−1) figuras, de modo que, na 20ª etapa, o total é 3 × 2¹⁹.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q170",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 170,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e, normalmente, 60% das pessoas adquirem meia-entrada, pagando R$ 65,00 pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de shows vende, com 60% de lucro, bebidas e petiscos ao público no dia do evento. Após ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50% o que estava previsto, impactando o faturamento estimado com a venda de ingressos. No dia do evento, decidiu-se manter o percentual de 60% de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de R$ 17 000,00 nesse evento. Para que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "19,50."
+      },
+      {
+        "letter": "B",
+        "text": "28,80."
+      },
+      {
+        "letter": "C",
+        "text": "34,00."
+      },
+      {
+        "letter": "D",
+        "text": "52,00."
+      },
+      {
+        "letter": "E",
+        "text": "68,70."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O previsto eram 60% de 500 = 300 meias-entradas; a quantidade real superou isso em 50%, chegando a 450 meias e, portanto, 50 inteiras. O faturamento com ingressos foi 450 × 65 + 50 × 130 = 29 250 + 6 500 = R$ 35 750,00, que, descontado o custo de R$ 34 350,00, deixa apenas R$ 1 400,00 de lucro. Faltam 17 000 − 1 400 = R$ 15 600,00, que devem vir do lucro de 60% sobre bebidas e petiscos: o gasto total precisa ser 15 600/0,6 = R$ 26 000,00. Dividido pelas 500 pessoas presentes, dá R$ 52,00 por pessoa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q171",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 171,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Para obter um sólido de revolução (rotação de 360° em torno de um eixo fixo), uma professora realizou as seguintes etapas: • recortou o trapézio retângulo PQRS de um material rígido; • afixou o lado PS do trapézio em uma vareta fixa retilínea (eixo de rotação); • girou o trapézio 360° em torno da vareta e obteve um sólido de revolução. Observe a figura que apresenta o trapézio afixado na vareta e o sentido de giro. O sólido obtido foi um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cone."
+      },
+      {
+        "letter": "B",
+        "text": "cilindro."
+      },
+      {
+        "letter": "C",
+        "text": "pirâmide."
+      },
+      {
+        "letter": "D",
+        "text": "tronco de cone."
+      },
+      {
+        "letter": "E",
+        "text": "tronco de pirâmide."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O trapézio é retângulo e gira em torno do lado PS, que é perpendicular às duas bases. Cada base paralela, por ter comprimento diferente, descreve um círculo de raio diferente, e o lado oblíquo gera a superfície lateral inclinada que os une. O sólido resultante é, portanto, um tronco de cone — seria um cone completo apenas se uma das bases tivesse comprimento nulo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q172",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 172,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.\n\nDisponível em: http://virgula.uol.com.br. Acesso em: 14 ago. 2013 (adaptado).\n\nEm quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "24"
+      },
+      {
+        "letter": "B",
+        "text": "35"
+      },
+      {
+        "letter": "C",
+        "text": "555"
+      },
+      {
+        "letter": "D",
+        "text": "1 110"
+      },
+      {
+        "letter": "E",
+        "text": "1 145"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A área antiga era 110 × 75 = 8 250 m² e a nova é 105 × 68 = 7 140 m². A redução é 8 250 − 7 140 = 1 110 m².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q173",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 173,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma sala com piso no formato retangular, com lados de medidas 3 m e 6 m, será dividida em dois ambientes. Para isso, serão utilizadas colunas em formato cilíndrico, dispostas perpendicularmente ao piso. Os centros dessas colunas estarão sobre uma reta paralela aos lados de menor medida do piso da sala. Os vãos entre duas colunas e entre uma coluna e a parede não poderão ser superiores a 15 cm.\n\nPara efetuar a compra dessas colunas, foram feitos orçamentos com base em dados fornecidos por cinco lojas:\n\nLoja I — raio 5 cm — R$ 60,00 por unidade\nLoja II — raio 10 cm — R$ 70,00 por unidade\nLoja III — raio 12 cm — R$ 75,00 por unidade\nLoja IV — raio 15 cm — R$ 90,00 por unidade\nLoja V — raio 20 cm — R$ 120,00 por unidade\n\nA compra será realizada na loja cujo orçamento resulte no menor valor total possível. A compra será realizada na loja",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A divisória atravessa o lado de 3 m = 300 cm. Com n colunas de raio r há n diâmetros e n + 1 vãos de no máximo 15 cm, logo 2rn + 15(n + 1) ≥ 300. Loja I (r = 5): 25n ≥ 285, n = 12, custo 12 × 60 = R$ 720. Loja II (r = 10): 35n ≥ 285, n = 9, custo 9 × 70 = R$ 630. Loja III (r = 12): 39n ≥ 285, n = 8, custo 8 × 75 = R$ 600. Loja IV (r = 15): 45n ≥ 285, n = 7, custo 7 × 90 = R$ 630. Loja V (r = 20): 55n ≥ 285, n = 6, custo 6 × 120 = R$ 720. O menor total é o da loja III.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q174",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 174,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m2. Considere que a escala da maquete exibida é 1 : 200. Época, n. 682, jun. 2011 (adaptado).\n\nA medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4,18."
+      },
+      {
+        "letter": "B",
+        "text": "8,36."
+      },
+      {
+        "letter": "C",
+        "text": "41,80."
+      },
+      {
+        "letter": "D",
+        "text": "83,60."
+      },
+      {
+        "letter": "E",
+        "text": "418,00."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Numa escala 1 : 200 os comprimentos ficam divididos por 200 e as áreas, por 200² = 40 000. Assim a área na maquete é 1 672/40 000 = 0,0418 m². Convertendo para centímetros quadrados (1 m² = 10 000 cm²): 0,0418 × 10 000 = 418,00 cm².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q176",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 176,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25%. Qual é a representação decimal da taxa percentual desse crescimento populacional?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "13 525,0"
+      },
+      {
+        "letter": "B",
+        "text": "135,25"
+      },
+      {
+        "letter": "C",
+        "text": "13,525"
+      },
+      {
+        "letter": "D",
+        "text": "1,3525"
+      },
+      {
+        "letter": "E",
+        "text": "0,13525"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Uma taxa percentual passa à forma decimal dividindo-se por 100: 135,25% = 135,25/100 = 1,3525.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q177",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 177,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Funções"
+    ],
+    "statement": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.\n\nQual será a medida, em metro, do maior lado do galinheiro?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "85"
+      },
+      {
+        "letter": "B",
+        "text": "100"
+      },
+      {
+        "letter": "C",
+        "text": "175"
+      },
+      {
+        "letter": "D",
+        "text": "200"
+      },
+      {
+        "letter": "E",
+        "text": "350"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O custo da tela é 2 · 20L + 2 · 15C = 6 000, ou seja, 40L + 30C = 6 000, que simplifica para 4L + 3C = 600. A área é A = L·C, e o produto de duas parcelas de soma fixa é máximo quando elas se igualam: 4L = 3C = 300, o que dá L = 75 m e C = 100 m (área de 7 500 m²). O maior lado do galinheiro mede, portanto, 100 metros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2024-q180",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 180,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 cm, e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente. Use 3 como valor aproximado para π. A medida da aresta da nova embalagem, em centímetro, deve ser",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6"
+      },
+      {
+        "letter": "B",
+        "text": "18"
+      },
+      {
+        "letter": "C",
+        "text": "6∛6"
+      },
+      {
+        "letter": "D",
+        "text": "6/∛6"
+      },
+      {
+        "letter": "E",
+        "text": "3·∛12"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O volume do cilindro é πr²h ≈ 3 × 3² × 15 = 405 cm³, e a nova embalagem deve ter 80% disso: 0,8 × 405 = 324 cm³. Sendo a a aresta do cubo, a³ = 324. Como 324 = 4 × 81 = 2² × 3⁴, tem-se a = ∛324 = ∛(27 × 12) = 3·∛12 cm.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
   }
 ]
