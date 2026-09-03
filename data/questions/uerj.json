@@ -1549,6 +1549,114 @@
     }
   },
   {
+    "id": "uerj-2022-q06",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Mudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança;\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\n\nContinuamente vemos novidades,\nDiferentes em tudo da esperança;\nDo mal ficam as mágoas na lembrança,\nE do bem, se algum houve, as saudades.\n\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE em mim converte em choro o doce canto.\n\nE, afora este mudar-se cada dia,\nOutra mudança faz de mor espanto:\nQue não se muda já como soía.\n\nCAMÕES, L. V. Soneto I.\n\nUm grafite visto em um muro em Portugal estabelece intertextualidade com o soneto acima, que trata da mudança como fonte de desassossego para o poeta quinhentista. Reelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imprecisão do conhecimento"
+      },
+      {
+        "letter": "B",
+        "text": "necessidade da experiência"
+      },
+      {
+        "letter": "C",
+        "text": "ambiguidade do amor"
+      },
+      {
+        "letter": "D",
+        "text": "desconcerto do mundo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "\"Desconcerto do mundo\" é expressão consagrada na poesia de Camões (título de um de seus sonetos mais célebres) para designar a instabilidade e o caos que regem as coisas do mundo — tema que a mudança retratada no grafite contemporâneo reelabora, associando-se a essa tradição camoniana — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q07",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "O tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nCAMÕES, L. V. Soneto II.\n\nNo soneto, marcas enunciativas que representam os interlocutores do poema estão presentes nos seguintes versos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O tempo acaba a fama e a riqueza, / O tempo o mesmo tempo de si chora."
+      },
+      {
+        "letter": "B",
+        "text": "Mas não pode acabar minha tristeza, / Enquanto não quiserdes vós, Senhora."
+      },
+      {
+        "letter": "C",
+        "text": "O tempo o claro dia torna escuro, / E o mais ledo prazer em choro triste;"
+      },
+      {
+        "letter": "D",
+        "text": "O peito de diamante, onde consiste / A pena e o prazer desta esperança."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O possessivo \"minha\" e o pronome de tratamento \"vós\", dirigido à \"Senhora\", marcam explicitamente os dois interlocutores do poema — o eu lírico e a dama a quem ele se dirige — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q08",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "O tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nCAMÕES, L. V. Soneto II.\n\nNo soneto, o poeta descreve o impacto da ação do tempo, destacando sua capacidade de transformar algo em seu oposto. Essa capacidade está exemplificada no seguinte verso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O tempo acaba o ano, o mês e a hora,"
+      },
+      {
+        "letter": "B",
+        "text": "O tempo o mesmo tempo de si chora."
+      },
+      {
+        "letter": "C",
+        "text": "O tempo a tempestade em grã bonança."
+      },
+      {
+        "letter": "D",
+        "text": "Mas de abrandar o tempo estou seguro"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O verso transforma a tempestade (agitação) em bonança (calmaria), seu oposto direto — uma antítese que exemplifica a capacidade do tempo de inverter as coisas — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
     "id": "uerj-2022-q09",
     "exam": "uerj",
     "year": 2022,
@@ -1615,6 +1723,42 @@
     "correct": "A",
     "annulled": false,
     "explanation": "A locução conjuntiva 'como se' introduz uma oração que expressa comparação hipotética sobre o modo como o pastor percebeu a situação (como se não a tivesse merecido) — relação semântica de modo — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q11",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Mudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança;\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\n\nContinuamente vemos novidades,\nDiferentes em tudo da esperança;\nDo mal ficam as mágoas na lembrança,\nE do bem, se algum houve, as saudades.\n\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE em mim converte em choro o doce canto.\n\nE, afora este mudar-se cada dia,\nOutra mudança faz de mor espanto:\nQue não se muda já como soía.\n\nCAMÕES, L. V. Soneto I.\n\nO tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nCAMÕES, L. V. Soneto II.\n\nSete anos de pastor Jacob servia\nLabão, pai de Raquel, serrana bela;\nMas não servia ao pai, servia a ela,\nE a ela só por prêmio pretendia.\n\nOs dias, na esperança de um só dia,\nPassava, contentando-se com vê-la;\nPorém o pai, usando de cautela,\nEm lugar de Raquel lhe dava Lia.\n\nVendo o triste pastor que com enganos\nLhe fora assim negada a sua Pastora,\nComo se a não tivera merecida,\n\nComeça de servir outros sete anos,\nDizendo: — Mais servira, se não fora\nPara tão longo amor tão curta a vida!\n\nCAMÕES, L. V. Soneto III.\n\nOs sonetos acima destacam um sentimento de impotência diante da passagem do tempo. Na última estrofe de cada poema, porém, o poeta revela sentimentos que se confrontam com essa impotência. Esses sentimentos podem ser definidos, respectivamente, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "surpresa – perseverança – lealdade"
+      },
+      {
+        "letter": "B",
+        "text": "lealdade – cooperação – prudência"
+      },
+      {
+        "letter": "C",
+        "text": "prudência – liberdade – satisfação"
+      },
+      {
+        "letter": "D",
+        "text": "satisfação – alegria – surpresa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No soneto I, o eu lírico se espanta (surpresa) por algo não mudar como de costume; no soneto II, ele declara certeza de que seu amor não abrandará com o tempo (perseverança); no soneto III, Jacó se dispõe a servir outros sete anos por amor a Raquel (lealdade) — alternativa A.",
     "source": {
       "institution": "UERJ",
       "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
@@ -2983,6 +3127,42 @@
     "correct": "C",
     "annulled": false,
     "explanation": "O apagamento e o embranquecimento sistemático da imagem de Dumas ao longo de mais de um século, mesmo sendo ele um dos maiores escritores franceses, revela a persistência do preconceito racial mesmo diante do reconhecimento de seu mérito — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q57",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 57,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Em outubro de 2020, o Chile realizou um plebiscito no qual a população decidiu, por ampla maioria, elaborar uma nova Constituição em substituição à Carta promulgada em 1980, ainda sob a ditadura de Augusto Pinochet. Uma charge do cartunista Laerte relaciona o resultado desse plebiscito a ideias que seriam aproveitadas pelo governo federal brasileiro.\n\nUma ideia rejeitada pelos chilenos que inspira medidas no Brasil é a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proteção de leis trabalhistas"
+      },
+      {
+        "letter": "B",
+        "text": "exaltação de heranças autoritárias"
+      },
+      {
+        "letter": "C",
+        "text": "ampliação de investimentos educacionais"
+      },
+      {
+        "letter": "D",
+        "text": "intensificação de despesas previdenciárias"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao decidir substituir a Constituição de 1980, herdada da ditadura de Pinochet, os chilenos rejeitaram no plebiscito a manutenção de símbolos e heranças do regime autoritário — postura oposta a medidas do governo federal brasileiro da época, associadas à valorização da memória da ditadura militar — alternativa B.",
     "source": {
       "institution": "UERJ",
       "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
