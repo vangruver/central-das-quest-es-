@@ -7358,6 +7358,42 @@
     }
   },
   {
+    "id": "uerj-2018-q01",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Uma árvore genealógica da linhagem dos homens modernos, cobrindo os últimos 7 milhões de anos, mostra a coexistência de numerosas espécies — entre elas Sahelanthropus tchadensis, Orrorin tugenensis, Ardipithecus kadabba, Ardipithecus ramidus, Australopithecus anamensis, A. afarensis (Lucy), A. africanus, A. garhi, A. sediba, Paranthropus aethiopicus, P. boisei, P. robustus, Homo habilis, H. rudolfensis, H. erectus, H. naledi, H. heidelbergensis, H. neanderthalensis, H. floresiensis e H. sapiens. A altura das barras mostra o período de tempo em que cada espécie existiu, e várias delas se sobrepõem no tempo.\n\nQuando os primeiros humanos modernos (Homo sapiens) surgiram na África, há cerca de 200 mil anos, é provável que outras espécies de humanos ainda habitassem o continente. Até agora, porém, os registros fósseis não traziam evidências da convivência da nossa espécie com outras mais arcaicas na região. Mas análises dos restos de uma destas espécies humanas antigas, encontrados na África do Sul, indicam pela primeira vez que isso teria acontecido de fato. Conhecidos como Homo naledi, eles teriam vivido entre 236 mil e 335 mil anos atrás, mesma época em que se acredita que o Homo sapiens evoluiu na África subsaariana. Segundo o pesquisador Lee Berger, “não podemos mais presumir que sabemos que espécie fez quais ferramentas, ou se foram os humanos modernos os inovadores responsáveis por avanços na tecnologia”.\n\nAdaptado de O Globo, 10/05/2017.\n\nCom base nos conhecimentos científicos atuais sobre a evolução da espécie humana, referidos na reportagem e ilustrados na árvore genealógica, identifica-se o princípio de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diversidade biológica"
+      },
+      {
+        "letter": "B",
+        "text": "semelhança fisiológica"
+      },
+      {
+        "letter": "C",
+        "text": "paralelismo etnográfico"
+      },
+      {
+        "letter": "D",
+        "text": "condicionamento geográfico"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tanto a árvore quanto a reportagem desfazem a ideia de uma linha única e progressiva: em vários momentos coexistiram diferentes espécies de hominíneos, e o Homo naledi teria vivido na mesma época em que o Homo sapiens surgia na África. A evolução humana aparece, assim, como um arbusto ramificado, expressão do princípio de diversidade biológica — várias espécies aparentadas ocupando o planeta ao mesmo tempo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q02",
     "exam": "uerj",
     "year": 2018,
@@ -7391,6 +7427,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q02",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução",
+      "Genética"
+    ],
+    "statement": "Uma árvore genealógica da linhagem dos homens modernos, cobrindo os últimos 7 milhões de anos, mostra a coexistência de numerosas espécies — entre elas Sahelanthropus tchadensis, Orrorin tugenensis, Ardipithecus kadabba, Ardipithecus ramidus, Australopithecus anamensis, A. afarensis (Lucy), A. africanus, A. garhi, A. sediba, Paranthropus aethiopicus, P. boisei, P. robustus, Homo habilis, H. rudolfensis, H. erectus, H. naledi, H. heidelbergensis, H. neanderthalensis, H. floresiensis e H. sapiens. A altura das barras mostra o período de tempo em que cada espécie existiu, e várias delas se sobrepõem no tempo.\n\nQuando os primeiros humanos modernos (Homo sapiens) surgiram na África, há cerca de 200 mil anos, é provável que outras espécies de humanos ainda habitassem o continente. Até agora, porém, os registros fósseis não traziam evidências da convivência da nossa espécie com outras mais arcaicas na região. Mas análises dos restos de uma destas espécies humanas antigas, encontrados na África do Sul, indicam pela primeira vez que isso teria acontecido de fato. Conhecidos como Homo naledi, eles teriam vivido entre 236 mil e 335 mil anos atrás, mesma época em que se acredita que o Homo sapiens evoluiu na África subsaariana. Segundo o pesquisador Lee Berger, “não podemos mais presumir que sabemos que espécie fez quais ferramentas, ou se foram os humanos modernos os inovadores responsáveis por avanços na tecnologia”.\n\nAdaptado de O Globo, 10/05/2017.\n\nNa árvore genealógica, observam-se mudanças evolutivas na linhagem que deu origem ao homem moderno. Todos os eventos evolutivos são caracterizados pelo seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alterações populacionais ao longo do tempo"
+      },
+      {
+        "letter": "B",
+        "text": "aumento da eficácia dos processos metabólicos"
+      },
+      {
+        "letter": "C",
+        "text": "manutenção da variabilidade do material genético"
+      },
+      {
+        "letter": "D",
+        "text": "transformações estruturais durante a vida do indivíduo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Evolução é mudança na composição genética das populações ao longo das gerações, e não aperfeiçoamento de indivíduos. O indivíduo não evolui: ele nasce, vive e morre com o genoma que recebeu, o que elimina a alternativa D. A evolução também não exige ganho de eficiência metabólica nem preserva a variabilidade — ao contrário, a seleção natural em geral a reduz, ao favorecer certas variantes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7430,6 +7503,42 @@
     }
   },
   {
+    "id": "uerj-2018-q03",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 3,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "O livro A origem das espécies foi publicado na Inglaterra em 1859. Seu autor, Charles Darwin, defendia que organismos vivos evoluem através de um processo que chamou de “seleção natural”. A primeira edição do livro se esgotou rapidamente. Muitos abraçaram de imediato sua teoria, visto que resolvia inúmeros quebra-cabeças da biologia. Contudo, os cristãos ortodoxos condenaram o trabalho como uma heresia.\n\nAdaptado de revistahcsm.coc.fiocruz.br. A questão apresenta ainda uma caricatura de Charles Darwin publicada na revista The Hornet, em 1871, em que o rosto do naturalista aparece sobre o corpo de um macaco.\n\nA teoria de Darwin, na qual as pesquisas sobre Lucy se baseiam, é amplamente aceita e aplicada na atualidade. Porém, no momento de sua elaboração, em meados do século XIX, causou polêmicas. A partir da imagem e do texto, uma contestação à teoria de Darwin fundamentava-se na formulação conhecida hoje como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "determinismo"
+      },
+      {
+        "letter": "B",
+        "text": "cientificismo"
+      },
+      {
+        "letter": "C",
+        "text": "naturalismo"
+      },
+      {
+        "letter": "D",
+        "text": "criacionismo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A reação hostil descrita no texto vem dos cristãos ortodoxos, que acusaram a obra de heresia, e a caricatura ridiculariza a ideia de parentesco entre o homem e os demais primatas. A oposição partia da leitura literal do relato bíblico da criação, segundo a qual as espécies foram criadas já em sua forma definitiva — posição que hoje se designa criacionismo. Determinismo, cientificismo e naturalismo são correntes que, ao contrário, se apoiavam na ciência do período.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q04",
     "exam": "uerj",
     "year": 2018,
@@ -7463,6 +7572,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q04",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 4,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - LUCY CAIU DA ÁRVORE\n\nConta a lenda que, na noite de 24 de novembro de 1974, as estrelas brilhavam na beira do rio Awash, no interior da Etiópia. Um gravador K7 repetia a música dos Beatles “Lucy in the Sky with Diamonds”. Inspirados, os paleontólogos decidiram que a fêmea AL 288-1, cujo esqueleto havia sido escavado naquela tarde, seria apelidada carinhosamente de Lucy. (l. 1-4)\n\nLucy tinha 1,10 m e pesava 30 kg. Altura e peso de um chimpanzé. Mas não se iluda, Lucy não pertence à linhagem que deu origem aos macacos modernos. Ela já andava ereta sobre os membros inferiores. Lucy pertence à linhagem que deu origem ao animal que escreve esta crônica e ao animal que a está lendo, eu e você. (l. 5-8)\n\nOs ossos foram datados. Lucy morreu 3,2 milhões de anos atrás. Ela viveu 2 milhões de anos antes do aparecimento dos primeiros animais do nosso gênero, o Homo habilis. A enormidade de 3 milhões de anos separa Lucy dos mais antigos esqueletos de nossa espécie, o Homo sapiens, que surgiu no planeta faz meros 200 mil anos. Lucy, da espécie Australopithecus afarensis, é uma representante das muitas espécies que existiram na época em que a linhagem que deu origem aos homens modernos se separou da que deu origem aos macacos modernos. Lucy já foi chamada de elo perdido, o ponto de bifurcação que nos separou dos nossos parentes mais próximos. (l. 9-15)\n\nUma das principais dúvidas sobre a vida de Lucy é a seguinte: ela já era um animal terrestre, como nós, ou ainda subia em árvores? (l. 16-17)\n\nMuitos ossos de Lucy foram encontrados quebrados, seus fragmentos espalhados pelo chão. Até agora, se acreditava que isso se devia ao processo de fossilização e às diversas forças às quais esses ossos haviam sido submetidos. Mas os cientistas resolveram estudar em detalhes as fraturas. (l. 18-20)\n\nAs fraturas, principalmente no braço, são de compressão, aquela que ocorre quando caímos de um local alto e apoiamos os membros para amortecer a queda. Nesse caso, a força é exercida ao longo do eixo maior do osso, causando um tipo de fratura que é exatamente o encontrado em Lucy. Usando raciocínios como esse, os cientistas foram capazes de explicar todas as fraturas a partir da hipótese de que Lucy caiu do alto de uma árvore de pé, se inclinou para frente e amortizou a queda com o braço. (l. 21-26)\n\nUma queda de 20 a 30 metros e Lucy atingiria o solo a 60 km/h, o suficiente para matar uma pessoa e causar esse tipo de fratura. Como existiam árvores dessa altura onde Lucy vivia e muitos chimpanzés sobem até 150 metros para comer, uma queda como essa é fácil de imaginar. (l. 27-29)\n\nA conclusão é que Lucy morreu ao cair da árvore. E se caiu era porque estava lá em cima. E se estava lá em cima era porque sabia subir. Enfim, sugere que Lucy habitava árvores. (l. 30-31)\n\nMas na minha mente ficou uma dúvida. Quando criança, eu subia em árvores. E era por não sermos grandes escaladores de árvores que eu e meus amigos vivíamos caindo, alguns quebrando braços e pernas. Será que Lucy morreu exatamente por tentar fazer algo que já não era natural para sua espécie? (l. 32-35)\n\nFERNANDO REINACH. Adaptado de O Estado de S. Paulo, 24/09/2016.\n\nNo segundo parágrafo do texto de Fernando Reinach, a repetição da palavra “animal” aponta para uma crítica a uma ideia do senso comum. Essa ideia pode ser enunciada da seguinte forma:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os seres humanos pertencem ao conjunto dos primatas"
+      },
+      {
+        "letter": "B",
+        "text": "os primatas pertencem ao conjunto dos seres humanos"
+      },
+      {
+        "letter": "C",
+        "text": "os seres humanos não pertencem ao conjunto dos animais"
+      },
+      {
+        "letter": "D",
+        "text": "os animais não pertencem ao conjunto dos seres humanos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao escrever que Lucy pertence à linhagem “que deu origem ao animal que escreve esta crônica e ao animal que a está lendo, eu e você”, o autor chama de animais tanto a si quanto o leitor. A repetição é deliberada e serve para desfazer a crença corrente de que o ser humano estaria fora do reino animal, numa categoria à parte — exatamente a ideia enunciada em C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7502,6 +7647,78 @@
     }
   },
   {
+    "id": "uerj-2018-q05",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 5,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Segundo os paleontólogos, Lucy tinha 1,10 m de altura e 30 kg de massa corporal, sendo possível calcular seu Índice de Massa Corporal (IMC). Considere a classificação a seguir:\n\nIMC < 16 — magreza grave\nIMC de 16 a 16,9 — magreza moderada\nIMC de 17 a 18,4 — magreza leve\nIMC de 18,5 a 24,9 — peso adequado\nIMC de 25 a 29,9 — pré-obesidade\nIMC de 30 a 34,9 — obesidade leve\nIMC de 35 a 39,9 — obesidade severa\nIMC ≥ 40 — obesidade mórbida\n\nAdaptado de apps.who.int.\n\nSabendo que IMC = massa (kg) ÷ (altura)² (m²) e com base na tabela, a classificação de Lucy é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pré-obesidade"
+      },
+      {
+        "letter": "B",
+        "text": "magreza grave"
+      },
+      {
+        "letter": "C",
+        "text": "peso adequado"
+      },
+      {
+        "letter": "D",
+        "text": "obesidade mórbida"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Aplicando a fórmula, IMC = 30 ÷ (1,10)² = 30 ÷ 1,21 ≈ 24,8. Esse valor cai na faixa de 18,5 a 24,9, correspondente a peso adequado — bem próximo, aliás, do limite superior da faixa. A baixa estatura de Lucy é o que impede que 30 kg configurem magreza.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q06",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 6,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A técnica de datação radiológica por carbono-14 permite estimar a idade de um corpo, como o de Lucy, que apresentava 1,2 × 10¹² átomos de carbono-14 quando viva.\n\nEssa quantidade, em mols, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,0 × 10⁻¹²"
+      },
+      {
+        "letter": "B",
+        "text": "2,0 × 10⁻¹¹"
+      },
+      {
+        "letter": "C",
+        "text": "5,0 × 10⁻¹¹"
+      },
+      {
+        "letter": "D",
+        "text": "5,0 × 10⁻¹²"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Um mol contém 6,0 × 10²³ entidades (constante de Avogadro). Dividindo o número de átomos por essa constante: 1,2 × 10¹² ÷ 6,0 × 10²³ = 0,2 × 10⁻¹¹ = 2,0 × 10⁻¹² mol.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q07",
     "exam": "uerj",
     "year": 2018,
@@ -7535,6 +7752,115 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q07",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 7,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Lucy morreu há 3,2 milhões de anos e o tempo de existência da espécie humana é de 200 mil anos. Para comparar esses intervalos de tempo, admita uma escala linear na qual 3,2 milhões de anos correspondem a 4 metros.\n\nNessa escala, o tempo de existência da espécie humana, em centímetros, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5"
+      },
+      {
+        "letter": "B",
+        "text": "10"
+      },
+      {
+        "letter": "C",
+        "text": "20"
+      },
+      {
+        "letter": "D",
+        "text": "25"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A razão entre os dois intervalos é 200 000 ÷ 3 200 000 = 1/16. Como 3,2 milhões de anos equivalem a 4 m, ou 400 cm, os 200 mil anos de existência da espécie humana correspondem a 400 ÷ 16 = 25 cm.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q08",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 8,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica",
+      "Geografia da População"
+    ],
+    "statement": "Um mapa da situação alimentar no Chifre da África, em maio de 2017, classifica o nível estimado de fome da população em faixas que vão de “nenhum ou mínimo” a “estresse alimentar”, “crise alimentar” e “emergência alimentar”, abrangendo Eritreia, Djibuti, Etiópia, Somália, Quênia e o sul do Sudão. As situações mais graves concentram-se na Somália e nas áreas de fronteira em conflito.\n\nAdaptado de usaid.gov, maio/2017.\n\nO fóssil de Lucy foi encontrado em uma das margens do rio Awash, no interior da Etiópia, porção continental conhecida como “Chifre da África”, marcada por problemas sociais graves. O problema social representado no mapa tem como explicação:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desavenças políticas entre potências globais que restringem as ações de ajuda e apoio"
+      },
+      {
+        "letter": "B",
+        "text": "conflitos bélicos entre grupos locais que desestruturam as redes de produção e circulação"
+      },
+      {
+        "letter": "C",
+        "text": "intervenção militar das alianças regionais que limitam as iniciativas de empresas e governos"
+      },
+      {
+        "letter": "D",
+        "text": "tamanho reduzido dos imóveis rurais que inviabilizam as atividades de agricultura e pecuária"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A fome no Chifre da África resulta da combinação entre secas prolongadas e, sobretudo, guerras civis e disputas entre grupos armados — na Somália, no Sudão do Sul e na fronteira Etiópia-Eritreia. Os conflitos destroem lavouras e rebanhos, deslocam populações e impedem a circulação de alimentos e da ajuda humanitária, transformando a escassez em emergência alimentar. As demais alternativas atribuem o problema a fatores externos ou fundiários que não explicam o quadro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q09",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 9,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Considere que Lucy tenha caído de uma altura igual a 20 m, com aceleração constante, atingindo o solo com a velocidade de 60 km/h.\n\nNessas condições, o valor da aceleração, em m/s², corresponde aproximadamente a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "7"
+      },
+      {
+        "letter": "C",
+        "text": "11"
+      },
+      {
+        "letter": "D",
+        "text": "15"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A velocidade final é 60 km/h ÷ 3,6 ≈ 16,7 m/s. Como o movimento é uniformemente acelerado e parte do repouso, vale a equação de Torricelli: v² = 2·a·h. Assim, a = v² ÷ (2h) = (16,7)² ÷ 40 ≈ 278 ÷ 40 ≈ 6,9 m/s², valor aproximadamente igual a 7 m/s².",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7574,6 +7900,42 @@
     }
   },
   {
+    "id": "uerj-2018-q10",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 10,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - LUCY CAIU DA ÁRVORE\n\nConta a lenda que, na noite de 24 de novembro de 1974, as estrelas brilhavam na beira do rio Awash, no interior da Etiópia. Um gravador K7 repetia a música dos Beatles “Lucy in the Sky with Diamonds”. Inspirados, os paleontólogos decidiram que a fêmea AL 288-1, cujo esqueleto havia sido escavado naquela tarde, seria apelidada carinhosamente de Lucy. (l. 1-4)\n\nLucy tinha 1,10 m e pesava 30 kg. Altura e peso de um chimpanzé. Mas não se iluda, Lucy não pertence à linhagem que deu origem aos macacos modernos. Ela já andava ereta sobre os membros inferiores. Lucy pertence à linhagem que deu origem ao animal que escreve esta crônica e ao animal que a está lendo, eu e você. (l. 5-8)\n\nOs ossos foram datados. Lucy morreu 3,2 milhões de anos atrás. Ela viveu 2 milhões de anos antes do aparecimento dos primeiros animais do nosso gênero, o Homo habilis. A enormidade de 3 milhões de anos separa Lucy dos mais antigos esqueletos de nossa espécie, o Homo sapiens, que surgiu no planeta faz meros 200 mil anos. Lucy, da espécie Australopithecus afarensis, é uma representante das muitas espécies que existiram na época em que a linhagem que deu origem aos homens modernos se separou da que deu origem aos macacos modernos. Lucy já foi chamada de elo perdido, o ponto de bifurcação que nos separou dos nossos parentes mais próximos. (l. 9-15)\n\nUma das principais dúvidas sobre a vida de Lucy é a seguinte: ela já era um animal terrestre, como nós, ou ainda subia em árvores? (l. 16-17)\n\nMuitos ossos de Lucy foram encontrados quebrados, seus fragmentos espalhados pelo chão. Até agora, se acreditava que isso se devia ao processo de fossilização e às diversas forças às quais esses ossos haviam sido submetidos. Mas os cientistas resolveram estudar em detalhes as fraturas. (l. 18-20)\n\nAs fraturas, principalmente no braço, são de compressão, aquela que ocorre quando caímos de um local alto e apoiamos os membros para amortecer a queda. Nesse caso, a força é exercida ao longo do eixo maior do osso, causando um tipo de fratura que é exatamente o encontrado em Lucy. Usando raciocínios como esse, os cientistas foram capazes de explicar todas as fraturas a partir da hipótese de que Lucy caiu do alto de uma árvore de pé, se inclinou para frente e amortizou a queda com o braço. (l. 21-26)\n\nUma queda de 20 a 30 metros e Lucy atingiria o solo a 60 km/h, o suficiente para matar uma pessoa e causar esse tipo de fratura. Como existiam árvores dessa altura onde Lucy vivia e muitos chimpanzés sobem até 150 metros para comer, uma queda como essa é fácil de imaginar. (l. 27-29)\n\nA conclusão é que Lucy morreu ao cair da árvore. E se caiu era porque estava lá em cima. E se estava lá em cima era porque sabia subir. Enfim, sugere que Lucy habitava árvores. (l. 30-31)\n\nMas na minha mente ficou uma dúvida. Quando criança, eu subia em árvores. E era por não sermos grandes escaladores de árvores que eu e meus amigos vivíamos caindo, alguns quebrando braços e pernas. Será que Lucy morreu exatamente por tentar fazer algo que já não era natural para sua espécie? (l. 32-35)\n\nFERNANDO REINACH. Adaptado de O Estado de S. Paulo, 24/09/2016.\n\nNo último parágrafo, Fernando Reinach assume um posicionamento em relação à conclusão dos estudiosos, apresentada no parágrafo anterior. Sua pergunta final sintetiza esse posicionamento por conter a seguinte formulação:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "paráfrase irônica"
+      },
+      {
+        "letter": "B",
+        "text": "contestação frontal"
+      },
+      {
+        "letter": "C",
+        "text": "hipótese alternativa"
+      },
+      {
+        "letter": "D",
+        "text": "exemplificação parcial"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os cientistas concluem que Lucy caía de árvores porque as habitava. O cronista lembra que ele e os amigos caíam justamente por não serem bons escaladores e pergunta se Lucy não teria morrido “por tentar fazer algo que já não era natural para sua espécie”. Ele não nega os dados nem ridiculariza a conclusão: propõe outra leitura possível dos mesmos indícios — uma hipótese alternativa, apresentada como dúvida.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q11",
     "exam": "uerj",
     "year": 2018,
@@ -7607,6 +7969,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q11",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - LUCY CAIU DA ÁRVORE\n\nConta a lenda que, na noite de 24 de novembro de 1974, as estrelas brilhavam na beira do rio Awash, no interior da Etiópia. Um gravador K7 repetia a música dos Beatles “Lucy in the Sky with Diamonds”. Inspirados, os paleontólogos decidiram que a fêmea AL 288-1, cujo esqueleto havia sido escavado naquela tarde, seria apelidada carinhosamente de Lucy. (l. 1-4)\n\nLucy tinha 1,10 m e pesava 30 kg. Altura e peso de um chimpanzé. Mas não se iluda, Lucy não pertence à linhagem que deu origem aos macacos modernos. Ela já andava ereta sobre os membros inferiores. Lucy pertence à linhagem que deu origem ao animal que escreve esta crônica e ao animal que a está lendo, eu e você. (l. 5-8)\n\nOs ossos foram datados. Lucy morreu 3,2 milhões de anos atrás. Ela viveu 2 milhões de anos antes do aparecimento dos primeiros animais do nosso gênero, o Homo habilis. A enormidade de 3 milhões de anos separa Lucy dos mais antigos esqueletos de nossa espécie, o Homo sapiens, que surgiu no planeta faz meros 200 mil anos. Lucy, da espécie Australopithecus afarensis, é uma representante das muitas espécies que existiram na época em que a linhagem que deu origem aos homens modernos se separou da que deu origem aos macacos modernos. Lucy já foi chamada de elo perdido, o ponto de bifurcação que nos separou dos nossos parentes mais próximos. (l. 9-15)\n\nUma das principais dúvidas sobre a vida de Lucy é a seguinte: ela já era um animal terrestre, como nós, ou ainda subia em árvores? (l. 16-17)\n\nMuitos ossos de Lucy foram encontrados quebrados, seus fragmentos espalhados pelo chão. Até agora, se acreditava que isso se devia ao processo de fossilização e às diversas forças às quais esses ossos haviam sido submetidos. Mas os cientistas resolveram estudar em detalhes as fraturas. (l. 18-20)\n\nAs fraturas, principalmente no braço, são de compressão, aquela que ocorre quando caímos de um local alto e apoiamos os membros para amortecer a queda. Nesse caso, a força é exercida ao longo do eixo maior do osso, causando um tipo de fratura que é exatamente o encontrado em Lucy. Usando raciocínios como esse, os cientistas foram capazes de explicar todas as fraturas a partir da hipótese de que Lucy caiu do alto de uma árvore de pé, se inclinou para frente e amortizou a queda com o braço. (l. 21-26)\n\nUma queda de 20 a 30 metros e Lucy atingiria o solo a 60 km/h, o suficiente para matar uma pessoa e causar esse tipo de fratura. Como existiam árvores dessa altura onde Lucy vivia e muitos chimpanzés sobem até 150 metros para comer, uma queda como essa é fácil de imaginar. (l. 27-29)\n\nA conclusão é que Lucy morreu ao cair da árvore. E se caiu era porque estava lá em cima. E se estava lá em cima era porque sabia subir. Enfim, sugere que Lucy habitava árvores. (l. 30-31)\n\nMas na minha mente ficou uma dúvida. Quando criança, eu subia em árvores. E era por não sermos grandes escaladores de árvores que eu e meus amigos vivíamos caindo, alguns quebrando braços e pernas. Será que Lucy morreu exatamente por tentar fazer algo que já não era natural para sua espécie? (l. 32-35)\n\nFERNANDO REINACH. Adaptado de O Estado de S. Paulo, 24/09/2016.\n\nUm exemplo de metalinguagem, que é o uso de uma linguagem para descrever a si mesma, encontra-se em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mas não se iluda, Lucy não pertence à linhagem que deu origem aos macacos modernos. (l. 5-6)"
+      },
+      {
+        "letter": "B",
+        "text": "Lucy já foi chamada de elo perdido, o ponto de bifurcação que nos separou dos nossos parentes mais próximos. (l. 14-15)"
+      },
+      {
+        "letter": "C",
+        "text": "Muitos ossos de Lucy foram encontrados quebrados, seus fragmentos espalhados pelo chão. (l. 18)"
+      },
+      {
+        "letter": "D",
+        "text": "Uma queda de 20 a 30 metros e Lucy atingiria o solo a 60 km/h, o suficiente para matar uma pessoa e causar esse tipo de fratura. (l. 27-28)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em B, o texto cita a expressão “elo perdido” e, em seguida, explica o que ela significa — “o ponto de bifurcação que nos separou dos nossos parentes mais próximos”. A linguagem volta-se sobre si mesma para definir um termo que acabou de empregar, e é nisso que consiste a metalinguagem. As demais alternativas apenas relatam fatos ou fazem cálculos, sem comentar a própria expressão usada.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7646,6 +8044,42 @@
     }
   },
   {
+    "id": "uerj-2018-q13",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - QUEM TEM O DIREITO DE FALAR?\n\nA política não é uma questão apenas de circulação de bens e riquezas. Na verdade, a política é também uma questão de circulação de afetos, da maneira como eles irão criar vínculos sociais, afetando os que fazem parte desses vínculos. (l. 1-3)\n\nA maneira como somos afetados define o que somos e o que não somos capazes de ver, sentir e perceber. Definido o que vejo, sinto e percebo, definem-se o campo das minhas ações, a maneira como julgarei, o que faz parte e o que está excluído do meu mundo. (l. 4-6)\n\nPercebam, por exemplo, como um dos maiores feitos políticos de 2015 foi a circulação de uma mera foto, a foto do menino sírio morto em um naufrágio no Mar Mediterrâneo. Nesse sentido, foi muito interessante pesquisar as reações de certos europeus que invadiram sites de notícias de seu continente com posts e comentários. Uma quantidade impressionante deles reclamava daqueles jornais que decidiram publicar a foto. Eles diziam basicamente a mesma coisa: “parem de nos mostrar o que não queremos ver”. (l. 7-12)\n\nToda verdadeira luta política é baseada em uma mudança nos circuitos dominantes de afetos. Prova disso foi o fato de tal foto produzir o que vários discursos até então não haviam conseguido: a suspensão temporária da política criminosa de indiferença em relação à sorte dos refugiados. (l. 13-15)\n\nDe fato, sabemos que faz parte das dinâmicas do poder decidir qual sofrimento é visível e qual é invisível. Mas, para tanto, devemos antes decidir sobre quem fala e quem não fala. (l. 16-17)\n\nHá várias maneiras de silêncio. A mais comum é simplesmente calar quem não tem direito à voz. Isso é o que nos lembram todos aqueles que se engajaram na luta por grupos sociais vulneráveis e objetos de violência contínua (negros, homossexuais, mulheres, travestis, palestinos, entre tantos outros). (l. 18-21)\n\nMas há ainda outra forma de silêncio. Ela consiste em limitar a fala. A princípio, isso pode parecer um ato de dar voz aos excluídos e subalternos, fazendo com que negros falem sobre os problemas dos negros, mulheres falem sobre os problemas das mulheres, e por aí vai. No entanto, essa é apenas uma forma astuta de silêncio, e deveríamos estar mais atentos a tal estratégia de silenciamento identitário. Ao final, ela quer nos levar a acreditar que negros devem apenas falar dos problemas dos negros, que mulheres devem apenas falar dos problemas das mulheres. (l. 22-27)\n\nPosso dar visibilidade a sofrimentos que antes não circulavam, mas, quando aceito limitar minha fala pela identidade que supostamente represento, não mudarei a forma de circulação de afetos, pois não conseguirei implicar quem não partilha minha identidade na narrativa do meu sofrimento. (l. 28-30)\n\nSer um sujeito político é conseguir enunciar proposições que podem implicar qualquer um, ou seja, que se dirigem a essa dimensão do “qualquer um” que faz parte de cada um de nós. É quando nos colocamos na posição de qualquer um que temos mais força de desestabilização. O verdadeiro medo do poder é que você se coloque na posição de qualquer um. (l. 31-34)\n\nVLADIMIR SAFATLE. Adaptado de Folha de S. Paulo, 25/09/2015.\n\nA tragédia com o menino sírio no Mar Mediterrâneo foi divulgada pela imprensa, assim como as reações de leitores sobre a notícia. De acordo com o texto, as reações contrárias à divulgação da foto do menino sírio representam uma postura de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retaliação"
+      },
+      {
+        "letter": "B",
+        "text": "desrespeito"
+      },
+      {
+        "letter": "C",
+        "text": "insensibilidade"
+      },
+      {
+        "letter": "D",
+        "text": "sentimentalismo"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os leitores citados não questionam a veracidade da foto nem se solidarizam com a vítima: pedem apenas que parem de lhes mostrar “o que não queremos ver”. Recusam-se, portanto, a ser afetados pelo sofrimento alheio, preferindo mantê-lo invisível — o que o texto associa à “política criminosa de indiferença” em relação aos refugiados. Essa recusa em se comover é o que caracteriza a insensibilidade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q14",
     "exam": "uerj",
     "year": 2018,
@@ -7679,6 +8113,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q14",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - QUEM TEM O DIREITO DE FALAR?\n\nA política não é uma questão apenas de circulação de bens e riquezas. Na verdade, a política é também uma questão de circulação de afetos, da maneira como eles irão criar vínculos sociais, afetando os que fazem parte desses vínculos. (l. 1-3)\n\nA maneira como somos afetados define o que somos e o que não somos capazes de ver, sentir e perceber. Definido o que vejo, sinto e percebo, definem-se o campo das minhas ações, a maneira como julgarei, o que faz parte e o que está excluído do meu mundo. (l. 4-6)\n\nPercebam, por exemplo, como um dos maiores feitos políticos de 2015 foi a circulação de uma mera foto, a foto do menino sírio morto em um naufrágio no Mar Mediterrâneo. Nesse sentido, foi muito interessante pesquisar as reações de certos europeus que invadiram sites de notícias de seu continente com posts e comentários. Uma quantidade impressionante deles reclamava daqueles jornais que decidiram publicar a foto. Eles diziam basicamente a mesma coisa: “parem de nos mostrar o que não queremos ver”. (l. 7-12)\n\nToda verdadeira luta política é baseada em uma mudança nos circuitos dominantes de afetos. Prova disso foi o fato de tal foto produzir o que vários discursos até então não haviam conseguido: a suspensão temporária da política criminosa de indiferença em relação à sorte dos refugiados. (l. 13-15)\n\nDe fato, sabemos que faz parte das dinâmicas do poder decidir qual sofrimento é visível e qual é invisível. Mas, para tanto, devemos antes decidir sobre quem fala e quem não fala. (l. 16-17)\n\nHá várias maneiras de silêncio. A mais comum é simplesmente calar quem não tem direito à voz. Isso é o que nos lembram todos aqueles que se engajaram na luta por grupos sociais vulneráveis e objetos de violência contínua (negros, homossexuais, mulheres, travestis, palestinos, entre tantos outros). (l. 18-21)\n\nMas há ainda outra forma de silêncio. Ela consiste em limitar a fala. A princípio, isso pode parecer um ato de dar voz aos excluídos e subalternos, fazendo com que negros falem sobre os problemas dos negros, mulheres falem sobre os problemas das mulheres, e por aí vai. No entanto, essa é apenas uma forma astuta de silêncio, e deveríamos estar mais atentos a tal estratégia de silenciamento identitário. Ao final, ela quer nos levar a acreditar que negros devem apenas falar dos problemas dos negros, que mulheres devem apenas falar dos problemas das mulheres. (l. 22-27)\n\nPosso dar visibilidade a sofrimentos que antes não circulavam, mas, quando aceito limitar minha fala pela identidade que supostamente represento, não mudarei a forma de circulação de afetos, pois não conseguirei implicar quem não partilha minha identidade na narrativa do meu sofrimento. (l. 28-30)\n\nSer um sujeito político é conseguir enunciar proposições que podem implicar qualquer um, ou seja, que se dirigem a essa dimensão do “qualquer um” que faz parte de cada um de nós. É quando nos colocamos na posição de qualquer um que temos mais força de desestabilização. O verdadeiro medo do poder é que você se coloque na posição de qualquer um. (l. 31-34)\n\nVLADIMIR SAFATLE. Adaptado de Folha de S. Paulo, 25/09/2015.\n\nNo segundo parágrafo, observa-se a alternância no emprego da primeira pessoa do plural com a do singular. O emprego da primeira pessoa do singular estabelece o efeito de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revelar uma culpa"
+      },
+      {
+        "letter": "B",
+        "text": "antecipar um preconceito"
+      },
+      {
+        "letter": "C",
+        "text": "interpelar uma individualidade"
+      },
+      {
+        "letter": "D",
+        "text": "reafirmar um posicionamento"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O parágrafo parte de uma constatação geral, no plural — “a maneira como somos afetados define o que somos” —, e desce ao singular para dizer o que decorre disso: “o que vejo, sinto e percebo”, “as minhas ações”, “o meu mundo”. Ao assumir a primeira pessoa do singular, o autor toma para si a afirmação e a sustenta como posição própria, reforçando a tese em vez de deixá-la como observação impessoal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7718,6 +8188,42 @@
     }
   },
   {
+    "id": "uerj-2018-q15",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - QUEM TEM O DIREITO DE FALAR?\n\nA política não é uma questão apenas de circulação de bens e riquezas. Na verdade, a política é também uma questão de circulação de afetos, da maneira como eles irão criar vínculos sociais, afetando os que fazem parte desses vínculos. (l. 1-3)\n\nA maneira como somos afetados define o que somos e o que não somos capazes de ver, sentir e perceber. Definido o que vejo, sinto e percebo, definem-se o campo das minhas ações, a maneira como julgarei, o que faz parte e o que está excluído do meu mundo. (l. 4-6)\n\nPercebam, por exemplo, como um dos maiores feitos políticos de 2015 foi a circulação de uma mera foto, a foto do menino sírio morto em um naufrágio no Mar Mediterrâneo. Nesse sentido, foi muito interessante pesquisar as reações de certos europeus que invadiram sites de notícias de seu continente com posts e comentários. Uma quantidade impressionante deles reclamava daqueles jornais que decidiram publicar a foto. Eles diziam basicamente a mesma coisa: “parem de nos mostrar o que não queremos ver”. (l. 7-12)\n\nToda verdadeira luta política é baseada em uma mudança nos circuitos dominantes de afetos. Prova disso foi o fato de tal foto produzir o que vários discursos até então não haviam conseguido: a suspensão temporária da política criminosa de indiferença em relação à sorte dos refugiados. (l. 13-15)\n\nDe fato, sabemos que faz parte das dinâmicas do poder decidir qual sofrimento é visível e qual é invisível. Mas, para tanto, devemos antes decidir sobre quem fala e quem não fala. (l. 16-17)\n\nHá várias maneiras de silêncio. A mais comum é simplesmente calar quem não tem direito à voz. Isso é o que nos lembram todos aqueles que se engajaram na luta por grupos sociais vulneráveis e objetos de violência contínua (negros, homossexuais, mulheres, travestis, palestinos, entre tantos outros). (l. 18-21)\n\nMas há ainda outra forma de silêncio. Ela consiste em limitar a fala. A princípio, isso pode parecer um ato de dar voz aos excluídos e subalternos, fazendo com que negros falem sobre os problemas dos negros, mulheres falem sobre os problemas das mulheres, e por aí vai. No entanto, essa é apenas uma forma astuta de silêncio, e deveríamos estar mais atentos a tal estratégia de silenciamento identitário. Ao final, ela quer nos levar a acreditar que negros devem apenas falar dos problemas dos negros, que mulheres devem apenas falar dos problemas das mulheres. (l. 22-27)\n\nPosso dar visibilidade a sofrimentos que antes não circulavam, mas, quando aceito limitar minha fala pela identidade que supostamente represento, não mudarei a forma de circulação de afetos, pois não conseguirei implicar quem não partilha minha identidade na narrativa do meu sofrimento. (l. 28-30)\n\nSer um sujeito político é conseguir enunciar proposições que podem implicar qualquer um, ou seja, que se dirigem a essa dimensão do “qualquer um” que faz parte de cada um de nós. É quando nos colocamos na posição de qualquer um que temos mais força de desestabilização. O verdadeiro medo do poder é que você se coloque na posição de qualquer um. (l. 31-34)\n\nVLADIMIR SAFATLE. Adaptado de Folha de S. Paulo, 25/09/2015.\n\nAo abordar estratégias de silenciamento, o autor considera que uma delas seria mais astuta. Em relação às falas silenciadas, essa estratégia consiste em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "associar carências a classes sociais"
+      },
+      {
+        "letter": "B",
+        "text": "lamentar cotidiano de violência urbana"
+      },
+      {
+        "letter": "C",
+        "text": "restringir contestação a temas específicos"
+      },
+      {
+        "letter": "D",
+        "text": "denunciar exploração de pessoas refugiadas"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A forma astuta de silêncio não cala ninguém: parece dar voz, mas delimita de antemão o assunto de que cada um pode tratar — negros falam de questões raciais, mulheres de questões de gênero, e assim por diante. O efeito, segundo o autor, é confinar a contestação a temas específicos, impedindo que o discurso alcance quem não partilha aquela identidade. É o que ele chama de silenciamento identitário.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q16",
     "exam": "uerj",
     "year": 2018,
@@ -7751,6 +8257,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q16",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - QUEM TEM O DIREITO DE FALAR?\n\nA política não é uma questão apenas de circulação de bens e riquezas. Na verdade, a política é também uma questão de circulação de afetos, da maneira como eles irão criar vínculos sociais, afetando os que fazem parte desses vínculos. (l. 1-3)\n\nA maneira como somos afetados define o que somos e o que não somos capazes de ver, sentir e perceber. Definido o que vejo, sinto e percebo, definem-se o campo das minhas ações, a maneira como julgarei, o que faz parte e o que está excluído do meu mundo. (l. 4-6)\n\nPercebam, por exemplo, como um dos maiores feitos políticos de 2015 foi a circulação de uma mera foto, a foto do menino sírio morto em um naufrágio no Mar Mediterrâneo. Nesse sentido, foi muito interessante pesquisar as reações de certos europeus que invadiram sites de notícias de seu continente com posts e comentários. Uma quantidade impressionante deles reclamava daqueles jornais que decidiram publicar a foto. Eles diziam basicamente a mesma coisa: “parem de nos mostrar o que não queremos ver”. (l. 7-12)\n\nToda verdadeira luta política é baseada em uma mudança nos circuitos dominantes de afetos. Prova disso foi o fato de tal foto produzir o que vários discursos até então não haviam conseguido: a suspensão temporária da política criminosa de indiferença em relação à sorte dos refugiados. (l. 13-15)\n\nDe fato, sabemos que faz parte das dinâmicas do poder decidir qual sofrimento é visível e qual é invisível. Mas, para tanto, devemos antes decidir sobre quem fala e quem não fala. (l. 16-17)\n\nHá várias maneiras de silêncio. A mais comum é simplesmente calar quem não tem direito à voz. Isso é o que nos lembram todos aqueles que se engajaram na luta por grupos sociais vulneráveis e objetos de violência contínua (negros, homossexuais, mulheres, travestis, palestinos, entre tantos outros). (l. 18-21)\n\nMas há ainda outra forma de silêncio. Ela consiste em limitar a fala. A princípio, isso pode parecer um ato de dar voz aos excluídos e subalternos, fazendo com que negros falem sobre os problemas dos negros, mulheres falem sobre os problemas das mulheres, e por aí vai. No entanto, essa é apenas uma forma astuta de silêncio, e deveríamos estar mais atentos a tal estratégia de silenciamento identitário. Ao final, ela quer nos levar a acreditar que negros devem apenas falar dos problemas dos negros, que mulheres devem apenas falar dos problemas das mulheres. (l. 22-27)\n\nPosso dar visibilidade a sofrimentos que antes não circulavam, mas, quando aceito limitar minha fala pela identidade que supostamente represento, não mudarei a forma de circulação de afetos, pois não conseguirei implicar quem não partilha minha identidade na narrativa do meu sofrimento. (l. 28-30)\n\nSer um sujeito político é conseguir enunciar proposições que podem implicar qualquer um, ou seja, que se dirigem a essa dimensão do “qualquer um” que faz parte de cada um de nós. É quando nos colocamos na posição de qualquer um que temos mais força de desestabilização. O verdadeiro medo do poder é que você se coloque na posição de qualquer um. (l. 31-34)\n\nVLADIMIR SAFATLE. Adaptado de Folha de S. Paulo, 25/09/2015.\n\nessa dimensão do “qualquer um” que faz parte de cada um de nós. (l. 32)\n\nNo parágrafo final, o uso da expressão indefinida destaca a seguinte tese presente na argumentação do autor:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crítica à polêmica entre concepções políticas"
+      },
+      {
+        "letter": "B",
+        "text": "recusa às interpretações dos veículos de mídia"
+      },
+      {
+        "letter": "C",
+        "text": "defesa da importância dos movimentos migratórios"
+      },
+      {
+        "letter": "D",
+        "text": "questionamento das fronteiras entre segmentos da população"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O indefinido “qualquer um” designa aquilo que não é próprio de nenhum grupo em particular e que, por isso, pode implicar todo mundo. Ao situar a força política nessa dimensão, o autor contesta a divisão da sociedade em identidades estanques, cada uma restrita ao seu próprio tema — exatamente o questionamento das fronteiras entre segmentos da população.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7790,6 +8332,42 @@
     }
   },
   {
+    "id": "uerj-2018-q17",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 17,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nO romance começa com as frases “Tudo no mundo começou com um sim. Uma molécula disse sim a outra molécula e nasceu a vida.” Na última frase do romance, lê-se apenas uma palavra: Sim.\n\nConsiderando o caráter simbólico da personagem Macabéa, as ocorrências da palavra “sim” nessas frases estabelecem o seguinte efeito:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cíclico"
+      },
+      {
+        "letter": "B",
+        "text": "paradoxal"
+      },
+      {
+        "letter": "C",
+        "text": "denotativo"
+      },
+      {
+        "letter": "D",
+        "text": "hiperbólico"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O romance abre com o “sim” que originou a vida e fecha com um “sim” isolado, no momento da morte de Macabéa. A repetição da mesma palavra nos dois extremos fecha o texto sobre si mesmo e faz da morte um retorno ao começo, sugerindo continuidade entre fim e origem. Trata-se, portanto, de um efeito cíclico.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q18",
     "exam": "uerj",
     "year": 2018,
@@ -7823,6 +8401,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q18",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nComo a nordestina, há milhares de moças espalhadas por cortiços, vagas de cama num quarto, atrás de balcões trabalhando até a estafa. Não notam sequer que são facilmente substituíveis e que tanto existiriam como não existiriam.\n\nO romance enfatiza que a personagem Macabéa vive a realidade de milhares de moças, como exemplifica o trecho citado. Essa ênfase critica o processo sofrido por todas elas de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alienação social"
+      },
+      {
+        "letter": "B",
+        "text": "rivalidade geracional"
+      },
+      {
+        "letter": "C",
+        "text": "humilhação intelectual"
+      },
+      {
+        "letter": "D",
+        "text": "empobrecimento moral"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O trecho não diz apenas que essas moças são exploradas: diz que elas “não notam sequer” que são substituíveis. A crítica recai sobre a invisibilidade da própria condição — a incapacidade de perceber o lugar que ocupam na engrenagem social, condição que as impede de reagir. É o que se entende por alienação social.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7862,6 +8476,42 @@
     }
   },
   {
+    "id": "uerj-2018-q19",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nUm outro escritor, sim, mas teria que ser homem porque escritora mulher pode lacrimejar piegas.\n\nConsiderando que o romance é de Clarice Lispector, pode-se inferir que a frase do narrador é irônica. Essa ironia está baseada na:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "relativização da opressão"
+      },
+      {
+        "letter": "B",
+        "text": "inclinação ao universal"
+      },
+      {
+        "letter": "C",
+        "text": "sofisticação da escrita"
+      },
+      {
+        "letter": "D",
+        "text": "crítica ao machismo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Quem enuncia o preconceito — a mulher escritora seria sentimental demais — é Rodrigo S. M., narrador masculino criado por uma escritora. A própria existência do romance desmente a afirmação, e é desse descompasso entre o que se diz e o que a obra demonstra que nasce a ironia. Clarice põe na boca do narrador o clichê machista justamente para expô-lo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q20",
     "exam": "uerj",
     "year": 2018,
@@ -7895,6 +8545,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q20",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 20,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nMetonímia é a figura de linguagem em que a parte representa o todo, ou vice-versa. No romance, a protagonista Macabéa constitui uma metonímia de todos os:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "excluídos"
+      },
+      {
+        "letter": "B",
+        "text": "românticos"
+      },
+      {
+        "letter": "C",
+        "text": "indiferentes"
+      },
+      {
+        "letter": "D",
+        "text": "privilegiados"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Macabéa é migrante nordestina, órfã, subnutrida, datilógrafa mal paga e invisível na cidade grande. O próprio narrador a apresenta como uma entre milhares de moças em situação idêntica. Ela funciona, assim, como a parte que representa o todo: um indivíduo que dá rosto ao conjunto dos excluídos da sociedade brasileira.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -7934,6 +8621,42 @@
     }
   },
   {
+    "id": "uerj-2018-q21",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 21,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nVejo a nordestina se olhando ao espelho e – um rufar de tambor – no espelho aparece o meu rosto cansado e barbudo.\n\nCom essa frase, o narrador manifesta pela protagonista o sentimento de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pena"
+      },
+      {
+        "letter": "B",
+        "text": "empatia"
+      },
+      {
+        "letter": "C",
+        "text": "rejeição"
+      },
+      {
+        "letter": "D",
+        "text": "admiração"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao olhar para Macabéa e ver no espelho o próprio rosto, o narrador se identifica com ela: por um instante deixa de observá-la de fora e se coloca em seu lugar. Não há condescendência, como haveria na pena, nem distância: há reconhecimento de si no outro, que é o que define a empatia — e que sustenta a inquietação do narrador ao longo de todo o romance.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q22",
     "exam": "uerj",
     "year": 2018,
@@ -7967,6 +8690,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q22",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nEu gosto tanto de ouvir os pingos de minutos do tempo assim: tic-tac-tic-tac-tic-tac.\n\nAo longo do texto, o narrador descreve Macabéa como ignorante, o que contrasta com a frase da personagem. O contraste se dá porque frases como a citada acima mostram um uso de linguagem que pode ser definido como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "poético"
+      },
+      {
+        "letter": "B",
+        "text": "parodístico"
+      },
+      {
+        "letter": "C",
+        "text": "eufemístico"
+      },
+      {
+        "letter": "D",
+        "text": "argumentativo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A personagem cria uma imagem — “os pingos de minutos do tempo” — que transforma a passagem do tempo em algo que goteja, e reforça o efeito com a onomatopeia do relógio. É invenção de linguagem, e não repetição de fórmula pronta. Essa dimensão poética contrasta com a suposta ignorância que o narrador lhe atribui e sugere nela uma sensibilidade que ele não esperava.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8006,6 +8765,42 @@
     }
   },
   {
+    "id": "uerj-2018-q23",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 23,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nEstrela é uma palavra que faz parte do título do romance, além de ser o símbolo do carro da marca Mercedes, decisivo para o final da história.\n\nConsiderando esse final, o título do livro expressa o sentido de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elogio"
+      },
+      {
+        "letter": "B",
+        "text": "ironia"
+      },
+      {
+        "letter": "C",
+        "text": "negação"
+      },
+      {
+        "letter": "D",
+        "text": "louvação"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "“A hora da estrela” evoca o instante de glória, o momento de brilhar. Mas a hora que o título anuncia é a do atropelamento de Macabéa por uma Mercedes — cujo emblema é uma estrela — e de sua morte na sarjeta. O único estrelato que lhe cabe é o da própria morte, e é desse contraste entre a promessa do título e o destino da personagem que vem a ironia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q24",
     "exam": "uerj",
     "year": 2018,
@@ -8039,6 +8834,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q24",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 24,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões a seguir referem-se ao romance A hora da estrela, de Clarice Lispector, obra em que o narrador Rodrigo S. M. conta a história de Macabéa, uma jovem nordestina pobre e desamparada que vive no Rio de Janeiro.\n\nQuando o narrador do romance afirma que a história é verdadeira embora inventada, ele faz alusão a um conceito importante em literatura.\n\nEsse conceito é denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "intertextualidade"
+      },
+      {
+        "letter": "B",
+        "text": "verossimilhança"
+      },
+      {
+        "letter": "C",
+        "text": "dramaticidade"
+      },
+      {
+        "letter": "D",
+        "text": "onisciência"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Dizer que a história é verdadeira ainda que inventada é afirmar que ela não copia fatos ocorridos, mas é coerente e possível dentro do mundo que o próprio romance constrói. Essa verdade interna da ficção, que faz o leitor aceitá-la como plausível, chama-se verossimilhança — noção que remonta à Poética de Aristóteles e distingue o verdadeiro do verossímil.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8078,6 +8909,42 @@
     }
   },
   {
+    "id": "uerj-2018-q25",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 25,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ADAPTACIÓN: LA CLAVE DE NUESTRA ESPECIE\n\nEvolución quiere decir cambio a lo largo del tiempo. En esta definición se basó Charles Darwin para escribir su famoso libro y desarrollar su idea sobre el origen de las especies. Una idea que parece que ha tenido gran impacto en la forma de entender y estudiar el pasado de la vida en la Tierra. ¡Y vaya que si tuvo impacto! La idea de evolución impregnó muchos campos del saber y permitió el estudio del pasado del ser humano desde otra perspectiva. (l. 1-5)\n\nCon el paso del tiempo se puede observar un cambio en los aspectos físicos del ser humano. Pero no sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos a lo largo de la historia de su evolución. (l. 6-8)\n\nUno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. La habilidad de caminar sobre las dos piernas empezó hace unos 4 millones de años. Desde entonces, los cambios que se han producido en nuestra línea evolutiva han sido significativos. La introducción de tecnología de piedra, el cambio en la dieta, la capacidad del lenguaje, etc. Y siempre con una capacidad de adaptación sorprendente a nuevas formas de vida. (l. 9-13)\n\nSi nos fijamos en la historia de la tecnología de piedra y en la de las telecomunicaciones centrándonos en los teléfonos móviles, podemos observar un patrón común que se reproduce en ambas: la tendencia a minimizar las dimensiones de las piezas y a hacerlas más finas. De verdaderos bloques a objetos delicados y estilísticos. (l. 14-17)\n\nLa diferencia más notable entre una y otra tecnología es la rapidez del cambio entre diferentes modelos. Mientras el desarrollo tecnológico de la piedra en los primeros seres humanos se prolongó durante millones de años, en la era de las tecnologías tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 18-21)\n\nPor tanto, pese a que lo más llamativo e impactante puede ser el cambio físico, el cambio de comportamiento, el clima y evolución tecnológica quizás sean lo más determinante. Lo cual me hace formularme la siguiente pregunta: ¿el cambio de comportamiento supuso el cambio físico o fue al contrario? En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, y esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. Uno de los más importantes sin lugar a dudas ha sido la inestabilidad climática que ha puesto a la humanidad ante innumerables retos desde el inicio de la especie. Esto ha permitido desarrollar en el género homo una capacidad abrumadora de adaptabilidad a los cambios del medio ambiente. (l. 22-30)\n\npatrimoniointeligente.com\n\nSegún las investigaciones relatadas en “Lucy caiu da árvore”, ella ya caminaba erecta. El fragmento del texto “Adaptación: la clave de nuestra especie” que corrobora esas investigaciones es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "La idea de evolución impregnó muchos campos del saber (l. 4)"
+      },
+      {
+        "letter": "B",
+        "text": "Uno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. (l. 9)"
+      },
+      {
+        "letter": "C",
+        "text": "tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 20-21)"
+      },
+      {
+        "letter": "D",
+        "text": "En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, (l. 25-26)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Lucy viveu há 3,2 milhões de anos e já andava ereta. O trecho espanhol que confirma esse dado é o que atribui ao bipedismo um dos primeiros passos evolutivos rumo ao humano moderno, iniciado há cerca de 4 milhões de anos — ou seja, antes de Lucy. Os demais fragmentos tratam do alcance da ideia de evolução ou do ritmo da mudança tecnológica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q26",
     "exam": "uerj",
     "year": 2018,
@@ -8111,6 +8978,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q26",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 26,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ADAPTACIÓN: LA CLAVE DE NUESTRA ESPECIE\n\nEvolución quiere decir cambio a lo largo del tiempo. En esta definición se basó Charles Darwin para escribir su famoso libro y desarrollar su idea sobre el origen de las especies. Una idea que parece que ha tenido gran impacto en la forma de entender y estudiar el pasado de la vida en la Tierra. ¡Y vaya que si tuvo impacto! La idea de evolución impregnó muchos campos del saber y permitió el estudio del pasado del ser humano desde otra perspectiva. (l. 1-5)\n\nCon el paso del tiempo se puede observar un cambio en los aspectos físicos del ser humano. Pero no sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos a lo largo de la historia de su evolución. (l. 6-8)\n\nUno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. La habilidad de caminar sobre las dos piernas empezó hace unos 4 millones de años. Desde entonces, los cambios que se han producido en nuestra línea evolutiva han sido significativos. La introducción de tecnología de piedra, el cambio en la dieta, la capacidad del lenguaje, etc. Y siempre con una capacidad de adaptación sorprendente a nuevas formas de vida. (l. 9-13)\n\nSi nos fijamos en la historia de la tecnología de piedra y en la de las telecomunicaciones centrándonos en los teléfonos móviles, podemos observar un patrón común que se reproduce en ambas: la tendencia a minimizar las dimensiones de las piezas y a hacerlas más finas. De verdaderos bloques a objetos delicados y estilísticos. (l. 14-17)\n\nLa diferencia más notable entre una y otra tecnología es la rapidez del cambio entre diferentes modelos. Mientras el desarrollo tecnológico de la piedra en los primeros seres humanos se prolongó durante millones de años, en la era de las tecnologías tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 18-21)\n\nPor tanto, pese a que lo más llamativo e impactante puede ser el cambio físico, el cambio de comportamiento, el clima y evolución tecnológica quizás sean lo más determinante. Lo cual me hace formularme la siguiente pregunta: ¿el cambio de comportamiento supuso el cambio físico o fue al contrario? En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, y esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. Uno de los más importantes sin lugar a dudas ha sido la inestabilidad climática que ha puesto a la humanidad ante innumerables retos desde el inicio de la especie. Esto ha permitido desarrollar en el género homo una capacidad abrumadora de adaptabilidad a los cambios del medio ambiente. (l. 22-30)\n\npatrimoniointeligente.com\n\nEn el primer párrafo, el autor presenta a Darwin como el proponente de la teoría de la evolución. Esa referencia al científico le da a su argumentación un carácter de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "claridad"
+      },
+      {
+        "letter": "B",
+        "text": "solenidad"
+      },
+      {
+        "letter": "C",
+        "text": "austeridad"
+      },
+      {
+        "letter": "D",
+        "text": "credibilidad"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Invocar Darwin e sua obra sobre a origem das espécies é recorrer a um argumento de autoridade: o autor apoia sua exposição no nome de maior prestígio da área, o que empresta confiabilidade ao que vai afirmar em seguida. O efeito buscado é, portanto, de credibilidade, e não de clareza, solenidade ou austeridade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8150,6 +9053,42 @@
     }
   },
   {
+    "id": "uerj-2018-q27",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 27,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - ADAPTACIÓN: LA CLAVE DE NUESTRA ESPECIE\n\nEvolución quiere decir cambio a lo largo del tiempo. En esta definición se basó Charles Darwin para escribir su famoso libro y desarrollar su idea sobre el origen de las especies. Una idea que parece que ha tenido gran impacto en la forma de entender y estudiar el pasado de la vida en la Tierra. ¡Y vaya que si tuvo impacto! La idea de evolución impregnó muchos campos del saber y permitió el estudio del pasado del ser humano desde otra perspectiva. (l. 1-5)\n\nCon el paso del tiempo se puede observar un cambio en los aspectos físicos del ser humano. Pero no sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos a lo largo de la historia de su evolución. (l. 6-8)\n\nUno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. La habilidad de caminar sobre las dos piernas empezó hace unos 4 millones de años. Desde entonces, los cambios que se han producido en nuestra línea evolutiva han sido significativos. La introducción de tecnología de piedra, el cambio en la dieta, la capacidad del lenguaje, etc. Y siempre con una capacidad de adaptación sorprendente a nuevas formas de vida. (l. 9-13)\n\nSi nos fijamos en la historia de la tecnología de piedra y en la de las telecomunicaciones centrándonos en los teléfonos móviles, podemos observar un patrón común que se reproduce en ambas: la tendencia a minimizar las dimensiones de las piezas y a hacerlas más finas. De verdaderos bloques a objetos delicados y estilísticos. (l. 14-17)\n\nLa diferencia más notable entre una y otra tecnología es la rapidez del cambio entre diferentes modelos. Mientras el desarrollo tecnológico de la piedra en los primeros seres humanos se prolongó durante millones de años, en la era de las tecnologías tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 18-21)\n\nPor tanto, pese a que lo más llamativo e impactante puede ser el cambio físico, el cambio de comportamiento, el clima y evolución tecnológica quizás sean lo más determinante. Lo cual me hace formularme la siguiente pregunta: ¿el cambio de comportamiento supuso el cambio físico o fue al contrario? En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, y esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. Uno de los más importantes sin lugar a dudas ha sido la inestabilidad climática que ha puesto a la humanidad ante innumerables retos desde el inicio de la especie. Esto ha permitido desarrollar en el género homo una capacidad abrumadora de adaptabilidad a los cambios del medio ambiente. (l. 22-30)\n\npatrimoniointeligente.com\n\nno sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos (l. 6-8)\n\nEn el enunciado, los términos subrayados, “no sólo... sino que... también”, indican valor de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adición"
+      },
+      {
+        "letter": "B",
+        "text": "alternancia"
+      },
+      {
+        "letter": "C",
+        "text": "explicación"
+      },
+      {
+        "letter": "D",
+        "text": "redundancia"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A estrutura correlativa no sólo... sino que... también soma duas informações: além da mudança física, houve também mudança de comportamento. A segunda não substitui nem explica a primeira — acrescenta-se a ela. Trata-se, portanto, de valor aditivo, correspondente ao português “não só... mas também”.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q28",
     "exam": "uerj",
     "year": 2018,
@@ -8183,6 +9122,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q28",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 28,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ADAPTACIÓN: LA CLAVE DE NUESTRA ESPECIE\n\nEvolución quiere decir cambio a lo largo del tiempo. En esta definición se basó Charles Darwin para escribir su famoso libro y desarrollar su idea sobre el origen de las especies. Una idea que parece que ha tenido gran impacto en la forma de entender y estudiar el pasado de la vida en la Tierra. ¡Y vaya que si tuvo impacto! La idea de evolución impregnó muchos campos del saber y permitió el estudio del pasado del ser humano desde otra perspectiva. (l. 1-5)\n\nCon el paso del tiempo se puede observar un cambio en los aspectos físicos del ser humano. Pero no sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos a lo largo de la historia de su evolución. (l. 6-8)\n\nUno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. La habilidad de caminar sobre las dos piernas empezó hace unos 4 millones de años. Desde entonces, los cambios que se han producido en nuestra línea evolutiva han sido significativos. La introducción de tecnología de piedra, el cambio en la dieta, la capacidad del lenguaje, etc. Y siempre con una capacidad de adaptación sorprendente a nuevas formas de vida. (l. 9-13)\n\nSi nos fijamos en la historia de la tecnología de piedra y en la de las telecomunicaciones centrándonos en los teléfonos móviles, podemos observar un patrón común que se reproduce en ambas: la tendencia a minimizar las dimensiones de las piezas y a hacerlas más finas. De verdaderos bloques a objetos delicados y estilísticos. (l. 14-17)\n\nLa diferencia más notable entre una y otra tecnología es la rapidez del cambio entre diferentes modelos. Mientras el desarrollo tecnológico de la piedra en los primeros seres humanos se prolongó durante millones de años, en la era de las tecnologías tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 18-21)\n\nPor tanto, pese a que lo más llamativo e impactante puede ser el cambio físico, el cambio de comportamiento, el clima y evolución tecnológica quizás sean lo más determinante. Lo cual me hace formularme la siguiente pregunta: ¿el cambio de comportamiento supuso el cambio físico o fue al contrario? En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, y esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. Uno de los más importantes sin lugar a dudas ha sido la inestabilidad climática que ha puesto a la humanidad ante innumerables retos desde el inicio de la especie. Esto ha permitido desarrollar en el género homo una capacidad abrumadora de adaptabilidad a los cambios del medio ambiente. (l. 22-30)\n\npatrimoniointeligente.com\n\nEn el quinto párrafo, al hablar sobre la tecnología de piedras y la de las telecomunicaciones, el autor afirma que actualmente es todo mucho más rápido. En ese párrafo, un recurso de lenguaje utilizado para presentar ese punto de vista es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gradación"
+      },
+      {
+        "letter": "B",
+        "text": "conclusión"
+      },
+      {
+        "letter": "C",
+        "text": "comparación"
+      },
+      {
+        "letter": "D",
+        "text": "enumeración"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O parágrafo é construído sobre o contraste marcado por mientras: de um lado, o desenvolvimento da tecnologia lítica, que se prolongou por milhões de anos; de outro, a era das tecnologias, em que pouco mais de uma década basta para uma evolução considerável. Confrontar os dois ritmos para sustentar a tese é recurso de comparação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8222,6 +9197,42 @@
     }
   },
   {
+    "id": "uerj-2018-q29",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 29,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - ADAPTACIÓN: LA CLAVE DE NUESTRA ESPECIE\n\nEvolución quiere decir cambio a lo largo del tiempo. En esta definición se basó Charles Darwin para escribir su famoso libro y desarrollar su idea sobre el origen de las especies. Una idea que parece que ha tenido gran impacto en la forma de entender y estudiar el pasado de la vida en la Tierra. ¡Y vaya que si tuvo impacto! La idea de evolución impregnó muchos campos del saber y permitió el estudio del pasado del ser humano desde otra perspectiva. (l. 1-5)\n\nCon el paso del tiempo se puede observar un cambio en los aspectos físicos del ser humano. Pero no sólo se ha cambiado por fuera sino que el comportamiento del ser humano también ha protagonizado cambios significativos a lo largo de la historia de su evolución. (l. 6-8)\n\nUno de los primeros pasos evolutivos hacia el humano moderno se le otorga al bipedismo. La habilidad de caminar sobre las dos piernas empezó hace unos 4 millones de años. Desde entonces, los cambios que se han producido en nuestra línea evolutiva han sido significativos. La introducción de tecnología de piedra, el cambio en la dieta, la capacidad del lenguaje, etc. Y siempre con una capacidad de adaptación sorprendente a nuevas formas de vida. (l. 9-13)\n\nSi nos fijamos en la historia de la tecnología de piedra y en la de las telecomunicaciones centrándonos en los teléfonos móviles, podemos observar un patrón común que se reproduce en ambas: la tendencia a minimizar las dimensiones de las piezas y a hacerlas más finas. De verdaderos bloques a objetos delicados y estilísticos. (l. 14-17)\n\nLa diferencia más notable entre una y otra tecnología es la rapidez del cambio entre diferentes modelos. Mientras el desarrollo tecnológico de la piedra en los primeros seres humanos se prolongó durante millones de años, en la era de las tecnologías tan solo se necesita poco más de una década para evolucionar considerablemente. (l. 18-21)\n\nPor tanto, pese a que lo más llamativo e impactante puede ser el cambio físico, el cambio de comportamiento, el clima y evolución tecnológica quizás sean lo más determinante. Lo cual me hace formularme la siguiente pregunta: ¿el cambio de comportamiento supuso el cambio físico o fue al contrario? En cualquier caso, tanto un aspecto como el otro suponen evolución del ser humano, y esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. Uno de los más importantes sin lugar a dudas ha sido la inestabilidad climática que ha puesto a la humanidad ante innumerables retos desde el inicio de la especie. Esto ha permitido desarrollar en el género homo una capacidad abrumadora de adaptabilidad a los cambios del medio ambiente. (l. 22-30)\n\npatrimoniointeligente.com\n\ny esto, hasta llegar hasta nuestros días, ha tenido muchos aspectos determinantes. (l. 26)\n\nEn el fragmento, la palabra subrayada, “esto”, se refiere al siguiente elemento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "la evolución humana"
+      },
+      {
+        "letter": "B",
+        "text": "la inestabilidad del clima"
+      },
+      {
+        "letter": "C",
+        "text": "el cambio comportamental"
+      },
+      {
+        "letter": "D",
+        "text": "el desarrollo de la tecnología"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O pronome retoma o que acaba de ser dito na mesma frase: “tanto un aspecto como el otro suponen evolución del ser humano”. É essa evolução humana — e não um de seus fatores isolados — que teve muitos aspectos determinantes até os dias de hoje, entre os quais o texto destaca, logo em seguida, a instabilidade climática.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q30",
     "exam": "uerj",
     "year": 2018,
@@ -8255,6 +9266,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q30",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 30,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma herança foi dividida em exatamente duas partes: x, que é inversamente proporcional a 2, e y, que é inversamente proporcional a 3.\n\nA parte x é igual a uma fração da herança que equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3/5"
+      },
+      {
+        "letter": "B",
+        "text": "2/5"
+      },
+      {
+        "letter": "C",
+        "text": "1/6"
+      },
+      {
+        "letter": "D",
+        "text": "5/6"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ser inversamente proporcional a 2 e a 3 significa que as partes estão entre si como 1/2 para 1/3, isto é, x/y = (1/2)/(1/3) = 3/2. Escrevendo x = 3k e y = 2k, a herança total é 5k, de modo que x corresponde a 3k/5k = 3/5 do total.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8294,6 +9341,42 @@
     }
   },
   {
+    "id": "uerj-2018-q31",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 31,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "No triângulo equilátero ABC, H corresponde ao ponto médio do lado AC. Desse modo, a área do triângulo ABH é igual à metade da área de ABC.\n\nSendo W o perímetro do triângulo ABH e Y o perímetro do triângulo ABC, uma relação correta entre W e Y é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0 < W < Y/2"
+      },
+      {
+        "letter": "B",
+        "text": "W = Y/2"
+      },
+      {
+        "letter": "C",
+        "text": "Y/2 < W < Y"
+      },
+      {
+        "letter": "D",
+        "text": "W = Y"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Sendo L o lado do triângulo equilátero, tem-se Y = 3L. No triângulo ABH, AB = L, AH = L/2 e BH é a altura, igual a L√3/2 ≈ 0,87L. Logo W ≈ L + 0,5L + 0,87L = 2,37L. Como Y/2 = 1,5L e Y = 3L, conclui-se que Y/2 < W < Y. O exemplo mostra que dividir a área ao meio não divide o perímetro ao meio.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q32",
     "exam": "uerj",
     "year": 2018,
@@ -8327,6 +9410,78 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q32",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "No mapa mensal de um hospital, foi registrado o total de 800 cirurgias ortopédicas, sendo 440 em homens. Dois gráficos de setores distribuem essas cirurgias por região do corpo (fêmur, joelho, tornozelo, cotovelo, antebraço, mão, perna, pé e úmero): no gráfico das cirurgias totais, o fêmur corresponde a 45%; no gráfico das cirurgias em homens, o fêmur corresponde a 40%.\n\nDe acordo com esses dados, o número total de cirurgias de fêmur realizadas em mulheres foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "144"
+      },
+      {
+        "letter": "B",
+        "text": "162"
+      },
+      {
+        "letter": "C",
+        "text": "184"
+      },
+      {
+        "letter": "D",
+        "text": "190"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As cirurgias de fêmur no total do hospital são 45% de 800, ou seja, 360. Entre os homens, são 40% de 440, isto é, 176. A diferença corresponde às cirurgias de fêmur em mulheres: 360 − 176 = 184.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q33",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 33,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um prisma triangular regular tem aresta da base medindo b e aresta lateral medindo h. Esse prisma, de vértices ABC (base inferior) e DEF (base superior), é seccionado por um plano BCP, em que P pertence à aresta lateral AD, de modo que o volume da pirâmide ABCP seja exatamente 1/9 do volume total do prisma.\n\nLogo, a medida de AP é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "h/9"
+      },
+      {
+        "letter": "B",
+        "text": "h/3"
+      },
+      {
+        "letter": "C",
+        "text": "2h/3"
+      },
+      {
+        "letter": "D",
+        "text": "5h/6"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Chamando de S a área da base triangular, o volume do prisma é S·h. A pirâmide ABCP tem a mesma base ABC e altura AP, de modo que seu volume é (1/3)·S·AP. Igualando à condição do enunciado: (1/3)·S·AP = (1/9)·S·h, o que dá AP = h/3.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8366,6 +9521,42 @@
     }
   },
   {
+    "id": "uerj-2018-q34",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 34,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um jogo consiste em lançar cinco vezes um dado cúbico, cujas faces são numeradas de 1 a 6, cada uma com a mesma probabilidade de ocorrer. Um jogador é considerado vencedor se obtiver pelo menos três resultados pares.\n\nA probabilidade de um jogador vencer é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3/5"
+      },
+      {
+        "letter": "B",
+        "text": "2/3"
+      },
+      {
+        "letter": "C",
+        "text": "1/5"
+      },
+      {
+        "letter": "D",
+        "text": "1/2"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em cada lançamento, a chance de sair um número par é 3/6 = 1/2, igual à de sair ímpar. Como são cinco lançamentos, número ímpar de tentativas, não há empate possível: ou saem pelo menos três pares, ou pelo menos três ímpares. Pela simetria entre os dois casos, cada um tem probabilidade 1/2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q35",
     "exam": "uerj",
     "year": 2018,
@@ -8399,6 +9590,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q35",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 35,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Considere a sequência (aₙ) = (2, 3, 1, −2, ...), n ∈ IN*, com 70 termos, cuja fórmula de recorrência é:\n\naₙ = aₙ₋₁ − aₙ₋₂\n\nO último termo dessa sequência é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "−1"
+      },
+      {
+        "letter": "D",
+        "text": "−2"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Aplicando a recorrência: a₁ = 2, a₂ = 3, a₃ = 1, a₄ = −2, a₅ = −3, a₆ = −1, a₇ = 2, a₈ = 3 — os valores se repetem a cada 6 termos. Como 70 = 6 × 11 + 4, o termo a₇₀ ocupa a mesma posição de a₄ no ciclo, valendo −2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8438,6 +9665,42 @@
     }
   },
   {
+    "id": "uerj-2018-q36",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 36,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Quatro balões esféricos são preenchidos isotermicamente com igual número de mols de um gás ideal. A temperatura do gás é a mesma nos balões, que apresentam as seguintes medidas de raio:\n\nBalão I — raio R\nBalão II — raio R/2\nBalão III — raio 2R\nBalão IV — raio 2R/3\n\nA pressão do gás é maior no balão de número:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela equação de Clapeyron, PV = nRT; com n e T iguais, a pressão é inversamente proporcional ao volume. O volume da esfera cresce com o cubo do raio, de modo que o balão de menor raio tem o menor volume e, portanto, a maior pressão. Entre R, R/2, 2R e 2R/3, o menor raio é R/2, do balão II.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q37",
     "exam": "uerj",
     "year": 2018,
@@ -8471,6 +9734,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q37",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 37,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Ecologia"
+    ],
+    "statement": "Por serem formados por sedimentos bem finos, que se deslocam facilmente, os solos dos mangues são mais instáveis. Árvores encontradas nesse ambiente apresentam adaptações que garantem sua sobrevivência, como o formato diferenciado de suas raízes, que se ramificam acima do nível do solo e se apoiam sobre a lama, formando um arco escorado — as chamadas rizóforas ou raízes-escora.\n\nO formato diferenciado de raiz desses vegetais contribui para o seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fixação"
+      },
+      {
+        "letter": "B",
+        "text": "dispersão"
+      },
+      {
+        "letter": "C",
+        "text": "frutificação"
+      },
+      {
+        "letter": "D",
+        "text": "desidratação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As raízes-escora funcionam como estacas que distribuem o peso da árvore por uma área maior de lodo instável e resistem à ação das marés e das correntes. Seu papel é, portanto, de sustentação e fixação da planta em um substrato que não ofereceria firmeza a uma raiz convencional. Dispersão e frutificação dizem respeito à reprodução, e desidratação seria um prejuízo, não uma vantagem.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8510,6 +9810,42 @@
     }
   },
   {
+    "id": "uerj-2018-q38",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 38,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "No século XIX, o cientista Svante Arrhenius definiu ácidos como sendo as espécies químicas que, ao se ionizarem em solução aquosa, liberam como cátion apenas o íon H⁺.\n\nConsidere as seguintes substâncias, que apresentam hidrogênio em sua composição: C2H6, H2SO4, NaOH, NH4Cl.\n\nDentre elas, aquela classificada como ácido, segundo a definição de Arrhenius, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C2H6"
+      },
+      {
+        "letter": "B",
+        "text": "H2SO4"
+      },
+      {
+        "letter": "C",
+        "text": "NaOH"
+      },
+      {
+        "letter": "D",
+        "text": "NH4Cl"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ter hidrogênio na fórmula não basta: é preciso liberá-lo como H⁺ em água. O etano (C2H6) é hidrocarboneto e não se ioniza; o NaOH é base, pois libera OH⁻; o NH4Cl é sal, que se dissocia em NH4⁺ e Cl⁻. Apenas o H2SO4 ioniza-se produzindo H⁺ como único cátion, sendo o ácido segundo Arrhenius.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q39",
     "exam": "uerj",
     "year": 2018,
@@ -8543,6 +9879,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q39",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 39,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Observe a curva característica de operação de um gerador: no gráfico da tensão U (em volts) em função da corrente i (em ampères), a reta parte de U = 24 V para i = 0 e chega a U = 0 para i = 8 A, passando por U = 18 V em i = 2 A e por U = 9 V em i = 5 A.\n\nCom base nos dados, a resistência interna do gerador, em ohm, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0"
+      },
+      {
+        "letter": "B",
+        "text": "3,0"
+      },
+      {
+        "letter": "C",
+        "text": "4,0"
+      },
+      {
+        "letter": "D",
+        "text": "6,0"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A equação do gerador é U = ε − r·i, de modo que a reta tem coeficiente angular igual a −r. A força eletromotriz é o valor de U para corrente nula: ε = 24 V. A corrente de curto-circuito, em que U = 0, é 8 A. Assim, r = ε/i(curto) = 24 ÷ 8 = 3,0 Ω — resultado confirmado pelos pontos intermediários, já que 24 − 3 × 2 = 18 V e 24 − 3 × 5 = 9 V.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8582,6 +9954,42 @@
     }
   },
   {
+    "id": "uerj-2018-q40",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 40,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Os capilares são os vasos sanguíneos que permitem, por difusão, as trocas de substâncias, como nutrientes, excretas e gases, entre o sangue e as células.\n\nEssa troca de substâncias é favorecida pela seguinte característica dos capilares:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "camada tecidual única"
+      },
+      {
+        "letter": "B",
+        "text": "presença de válvulas móveis"
+      },
+      {
+        "letter": "C",
+        "text": "túnica muscular desenvolvida"
+      },
+      {
+        "letter": "D",
+        "text": "capacidade de contração intensa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A parede dos capilares é formada por uma única camada de células endoteliais, apoiada numa delgada lâmina basal. Essa espessura mínima encurta ao máximo a distância que gases e solutos precisam percorrer, tornando a difusão eficiente. Válvulas são características das veias, e camadas musculares espessas, das artérias — ambas dificultariam a troca.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q41",
     "exam": "uerj",
     "year": 2018,
@@ -8615,6 +10023,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q41",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 41,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A exposição ao benzopireno é associada ao aumento de casos de câncer. Trata-se de um hidrocarboneto policíclico aromático formado por cinco anéis condensados, cuja fórmula molecular, obtida a partir de sua fórmula estrutural, é C20H12.\n\nCom base nessa fórmula, a razão entre o número de átomos de carbono e o de hidrogênio, presentes no benzopireno, corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3/7"
+      },
+      {
+        "letter": "B",
+        "text": "6/5"
+      },
+      {
+        "letter": "C",
+        "text": "7/6"
+      },
+      {
+        "letter": "D",
+        "text": "5/3"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A razão pedida é 20 carbonos para 12 hidrogênios, isto é, 20/12. Dividindo numerador e denominador pelo máximo divisor comum, 4, obtém-se a fração irredutível 5/3.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8654,6 +10098,42 @@
     }
   },
   {
+    "id": "uerj-2018-q42",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 42,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Para explicar o princípio das trocas de calor, um professor realiza uma experiência, misturando em um recipiente térmico 300 g de água a 80 °C com 200 g de água a 10 °C.\n\nDesprezadas as perdas de calor para o recipiente e para o meio externo, a temperatura de equilíbrio térmico da mistura, em °C, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "52"
+      },
+      {
+        "letter": "B",
+        "text": "45"
+      },
+      {
+        "letter": "C",
+        "text": "35"
+      },
+      {
+        "letter": "D",
+        "text": "28"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Como as duas porções são da mesma substância, a temperatura de equilíbrio é a média ponderada pelas massas: (300 × 80 + 200 × 10) ÷ (300 + 200) = (24 000 + 2 000) ÷ 500 = 26 000 ÷ 500 = 52 °C. O resultado fica mais próximo de 80 °C porque a porção quente é maior.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q43",
     "exam": "uerj",
     "year": 2018,
@@ -8687,6 +10167,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q43",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 43,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Junções comunicantes ou junções gap, um tipo de adaptação da membrana plasmática encontrada em células animais, permitem a comunicação entre os citoplasmas de células vizinhas.\n\nEsse tipo de associação entre as células proporciona o seguinte resultado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "forte adesão"
+      },
+      {
+        "letter": "B",
+        "text": "barreira de proteção"
+      },
+      {
+        "letter": "C",
+        "text": "integração funcional"
+      },
+      {
+        "letter": "D",
+        "text": "exocitose de substâncias"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As junções gap formam canais que ligam diretamente os citoplasmas de células vizinhas, permitindo a passagem de íons e pequenas moléculas. Isso sincroniza a atividade do conjunto — como ocorre no músculo cardíaco, em que o sinal elétrico se propaga de célula a célula. A função é, portanto, de integração funcional. Adesão forte cabe aos desmossomos, e vedação, às junções oclusivas.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8726,6 +10242,79 @@
     }
   },
   {
+    "id": "uerj-2018-q44",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 44,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Ambiental"
+    ],
+    "statement": "A capacidade poluidora de um hidrocarboneto usado como combustível é determinada pela razão entre a energia liberada e a quantidade de CO2 formada em sua combustão completa. Quanto maior a razão, menor a capacidade poluidora. A tabela abaixo apresenta a entalpia-padrão de combustão de quatro hidrocarbonetos:\n\noctano (C8H18) — −5440 kJ/mol\nhexano (C6H14) — −4140 kJ/mol\nbenzeno (C6H6) — −3270 kJ/mol\npentano (C5H12) — −3510 kJ/mol\n\nA partir da tabela, o hidrocarboneto com a menor capacidade poluidora é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "octano"
+      },
+      {
+        "letter": "B",
+        "text": "hexano"
+      },
+      {
+        "letter": "C",
+        "text": "benzeno"
+      },
+      {
+        "letter": "D",
+        "text": "pentano"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cada mol de hidrocarboneto produz, na combustão completa, tantos mols de CO2 quantos forem seus carbonos. Dividindo a energia liberada pelo número de carbonos: octano, 5440 ÷ 8 = 680 kJ; hexano, 4140 ÷ 6 = 690 kJ; benzeno, 3270 ÷ 6 = 545 kJ; pentano, 3510 ÷ 5 = 702 kJ. O pentano apresenta a maior razão energia/CO2 e, portanto, a menor capacidade poluidora.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q45",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 45,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma luminária com peso de 76 N está suspensa por um aro e por dois fios ideais. As retas AB e BC representam os fios, cada um medindo 3,0 m; A e C estão fixos no teto, na mesma horizontal, e B é o ponto de onde pende a luminária. O ponto D corresponde ao ponto médio entre A e C, e o segmento vertical BD mede 1,2 m.\n\nSendo A, C e D pontos situados na mesma horizontal, a tração no fio AB, em newtons, equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "47,5"
+      },
+      {
+        "letter": "B",
+        "text": "68,0"
+      },
+      {
+        "letter": "C",
+        "text": "95,0"
+      },
+      {
+        "letter": "D",
+        "text": "102,5"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Por simetria, os dois fios suportam trações iguais e cada um faz com a horizontal um ângulo θ tal que sen θ = BD/AB = 1,2 ÷ 3,0 = 0,4. No equilíbrio, a soma das componentes verticais das trações equilibra o peso: 2·T·sen θ = 76. Assim, 2 · T · 0,4 = 76, o que dá T = 76 ÷ 0,8 = 95,0 N.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q46",
     "exam": "uerj",
     "year": 2018,
@@ -8759,6 +10348,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q46",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 46,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Genética"
+    ],
+    "statement": "Várias plantas possuem flores hermafroditas, ou seja, que apresentam os dois sexos. Em alguns desses casos, as estruturas femininas, os estigmas, estão posicionadas acima das estruturas masculinas, as anteras.\n\nEsse arranjo das partes reprodutoras está diretamente associado à seguinte vantagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atração de insetos"
+      },
+      {
+        "letter": "B",
+        "text": "proteção ovariana"
+      },
+      {
+        "letter": "C",
+        "text": "dispersão do pólen"
+      },
+      {
+        "letter": "D",
+        "text": "variabilidade genética"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Com o estigma acima das anteras, o pólen liberado tende a cair para fora do alcance do próprio estigma, dificultando a autopolinização e favorecendo a chegada de pólen de outra planta. A polinização cruzada recombina genomas distintos e aumenta a variabilidade genética da descendência — vantagem adaptativa diante de mudanças ambientais e de patógenos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8798,6 +10424,42 @@
     }
   },
   {
+    "id": "uerj-2018-q47",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 47,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Em análises metalúrgicas, emprega-se uma solução denominada nital, obtida pela solubilização do ácido nítrico em etanol. Um laboratório de análises metalúrgicas dispõe de uma solução aquosa de ácido nítrico com concentração de 60% m/m e densidade de 1,4 kg/L. O volume de 2,0 mL dessa solução é solubilizado em quantidade de etanol suficiente para obter 100,0 mL de solução nital.\n\nCom base nas informações, a concentração de ácido nítrico, em g·L⁻¹, na solução nital é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10,5"
+      },
+      {
+        "letter": "B",
+        "text": "14,0"
+      },
+      {
+        "letter": "C",
+        "text": "16,8"
+      },
+      {
+        "letter": "D",
+        "text": "21,6"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A densidade de 1,4 kg/L equivale a 1,4 g/mL, de modo que 2,0 mL da solução aquosa têm massa de 2,8 g. Como 60% dessa massa é ácido nítrico, há 0,60 × 2,8 = 1,68 g de HNO3. Esse ácido passa a ocupar 100,0 mL, ou 0,1 L, de nital. A concentração é, portanto, 1,68 ÷ 0,1 = 16,8 g·L⁻¹.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q48",
     "exam": "uerj",
     "year": 2018,
@@ -8831,6 +10493,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q48",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População",
+      "Geopolítica"
+    ],
+    "statement": "Imagens noturnas obtidas por satélite de sensoriamento remoto mostram a luminosidade dos principais núcleos de povoamento da Síria — Aleppo, Raqqa, Deir ez-Zor, Homs e Damasco — em março de 2012 e em dezembro de 2014. Na comparação, observa-se drástica redução das áreas iluminadas em quase todo o território, com exceção da região de Damasco.\n\nAdaptado de O Globo, 06/03/2016.\n\nConsiderando o contexto sírio no período indicado nas imagens, uma explicação para a mudança no padrão de distribuição espacial da população é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução da expectativa de vida"
+      },
+      {
+        "letter": "B",
+        "text": "elevação da taxa de emigração"
+      },
+      {
+        "letter": "C",
+        "text": "aumento da insalubridade urbana"
+      },
+      {
+        "letter": "D",
+        "text": "diminuição do índice de fecundidade"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Entre 2012 e 2014 a guerra civil síria se generalizou, provocando o maior deslocamento populacional recente: milhões de pessoas deixaram suas cidades rumo a países vizinhos e à Europa, e outras tantas se tornaram deslocadas internas. O apagamento das luzes registra esse esvaziamento. Mudanças na expectativa de vida ou na fecundidade não produziriam efeito tão rápido e tão localizado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8870,6 +10569,42 @@
     }
   },
   {
+    "id": "uerj-2018-q49",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "O Programa Fome Zero em seu primeiro ano (2003) quase dobrou a meta, atendendo 1,9 milhão de famílias. O Programa Bolsa Família, que também integra o Fome Zero, foi classificado pelo jornal americano The New York Times como o maior programa do mundo de transferência de renda. Esse programa atendeu cerca de 3,6 milhões de pessoas com uma bolsa de R$ 72,81 em média por mês. A distribuição de cestas básicas chegou a mais de 250 mil famílias, levando comida para cerca de 1,3 milhão de pessoas. Já as compras da agricultura familiar, além de garantirem a produção e a comercialização dos produtos, estão ampliando a renda de cerca de 6,4 mil famílias, beneficiando mais de 32 mil pessoas. Além disso, mais de 290 mil famílias estão incluídas nos programas de distribuição emergencial de água ou no programa de cisternas.\n\nAdaptado de correiodobrasil.com.br, 07/01/2004.\n\nO Programa Fome Zero integrou ações governamentais destinadas à melhoria das condições de vida de segmentos específicos da sociedade brasileira. Um dos principais resultados desse programa, a médio prazo, foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução da mortalidade infantil"
+      },
+      {
+        "letter": "B",
+        "text": "erradicação do desemprego rural"
+      },
+      {
+        "letter": "C",
+        "text": "estabilização da migração populacional"
+      },
+      {
+        "letter": "D",
+        "text": "redistribuição do operariado qualificado"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As ações descritas atacam diretamente a insegurança alimentar e o acesso à água — transferência de renda, cestas básicas, cisternas —, condicionando ainda o benefício ao acompanhamento de saúde e à vacinação das crianças. O efeito mais bem documentado foi a queda da desnutrição e, com ela, da mortalidade infantil, sobretudo no semiárido nordestino. O programa não tinha como objeto o emprego rural nem a qualificação do operariado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q50",
     "exam": "uerj",
     "year": 2018,
@@ -8903,6 +10638,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q50",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 50,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Na entrada do campo Auschwitz I, lia-se no portão: Arbeit macht frei (“O trabalho liberta”). No decorrer da Segunda Guerra Mundial (1939-1945), campos de concentração foram criados em vários países europeus, sendo um dos maiores o complexo de Auschwitz, na Polônia. Para lá, eram enviados em massa aqueles considerados inimigos da nação alemã. Primo Levi, judeu e antifascista, no fim de 1943, aos 24 anos, foi preso pela polícia italiana e entregue às forças de ocupação alemãs, fechando-se atrás dele o portão do campo com essa inscrição.\n\nDe acordo com a imagem e com o texto, a frase “O trabalho liberta” apontava para a seguinte estratégia do projeto nazista:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "treinamento de capitais humanos"
+      },
+      {
+        "letter": "B",
+        "text": "controle de recursos de pesquisas"
+      },
+      {
+        "letter": "C",
+        "text": "exclusão de operários improdutivos"
+      },
+      {
+        "letter": "D",
+        "text": "exploração da mão de obra dos reclusos"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A inscrição prometia liberdade pelo trabalho a quem entrava num campo em que o trabalho era, na prática, instrumento de extermínio. Os prisioneiros eram empregados em fábricas, minas e obras — inclusive de empresas alemãs instaladas junto aos campos — até o esgotamento físico. A frase encobria, portanto, a exploração da mão de obra dos reclusos, e não qualquer forma de qualificação ou seleção produtiva.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -8942,6 +10713,43 @@
     }
   },
   {
+    "id": "uerj-2018-q51",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Física"
+    ],
+    "statement": "Em meio à crise hídrica enfrentada pelo Espírito Santo, um projeto ambiental incentiva pequenos agricultores a adotarem medidas que ajudam a recuperar nascentes. A iniciativa faz parte do projeto Olhos D'Água, do fotógrafo Sebastião Salgado, que recuperou em sua propriedade uma área da Mata Atlântica e, por consequência, nascentes. Os beneficiados pelo projeto não sofreram muito com a seca: nascentes das fazendas estão cercadas com arame, o gado não chega perto, e mudas de árvores foram plantadas em volta. Até agora, mais de 1200 nascentes já estão protegidas com esse tipo de intervenção.\n\nAdaptado de g1.globo.com, 11/03/2015.\n\nO impacto da intervenção citada sobre a bacia hidrográfica local é a redução ao longo do ano da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "área da várzea"
+      },
+      {
+        "letter": "B",
+        "text": "carga do aquífero"
+      },
+      {
+        "letter": "C",
+        "text": "oscilação da vazão"
+      },
+      {
+        "letter": "D",
+        "text": "taxa de infiltração"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Recompor a vegetação no entorno das nascentes aumenta a infiltração e reduz o escoamento superficial: a água da chuva passa a abastecer o lençol freático e é devolvida lentamente aos cursos d'água. O rio deixa de responder de forma abrupta às chuvas e não seca tanto na estiagem — isto é, a vazão fica mais regular ao longo do ano. As alternativas B e D indicam justamente o contrário do efeito pretendido.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q53",
     "exam": "uerj",
     "year": 2018,
@@ -8975,6 +10783,43 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q53",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 53,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Tínhamos a incumbência de reelaborar nosso passado sombrio, contribuindo assim para tratar um povo traumatizado e ferido. Uma tarefa grandiosa, já que todos os sul-africanos tinham suas lesões. Queríamos obter a unidade da nação e a reconciliação.\n\nDESMOND TUTU. Adaptado de dw.com, 29/10/2008.\n\nO arcebispo Desmond Tutu dirigiu a Comissão da Verdade na África do Sul, entre 1996 e 1998, durante o governo do presidente Nelson Mandela. Ao propor “a unidade da nação e a reconciliação”, o arcebispo buscava enfrentar os problemas causados pela vigência do regime de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "segregação racial"
+      },
+      {
+        "letter": "B",
+        "text": "natureza totalitária"
+      },
+      {
+        "letter": "C",
+        "text": "ordenamento cultural"
+      },
+      {
+        "letter": "D",
+        "text": "disciplinarização social"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O passado sombrio a que Tutu se refere é o apartheid, vigente de 1948 a 1994: um sistema legal de separação racial que reservava à minoria branca o poder político e econômico e confinava a maioria negra a territórios, escolas e serviços próprios. A Comissão da Verdade e Reconciliação foi criada para apurar os crimes desse regime sem recorrer à punição generalizada, buscando reconstruir a nação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -9014,6 +10859,42 @@
     }
   },
   {
+    "id": "uerj-2018-q54",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 54,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "No dia 25 de dezembro de 1991, Mikhail Gorbachov vivia suas últimas horas no Kremlin. Aquele foi um dia de esperança para milhões de pessoas na Rússia, que viam o futuro com otimismo. Também foi um momento de luto para outros milhões, agora ex-cidadãos soviéticos. O novo mapa significou para muitos ter de abandonar o lugar em que haviam nascido, deixar lá familiares e relíquias. “Quando foi arriada a bandeira vermelha fiquei em estado de choque”, lembra Serguei Kosarev, que tinha então 37 anos. “Eu, nascido em Sochi, tinha terminado o ensino médio no Cazaquistão. De repente, meus amigos, minha juventude, ficaram para trás em outros países. [...] No final, no meu caso tudo foi para o bem, recuperei a religião dos meus antepassados, como outros milhões de ortodoxos, e vi meio mundo; nem uma coisa nem outra teriam sido possíveis na U.R.S.S.”, conclui.\n\nAdaptado de brasil.elpais.com, 23/12/2016.\n\nDe acordo com a reportagem, o fim da U.R.S.S. trouxe as seguintes consequências:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "recuperação da liberdade sindical e perda da ideologia comunista"
+      },
+      {
+        "letter": "B",
+        "text": "liberalização da iniciativa industrial e abandono da unidade comercial"
+      },
+      {
+        "letter": "C",
+        "text": "ampliação do direito trabalhista e enfraquecimento do poderio militar"
+      },
+      {
+        "letter": "D",
+        "text": "fragmentação do território nacional e redimensionamento da identidade cultural"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O depoimento articula exatamente esses dois efeitos: o “novo mapa”, que transformou em estrangeiros os amigos deixados no Cazaquistão, corresponde à fragmentação do território soviético em quinze repúblicas; e a recuperação da “religião dos meus antepassados”, ao lado de milhões de outros ortodoxos, corresponde à redefinição das referências culturais e identitárias antes moldadas pelo Estado soviético.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q55",
     "exam": "uerj",
     "year": 2018,
@@ -9047,6 +10928,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q55",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Um gráfico da mortalidade e da natalidade na Alemanha mostra que, entre 2010 e 2014, o número de mortes superou sistematicamente o de nascimentos: 858 768 mortes contra 677 947 nascimentos em 2011, 869 582 contra 673 544 em 2012, 893 825 contra 682 069 em 2013, e valores semelhantes nos demais anos.\n\nEm 31 de agosto de 2015, a chanceler federal alemã, Angela Merkel, proferiu a emblemática frase que virou slogan de sua política migratória: wir schaffen das – “nós vamos conseguir”. Em 4 de setembro de 2015, a crise de refugiados bateu com força à porta da Alemanha, quando Merkel permitiu a entrada no país de milhares de migrantes retidos na Hungria. No total, a Alemanha recebeu quase um milhão de refugiados em 2015.\n\nAdaptado de dw.com, 31/08/2016.\n\nConsiderando a análise dos dados do gráfico, uma razão para a política migratória adotada pela chanceler alemã é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevação do nível salarial"
+      },
+      {
+        "letter": "B",
+        "text": "redução de custos trabalhistas"
+      },
+      {
+        "letter": "C",
+        "text": "recomposição da população ativa"
+      },
+      {
+        "letter": "D",
+        "text": "importação de operários qualificados"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com mais óbitos que nascimentos há anos, a população alemã encolhe e envelhece: diminui o contingente em idade de trabalhar e cresce a pressão sobre o sistema previdenciário. A chegada de imigrantes, em geral jovens, repõe a força de trabalho e ajuda a sustentar a arrecadação. A opção D não se justifica pelos dados, já que os refugiados não chegavam selecionados por qualificação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -9086,6 +11003,43 @@
     }
   },
   {
+    "id": "uerj-2018-q56",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial",
+      "Geopolítica"
+    ],
+    "statement": "A empresa-rede pode realizar uma integração horizontal quando as diferentes unidades de produção fabricam produtos finais que constituem a essência do fluxo entre unidades que estão localizadas em países diferentes. Trata-se, na realidade, de uma especialização por produto. Um exemplo é a organização da Toyota no sudeste asiático, cuja distribuição de unidades de produção entre Tailândia, Malásia, Filipinas e Indonésia gera intenso fluxo intracorporativo.\n\nAdaptado de PIRES DO RIO, G. A espacialidade da economia. In: CASTRO, I. e outros. Olhares geográficos. Rio de Janeiro: Bertrand Brasil, 2012.\n\nO sucesso da estratégia empresarial descrita depende da seguinte característica econômica entre os países participantes:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reduzidos índices de tarifas aduaneiras"
+      },
+      {
+        "letter": "B",
+        "text": "eficientes sistemas de proteção laboral"
+      },
+      {
+        "letter": "C",
+        "text": "elevados níveis de desenvolvimento tecnológico"
+      },
+      {
+        "letter": "D",
+        "text": "semelhantes magnitudes de mercados consumidores"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Se cada unidade se especializa em um produto ou componente que precisa cruzar fronteiras repetidas vezes até o produto final, cada travessia sujeita a imposto encareceria a operação. A estratégia só se sustenta com baixas tarifas aduaneiras entre os países envolvidos — condição garantida, no caso, pelos acordos de integração da ASEAN. Nem o mesmo nível tecnológico nem mercados de tamanho semelhante são exigidos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q57",
     "exam": "uerj",
     "year": 2018,
@@ -9119,6 +11073,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q57",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Em três representações do território do Reino Unido — na latitude da Groenlândia, em sua localização real e nas proximidades da Linha do Equador —, a área desenhada do país aumenta enormemente à medida que se aproxima dos polos e diminui à medida que se aproxima do Equador, embora o território seja sempre o mesmo.\n\nAdaptado de slightlywarped.com.\n\nNas representações acima do território do Reino Unido, em três latitudes diferentes, foi utilizada a projeção cartográfica de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Peters"
+      },
+      {
+        "letter": "B",
+        "text": "Lambert"
+      },
+      {
+        "letter": "C",
+        "text": "Mercator"
+      },
+      {
+        "letter": "D",
+        "text": "Robinson"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A projeção de Mercator é cilíndrica e conforme: preserva os ângulos, o que a tornou essencial à navegação, mas deforma progressivamente as áreas em direção aos polos. Por isso um mesmo território parece muito maior quando desenhado em latitudes altas e menor perto do Equador — exatamente o efeito mostrado. A projeção de Peters, ao contrário, é equivalente e mantém as áreas proporcionais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -9158,6 +11148,42 @@
     }
   },
   {
+    "id": "uerj-2018-q58",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 58,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Em abril de 1996, 19 camponeses sem-terra foram mortos pela polícia militar no episódio que ficou mundialmente conhecido como Massacre de Eldorado de Carajás, ocorrido no sudeste do Pará. Os participantes do Movimento dos Sem Terra faziam uma caminhada até a cidade de Belém, quando foram impedidos pela polícia de prosseguir. Mais de 150 policiais foram destacados para interromper a caminhada, o que levou a uma ação repressiva extremamente violenta. Reportagens recentes registram episódios semelhantes, como atos em solidariedade a dez vítimas de novos conflitos no campo.\n\nAdaptado de anistia.org.br e redebrasilatual.com.br.\n\nComo indicam os episódios retratados nas reportagens, os conflitos pela posse da terra no Brasil nas últimas décadas persistem. Esses conflitos são decorrentes do seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desqualificação do trabalhador rural"
+      },
+      {
+        "letter": "B",
+        "text": "encarecimento de insumos agrícolas"
+      },
+      {
+        "letter": "C",
+        "text": "reformulação de legislação específica"
+      },
+      {
+        "letter": "D",
+        "text": "concentração da propriedade fundiária"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A violência no campo brasileiro tem origem na estrutura fundiária: uma minoria de grandes proprietários detém a maior parte das terras, enquanto milhões de famílias permanecem sem acesso a elas. Diante da lentidão da reforma agrária, os movimentos organizam ocupações e marchas, que são respondidas com repressão e com a ação de milícias privadas. Insumos e legislação afetam a produção, mas não geram esse tipo de conflito.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q59",
     "exam": "uerj",
     "year": 2018,
@@ -9194,6 +11220,42 @@
     }
   },
   {
+    "id": "uerj-2018-q59",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 59,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "A pirâmide demográfica retrata não apenas a distribuição etária da população em dado momento, como também os eventos marcantes da história de uma determinada sociedade. Na pirâmide da população russa de 2010, dois estreitamentos acentuados aparecem destacados: um correspondente às pessoas nascidas durante a Segunda Guerra Mundial (1939-1945) e outro correspondente às nascidas na crise após o fim da U.R.S.S. (1991-2001).\n\nAdaptado de commons.wikimedia.org.\n\nAs anomalias em destaque na estrutura etária russa estão relacionadas com os dois eventos históricos apontados, tendo em vista que estes contribuíram decisivamente para a redução dos valores do seguinte indicador demográfico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "saldo da migração"
+      },
+      {
+        "letter": "B",
+        "text": "taxa de natalidade"
+      },
+      {
+        "letter": "C",
+        "text": "expectativa de vida"
+      },
+      {
+        "letter": "D",
+        "text": "razão de dependência"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os estreitamentos aparecem em faixas etárias específicas, correspondentes a quem nasceu durante a guerra e durante a crise dos anos 1990. Isso indica que, nesses períodos, nasceram menos crianças: homens mobilizados ou mortos no front, famílias separadas e, depois, insegurança econômica levaram os casais a adiar filhos. O indicador afetado é, portanto, a taxa de natalidade, que se inscreve permanentemente na base da pirâmide.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2018-eq1-q60",
     "exam": "uerj",
     "year": 2018,
@@ -9227,6 +11289,42 @@
     "source": {
       "institution": "UERJ",
       "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-q60",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 60,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Uma linha do tempo intitulada “O caminho do Vietnã, de inimigo dos E.U.A. a parceiro comercial” registra: 1975, o Vietnã do Norte invade Saigon e os últimos americanos fogem em helicópteros; 1976, o país se unifica; 1992, uma nova Constituição consolida as reformas econômicas; 1994, os Estados Unidos suspendem o embargo comercial; 1995, restabelecem-se as relações diplomáticas; 2001, entra em vigor o acordo comercial bilateral; e 2007, o Vietnã ingressa na Organização Mundial do Comércio.\n\nOs conflitos e aproximações entre os governos dos E.U.A. e do Vietnã, nas últimas décadas, indicam mudanças expressivas nas relações internacionais contemporâneas. Nesse contexto geo-histórico, o ingresso do Vietnã na OMC associou-se ao seguinte aspecto da economia global:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integração financeira estimulada pela extinção do regime comunista"
+      },
+      {
+        "letter": "B",
+        "text": "democratização política derivada da crise das ex-repúblicas soviéticas"
+      },
+      {
+        "letter": "C",
+        "text": "modernização tecnológica equiparada com países do Extremo Oriente"
+      },
+      {
+        "letter": "D",
+        "text": "dinamização produtiva relacionada à industrialização do Sudeste Asiático"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Vietnã seguiu o caminho da abertura econômica com manutenção do regime de partido único — as reformas do Doi Moi —, tornando-se destino de indústrias transferidas por empresas transnacionais em busca de mão de obra barata, como já ocorrera na Tailândia, na Malásia e na Indonésia. A entrada na OMC, em 2007, consolidou essa inserção produtiva no Sudeste Asiático. A alternativa A é falsa: o regime comunista não foi extinto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 17/09/2017), caderno de questões e gabarito oficial."
     }
   },
   {
