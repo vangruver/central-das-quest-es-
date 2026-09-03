@@ -1,5 +1,2965 @@
 [
   {
+    "id": "enem-2012-q02",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 2,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Esclarecimento é a saída do homem de sua menoridade, da qual ele próprio é culpado. A menoridade é a incapacidade de fazer uso de seu entendimento sem a direção de outro indivíduo. O homem é o próprio culpado dessa menoridade se a causa dela não se encontra na falta de entendimento, mas na falta de decisão e coragem de servir-se de si mesmo sem a direção de outrem. Tem coragem de fazer uso de teu próprio entendimento, tal é o lema do esclarecimento. A preguiça e a covardia são as causas pelas quais uma tão grande parte dos homens, depois que a natureza de há muito os libertou de uma condição estranha, continuem, no entanto, de bom grado menores durante toda a vida.\n\nKANT, I. Resposta à pergunta: o que é esclarecimento? Petrópolis: Vozes, 1985 (adaptado).\n\nKant destaca no texto o conceito de Esclarecimento, fundamental para a compreensão do contexto filosófico da Modernidade. Esclarecimento, no sentido empregado por Kant, representa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a reivindicação de autonomia da capacidade racional como expressão da maioridade"
+      },
+      {
+        "letter": "B",
+        "text": "o exercício da racionalidade como pressuposto menor diante das verdades eternas"
+      },
+      {
+        "letter": "C",
+        "text": "a imposição de verdades matemáticas, com caráter objetivo, de forma heterônoma"
+      },
+      {
+        "letter": "D",
+        "text": "a compreensão de verdades religiosas que libertam o homem da falta de entendimento"
+      },
+      {
+        "letter": "E",
+        "text": "a emancipação da subjetividade humana de ideologias produzidas pela própria razão"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Kant define a menoridade como a incapacidade de usar o próprio entendimento sem a direção de outro. Sair dela é justamente passar a pensar por si mesmo - a maioridade -, o que exige coragem e decisão, não mais conhecimento. O Esclarecimento é, portanto, a conquista da autonomia da razão: o sujeito deixa de se submeter à tutela alheia e passa a se governar pelo próprio entendimento. As alternativas (B), (C) e (D) subordinam a razão a verdades externas - eternas, matemáticas impostas ou religiosas -, exatamente a heteronomia que Kant combate; e (E) inverte o argumento, pois para ele a razão é o instrumento da emancipação, não aquilo de que é preciso se emancipar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q03",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 3,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "TEXTO I\n\nO que vemos no país é uma espécie de espraiamento e a manifestação da agressividade através da violência. Isso se desdobra de maneira evidente na criminalidade, que está presente em todos os redutos - seja nas áreas abandonadas pelo poder público, seja na política ou no futebol. O brasileiro não é mais violento do que outros povos, mas a fragilidade do exercício e do reconhecimento da cidadania e a ausência do Estado em vários territórios do país se impõem como um caldo de cultura no qual a agressividade e a violência fincam suas raízes.\nEntrevista com Joel Birman. A corrupção é um crime sem rosto. IstoÉ, edição 2099, 3 fev. 2010.\n\nTEXTO II\n\nNenhuma sociedade pode sobreviver sem canalizar as pulsões e emoções do indivíduo, sem um controle muito específico de seu comportamento. Nenhum controle desse tipo é possível sem que as pessoas anteponham limitações umas às outras, e todas as limitações são convertidas, na pessoa a quem são impostas, em medo de um ou outro tipo.\nELIAS, N. O Processo Civilizador. Rio de Janeiro: Jorge Zahar, 1993.\n\nConsiderando-se a dinâmica do processo civilizador, tal como descrito no Texto II, o argumento do Texto I acerca da violência e agressividade na sociedade brasileira expressa a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incompatibilidade entre os modos democráticos de convívio social e a presença de aparatos de controle policial"
+      },
+      {
+        "letter": "B",
+        "text": "manutenção de práticas repressivas herdadas dos períodos ditatoriais sob a forma de leis e atos administrativos"
+      },
+      {
+        "letter": "C",
+        "text": "inabilidade das forças militares em conter a violência decorrente das ondas migratórias nas grandes cidades brasileiras"
+      },
+      {
+        "letter": "D",
+        "text": "dificuldade histórica da sociedade brasileira em institucionalizar formas de controle social compatíveis com valores democráticos"
+      },
+      {
+        "letter": "E",
+        "text": "incapacidade das instituições político-legislativas em formular mecanismos de controle social específicos à realidade social brasileira"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Elias sustenta que toda sociedade precisa de mecanismos que canalizem as pulsões individuais. Birman afirma que o brasileiro não é mais violento que outros povos - o problema não está nas pessoas, mas na \"fragilidade do exercício e do reconhecimento da cidadania\" e na \"ausência do Estado em vários territórios\". Cruzando os dois textos, o que falta é justamente a institucionalização desses controles em bases democráticas, isto é, fundadas na cidadania. A alternativa (E) chega perto, mas atribui o problema à incapacidade de legislar, quando o texto aponta a ausência do Estado no território e a fragilidade da cidadania - questão histórica, não legislativa. A alternativa (A) contraria Elias, para quem controle e convívio civilizado são inseparáveis.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q04",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 4,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Com sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania. Claro que, em tempos de guerra, um gibi de um herói com uma bandeira americana no peito aplicando um sopapo no Führer só poderia ganhar destaque, e o sucesso não demoraria muito a chegar.\n\nCOSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br. Acesso em: 27 jan. 2012 (adaptado).\n\nA capa da primeira edição norte-americana da revista do Capitão América demonstra sua associação com a participação dos Estados Unidos na luta contra",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a Tríplice Aliança, na Primeira Guerra Mundial"
+      },
+      {
+        "letter": "B",
+        "text": "os regimes totalitários, na Segunda Guerra Mundial"
+      },
+      {
+        "letter": "C",
+        "text": "o poder soviético, durante a Guerra Fria"
+      },
+      {
+        "letter": "D",
+        "text": "o movimento comunista, na Guerra do Vietnã"
+      },
+      {
+        "letter": "E",
+        "text": "o terrorismo internacional, após 11 de setembro de 2001"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O próprio texto identifica o alvo do herói: o Führer, isto é, Adolf Hitler. A revista estreou em 1941, quando a Alemanha nazista, a Itália fascista e o Japão formavam o Eixo, e o personagem foi criado como peça de propaganda contra os regimes totalitários na Segunda Guerra Mundial. A menção a Hitler exclui de imediato todas as outras alternativas, situadas em conflitos anteriores ou posteriores - a Primeira Guerra, a Guerra Fria, o Vietnã e o pós-11 de setembro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q05",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 5,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Torna-se claro que quem descobriu a África no Brasil, muito antes dos europeus, foram os próprios africanos trazidos como escravos. E esta descoberta não se restringia apenas ao reino linguístico, estendia-se também a outras áreas culturais, inclusive à da religião. Há razões para pensar que os africanos, quando misturados e transportados ao Brasil, não demoraram em perceber a existência entre si de elos culturais mais profundos.\n\nSLENES, R. Malungu, ngoma vem! África coberta e descoberta do Brasil. Revista USP, n. 12, dez./jan./fev. 1991-92 (adaptado).\n\nCom base no texto, ao favorecer o contato de indivíduos de diferentes partes da África, a experiência da escravidão no Brasil tornou possível a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "formação de uma identidade cultural afro-brasileira"
+      },
+      {
+        "letter": "B",
+        "text": "superação de aspectos culturais africanos por antigas tradições europeias"
+      },
+      {
+        "letter": "C",
+        "text": "reprodução de conflitos entre grupos étnicos africanos"
+      },
+      {
+        "letter": "D",
+        "text": "manutenção das características culturais específicas de cada etnia"
+      },
+      {
+        "letter": "E",
+        "text": "resistência à incorporação de elementos culturais indígenas"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto sustenta que os africanos, reunidos no Brasil vindos de regiões diversas, \"não demoraram em perceber a existência entre si de elos culturais mais profundos\" - na língua, na religião e em outras áreas. Esse reconhecimento mútuo permitiu que tradições de origens distintas se articulassem numa cultura comum, isto é, numa identidade afro-brasileira. A alternativa (D) contraria o argumento, pois o que ocorreu foi mistura e não preservação separada de cada etnia; (C) inverte o sentido do encontro, que o texto descreve como aproximação; e (B) e (E) tratam de relações com europeus e indígenas, que não estão em questão no trecho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q06",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 6,
+    "subjectId": "historia",
+    "topics": [
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Nós nos recusamos a acreditar que o banco da justiça é falível. Nós nos recusamos a acreditar que há capitais insuficientes de oportunidade nesta nação. Assim nós viemos trocar este cheque, um cheque que nos dará o direito de reclamar as riquezas de liberdade e a segurança da justiça.\n\nKING Jr., M. L. Eu tenho um sonho, 28 ago. 1963. Disponível em: www.palmares.gov.br. Acesso em: 30 nov. 2011 (adaptado).\n\nO cenário vivenciado pela população negra, no sul dos Estados Unidos nos anos 1950, conduziu à mobilização social. Nessa época, surgiram reivindicações que tinham como expoente Martin Luther King e objetivavam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a conquista de direitos civis para a população negra"
+      },
+      {
+        "letter": "B",
+        "text": "o apoio aos atos violentos patrocinados pelos negros em espaço urbano"
+      },
+      {
+        "letter": "C",
+        "text": "a supremacia das instituições religiosas em meio à comunidade negra sulista"
+      },
+      {
+        "letter": "D",
+        "text": "a incorporação dos negros no mercado de trabalho"
+      },
+      {
+        "letter": "E",
+        "text": "a aceitação da cultura negra como representante do modo de vida americano"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O sul dos Estados Unidos vivia sob as leis de segregação racial, as chamadas leis Jim Crow, que separavam negros e brancos em escolas, transportes e espaços públicos e restringiam o direito de voto. O discurso reivindica \"as riquezas de liberdade e a segurança da justiça\" prometidas pela Constituição e nunca cumpridas para a população negra - a metáfora do cheque a ser trocado. O movimento liderado por King buscava, portanto, a conquista de direitos civis. A alternativa (B) contraria seu princípio da não violência, e as demais apontam objetivos religiosos, econômicos ou culturais que não eram o eixo da mobilização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q07",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 7,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "É verdade que nas democracias o povo parece fazer o que quer; mas a liberdade política não consiste nisso. Deve-se ter sempre presente em mente o que é independência e o que é liberdade. A liberdade é o direito de fazer tudo o que as leis permitem; se um cidadão pudesse fazer tudo o que elas proíbem, não teria mais liberdade, porque os outros também teriam tal poder.\n\nMONTESQUIEU. Do Espírito das Leis. São Paulo: Editora Nova Cultural, 1997 (adaptado).\n\nA característica de democracia ressaltada por Montesquieu diz respeito",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ao status de cidadania que o indivíduo adquire ao tomar as decisões por si mesmo"
+      },
+      {
+        "letter": "B",
+        "text": "ao condicionamento da liberdade dos cidadãos à conformidade às leis"
+      },
+      {
+        "letter": "C",
+        "text": "à possibilidade de o cidadão participar no poder e, nesse caso, livre da submissão às leis"
+      },
+      {
+        "letter": "D",
+        "text": "ao livre-arbítrio do cidadão em relação àquilo que é proibido, desde que ciente das consequências"
+      },
+      {
+        "letter": "E",
+        "text": "ao direito do cidadão exercer sua vontade de acordo com seus valores pessoais"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Montesquieu distingue liberdade de independência. Liberdade não é fazer tudo o que se quer, e sim \"o direito de fazer tudo o que as leis permitem\". A razão é apresentada em seguida: se cada um pudesse violar as leis, todos poderiam, e ninguém estaria seguro - a liberdade de cada um depende do respeito de todos ao mesmo limite legal. A liberdade está, portanto, condicionada à conformidade às leis. As alternativas (C), (D) e (E) descrevem exatamente a independência que o autor recusa, e (A) desloca a questão para a formação da cidadania, que não é o tema do trecho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q09",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 9,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Na regulação de matérias culturalmente delicadas, como, por exemplo, a linguagem oficial, os currículos da educação pública, o status das Igrejas e das comunidades religiosas, as normas do direito penal (por exemplo, quanto ao aborto), mas também em assuntos menos chamativos, como, por exemplo, a posição da família e dos consórcios semelhantes ao matrimônio, a aceitação de normas de segurança ou a delimitação das esferas pública e privada - em tudo isso reflete-se amiúde apenas o autoentendimento ético-político de uma cultura majoritária, dominante por motivos históricos. Por causa de tais regras, implicitamente repressivas, mesmo dentro de uma comunidade republicana que garanta formalmente a igualdade de direitos para todos, pode eclodir um conflito cultural movido pelas minorias desprezadas contra a cultura da maioria.\n\nHABERMAS, J. A inclusão do outro: estudos de teoria política. São Paulo: Loyola, 2002.\n\nA reivindicação dos direitos culturais das minorias, como exposto por Habermas, encontra amparo nas democracias contemporâneas, na medida em que se alcança",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a secessão, pela qual a minoria discriminada obteria a igualdade de direitos na condição da sua concentração espacial, num tipo de independência nacional"
+      },
+      {
+        "letter": "B",
+        "text": "a reunificação da sociedade que se encontra fragmentada em grupos de diferentes comunidades étnicas, confissões religiosas e formas de vida, em torno da coesão de uma cultura política nacional"
+      },
+      {
+        "letter": "C",
+        "text": "a coexistência das diferenças, considerando a possibilidade de os discursos de autoentendimento se submeterem ao debate público, cientes de que estarão vinculados à coerção do melhor argumento"
+      },
+      {
+        "letter": "D",
+        "text": "a autonomia dos indivíduos que, ao chegarem à vida adulta, tenham condições de se libertar das tradições de suas origens em nome da harmonia da política nacional"
+      },
+      {
+        "letter": "E",
+        "text": "o desaparecimento de quaisquer limitações, tais como linguagem política ou distintas convenções de comportamento, para compor a arena política a ser compartilhada"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O problema apontado por Habermas é que normas aparentemente neutras expressam o autoentendimento de uma cultura majoritária. A saída, dentro de sua teoria da ação comunicativa, não é impor outra cultura nem dissolver as diferenças, mas submeter esses autoentendimentos ao debate público, em que só a força do melhor argumento prevalece - permitindo a coexistência das diferenças. As alternativas (A), (B) e (D) propõem separação territorial, assimilação numa cultura comum ou abandono das tradições de origem, todas soluções que suprimem a diferença em vez de acomodá-la; e (E) supõe uma arena sem qualquer regra, o que inviabilizaria o próprio debate.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q10",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 10,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "Mas uma coisa ouso afirmar, porque há muitos testemunhos, e é que vi nesta terra de Veragua [Panamá] maiores indícios de ouro nos dois primeiros dias do que na Hispaniola em quatro anos, e que as terras da região não podem ser mais bonitas nem mais bem lavradas. Ali, se quiserem podem mandar extrair à vontade.\n\nCarta de Colombo aos reis da Espanha, julho de 1503. Apud AMADO, J.; FIGUEIREDO, L. C. Colombo e a América: quinhentos anos depois. São Paulo: Atual, 1991 (adaptado).\n\nO documento permite identificar um interesse econômico espanhol na colonização da América a partir do século XV. A implicação desse interesse na ocupação do espaço americano está indicada na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expulsão dos indígenas para fortalecer o clero católico"
+      },
+      {
+        "letter": "B",
+        "text": "promoção das guerras justas para conquistar o território"
+      },
+      {
+        "letter": "C",
+        "text": "imposição da catequese para explorar o trabalho africano"
+      },
+      {
+        "letter": "D",
+        "text": "opção pela policultura para garantir o povoamento ibérico"
+      },
+      {
+        "letter": "E",
+        "text": "fundação de cidades para controlar a circulação de riquezas"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A carta revela o interesse central da colonização espanhola: os metais preciosos. Para explorá-los, a Coroa organizou o território em torno de núcleos urbanos - como Potosí, Zacatecas e Lima - que concentravam a administração, a cobrança de tributos como o quinto real e o escoamento do ouro e da prata até os portos. A rede de cidades era o instrumento de controle da circulação dessas riquezas. As alternativas (A) e (C) não decorrem do interesse aurífero e ignoram que o trabalho na mineração espanhola foi majoritariamente indígena, e (D) contraria o modelo colonial, voltado à extração e à exportação, não à policultura.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q11",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 11,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "Que é ilegal a faculdade que se atribui à autoridade real para suspender as leis ou seu cumprimento.\n\nQue é ilegal toda cobrança de impostos para a Coroa sem o concurso do Parlamento, sob pretexto de prerrogativa, ou em época e modo diferentes dos designados por ele próprio.\n\nQue é indispensável convocar com frequência os Parlamentos para satisfazer os agravos, assim como para corrigir, afirmar e conservar leis.\n\nDeclaração de Direitos. Disponível em: http://disciplinas.stoa.usp.br. Acesso em: 20 dez. 2011 (adaptado).\n\nNo documento de 1689, identifica-se uma particularidade da Inglaterra diante dos demais Estados europeus na Época Moderna. A peculiaridade inglesa e o regime político que predominavam na Europa continental estão indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Redução da influência do papa - Teocracia"
+      },
+      {
+        "letter": "B",
+        "text": "Limitação do poder do soberano - Absolutismo"
+      },
+      {
+        "letter": "C",
+        "text": "Ampliação da dominação da nobreza - República"
+      },
+      {
+        "letter": "D",
+        "text": "Expansão da força do presidente - Parlamentarismo"
+      },
+      {
+        "letter": "E",
+        "text": "Restrição da competência do congresso - Presidencialismo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Bill of Rights, resultado da Revolução Gloriosa, retira do rei três prerrogativas centrais: suspender leis, cobrar impostos e dispensar o Parlamento. Ao subordinar o soberano à lei e ao Parlamento, inaugura a monarquia constitucional inglesa. Enquanto isso, o continente europeu vivia o auge do absolutismo, em que o rei concentrava todos os poderes - o modelo de Luís XIV na França. As demais alternativas atribuem à Europa continental do século XVII regimes que ali não existiam, como república, parlamentarismo ou presidencialismo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q13",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 13,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O que o projeto governamental tem em vista é poupar à Nação o prejuízo irreparável do perecimento e da evasão do que há de mais precioso no seu patrimônio. Grande parte das obras de arte até mais valiosas e dos bens de maior interesse histórico, de que a coletividade brasileira era depositária, têm desaparecido ou se arruinado irremediavelmente. As obras de arte típicas e as relíquias da história de cada país não constituem o seu patrimônio privado, e sim um patrimônio comum de todos os povos.\n\nANDRADE, R. M. F. Defesa do patrimônio artístico e histórico. O Jornal, 30 out. 1936.\n\nA criação no Brasil do Serviço do Patrimônio Histórico Artístico Nacional (SPHAN), em 1937, foi orientada por ideias como as descritas no texto, que visavam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "submeter a memória e o patrimônio nacional ao controle dos órgãos públicos, de acordo com a tendência autoritária do Estado Novo"
+      },
+      {
+        "letter": "B",
+        "text": "transferir para a iniciativa privada a responsabilidade de preservação do patrimônio nacional, por meio de leis de incentivo fiscal"
+      },
+      {
+        "letter": "C",
+        "text": "definir os fatos e personagens históricos a serem cultuados pela sociedade brasileira, de acordo com o interesse público"
+      },
+      {
+        "letter": "D",
+        "text": "resguardar da destruição as obras representativas da cultura nacional, por meio de políticas públicas preservacionistas"
+      },
+      {
+        "letter": "E",
+        "text": "determinar as responsabilidades pela destruição do patrimônio nacional, de acordo com a legislação brasileira"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto justifica a criação do órgão pela constatação de que obras de arte e bens históricos \"têm desaparecido ou se arruinado irremediavelmente\", e propõe evitar esse \"prejuízo irreparável\". A finalidade declarada é, portanto, proteger da destruição os bens representativos da cultura nacional por meio de ação estatal - o que se materializou no tombamento. As alternativas (A) e (C) atribuem ao projeto uma intenção de controle ideológico que o trecho não enuncia; (B) inverte o sentido, pois a responsabilidade é assumida pelo Estado; e (E) reduz o projeto à apuração de culpados, quando ele é preventivo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q14",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 14,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A soma do tempo gasto por todos os navios de carga na espera para atracar no porto de Santos é igual a 11 anos - isso, contando somente o intervalo de janeiro a outubro de 2011. O problema não foi registrado somente neste ano. Desde 2006 a perda de tempo supera uma década.\n\nFolha de S. Paulo, 25 dez. 2011 (adaptado).\n\nA situação descrita gera consequências em cadeia, tanto para a produção quanto para o transporte. No que se refere à territorialização da produção no Brasil contemporâneo, uma dessas consequências é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "realocação das exportações para o modal aéreo em função da rapidez"
+      },
+      {
+        "letter": "B",
+        "text": "dispersão dos serviços financeiros em função da busca de novos pontos de importação"
+      },
+      {
+        "letter": "C",
+        "text": "redução da exportação de gêneros agrícolas em função da dificuldade para o escoamento"
+      },
+      {
+        "letter": "D",
+        "text": "priorização do comércio com países vizinhos em função da existência de fronteiras terrestres"
+      },
+      {
+        "letter": "E",
+        "text": "estagnação da indústria de alta tecnologia em função da concentração de investimentos na infraestrutura de circulação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O gargalo portuário afeta diretamente as commodities agrícolas, que constituem o grosso das exportações brasileiras e dependem inteiramente do modal marítimo por seu volume e baixo valor agregado. A espera prolongada eleva custos, atrasa contratos e chega a inviabilizar embarques, reduzindo o volume efetivamente exportado. A alternativa (A) é inviável economicamente, pois grãos jamais seriam transportados por via aérea; (D) não resolve o problema, já que os principais compradores são China e Europa; e (B) e (E) descrevem efeitos sobre setores que não dependem dos portos dessa forma.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q15",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 15,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Diante dessas inconsistências e de outras que ainda preocupam a opinião pública, nós, jornalistas, estamos encaminhando este documento ao Sindicato dos Jornalistas Profissionais no Estado de São Paulo, para que o entregue à Justiça; e da Justiça esperamos a realização de novas diligências capazes de levar à completa elucidação desses fatos e de outros que porventura vierem a ser levantados.\n\nEm nome da verdade. In: O Estado de São Paulo, 3 fev. 1976.\n\nA morte do jornalista Vladimir Herzog, ocorrida durante o regime militar, em 1975, levou a medidas como o abaixo-assinado feito por profissionais da imprensa de São Paulo. A análise dessa medida tomada indica a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "certeza do cumprimento das leis"
+      },
+      {
+        "letter": "B",
+        "text": "superação do governo de exceção"
+      },
+      {
+        "letter": "C",
+        "text": "violência dos terroristas de esquerda"
+      },
+      {
+        "letter": "D",
+        "text": "punição dos torturadores da polícia"
+      },
+      {
+        "letter": "E",
+        "text": "expectativa da investigação dos culpados"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O documento pede à Justiça \"novas diligências capazes de levar à completa elucidação desses fatos\", diante das \"inconsistências\" da versão oficial de suicídio. Trata-se de uma expectativa de que os responsáveis sejam investigados - e não de uma certeza, tanto que o abaixo-assinado foi necessário justamente porque a apuração não vinha ocorrendo. A alternativa (A) contraria a existência das inconsistências denunciadas; (B) é anacrônica, pois o regime militar duraria ainda uma década; (C) reproduz a versão oficial que o documento questiona; e (D) supõe uma punição que não se concretizou.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q17",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 17,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Após o retorno de uma viagem a Minas Gerais, onde Pedro I fora recebido com grande frieza, seus partidários prepararam uma série de manifestações a favor do imperador no Rio de Janeiro, armando fogueiras e luminárias na cidade. Contudo, na noite de 11 de março, tiveram início os conflitos que ficaram conhecidos como a Noite das Garrafadas, durante os quais os \"brasileiros\" apagavam as fogueiras \"portuguesas\" e atacavam as casas iluminadas, sendo respondidos com cacos de garrafas jogadas das janelas.\n\nVAINFAS, R. (Org.). Dicionário do Brasil Imperial. Rio de Janeiro: Objetiva, 2008 (adaptado).\n\nOs anos finais do I Reinado (1822-1831) se caracterizaram pelo aumento da tensão política. Nesse sentido, a análise dos episódios descritos em Minas Gerais e no Rio de Janeiro revela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estímulos ao racismo"
+      },
+      {
+        "letter": "B",
+        "text": "apoio ao xenofobismo"
+      },
+      {
+        "letter": "C",
+        "text": "críticas ao federalismo"
+      },
+      {
+        "letter": "D",
+        "text": "repúdio ao republicanismo"
+      },
+      {
+        "letter": "E",
+        "text": "questionamentos ao autoritarismo"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A frieza mineira e os conflitos de rua no Rio expressam a rejeição crescente à forma como Pedro I exercia o poder: a dissolução da Assembleia Constituinte em 1823, a Constituição outorgada em 1824 com o Poder Moderador e o predomínio de portugueses nos cargos. O que estava em causa era o autoritarismo do imperador, contestação que levaria à abdicação em 7 de abril de 1831. A alternativa (B) confunde o antilusitanismo político - dirigido ao grupo que cercava o imperador - com xenofobia; e as alternativas (C) e (D) invertem o quadro, pois federalismo e republicanismo eram bandeiras dos opositores, não alvos deles.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q18",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 18,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Portadora de memória, a paisagem ajuda a construir os sentimentos de pertencimento; ela cria uma atmosfera que convém aos momentos fortes da vida, às festas, às comemorações.\n\nCLAVAL, P. Terra dos homens: a geografia. São Paulo: Contexto, 2010 (adaptado).\n\nNo texto, é apresentada uma forma de integração da paisagem geográfica com a vida social. Nesse sentido, a paisagem, além de existir como forma concreta, apresenta uma dimensão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "política de apropriação efetiva do espaço"
+      },
+      {
+        "letter": "B",
+        "text": "econômica de uso de recursos do espaço"
+      },
+      {
+        "letter": "C",
+        "text": "privada de limitação sobre a utilização do espaço"
+      },
+      {
+        "letter": "D",
+        "text": "natural de composição por elementos físicos do espaço"
+      },
+      {
+        "letter": "E",
+        "text": "simbólica de relação subjetiva do indivíduo com o espaço"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao ser descrita como \"portadora de memória\" e como aquilo que constrói \"sentimentos de pertencimento\", a paisagem deixa de ser apenas o conjunto de formas visíveis e passa a carregar significados atribuídos por quem a vive. Memória, pertencimento e a atmosfera dos momentos importantes são elementos subjetivos - a dimensão simbólica da paisagem. As alternativas (A), (B) e (C) tratam de usos concretos do espaço, e (D) descreve justamente a \"forma concreta\" que o enunciado diz ser complementada por essa outra dimensão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q20",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 20,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A singularidade da questão da terra na África Colonial é a expropriação por parte do colonizador e as desigualdades raciais no acesso à terra. Após a independência, as populações de colonos brancos tenderam a diminuir, apesar de a proporção de terra em posse da minoria branca não ter diminuído proporcionalmente.\n\nMOYO, S. A terra africana e as questões agrárias: o caso das lutas pela terra no Zimbábue. São Paulo: Expressão Popular, 2007.\n\nCom base no texto, uma característica socioespacial e um consequente desdobramento que marcou o processo de ocupação do espaço rural na África subsaariana foram:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Exploração do campesinato pela elite proprietária - Domínio das instituições fundiárias pelo poder público"
+      },
+      {
+        "letter": "B",
+        "text": "Adoção de práticas discriminatórias de acesso à terra - Controle do uso especulativo da propriedade fundiária"
+      },
+      {
+        "letter": "C",
+        "text": "Desorganização da economia rural de subsistência - Crescimento do consumo interno de alimentos pelas famílias camponesas"
+      },
+      {
+        "letter": "D",
+        "text": "Crescimento dos assentamentos rurais com mão de obra familiar - Avanço crescente das áreas rurais sobre as regiões urbanas"
+      },
+      {
+        "letter": "E",
+        "text": "Concentração das áreas cultiváveis no setor agroexportador - Aumento da ocupação da população pobre em territórios agrícolas marginais"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto informa que, mesmo após a independência, a minoria branca manteve praticamente a mesma proporção de terras. Essas propriedades ocupam as áreas mais férteis e são voltadas à exportação, herança do modelo colonial. A consequência direta é que a população negra, majoritária, foi empurrada para terras marginais - menos férteis, mais secas ou de difícil acesso -, onde pratica agricultura de subsistência. As alternativas (B) e (C) apresentam desdobramentos que contrariam o quadro descrito, pois não houve controle da especulação nem aumento do consumo camponês; e (D) descreve um crescimento de assentamentos familiares que o texto não registra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q21",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 21,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "TEXTO I\n\nA Europa entrou em estado de exceção, personificado por obscuras forças econômicas sem rosto ou localização física conhecida que não prestam contas a ninguém e se espalham pelo globo por meio de milhões de transações diárias no ciberespaço.\nROSSI, C. Nem fim do mundo nem mundo novo. Folha de São Paulo, 11 dez. 2011 (adaptado).\n\nTEXTO II\n\nEstamos imersos numa crise financeira como nunca tínhamos visto desde a Grande Depressão iniciada em 1929 nos Estados Unidos.\nEntrevista de George Soros. Disponível em: www.nybooks.com. Acesso em: 17 ago. 2011 (adaptado).\n\nA comparação entre os significados da atual crise econômica e do crash de 1929 oculta a principal diferença entre essas duas crises, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o crash da Bolsa em 1929 adveio do envolvimento dos EUA na I Guerra Mundial e a atual crise é o resultado dos gastos militares desse país nas guerras do Afeganistão e Iraque"
+      },
+      {
+        "letter": "B",
+        "text": "a crise de 1929 ocorreu devido a um quadro de superprodução industrial nos EUA e a atual crise resultou da especulação financeira e da expansão desmedida do crédito bancário"
+      },
+      {
+        "letter": "C",
+        "text": "a crise de 1929 foi o resultado da concorrência dos países europeus reconstruídos após a I Guerra e a atual crise se associa à emergência dos BRICS como novos concorrentes econômicos"
+      },
+      {
+        "letter": "D",
+        "text": "o crash da Bolsa em 1929 resultou do excesso de proteções ao setor produtivo estadunidense e a atual crise tem origem na internacionalização das empresas e no avanço da política de livre mercado"
+      },
+      {
+        "letter": "E",
+        "text": "a crise de 1929 decorreu da política intervencionista norte-americana sobre o sistema de comércio mundial e a atual crise resultou do excesso de regulação do governo desse país sobre o sistema monetário"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A crise de 1929 nasceu na esfera produtiva: a indústria e a agricultura norte-americanas produziam mais do que o mercado podia absorver, e a quebra da Bolsa foi o estopim de uma crise de superprodução. A crise iniciada em 2008 nasceu na esfera financeira, com a concessão desmedida de crédito imobiliário de alto risco e a especulação com títulos derivados dele - as \"obscuras forças econômicas\" e as \"transações diárias no ciberespaço\" a que o Texto I se refere. A alternativa (E) inverte os fatos, pois a crise recente é associada à desregulamentação, e não ao excesso de regulação; e (A), (C) e (D) atribuem às duas crises causas que a historiografia econômica não sustenta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q22",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 22,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Considere um cartaz de jovens em protesto contra a Guerra do Vietnã com o texto: \"Amor e não guerra\".\n\nNos anos que se seguiram à Segunda Guerra, movimentos como o Maio de 1968 ou a campanha contra a Guerra do Vietnã culminaram no estabelecimento de diferentes formas de participação política. Seus slogans, tais como \"Quando penso em revolução quero fazer amor\", se tornaram símbolos da agitação cultural nos anos 1960, cuja inovação relacionava-se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "à contestação da crise econômica europeia, que fora provocada pela manutenção das guerras coloniais"
+      },
+      {
+        "letter": "B",
+        "text": "à organização partidária da juventude comunista, visando o estabelecimento da ditadura do proletariado"
+      },
+      {
+        "letter": "C",
+        "text": "à unificação das noções de libertação social e libertação individual, fornecendo um significado político ao uso do corpo"
+      },
+      {
+        "letter": "D",
+        "text": "à defesa do amor cristão e monogâmico, com fins à reprodução, que era tomado como solução para os conflitos sociais"
+      },
+      {
+        "letter": "E",
+        "text": "ao reconhecimento da cultura das gerações passadas, que conviveram com a emergência do rock e outras mudanças nos costumes"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os dois slogans citados articulam explicitamente a esfera íntima e a esfera política: \"amor e não guerra\" opõe uma prática do corpo a uma decisão de Estado, e \"quando penso em revolução quero fazer amor\" funde o projeto coletivo ao desejo individual. Essa é a novidade dos anos 1960 em relação à militância tradicional: a sexualidade, o comportamento e o próprio corpo passam a ser terreno de disputa política. As alternativas (B) e (E) descrevem justamente o que esses movimentos recusavam - a disciplina partidária e os costumes das gerações anteriores -, e (D) inverte o sentido do slogan.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q23",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 23,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Nossa cultura lipofóbica muito contribui para a distorção da imagem corporal, gerando gordos que se veem magros e magros que se veem gordos, numa quase unanimidade de que todos se sentem ou se veem \"distorcidos\".\n\nEngordamos quando somos gulosos. É pecado da gula que controla a relação do homem com a balança. Todo obeso declarou, um dia, guerra à balança. Para emagrecer é preciso fazer as pazes com a dita cuja, visando adequar-se às necessidades para as quais ela aponta.\n\nFREIRE, D. S. Obesidade não pode ser pré-requisito. Disponível em: http://gnt.globo.com. Acesso em: 3 abr. 2012 (adaptado).\n\nO texto apresenta um discurso de disciplinarização dos corpos, que tem como consequência",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a ampliação dos tratamentos médicos alternativos, reduzindo os gastos com remédios"
+      },
+      {
+        "letter": "B",
+        "text": "a democratização do padrão de beleza, tornando-o acessível pelo esforço individual"
+      },
+      {
+        "letter": "C",
+        "text": "o controle do consumo, impulsionando uma crise econômica na indústria de alimentos"
+      },
+      {
+        "letter": "D",
+        "text": "a culpabilização individual, associando obesidade à fraqueza de caráter"
+      },
+      {
+        "letter": "E",
+        "text": "o aumento da longevidade, resultando no crescimento populacional"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto atribui o ganho de peso à gula, tratada como \"pecado\", e apresenta o emagrecimento como questão de disciplina pessoal diante da balança. Ao reduzir a obesidade a um defeito moral, transfere ao indivíduo toda a responsabilidade e ignora fatores genéticos, metabólicos, socioeconômicos e culturais - inclusive a própria cultura lipofóbica que o texto menciona. A consequência é a culpabilização individual. A alternativa (B) é descartada porque a lógica apresentada não democratiza padrão algum, apenas responsabiliza quem não o alcança; e as demais atribuem ao discurso efeitos médicos, econômicos ou demográficos que ele não produz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q25",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 25,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "Para Platão, o que havia de verdadeiro em Parmênides era que o objeto de conhecimento é um objeto de razão e não de sensação, e era preciso estabelecer uma relação entre objeto racional e objeto sensível ou material que privilegiasse o primeiro em detrimento do segundo. Lenta, mas irresistivelmente, a Doutrina das Ideias formava-se em sua mente.\n\nZINGANO, M. Platão e Aristóteles: o fascínio da filosofia. São Paulo: Odysseus, 2012 (adaptado).\n\nO texto faz referência à relação entre razão e sensação, um aspecto essencial da Doutrina das Ideias de Platão (427 a.C.-346 a.C.). De acordo com o texto, como Platão se situa diante dessa relação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Estabelecendo um abismo intransponível entre as duas"
+      },
+      {
+        "letter": "B",
+        "text": "Privilegiando os sentidos e subordinando o conhecimento a eles"
+      },
+      {
+        "letter": "C",
+        "text": "Atendo-se à posição de Parmênides de que razão e sensação são inseparáveis"
+      },
+      {
+        "letter": "D",
+        "text": "Afirmando que a razão é capaz de gerar conhecimento, mas a sensação não"
+      },
+      {
+        "letter": "E",
+        "text": "Rejeitando a posição de Parmênides de que a sensação é superior à razão"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto afirma que, para Platão, \"o objeto de conhecimento é um objeto de razão e não de sensação\". Conhecimento propriamente dito é o das Ideias, acessível apenas pelo intelecto; o que os sentidos oferecem é opinião sobre o mundo sensível, mutável e imperfeito. A alternativa (A) é atraente, mas o texto diz o contrário: Platão busca \"estabelecer uma relação\" entre os dois planos, ainda que privilegiando o racional - não há abismo intransponível. A alternativa (B) inverte a hierarquia, e (C) e (E) atribuem a Parmênides posições que o texto não lhe imputa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q26",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 26,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "A maior parte dos veículos de transporte atualmente é movida por motores a combustão que utilizam derivados de petróleo. Por causa disso, esse setor é o maior consumidor de petróleo do mundo, com altas taxas de crescimento ao longo do tempo. Enquanto outros setores têm obtido bons resultados na redução do consumo, os transportes tendem a concentrar ainda mais o uso de derivados do óleo.\n\nMURTA, A. Energia: o vício da civilização. Rio de Janeiro: Garamond, 2011 (adaptado).\n\nUm impacto ambiental da tecnologia mais empregada pelo setor de transportes e uma medida para promover a redução do seu uso estão indicados, respectivamente, em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Aumento da poluição sonora - construção de barreiras acústicas"
+      },
+      {
+        "letter": "B",
+        "text": "Incidência da chuva ácida - estatização da indústria automobilística"
+      },
+      {
+        "letter": "C",
+        "text": "Derretimento das calotas polares - incentivo aos transportes de massa"
+      },
+      {
+        "letter": "D",
+        "text": "Propagação de doenças respiratórias - distribuição de medicamentos gratuitos"
+      },
+      {
+        "letter": "E",
+        "text": "Elevação das temperaturas médias - criminalização da emissão de gás carbônico"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A queima de derivados de petróleo lança gás carbônico na atmosfera, intensificando o efeito estufa e o aquecimento global, cujo efeito mais visível é o derretimento das calotas polares. A medida coerente é reduzir o número de veículos em circulação por meio do incentivo ao transporte de massa - metrôs, trens e ônibus -, que atende muito mais pessoas com emissão bem menor por passageiro. Nas demais alternativas, ou o impacto não é o principal da tecnologia (poluição sonora), ou a medida não ataca a causa: barreiras acústicas, medicamentos e estatização não reduzem o uso de combustíveis fósseis, e criminalizar a emissão de CO2 é inviável, já que ela decorre de toda combustão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q27",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 27,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "As mulheres quebradeiras de coco-babaçu dos Estados do Maranhão, Piauí, Pará e Tocantins, na sua grande maioria, vivem numa situação de exclusão e subalternidade. O termo quebradeira de coco assume o caráter de identidade coletiva na medida em que as mulheres que sobrevivem dessa atividade e reconhecem sua posição e condição desvalorizada pela lógica da dominação, se organizam em movimentos de resistência e de luta pela conquista da terra, pela libertação dos babaçuais, pela autonomia do processo produtivo. Passam a atribuir significados ao seu trabalho e as suas experiências, tendo como principal referência sua condição preexistente de acesso e uso dos recursos naturais.\n\nROCHA, M. R. T. A luta das mulheres quebradeiras de coco-babaçu. Anais do VII Congresso Latino-Americano de Sociologia Rural, Quito, 2006 (adaptado).\n\nA organização do movimento das quebradeiras de coco de babaçu é resultante da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "constante violência nos babaçuais na confluência de terras maranhenses, piauienses, paraenses e tocantinenses, região com elevado índice de homicídios"
+      },
+      {
+        "letter": "B",
+        "text": "falta de identidade coletiva das trabalhadoras, migrantes das cidades e com pouco vínculo histórico com as áreas rurais do interior do Tocantins, Pará, Maranhão e Piauí"
+      },
+      {
+        "letter": "C",
+        "text": "escassez de água nas regiões de veredas, ambientes naturais dos babaçus, causada pela construção de açudes particulares, impedindo o amplo acesso público aos recursos hídricos"
+      },
+      {
+        "letter": "D",
+        "text": "progressiva devastação das matas dos cocais, em função do avanço da sojicultura nos chapadões do Meio-Norte brasileiro"
+      },
+      {
+        "letter": "E",
+        "text": "dificuldade imposta pelos fazendeiros e posseiros no acesso aos babaçuais localizados no interior de suas propriedades"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A expressão-chave do texto é \"luta pela conquista da terra, pela libertação dos babaçuais\": as palmeiras encontram-se dentro de propriedades privadas, e os proprietários impedem a entrada das quebradeiras. Como sua sobrevivência depende do acesso a esses babaçuais, a mobilização se organizou em torno da reivindicação do \"babaçu livre\", que resultou em leis municipais garantindo o acesso. A alternativa (B) contradiz frontalmente o texto, que afirma existir identidade coletiva e vínculo histórico com a terra; e (A), (C) e (D) apontam causas - violência, escassez hídrica e avanço da soja - que não são o motivo da organização descrito no trecho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q28",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 28,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "TEXTO I\n\nAnaxímenes de Mileto disse que o ar é o elemento originário de tudo o que existe, existiu e existirá, e que outras coisas provêm de sua descendência. Quando o ar se dilata, transforma-se em fogo, ao passo que os ventos são ar condensado. As nuvens formam-se a partir do ar por feltragem e, ainda mais condensadas, transformam-se em água. A água, quando mais condensada, transforma-se em terra, e quando condensada ao máximo possível, transforma-se em pedras.\nBURNET, J. A aurora da filosofia grega. Rio de Janeiro: PUC-Rio, 2006 (adaptado).\n\nTEXTO II\n\nBasílio Magno, filósofo medieval, escreveu: \"Deus, como criador de todas as coisas, está no princípio do mundo e dos tempos. Quão parcas de conteúdo se nos apresentam, em face desta concepção, as especulações contraditórias dos filósofos, para os quais o mundo se origina, ou de algum dos quatro elementos, como ensinam os Jônios, ou dos átomos, como julga Demócrito. Na verdade, dão a impressão de quererem ancorar o mundo numa teia de aranha.\"\nGILSON, E.; BOEHNER, P. História da Filosofia Cristã. São Paulo: Vozes, 1991 (adaptado).\n\nFilósofos dos diversos tempos históricos desenvolveram teses para explicar a origem do universo, a partir de uma explicação racional. As teses de Anaxímenes, filósofo grego antigo, e de Basílio, filósofo medieval, têm em comum na sua fundamentação teorias que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eram baseadas nas ciências da natureza"
+      },
+      {
+        "letter": "B",
+        "text": "refutavam as teorias de filósofos da religião"
+      },
+      {
+        "letter": "C",
+        "text": "tinham origem nos mitos das civilizações antigas"
+      },
+      {
+        "letter": "D",
+        "text": "postulavam um princípio originário para o mundo"
+      },
+      {
+        "letter": "E",
+        "text": "defendiam que Deus é o princípio de todas as coisas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os dois filósofos discordam quanto ao que está na origem - o ar, para Anaxímenes; Deus, para Basílio -, e Basílio inclusive ridiculariza a explicação jônica. O que os une é a estrutura do raciocínio: ambos supõem que o mundo deriva de um princípio único e primeiro, a partir do qual tudo o mais se explica. Essa busca pela arché é o ponto comum. A alternativa (E) vale apenas para Basílio; a (A), apenas para Anaxímenes; a (B) inverte a relação, já que é o filósofo religioso quem refuta o outro; e a (C) contraria o enunciado, que fala em explicação racional, e não mítica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q29",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 29,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "De repente, sente-se uma vibração que aumenta rapidamente; lustres balançam, objetos se movem sozinhos e somos invadidos pela estranha sensação de medo do imprevisto. Segundos parecem horas, poucos minutos são uma eternidade. Estamos sentindo os efeitos de um terremoto, um tipo de abalo sísmico.\n\nASSAD, L. Os (não tão) imperceptíveis movimentos da Terra. ComCiência, n. 117, abr. 2010.\n\nO fenômeno físico descrito no texto afeta intensamente as populações que ocupam espaços próximos às áreas de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alívio da tensão geológica"
+      },
+      {
+        "letter": "B",
+        "text": "desgaste da erosão superficial"
+      },
+      {
+        "letter": "C",
+        "text": "atuação do intemperismo químico"
+      },
+      {
+        "letter": "D",
+        "text": "formação de aquíferos profundos"
+      },
+      {
+        "letter": "E",
+        "text": "acúmulo de depósitos sedimentares"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os terremotos ocorrem nas bordas das placas tectônicas, onde o movimento relativo entre elas acumula tensão nas rochas ao longo do tempo. Quando a resistência do material é superada, essa energia é liberada bruscamente na forma de ondas sísmicas - o alívio da tensão geológica. É por isso que as áreas de maior risco coincidem com os limites de placas, como o Círculo de Fogo do Pacífico. As demais alternativas descrevem processos exógenos, ligados à ação da água, do clima e da sedimentação na superfície, que não geram abalos sísmicos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q30",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 30,
+    "subjectId": "filosofia",
+    "topics": [
+      "Teoria do Conhecimento"
+    ],
+    "statement": "TEXTO I\n\nExperimentei algumas vezes que os sentidos eram enganosos, e é de prudência nunca se fiar inteiramente em quem já nos enganou uma vez.\nDESCARTES, R. Meditações Metafísicas. São Paulo: Abril Cultural, 1979.\n\nTEXTO II\n\nSempre que alimentarmos alguma suspeita de que uma ideia esteja sendo empregada sem nenhum significado, precisaremos apenas indagar: de que impressão deriva esta suposta ideia? E se for impossível atribuir-lhe qualquer impressão sensorial, isso servirá para confirmar nossa suspeita.\nHUME, D. Uma investigação sobre o entendimento. São Paulo: Unesp, 2004 (adaptado).\n\nNos textos, ambos os autores se posicionam sobre a natureza do conhecimento humano. A comparação dos excertos permite assumir que Descartes e Hume",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "defendem os sentidos como critério originário para considerar um conhecimento legítimo"
+      },
+      {
+        "letter": "B",
+        "text": "entendem que é desnecessário suspeitar do significado de uma ideia na reflexão filosófica e crítica"
+      },
+      {
+        "letter": "C",
+        "text": "são legítimos representantes do criticismo quanto à gênese do conhecimento"
+      },
+      {
+        "letter": "D",
+        "text": "concordam que conhecimento humano é impossível em relação às ideias e aos sentidos"
+      },
+      {
+        "letter": "E",
+        "text": "atribuem diferentes lugares ao papel dos sentidos no processo de obtenção do conhecimento"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os dois excertos tomam direções opostas quanto aos sentidos. Descartes, racionalista, desconfia deles porque já o enganaram, e por isso funda o conhecimento na razão. Hume, empirista, faz das impressões sensoriais o critério mesmo de validade: uma ideia sem impressão correspondente é vazia de significado. Ambos discutem o papel dos sentidos, mas lhes atribuem lugares diferentes. A alternativa (A) descreve apenas Hume; a (D) faz dos dois céticos radicais, o que nenhum deles é; a (B) contraria os dois, que praticam a suspeita; e a (C) confunde-os com o criticismo, posição posterior, de Kant.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q31",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 31,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "Não ignoro a opinião antiga e muito difundida de que o que acontece no mundo é decidido por Deus e pelo acaso. Essa opinião é muito aceita em nossos dias, devido às grandes transformações ocorridas, e que ocorrem diariamente, as quais escapam à conjectura humana. Não obstante, para não ignorar inteiramente o nosso livre-arbítrio, creio que se pode aceitar que a sorte decida metade dos nossos atos, mas [o livre-arbítrio] nos permite o controle sobre a outra metade.\n\nMAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado).\n\nEm O Príncipe, Maquiavel refletiu sobre o exercício do poder em seu tempo. No trecho citado, o autor demonstra o vínculo entre o seu pensamento político e o humanismo renascentista ao",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorizar a interferência divina nos acontecimentos definidores do seu tempo"
+      },
+      {
+        "letter": "B",
+        "text": "rejeitar a intervenção do acaso nos processos políticos"
+      },
+      {
+        "letter": "C",
+        "text": "afirmar a confiança na razão autônoma como fundamento da ação humana"
+      },
+      {
+        "letter": "D",
+        "text": "romper com a tradição que valorizava o passado como fonte de aprendizagem"
+      },
+      {
+        "letter": "E",
+        "text": "redefinir a ação política com base na unidade entre fé e razão"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Maquiavel parte da opinião corrente - de que tudo é decidido por Deus e pelo acaso - para recusá-la parcialmente: metade dos acontecimentos permanece sob controle do livre-arbítrio humano. Ao devolver ao homem o comando de sua própria ação política, ele desloca o centro da explicação da providência divina para a razão e a virtù humanas, gesto característico do humanismo renascentista. As alternativas (A) e (B) contrariam o texto, que nem valoriza a interferência divina nem elimina a fortuna; (D) é falsa, pois Maquiavel recorre constantemente aos exemplos da Antiguidade; e (E) atribui-lhe uma síntese entre fé e razão típica da escolástica medieval.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q32",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 32,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "A interface clima/sociedade pode ser considerada em termos de ajustamento à extensão e aos modos como as sociedades funcionam em uma relação harmônica com seu clima. O homem e suas sociedades são vulneráveis às variações climáticas. A vulnerabilidade é a medida pela qual uma sociedade é suscetível de sofrer por causas climáticas.\n\nAYOADE, J. O. Introdução à climatologia para os trópicos. Rio de Janeiro: Bertrand Brasil, 2010 (adaptado).\n\nConsiderando o tipo de relação entre ser humano e condição climática apresentado no texto, uma sociedade torna-se mais vulnerável quando",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concentra suas atividades no setor primário"
+      },
+      {
+        "letter": "B",
+        "text": "apresenta estoques elevados de alimentos"
+      },
+      {
+        "letter": "C",
+        "text": "possui um sistema de transportes articulado"
+      },
+      {
+        "letter": "D",
+        "text": "diversifica a matriz de geração de energia"
+      },
+      {
+        "letter": "E",
+        "text": "introduz tecnologias à produção agrícola"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A agricultura, a pecuária e o extrativismo dependem diretamente de chuva, temperatura e regularidade das estações. Uma sociedade que concentra sua economia nesse setor fica exposta: uma seca ou uma enchente compromete simultaneamente sua produção, sua renda e seu abastecimento, sem outros setores que amorteçam o impacto. As demais alternativas descrevem justamente formas de reduzir a vulnerabilidade - estoques garantem alimento nas quebras de safra, transportes permitem escoar e socorrer, matriz energética diversificada resiste a estiagens que afetem hidrelétricas, e a tecnologia agrícola, como a irrigação, reduz a dependência do regime de chuvas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q33",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 33,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Uma mesma empresa pode ter sua sede administrativa onde os impostos são menores, as unidades de produção onde os salários são os mais baixos, os capitais onde os juros são os mais altos e seus executivos vivendo onde a qualidade de vida é mais elevada.\n\nSEVCENKO, N. A corrida para o século XXI: no loop da montanha russa. São Paulo: Companhia das Letras, 2001 (adaptado).\n\nNo texto estão apresentadas estratégias empresariais no contexto da globalização. Uma consequência social derivada dessas estratégias tem sido",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o crescimento da carga tributária"
+      },
+      {
+        "letter": "B",
+        "text": "o aumento da mobilidade ocupacional"
+      },
+      {
+        "letter": "C",
+        "text": "a redução da competitividade entre as empresas"
+      },
+      {
+        "letter": "D",
+        "text": "o direcionamento das vendas para os mercados regionais"
+      },
+      {
+        "letter": "E",
+        "text": "a ampliação do poder de planejamento dos Estados nacionais"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Se a empresa desloca continuamente suas unidades para onde os salários são mais baixos, os empregos deixam de ser estáveis e vinculados a um lugar. O trabalhador passa a mudar de função, de empregador e de cidade ao longo da vida, acompanhando essa realocação - é o aumento da mobilidade ocupacional, com a insegurança que dele decorre. As alternativas (A) e (E) descrevem o oposto do que o texto mostra: ao escolher onde pagar impostos, a empresa reduz sua carga tributária e limita o poder de planejamento dos Estados; (C) contraria a lógica da estratégia, que busca justamente mais competitividade; e (D) inverte a escala, que é global, não regional.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q34",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 34,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "A moderna \"conquista da Amazônia\" inverteu o eixo geográfico da colonização da região. Desde a época colonial até meados do século XIX, as correntes principais de população movimentaram-se no sentido Leste-Oeste, estabelecendo uma ocupação linear articulada. Nas últimas décadas, os fluxos migratórios passaram a se verificar no sentido Sul-Norte, conectando o Centro-Sul à Amazônia.\n\nOLIC, N. B. Ocupação da Amazônia, uma epopeia inacabada. Jornal Mundo, ano 16, n. 4, ago. 2008 (adaptado).\n\nO primeiro eixo geográfico de ocupação das terras amazônicas demonstra um padrão relacionado à criação de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "núcleos urbanos em áreas litorâneas"
+      },
+      {
+        "letter": "B",
+        "text": "centros agrícolas modernos no interior"
+      },
+      {
+        "letter": "C",
+        "text": "vias férreas entre espaços de mineração"
+      },
+      {
+        "letter": "D",
+        "text": "faixas de povoamento ao longo das estradas"
+      },
+      {
+        "letter": "E",
+        "text": "povoados interligados próximos a grandes rios"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Antes das rodovias, o único caminho para o interior da Amazônia eram os rios. A penetração no sentido Leste-Oeste seguiu o curso do Amazonas e de seus afluentes, e os povoados - Belém, Santarém, Manaus - nasceram às margens, formando a \"ocupação linear articulada\" a que o texto se refere. Essa é a marca da Amazônia ribeirinha. As faixas de povoamento ao longo de estradas (D) correspondem ao segundo eixo, Sul-Norte, do século XX, com a Belém-Brasília e a Transamazônica; e as demais alternativas descrevem padrões que não caracterizam a ocupação colonial da região.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q35",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 35,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "A experiência que tenho de lidar com aldeias de diversas nações me tem feito ver que nunca índio fez grande confiança de branco e, se isto sucede com os que estão já civilizados, como não sucederá o mesmo com esses que estão ainda brutos.\n\nNORONHA, M. Carta a J. Caldeira Brant, 2 jan. 1751 (adaptado).\n\nEm 1749, ao separar-se de São Paulo, a capitania de Goiás foi governada por D. Marcos de Noronha, que atendeu às diretrizes da política indigenista pombalina que incentivava a criação de aldeamentos em função",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "das constantes rebeliões indígenas contra os brancos colonizadores, que ameaçavam a produção de ouro nas regiões mineradoras"
+      },
+      {
+        "letter": "B",
+        "text": "da propagação de doenças originadas do contato com os colonizadores, que dizimaram boa parte da população indígena"
+      },
+      {
+        "letter": "C",
+        "text": "do empenho das ordens religiosas em proteger o indígena da exploração, o que garantiu a sua supremacia na administração colonial"
+      },
+      {
+        "letter": "D",
+        "text": "da política racista da Coroa Portuguesa, contrária à miscigenação, que organizava a sociedade em uma hierarquia dominada pelos brancos"
+      },
+      {
+        "letter": "E",
+        "text": "da necessidade de controle dos brancos sobre a população indígena, objetivando sua adaptação às exigências do trabalho regular"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A política indigenista pombalina retirou as aldeias do controle jesuítico e as converteu em vilas sob administração civil, com o objetivo de transformar os indígenas em súditos produtivos, integrados ao trabalho regular e à economia colonial. A carta revela a lógica dessa empreitada ao classificar como \"civilizados\" os já aldeados e \"brutos\" os demais - a civilização entendida como submissão à disciplina do trabalho. As alternativas (C) e (D) contrariam a política pombalina, que expulsou os jesuítas e incentivou a miscigenação; e (A) e (B), embora descrevam fatos reais do período, não são o motivo da criação dos aldeamentos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q36",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 36,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A partir dos anos 70, impõe-se um movimento de desconcentração da produção industrial, uma das manifestações do desdobramento da divisão territorial do trabalho no Brasil. A produção industrial torna-se mais complexa, estendendo-se, sobretudo, para novas áreas do Sul e para alguns pontos do Centro-Oeste, do Nordeste e do Norte.\n\nSANTOS, M.; SILVEIRA, M. L. O Brasil: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2002.\n\nUm fator geográfico que contribui para o tipo de alteração da configuração territorial descrito no texto é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Obsolescência dos portos"
+      },
+      {
+        "letter": "B",
+        "text": "Estatização de empresas"
+      },
+      {
+        "letter": "C",
+        "text": "Eliminação de incentivos fiscais"
+      },
+      {
+        "letter": "D",
+        "text": "Ampliação de políticas protecionistas"
+      },
+      {
+        "letter": "E",
+        "text": "Desenvolvimento dos meios de comunicação"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A indústria só pode se afastar do núcleo paulista se for possível administrar, coordenar e integrar unidades distantes entre si. É o que permitiram as telecomunicações e a informática: a sede pode ficar em São Paulo enquanto a fábrica opera no Nordeste, com controle em tempo real da produção, dos estoques e das vendas. Esse é o fator geográfico que viabiliza a desconcentração. A alternativa (C) descreve o contrário do ocorrido, pois foi a criação de incentivos fiscais - a guerra fiscal entre estados - que atraiu as indústrias; e obsolescência portuária, estatização e protecionismo não explicam a redistribuição interna das plantas industriais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q37",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 37,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "As plataformas ou crátons correspondem aos terrenos mais antigos e arrasados por muitas fases de erosão. Apresentam uma grande complexidade litológica, prevalecendo as rochas metamórficas muito antigas (Pré-Cambriano Médio e Inferior). Também ocorrem rochas intrusivas antigas e resíduos de rochas sedimentares. São três as áreas de plataforma de crátons no Brasil: a das Guianas, a Sul-Amazônica e a do São Francisco.\n\nROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 1998.\n\nAs regiões cratônicas das Guianas e a Sul-Amazônica têm como arcabouço geológico vastas extensões de escudos cristalinos, ricos em minérios, que atraíram a ação de empresas nacionais e estrangeiras do setor de mineração e destacam-se pela sua história geológica por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentarem áreas de intrusões graníticas, ricas em jazidas minerais (ferro, manganês)"
+      },
+      {
+        "letter": "B",
+        "text": "corresponderem ao principal evento geológico do Cenozoico no território brasileiro"
+      },
+      {
+        "letter": "C",
+        "text": "apresentarem áreas arrasadas pela erosão, que originaram a maior planície do país"
+      },
+      {
+        "letter": "D",
+        "text": "possuírem em sua extensão terrenos cristalinos ricos em reservas de petróleo e gás natural"
+      },
+      {
+        "letter": "E",
+        "text": "serem esculpidas pela ação do intemperismo físico, decorrente da variação de temperatura"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os escudos cristalinos são formados por rochas magmáticas e metamórficas muito antigas, em cujas intrusões graníticas se concentram jazidas de ferro, manganês, ouro e bauxita - a riqueza mineral que atraiu a mineração para Carajás e para a região das Guianas. A alternativa (B) erra a era geológica, pois os crátons são pré-cambrianos, não cenozoicos; (D) é incompatível com a litologia, já que petróleo e gás se formam em bacias sedimentares, e não em terrenos cristalinos; (C) confunde escudo com planície, que é feição sedimentar; e (E) descreve um processo exógeno que não explica a riqueza mineral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q38",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 38,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "A irrigação da agricultura é responsável pelo consumo de mais de 2/3 de toda a água retirada dos rios, lagos e lençóis freáticos do mundo. Mesmo no Brasil, onde achamos que temos muita água, os agricultores que tentam produzir alimentos também enfrentam secas periódicas e uma competição crescente por água.\n\nMARAFON, G. J. et al. O desencanto da terra: produção de alimentos, ambiente e sociedade. Rio de Janeiro: Garamond, 2011.\n\nNo Brasil, as técnicas de irrigação utilizadas na agricultura produziram impactos socioambientais como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "redução do custo de produção"
+      },
+      {
+        "letter": "B",
+        "text": "agravamento da poluição hídrica"
+      },
+      {
+        "letter": "C",
+        "text": "compactação do material do solo"
+      },
+      {
+        "letter": "D",
+        "text": "aceleração da fertilização natural"
+      },
+      {
+        "letter": "E",
+        "text": "redirecionamento dos cursos fluviais"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Irrigar em larga escala exige captar grandes volumes diretamente dos rios, o que envolve barramentos, canais e desvios que alteram o traçado e a vazão dos cursos d'água. Essa modificação da rede hidrográfica é o impacto socioambiental próprio da técnica, e explica a \"competição crescente por água\" mencionada no texto, já que o desvio para a lavoura reduz a disponibilidade para os demais usuários. A alternativa (A) aponta um efeito econômico, e não socioambiental; a compactação do solo decorre do tráfego de máquinas, não da irrigação; e (B) e (D) associam-se ao uso de agrotóxicos e fertilizantes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q39",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 39,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "TEXTO I\n\nAo se emanciparem da tutela senhorial, muitos camponeses foram desligados legalmente da antiga terra. Deveriam pagar, para adquirir propriedade ou arrendamento. Por não possuírem recursos, engrossaram a camada cada vez maior de jornaleiros e trabalhadores volantes; outros, mesmo tendo propriedade sobre um pequeno lote, suplementavam sua existência com o assalariamento esporádico.\nMACHADO, P. P. Política e colonização no Império. Porto Alegre: EdUFRGS, 1999 (adaptado).\n\nTEXTO II\n\nCom a globalização da economia ampliou-se a hegemonia do modelo de desenvolvimento agropecuário, com seus padrões tecnológicos, caracterizando o agronegócio. Essa nova face da agricultura capitalista também mudou a forma de controle e exploração da terra. Ampliou-se, assim, a ocupação de áreas agricultáveis e as fronteiras agrícolas se estenderam.\nSADER, E.; JINKINGS, I. Enciclopédia Contemporânea da América Latina e do Caribe. São Paulo: Boitempo, 2006 (adaptado).\n\nOs textos demonstram que, tanto na Europa do século XIX quanto no contexto latino-americano do século XXI, as alterações tecnológicas vivenciadas no campo interferem na vida das populações locais, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "induzem os jovens ao estudo nas grandes cidades, causando o êxodo rural, uma vez que formados, não retornam à sua região de origem"
+      },
+      {
+        "letter": "B",
+        "text": "impulsionam as populações locais a buscar linhas de financiamento estatal com o objetivo de ampliar a agricultura familiar, garantindo sua fixação no campo"
+      },
+      {
+        "letter": "C",
+        "text": "ampliam o protagonismo do Estado, possibilitando a grupos econômicos ruralistas produzir e impor políticas agrícolas, ampliando o controle que tinham dos mercados"
+      },
+      {
+        "letter": "D",
+        "text": "aumentam a produção e a produtividade de determinadas culturas em função da intensificação da mecanização, do uso de agrotóxicos e cultivo de plantas transgênicas"
+      },
+      {
+        "letter": "E",
+        "text": "desorganizam o modo tradicional de vida impelindo-as à busca por melhores condições no espaço urbano ou em outros países em situações muitas vezes precárias"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O enunciado pede o efeito sobre a vida das populações locais, e os dois textos convergem nesse ponto. No século XIX, camponeses europeus perderam o vínculo com a terra e se tornaram jornaleiros e trabalhadores volantes; no século XXI, o avanço do agronegócio e a expansão das fronteiras agrícolas expulsam populações tradicionais de suas áreas. Em ambos os casos, o modo de vida se desorganiza e as pessoas migram para as cidades ou para outros países em condições precárias. A alternativa (D) descreve um efeito produtivo, não social; a (B) supõe uma fixação no campo que os textos não registram; e (A) e (C) apontam causas que nenhum dos dois trechos menciona.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q40",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 40,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Em um engenho sois imitadores de Cristo crucificado porque padeceis em um modo muito semelhante o que o mesmo Senhor padeceu na sua cruz e em toda a sua paixão. A sua cruz foi composta de dois madeiros, e a vossa em um engenho é de três. Também ali não faltaram as canas, porque duas vezes entraram na Paixão: uma vez servindo para o cetro de escárnio, e outra vez para a esponja em que lhe deram o fel. A Paixão de Cristo parte foi de noite sem dormir, parte foi de dia sem descansar, e tais são as vossas noites e os vossos dias. Cristo despido, e vós despidos; Cristo sem comer, e vós famintos; Cristo em tudo maltratado, e vós maltratados em tudo. Os ferros, as prisões, os açoites, as chagas, os nomes afrontosos, de tudo isto se compõe a vossa imitação, que, se for acompanhada de paciência, também terá merecimento de martírio.\n\nVIEIRA, A. Sermões. Tomo XI. Porto: Lello & Irmão, 1951 (adaptado).\n\nO trecho do sermão do Padre Antônio Vieira estabelece uma relação entre a Paixão de Cristo e",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a atividade dos comerciantes de açúcar nos portos brasileiros"
+      },
+      {
+        "letter": "B",
+        "text": "a função dos mestres de açúcar durante a safra de cana"
+      },
+      {
+        "letter": "C",
+        "text": "o sofrimento dos jesuítas na conversão dos ameríndios"
+      },
+      {
+        "letter": "D",
+        "text": "o papel dos senhores na administração dos engenhos"
+      },
+      {
+        "letter": "E",
+        "text": "o trabalho dos escravos na produção de açúcar"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os elementos enumerados por Vieira identificam o público a quem ele se dirige: \"os ferros, as prisões, os açoites, as chagas, os nomes afrontosos\", além da nudez, da fome e do trabalho ininterrupto de dia e de noite. São as condições dos africanos escravizados nos engenhos, e o pregador as compara ao martírio de Cristo, exortando-os à paciência. Nem comerciantes, nem mestres de açúcar, nem senhores estavam sujeitos a ferros e açoites, e os jesuítas não trabalhavam nos engenhos - o que elimina as demais alternativas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q41",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 41,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Fugindo à luta de classes, a nossa organização sindical tem sido um instrumento de harmonia e de cooperação entre o capital e o trabalho. Não se limitou a um sindicalismo puramente \"operário\", que conduziria certamente a luta contra o \"patrão\", como aconteceu com outros povos.\n\nFALCÃO, W. Cartas sindicais. In: Boletim do Ministério do Trabalho, Indústria e Comércio. Rio de Janeiro, set. 1941 (adaptado).\n\nNesse documento oficial, à época do Estado Novo (1937-1945), é apresentada uma concepção de organização sindical que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elimina os conflitos no ambiente das fábricas"
+      },
+      {
+        "letter": "B",
+        "text": "limita os direitos associativos do segmento patronal"
+      },
+      {
+        "letter": "C",
+        "text": "orienta a busca do consenso entre trabalhadores e patrões"
+      },
+      {
+        "letter": "D",
+        "text": "proíbe o registro de estrangeiros nas entidades profissionais do país"
+      },
+      {
+        "letter": "E",
+        "text": "desobriga o Estado quanto aos direitos e deveres da classe trabalhadora"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O documento define o sindicato varguista como \"instrumento de harmonia e de cooperação entre o capital e o trabalho\", recusando explicitamente a luta de classes e o sindicalismo operário voltado ao enfrentamento do patrão. A concepção é a do corporativismo: sindicatos tutelados pelo Estado, cuja função é produzir consenso entre as partes, e não representar apenas os trabalhadores. A alternativa (A) confunde a intenção declarada com o resultado, pois os conflitos não desaparecem por decreto; e (B), (D) e (E) atribuem ao texto proibições e omissões que ele não enuncia - ao contrário, o Estado varguista se apresentava como garantidor dos direitos trabalhistas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q42",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 42,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "O uso da água aumenta de acordo com as necessidades da população no mundo. Porém, diferentemente do que se possa imaginar, o aumento do consumo de água superou em duas vezes o crescimento populacional durante o século XX.\n\nTEIXEIRA, W. et al. Decifrando a Terra. São Paulo: Cia. Editora Nacional, 2009.\n\nUma estratégia socioespacial que pode contribuir para alterar a lógica de uso da água apresentada no texto é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação de sistemas de reutilização hídrica"
+      },
+      {
+        "letter": "B",
+        "text": "expansão da irrigação por aspersão das lavouras"
+      },
+      {
+        "letter": "C",
+        "text": "intensificação do controle do desmatamento de florestas"
+      },
+      {
+        "letter": "D",
+        "text": "adoção de técnicas tradicionais de produção"
+      },
+      {
+        "letter": "E",
+        "text": "criação de incentivos fiscais para o cultivo de produtos orgânicos"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O problema apontado é que o consumo cresce mais rápido que a população, ou seja, cada pessoa usa cada vez mais água. Reutilizar a água - tratando efluentes para reaproveitamento industrial, agrícola ou urbano - ataca diretamente essa lógica, pois permite atender à demanda sem captar volumes crescentes dos mananciais. A alternativa (B) agrava o problema, já que a aspersão é uma técnica de alta perda por evaporação; e as demais, embora ambientalmente positivas, atuam sobre a preservação de mananciais ou o uso de agrotóxicos, sem alterar o volume consumido por pessoa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q43",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 43,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Minha vida é andar / Por esse país / Pra ver se um dia / Descanso feliz / Guardando as recordações / Das terras onde passei / Andando pelos sertões / E dos amigos que lá deixei\n\nGONZAGA, L.; CORDOVIL, H. A vida de viajante, 1953 (fragmento).\n\nA letra dessa canção reflete elementos identitários que representam a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização das características naturais do Sertão nordestino"
+      },
+      {
+        "letter": "B",
+        "text": "denúncia da precariedade social provocada pela seca"
+      },
+      {
+        "letter": "C",
+        "text": "experiência de deslocamento vivenciada pelo migrante"
+      },
+      {
+        "letter": "D",
+        "text": "profunda desigualdade social entre as regiões brasileiras"
+      },
+      {
+        "letter": "E",
+        "text": "discriminação dos nordestinos nos grandes centros urbanos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A canção é construída inteiramente sobre o movimento: \"minha vida é andar\", \"andando pelos sertões\", \"terras onde passei\", \"amigos que lá deixei\". O eu lírico está sempre em trânsito, e o descanso é adiado para \"um dia\" - a condição do migrante, que Luiz Gonzaga fez tema de sua obra. A denúncia da seca e da desigualdade regional aparece em outras canções do compositor, mas não neste fragmento, que também não descreve a natureza do sertão nem menciona discriminação nas cidades.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q44",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 44,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Próximo da Igreja dedicada a São Gonçalo nos deparamos com uma impressionante multidão que dançava ao som de suas violas. Tão logo viram o Vice-Rei, cercaram-no e o obrigaram a dançar e pular, exercício violento e pouco apropriado tanto para sua idade quanto posição. Tivemos nós mesmos que entrar na dança, por bem ou por mal, e não deixou de ser interessante ver numa igreja padres, mulheres, frades, cavalheiros e escravos a dançar e pular misturados, e a gritar a plenos pulmões \"Viva São Gonçalo do Amarante\".\n\nBARBINAIS, Le Gentil. Nouveau Voyage autour du monde. Apud TINHORÃO, J. R. As festas no Brasil Colonial. São Paulo: Ed. 34, 2000 (adaptado).\n\nO viajante francês, ao descrever suas impressões sobre uma festa ocorrida em Salvador, em 1717, demonstra dificuldade em entendê-la, porque, como outras manifestações religiosas do período colonial, ela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "seguia os preceitos advindos da hierarquia católica romana"
+      },
+      {
+        "letter": "B",
+        "text": "demarcava a submissão do povo à autoridade constituída"
+      },
+      {
+        "letter": "C",
+        "text": "definia o pertencimento dos padres às camadas populares"
+      },
+      {
+        "letter": "D",
+        "text": "afirmava um sentido comunitário de partilha da devoção"
+      },
+      {
+        "letter": "E",
+        "text": "harmonizava as relações sociais entre escravos e senhores"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O que espanta o viajante é ver \"padres, mulheres, frades, cavalheiros e escravos a dançar e pular misturados\": na festa, a devoção coletiva suspende momentaneamente as distinções de estamento, e até o vice-rei é arrastado para a dança. Trata-se de uma partilha comunitária da fé, característica do catolicismo popular brasileiro, e é justamente essa informalidade que o francês, habituado à liturgia europeia, não compreende. As alternativas (A) e (B) contrariam a cena, que rompe com a formalidade eclesiástica e inverte a deferência devida à autoridade; e (E) confunde a suspensão temporária das hierarquias durante a festa com harmonia social efetiva, que a escravidão tornava impossível.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q46",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 46,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Para diminuir o acúmulo de lixo e o desperdício de materiais de valor econômico e, assim, reduzir a exploração de recursos naturais, adotou-se, em escala internacional, a política dos três erres: Redução, Reutilização e Reciclagem.\n\nUm exemplo de reciclagem é a utilização de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "garrafas de vidro retornáveis para cerveja ou refrigerante"
+      },
+      {
+        "letter": "B",
+        "text": "latas de alumínio como material para fabricação de lingotes"
+      },
+      {
+        "letter": "C",
+        "text": "sacos plásticos de supermercado como acondicionantes de lixo caseiro"
+      },
+      {
+        "letter": "D",
+        "text": "embalagens plásticas vazias e limpas para acondicionar outros alimentos"
+      },
+      {
+        "letter": "E",
+        "text": "garrafas PET recortadas em tiras para fabricação de cerdas de vassouras"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Reciclar exige que o material seja reprocessado, perdendo sua forma original para dar origem a um novo produto. É o que ocorre em (B): as latas são fundidas e transformadas em lingotes de alumínio, matéria-prima para novos objetos. Nas demais alternativas o objeto é aproveitado tal como está, apenas com nova finalidade - garrafas retornáveis são lavadas e reenchidas, sacolas viram sacos de lixo, embalagens guardam outros alimentos e garrafas PET são cortadas em tiras. Todos esses são casos de reutilização, o segundo erre, e não de reciclagem.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q47",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 47,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um dos problemas ambientais vivenciados pela agricultura hoje em dia é a compactação do solo, devida ao intenso tráfego de máquinas cada vez mais pesadas, reduzindo a produtividade das culturas.\n\nUma das formas de prevenir o problema de compactação do solo é substituir os pneus dos tratores por pneus mais",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "largos, reduzindo a pressão sobre o solo"
+      },
+      {
+        "letter": "B",
+        "text": "estreitos, reduzindo a pressão sobre o solo"
+      },
+      {
+        "letter": "C",
+        "text": "largos, aumentando a pressão sobre o solo"
+      },
+      {
+        "letter": "D",
+        "text": "estreitos, aumentando a pressão sobre o solo"
+      },
+      {
+        "letter": "E",
+        "text": "altos, reduzindo a pressão sobre o solo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pressão é dada por p = F/A. O peso do trator não muda, mas pneus mais largos aumentam a área de contato com o solo, distribuindo a mesma força por uma superfície maior e reduzindo a pressão exercida em cada ponto. Menor pressão significa menor compactação. Pneus estreitos produziriam o efeito oposto, concentrando a força numa área menor; e a altura do pneu não altera a área de contato, o que elimina a alternativa (E).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q48",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 48,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "O milho transgênico é produzido a partir da manipulação do milho original, com a transferência, para este, de um gene de interesse retirado de outro organismo de espécie diferente.\n\nA característica de interesse será manifestada em decorrência",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "do incremento do DNA a partir da duplicação do gene transferido"
+      },
+      {
+        "letter": "B",
+        "text": "da transcrição do RNA transportador a partir do gene transferido"
+      },
+      {
+        "letter": "C",
+        "text": "da expressão de proteínas sintetizadas a partir do DNA não hibridizado"
+      },
+      {
+        "letter": "D",
+        "text": "da síntese de carboidratos a partir da ativação do DNA do milho original"
+      },
+      {
+        "letter": "E",
+        "text": "da tradução do RNA mensageiro sintetizado a partir do DNA recombinante"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A característica só se manifesta quando o gene inserido é efetivamente expresso, e a expressão gênica ocorre em duas etapas: o DNA recombinante - o genoma do milho com o gene estrangeiro incorporado - é transcrito em RNA mensageiro, que é então traduzido nos ribossomos, produzindo a proteína responsável pela nova característica. A alternativa (B) confunde os tipos de RNA, pois quem carrega a mensagem é o mensageiro, e não o transportador; (A) trata apenas de duplicação, que não gera proteína; (C) contraria o processo, já que a característica depende justamente do DNA recombinante; e (D) atribui o resultado ao genoma original.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q50",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 50,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Os carrinhos de brinquedo podem ser de vários tipos. Dentre eles, há os movidos a corda, em que uma mola em seu interior é comprimida quando a criança puxa o carrinho para trás. Ao ser solto, o carrinho entra em movimento enquanto a mola volta à sua forma inicial.\n\nO processo de conversão de energia que ocorre no carrinho descrito também é verificado em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "um dínamo"
+      },
+      {
+        "letter": "B",
+        "text": "um freio de automóvel"
+      },
+      {
+        "letter": "C",
+        "text": "um motor a combustão"
+      },
+      {
+        "letter": "D",
+        "text": "uma usina hidroelétrica"
+      },
+      {
+        "letter": "E",
+        "text": "uma atiradeira (estilingue)"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No carrinho, a mola comprimida armazena energia potencial elástica, que ao ser liberada se converte em energia cinética. O estilingue reproduz exatamente essa sequência: o elástico esticado acumula energia potencial elástica e a transfere como energia cinética à pedra. Nas demais opções a conversão é outra: o dínamo transforma energia mecânica em elétrica, o freio converte cinética em térmica, o motor a combustão converte química em mecânica e a usina hidrelétrica converte potencial gravitacional em elétrica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q51",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 51,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Pesticidas são contaminantes ambientais altamente tóxicos aos seres vivos e, geralmente, com grande persistência ambiental. A busca por novas formas de eliminação dos pesticidas tem aumentado nos últimos anos, uma vez que as técnicas atuais são economicamente dispendiosas e paliativas. A biorremediação de pesticidas utilizando microrganismos tem se mostrado uma técnica muito promissora para essa finalidade, por apresentar vantagens econômicas e ambientais.\n\nPara ser utilizado nesta técnica promissora, um microrganismo deve ser capaz de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "transferir o contaminante do solo para a água"
+      },
+      {
+        "letter": "B",
+        "text": "absorver o contaminante sem alterá-lo quimicamente"
+      },
+      {
+        "letter": "C",
+        "text": "apresentar alta taxa de mutação ao longo das gerações"
+      },
+      {
+        "letter": "D",
+        "text": "estimular o sistema imunológico do homem contra o contaminante"
+      },
+      {
+        "letter": "E",
+        "text": "metabolizar o contaminante, liberando subprodutos menos tóxicos ou atóxicos"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Biorremediação significa eliminar o contaminante, não apenas deslocá-lo. Para isso, o microrganismo precisa usar o pesticida como substrato em seu metabolismo, degradando-o em compostos mais simples e menos tóxicos ou atóxicos. As alternativas (A) e (B) apenas mudam o poluente de lugar ou o acumulam, mantendo-o íntegro no ambiente - soluções paliativas, como as que o texto critica. A alternativa (C) é indesejável, pois alta taxa de mutação tornaria o comportamento do microrganismo imprevisível; e (D) confunde biorremediação com imunização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q52",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 52,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Medidas de saneamento básico são fundamentais no processo de promoção de saúde e qualidade de vida da população. Muitas vezes, a falta de saneamento está relacionada com o aparecimento de várias doenças. Nesse contexto, um paciente dá entrada em um pronto atendimento relatando que há 30 dias teve contato com águas de enchente. Ainda informa que nesta localidade não há rede de esgoto e drenagem de águas pluviais e que a coleta de lixo é inadequada. Ele apresenta os seguintes sintomas: febre, dor de cabeça e dores musculares.\n\nRelacionando os sintomas apresentados com as condições sanitárias da localidade, há indicações de que o paciente apresenta um caso de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difteria"
+      },
+      {
+        "letter": "B",
+        "text": "botulismo"
+      },
+      {
+        "letter": "C",
+        "text": "tuberculose"
+      },
+      {
+        "letter": "D",
+        "text": "leptospirose"
+      },
+      {
+        "letter": "E",
+        "text": "meningite meningocócica"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Três elementos apontam para a leptospirose: o contato com águas de enchente, a ausência de coleta de lixo adequada - que favorece a presença de ratos, hospedeiros da bactéria Leptospira - e o quadro de febre, cefaleia e mialgia. A transmissão ocorre pelo contato da pele com água contaminada pela urina dos roedores, situação típica de enchentes em áreas sem saneamento. As demais doenças têm outras vias de transmissão: difteria e meningite se propagam por gotículas respiratórias, a tuberculose pelo ar, e o botulismo por alimentos mal conservados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q53",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 53,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "O rótulo de um desodorante aerossol informa ao consumidor que o produto possui em sua composição os gases isobutano, butano e propano, dentre outras substâncias. Além dessa informação, o rótulo traz, ainda, a inscrição \"Não contém CFC\". As reações a seguir, que ocorrem na estratosfera, justificam a não utilização de CFC (clorofluorcarbono ou Freon) nesse desodorante:\n\nI) CF2Cl2 --UV--> •CF2Cl + •Cl\nII) •Cl + O3 --> O2 + •ClO\n\nA preocupação com as possíveis ameaças à camada de ozônio (O3) baseia-se na sua principal função: proteger a matéria viva na Terra dos efeitos prejudiciais dos raios solares ultravioleta.\n\nA finalidade da utilização dos gases isobutano, butano e propano neste aerossol é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "substituir o CFC, pois não reagem com o ozônio, servindo como gases propelentes em aerossóis"
+      },
+      {
+        "letter": "B",
+        "text": "servir como propelentes, pois, como são muito reativos, capturam o Freon existente livre na atmosfera, impedindo a destruição do ozônio"
+      },
+      {
+        "letter": "C",
+        "text": "reagir com o ar, pois se decompõem espontaneamente em dióxido de carbono (CO2) e água (H2O), que não atacam o ozônio"
+      },
+      {
+        "letter": "D",
+        "text": "impedir a destruição do ozônio pelo CFC, pois os hidrocarbonetos gasosos reagem com a radiação UV, liberando hidrogênio (H2), que reage com o oxigênio do ar (O2), formando água (H2O)"
+      },
+      {
+        "letter": "E",
+        "text": "destruir o CFC, pois reagem com a radiação UV, liberando carbono (C), que reage com o oxigênio do ar (O2), formando dióxido de carbono (CO2), que é inofensivo para a camada de ozônio"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Num aerossol, o propelente é o gás sob pressão que expulsa o produto da embalagem - função antes exercida pelo CFC. As reações mostram por que ele foi abandonado: a radiação ultravioleta rompe a molécula liberando cloro radicalar, que destrói o ozônio. Isobutano, butano e propano são hidrocarbonetos simples, sem cloro, e por isso cumprem o mesmo papel mecânico sem atacar a camada de ozônio. As alternativas (B), (D) e (E) atribuem a esses gases uma ação química sobre o CFC ou sobre a atmosfera que eles não exercem: seu papel é apenas substituí-lo como propelente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q54",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 54,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Em um dia de chuva muito forte, constatou-se uma goteira sobre o centro de uma piscina coberta, formando um padrão de ondas circulares. Nessa situação, observou-se que caíam duas gotas a cada segundo. A distância entre duas cristas consecutivas era de 25 cm e cada uma delas se aproximava da borda da piscina com velocidade de 1,0 m/s. Após algum tempo a chuva diminuiu e a goteira passou a cair uma vez por segundo.\n\nCom a diminuição da chuva, a distância entre as cristas e a velocidade de propagação da onda se tornaram, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "maior que 25 cm e maior que 1,0 m/s"
+      },
+      {
+        "letter": "B",
+        "text": "maior que 25 cm e igual a 1,0 m/s"
+      },
+      {
+        "letter": "C",
+        "text": "menor que 25 cm e menor que 1,0 m/s"
+      },
+      {
+        "letter": "D",
+        "text": "menor que 25 cm e igual a 1,0 m/s"
+      },
+      {
+        "letter": "E",
+        "text": "igual a 25 cm e igual a 1,0 m/s"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A velocidade de propagação de uma onda depende exclusivamente do meio - aqui, a água da piscina, que não mudou -, e por isso permanece 1,0 m/s. O que muda é a frequência da fonte, que cai de 2 Hz para 1 Hz. Pela equação fundamental v = λf, com v constante, o comprimento de onda é inversamente proporcional à frequência: antes, λ = 1,0/2 = 0,5 m, valor coerente com os 25 cm medidos entre cristas sucessivas na direção observada; com a frequência reduzida à metade, λ dobra. A distância entre as cristas torna-se, portanto, maior que 25 cm, enquanto a velocidade continua igual a 1,0 m/s. Intuitivamente: com gotas mais espaçadas no tempo, cada onda tem mais tempo para se afastar antes que a seguinte seja gerada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q56",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 56,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Considere um modelo de sistema de interações entre seres vivos que apresenta duas propriedades, P1 e P2, que interagem em I, para afetar uma terceira propriedade, P3, quando o sistema é alimentado por uma fonte de energia, E. Essa figura pode simular um sistema de campo em que P1 representa as plantas verdes, P2 um animal herbívoro e P3, um animal onívoro.\n\nODUM, E. P. Ecologia. Rio de Janeiro: Guanabara Koogan, 1988.\n\nA função interativa I representa a proporção de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "herbivoria entre P1 e P2"
+      },
+      {
+        "letter": "B",
+        "text": "polinização entre P1 e P2"
+      },
+      {
+        "letter": "C",
+        "text": "P3 utilizada na alimentação de P1 e P2"
+      },
+      {
+        "letter": "D",
+        "text": "P1 ou P2 utilizada na alimentação de P3"
+      },
+      {
+        "letter": "E",
+        "text": "energia de P1 e de P2 que saem do sistema"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No modelo, I é o ponto em que P1 e P2 interagem para afetar P3. Como P3 é um animal onívoro, ele se alimenta tanto de vegetais (P1) quanto de animais (P2), e é essa dupla fonte de alimento que determina sua condição. A função interativa representa, portanto, a proporção de P1 ou P2 consumida por P3. A alternativa (A) descreve a relação entre P1 e P2 isoladamente, sem envolver P3, que é o alvo da interação; (C) inverte o sentido da cadeia; e (E) trata de saída de energia do sistema, e não da interação descrita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q57",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 57,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "Muitas espécies de plantas lenhosas são encontradas no cerrado brasileiro. Para a sobrevivência nas condições de longos períodos de seca e queimadas periódicas, próprias desse ecossistema, essas plantas desenvolveram estruturas muito peculiares.\n\nAs estruturas adaptativas mais apropriadas para a sobrevivência desse grupo de plantas nas condições ambientais do referido ecossistema são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cascas finas e sem sulcos ou fendas"
+      },
+      {
+        "letter": "B",
+        "text": "Caules estreitos e retilíneos"
+      },
+      {
+        "letter": "C",
+        "text": "Folhas estreitas e membranosas"
+      },
+      {
+        "letter": "D",
+        "text": "Gemas apicais com densa pilosidade"
+      },
+      {
+        "letter": "E",
+        "text": "Raízes superficiais, em geral, aéreas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cerrado impõe duas pressões simultâneas: seca prolongada e fogo periódico. A densa pilosidade que recobre as gemas apicais funciona como isolante térmico, protegendo os tecidos de crescimento do calor das queimadas, e ao mesmo tempo reduz a perda de água por transpiração. As demais alternativas descrevem características incompatíveis com esse ambiente: casca fina não protege do fogo - daí os troncos grossos e com cortiça espessa das árvores do cerrado -, folhas membranosas perdem água facilmente, e raízes superficiais não alcançam o lençol freático profundo, indispensável na estação seca.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q58",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 58,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A própolis é um produto natural conhecido por suas propriedades anti-inflamatórias e cicatrizantes. Esse material contém mais de 200 compostos identificados até o momento. Dentre eles, alguns são de estrutura simples, como é o caso do C6H5CO2CH2CH3.\n\nO ácido carboxílico e o álcool capazes de produzir o éster em apreço por meio da reação de esterificação são, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ácido benzoico e etanol"
+      },
+      {
+        "letter": "B",
+        "text": "ácido propanoico e hexanol"
+      },
+      {
+        "letter": "C",
+        "text": "ácido fenilacético e metanol"
+      },
+      {
+        "letter": "D",
+        "text": "ácido propiônico e cicloexanol"
+      },
+      {
+        "letter": "E",
+        "text": "ácido acético e álcool benzílico"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A esterificação decompõe o éster em suas duas origens: a porção acila (R-CO-O) vem do ácido carboxílico e a porção alquila ligada ao oxigênio vem do álcool. Na fórmula C6H5CO2CH2CH3, o grupo C6H5-CO-O corresponde ao ácido benzoico (C6H5COOH), pois traz o anel aromático diretamente ligado à carbonila; e o grupo CH2CH3 (etila) corresponde ao etanol. As demais alternativas propõem combinações incompatíveis com a fórmula: o ácido fenilacético teria um CH2 entre o anel e a carbonila, e as opções restantes não geram um éster aromático com apenas dois carbonos na porção alcoólica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q59",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 59,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "No Japão, um movimento nacional para a promoção da luta contra o aquecimento global leva o slogan: 1 pessoa, 1 dia, 1 kg de CO2 a menos! A ideia é que cada pessoa reduza em 1 kg a quantidade de CO2 emitida todo dia, por meio de pequenos gestos ecológicos, como diminuir a queima de gás de cozinha.\n\nConsiderando um processo de combustão completa de um gás de cozinha composto exclusivamente por butano (C4H10), a mínima quantidade desse gás que deve deixar de ser queimada para atender à meta diária de um japonês, apenas com esse gesto, é de\n\nDados: CO2 (44 g/mol); C4H10 (58 g/mol)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,25 kg"
+      },
+      {
+        "letter": "B",
+        "text": "0,33 kg"
+      },
+      {
+        "letter": "C",
+        "text": "1,0 kg"
+      },
+      {
+        "letter": "D",
+        "text": "1,3 kg"
+      },
+      {
+        "letter": "E",
+        "text": "3,0 kg"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A combustão completa do butano é 2 C4H10 + 13 O2 → 8 CO2 + 10 H2O, ou seja, cada mol de butano gera 4 mols de CO2. Para deixar de emitir 1 kg de CO2 são 1000/44 ≈ 22,7 mols desse gás, o que corresponde a 22,7/4 ≈ 5,68 mols de butano. Multiplicando pela massa molar: 5,68 × 58 ≈ 329 g, ou aproximadamente 0,33 kg. Note que a massa de butano é menor que a de CO2 evitado, pois cada molécula de butano origina quatro moléculas de gás carbônico, que ainda incorporam oxigênio do ar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q61",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 61,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A eficiência das lâmpadas pode ser comparada utilizando a razão, considerada linear, entre a quantidade de luz produzida e o consumo. A quantidade de luz é medida pelo fluxo luminoso, cuja unidade é o lúmen (lm). O consumo está relacionado à potência elétrica da lâmpada que é medida em watt (W). Por exemplo, uma lâmpada incandescente de 40 W emite cerca de 600 lm, enquanto uma lâmpada fluorescente de 40 W emite cerca de 3 000 lm.\n\nA eficiência de uma lâmpada incandescente de 40 W é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "maior que a de uma lâmpada fluorescente de 8 W, que produz menor quantidade de luz"
+      },
+      {
+        "letter": "B",
+        "text": "maior que a de uma lâmpada fluorescente de 40 W, que produz menor quantidade de luz"
+      },
+      {
+        "letter": "C",
+        "text": "menor que a de uma lâmpada fluorescente de 8 W, que produz a mesma quantidade de luz"
+      },
+      {
+        "letter": "D",
+        "text": "menor que a de uma lâmpada fluorescente de 40 W, pois consome maior quantidade de energia"
+      },
+      {
+        "letter": "E",
+        "text": "igual a de uma lâmpada fluorescente de 40 W, que consome a mesma quantidade de energia"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A eficiência é a razão lúmen por watt. A incandescente de 40 W tem 600/40 = 15 lm/W. A fluorescente de 40 W tem 3000/40 = 75 lm/W, cinco vezes mais. Como a relação é linear, uma fluorescente de 8 W - um quinto de 40 W - produz um quinto de 3000 lm, ou seja, 600 lm, exatamente a mesma quantidade de luz da incandescente, mas consumindo cinco vezes menos. A incandescente é, portanto, menos eficiente que a fluorescente de 8 W, que produz a mesma quantidade de luz. A alternativa (D) chega à conclusão correta por um argumento errado, pois as duas lâmpadas de 40 W consomem igual energia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q62",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 62,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Não é de hoje que o homem cria, artificialmente, variedades de peixes por meio da hibridação. Esta é uma técnica muito usada pelos cientistas e pelos piscicultores porque os híbridos resultantes, em geral, apresentam maior valor comercial do que a média de ambas as espécies parentais, além de reduzir a sobrepesca no ambiente natural.\n\nTerra da Gente, ano 4, n. 47, mar. 2008 (adaptado).\n\nSem controle, esses animais podem invadir rios e lagos naturais, se reproduzir e",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "originar uma nova espécie poliploide"
+      },
+      {
+        "letter": "B",
+        "text": "substituir geneticamente a espécie natural"
+      },
+      {
+        "letter": "C",
+        "text": "ocupar o primeiro nível trófico no hábitat aquático"
+      },
+      {
+        "letter": "D",
+        "text": "impedir a interação biológica entre as espécies parentais"
+      },
+      {
+        "letter": "E",
+        "text": "produzir descendentes com o código genético modificado"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao escapar para o ambiente natural, os híbridos cruzam com as populações nativas e introduzem seus genes no patrimônio genético local. Ao longo das gerações, esse fluxo gênico dilui as características originais das espécies parentais - fenômeno conhecido como poluição genética -, e a população nativa acaba geneticamente substituída. A alternativa (A) supõe poliploidia, que a hibridação por si só não produz; (C) é biologicamente impossível, pois peixes são consumidores e nunca produtores; e (E) confunde hibridação com transgenia, já que o código genético em si permanece o mesmo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q63",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 63,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Há milhares de anos o homem faz uso da biotecnologia para a produção de alimentos como pães, cervejas e vinhos. Na fabricação de pães, por exemplo, são usados fungos unicelulares, chamados de leveduras, que são comercializados como fermento biológico. Eles são usados para promover o crescimento da massa, deixando-a leve e macia.\n\nO crescimento da massa do pão pelo processo citado é resultante da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "liberação de gás carbônico"
+      },
+      {
+        "letter": "B",
+        "text": "formação de ácido lático"
+      },
+      {
+        "letter": "C",
+        "text": "formação de água"
+      },
+      {
+        "letter": "D",
+        "text": "produção de ATP"
+      },
+      {
+        "letter": "E",
+        "text": "liberação de calor"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As leveduras realizam fermentação alcoólica, degradando a glicose da massa em etanol e gás carbônico. O CO2 é um gás e fica retido na rede de glúten, formando as bolhas que fazem a massa crescer e lhe dão a textura leve e macia - o etanol evapora durante o forneamento. A alternativa (B) descreve a fermentação lática, realizada por bactérias na produção de iogurte, não por leveduras; e ATP, água e calor, embora produzidos no processo, não ocupam volume capaz de expandir a massa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q64",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 64,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Alguns povos indígenas ainda preservam suas tradições realizando a pesca com lanças, demonstrando uma notável habilidade. Para fisgar um peixe em um lago com águas tranquilas o índio deve mirar abaixo da posição em que enxerga o peixe.\n\nEle deve proceder dessa forma porque os raios de luz",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "refletidos pelo peixe não descrevem uma trajetória retilínea no interior da água"
+      },
+      {
+        "letter": "B",
+        "text": "emitidos pelos olhos do índio desviam sua trajetória quando passam do ar para a água"
+      },
+      {
+        "letter": "C",
+        "text": "espalhados pelo peixe são refletidos pela superfície da água"
+      },
+      {
+        "letter": "D",
+        "text": "emitidos pelos olhos do índio são espalhados pela superfície da água"
+      },
+      {
+        "letter": "E",
+        "text": "refletidos pelo peixe desviam sua trajetória quando passam da água para o ar"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A luz refletida pelo peixe atravessa a superfície da água e passa a um meio menos refringente, o ar, sofrendo refração e afastando-se da normal. O cérebro, porém, interpreta a luz como se tivesse vindo em linha reta, e por isso o peixe é visto acima de sua posição real - daí a necessidade de mirar abaixo. As alternativas (B) e (D) partem de uma concepção equivocada da visão, pois os olhos não emitem luz; (A) é falsa, já que dentro da água, meio homogêneo, a trajetória é retilínea; e (C) descreve reflexão, e não refração.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q65",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 65,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Os vegetais biossintetizam determinadas substâncias (por exemplo, alcaloides e flavonoides), cuja estrutura química e concentração variam num mesmo organismo em diferentes épocas do ano e estágios de desenvolvimento. Muitas dessas substâncias são produzidas para a adaptação do organismo às variações ambientais (radiação UV, temperatura, parasitas, herbívoros, estímulo a polinizadores etc.) ou fisiológicas (crescimento, envelhecimento etc.).\n\nAs variações qualitativa e quantitativa na produção dessas substâncias durante um ano são possíveis porque o material genético do indivíduo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sofre constantes recombinações para adaptar-se"
+      },
+      {
+        "letter": "B",
+        "text": "muda ao longo do ano e em diferentes fases da vida"
+      },
+      {
+        "letter": "C",
+        "text": "cria novos genes para biossíntese de substâncias específicas"
+      },
+      {
+        "letter": "D",
+        "text": "altera a sequência de bases nitrogenadas para criar novas substâncias"
+      },
+      {
+        "letter": "E",
+        "text": "possui genes transcritos diferentemente de acordo com cada necessidade"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O genoma de um indivíduo é o mesmo em todas as células e ao longo de toda a vida. O que varia é a expressão gênica: estímulos ambientais e fisiológicos ativam ou silenciam determinados genes, de modo que a planta transcreve conjuntos diferentes conforme a necessidade do momento - mais compostos de proteção contra o sol no verão, mais atrativos aos polinizadores na floração. As alternativas (B), (C) e (D) supõem alteração do próprio DNA, o que não ocorre em resposta ao ambiente; e (A) confunde recombinação, que ocorre na meiose, com regulação da expressão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q68",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 68,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O menor tamanduá do mundo é solitário e tem hábitos noturnos, passa o dia repousando, geralmente em um emaranhado de cipós, com o corpo curvado de tal maneira que forma uma bola. Quando em atividade, se locomove vagarosamente e emite som semelhante a um assobio. A cada gestação, gera um único filhote. A cria é deixada em uma árvore à noite e é amamentada pela mãe até que tenha idade para procurar alimento. As fêmeas adultas têm territórios grandes e o território de um macho inclui o de várias fêmeas.\n\nCiência Hoje das Crianças, ano 19, n. 174, nov. 2006 (adaptado).\n\nEssa descrição sobre o tamanduá diz respeito ao seu",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "hábitat"
+      },
+      {
+        "letter": "B",
+        "text": "biótopo"
+      },
+      {
+        "letter": "C",
+        "text": "nível trófico"
+      },
+      {
+        "letter": "D",
+        "text": "nicho ecológico"
+      },
+      {
+        "letter": "E",
+        "text": "potencial biótico"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto não se limita a dizer onde o animal vive: descreve o que ele faz - o período de atividade, a forma de locomoção, a comunicação, o cuidado com a prole, o uso do território e a relação entre os sexos. Esse conjunto de papéis e comportamentos que definem o modo de vida da espécie no ecossistema é o nicho ecológico. Hábitat e biótopo designariam apenas o lugar onde vive; nível trófico, sua posição na cadeia alimentar; e potencial biótico, sua capacidade máxima de reprodução.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q69",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 69,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Uma dona de casa acidentalmente deixou cair na geladeira a água proveniente do degelo de um peixe, o que deixou um cheiro forte e desagradável dentro do eletrodoméstico. Sabe-se que o odor característico de peixe se deve às aminas e que esses compostos se comportam como bases.\n\nNa tabela são listadas as concentrações hidrogeniônicas de alguns materiais encontrados na cozinha:\n\n| Material | Concentração de H3O+ (mol/L) |\n|---|---|\n| Suco de limão | 10⁻² |\n| Leite | 10⁻⁶ |\n| Vinagre | 10⁻³ |\n| Álcool | 10⁻⁸ |\n| Sabão | 10⁻¹² |\n| Carbonato de sódio/barrilha | 10⁻¹² |\n\nDentre os materiais listados, quais são apropriados para amenizar esse odor?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Álcool ou sabão"
+      },
+      {
+        "letter": "B",
+        "text": "Suco de limão ou álcool"
+      },
+      {
+        "letter": "C",
+        "text": "Suco de limão ou vinagre"
+      },
+      {
+        "letter": "D",
+        "text": "Suco de limão, leite ou sabão"
+      },
+      {
+        "letter": "E",
+        "text": "Sabão ou carbonato de sódio/barrilha"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As aminas responsáveis pelo cheiro são básicas, e para neutralizá-las é preciso um material ácido - a reação forma sais não voláteis, que não exalam odor. Os materiais mais ácidos são os de maior concentração de H3O+: o suco de limão (10⁻²) e o vinagre (10⁻³). Sabão e barrilha, com 10⁻¹², são fortemente básicos e agravariam o problema, e o álcool, com 10⁻⁸, é praticamente neutro. Esse é o princípio por trás do costume de temperar peixe com limão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q70",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 70,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Em uma planície, ocorreu um acidente ambiental em decorrência do derramamento de grande quantidade de um hidrocarboneto que se apresenta na forma pastosa à temperatura ambiente. Um químico ambiental utilizou uma quantidade apropriada de uma solução de para-dodecil-benzenossulfonato de sódio, um agente tensoativo sintético, para diminuir os impactos desse acidente.\n\nEssa intervenção produz resultados positivos para o ambiente porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promove uma reação de substituição no hidrocarboneto, tornando-o menos letal ao ambiente"
+      },
+      {
+        "letter": "B",
+        "text": "a hidrólise do para-dodecil-benzenossulfonato de sódio produz energia térmica suficiente para vaporizar o hidrocarboneto"
+      },
+      {
+        "letter": "C",
+        "text": "a mistura desses reagentes provoca a combustão do hidrocarboneto, o que diminui a quantidade dessa substância na natureza"
+      },
+      {
+        "letter": "D",
+        "text": "a solução de para-dodecil-benzenossulfonato possibilita a solubilização do hidrocarboneto"
+      },
+      {
+        "letter": "E",
+        "text": "o reagente adicionado provoca uma solidificação do hidrocarboneto, o que facilita sua retirada do ambiente"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O para-dodecil-benzenossulfonato de sódio é um detergente, e sua molécula é anfifílica: possui uma longa cadeia apolar (dodecil-benzeno) e uma extremidade iônica polar (sulfonato de sódio). A parte apolar se dissolve no hidrocarboneto e a polar interage com a água, formando micelas que dispersam o material pastoso no meio aquoso e permitem sua remoção. Não há reação química com o hidrocarboneto, o que elimina as alternativas (A), (B), (C) e (E) - a ação do tensoativo é físico-química, de solubilização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q71",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 71,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Suponha que você seja um consultor e foi contratado para assessorar a implantação de uma matriz energética em um pequeno país com as seguintes características: região plana, chuvosa e com ventos constantes, dispondo de poucos recursos hídricos e sem reservatórios de combustíveis fósseis.\n\nDe acordo com as características desse país, a matriz energética de menor impacto e risco ambientais é a baseada na energia",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dos biocombustíveis, pois tem menor impacto ambiental e maior disponibilidade"
+      },
+      {
+        "letter": "B",
+        "text": "solar, pelo seu baixo custo e pelas características do país favoráveis à sua implantação"
+      },
+      {
+        "letter": "C",
+        "text": "nuclear, por ter menor risco ambiental e ser adequada a locais com menor extensão territorial"
+      },
+      {
+        "letter": "D",
+        "text": "hidráulica, devido ao relevo, à extensão territorial do país e aos recursos naturais disponíveis"
+      },
+      {
+        "letter": "E",
+        "text": "eólica, pelas características do país e por não gerar gases do efeito estufa nem resíduos de operação"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As características do país apontam diretamente para uma única solução: ventos constantes garantem geração contínua, e o relevo plano facilita a instalação e a manutenção dos aerogeradores. A energia eólica ainda não emite gases de efeito estufa nem gera resíduos de operação. As demais opções esbarram nas condições dadas: a hidráulica exige desnível e recursos hídricos, ambos escassos; o país é chuvoso, portanto nublado, o que compromete a geração solar; a nuclear produz rejeitos radioativos e alto risco; e os biocombustíveis demandam grandes áreas agrícolas num território pequeno.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q72",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 72,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma empresa de transportes precisa efetuar a entrega de uma encomenda o mais breve possível. Para tanto, a equipe de logística analisa o trajeto desde a empresa até o local da entrega. Ela verifica que o trajeto apresenta dois trechos de distâncias diferentes e velocidades máximas permitidas diferentes. No primeiro trecho, a velocidade máxima permitida é de 80 km/h e a distância a ser percorrida é de 80 km. No segundo trecho, cujo comprimento vale 60 km, a velocidade máxima permitida é 120 km/h.\n\nSupondo que as condições de trânsito sejam favoráveis para que o veículo da empresa ande continuamente na velocidade máxima permitida, qual será o tempo necessário, em horas, para a realização da entrega?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,7"
+      },
+      {
+        "letter": "B",
+        "text": "1,4"
+      },
+      {
+        "letter": "C",
+        "text": "1,5"
+      },
+      {
+        "letter": "D",
+        "text": "2,0"
+      },
+      {
+        "letter": "E",
+        "text": "3,0"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O tempo deve ser calculado separadamente em cada trecho e depois somado, pois as velocidades são diferentes. No primeiro trecho, t1 = 80/80 = 1,0 h. No segundo, t2 = 60/120 = 0,5 h. O tempo total é 1,0 + 0,5 = 1,5 h. Um erro frequente seria calcular a média aritmética das velocidades e dividir a distância total por ela, o que daria resultado incorreto, já que os tempos gastos em cada trecho não são iguais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q74",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 74,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A característica que permite identificar um planeta no céu é o seu movimento relativo às estrelas fixas. Se observarmos a posição de um planeta por vários dias, verificaremos que sua posição em relação às estrelas fixas se modifica regularmente. Observado da Terra em intervalos de 10 dias, Marte descreve uma trajetória que avança, retrocede e volta a avançar, formando um laço - o chamado movimento retrógrado.\n\nQual a causa da forma da trajetória do planeta Marte registrada na figura?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A maior velocidade orbital da Terra faz com que, em certas épocas, ela ultrapasse Marte"
+      },
+      {
+        "letter": "B",
+        "text": "A presença de outras estrelas faz com que sua trajetória seja desviada por meio da atração gravitacional"
+      },
+      {
+        "letter": "C",
+        "text": "A órbita de Marte, em torno do Sol, possui uma forma elíptica mais acentuada que a dos demais planetas"
+      },
+      {
+        "letter": "D",
+        "text": "A atração gravitacional entre a Terra e Marte faz com que este planeta apresente uma órbita irregular em torno do Sol"
+      },
+      {
+        "letter": "E",
+        "text": "A proximidade de Marte com Júpiter, em algumas épocas do ano, faz com que a atração gravitacional de Júpiter interfira em seu movimento"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O movimento retrógrado é um efeito de perspectiva, não uma alteração real da órbita de Marte. Estando mais próxima do Sol, a Terra tem maior velocidade orbital e periodicamente ultrapassa Marte, como um carro veloz que passa por outro mais lento numa pista ao lado. Durante a ultrapassagem, Marte parece recuar em relação às estrelas de fundo, desenhando o laço observado. As demais alternativas atribuem o fenômeno a perturbações gravitacionais reais - de estrelas, da Terra ou de Júpiter - que seriam desprezíveis, ou à excentricidade da órbita, que não produziria esse efeito.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q75",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 75,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Em certos locais, larvas de moscas, criadas em arroz cozido, são utilizadas como iscas para pesca. Alguns criadores, no entanto, acreditam que essas larvas surgem espontaneamente do arroz cozido, tal como preconizado pela teoria da geração espontânea.\n\nEssa teoria começou a ser refutada pelos cientistas ainda no século XVII, a partir dos estudos de Redi e Pasteur, que mostraram experimentalmente que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "seres vivos podem ser criados em laboratório"
+      },
+      {
+        "letter": "B",
+        "text": "a vida se originou no planeta a partir de microrganismos"
+      },
+      {
+        "letter": "C",
+        "text": "o ser vivo é oriundo da reprodução de outro ser vivo pré-existente"
+      },
+      {
+        "letter": "D",
+        "text": "seres vermiformes e microrganismos são evolutivamente aparentados"
+      },
+      {
+        "letter": "E",
+        "text": "vermes e microrganismos são gerados pela matéria existente nos cadáveres e nos caldos nutritivos, respectivamente"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Redi cobriu frascos com carne usando gaze e verificou que larvas só apareciam onde as moscas podiam pousar. Pasteur, com seus frascos de pescoço de cisne, mostrou que caldos nutritivos fervidos permaneciam estéreis enquanto os microrganismos do ar ficassem retidos na curvatura. Ambos demonstraram o mesmo princípio - a biogênese: todo ser vivo provém de outro ser vivo preexistente. A alternativa (E) enuncia justamente a abiogênese que os experimentos refutaram; e (A), (B) e (D) tratam de questões que esses estudos não abordaram.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q76",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 76,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Os tubos de PVC, material organoclorado sintético, são normalmente utilizados como encanamento na construção civil. Ao final da sua vida útil, uma das formas de descarte desses tubos pode ser a incineração. Nesse processo libera-se HCl (g), cloreto de hidrogênio, dentre outras substâncias. Assim, é necessário um tratamento para evitar o problema da emissão desse poluente.\n\nEntre as alternativas possíveis para o tratamento, é apropriado canalizar e borbulhar os gases provenientes da incineração em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "água dura"
+      },
+      {
+        "letter": "B",
+        "text": "água de cal"
+      },
+      {
+        "letter": "C",
+        "text": "água salobra"
+      },
+      {
+        "letter": "D",
+        "text": "água destilada"
+      },
+      {
+        "letter": "E",
+        "text": "água desmineralizada"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O HCl é um gás ácido, e neutralizá-lo exige uma base. A água de cal é uma solução de hidróxido de cálcio, Ca(OH)2, que reage com o cloreto de hidrogênio formando cloreto de cálcio e água, retendo o poluente antes que atinja a atmosfera. As demais opções são neutras ou apenas contêm sais dissolvidos: água destilada e desmineralizada dissolveriam o HCl formando ácido clorídrico, sem neutralizá-lo, e água dura e salobra também não fornecem o caráter básico necessário à reação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q77",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 77,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um consumidor desconfia que a balança do supermercado não está aferindo corretamente a massa dos produtos. Ao chegar a casa resolve conferir se a balança estava descalibrada. Para isso, utiliza um recipiente provido de escala volumétrica, contendo 1,0 litro d'água. Ele coloca uma porção dos legumes que comprou dentro do recipiente e observa que a água atinge a marca de 1,5 litro e também que a porção não ficara totalmente submersa, com 1/3 de seu volume fora d'água. Para concluir o teste, o consumidor verifica que a densidade dos legumes em questão é a metade da densidade da água, sendo ρágua = 1 g/cm³.\n\nNo supermercado a balança registrou a massa da porção de legumes igual a 0,500 kg (meio quilograma). Considerando que o método adotado tenha boa precisão, o consumidor concluiu que a balança estava descalibrada e deveria ter registrado a massa da porção de legumes igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,073 kg"
+      },
+      {
+        "letter": "B",
+        "text": "0,167 kg"
+      },
+      {
+        "letter": "C",
+        "text": "0,250 kg"
+      },
+      {
+        "letter": "D",
+        "text": "0,375 kg"
+      },
+      {
+        "letter": "E",
+        "text": "0,750 kg"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A elevação do nível da água, de 1,0 para 1,5 litro, corresponde ao volume da parte submersa dos legumes: 500 cm³. Como 1/3 do volume ficou fora d'água, a parte submersa representa 2/3 do total, de modo que o volume completo é V = 500 ÷ (2/3) = 750 cm³. Com densidade igual à metade da água, ρ = 0,5 g/cm³, a massa é m = ρV = 0,5 × 750 = 375 g, ou 0,375 kg - bem menos que os 0,500 kg registrados pela balança, o que confirma a desconfiança do consumidor. O erro mais comum aqui é tomar os 500 cm³ deslocados como o volume total da porção, esquecendo a parte que boiava.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q81",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 81,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Paleontólogos estudam fósseis e esqueletos de dinossauros para tentar explicar o desaparecimento desses animais. Esses estudos permitem afirmar que esses animais foram extintos há cerca de 65 milhões de anos. Uma teoria aceita atualmente é a de que um asteroide colidiu com a Terra, formando uma densa nuvem de poeira na atmosfera.\n\nDe acordo com essa teoria, a extinção ocorreu em função de modificações no planeta que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desestabilizaram o relógio biológico dos animais, causando alterações no código genético"
+      },
+      {
+        "letter": "B",
+        "text": "reduziram a penetração da luz solar até a superfície da Terra, interferindo no fluxo energético das teias tróficas"
+      },
+      {
+        "letter": "C",
+        "text": "causaram uma série de intoxicações nos animais, provocando a bioacumulação de partículas de poeira nos organismos"
+      },
+      {
+        "letter": "D",
+        "text": "resultaram na sedimentação das partículas de poeira levantada com o impacto do meteoro, provocando o desaparecimento de rios e lagos"
+      },
+      {
+        "letter": "E",
+        "text": "evitaram a precipitação de água até a superfície da Terra, causando uma grande seca que impediu a retroalimentação do ciclo hidrológico"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A nuvem de poeira em suspensão bloqueou a luz solar por um período prolongado. Sem luz, os produtores - plantas e algas - não puderam realizar fotossíntese e morreram em massa. Como toda a energia das teias alimentares entra pelos produtores, o colapso se propagou aos herbívoros e, em seguida, aos carnívoros, culminando na extinção em cadeia. As demais alternativas atribuem o desaparecimento a alterações genéticas, intoxicação por poeira ou desaparecimento de corpos d'água, mecanismos que a teoria do impacto não sustenta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q82",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 82,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O boato de que os lacres das latas de alumínio teriam um alto valor comercial levou muitas pessoas a juntarem esse material na expectativa de ganhar dinheiro com sua venda. As empresas fabricantes de alumínio esclarecem que isso não passa de uma \"lenda urbana\", pois ao retirar o anel da lata, dificulta-se a reciclagem do alumínio. Como a liga do qual é feito o anel contém alto teor de magnésio, se ele não estiver junto com a lata, fica mais fácil ocorrer a oxidação do alumínio no forno. A tabela apresenta as semirreações e os valores de potencial padrão de redução de alguns metais:\n\n| Semirreação | Potencial padrão de redução (V) |\n|---|---|\n| Li⁺ + e⁻ → Li | -3,05 |\n| K⁺ + e⁻ → K | -2,93 |\n| Mg²⁺ + 2 e⁻ → Mg | -2,36 |\n| Al³⁺ + 3 e⁻ → Al | -1,66 |\n| Zn²⁺ + 2 e⁻ → Zn | -0,76 |\n| Cu²⁺ + 2 e⁻ → Cu | +0,34 |\n\nCom base no texto e na tabela, que metais poderiam entrar na composição do anel das latas com a mesma função do magnésio, ou seja, proteger o alumínio da oxidação nos fornos e não deixar diminuir o rendimento da sua reciclagem?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Somente o lítio, pois ele possui o menor potencial de redução"
+      },
+      {
+        "letter": "B",
+        "text": "Somente o cobre, pois ele possui o maior potencial de redução"
+      },
+      {
+        "letter": "C",
+        "text": "Somente o potássio, pois ele possui potencial de redução mais próximo do magnésio"
+      },
+      {
+        "letter": "D",
+        "text": "Somente o cobre e o zinco, pois eles sofrem oxidação mais facilmente que o alumínio"
+      },
+      {
+        "letter": "E",
+        "text": "Somente o lítio e o potássio, pois seus potenciais de redução são menores do que o do alumínio"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O magnésio funciona como metal de sacrifício: por oxidar mais facilmente que o alumínio, é ele que reage no forno, poupando o alumínio. Para cumprir esse papel, o metal precisa ter potencial de redução menor que o do alumínio (-1,66 V), o que indica maior tendência a se oxidar. Na tabela, apenas o lítio (-3,05 V) e o potássio (-2,93 V) satisfazem essa condição. Zinco (-0,76 V) e cobre (+0,34 V) têm potenciais maiores e oxidariam com mais dificuldade que o alumínio, o que elimina a alternativa (D); e as alternativas (A) e (C) restringem a resposta a um único metal sem justificativa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q83",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 83,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Aumentar a eficiência na queima de combustível dos motores a combustão e reduzir suas emissões de poluentes é a meta de qualquer fabricante de motores. É também o foco de uma pesquisa brasileira que envolve experimentos com plasma, o quarto estado da matéria e que está presente no processo de ignição. A interação da faísca emitida pela vela de ignição com as moléculas de combustível gera o plasma que provoca a explosão liberadora de energia que, por sua vez, faz o motor funcionar.\n\nNo entanto, a busca da eficiência referenciada no texto apresenta como fator limitante",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o tipo de combustível, fóssil, que utilizam. Sendo um insumo não renovável, em algum momento estará esgotado"
+      },
+      {
+        "letter": "B",
+        "text": "um dos princípios da termodinâmica, segundo o qual o rendimento de uma máquina térmica nunca atinge o ideal"
+      },
+      {
+        "letter": "C",
+        "text": "o funcionamento cíclico de todos os motores. A repetição contínua dos movimentos exige que parte da energia seja transferida ao próximo ciclo"
+      },
+      {
+        "letter": "D",
+        "text": "as forças de atrito inevitável entre as peças. Tais forças provocam desgastes contínuos que com o tempo levam qualquer material à fadiga e ruptura"
+      },
+      {
+        "letter": "E",
+        "text": "a temperatura em que eles trabalham. Para atingir o plasma, é necessária uma temperatura maior que a de fusão do aço com que se fazem os motores"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A segunda lei da termodinâmica estabelece que nenhuma máquina térmica pode converter integralmente calor em trabalho: parte da energia é necessariamente rejeitada para a fonte fria. O rendimento máximo teórico é dado pelo ciclo de Carnot e depende apenas das temperaturas das fontes quente e fria, jamais alcançando 100%. Esse é o limite físico intransponível para qualquer aprimoramento do motor. As alternativas (A) e (D) apontam limitações de disponibilidade de combustível e de desgaste mecânico, que são práticas e contornáveis; e (E) é factualmente incorreta, pois o plasma da faísca é pontual e não funde o motor.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q84",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 84,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "A falta de conhecimento em relação ao que vem a ser um material radioativo e quais os efeitos, consequências e usos da irradiação pode gerar o medo e a tomada de decisões equivocadas, como a apresentada no exemplo a seguir:\n\n\"Uma companhia aérea negou-se a transportar material médico por este portar um certificado de esterilização por irradiação.\"\n\nFísica na Escola, v. 8, n. 2, 2007 (adaptado).\n\nA decisão tomada pela companhia é equivocada, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o material é incapaz de acumular radiação, não se tornando radioativo por ter sido irradiado"
+      },
+      {
+        "letter": "B",
+        "text": "a utilização de uma embalagem é suficiente para bloquear a radiação emitida pelo material"
+      },
+      {
+        "letter": "C",
+        "text": "a contaminação radioativa do material não se prolifera da mesma forma que as infecções por microrganismos"
+      },
+      {
+        "letter": "D",
+        "text": "o material irradiado emite radiação de intensidade abaixo daquela que ofereceria risco à saúde"
+      },
+      {
+        "letter": "E",
+        "text": "o intervalo de tempo após a esterilização é suficiente para que o material não emita mais radiação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "É preciso distinguir irradiação de contaminação radioativa. Na esterilização, o material é exposto a radiação ionizante que mata os microrganismos e o atravessa, sem deixar resíduo: nenhum átomo radioativo permanece no objeto, que não se torna emissor. A radiação não se acumula. As alternativas (B), (D) e (E) partem do pressuposto errado de que o material emitiria alguma radiação - fraca, bloqueável ou decrescente com o tempo -, quando na verdade ele não emite nenhuma; e (C) admite uma contaminação que não existe.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q85",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 85,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "Ao longo do processo de evolução das plantas, a partir de um ancestral simples, os diferentes grupos vegetais desenvolveram estruturas adaptativas que lhes permitiram sobreviver em diferentes ambientes.\n\nQual das estruturas adaptativas apresentadas contribuiu para uma maior diversidade genética?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "As sementes aladas, que favorecem a dispersão aérea"
+      },
+      {
+        "letter": "B",
+        "text": "Os arquegônios, que protegem o embrião multicelular"
+      },
+      {
+        "letter": "C",
+        "text": "Os grãos de pólen, que garantem a polinização cruzada"
+      },
+      {
+        "letter": "D",
+        "text": "Os frutos, que promovem uma maior eficiência reprodutiva"
+      },
+      {
+        "letter": "E",
+        "text": "Os vasos condutores, que possibilitam o transporte da seiva bruta"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Diversidade genética depende da mistura de material genético de indivíduos diferentes. O grão de pólen libertou a fecundação da água: transportado pelo vento ou por animais, ele permite que o gameta masculino de uma planta alcance a flor de outra, distante - a polinização cruzada, que recombina genomas distintos a cada geração. As demais estruturas trazem vantagens adaptativas importantes, mas não aumentam a variabilidade: sementes aladas e frutos atuam depois da fecundação, na dispersão; arquegônios protegem o embrião; e os vasos condutores resolvem o transporte de seiva.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q86",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 86,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Osmose é um processo espontâneo que ocorre em todos os organismos vivos e é essencial à manutenção da vida. Uma solução 0,15 mol/L de NaCl (cloreto de sódio) possui a mesma pressão osmótica das soluções presentes nas células humanas.\n\nA imersão de uma célula humana em uma solução 0,20 mol/L de NaCl tem, como consequência, a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adsorção de íons Na⁺ sobre a superfície da célula"
+      },
+      {
+        "letter": "B",
+        "text": "difusão rápida de íons Na⁺ para o interior da célula"
+      },
+      {
+        "letter": "C",
+        "text": "diminuição da concentração das soluções presentes na célula"
+      },
+      {
+        "letter": "D",
+        "text": "transferência de íons Na⁺ da célula para a solução"
+      },
+      {
+        "letter": "E",
+        "text": "transferência de moléculas de água do interior da célula para a solução"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A solução externa, a 0,20 mol/L, é mais concentrada que o meio intracelular, equivalente a 0,15 mol/L - portanto hipertônica. Na osmose, o solvente atravessa a membrana semipermeável do meio menos concentrado para o mais concentrado, de modo que a água sai da célula para a solução, provocando sua desidratação e murchamento. As alternativas (B) e (D) descrevem movimento de soluto, e a membrana plasmática regula seletivamente a passagem de íons, ao contrário da água; e (C) inverte o resultado, pois a célula perde água e fica mais concentrada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q87",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 87,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "A doença de Chagas afeta mais de oito milhões de brasileiros, sendo comum em áreas rurais. É uma doença causada pelo protozoário Trypanosoma cruzi e transmitida por insetos conhecidos como barbeiros ou chupanças.\n\nUma ação do homem sobre o meio ambiente que tem contribuído para o aumento dessa doença é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o consumo de carnes de animais silvestres que são hospedeiros do vetor da doença"
+      },
+      {
+        "letter": "B",
+        "text": "a utilização de adubos químicos na agricultura que aceleram o ciclo reprodutivo do barbeiro"
+      },
+      {
+        "letter": "C",
+        "text": "a ausência de saneamento básico que favorece a proliferação do protozoário em regiões habitadas por humanos"
+      },
+      {
+        "letter": "D",
+        "text": "a poluição dos rios e lagos com pesticidas que exterminam o predador das larvas do inseto transmissor da doença"
+      },
+      {
+        "letter": "E",
+        "text": "o desmatamento que provoca a migração ou o desaparecimento dos animais silvestres dos quais o barbeiro se alimenta"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O barbeiro alimenta-se do sangue de mamíferos silvestres em seu ambiente natural. Quando o desmatamento elimina ou afasta esses hospedeiros, o inseto perde sua fonte de alimento e passa a procurar outra - encontrando-a nas habitações humanas, sobretudo nas casas de pau a pique, cujas frestas lhe servem de abrigo. É esse deslocamento que aproxima o vetor do homem e aumenta a transmissão. A alternativa (C) descreve mal o ciclo, pois o protozoário não prolifera no ambiente, e sim dentro do vetor e do hospedeiro; e (A), (B) e (D) propõem mecanismos sem relação com a biologia do barbeiro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q88",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 88,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Nossa pele possui células que reagem à incidência de luz ultravioleta e produzem uma substância chamada melanina, responsável pela pigmentação da pele. Pensando em se bronzear, uma garota vestiu um biquíni, acendeu a luz de seu quarto e deitou-se exatamente abaixo da lâmpada incandescente. Após várias horas ela percebeu que não conseguiu resultado algum.\n\nO bronzeamento não ocorreu porque a luz emitida pela lâmpada incandescente é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "baixa intensidade"
+      },
+      {
+        "letter": "B",
+        "text": "baixa frequência"
+      },
+      {
+        "letter": "C",
+        "text": "um espectro contínuo"
+      },
+      {
+        "letter": "D",
+        "text": "amplitude inadequada"
+      },
+      {
+        "letter": "E",
+        "text": "curto comprimento de onda"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O bronzeamento depende da radiação ultravioleta, que ocupa a faixa de frequências acima da luz visível. A lâmpada incandescente emite predominantemente luz visível e infravermelho - radiações de frequência menor que a do ultravioleta -, e por isso não estimula a produção de melanina, por mais tempo que a garota permaneça sob ela. A alternativa (A) não resolveria o problema, pois nenhuma intensidade compensa a ausência da frequência adequada; e (E) inverte a relação, já que menor frequência corresponde a maior comprimento de onda.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q89",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 89,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Quando colocados em água, os fosfolipídeos tendem a formar lipossomos, estruturas formadas por uma bicamada lipídica. Quando rompida, essa estrutura tende a se reorganizar em um novo lipossomo.\n\nEsse arranjo característico se deve ao fato de os fosfolipídios apresentarem uma natureza",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "polar, ou seja, serem inteiramente solúveis em água"
+      },
+      {
+        "letter": "B",
+        "text": "apolar, ou seja, não serem solúveis em solução aquosa"
+      },
+      {
+        "letter": "C",
+        "text": "anfotérica, ou seja, podem comportar-se como ácidos e bases"
+      },
+      {
+        "letter": "D",
+        "text": "insaturada, ou seja, possuírem duplas ligações em sua estrutura"
+      },
+      {
+        "letter": "E",
+        "text": "anfifílica, ou seja, possuírem uma parte hidrofílica e outra hidrofóbica"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O fosfolipídeo tem uma cabeça polar, com o grupo fosfato, e duas caudas apolares de ácidos graxos. Em água, as cabeças se voltam para o meio aquoso e as caudas se agrupam entre si, fugindo dele - o que produz espontaneamente a bicamada, com as caudas voltadas para dentro e as cabeças para ambas as faces. Essa dupla afinidade é a natureza anfifílica, e explica também por que a estrutura se reorganiza sozinha quando rompida. As alternativas (A) e (B) supõem a molécula inteiramente polar ou apolar, hipóteses que não gerariam bicamada alguma; e (C) e (D) descrevem propriedades que não determinam esse arranjo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
+    "id": "enem-2012-q90",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 90,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Aspartame é um edulcorante artificial (adoçante dietético) que apresenta potencial adoçante 200 vezes maior que o açúcar comum, permitindo seu uso em pequenas quantidades. Muito usado pela indústria alimentícia, principalmente nos refrigerantes diet, tem valor energético que corresponde a 4 calorias/grama. É contraindicado a portadores de fenilcetonúria, uma doença genética rara que provoca o acúmulo da fenilalanina no organismo, causando retardo mental. O IDA (índice diário aceitável) desse adoçante é 40 mg/kg de massa corpórea.\n\nCom base nas informações do texto, a quantidade máxima recomendada de aspartame, em mol, que uma pessoa de 70 kg de massa corporal pode ingerir por dia é mais próxima de\n\nDado: massa molar do aspartame = 294 g/mol",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,3 × 10⁻⁴"
+      },
+      {
+        "letter": "B",
+        "text": "9,5 × 10⁻³"
+      },
+      {
+        "letter": "C",
+        "text": "4 × 10⁻²"
+      },
+      {
+        "letter": "D",
+        "text": "2,6"
+      },
+      {
+        "letter": "E",
+        "text": "823"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Primeiro calcula-se a massa diária permitida: 40 mg/kg × 70 kg = 2800 mg, ou seja, 2,8 g. Convertendo em quantidade de matéria pela massa molar: n = 2,8/294 ≈ 9,52 × 10⁻³ mol. A alternativa (E) corresponderia à massa em miligramas dividida indevidamente, e (D) resultaria de esquecer a conversão de miligramas para gramas - passo decisivo neste cálculo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 - 1º dia, Caderno 1 Azul (Ciências Humanas e Ciências da Natureza), prova e gabarito oficiais do INEP."
+    }
+  },
+  {
     "id": "enem-2013-q02",
     "exam": "enem",
     "year": 2013,
