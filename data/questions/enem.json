@@ -24838,6 +24838,1537 @@
     }
   },
   {
+    "id": "enem-2017-q91",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 91,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais. Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reação do gás de cozinha com o sal, volatilizando gás cloro."
+      },
+      {
+        "letter": "B",
+        "text": "emissão de fótons pelo sódio, excitado por causa da chama."
+      },
+      {
+        "letter": "C",
+        "text": "produção de derivado amarelo, pela reação com o carboidrato."
+      },
+      {
+        "letter": "D",
+        "text": "reação do gás de cozinha com a água, formando gás hidrogênio."
+      },
+      {
+        "letter": "E",
+        "text": "excitação das moléculas de proteínas, com formação de luz amarela."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A água de cozimento carrega o sal de cozinha. Na chama, o calor excita os elétrons do sódio, que saltam para níveis mais energéticos e, ao voltarem, emitem fótons de comprimento de onda em torno de 589 nm — exatamente o amarelo. É o mesmo princípio do teste da chama e das antigas lâmpadas de vapor de sódio. Não há reação química do gás com o sal nem excitação de proteínas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q92",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 92,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo. Whittaker (1969) Cinco reinos Woese (1990) Três domínios Monera Archaea Eubacteria Protista Fungi Plantae Eukarya Animalia A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tipos de células."
+      },
+      {
+        "letter": "B",
+        "text": "aspectos ecológicos."
+      },
+      {
+        "letter": "C",
+        "text": "relações filogenéticas."
+      },
+      {
+        "letter": "D",
+        "text": "propriedades fisiológicas."
+      },
+      {
+        "letter": "E",
+        "text": "características morfológicas."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Whittaker agrupou os seres vivos por organização celular e modo de nutrição — critérios de forma e função. Woese comparou sequências do RNA ribossômico, isto é, o próprio material genético, e com isso reconstruiu o grau de parentesco entre os grupos. Foi essa mudança de critério que revelou não haver coesão evolutiva no reino Monera: a classificação passou a se apoiar em relações filogenéticas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q94",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 94,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.\n\nMOUTINHO, S. Coagulação acelerada.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 19 fev. 2013 (adaptado).\n\nQual a doença cujos pacientes teriam melhora de seu estado de saúde com o uso desse material?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Filariose."
+      },
+      {
+        "letter": "B",
+        "text": "Hemofilia."
+      },
+      {
+        "letter": "C",
+        "text": "Aterosclerose."
+      },
+      {
+        "letter": "D",
+        "text": "Doença de Chagas."
+      },
+      {
+        "letter": "E",
+        "text": "Síndrome da imunodeficiência adquirida."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A plaqueta artificial supre justamente a etapa de formação do tampão que estanca o sangramento. A hemofilia é a doença em que a coagulação falha, e o paciente sangra por tempo excessivo. Aterosclerose e trombose seriam agravadas por um material que acelera a coagulação, e filariose, Chagas e aids têm causas infecciosas sem relação com esse mecanismo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q96",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 96,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador: um mol de triglicerídeo reage com três mols de metanol, produzindo glicerol e três moléculas do produto que constitui o biodiesel.\n\nA função química presente no produto que representa o biodiesel é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "éter."
+      },
+      {
+        "letter": "B",
+        "text": "éster."
+      },
+      {
+        "letter": "C",
+        "text": "álcool."
+      },
+      {
+        "letter": "D",
+        "text": "cetona."
+      },
+      {
+        "letter": "E",
+        "text": "ácido carboxílico. OH+ catalisador + OHOH"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A reação é uma transesterificação: os triglicerídeos — que já são triésteres do glicerol — reagem com metanol ou etanol na presença de catalisador, e os ácidos graxos migram para o álcool de cadeia curta. O produto que constitui o biodiesel é, portanto, um éster monoalquílico de ácido graxo; o glicerol livre é o coproduto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q97",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 97,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "As centrífugas são equipamentos utilizados em laboratórios, clínicas e indústrias. Seu funcionamento faz uso da aceleração centrífuga obtida pela rotação de um recipiente e que serve para a separação de sólidos em suspensão em líquidos ou de líquidos misturados entre si.\n\nRODITI, I. Dicionário Houaiss de física. Rio de Janeiro: Objetiva, 2005 (adaptado).\n\nNesse aparelho, a separação das substâncias ocorre em função",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "das diferentes densidades."
+      },
+      {
+        "letter": "B",
+        "text": "dos diferentes raios de rotação."
+      },
+      {
+        "letter": "C",
+        "text": "das diferentes velocidades angulares."
+      },
+      {
+        "letter": "D",
+        "text": "das diferentes quantidades de cada substância."
+      },
+      {
+        "letter": "E",
+        "text": "da diferente coesão molecular de cada substância."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na centrífuga, a aceleração centrífuga faz o papel de uma gravidade muito intensificada. Sob esse campo, os componentes mais densos migram para o fundo do tubo e os menos densos permanecem acima, tal como na decantação — só que em minutos, e não em horas. O que separa as substâncias é, portanto, a diferença de densidade; raio e velocidade angular determinam apenas a intensidade do efeito, e são iguais para tudo o que está no mesmo tubo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q99",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 99,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Óptica"
+    ],
+    "statement": "Lâmpadas de tipos diferentes emitem radiação eletromagnética com distribuições distintas ao longo do espectro. Comparando cinco tipos — haleto metálico, tungstênio, mercúrio, xênon e LED —, observa-se quanto de cada emissão cai nas faixas do ultravioleta, do visível e do infravermelho, sendo esta última a responsável pelo aquecimento do ambiente.\n\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\n\nDisponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).\n\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Haleto metálico."
+      },
+      {
+        "letter": "B",
+        "text": "Tungstênio."
+      },
+      {
+        "letter": "C",
+        "text": "Mercúrio."
+      },
+      {
+        "letter": "D",
+        "text": "Xênon."
+      },
+      {
+        "letter": "E",
+        "text": "LED."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Aquecer o ambiente é consequência da radiação emitida fora da faixa visível, sobretudo no infravermelho. As lâmpadas incandescentes de tungstênio são o caso extremo: emitem quase tudo em IV. O LED converte a maior parte da energia em luz visível, com emissão desprezível em UV e IV, e por isso ilumina bem sem aquecer — exatamente o que o arquiteto quer.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q100",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 100,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação de nuvens e chuva. Uma parcela dessas partículas é formada, de forma natural ou antropogênica, pela reação de ácidos (HX) com a base NH3, dando origem a sais de amônio (NH4X), de acordo com a equação química genérica:\n\nHX (g) + NH3 (g) → NH4X (s)\n\nFELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida. Química Nova na Escola, n. 21, maio 2005 (adaptado).\n\nA fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ligações iônicas."
+      },
+      {
+        "letter": "B",
+        "text": "interações dipolo-dipolo."
+      },
+      {
+        "letter": "C",
+        "text": "interações dipolo-dipolo induzido."
+      },
+      {
+        "letter": "D",
+        "text": "interações íon-dipolo."
+      },
+      {
+        "letter": "E",
+        "text": "ligações covalentes."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os núcleos de condensação descritos são sais de amônio, NH4X, sólidos iônicos que se dissociam em NH4+ e X−. A água é uma molécula polar. A interação entre um íon e um dipolo permanente é justamente a interação íon-dipolo, a mesma que explica a hidratação de sais em solução aquosa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q102",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 102,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de 14C se reduz pela metade a cada 5 730 anos. A prova do carbono 14.\n\nDisponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).\n\nConsidere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "450."
+      },
+      {
+        "letter": "B",
+        "text": "1 433."
+      },
+      {
+        "letter": "C",
+        "text": "11 460."
+      },
+      {
+        "letter": "D",
+        "text": "17 190."
+      },
+      {
+        "letter": "E",
+        "text": "27 000."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A amostra emite 6 750 partículas beta por hora, isto é, 6 750/60 = 112,5 por minuto, distribuídas em 30 g: 3,75 emissões por minuto por grama. Um ser vivo emite 15, de modo que restou 3,75/15 = 1/4 do carbono-14 original. Uma fração de 1/4 corresponde a duas meias-vidas: 2 × 5 730 = 11 460 anos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q103",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 103,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade",
+      "Termologia"
+    ],
+    "statement": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível. Rede de distribuição elétrica Turbinas eólicas Produção de hidrogênioEletricidade Eletricidade Armazenamento de hidrogênio Eletricidade Mistura Combustível Armazenamento de biogás Hidrogênio Planta mista de geração de energia Hidrogênio Válvula para mistura Hidrogênio Calor Biogás Destino da energia térmica\n\nDisponível em: www.enertrag.com. Acesso em: 24 abr. 2015 (adaptado).\n\nMesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está instalada, pois o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição."
+      },
+      {
+        "letter": "B",
+        "text": "hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade."
+      },
+      {
+        "letter": "C",
+        "text": "conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência da geração."
+      },
+      {
+        "letter": "D",
+        "text": "combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção do sistema."
+      },
+      {
+        "letter": "E",
+        "text": "planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para gerar eletricidade."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A estação usa o excedente de energia eólica para produzir hidrogênio por eletrólise e o armazena. Quando o vento cessa, esse hidrogênio é misturado ao biogás e queimado na planta mista, que gera calor e eletricidade. É o armazenamento químico da energia que garante o fornecimento contínuo — as turbinas não continuam girando por inércia com a mesma eficiência (C).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q104",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 104,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica com ânodo de carbono e diafragma de amianto, da qual se recolhe Cl2 (g) como produto principal.\n\nSHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\n\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vapor de água."
+      },
+      {
+        "letter": "B",
+        "text": "oxigênio molecular."
+      },
+      {
+        "letter": "C",
+        "text": "hipoclorito de sódio."
+      },
+      {
+        "letter": "D",
+        "text": "hidrogênio molecular."
+      },
+      {
+        "letter": "E",
+        "text": "cloreto de hidrogênio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na eletrólise da salmoura, o cloro é o produto principal, obtido no ânodo pela oxidação do Cl−. No cátodo, porém, não é o sódio que se reduz: em meio aquoso a água é reduzida antes, liberando H2 e deixando OH− em solução — daí também a soda cáustica. O hidrogênio molecular é, portanto, o produto secundário do processo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q105",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 105,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme parque industrial montado para a produção de explosivos, e essas instalações foram convertidas para começar a produzir fertilizantes tendo como componente principal os nitratos.\n\nSOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\n\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nitratação."
+      },
+      {
+        "letter": "B",
+        "text": "nitrosação."
+      },
+      {
+        "letter": "C",
+        "text": "amonificação."
+      },
+      {
+        "letter": "D",
+        "text": "desnitrificação."
+      },
+      {
+        "letter": "E",
+        "text": "fixação biológica do N2. + e Bateria - Ânodo de carbono Diafragma de amianto Cl2 (g) Produto secundário Solução aquosa de NaCl Cátodo de carbono Dreno para solução aquosa alcalina +"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O componente principal dos fertilizantes citados é o nitrato. No ciclo natural do nitrogênio, o nitrato é formado na segunda etapa da nitrificação, quando bactérias do gênero Nitrobacter oxidam o nitrito a nitrato — a nitratação. A nitrosação produz nitrito, a amonificação produz amônia, e a desnitrificação devolve N2 à atmosfera.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q106",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 106,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana), que indica a dosagem, em miligrama de substância por quilograma de massa da cobaia, capaz de matar metade dos animais testados. O quadro traz a DL50 de três pesticidas:\n\nDiazinon — 70 mg/kg\nMalation — 1 000 mg/kg\nAtrazina — 3 100 mg/kg\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.\n\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O grupo que se contaminou somente com atrazina."
+      },
+      {
+        "letter": "B",
+        "text": "O grupo que se contaminou somente com diazinon."
+      },
+      {
+        "letter": "C",
+        "text": "Os grupos que se contaminaram com atrazina e malation."
+      },
+      {
+        "letter": "D",
+        "text": "Os grupos que se contaminaram com diazinon e malation."
+      },
+      {
+        "letter": "E",
+        "text": "Nenhum dos grupos contaminados com atrazina, diazinon e malation."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cada rato consumiu 100 g de ração a 3 mg de pesticida por grama, ou seja, 300 mg. Como cada animal tem 0,2 kg, a dose recebida foi 300/0,2 = 1 500 mg/kg. Mortalidade de pelo menos 10 em 20 significa atingir a DL50. Isso ocorre onde 1 500 mg/kg ≥ DL50: diazinon (70) e malation (1 000). Para a atrazina, cuja DL50 é 3 100, a dose ficou muito abaixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q107",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 107,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias. Na terapêutica das doenças mencionadas, alguns desses fármacos atuam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ativando o sistema imunológico do hospedeiro."
+      },
+      {
+        "letter": "B",
+        "text": "interferindo na cascata bioquímica da inflamação."
+      },
+      {
+        "letter": "C",
+        "text": "removendo as toxinas sintetizadas pelas bactérias."
+      },
+      {
+        "letter": "D",
+        "text": "combatendo as células hospedeiras das bactérias."
+      },
+      {
+        "letter": "E",
+        "text": "danificando estruturas específicas da célula bacteriana."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os antibióticos exploram diferenças entre a célula bacteriana e a humana: atacam a parede de peptidoglicano, o ribossomo 70S ou enzimas exclusivas da bactéria, como a DNA girase. Por isso matam ou impedem a multiplicação do microrganismo sem lesar as células do hospedeiro. Eles não estimulam a imunidade (A), não removem toxinas já formadas (C) e não atacam as células do paciente (D).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q109",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 109,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Citologia"
+    ],
+    "statement": "Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da planta absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas dos cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons. Nanotubos de carbono incrementam a fotossíntese de plantas.\n\nDisponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).\n\nO aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "utilização de água."
+      },
+      {
+        "letter": "B",
+        "text": "absorção de fótons."
+      },
+      {
+        "letter": "C",
+        "text": "formação de gás oxigênio."
+      },
+      {
+        "letter": "D",
+        "text": "proliferação dos cloroplastos."
+      },
+      {
+        "letter": "E",
+        "text": "captação de dióxido de carbono."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os nanotubos funcionam como antenas: capturam fótons de faixas do espectro que a clorofila aproveita mal e transferem essa energia aos cloroplastos, aumentando o transporte de elétrons na fase fotoquímica. O efeito direto é, portanto, a maior absorção de luz. Maior produção de O2 e maior consumo de água são consequências desse ganho, e não a causa; o número de cloroplastos não muda.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q110",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 110,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Zoologia"
+    ],
+    "statement": "O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.\n\nMALTA, P. Impacto ambiental das barragens hidrelétricas.\n\nDisponível em: http://futurambiental.com. Acesso em: 10 maio 2013 (adaptado).\n\nEssa intervenção antrópica prejudica a piracema porque reduz o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "percurso da migração."
+      },
+      {
+        "letter": "B",
+        "text": "longevidade dos indivíduos."
+      },
+      {
+        "letter": "C",
+        "text": "disponibilidade de alimentos."
+      },
+      {
+        "letter": "D",
+        "text": "período de migração da espécie."
+      },
+      {
+        "letter": "E",
+        "text": "número de espécies de peixes no local."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A piracema é a subida do rio: é o esforço prolongado dessa migração que queima gordura e dispara a cascata hormonal que amadurece as gônadas. A barragem interrompe o curso e encurta o trajeto que os peixes podem percorrer, de modo que o estímulo não se completa e a desova não é induzida. O que a intervenção reduz é o percurso da migração.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q112",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 112,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.\n\nMARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).\n\nOs botos-cinza acumulam maior concentração dessas substâncias porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "são animais herbívoros."
+      },
+      {
+        "letter": "B",
+        "text": "são animais detritívoros."
+      },
+      {
+        "letter": "C",
+        "text": "são animais de grande porte."
+      },
+      {
+        "letter": "D",
+        "text": "digerem o alimento lentamente."
+      },
+      {
+        "letter": "E",
+        "text": "estão no topo da cadeia alimentar."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O mercúrio é lipossolúvel e mal excretado: acumula-se nos tecidos e passa adiante a cada elo da cadeia alimentar, num processo de biomagnificação. O boto-cinza é predador de peixes que, por sua vez, já comeram outros organismos contaminados; ocupando o topo da cadeia e vivendo cerca de 30 anos na mesma região, concentra o que veio de todos os níveis abaixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q113",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 113,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras que se dividem em dois caminhos e voltam a se encontrar na saída, onde há um detector. Com os dois trajetos de mesmo comprimento, ouve-se um som muito intenso na saída. Aumentando-se gradativamente o trajeto ADC, até que ele meça 40 cm enquanto o outro mede 30 cm, a intensidade do som na saída fica praticamente nula.\n\nConhecida a velocidade do som no interior do tubo (320 m/s), o valor da frequência, em hertz, do som produzido pela fonte sonora é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3 200."
+      },
+      {
+        "letter": "B",
+        "text": "1 600."
+      },
+      {
+        "letter": "C",
+        "text": "800."
+      },
+      {
+        "letter": "D",
+        "text": "640."
+      },
+      {
+        "letter": "E",
+        "text": "400. Fonte sonora Entrada do som E"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O som se divide em dois caminhos e se recombina na saída. Quando a intensidade se anula, a diferença entre os percursos vale meio comprimento de onda. Pela figura, o trajeto mais longo excede o outro em 2 × (40 − 30) = 20 cm, de modo que λ/2 = 20 cm e λ = 40 cm = 0,4 m. Assim f = v/λ = 320/0,4 = 800 Hz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q115",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 115,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Ecologia"
+    ],
+    "statement": "A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.\n\nDisponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).\n\nEssas espécies captam água do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "organismo das plantas vizinhas."
+      },
+      {
+        "letter": "B",
+        "text": "solo através de suas longas raízes."
+      },
+      {
+        "letter": "C",
+        "text": "chuva acumulada entre suas folhas."
+      },
+      {
+        "letter": "D",
+        "text": "seiva bruta das plantas hospedeiras."
+      },
+      {
+        "letter": "E",
+        "text": "comunidade que vive em seu interior."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As bromélias epífitas apenas se apoiam sobre as árvores: não são parasitas e não retiram seiva do hospedeiro, o que elimina D, nem alcançam o solo com as raízes, que servem sobretudo para fixação. A água vem da chuva, que escorre pelas folhas dispostas em roseta e se acumula no tanque central, de onde é absorvida junto com os nutrientes ali dissolvidos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q118",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 118,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.\n\nRICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).\n\nA diferença na manifestação da DMD entre as gêmeas pode ser explicada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dominância incompleta do alelo mutante em relação ao alelo normal."
+      },
+      {
+        "letter": "B",
+        "text": "falha na separação dos cromossomos X no momento da separação dos dois embriões."
+      },
+      {
+        "letter": "C",
+        "text": "recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões."
+      },
+      {
+        "letter": "D",
+        "text": "inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões."
+      },
+      {
+        "letter": "E",
+        "text": "origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em cada célula de uma mulher, um dos dois cromossomos X é inativado ao acaso, e a proporção resultante varia de indivíduo para indivíduo. Se essa inativação ocorre depois da separação dos embriões gemelares, cada gêmea acaba com um padrão próprio: numa delas predominaram as células com o X normal ativo (fenótipo normal), na outra, as células com o X portador do alelo mutante ativo — e a distrofia se manifesta, apesar de ambas serem heterozigotas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q119",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 119,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos ambientais. Uma alternativa ao piso tradicional de concreto, inteiramente maciço, é o piso concregrama, um revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado.\n\nPONTES, K. L. F. Estudo de caso de um protótipo experimental. Disponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado).\n\nA utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impermeabilização."
+      },
+      {
+        "letter": "B",
+        "text": "diminuição da temperatura."
+      },
+      {
+        "letter": "C",
+        "text": "acumulação de matéria orgânica."
+      },
+      {
+        "letter": "D",
+        "text": "alteração do pH."
+      },
+      {
+        "letter": "E",
+        "text": "salinização. Piso concregrama"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O piso tradicional de concreto sela a superfície e faz a água da chuva escoar toda para a rede, agravando enchentes e reduzindo a recarga do lençol freático. As peças vazadas preenchidas com solo gramado mantêm áreas por onde a água infiltra. O objetivo é, portanto, evitar a impermeabilização do solo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q120",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 120,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKa = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKa = −log Ka, em que Ka é a constante ácida da reação de ionização do lapachol. OH OOLapachol COSTA, P. R. R. et al. Ácidos e bases em química orgânica. Porto Alegre: Bookman, 2005 (adaptado).\n\nQual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Solução de Na2CO3 para formar um sal de lapachol."
+      },
+      {
+        "letter": "B",
+        "text": "Solução-tampão ácido acético/acetato de sódio (pH = 4,5)."
+      },
+      {
+        "letter": "C",
+        "text": "Solução de NaCl a fim de aumentar a força iônica do meio."
+      },
+      {
+        "letter": "D",
+        "text": "Solução de Na2SO4 para formar um par iônico com lapachol."
+      },
+      {
+        "letter": "E",
+        "text": "Solução de HCl a fim de extraí-lo por meio de reação ácido-base."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O lapachol tem hidroxila enólica de pKa 6,0, ou seja, é um ácido fraco. Para extraí-lo, é preciso convertê-lo no ânion correspondente, muito mais solúvel em água. Isso exige um meio básico: a solução de carbonato de sódio desprotona o lapachol e forma o sal, que passa para a fase aquosa e se separa da serragem por filtração. Meio ácido (B e E) manteria o composto na forma neutra e insolúvel.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q121",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 121,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Alguns tipos de dessalinizadores usam o processo de osmose reversa para obtenção de água potável a partir da água salgada. Nesse método, utiliza-se um recipiente contendo dois compartimentos separados por uma membrana semipermeável: em um deles coloca-se água salgada e no outro recolhe-se a água potável. A aplicação de pressão mecânica no sistema faz a água fluir de um compartimento para o outro. O movimento das moléculas de água através da membrana é controlado pela pressão osmótica e pela pressão mecânica aplicada. Para que ocorra esse processo é necessário que as resultantes das pressões osmótica e mecânica apresentem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mesmo sentido e mesma intensidade."
+      },
+      {
+        "letter": "B",
+        "text": "sentidos opostos e mesma intensidade."
+      },
+      {
+        "letter": "C",
+        "text": "sentidos opostos e maior intensidade da pressão osmótica."
+      },
+      {
+        "letter": "D",
+        "text": "mesmo sentido e maior intensidade da pressão osmótica."
+      },
+      {
+        "letter": "E",
+        "text": "sentidos opostos e maior intensidade da pressão mecânica."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na osmose espontânea, a água iria do lado menos concentrado para o mais concentrado — o sentido oposto ao desejado. Para inverter esse fluxo é preciso aplicar sobre a água salgada uma pressão mecânica no sentido contrário ao da pressão osmótica e de intensidade maior que ela: só assim a resultante empurra a água pura através da membrana.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q122",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 122,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência, foi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais. A explicação científica que justifica essa prática se baseia na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "volatilização das substâncias de interesse."
+      },
+      {
+        "letter": "B",
+        "text": "polimerização dos óleos catalisada pela radiação solar."
+      },
+      {
+        "letter": "C",
+        "text": "solubilização das substâncias de interesse pelo orvalho."
+      },
+      {
+        "letter": "D",
+        "text": "oxidação do óleo pelo oxigênio produzido na fotossíntese."
+      },
+      {
+        "letter": "E",
+        "text": "liberação das moléculas de óleo durante o processo de fotossíntese."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os óleos essenciais são misturas de compostos voláteis. Ao raiar do dia a temperatura ainda está baixa e o vegetal acumulou o produzido durante a noite; com o avanço da manhã, o aquecimento faz essas substâncias evaporarem e a concentração no tecido cai. Colher cedo, portanto, evita a perda por volatilização — nada tem a ver com raios lunares.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q126",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 126,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe. O que ocorre com as células presentes nos alimentos preservados com essa técnica?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O sal adicionado diminui a concentração de solutos em seu interior."
+      },
+      {
+        "letter": "B",
+        "text": "O sal adicionado desorganiza e destrói suas membranas plasmáticas."
+      },
+      {
+        "letter": "C",
+        "text": "A adição de sal altera as propriedades de suas membranas plasmáticas."
+      },
+      {
+        "letter": "D",
+        "text": "Os íons Na+ e Cl− provenientes da dissociação do sal entram livremente nelas."
+      },
+      {
+        "letter": "E",
+        "text": "A grande concentração de sal no meio extracelular provoca a saída de água das células."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A salga cria no meio externo uma solução muito mais concentrada que o citoplasma das células do alimento e dos microrganismos. Por osmose, a água sai da célula em direção ao meio hipertônico, e ela murcha (plasmólise). Sem água disponível, bactérias e fungos não conseguem se multiplicar — é essa desidratação, e não a destruição das membranas, que conserva a carne.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q127",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 127,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Para demonstrar o processo de transformação de energia mecânica em elétrica, um estudante constrói um pequeno gerador utilizando: • um fio de cobre de diâmetro D enrolado em N espiras circulares de área A; • dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade B; e • um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência f. Ao fazer o gerador funcionar, o estudante obteve uma tensão máxima V e uma corrente de curto-circuito i. Para dobrar o valor da tensão máxima V do gerador mantendo constante o valor da corrente de curto i, o estudante deve dobrar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "número de espiras."
+      },
+      {
+        "letter": "B",
+        "text": "frequência de giro."
+      },
+      {
+        "letter": "C",
+        "text": "intensidade do campo magnético."
+      },
+      {
+        "letter": "D",
+        "text": "área das espiras."
+      },
+      {
+        "letter": "E",
+        "text": "diâmetro do fio."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A tensão máxima induzida é proporcional a N·B·A·f. A corrente de curto-circuito é V/R, e a resistência do enrolamento também cresce com o número de espiras, já que o fio fica mais longo. Dobrando N, a tensão dobra e a resistência dobra junto, de modo que a corrente de curto permanece a mesma. Dobrar B, A ou f dobraria a tensão sem alterar R, e a corrente de curto também dobraria.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q128",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 128,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em escala de laboratório. Nela, o ozônio rompe a ligação dupla carbono-carbono e cada um dos carbonos que a formavam passa a integrar um grupo carbonila: carbonos que traziam hidrogênio dão origem a aldeídos, e carbonos totalmente substituídos, a cetonas. Assim, a ozonólise do but-1-eno produz propanal e metanal.\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno.\n\nMARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\n\nQuais são os produtos formados nessa reação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Benzaldeído e propanona."
+      },
+      {
+        "letter": "B",
+        "text": "Propanal e benzaldeído."
+      },
+      {
+        "letter": "C",
+        "text": "2-fenil-etanal e metanal."
+      },
+      {
+        "letter": "D",
+        "text": "Benzeno e propanona."
+      },
+      {
+        "letter": "E",
+        "text": "Benzaldeído e etanal."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na ozonólise a dupla ligação é rompida e cada carbono que a formava vira uma carbonila. No 1-fenil-2-metilprop-1-eno, PhCH=C(CH3)2, o carbono ligado ao fenil tem um hidrogênio e origina um aldeído — o benzaldeído; o outro carbono traz duas metilas e origina uma cetona — a propanona.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q129",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 129,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A terapia celular tem sido amplamente divulgada como revolucionária, por permitir a regeneração de tecidos a partir de células novas. Entretanto, a técnica de se introduzirem novas células em um tecido, para o tratamento de enfermidades em indivíduos, já era aplicada rotineiramente em hospitais. A que técnica refere-se o texto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Vacina."
+      },
+      {
+        "letter": "B",
+        "text": "Biópsia."
+      },
+      {
+        "letter": "C",
+        "text": "Hemodiálise."
+      },
+      {
+        "letter": "D",
+        "text": "Quimioterapia."
+      },
+      {
+        "letter": "E",
+        "text": "Transfusão de sangue. H O H H"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto define a técnica pela introdução de células novas no organismo para tratar uma enfermidade. Entre as opções, apenas a transfusão faz exatamente isso: transfere hemácias, plaquetas e outros elementos celulares de um doador para o paciente. Vacina introduz antígenos, biópsia retira tecido, hemodiálise filtra o sangue e quimioterapia usa fármacos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q133",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 133,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "No ar que respiramos existem os chamados “gases inertes”. Trazem curiosos nomes gregos, que significam “o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal modo inertes, tão satisfeitos em sua condição, que não interferem em nenhuma reação química, não se combinam com nenhum outro elemento e justamente por esse motivo ficaram sem ser observados durante séculos: só em 1962 um químico, depois de longos e engenhosos esforços, conseguiu forçar “o Estrangeiro” (o xenônio) a combinar-se fugazmente com o flúor ávido e vivaz, e a façanha pareceu tão extraordinária que lhe foi conferido o Prêmio Nobel.\n\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).\n\nQual propriedade do flúor justifica sua escolha como reagente para o processo mencionado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Densidade."
+      },
+      {
+        "letter": "B",
+        "text": "Condutância."
+      },
+      {
+        "letter": "C",
+        "text": "Eletronegatividade."
+      },
+      {
+        "letter": "D",
+        "text": "Estabilidade nuclear."
+      },
+      {
+        "letter": "E",
+        "text": "Temperatura de ebulição."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os gases nobres têm camada de valência completa e altíssima energia de ionização: só reagem se o parceiro for capaz de atrair fortemente seus elétrons. O flúor é o elemento mais eletronegativo da tabela periódica, e foi por isso que ele conseguiu formar compostos com o xenônio, o gás nobre de maior raio atômico e, portanto, de elétrons mais frouxamente presos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q135",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 135,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A retina é um tecido sensível à luz, localizado na parte posterior do olho, onde ocorre o processo de formação de imagens por tipos celulares específicos. Um desses tipos celulares são os cones, os quais convertem os diferentes comprimentos de onda da luz visível em sinais elétricos, que são transmitidos pelo nervo óptico até o cérebro.\n\nDisponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).\n\nEm relação à visão, a degeneração desse tipo celular irá",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comprometer a capacidade de visão em cores."
+      },
+      {
+        "letter": "B",
+        "text": "impedir a projeção dos raios luminosos na retina."
+      },
+      {
+        "letter": "C",
+        "text": "provocar a formação de imagens invertidas na retina."
+      },
+      {
+        "letter": "D",
+        "text": "causar dificuldade de visualização de objetos próximos."
+      },
+      {
+        "letter": "E",
+        "text": "acarretar a perda da capacidade de alterar o diâmetro da pupila. 321 2 3 4 5 6 7 8 9 10 Vazão (L/min)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os cones são as células responsáveis pela discriminação dos comprimentos de onda, isto é, pela visão de cores, e concentram-se na região central da retina. Sua degeneração compromete justamente a percepção cromática. A projeção dos raios na retina depende da córnea e do cristalino, a acomodação para perto do músculo ciliar, e a abertura da pupila da íris — nenhum deles é formado por cones.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q137",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 137,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente. A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "192."
+      },
+      {
+        "letter": "B",
+        "text": "300."
+      },
+      {
+        "letter": "C",
+        "text": "304."
+      },
+      {
+        "letter": "D",
+        "text": "320."
+      },
+      {
+        "letter": "E",
+        "text": "400."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As bordas superiores das taças, de raio 5 cm, não podem se sobrepor, de modo que os centros de duas taças consecutivas ficam a pelo menos 10 cm um do outro. Com quatro taças em fila, do primeiro ao último centro há 3 × 10 = 30 cm. Nas pontas ainda é preciso acomodar as bases, de raio 4 cm, o que acrescenta 4 + 4 = 8 cm: o comprimento mínimo é 38 cm. A largura mínima é o diâmetro da base, 8 cm. Logo, a área mínima é 38 × 8 = 304 cm².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q139",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 139,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um casal realiza sua mudança de domicílio e necessita colocar numa caixa de papelão um objeto cúbico, de 80 cm de aresta, que não pode ser desmontado. Eles têm à disposição cinco caixas, com diferentes dimensões, conforme descrito: • Caixa 1: 86 cm × 86 cm × 86 cm • Caixa 2: 75 cm × 82 cm × 90 cm • Caixa 3: 85 cm × 82 cm × 90 cm • Caixa 4: 82 cm × 95 cm × 82 cm • Caixa 5: 80 cm × 95 cm × 85 cm O casal precisa escolher uma caixa na qual o objeto caiba, de modo que sobre o menor espaço livre em seu interior. A caixa escolhida pelo casal deve ser a de número",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      },
+      {
+        "letter": "E",
+        "text": "5."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O objeto é um cubo de 80 cm de aresta, de modo que as três dimensões da caixa precisam ser de pelo menos 80 cm — o que já descarta a caixa 2, com um lado de 75 cm. Entre as demais, sobra menos espaço na de menor volume: caixa 1, 86³ = 636 056 cm³; caixa 3, 85 × 82 × 90 = 627 300 cm³; caixa 4, 82 × 95 × 82 = 638 780 cm³; caixa 5, 80 × 95 × 85 = 646 000 cm³. A escolhida é a caixa 3.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q142",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 142,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um morador de uma região metropolitana tem 50% de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa região. Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,075"
+      },
+      {
+        "letter": "B",
+        "text": "0,150"
+      },
+      {
+        "letter": "C",
+        "text": "0,325"
+      },
+      {
+        "letter": "D",
+        "text": "0,600"
+      },
+      {
+        "letter": "E",
+        "text": "0,"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Há dois caminhos que levam ao atraso. Chovendo (30%) e atrasando (50%): 0,30 × 0,50 = 0,15. Não chovendo (70%) e atrasando (25%): 0,70 × 0,25 = 0,175. Como os casos são mutuamente exclusivos, somam-se: 0,15 + 0,175 = 0,325.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q146",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 146,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Plana"
+    ],
+    "statement": "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo x com a sua superfície, conforme indica a figura. Em determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I ( x ) = κ ⋅ sen ( x ) , sendo k uma constante, e supondo-se que x está entre 0° e 90°. x Quando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "33%"
+      },
+      {
+        "letter": "B",
+        "text": "50%"
+      },
+      {
+        "letter": "C",
+        "text": "57%"
+      },
+      {
+        "letter": "D",
+        "text": "70%"
+      },
+      {
+        "letter": "E",
+        "text": "86% 5 000 1013 , 0 , 013 ( 1013 , 1 )"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A intensidade I(x) = k·sen(x) atinge o máximo quando sen(x) = 1, isto é, para x = 90°, valendo k. Para x = 30°, sen(30°) = 1/2, de modo que I = k/2 — metade do valor máximo, ou seja, 50%.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q148",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 148,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:\n\nExcelente: 9 < M ≤ 10\nBom: 7 ≤ M ≤ 9\nRegular: 5 ≤ M < 7\nRuim: 3 ≤ M < 5\nPéssimo: M < 3\n\nQuanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte. Determinado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I:\n\nDisciplina I — nota a definir — 12 créditos\nDisciplina II — nota 8,00 — 4 créditos\nDisciplina III — nota 6,00 — 8 créditos\nDisciplina IV — nota 5,00 — 8 créditos\nDisciplina V — nota 7,50 — 10 créditos\n\nPara que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7,00."
+      },
+      {
+        "letter": "B",
+        "text": "7,38."
+      },
+      {
+        "letter": "C",
+        "text": "7,50."
+      },
+      {
+        "letter": "D",
+        "text": "8,25."
+      },
+      {
+        "letter": "E",
+        "text": "9,00."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para a avaliação “Bom” a média ponderada precisa ser de pelo menos 7,00. Os créditos somam 12 + 4 + 8 + 8 + 10 = 42. Chamando de x a nota da disciplina I: (12x + 8,00×4 + 6,00×8 + 5,00×8 + 7,50×10)/42 ≥ 7. O numerador conhecido é 32 + 48 + 40 + 75 = 195, e 7 × 42 = 294. Assim 12x ≥ 99, ou seja, x ≥ 8,25.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q159",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 159,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova:\n\nAluno X — 5, 5, 5, 10, 6\nAluno Y — 4, 9, 3, 9, 5\nAluno Z — 5, 5, 8, 5, 6\n\nCom base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apenas o aluno Y."
+      },
+      {
+        "letter": "B",
+        "text": "apenas o aluno Z."
+      },
+      {
+        "letter": "C",
+        "text": "apenas os alunos X e Y."
+      },
+      {
+        "letter": "D",
+        "text": "apenas os alunos X e Z."
+      },
+      {
+        "letter": "E",
+        "text": "os alunos X, Y e Z."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Basta calcular a média aritmética das cinco notas de cada aluno. X: (5 + 5 + 5 + 10 + 6)/5 = 31/5 = 6,2. Y: (4 + 9 + 3 + 9 + 5)/5 = 30/5 = 6,0. Z: (5 + 5 + 8 + 5 + 6)/5 = 29/5 = 5,8. Como a aprovação exige média maior ou igual a 6, apenas o aluno Z fica reprovado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q165",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 165,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1 : 400, e que seu volume é de 25 cm3. O volume do monumento original, em metro cúbico, é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100."
+      },
+      {
+        "letter": "B",
+        "text": "400."
+      },
+      {
+        "letter": "C",
+        "text": "1 600."
+      },
+      {
+        "letter": "D",
+        "text": "6 250."
+      },
+      {
+        "letter": "E",
+        "text": "10 000."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Numa escala 1 : 400, os comprimentos reais são 400 vezes maiores e os volumes, 400³ = 6,4 × 10⁷ vezes. Assim o monumento tem 25 × 6,4 × 10⁷ = 1,6 × 10⁹ cm³. Convertendo (1 m³ = 10⁶ cm³): 1,6 × 10⁹ / 10⁶ = 1 600 m³.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q168",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 168,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Álgebra"
+    ],
+    "statement": "Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao fundo do mar, com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais. A base do viveiro é um retângulo de lados X e Y.\n\nQuais devem ser os valores de X e de Y, em metro, para que a área da base do viveiro seja máxima?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 e 49"
+      },
+      {
+        "letter": "B",
+        "text": "1 e 99"
+      },
+      {
+        "letter": "C",
+        "text": "10 e 10"
+      },
+      {
+        "letter": "D",
+        "text": "25 e 25"
+      },
+      {
+        "letter": "E",
+        "text": "50 e 50 Y"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A tela é usada apenas nas laterais e é integralmente consumida, de modo que o perímetro da base é 100 m: 2(X + Y) = 100, ou seja, X + Y = 50. Entre dois números de soma constante, o produto — que aqui é a área da base — é máximo quando eles são iguais. Logo X = Y = 25 m, e a área máxima é 625 m².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2017-q175",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 175,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura sustentada por torres que giram em torno de uma base fixa. As distâncias entre torres consecutivas, bem como da base à torre T1, são iguais a 50 m, de modo que T1, T2 e T3 estão, respectivamente, a 50 m, 100 m e 150 m da base.\n\nO fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.\n\nPara atingir seu objetivo, as velocidades das torres T1, T2 e T3 devem ser, em metro por hora, de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12, 24 e 36."
+      },
+      {
+        "letter": "B",
+        "text": "6, 12 e 18."
+      },
+      {
+        "letter": "C",
+        "text": "2, 4 e 6."
+      },
+      {
+        "letter": "D",
+        "text": "300, 1 200 e 2 700."
+      },
+      {
+        "letter": "E",
+        "text": "600, 2 400 e 5 400."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Cada torre percorre uma circunferência de raio igual à sua distância à base: 50 m, 100 m e 150 m. Em uma volta completa, os comprimentos são 2πr ≈ 6r, isto é, 300 m, 600 m e 900 m. Dividindo pelas 25 horas da volta: 12 m/h, 24 m/h e 36 m/h. As velocidades crescem proporcionalmente ao raio, já que todas as torres giram com a mesma velocidade angular.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
     "id": "enem-2018-ppl-q01",
     "exam": "enem",
     "year": 2018,
