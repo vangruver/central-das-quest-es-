@@ -11364,6 +11364,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q01",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - TRÊS TESES SOBRE O AVANÇO DA FEBRE AMARELA\n\nComo a febre amarela rompeu os limites da Floresta Amazônica e alcançou o Sudeste, atingindo os grandes centros urbanos? A partir do ano passado, o número de casos da doença alcançou níveis sem precedentes nos últimos cinquenta anos. Desde o início de 2017, foram confirmados 779 casos, 262 deles resultando em mortes. Trata-se do maior surto da forma silvestre da doença já registrado no país. Outros 435 registros ainda estão sob investigação. (l. 1-6)\n\nComo tudo começou? Os navios portugueses vindos da África nos séculos XVII e XVIII não trouxeram ao Brasil somente escravos e mercadorias. Dois inimigos silenciosos vieram junto: o vírus da febre amarela e o mosquito Aedes aegypti. A consequência foi uma série de surtos de febre amarela urbana no Brasil, com milhares de mortos. Por volta de 1940, a febre amarela urbana foi erradicada. Mas o vírus migrou, pelo trânsito de pessoas infectadas, para zonas de floresta na região Amazônica. No início dos anos 2000, a febre amarela ressurgiu em áreas da Mata Atlântica. Três teses tentam explicar o fenômeno. (l. 6-13)\n\nSegundo o professor Aloísio Falqueto, da Universidade Federal do Espírito Santo, “uma pessoa pegou o vírus na Amazônia e entrou na Mata Atlântica depois, possivelmente na altura de Montes Claros, em Minas Gerais, onde surgiram casos de macacos e pessoas infectadas”. O vírus teria se espalhado porque os primatas da mata eram vulneráveis: como o vírus desapareceu da região na década de 1940, não desenvolveram anticorpos. Logo os macacos passaram a ser mortos por seres humanos que temem contrair a doença. O massacre desses bichos, porém, é um “tiro no pé”, o que faz crescer a chance de contaminação de pessoas. Sem primatas para picar na copa das árvores, os mosquitos procuram sangue humano. (l. 14-20)\n\nDe acordo com o pesquisador Ricardo Lourenço, do Instituto Oswaldo Cruz, os mosquitos transmissores da doença se deslocaram do Norte para o Sudeste, voando ao longo de rios e corredores de mata. Estima-se que um mosquito seja capaz de voar 3 km por dia. Tanto o homem quanto o macaco, quando picados, só carregam o vírus da febre amarela por cerca de três dias. Depois disso, o organismo produz anticorpos. Em cerca de dez dias, primatas e humanos ou morrem ou se curam, tornando-se imunes à doença. (l. 21-26)\n\nPara o infectologista Eduardo Massad, professor da Universidade de São Paulo, o rompimento da barragem da Samarco, em Mariana (MG), em 2015, teve papel relevante na disseminação acelerada da doença no Sudeste. A destruição do habitat natural de diferentes espécies teria reduzido significativamente os predadores naturais dos mosquitos. A tragédia ambiental ainda teria afetado o sistema imunológico dos macacos, tornando-os mais suscetíveis ao vírus. (l. 27-31)\n\nPor que é importante determinar a “viagem” do vírus? Basicamente, para orientar as campanhas de vacinação. Em 2014, Eduardo Massad elaborou um plano de imunização depois que 11 pessoas morreram vítimas de febre amarela em Botucatu (SP): “Eu fiz cálculos matemáticos para determinar qual seria a proporção da população nas áreas não vacinadas que deveria ser imunizada, considerando os riscos de efeitos adversos da vacina. Infelizmente, a Secretaria de Saúde não adotou essa estratégia. Os casos acontecem exatamente nas áreas onde eu havia recomendado a vacinação. A Secretaria está correndo atrás do prejuízo”. Desde julho de 2017, mais de 100 pessoas foram contaminadas em São Paulo e mais de 40 morreram. (l. 32-40)\n\nO Ministério da Saúde afirmou em nota que, desde 2016, os estados e municípios vêm sendo orientados para a necessidade de intensificar as medidas de prevenção. A orientação é que pessoas em áreas de risco se vacinem. (l. 41-43)\n\nNATHALIA PASSARINHO. Adaptado de bbc.com, 06/02/2018.\n\nPara apresentação das teses que explicam o avanço da febre amarela, a autora do texto recorre, principalmente, à seguinte estratégia:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "referências a dilemas"
+      },
+      {
+        "letter": "B",
+        "text": "alusão a subentendidos"
+      },
+      {
+        "letter": "C",
+        "text": "construção de silogismo"
+      },
+      {
+        "letter": "D",
+        "text": "argumentos de autoridade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Cada uma das três teses é atribuída a um especialista identificado pelo nome e pela instituição: Aloísio Falqueto, da UFES; Ricardo Lourenço, do Instituto Oswaldo Cruz; Eduardo Massad, da USP. A autora não argumenta em nome próprio: apoia-se na credibilidade de pesquisadores reconhecidos, recurso que se denomina argumento de autoridade.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q02",
     "exam": "uerj",
     "year": 2019,
@@ -11400,6 +11436,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q02",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Casos de febre amarela desde o início de 2017: confirmados, 779; suspeitos, 435. Mortes entre os casos confirmados: 262.\n\nSuponha que todos os casos suspeitos tenham sido comprovados, e que a razão entre o número de mortes e o de casos confirmados permaneça a mesma.\n\nNesse caso, com as novas comprovações da doença, o número total de mortos por febre amarela estaria mais próximo de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "365"
+      },
+      {
+        "letter": "B",
+        "text": "386"
+      },
+      {
+        "letter": "C",
+        "text": "408"
+      },
+      {
+        "letter": "D",
+        "text": "503"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A letalidade observada é 262 ÷ 779 ≈ 0,336. Se os 435 suspeitos forem confirmados, o total de casos passa a 779 + 435 = 1214. Mantida a mesma razão, o número de mortes seria 1214 × 0,336 ≈ 408.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q03",
     "exam": "uerj",
     "year": 2019,
@@ -11433,6 +11505,78 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q03",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 3,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Admita que, em função da disseminação da febre amarela, o percentual de mortalidade de 33% ocorra em uma cidade de 800 mil habitantes, onde 5% da população foram infectados por essa doença.\n\nNessa cidade, o total de óbitos deverá ser igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9800"
+      },
+      {
+        "letter": "B",
+        "text": "13200"
+      },
+      {
+        "letter": "C",
+        "text": "18800"
+      },
+      {
+        "letter": "D",
+        "text": "21200"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O número de infectados é 5% de 800 000, ou seja, 40 000 pessoas. Aplicando a mortalidade de 33% sobre esse grupo: 0,33 × 40 000 = 13 200 óbitos. Note que o percentual incide sobre os doentes, e não sobre a população total.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q04",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 4,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "No processo de transmissão da febre amarela, sabe-se que apenas as fêmeas dos mosquitos se alimentam do sangue de seres humanos e macacos.\n\nUm aspecto favorecido por esse tipo de alimentação é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "realização de muda"
+      },
+      {
+        "letter": "B",
+        "text": "produção de ovos"
+      },
+      {
+        "letter": "C",
+        "text": "atração dos machos"
+      },
+      {
+        "letter": "D",
+        "text": "manutenção do vírus"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O sangue fornece proteínas e ferro em quantidade que a seiva e o néctar — alimento habitual de machos e fêmeas — não oferecem. Esses nutrientes são indispensáveis à maturação dos ovos, e é por isso que somente as fêmeas são hematófagas, e apenas no período reprodutivo. A transmissão do vírus é uma consequência acidental desse hábito, não sua função biológica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11508,6 +11652,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q06",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 6,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Estima-se que um mosquito seja capaz de voar 3,0 km por dia.\n\nNessas condições, a velocidade média do mosquito corresponde, em km/h, a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,125"
+      },
+      {
+        "letter": "B",
+        "text": "0,250"
+      },
+      {
+        "letter": "C",
+        "text": "0,600"
+      },
+      {
+        "letter": "D",
+        "text": "0,800"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A velocidade média é a razão entre a distância percorrida e o tempo gasto. Como um dia tem 24 horas, tem-se v = 3,0 km ÷ 24 h = 0,125 km/h.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q07",
     "exam": "uerj",
     "year": 2019,
@@ -11541,6 +11721,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q07",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - TRÊS TESES SOBRE O AVANÇO DA FEBRE AMARELA\n\nComo a febre amarela rompeu os limites da Floresta Amazônica e alcançou o Sudeste, atingindo os grandes centros urbanos? A partir do ano passado, o número de casos da doença alcançou níveis sem precedentes nos últimos cinquenta anos. Desde o início de 2017, foram confirmados 779 casos, 262 deles resultando em mortes. Trata-se do maior surto da forma silvestre da doença já registrado no país. Outros 435 registros ainda estão sob investigação. (l. 1-6)\n\nComo tudo começou? Os navios portugueses vindos da África nos séculos XVII e XVIII não trouxeram ao Brasil somente escravos e mercadorias. Dois inimigos silenciosos vieram junto: o vírus da febre amarela e o mosquito Aedes aegypti. A consequência foi uma série de surtos de febre amarela urbana no Brasil, com milhares de mortos. Por volta de 1940, a febre amarela urbana foi erradicada. Mas o vírus migrou, pelo trânsito de pessoas infectadas, para zonas de floresta na região Amazônica. No início dos anos 2000, a febre amarela ressurgiu em áreas da Mata Atlântica. Três teses tentam explicar o fenômeno. (l. 6-13)\n\nSegundo o professor Aloísio Falqueto, da Universidade Federal do Espírito Santo, “uma pessoa pegou o vírus na Amazônia e entrou na Mata Atlântica depois, possivelmente na altura de Montes Claros, em Minas Gerais, onde surgiram casos de macacos e pessoas infectadas”. O vírus teria se espalhado porque os primatas da mata eram vulneráveis: como o vírus desapareceu da região na década de 1940, não desenvolveram anticorpos. Logo os macacos passaram a ser mortos por seres humanos que temem contrair a doença. O massacre desses bichos, porém, é um “tiro no pé”, o que faz crescer a chance de contaminação de pessoas. Sem primatas para picar na copa das árvores, os mosquitos procuram sangue humano. (l. 14-20)\n\nDe acordo com o pesquisador Ricardo Lourenço, do Instituto Oswaldo Cruz, os mosquitos transmissores da doença se deslocaram do Norte para o Sudeste, voando ao longo de rios e corredores de mata. Estima-se que um mosquito seja capaz de voar 3 km por dia. Tanto o homem quanto o macaco, quando picados, só carregam o vírus da febre amarela por cerca de três dias. Depois disso, o organismo produz anticorpos. Em cerca de dez dias, primatas e humanos ou morrem ou se curam, tornando-se imunes à doença. (l. 21-26)\n\nPara o infectologista Eduardo Massad, professor da Universidade de São Paulo, o rompimento da barragem da Samarco, em Mariana (MG), em 2015, teve papel relevante na disseminação acelerada da doença no Sudeste. A destruição do habitat natural de diferentes espécies teria reduzido significativamente os predadores naturais dos mosquitos. A tragédia ambiental ainda teria afetado o sistema imunológico dos macacos, tornando-os mais suscetíveis ao vírus. (l. 27-31)\n\nPor que é importante determinar a “viagem” do vírus? Basicamente, para orientar as campanhas de vacinação. Em 2014, Eduardo Massad elaborou um plano de imunização depois que 11 pessoas morreram vítimas de febre amarela em Botucatu (SP): “Eu fiz cálculos matemáticos para determinar qual seria a proporção da população nas áreas não vacinadas que deveria ser imunizada, considerando os riscos de efeitos adversos da vacina. Infelizmente, a Secretaria de Saúde não adotou essa estratégia. Os casos acontecem exatamente nas áreas onde eu havia recomendado a vacinação. A Secretaria está correndo atrás do prejuízo”. Desde julho de 2017, mais de 100 pessoas foram contaminadas em São Paulo e mais de 40 morreram. (l. 32-40)\n\nO Ministério da Saúde afirmou em nota que, desde 2016, os estados e municípios vêm sendo orientados para a necessidade de intensificar as medidas de prevenção. A orientação é que pessoas em áreas de risco se vacinem. (l. 41-43)\n\nNATHALIA PASSARINHO. Adaptado de bbc.com, 06/02/2018.\n\nA frase que contém uma explicação do conteúdo da frase anterior está sublinhada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Desde o início de 2017, foram confirmados 779 casos, 262 deles resultando em mortes. Trata-se do maior surto da forma silvestre da doença já registrado no país. (l. 3-5)"
+      },
+      {
+        "letter": "B",
+        "text": "Dois inimigos silenciosos vieram junto: o vírus da febre amarela e o mosquito Aedes aegypti. A consequência foi uma série de surtos de febre amarela urbana no Brasil, com milhares de mortos. (l. 7-9)"
+      },
+      {
+        "letter": "C",
+        "text": "O massacre desses bichos, porém, é um “tiro no pé”, o que faz crescer a chance de contaminação de pessoas. Sem primatas para picar na copa das árvores, os mosquitos procuram sangue humano. (l. 18-20)"
+      },
+      {
+        "letter": "D",
+        "text": "Tanto o homem quanto o macaco, quando picados, só carregam o vírus da febre amarela por cerca de três dias. Depois disso, o organismo produz anticorpos. (l. 23-25)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em C, a segunda frase esclarece por que matar macacos é um “tiro no pé”: sem primatas para picar, os mosquitos passam a buscar sangue humano. A relação é de explicação — o segundo enunciado dá a razão do que se afirmou antes. Nas demais alternativas há avaliação (A), consequência (B) e sequência temporal (D).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11580,6 +11796,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q08",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - TRÊS TESES SOBRE O AVANÇO DA FEBRE AMARELA\n\nComo a febre amarela rompeu os limites da Floresta Amazônica e alcançou o Sudeste, atingindo os grandes centros urbanos? A partir do ano passado, o número de casos da doença alcançou níveis sem precedentes nos últimos cinquenta anos. Desde o início de 2017, foram confirmados 779 casos, 262 deles resultando em mortes. Trata-se do maior surto da forma silvestre da doença já registrado no país. Outros 435 registros ainda estão sob investigação. (l. 1-6)\n\nComo tudo começou? Os navios portugueses vindos da África nos séculos XVII e XVIII não trouxeram ao Brasil somente escravos e mercadorias. Dois inimigos silenciosos vieram junto: o vírus da febre amarela e o mosquito Aedes aegypti. A consequência foi uma série de surtos de febre amarela urbana no Brasil, com milhares de mortos. Por volta de 1940, a febre amarela urbana foi erradicada. Mas o vírus migrou, pelo trânsito de pessoas infectadas, para zonas de floresta na região Amazônica. No início dos anos 2000, a febre amarela ressurgiu em áreas da Mata Atlântica. Três teses tentam explicar o fenômeno. (l. 6-13)\n\nSegundo o professor Aloísio Falqueto, da Universidade Federal do Espírito Santo, “uma pessoa pegou o vírus na Amazônia e entrou na Mata Atlântica depois, possivelmente na altura de Montes Claros, em Minas Gerais, onde surgiram casos de macacos e pessoas infectadas”. O vírus teria se espalhado porque os primatas da mata eram vulneráveis: como o vírus desapareceu da região na década de 1940, não desenvolveram anticorpos. Logo os macacos passaram a ser mortos por seres humanos que temem contrair a doença. O massacre desses bichos, porém, é um “tiro no pé”, o que faz crescer a chance de contaminação de pessoas. Sem primatas para picar na copa das árvores, os mosquitos procuram sangue humano. (l. 14-20)\n\nDe acordo com o pesquisador Ricardo Lourenço, do Instituto Oswaldo Cruz, os mosquitos transmissores da doença se deslocaram do Norte para o Sudeste, voando ao longo de rios e corredores de mata. Estima-se que um mosquito seja capaz de voar 3 km por dia. Tanto o homem quanto o macaco, quando picados, só carregam o vírus da febre amarela por cerca de três dias. Depois disso, o organismo produz anticorpos. Em cerca de dez dias, primatas e humanos ou morrem ou se curam, tornando-se imunes à doença. (l. 21-26)\n\nPara o infectologista Eduardo Massad, professor da Universidade de São Paulo, o rompimento da barragem da Samarco, em Mariana (MG), em 2015, teve papel relevante na disseminação acelerada da doença no Sudeste. A destruição do habitat natural de diferentes espécies teria reduzido significativamente os predadores naturais dos mosquitos. A tragédia ambiental ainda teria afetado o sistema imunológico dos macacos, tornando-os mais suscetíveis ao vírus. (l. 27-31)\n\nPor que é importante determinar a “viagem” do vírus? Basicamente, para orientar as campanhas de vacinação. Em 2014, Eduardo Massad elaborou um plano de imunização depois que 11 pessoas morreram vítimas de febre amarela em Botucatu (SP): “Eu fiz cálculos matemáticos para determinar qual seria a proporção da população nas áreas não vacinadas que deveria ser imunizada, considerando os riscos de efeitos adversos da vacina. Infelizmente, a Secretaria de Saúde não adotou essa estratégia. Os casos acontecem exatamente nas áreas onde eu havia recomendado a vacinação. A Secretaria está correndo atrás do prejuízo”. Desde julho de 2017, mais de 100 pessoas foram contaminadas em São Paulo e mais de 40 morreram. (l. 32-40)\n\nO Ministério da Saúde afirmou em nota que, desde 2016, os estados e municípios vêm sendo orientados para a necessidade de intensificar as medidas de prevenção. A orientação é que pessoas em áreas de risco se vacinem. (l. 41-43)\n\nNATHALIA PASSARINHO. Adaptado de bbc.com, 06/02/2018.\n\nNo quinto parágrafo, são apresentadas duas hipóteses acerca da disseminação da febre amarela. A marca verbal que evidencia a formulação dessas hipóteses é o uso de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "voz ativa"
+      },
+      {
+        "letter": "B",
+        "text": "modo subjuntivo"
+      },
+      {
+        "letter": "C",
+        "text": "futuro do pretérito"
+      },
+      {
+        "letter": "D",
+        "text": "forma no gerúndio"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As duas suposições do infectologista aparecem em “teria reduzido significativamente os predadores naturais” e “teria afetado o sistema imunológico dos macacos”. O futuro do pretérito é justamente o tempo verbal usado em português para marcar aquilo que se supõe ou se atribui a terceiros sem assumir como fato — recurso corrente no jornalismo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q09",
     "exam": "uerj",
     "year": 2019,
@@ -11616,6 +11868,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q09",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 9,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - TRÊS TESES SOBRE O AVANÇO DA FEBRE AMARELA\n\nComo a febre amarela rompeu os limites da Floresta Amazônica e alcançou o Sudeste, atingindo os grandes centros urbanos? A partir do ano passado, o número de casos da doença alcançou níveis sem precedentes nos últimos cinquenta anos. Desde o início de 2017, foram confirmados 779 casos, 262 deles resultando em mortes. Trata-se do maior surto da forma silvestre da doença já registrado no país. Outros 435 registros ainda estão sob investigação. (l. 1-6)\n\nComo tudo começou? Os navios portugueses vindos da África nos séculos XVII e XVIII não trouxeram ao Brasil somente escravos e mercadorias. Dois inimigos silenciosos vieram junto: o vírus da febre amarela e o mosquito Aedes aegypti. A consequência foi uma série de surtos de febre amarela urbana no Brasil, com milhares de mortos. Por volta de 1940, a febre amarela urbana foi erradicada. Mas o vírus migrou, pelo trânsito de pessoas infectadas, para zonas de floresta na região Amazônica. No início dos anos 2000, a febre amarela ressurgiu em áreas da Mata Atlântica. Três teses tentam explicar o fenômeno. (l. 6-13)\n\nSegundo o professor Aloísio Falqueto, da Universidade Federal do Espírito Santo, “uma pessoa pegou o vírus na Amazônia e entrou na Mata Atlântica depois, possivelmente na altura de Montes Claros, em Minas Gerais, onde surgiram casos de macacos e pessoas infectadas”. O vírus teria se espalhado porque os primatas da mata eram vulneráveis: como o vírus desapareceu da região na década de 1940, não desenvolveram anticorpos. Logo os macacos passaram a ser mortos por seres humanos que temem contrair a doença. O massacre desses bichos, porém, é um “tiro no pé”, o que faz crescer a chance de contaminação de pessoas. Sem primatas para picar na copa das árvores, os mosquitos procuram sangue humano. (l. 14-20)\n\nDe acordo com o pesquisador Ricardo Lourenço, do Instituto Oswaldo Cruz, os mosquitos transmissores da doença se deslocaram do Norte para o Sudeste, voando ao longo de rios e corredores de mata. Estima-se que um mosquito seja capaz de voar 3 km por dia. Tanto o homem quanto o macaco, quando picados, só carregam o vírus da febre amarela por cerca de três dias. Depois disso, o organismo produz anticorpos. Em cerca de dez dias, primatas e humanos ou morrem ou se curam, tornando-se imunes à doença. (l. 21-26)\n\nPara o infectologista Eduardo Massad, professor da Universidade de São Paulo, o rompimento da barragem da Samarco, em Mariana (MG), em 2015, teve papel relevante na disseminação acelerada da doença no Sudeste. A destruição do habitat natural de diferentes espécies teria reduzido significativamente os predadores naturais dos mosquitos. A tragédia ambiental ainda teria afetado o sistema imunológico dos macacos, tornando-os mais suscetíveis ao vírus. (l. 27-31)\n\nPor que é importante determinar a “viagem” do vírus? Basicamente, para orientar as campanhas de vacinação. Em 2014, Eduardo Massad elaborou um plano de imunização depois que 11 pessoas morreram vítimas de febre amarela em Botucatu (SP): “Eu fiz cálculos matemáticos para determinar qual seria a proporção da população nas áreas não vacinadas que deveria ser imunizada, considerando os riscos de efeitos adversos da vacina. Infelizmente, a Secretaria de Saúde não adotou essa estratégia. Os casos acontecem exatamente nas áreas onde eu havia recomendado a vacinação. A Secretaria está correndo atrás do prejuízo”. Desde julho de 2017, mais de 100 pessoas foram contaminadas em São Paulo e mais de 40 morreram. (l. 32-40)\n\nO Ministério da Saúde afirmou em nota que, desde 2016, os estados e municípios vêm sendo orientados para a necessidade de intensificar as medidas de prevenção. A orientação é que pessoas em áreas de risco se vacinem. (l. 41-43)\n\nNATHALIA PASSARINHO. Adaptado de bbc.com, 06/02/2018.\n\nNo sexto parágrafo, a interlocução com o leitor é explicitamente marcada pelo emprego de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pergunta"
+      },
+      {
+        "letter": "B",
+        "text": "estatística"
+      },
+      {
+        "letter": "C",
+        "text": "depoimento"
+      },
+      {
+        "letter": "D",
+        "text": "coloquialismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O parágrafo se abre com “Por que é importante determinar a ‘viagem’ do vírus?”, dirigindo-se diretamente a quem lê antes de responder. A pergunta retórica convoca o leitor para o raciocínio e organiza a exposição que vem em seguida. Estatísticas e depoimento também aparecem no texto, mas não constituem a marca de interlocução.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q10",
     "exam": "uerj",
     "year": 2019,
@@ -11649,6 +11937,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q10",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 10,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Os avanços no campo da cartografia digital têm contribuído para aumentar o uso de seus produtos como ferramentas de suporte às políticas públicas na área da saúde. Em 2014, o infectologista Eduardo Massad elaborou um plano de imunização contra a febre amarela, calculando qual proporção da população nas áreas não vacinadas deveria ser imunizada; a Secretaria de Saúde não adotou a estratégia, e os casos vieram a ocorrer exatamente nas áreas em que ele havia recomendado a vacinação.\n\nNa situação ocorrida em Botucatu, esse suporte às políticas de saúde deveria utilizar o seguinte recurso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "blocos de relevo fabricados com impressoras de três dimensões"
+      },
+      {
+        "letter": "B",
+        "text": "plantas cadastrais confeccionadas com imagens de satélites modernos"
+      },
+      {
+        "letter": "C",
+        "text": "cartas estaduais construídas com técnicas de fotointerpretação florestal"
+      },
+      {
+        "letter": "D",
+        "text": "mapas de síntese elaborados com sistemas de informações geográficas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O problema exige cruzar, sobre a mesma base territorial, camadas distintas de informação — casos notificados, cobertura vacinal, densidade populacional, áreas de mata e circulação de primatas. É exatamente o que fazem os sistemas de informações geográficas, que sobrepõem dados georreferenciados e geram mapas de síntese capazes de orientar onde vacinar. As demais opções oferecem produtos cartográficos que não integram esses dados.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11724,6 +12048,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q12",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - UM POEMA DE VINICIUS DE MORAES\n\nA flutuação do gosto em relação aos poetas é normal, como é normal a sucessão dos modos de fazer poesia. Pelo visto, Vinicius de Moraes anda em baixa acentuada. Talvez o seu prestígio tenha diminuído porque se tornou cantor e compositor, levando a opinião a considerá-lo mais letrista do que poeta. Mas deve ter sido também porque encarnou um tipo de poesia oposto a certas modalidades para as quais cada palavra tende a ser objeto autônomo, portador de maneira isolada (ou quase) do significado poético. (l. 1-6)\n\nNa história da literatura brasileira ele é um poeta de continuidades, não de rupturas; e o nosso é um tempo que tende à ruptura, ao triunfo do ritmo e mesmo do ruído sobre a melodia, assim como tende a suprimir as manifestações da afetividade. Ora, Vinicius é melodioso e não tem medo de manifestar sentimentos, com uma naturalidade que deve desgostar as poéticas de choque. Por vezes, ele chega mesmo a cometer o pecado maior para o nosso tempo: o sentimentalismo. Isso lhe permitiu dar estatuto de poesia a coisas, sentimentos e palavras extraídos do mais singelo cotidiano, do coloquial mais familiar e até piegas, de maneira a parecer muitas vezes um seresteiro milagrosamente transformado em poeta maior. João Cabral disse mais de uma vez que sua própria poesia remava contra a maré da tradição lírica de língua portuguesa. Vinicius seria, ao contrário, alguém integrado no fluxo da sua corrente, porque se dispôs a atualizar a tradição. Isso foi possível devido à maestria com que dominou o verso, jogando com todas as suas possibilidades. (l. 7-17)\n\nEle consegue ser moderno usando metrificação e cultivando a melodia, com uma imaginação renovadora e uma liberdade que quebram as convenções e conseguem preservar os valores coloquiais. Rigoroso como Olavo Bilac, fluido como o Manuel Bandeira dos versos regulares, terra a terra como os poemas conversados de Mário de Andrade, esse mestre do soneto e da crônica é um raro malabarista. (l. 18-22)\n\nANTONIO CANDIDO. Adaptado de Teoria e debate, nº 49. São Paulo: Fundação Perseu Abramo, out-dez, 2001.\n\nA flutuação do gosto em relação aos poetas é normal, como é normal a sucessão dos modos de fazer poesia. (l. 1-2)\n\nA relação que se estabelece entre essa declaração inicial do crítico Antonio Candido e o restante de seu texto pode ser definida pela seguinte sequência:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "problema – solução"
+      },
+      {
+        "letter": "B",
+        "text": "abstração – realidade"
+      },
+      {
+        "letter": "C",
+        "text": "pressuposição – asserção"
+      },
+      {
+        "letter": "D",
+        "text": "generalização – particularização"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A abertura enuncia uma lei geral: o gosto por poetas oscila, e os modos de fazer poesia se sucedem. Tudo o que vem depois aplica essa lei a um caso particular — a baixa recente do prestígio de Vinicius de Moraes e suas razões. O texto vai, portanto, do geral ao específico, num movimento de generalização seguida de particularização.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q13",
     "exam": "uerj",
     "year": 2019,
@@ -11757,6 +12117,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q13",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 13,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Literatura"
+    ],
+    "statement": "Texto base - UM POEMA DE VINICIUS DE MORAES\n\nA flutuação do gosto em relação aos poetas é normal, como é normal a sucessão dos modos de fazer poesia. Pelo visto, Vinicius de Moraes anda em baixa acentuada. Talvez o seu prestígio tenha diminuído porque se tornou cantor e compositor, levando a opinião a considerá-lo mais letrista do que poeta. Mas deve ter sido também porque encarnou um tipo de poesia oposto a certas modalidades para as quais cada palavra tende a ser objeto autônomo, portador de maneira isolada (ou quase) do significado poético. (l. 1-6)\n\nNa história da literatura brasileira ele é um poeta de continuidades, não de rupturas; e o nosso é um tempo que tende à ruptura, ao triunfo do ritmo e mesmo do ruído sobre a melodia, assim como tende a suprimir as manifestações da afetividade. Ora, Vinicius é melodioso e não tem medo de manifestar sentimentos, com uma naturalidade que deve desgostar as poéticas de choque. Por vezes, ele chega mesmo a cometer o pecado maior para o nosso tempo: o sentimentalismo. Isso lhe permitiu dar estatuto de poesia a coisas, sentimentos e palavras extraídos do mais singelo cotidiano, do coloquial mais familiar e até piegas, de maneira a parecer muitas vezes um seresteiro milagrosamente transformado em poeta maior. João Cabral disse mais de uma vez que sua própria poesia remava contra a maré da tradição lírica de língua portuguesa. Vinicius seria, ao contrário, alguém integrado no fluxo da sua corrente, porque se dispôs a atualizar a tradição. Isso foi possível devido à maestria com que dominou o verso, jogando com todas as suas possibilidades. (l. 7-17)\n\nEle consegue ser moderno usando metrificação e cultivando a melodia, com uma imaginação renovadora e uma liberdade que quebram as convenções e conseguem preservar os valores coloquiais. Rigoroso como Olavo Bilac, fluido como o Manuel Bandeira dos versos regulares, terra a terra como os poemas conversados de Mário de Andrade, esse mestre do soneto e da crônica é um raro malabarista. (l. 18-22)\n\nANTONIO CANDIDO. Adaptado de Teoria e debate, nº 49. São Paulo: Fundação Perseu Abramo, out-dez, 2001.\n\nA articulação do primeiro com o segundo parágrafo revela o seguinte eixo principal da argumentação do crítico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização de versos coloquiais"
+      },
+      {
+        "letter": "B",
+        "text": "descrição de uma poética singular"
+      },
+      {
+        "letter": "C",
+        "text": "contestação de artistas modernos"
+      },
+      {
+        "letter": "D",
+        "text": "exaltação de uma obra convencional"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O primeiro parágrafo diz que Vinicius encarnou um tipo de poesia oposto às tendências dominantes; o segundo caracteriza essa poesia: de continuidade e não de ruptura, melodiosa, afetiva, capaz de dar estatuto poético ao coloquial. O eixo do texto é, assim, descrever o que há de singular nessa poética. Candido não contesta os modernos nem chama a obra de convencional — ao contrário, mostra que ela é moderna por outros caminhos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11796,6 +12193,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q14",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem",
+      "Literatura"
+    ],
+    "statement": "Texto base - UM POEMA DE VINICIUS DE MORAES\n\nA flutuação do gosto em relação aos poetas é normal, como é normal a sucessão dos modos de fazer poesia. Pelo visto, Vinicius de Moraes anda em baixa acentuada. Talvez o seu prestígio tenha diminuído porque se tornou cantor e compositor, levando a opinião a considerá-lo mais letrista do que poeta. Mas deve ter sido também porque encarnou um tipo de poesia oposto a certas modalidades para as quais cada palavra tende a ser objeto autônomo, portador de maneira isolada (ou quase) do significado poético. (l. 1-6)\n\nNa história da literatura brasileira ele é um poeta de continuidades, não de rupturas; e o nosso é um tempo que tende à ruptura, ao triunfo do ritmo e mesmo do ruído sobre a melodia, assim como tende a suprimir as manifestações da afetividade. Ora, Vinicius é melodioso e não tem medo de manifestar sentimentos, com uma naturalidade que deve desgostar as poéticas de choque. Por vezes, ele chega mesmo a cometer o pecado maior para o nosso tempo: o sentimentalismo. Isso lhe permitiu dar estatuto de poesia a coisas, sentimentos e palavras extraídos do mais singelo cotidiano, do coloquial mais familiar e até piegas, de maneira a parecer muitas vezes um seresteiro milagrosamente transformado em poeta maior. João Cabral disse mais de uma vez que sua própria poesia remava contra a maré da tradição lírica de língua portuguesa. Vinicius seria, ao contrário, alguém integrado no fluxo da sua corrente, porque se dispôs a atualizar a tradição. Isso foi possível devido à maestria com que dominou o verso, jogando com todas as suas possibilidades. (l. 7-17)\n\nEle consegue ser moderno usando metrificação e cultivando a melodia, com uma imaginação renovadora e uma liberdade que quebram as convenções e conseguem preservar os valores coloquiais. Rigoroso como Olavo Bilac, fluido como o Manuel Bandeira dos versos regulares, terra a terra como os poemas conversados de Mário de Andrade, esse mestre do soneto e da crônica é um raro malabarista. (l. 18-22)\n\nANTONIO CANDIDO. Adaptado de Teoria e debate, nº 49. São Paulo: Fundação Perseu Abramo, out-dez, 2001.\n\nCom base nas ideias apresentadas no texto, a metáfora um raro malabarista (l. 22) sugere que o poeta articula os seguintes aspectos em sua poesia:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "humor e seriedade"
+      },
+      {
+        "letter": "B",
+        "text": "tradição e inovação"
+      },
+      {
+        "letter": "C",
+        "text": "erudição e formalismo"
+      },
+      {
+        "letter": "D",
+        "text": "musicalidade e silêncio"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O último parágrafo diz que Vinicius “consegue ser moderno usando metrificação e cultivando a melodia”, com liberdade que quebra convenções sem abandoná-las, e que “se dispôs a atualizar a tradição”. Manter em equilíbrio esses dois pratos — a herança do verso medido e a invenção moderna — é o malabarismo a que a metáfora se refere.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q15",
     "exam": "uerj",
     "year": 2019,
@@ -11829,6 +12263,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q15",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - SONETO DE SEPARAÇÃO, de Vinicius de Moraes\n\nDe repente do riso fez-se o pranto\nSilencioso e branco como a bruma\nE das bocas unidas fez-se a espuma\nE das mãos espalmadas fez-se o espanto. (v. 1-4)\n\nDe repente da calma fez-se o vento\nQue dos olhos desfez a última chama\nE da paixão fez-se o pressentimento\nE do momento imóvel fez-se o drama. (v. 5-8)\n\nDe repente, não mais que de repente\nFez-se de triste o que se fez amante\nE de sozinho o que se fez contente. (v. 9-11)\n\nFez-se do amigo próximo o distante\nFez-se da vida uma aventura errante\nDe repente, não mais que de repente. (v. 12-14)\n\nDe repente da calma fez-se o vento / Que dos olhos desfez a última chama (v. 5-6)\n\nEm relação à expressão o vento, o verso sublinhado, “Que dos olhos desfez a última chama”, assume a função de indicar uma:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gradação"
+      },
+      {
+        "letter": "B",
+        "text": "nomeação"
+      },
+      {
+        "letter": "C",
+        "text": "comparação"
+      },
+      {
+        "letter": "D",
+        "text": "caracterização"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A oração adjetiva introduzida por que não define qual vento entre outros: acrescenta um traço a ele, dizendo o que esse vento fez — apagou a última chama do olhar. Trata-se de uma oração adjetiva explicativa, cuja função é caracterizar o termo antecedente, e não nomeá-lo, compará-lo ou estabelecer intensidade crescente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11868,6 +12338,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q16",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - SONETO DE SEPARAÇÃO, de Vinicius de Moraes\n\nDe repente do riso fez-se o pranto\nSilencioso e branco como a bruma\nE das bocas unidas fez-se a espuma\nE das mãos espalmadas fez-se o espanto. (v. 1-4)\n\nDe repente da calma fez-se o vento\nQue dos olhos desfez a última chama\nE da paixão fez-se o pressentimento\nE do momento imóvel fez-se o drama. (v. 5-8)\n\nDe repente, não mais que de repente\nFez-se de triste o que se fez amante\nE de sozinho o que se fez contente. (v. 9-11)\n\nFez-se do amigo próximo o distante\nFez-se da vida uma aventura errante\nDe repente, não mais que de repente. (v. 12-14)\n\nUma série de transformações é apresentada pelo verbo fazer acompanhado da palavra se. Na cena construída no poema, essa estrutura linguística produz o seguinte efeito:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apagamento dos parceiros da relação"
+      },
+      {
+        "letter": "B",
+        "text": "esquecimento da sensação de perda"
+      },
+      {
+        "letter": "C",
+        "text": "neutralização dos espaços de conflito"
+      },
+      {
+        "letter": "D",
+        "text": "indefinição do momento da despedida"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Em “fez-se o pranto”, “fez-se a espuma”, “fez-se o espanto”, o se indetermina o agente: as mudanças simplesmente acontecem, sem que ninguém as pratique. O casal nunca aparece como sujeito das ações; sobram apenas os estados e as coisas transformadas. O resultado é o apagamento dos parceiros da relação, que assistem à separação como a algo que se impõe de fora.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q17",
     "exam": "uerj",
     "year": 2019,
@@ -11901,6 +12407,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q17",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 17,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - SONETO DE SEPARAÇÃO, de Vinicius de Moraes\n\nDe repente do riso fez-se o pranto\nSilencioso e branco como a bruma\nE das bocas unidas fez-se a espuma\nE das mãos espalmadas fez-se o espanto. (v. 1-4)\n\nDe repente da calma fez-se o vento\nQue dos olhos desfez a última chama\nE da paixão fez-se o pressentimento\nE do momento imóvel fez-se o drama. (v. 5-8)\n\nDe repente, não mais que de repente\nFez-se de triste o que se fez amante\nE de sozinho o que se fez contente. (v. 9-11)\n\nFez-se do amigo próximo o distante\nFez-se da vida uma aventura errante\nDe repente, não mais que de repente. (v. 12-14)\n\nNa terceira estrofe (v. 9-11), a seleção vocabular evidencia a passagem de um estado emocional a outro por parte do poeta. A partir dessa seleção, os estados emocionais por que passa o poeta podem ser definidos como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cíclicos"
+      },
+      {
+        "letter": "B",
+        "text": "hesitantes"
+      },
+      {
+        "letter": "C",
+        "text": "antagônicos"
+      },
+      {
+        "letter": "D",
+        "text": "independentes"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A estrofe opõe termos diretamente contrários: de amante a triste, de contente a sozinho. Não há transição gradual nem oscilação entre os estados — há inversão completa de um polo ao outro, reforçada pela repetição de “de repente”. Os estados emocionais são, portanto, antagônicos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -11940,6 +12482,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q18",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - SONETO DE SEPARAÇÃO, de Vinicius de Moraes\n\nDe repente do riso fez-se o pranto\nSilencioso e branco como a bruma\nE das bocas unidas fez-se a espuma\nE das mãos espalmadas fez-se o espanto. (v. 1-4)\n\nDe repente da calma fez-se o vento\nQue dos olhos desfez a última chama\nE da paixão fez-se o pressentimento\nE do momento imóvel fez-se o drama. (v. 5-8)\n\nDe repente, não mais que de repente\nFez-se de triste o que se fez amante\nE de sozinho o que se fez contente. (v. 9-11)\n\nFez-se do amigo próximo o distante\nFez-se da vida uma aventura errante\nDe repente, não mais que de repente. (v. 12-14)\n\nNo último verso, não mais que enfatiza a expressão de repente, revelando certa reação do poeta em relação à separação. Essa reação é marcada pelo sentimento de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indecisão"
+      },
+      {
+        "letter": "B",
+        "text": "libertação"
+      },
+      {
+        "letter": "C",
+        "text": "resignação"
+      },
+      {
+        "letter": "D",
+        "text": "preocupação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao encerrar o soneto repetindo “De repente, não mais que de repente”, o eu lírico não protesta, não busca culpados e não propõe saída: apenas constata que tudo se desfez de uma hora para outra. O fechamento circular, sem reação, exprime aceitação diante do inevitável — isto é, resignação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q19",
     "exam": "uerj",
     "year": 2019,
@@ -11973,6 +12551,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q19",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - SONETO DO CORIFEU*, de Vinicius de Moraes\n\nSão demais os perigos desta vida\nPara quem tem paixão, principalmente\nQuando uma lua surge de repente\nE se deixa no céu, como esquecida. (v. 1-4)\n\nE se ao luar que atua desvairado\nVem se unir uma música qualquer\nAí então é preciso ter cuidado\nPorque deve andar perto uma mulher. (v. 5-8)\n\nDeve andar perto uma mulher que é feita\nDe música, luar e sentimento\nE que a vida não quer, de tão perfeita. (v. 9-11)\n\nUma mulher que é como a própria Lua:\nTão linda que só espalha sofrimento\nTão cheia de pudor que vive nua. (v. 12-14)\n\n* Corifeu: personagem sempre presente no antigo teatro grego.\n\nOs dois primeiros versos do soneto sugerem uma advertência dirigida aos apaixonados. Com base na leitura do poema, essa advertência se baseia no pressuposto de que a paixão é capaz de provocar estado de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apatia"
+      },
+      {
+        "letter": "B",
+        "text": "carência"
+      },
+      {
+        "letter": "C",
+        "text": "contrariedade"
+      },
+      {
+        "letter": "D",
+        "text": "vulnerabilidade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Dizer que “são demais os perigos desta vida / para quem tem paixão” é afirmar que o apaixonado está mais exposto do que os demais: a lua, a música e a mulher, inofensivas para qualquer outro, tornam-se ameaças para ele. O poema recomenda cautela justamente porque a paixão retira as defesas — deixa o sujeito vulnerável.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12012,6 +12626,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q20",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 20,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - SONETO DO CORIFEU*, de Vinicius de Moraes\n\nSão demais os perigos desta vida\nPara quem tem paixão, principalmente\nQuando uma lua surge de repente\nE se deixa no céu, como esquecida. (v. 1-4)\n\nE se ao luar que atua desvairado\nVem se unir uma música qualquer\nAí então é preciso ter cuidado\nPorque deve andar perto uma mulher. (v. 5-8)\n\nDeve andar perto uma mulher que é feita\nDe música, luar e sentimento\nE que a vida não quer, de tão perfeita. (v. 9-11)\n\nUma mulher que é como a própria Lua:\nTão linda que só espalha sofrimento\nTão cheia de pudor que vive nua. (v. 12-14)\n\n* Corifeu: personagem sempre presente no antigo teatro grego.\n\nNo soneto, é possível reconhecer a configuração de um espaço caracterizado pelo seguinte aspecto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "composição teatral"
+      },
+      {
+        "letter": "B",
+        "text": "inspiração bucólica"
+      },
+      {
+        "letter": "C",
+        "text": "atmosfera fúnebre"
+      },
+      {
+        "letter": "D",
+        "text": "tradição religiosa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O próprio título remete ao corifeu, o chefe do coro que, na tragédia grega, se dirigia à plateia para comentar e advertir sobre a ação. O soneto reproduz essa função: uma voz alerta o público sobre o perigo que se aproxima, e o cenário é montado como um palco — a lua que “surge”, o luar que “atua”, a música que entra em cena e a mulher que deve estar por perto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q21",
     "exam": "uerj",
     "year": 2019,
@@ -12045,6 +12695,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q21",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 21,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - SONETO DO CORIFEU*, de Vinicius de Moraes\n\nSão demais os perigos desta vida\nPara quem tem paixão, principalmente\nQuando uma lua surge de repente\nE se deixa no céu, como esquecida. (v. 1-4)\n\nE se ao luar que atua desvairado\nVem se unir uma música qualquer\nAí então é preciso ter cuidado\nPorque deve andar perto uma mulher. (v. 5-8)\n\nDeve andar perto uma mulher que é feita\nDe música, luar e sentimento\nE que a vida não quer, de tão perfeita. (v. 9-11)\n\nUma mulher que é como a própria Lua:\nTão linda que só espalha sofrimento\nTão cheia de pudor que vive nua. (v. 12-14)\n\n* Corifeu: personagem sempre presente no antigo teatro grego.\n\nNa última estrofe, a figura feminina é descrita por meio de elementos que estabelecem entre si uma relação do seguinte tipo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ambígua"
+      },
+      {
+        "letter": "B",
+        "text": "antitética"
+      },
+      {
+        "letter": "C",
+        "text": "denotativa"
+      },
+      {
+        "letter": "D",
+        "text": "metalinguística"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois últimos versos unem termos que se excluem: “tão linda que só espalha sofrimento” e “tão cheia de pudor que vive nua”. Beleza e sofrimento, pudor e nudez formam pares opostos deliberadamente aproximados — construção antitética, que é também o modo como o poema define o caráter contraditório da paixão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12084,6 +12770,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q22",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - SONETO DA HORA FINAL, de Vinicius de Moraes\n\nSerá assim, amiga: um certo dia\nEstando nós a contemplar o poente\nSentiremos no rosto, de repente\nO beijo leve de uma aragem fria. (v. 1-4)\n\nTu me olharás silenciosamente\nE eu te olharei também, com nostalgia\nE partiremos, tontos de poesia\nPara a porta de treva aberta em frente. (v. 5-8)\n\nAo transpor as fronteiras do Segredo\nEu, calmo, te direi: – Não tenhas medo\nE tu, tranquila, me dirás: – Sê forte. (v. 9-11)\n\nE como dois antigos namorados\nNoturnamente tristes e enlaçados\nNós entraremos nos jardins da morte. (v. 12-14)\n\nNo título Soneto da hora final, para revelar o tema do poema, recorre-se à figura de linguagem denominada:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eufemismo"
+      },
+      {
+        "letter": "B",
+        "text": "metonímia"
+      },
+      {
+        "letter": "C",
+        "text": "hipérbole"
+      },
+      {
+        "letter": "D",
+        "text": "ironia"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O poema trata da morte, mas o título não a nomeia: fala em “hora final”, expressão que abranda o que a palavra direta traria de brutal. Esse abrandamento deliberado de uma ideia penosa é o eufemismo, procedimento que o texto mantém do início ao fim, com “a porta de treva”, “as fronteiras do Segredo” e “os jardins da morte”.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q23",
     "exam": "uerj",
     "year": 2019,
@@ -12117,6 +12839,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q23",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 23,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Texto base - SONETO DA HORA FINAL, de Vinicius de Moraes\n\nSerá assim, amiga: um certo dia\nEstando nós a contemplar o poente\nSentiremos no rosto, de repente\nO beijo leve de uma aragem fria. (v. 1-4)\n\nTu me olharás silenciosamente\nE eu te olharei também, com nostalgia\nE partiremos, tontos de poesia\nPara a porta de treva aberta em frente. (v. 5-8)\n\nAo transpor as fronteiras do Segredo\nEu, calmo, te direi: – Não tenhas medo\nE tu, tranquila, me dirás: – Sê forte. (v. 9-11)\n\nE como dois antigos namorados\nNoturnamente tristes e enlaçados\nNós entraremos nos jardins da morte. (v. 12-14)\n\nNo poema, há diversas referências metafóricas à morte, como exemplifica o seguinte verso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Estando nós a contemplar o poente (v. 2)"
+      },
+      {
+        "letter": "B",
+        "text": "E eu te olharei também, com nostalgia (v. 6)"
+      },
+      {
+        "letter": "C",
+        "text": "Ao transpor as fronteiras do Segredo (v. 9)"
+      },
+      {
+        "letter": "D",
+        "text": "E como dois antigos namorados (v. 12)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Atravessar “as fronteiras do Segredo” é a passagem para aquilo que não se conhece e de onde não se volta — imagem da morte construída sem nomeá-la, reforçada pela maiúscula em Segredo. Os versos 2 e 6 descrevem a cena e o sentimento dos amantes, e o verso 12 é uma comparação entre o casal e dois antigos namorados.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12156,6 +12914,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q24",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 24,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - EPIDEMIAS EN GUATEMALA EN LOS ÚLTIMOS DIEZ AÑOS\n\nLa Organización Mundial de la Salud (OMS) ha declarado una emergencia sanitaria a nivel mundial por el virus del zika, originario de Uganda. Indicios de que posiblemente es el responsable de causar microcefalia en fetos durante la gestación han saltado las alarmas. (l. 1-3)\n\nEl dengue apareció en Guatemala a finales de los años setenta. Se cree que la enfermedad ingresó a la región centroamericana a través de Honduras. Ya en el siglo XVII se reportaban casos de una epidemia similar en el Caribe, pero en los años sesenta se produjo un brote extenso en las islas. En agosto de 1978 se informaba de que surgían, en aquel año, en Honduras, un promedio de 100 a 150 casos diarios de personas infectadas de dengue. (l. 4-8)\n\nEl doctor Ramón Pereira, de la secretaría de salud pública de dicho país, se dirigió a la región de las islas de la bahía ubicadas al norte del país en el mar Caribe. Ahí pudieron estimar que el virus original provino de una persona enferma que ingresó a territorio hondureño procedente de Jamaica o Puerto Rico. (l. 9-12)\n\nPese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue en el país. El ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 13-15)\n\nEn los años ochenta la epidemia estuvo controlada y la mortalidad era casi nula. Sin embargo, en 1987 apareció un nuevo brote en Lívingston, Izabal; luego en Santa Lucía Coztumalguapa, Escuintla, y en Jalpatagua, Jutiapa. Ya entrada la década de 1990 los casos aumentaron y cada año se conocían nuevos, especialmente en asentamientos y áreas rurales donde no había control sanitario. Cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención. (l. 16-21)\n\nAlgunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional. Luego de un desastre natural, el temor de un brote del dengue era inminente en las poblaciones afectadas. (l. 22-24)\n\nLa chikungunya es, por su parte, una de las más recientes enfermedades de origen extranjero que han ingresado al país. En diciembre del 2013, la Organización Panamericana de la Salud recibió los primeros informes de contagio de la enfermedad en América, que hasta entonces era reportada únicamente en Asia y África. (l. 25-28)\n\nEl temor que provoca la expansión del dengue y la chikungunya por la vulnerabilidad de la población se vio fortalecido con la entrada del virus del zika en el país a finales del año pasado. En noviembre último se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. Los síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 29-33)\n\nprensalibre.com\n\nLos textos “Três teses sobre o avanço da febre amarela” y “Epidemias en Guatemala en los últimos diez años” tratan de enfermedades transmitidas por mosquitos. Una de las causas de la epidemia de esas enfermedades indicada en los dos textos es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cambios ambientales"
+      },
+      {
+        "letter": "B",
+        "text": "migración de simios"
+      },
+      {
+        "letter": "C",
+        "text": "ausencia de vacunación"
+      },
+      {
+        "letter": "D",
+        "text": "reforestación amazónica"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto guatemalteco afirma que “algunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional”. O texto brasileiro aponta o rompimento da barragem de Mariana, que teria destruído habitats e reduzido os predadores naturais dos mosquitos. Em ambos, portanto, alterações ambientais aparecem entre as causas da disseminação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q25",
     "exam": "uerj",
     "year": 2019,
@@ -12189,6 +12983,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q25",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 25,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - EPIDEMIAS EN GUATEMALA EN LOS ÚLTIMOS DIEZ AÑOS\n\nLa Organización Mundial de la Salud (OMS) ha declarado una emergencia sanitaria a nivel mundial por el virus del zika, originario de Uganda. Indicios de que posiblemente es el responsable de causar microcefalia en fetos durante la gestación han saltado las alarmas. (l. 1-3)\n\nEl dengue apareció en Guatemala a finales de los años setenta. Se cree que la enfermedad ingresó a la región centroamericana a través de Honduras. Ya en el siglo XVII se reportaban casos de una epidemia similar en el Caribe, pero en los años sesenta se produjo un brote extenso en las islas. En agosto de 1978 se informaba de que surgían, en aquel año, en Honduras, un promedio de 100 a 150 casos diarios de personas infectadas de dengue. (l. 4-8)\n\nEl doctor Ramón Pereira, de la secretaría de salud pública de dicho país, se dirigió a la región de las islas de la bahía ubicadas al norte del país en el mar Caribe. Ahí pudieron estimar que el virus original provino de una persona enferma que ingresó a territorio hondureño procedente de Jamaica o Puerto Rico. (l. 9-12)\n\nPese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue en el país. El ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 13-15)\n\nEn los años ochenta la epidemia estuvo controlada y la mortalidad era casi nula. Sin embargo, en 1987 apareció un nuevo brote en Lívingston, Izabal; luego en Santa Lucía Coztumalguapa, Escuintla, y en Jalpatagua, Jutiapa. Ya entrada la década de 1990 los casos aumentaron y cada año se conocían nuevos, especialmente en asentamientos y áreas rurales donde no había control sanitario. Cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención. (l. 16-21)\n\nAlgunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional. Luego de un desastre natural, el temor de un brote del dengue era inminente en las poblaciones afectadas. (l. 22-24)\n\nLa chikungunya es, por su parte, una de las más recientes enfermedades de origen extranjero que han ingresado al país. En diciembre del 2013, la Organización Panamericana de la Salud recibió los primeros informes de contagio de la enfermedad en América, que hasta entonces era reportada únicamente en Asia y África. (l. 25-28)\n\nEl temor que provoca la expansión del dengue y la chikungunya por la vulnerabilidad de la población se vio fortalecido con la entrada del virus del zika en el país a finales del año pasado. En noviembre último se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. Los síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 29-33)\n\nprensalibre.com\n\nSegún el texto, el principal motivo de la preocupación de las autoridades internacionales sobre el virus zika es el siguiente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "histórico de epidemias en Caribe"
+      },
+      {
+        "letter": "B",
+        "text": "llegada de infectados a Guatemala"
+      },
+      {
+        "letter": "C",
+        "text": "posibilidad de enfermedad en embriones"
+      },
+      {
+        "letter": "D",
+        "text": "aumento de mortalidad en asentamientos"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O primeiro parágrafo explica que a OMS declarou emergência sanitária mundial porque há indícios de que o zika seja responsável por causar microcefalia em fetos durante a gestação. É essa possibilidade de dano ao embrião em desenvolvimento — e não a letalidade da doença — que motivou o alarme internacional.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12228,6 +13058,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q26",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 26,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - EPIDEMIAS EN GUATEMALA EN LOS ÚLTIMOS DIEZ AÑOS\n\nLa Organización Mundial de la Salud (OMS) ha declarado una emergencia sanitaria a nivel mundial por el virus del zika, originario de Uganda. Indicios de que posiblemente es el responsable de causar microcefalia en fetos durante la gestación han saltado las alarmas. (l. 1-3)\n\nEl dengue apareció en Guatemala a finales de los años setenta. Se cree que la enfermedad ingresó a la región centroamericana a través de Honduras. Ya en el siglo XVII se reportaban casos de una epidemia similar en el Caribe, pero en los años sesenta se produjo un brote extenso en las islas. En agosto de 1978 se informaba de que surgían, en aquel año, en Honduras, un promedio de 100 a 150 casos diarios de personas infectadas de dengue. (l. 4-8)\n\nEl doctor Ramón Pereira, de la secretaría de salud pública de dicho país, se dirigió a la región de las islas de la bahía ubicadas al norte del país en el mar Caribe. Ahí pudieron estimar que el virus original provino de una persona enferma que ingresó a territorio hondureño procedente de Jamaica o Puerto Rico. (l. 9-12)\n\nPese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue en el país. El ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 13-15)\n\nEn los años ochenta la epidemia estuvo controlada y la mortalidad era casi nula. Sin embargo, en 1987 apareció un nuevo brote en Lívingston, Izabal; luego en Santa Lucía Coztumalguapa, Escuintla, y en Jalpatagua, Jutiapa. Ya entrada la década de 1990 los casos aumentaron y cada año se conocían nuevos, especialmente en asentamientos y áreas rurales donde no había control sanitario. Cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención. (l. 16-21)\n\nAlgunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional. Luego de un desastre natural, el temor de un brote del dengue era inminente en las poblaciones afectadas. (l. 22-24)\n\nLa chikungunya es, por su parte, una de las más recientes enfermedades de origen extranjero que han ingresado al país. En diciembre del 2013, la Organización Panamericana de la Salud recibió los primeros informes de contagio de la enfermedad en América, que hasta entonces era reportada únicamente en Asia y África. (l. 25-28)\n\nEl temor que provoca la expansión del dengue y la chikungunya por la vulnerabilidad de la población se vio fortalecido con la entrada del virus del zika en el país a finales del año pasado. En noviembre último se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. Los síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 29-33)\n\nprensalibre.com\n\nEl ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 14-15)\n\nEl fragmento destacado, respecto al que lo antecede, introduce una idea de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reiteración"
+      },
+      {
+        "letter": "B",
+        "text": "conclusión"
+      },
+      {
+        "letter": "C",
+        "text": "rectificación"
+      },
+      {
+        "letter": "D",
+        "text": "contradicción"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A frase imediatamente anterior informa que, apesar dos esforços, foram encontrados até 22 mil casos de dengue em setembro de 1978. Declarar, nesse contexto, que a doença estava “totalmente controlada” choca-se frontalmente com o dado apresentado. O efeito é de contradição entre o discurso oficial e a realidade descrita.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q27",
     "exam": "uerj",
     "year": 2019,
@@ -12261,6 +13127,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q27",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 27,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - EPIDEMIAS EN GUATEMALA EN LOS ÚLTIMOS DIEZ AÑOS\n\nLa Organización Mundial de la Salud (OMS) ha declarado una emergencia sanitaria a nivel mundial por el virus del zika, originario de Uganda. Indicios de que posiblemente es el responsable de causar microcefalia en fetos durante la gestación han saltado las alarmas. (l. 1-3)\n\nEl dengue apareció en Guatemala a finales de los años setenta. Se cree que la enfermedad ingresó a la región centroamericana a través de Honduras. Ya en el siglo XVII se reportaban casos de una epidemia similar en el Caribe, pero en los años sesenta se produjo un brote extenso en las islas. En agosto de 1978 se informaba de que surgían, en aquel año, en Honduras, un promedio de 100 a 150 casos diarios de personas infectadas de dengue. (l. 4-8)\n\nEl doctor Ramón Pereira, de la secretaría de salud pública de dicho país, se dirigió a la región de las islas de la bahía ubicadas al norte del país en el mar Caribe. Ahí pudieron estimar que el virus original provino de una persona enferma que ingresó a territorio hondureño procedente de Jamaica o Puerto Rico. (l. 9-12)\n\nPese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue en el país. El ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 13-15)\n\nEn los años ochenta la epidemia estuvo controlada y la mortalidad era casi nula. Sin embargo, en 1987 apareció un nuevo brote en Lívingston, Izabal; luego en Santa Lucía Coztumalguapa, Escuintla, y en Jalpatagua, Jutiapa. Ya entrada la década de 1990 los casos aumentaron y cada año se conocían nuevos, especialmente en asentamientos y áreas rurales donde no había control sanitario. Cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención. (l. 16-21)\n\nAlgunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional. Luego de un desastre natural, el temor de un brote del dengue era inminente en las poblaciones afectadas. (l. 22-24)\n\nLa chikungunya es, por su parte, una de las más recientes enfermedades de origen extranjero que han ingresado al país. En diciembre del 2013, la Organización Panamericana de la Salud recibió los primeros informes de contagio de la enfermedad en América, que hasta entonces era reportada únicamente en Asia y África. (l. 25-28)\n\nEl temor que provoca la expansión del dengue y la chikungunya por la vulnerabilidad de la población se vio fortalecido con la entrada del virus del zika en el país a finales del año pasado. En noviembre último se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. Los síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 29-33)\n\nprensalibre.com\n\nLos síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 32-33)\n\nEl fragmento que presenta un conector con el mismo sentido del término subrayado, “aunque”, es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pero en los años sesenta se produjo un brote extenso en las islas. (l. 6)"
+      },
+      {
+        "letter": "B",
+        "text": "Pese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue (l. 13)"
+      },
+      {
+        "letter": "C",
+        "text": "Luego de un desastre natural, el temor de un brote del dengue era inminente (l. 23-24)"
+      },
+      {
+        "letter": "D",
+        "text": "se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. (l. 31-32)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Aunque é conector concessivo: admite um fato que poderia impedir o que se afirma, sem anulá-lo. Pese a tem exatamente esse valor — “apesar de”. Pero é adversativo, luego de é temporal e en efecto é confirmativo. Note que, em espanhol, aunque e pero não são intercambiáveis, ainda que ambos possam ser traduzidos por “mas” em contextos diferentes.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12300,6 +13202,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q28",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 28,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - EPIDEMIAS EN GUATEMALA EN LOS ÚLTIMOS DIEZ AÑOS\n\nLa Organización Mundial de la Salud (OMS) ha declarado una emergencia sanitaria a nivel mundial por el virus del zika, originario de Uganda. Indicios de que posiblemente es el responsable de causar microcefalia en fetos durante la gestación han saltado las alarmas. (l. 1-3)\n\nEl dengue apareció en Guatemala a finales de los años setenta. Se cree que la enfermedad ingresó a la región centroamericana a través de Honduras. Ya en el siglo XVII se reportaban casos de una epidemia similar en el Caribe, pero en los años sesenta se produjo un brote extenso en las islas. En agosto de 1978 se informaba de que surgían, en aquel año, en Honduras, un promedio de 100 a 150 casos diarios de personas infectadas de dengue. (l. 4-8)\n\nEl doctor Ramón Pereira, de la secretaría de salud pública de dicho país, se dirigió a la región de las islas de la bahía ubicadas al norte del país en el mar Caribe. Ahí pudieron estimar que el virus original provino de una persona enferma que ingresó a territorio hondureño procedente de Jamaica o Puerto Rico. (l. 9-12)\n\nPese a los esfuerzos, en septiembre de 1978 se encontraron hasta 22 mil casos de dengue en el país. El ministro de salud pública de la época, Roquelino Recinos, afirmaba que la enfermedad estaba totalmente controlada en el país. (l. 13-15)\n\nEn los años ochenta la epidemia estuvo controlada y la mortalidad era casi nula. Sin embargo, en 1987 apareció un nuevo brote en Lívingston, Izabal; luego en Santa Lucía Coztumalguapa, Escuintla, y en Jalpatagua, Jutiapa. Ya entrada la década de 1990 los casos aumentaron y cada año se conocían nuevos, especialmente en asentamientos y áreas rurales donde no había control sanitario. Cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención. (l. 16-21)\n\nAlgunas alteraciones climáticas, inundaciones y otros fenómenos contribuyeron a que la enfermedad se propagara a todo el territorio nacional. Luego de un desastre natural, el temor de un brote del dengue era inminente en las poblaciones afectadas. (l. 22-24)\n\nLa chikungunya es, por su parte, una de las más recientes enfermedades de origen extranjero que han ingresado al país. En diciembre del 2013, la Organización Panamericana de la Salud recibió los primeros informes de contagio de la enfermedad en América, que hasta entonces era reportada únicamente en Asia y África. (l. 25-28)\n\nEl temor que provoca la expansión del dengue y la chikungunya por la vulnerabilidad de la población se vio fortalecido con la entrada del virus del zika en el país a finales del año pasado. En noviembre último se reportó, en efecto, el primer caso confirmado de una persona con zika en Zacapa. Los síntomas de esta enfermedad son similares a los del dengue y chikungunya, aunque son más severos. (l. 29-33)\n\nprensalibre.com\n\nComo estrategia del gobierno guatemalteco para contener la epidemia, una medida importante está indicada en:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cierre de las fronteras vulnerables"
+      },
+      {
+        "letter": "B",
+        "text": "cohibición de las viviendas rurales"
+      },
+      {
+        "letter": "C",
+        "text": "extinción de los focos de mosquitos"
+      },
+      {
+        "letter": "D",
+        "text": "aislamiento de los contaminados graves"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto informa que “cada invierno se hacía conciencia de evitar los criaderos de zancudos en las casas como medida de prevención”. Criadero de zancudos é justamente o criadouro de mosquitos, de modo que a medida citada é a eliminação dos focos onde o vetor se reproduz — a mesma estratégia adotada no Brasil contra o Aedes aegypti.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q29",
     "exam": "uerj",
     "year": 2019,
@@ -12333,6 +13271,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q29",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 29,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um gráfico da média de desempregados por ano no Brasil, com dados do IBGE, apresenta os seguintes valores: 2012, 7,1 milhões; 2013, 7 milhões; 2014, 6,7 milhões; 2015, 8,6 milhões; 2016, 11,8 milhões.\n\nA partir do gráfico, o aumento da média anual de desempregados de 2014 para 2016 está mais próximo do seguinte percentual:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "68%"
+      },
+      {
+        "letter": "B",
+        "text": "76%"
+      },
+      {
+        "letter": "C",
+        "text": "80%"
+      },
+      {
+        "letter": "D",
+        "text": "84%"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O aumento absoluto é 11,8 − 6,7 = 5,1 milhões. Como o percentual se calcula sobre o valor inicial, tem-se 5,1 ÷ 6,7 ≈ 0,761, ou seja, cerca de 76%.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12372,6 +13347,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q30",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 30,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Geometria Plana"
+    ],
+    "statement": "Os triângulos A1B1C1, A2B2C2 e A3B3C3 possuem perímetros p1, p2 e p3, respectivamente. Os vértices desses triângulos, a partir do segundo, são os pontos médios dos lados do triângulo anterior. Admita que A1B1 = B1C1 = 7 e A1C1 = 4.\n\nAssim, (p1, p2, p3) define a seguinte progressão:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aritmética de razão = −8"
+      },
+      {
+        "letter": "B",
+        "text": "aritmética de razão = −6"
+      },
+      {
+        "letter": "C",
+        "text": "geométrica de razão = 1/2"
+      },
+      {
+        "letter": "D",
+        "text": "geométrica de razão = 1/4"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O triângulo formado pelos pontos médios dos lados — o triângulo medial — tem cada lado igual à metade do lado paralelo do triângulo original, pelo teorema da base média. Logo cada perímetro é a metade do anterior: p1 = 7 + 7 + 4 = 18, p2 = 9 e p3 = 4,5. A sequência é uma progressão geométrica de razão 1/2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q31",
     "exam": "uerj",
     "year": 2019,
@@ -12405,6 +13417,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q31",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 31,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um círculo tem o centro na origem do plano cartesiano xy e raio igual a 1. Nele, o ponto A está sobre o eixo das abscissas, em (1, 0), e o arco AP, medido no sentido anti-horário, corresponde a 120°.\n\nAs coordenadas de P são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "(−1/2 , √3/2)"
+      },
+      {
+        "letter": "B",
+        "text": "(−1/2 , √2/2)"
+      },
+      {
+        "letter": "C",
+        "text": "(−√3/2 , 1/2)"
+      },
+      {
+        "letter": "D",
+        "text": "(−√2/2 , 1/2)"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Num círculo de raio 1 centrado na origem, o ponto correspondente a um ângulo θ tem coordenadas (cos θ, sen θ). Para θ = 120°, cos 120° = −1/2 e sen 120° = √3/2. Logo P = (−1/2 , √3/2), ponto do segundo quadrante, como se espera de um arco entre 90° e 180°.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12444,6 +13492,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q32",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Um homem com apenas R$ 20,00 comprou coco e abacaxi em uma feira. A unidade do coco custou R$ 2,00 e a do abacaxi, R$ 4,00.\n\nCom o dinheiro que possuía, a maior quantidade dessas frutas que ele pode ter comprado é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "7"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para maximizar a quantidade, convém comprar o máximo possível da fruta mais barata — mas o enunciado diz que ele comprou coco e abacaxi, de modo que é preciso levar ao menos um de cada. Com um abacaxi (R$ 4,00) sobram R$ 16,00, que compram 8 cocos. O total é 8 + 1 = 9 frutas, gastando exatamente os R$ 20,00.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q33",
     "exam": "uerj",
     "year": 2019,
@@ -12477,6 +13561,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q33",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 33,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Seis times de futebol disputaram um torneio no qual cada time jogou apenas uma vez contra cada adversário. A regra de pontuação consistia em marcar 0 ponto para o time perdedor, 3 pontos para o vencedor e, no caso de empate, 1 ponto para cada time. A tabela mostra a pontuação final do torneio:\n\nA — 9 pontos\nB — 6 pontos\nC — 4 pontos\nD — 2 pontos\nE — 6 pontos\nF — 13 pontos\n\nO número de empates nesse torneio foi igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4"
+      },
+      {
+        "letter": "B",
+        "text": "5"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "7"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Com seis times jogando todos contra todos uma única vez, o número de partidas é C(6,2) = 15. Cada jogo com vencedor distribui 3 pontos, e cada empate distribui apenas 2. Se todos os jogos tivessem vencedor, o total seria 45 pontos. A soma da tabela é 9 + 6 + 4 + 2 + 6 + 13 = 40. A diferença, 45 − 40 = 5, corresponde ao número de empates, já que cada um subtrai exatamente 1 ponto do total.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12552,6 +13672,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q35",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 35,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Ecologia"
+    ],
+    "statement": "Novas tecnologias de embalagens visam a aumentar o prazo de validade dos alimentos, reduzindo sua deterioração e mantendo a qualidade do produto comercializado. Essas embalagens podem ser classificadas em Embalagens de Atmosfera Modificada Tradicionais (MAP) e Embalagens de Atmosfera Modificada em Equilíbrio (EMAP). As MAP são embalagens fechadas que podem utilizar em seu interior tanto gases como He, Ne, Ar e Kr, quanto composições de CO2 e O2 em proporções adequadas. As EMAP também podem utilizar uma atmosfera modificada formada por CO2 e O2 e apresentam microperfurações na sua superfície.\n\nAdaptado de exclusive.multibriefs.com.\n\nNo interior das embalagens de hortaliças, deve haver concentrações de CO2 elevadas e valores de O2 reduzidos, mas não próximos de zero, a fim de evitar a deterioração desses produtos vegetais. Gráficos da concentração dos gases ao longo do tempo mostram que, nas embalagens MAP, o O2 cai continuamente até valores muito próximos de zero enquanto o CO2 se acumula, ao passo que nas EMAP as microperfurações permitem a troca de gases com o exterior e as concentrações de CO2 e O2 se estabilizam.\n\nCom base na análise dos gráficos, uma vantagem do uso da embalagem EMAP em relação à MAP na conservação de hortaliças é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impedir trocas de gases com o meio externo"
+      },
+      {
+        "letter": "B",
+        "text": "reduzir a oxidação dos alimentos da embalagem"
+      },
+      {
+        "letter": "C",
+        "text": "evitar proliferação de microrganismos anaeróbios"
+      },
+      {
+        "letter": "D",
+        "text": "permitir alterações acentuadas na atmosfera modificada"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As microperfurações mantêm uma entrada contínua de oxigênio, de modo que sua concentração se estabiliza em valores baixos, porém não nulos. Isso importa porque a ausência total de O2 favoreceria bactérias e fungos anaeróbios, responsáveis por fermentações e pela deterioração do vegetal — e, em casos extremos, por microrganismos patogênicos como o Clostridium. A alternativa A descreve a MAP, e a D nomeia justamente o que a EMAP evita.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q36",
     "exam": "uerj",
     "year": 2019,
@@ -12585,6 +13742,78 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q36",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 36,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Novas tecnologias de embalagens visam a aumentar o prazo de validade dos alimentos, reduzindo sua deterioração e mantendo a qualidade do produto comercializado. Essas embalagens podem ser classificadas em Embalagens de Atmosfera Modificada Tradicionais (MAP) e Embalagens de Atmosfera Modificada em Equilíbrio (EMAP). As MAP são embalagens fechadas que podem utilizar em seu interior tanto gases como He, Ne, Ar e Kr, quanto composições de CO2 e O2 em proporções adequadas. As EMAP também podem utilizar uma atmosfera modificada formada por CO2 e O2 e apresentam microperfurações na sua superfície.\n\nAdaptado de exclusive.multibriefs.com.\n\nDentre os gases citados no texto, aquele que corresponde a uma substância composta é simbolizado por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Kr"
+      },
+      {
+        "letter": "B",
+        "text": "O2"
+      },
+      {
+        "letter": "C",
+        "text": "He"
+      },
+      {
+        "letter": "D",
+        "text": "CO2"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Substância composta é aquela formada por átomos de elementos químicos diferentes. O criptônio e o hélio são substâncias simples monoatômicas, e o O2 é substância simples formada por dois átomos do mesmo elemento. Apenas o CO2 reúne carbono e oxigênio, sendo, portanto, uma substância composta.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q37",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 37,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Admita que, imediatamente após a colocação do gás argônio em uma embalagem específica, esse gás assume o comportamento de um gás ideal e apresenta as seguintes características:\n\nPressão = 1 atm\nTemperatura = 300 K\nMassa = 0,16 g\n\nDado: massa molar do argônio = 40 g/mol; constante universal dos gases = 0,08 atm·L/(mol·K).\n\nNessas condições, o volume, em mililitros, ocupado pelo gás na embalagem é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "96"
+      },
+      {
+        "letter": "B",
+        "text": "85"
+      },
+      {
+        "letter": "C",
+        "text": "77"
+      },
+      {
+        "letter": "D",
+        "text": "64"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A quantidade de matéria é n = 0,16 ÷ 40 = 0,004 mol. Aplicando a equação de Clapeyron, V = nRT/P = 0,004 × 0,08 × 300 ÷ 1 = 0,096 L, ou seja, 96 mL.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12660,6 +13889,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q39",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 39,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Mecânica"
+    ],
+    "statement": "Em um equipamento industrial, duas engrenagens, A e B, giram 100 vezes por segundo e 6000 vezes por minuto, respectivamente. O período da engrenagem A equivale a T(A) e o da engrenagem B, a T(B).\n\nA razão T(A)/T(B) é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/6"
+      },
+      {
+        "letter": "B",
+        "text": "3/5"
+      },
+      {
+        "letter": "C",
+        "text": "1"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A engrenagem B completa 6000 voltas por minuto, o que equivale a 6000 ÷ 60 = 100 voltas por segundo — exatamente a mesma frequência de A. Como o período é o inverso da frequência, os dois períodos valem 0,01 s e a razão entre eles é 1.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q40",
     "exam": "uerj",
     "year": 2019,
@@ -12696,6 +13962,150 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q40",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 40,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Recentemente, cientistas conseguiram produzir hidrogênio metálico, comprimindo hidrogênio molecular sob elevada pressão. As propriedades metálicas desse elemento são as mesmas dos demais elementos do grupo 1 da tabela de classificação periódica.\n\nEssa semelhança está relacionada com o subnível mais energético desses elementos, que corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ns¹"
+      },
+      {
+        "letter": "B",
+        "text": "np²"
+      },
+      {
+        "letter": "C",
+        "text": "nd³"
+      },
+      {
+        "letter": "D",
+        "text": "nf⁴"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os elementos do grupo 1 — hidrogênio, lítio, sódio, potássio e os demais metais alcalinos — têm em comum um único elétron no subnível s da camada de valência, isto é, configuração ns¹. É a facilidade de perder esse elétron que responde pelo comportamento metálico e pela semelhança de propriedades dentro do grupo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q41",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 41,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em uma mesa de sinuca, as bolas A e B, ambas com massa igual a 140 g, deslocam-se com velocidades V(A) e V(B), na mesma direção e sentido. Um gráfico das velocidades em função do tempo mostra que, antes da colisão, a bola A se move a 10 m/s e a bola B, a 6 m/s.\n\nApós uma colisão entre as bolas, a quantidade de movimento total, em kg·m/s, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,56"
+      },
+      {
+        "letter": "B",
+        "text": "0,84"
+      },
+      {
+        "letter": "C",
+        "text": "1,60"
+      },
+      {
+        "letter": "D",
+        "text": "2,24"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em uma colisão, a quantidade de movimento total do sistema se conserva, de modo que basta calcular seu valor antes do choque. Convertendo a massa, 140 g = 0,14 kg. Assim, Q = 0,14 × 10 + 0,14 × 6 = 1,40 + 0,84 = 2,24 kg·m/s. O resultado independe de a colisão ser elástica ou inelástica.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q42",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 42,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Macromoléculas polares são capazes de atravessar a membrana plasmática celular, passando do meio externo para o meio interno da célula.\n\nEssa passagem é possibilitada pela presença do seguinte componente na membrana plasmática:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "açúcar"
+      },
+      {
+        "letter": "B",
+        "text": "proteína"
+      },
+      {
+        "letter": "C",
+        "text": "colesterol"
+      },
+      {
+        "letter": "D",
+        "text": "triglicerídeo"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O interior da bicamada lipídica é apolar e funciona como barreira para moléculas polares e para íons. A travessia depende de proteínas transmembrana, que formam canais e transportadores específicos — os quais podem ainda operar contra o gradiente, com gasto de ATP. Colesterol e lipídeos compõem a fase apolar da membrana, e os açúcares aparecem ligados a proteínas e lipídeos, atuando no reconhecimento celular.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q43",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 43,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "No tratamento dos sintomas da acidez estomacal, emprega-se o hidróxido de alumínio, que neutraliza o excesso do ácido clorídrico produzido no estômago.\n\nNa neutralização total, a quantidade de mols de ácido clorídrico que reage com um mol de hidróxido de alumínio para formação do sal neutro corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "3"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O hidróxido de alumínio tem três hidroxilas por fórmula, Al(OH)3, e o ácido clorídrico libera um H⁺ por molécula. Para neutralizar todas as hidroxilas são necessários três mols de HCl, conforme a equação Al(OH)3 + 3 HCl → AlCl3 + 3 H2O.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q44",
     "exam": "uerj",
     "year": 2019,
@@ -12729,6 +14139,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q44",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 44,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental",
+      "Química Orgânica"
+    ],
+    "statement": "Com o objetivo de reduzir impactos ambientais, pesquisadores vêm testando alternativas para substituir o plástico comum por novos materiais, como o PHB. Esse polímero é produzido a partir do bagaço da cana e se transforma em CO2 e H2O quando se decompõe.\n\nUma vantagem para o meio ambiente está associada à seguinte característica desse novo polímero:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "interfere no ciclo do carbono"
+      },
+      {
+        "letter": "B",
+        "text": "é composto por fonte renovável"
+      },
+      {
+        "letter": "C",
+        "text": "intensifica a magnificação trófica"
+      },
+      {
+        "letter": "D",
+        "text": "é resistente à degradação bacteriana"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O PHB parte do bagaço da cana, resíduo de uma cultura que se replanta a cada ciclo, ao contrário do plástico convencional, derivado do petróleo — recurso não renovável. O carbono liberado na decomposição é o mesmo que a cana havia retirado da atmosfera, de modo que o material não adiciona carbono fóssil ao ciclo. A alternativa D descreve justamente o defeito do plástico comum.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12804,6 +14251,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q46",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 46,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Para a remoção de um esmalte, um laboratório precisa preparar 200 mL de uma solução aquosa de propanona na concentração de 0,2 mol/L. Admita que a densidade da propanona pura é igual a 0,8 kg/L e que sua massa molar é 58 g/mol.\n\nNesse caso, o volume de propanona pura, em mililitros, necessário ao preparo da solução corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,9"
+      },
+      {
+        "letter": "B",
+        "text": "3,6"
+      },
+      {
+        "letter": "C",
+        "text": "5,8"
+      },
+      {
+        "letter": "D",
+        "text": "6,7"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A quantidade de matéria necessária é n = 0,2 mol/L × 0,2 L = 0,04 mol, o que corresponde a uma massa de 0,04 × 58 = 2,32 g. Como a densidade é 0,8 kg/L, ou 0,8 g/mL, o volume é 2,32 ÷ 0,8 = 2,9 mL.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q47",
     "exam": "uerj",
     "year": 2019,
@@ -12837,6 +14320,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q47",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 47,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "A história da Maré começa nos anos 40. No final dessa década, já havia palafitas – barracos de madeira sobre a lama e a água. Surgem as comunidades da Baixa do Sapateiro, Parque Maré e Morro do Timbau – este em terra firme. A construção da avenida Brasil, concluída em 1946, foi determinante para a ocupação da área, que prosseguiu pela década de 50. Nos anos 60, um novo fluxo de ocupação teve início, quando moradores da Praia do Pinto, Morro da Formiga, Favela do Esqueleto e desabrigados das margens do rio Faria-Timbó foram transferidos para moradias “provisórias” construídas na Maré. O início dos anos 80, quando a Maré das palafitas era símbolo da miséria nacional, marca a primeira grande intervenção do governo federal: o Projeto Rio, que previa o aterramento e a transferência dos moradores das palafitas para construções pré-fabricadas. Em 1988, foi criada a 30ª Região Administrativa (R.A.), abarcando a área da Maré. A primeira R.A. da cidade a se instalar numa favela marcou seu reconhecimento como um bairro.\n\nAdaptado de museudamare.org.br. Fotografias da Baixa do Sapateiro nas décadas de 1950-1960 e da Maré no início do século XXI acompanham o texto.\n\nO processo de formação do conjunto de favelas retratado no texto e nas imagens exemplifica o seguinte fenômeno urbano:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estabilização das políticas públicas em regiões insalubres"
+      },
+      {
+        "letter": "B",
+        "text": "integração das vias de transporte em logradouros periféricos"
+      },
+      {
+        "letter": "C",
+        "text": "expansão de habitações populares em espaços desvalorizados"
+      },
+      {
+        "letter": "D",
+        "text": "manutenção de obras de recuperação em ambientes degradados"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto mostra moradias populares se instalando sobre a lama e a água da baía — terreno alagadiço, sem infraestrutura e sem valor no mercado imobiliário formal, mas próximo à avenida Brasil e, portanto, aos empregos. É o padrão clássico da periferização carioca: a população de baixa renda ocupa justamente as áreas que o mercado descarta. As intervenções públicas citadas foram pontuais e tardias, o que afasta as alternativas A e D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12876,6 +14395,79 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q48",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 48,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Avião levantou voo em 2018 e aterrou em 2017\n\nUm avião das linhas aéreas do Havaí fez uma espécie de viagem ao passado, ao sair da Nova Zelândia quando já passava da meia-noite de 1º de janeiro e chegar ao Havaí quando ainda era manhã de 31 de dezembro. Tudo se explica com o sistema de fusos horários do globo.\n\nAdaptado de sicnoticias.sapo.pt, 01/01/2018.\n\nA “viagem ao passado” relatada na reportagem é explicada pelo percurso do avião, que fez necessariamente a seguinte trajetória:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "do hemisfério sul para o hemisfério norte"
+      },
+      {
+        "letter": "B",
+        "text": "do hemisfério norte para o hemisfério sul"
+      },
+      {
+        "letter": "C",
+        "text": "do hemisfério oeste para o hemisfério leste"
+      },
+      {
+        "letter": "D",
+        "text": "do hemisfério leste para o hemisfério oeste"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Nova Zelândia fica a leste do meridiano de Greenwich, no hemisfério oriental, e o Havaí, a oeste, no hemisfério ocidental. Ao voar nesse sentido, o avião cruza a Linha Internacional de Data, próxima ao antimeridiano de Greenwich, e quem a atravessa de leste para oeste recua um dia no calendário — daí a chegada ainda em 31 de dezembro. A mudança de hemisfério norte-sul não altera a data.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q49",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 49,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna",
+      "Idade Contemporânea"
+    ],
+    "statement": "Uma caricatura de 1814 registra a derrota de Napoleão Bonaparte: nela, o imperador francês tenta devorar o globo terrestre e é atacado por uma águia, um dos símbolos do Império Russo.\n\nAdaptado de britishmuseum.org.\n\nA derrota de Napoleão Bonaparte, em 1814-1815, foi registrada de diversas formas nas sociedades europeias. Dois impactos que as guerras napoleônicas exerceram sobre as relações internacionais na Europa da época foram:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crise agrária e consolidação dos Estados republicanos"
+      },
+      {
+        "letter": "B",
+        "text": "concorrência industrial e retomada de domínios coloniais"
+      },
+      {
+        "letter": "C",
+        "text": "integração comercial e declínio de monarquias absolutistas"
+      },
+      {
+        "letter": "D",
+        "text": "expansionismo territorial e reorganização das fronteiras políticas"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A caricatura sintetiza o expansionismo napoleônico: a França ocupou boa parte do continente, impôs o Bloqueio Continental e instalou parentes do imperador em tronos europeus, até esbarrar na campanha da Rússia. Derrotado, o mapa da Europa foi redesenhado no Congresso de Viena (1814-1815), que restaurou dinastias e redefiniu fronteiras — o oposto do declínio das monarquias absolutistas indicado em C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q50",
     "exam": "uerj",
     "year": 2019,
@@ -12909,6 +14501,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q50",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 50,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "As caravanas (excertos)\n\n“Um mar turquesa à la Istambul enchendo os olhos / Um sol de torrar os miolos / Quando pinta em Copacabana / A caravana do Arará, do Caxangá, da Chatuba / A caravana do Irajá, o comboio da Penha / Não há barreira que retenha esses estranhos / Suburbanos tipo muçulmanos do Jacarezinho / A caminho do Jardim de Alá / É o bicho, é o buchicho, é a charanga / [...] É um dia de real grandeza, tudo azul / Um mar turquesa à la Istambul enchendo os olhos / A culpa deve ser do sol que bate na moleira / O sol que estoura as veias / O suor que embaça os olhos e a razão / E essa zoeira dentro da prisão / Crioulos empilhados no porão / De caravelas no alto mar / [...] Tem que bater, tem que matar, engrossa a gritaria / Filha do medo, a raiva é mãe da covardia / Ou doido sou eu que escuto vozes / Não há gente tão insana / Com negros torsos nus deixam em polvorosa / A gente ordeira e virtuosa que apela / Pra polícia despachar de volta / O populacho pra favela / Ou pra Benguela, ou pra Guiné”\n\nCHICO BUARQUE. letras.mus.br\n\nNa letra da canção, o compositor estabelece vínculos entre diferentes temporalidades. Esses vínculos explicitam uma relação de causalidade entre os seguintes elementos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "processo histórico e estrutura social"
+      },
+      {
+        "letter": "B",
+        "text": "origem geográfica e violência urbana"
+      },
+      {
+        "letter": "C",
+        "text": "doutrina religiosa e fundamentação ideológica"
+      },
+      {
+        "letter": "D",
+        "text": "movimento pendular e segregação residencial"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A canção sobrepõe dois tempos: os jovens negros das favelas que descem para a praia de Copacabana e os “crioulos empilhados no porão / de caravelas no alto mar” do tráfico atlântico. Ao final, o pedido para que a polícia devolva o “populacho” à favela “ou pra Benguela, ou pra Guiné” liga diretamente a escravidão à hierarquia social do presente. A causalidade proposta é, portanto, entre o processo histórico e a estrutura social brasileira.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -12948,6 +14576,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q52",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 52,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia",
+      "Trabalho e Sociedade"
+    ],
+    "statement": "A origem operária do 8 de março\n\nPara muitos, o 8 de março é apenas um dia para dar flores e fazer homenagens às mulheres. Mas, diferentemente de outras datas comemorativas, esta não foi criada pelo comércio. Oficializado pela Organização das Nações Unidas em 1975, o chamado Dia Internacional da Mulher era celebrado muito tempo antes, desde o início do século XX. E se hoje a data é lembrada como um pedido de igualdade de gênero e com protestos ao redor do mundo, no passado nasceu principalmente de uma raiz trabalhista. Foram as mulheres das fábricas nos Estados Unidos e em alguns países da Europa que começaram uma campanha dentro do movimento socialista para reivindicar seus direitos – as condições de trabalho delas eram ainda piores do que as dos homens à época.\n\nAdaptado de bbc.com.\n\nCom base na reportagem, a criação do Dia Internacional da Mulher tem origem nas manifestações sociais em defesa de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ampliação da cidadania"
+      },
+      {
+        "letter": "B",
+        "text": "expansão da liberdade"
+      },
+      {
+        "letter": "C",
+        "text": "promoção da diversidade"
+      },
+      {
+        "letter": "D",
+        "text": "valorização da pluralidade"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As operárias reivindicavam direitos concretos — jornada, salário, condições de trabalho e, no mesmo movimento, o voto —, isto é, a extensão a elas de direitos que a sociedade já reconhecia aos homens. Reivindicar direitos para quem deles estava excluído é ampliar a cidadania. Diversidade e pluralidade são pautas posteriores, ligadas a outra fase dos movimentos sociais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q53",
     "exam": "uerj",
     "year": 2019,
@@ -12981,6 +14646,43 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q53",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 53,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Um gráfico da mudança no comércio de bens dos Estados Unidos, comparando a participação percentual das importações por origem em 1993 e em 2016, mostra queda expressiva da participação da UE15 (conjunto das trocas com as 15 maiores economias da Europa Ocidental), do Canadá e do Japão, e forte crescimento da participação da China, com aumento também do México.\n\nAdaptado de piie.com.\n\nO processo de globalização das últimas décadas vem redefinindo os fluxos de bens entre os países. A partir do gráfico, a mudança dos locais de origem dos bens pode ser explicada pela seguinte característica do processo de globalização:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "difusão espacial das fontes de matéria-prima"
+      },
+      {
+        "letter": "B",
+        "text": "integração nacional dos centros de tecnologia"
+      },
+      {
+        "letter": "C",
+        "text": "redistribuição territorial das atividades industriais"
+      },
+      {
+        "letter": "D",
+        "text": "concentração regional dos mercados consumidores"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O que mudou não foi o que os Estados Unidos compram, e sim onde isso é fabricado. Buscando mão de obra barata e incentivos fiscais, as empresas transnacionais transferiram etapas produtivas para a China e o México, reduzindo o peso de fornecedores tradicionais como a Europa Ocidental, o Canadá e o Japão. Essa desconcentração produtiva é a redistribuição territorial das atividades industriais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -13020,6 +14722,42 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q54",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 54,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Quando chegar o feliz momento da abolição, não será devido nunca à inclinação sincera do povo ou do governo, a menos que venham a sofrer grande mudança. Pois quase me aventuraria a dizer que não há dez pessoas em todo o Império que considerem esse comércio um crime ou o encarem sob outro aspecto que não seja o de ganho e perda, de simples especulação mercantil, que deve continuar ou cessar conforme for vantajoso ou não. Acostumados a não fazer nada, os brasileiros em geral estão convencidos de que os escravos são necessários como animais de carga, sem os quais os brancos não poderiam viver.\n\nHENRY CHAMBERLAIN, agente diplomático britânico, em 31/12/1823. Adaptado de SOUSA, O. T. Fatos e personagens em torno de um regime. Rio de Janeiro: José Olympio, 1960.\n\nApós a emancipação política do Império do Brasil, o debate sobre o fim do tráfico intercontinental de escravos e da escravidão esteve em pauta, como abordado por Henry Chamberlain em 1823. Naquele contexto, de acordo com o diplomata britânico, as resistências à abolição do tráfico e da escravidão estavam associadas à conjuntura de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desqualificação do trabalho braçal"
+      },
+      {
+        "letter": "B",
+        "text": "vigência da sociedade burguesa"
+      },
+      {
+        "letter": "C",
+        "text": "instabilidade do regime jurídico"
+      },
+      {
+        "letter": "D",
+        "text": "decadência da estrutura agrária"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O trecho decisivo é o final: “acostumados a não fazer nada, os brasileiros em geral estão convencidos de que os escravos são necessários como animais de carga”. Chamberlain descreve uma sociedade em que o trabalho manual é visto como coisa de escravo, indigna do homem livre — desvalorização que sustentava a escravidão tanto quanto o cálculo de lucro que ele denuncia na primeira parte.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q55",
     "exam": "uerj",
     "year": 2019,
@@ -13053,6 +14791,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q55",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Os modais de transporte possuem diferentes níveis de adequação aos tipos de carga. Considere a tabela abaixo, com o transporte de carga para diferentes tipos de produtos:\n\nProduto A — distância percorrida 200 km — valor por tonelada alto — urgência: sim\nProduto B — 600 km — valor baixo — urgência: não\nProduto C — 1500 km — valor muito baixo — urgência: não\nProduto D — 3000 km — valor muito alto — urgência: sim\n\nDe acordo com a lógica econômica capitalista, para o transporte dos produtos A e D, os modais mais adequados são, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aéreo e ferroviário"
+      },
+      {
+        "letter": "B",
+        "text": "rodoviário e aéreo"
+      },
+      {
+        "letter": "C",
+        "text": "ferroviário e marítimo"
+      },
+      {
+        "letter": "D",
+        "text": "marítimo e rodoviário"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O produto A percorre distância curta e precisa de rapidez e flexibilidade de rota: o modal rodoviário é o indicado, pois vai de porta a porta e é competitivo em trajetos de algumas centenas de quilômetros. O produto D combina longa distância, urgência e valor muito alto por tonelada — condições que compensam o custo elevado do frete aéreo, o mais rápido dos modais. Ferrovias e hidrovias servem a cargas de baixo valor e sem urgência, como os produtos B e C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -13092,6 +14866,43 @@
     }
   },
   {
+    "id": "uerj-2019-eq1-q56",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 56,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Fotografias de 1967 e 1968 registram manifestações em diferentes países: em Washington, em outubro de 1967, a jovem Jan Rose Kasmir protesta contra a Guerra do Vietnã diante de soldados armados; no Rio de Janeiro, em junho de 1968, a Passeata dos Cem Mil reúne estudantes, professores e trabalhadores contra a ditadura militar, com faixas em que se lê “estudantes, professores, trabalhadores, solidários”.\n\nEntre 1967 e 1968, com destaque para o ano de 1968, ocorreram em vários países movimentos de contestação de grandes proporções e com motivações variadas, como retratado nas fotos. Um dos aspectos comuns entre esses movimentos foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "crítica dos partidos políticos à bipolaridade internacional"
+      },
+      {
+        "letter": "B",
+        "text": "oposição de segmentos sociais a decisões governamentais"
+      },
+      {
+        "letter": "C",
+        "text": "repressão dos protestos populares pelas autoridades militares"
+      },
+      {
+        "letter": "D",
+        "text": "agravamento de problemas financeiros pelo mercado mundializado"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As pautas eram distintas — a guerra do Vietnã nos Estados Unidos, a ditadura no Brasil, a universidade e os costumes na França —, mas em todos os casos setores da sociedade civil, sobretudo estudantes, foram às ruas contra decisões de seus governos. Esse é o traço comum. A alternativa C descreve a reação ao protesto, e não o protesto, e a A atribui aos partidos um protagonismo que coube aos movimentos sociais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q57",
     "exam": "uerj",
     "year": 2019,
@@ -13125,6 +14936,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q57",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 57,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Um cartaz de propaganda do Plano Marshall, principal iniciativa dos Estados Unidos para a reconstrução dos países aliados após a Segunda Guerra Mundial, mostra as bandeiras dos países europeus beneficiados impulsionando um moinho de vento, sob os dizeres de cooperação para a prosperidade.\n\nAdaptado de thinglink.com.\n\nConsiderando a imagem e seu contexto histórico, um objetivo do governo estadunidense ao implementar esse plano foi:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estatizar o setor industrial continental"
+      },
+      {
+        "letter": "B",
+        "text": "estabelecer o mercado comum europeu"
+      },
+      {
+        "letter": "C",
+        "text": "consolidar o bloco geopolítico ocidental"
+      },
+      {
+        "letter": "D",
+        "text": "preservar o interesse colonial metropolitano"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Anunciado em 1947, no início da Guerra Fria, o Plano Marshall injetou bilhões de dólares na Europa Ocidental com dois efeitos calculados: recuperar mercados para a indústria norte-americana e conter o avanço da influência soviética e dos partidos comunistas em países arrasados pela guerra. Tratava-se, portanto, de consolidar o bloco capitalista sob liderança dos Estados Unidos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
@@ -13197,6 +15044,42 @@
     "source": {
       "institution": "UERJ",
       "note": "2º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 16/09/2018), caderno de questões e gabarito oficial retificado."
+    }
+  },
+  {
+    "id": "uerj-2019-eq1-q59",
+    "exam": "uerj",
+    "year": 2019,
+    "originalNumber": 59,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "Os 225,8 km de água enlameada que cruzam a Floresta Amazônica anunciam a tragédia adiante: megagarimpos ilegais encravados na Terra Indígena Munduruku e na Floresta Nacional do Crepori, no sudoeste do Pará. Mas, ao contrário do rio Doce, a destruição do remoto rio das Tropas acontece de forma oculta – menos para os índios. Cansados de esperar uma intervenção do Estado, guerreiros e lideranças da etnia, incluindo o cacique geral, Arnaldo Kaba, organizaram uma expedição para expulsar os garimpeiros não indígenas do local. Em seis lanchas, dezenas viajaram armados com flechas e espingardas de caça, incluindo mulheres, crianças e idosos.\n\nAdaptado de Folha de São Paulo, 04/02/2018.\n\nA reportagem aborda conflitos que simbolizam as muitas diferenças culturais entre grupos na região amazônica, como indígenas e garimpeiros, em especial no que diz respeito à relação com o ecossistema. O uso da terra e de seus recursos nas sociedades indígenas é baseado no seguinte princípio:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estabilidade climática"
+      },
+      {
+        "letter": "B",
+        "text": "preservação ambiental"
+      },
+      {
+        "letter": "C",
+        "text": "hierarquização produtiva"
+      },
+      {
+        "letter": "D",
+        "text": "sustentabilidade comercial"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para os Munduruku, o rio e a floresta não são mercadoria, mas condição de existência do grupo: deles vêm o alimento, a água e as referências culturais, e por isso são usados de modo a se manterem para as gerações seguintes. É o oposto da lógica do garimpo, que extrai o máximo no menor tempo e abandona a área degradada. A alternativa D confunde essa relação com a exploração voltada ao mercado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2019 (aplicado em 10/06/2018), caderno de questões e gabarito oficial."
     }
   },
   {
