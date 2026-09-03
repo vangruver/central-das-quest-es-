@@ -49,20 +49,32 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-O banco já tem **824 questões reais do ENEM** (12 anos: 2013 a 2024) e **122 questões reais da UERJ** (2020, 2022 e 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes. As provas de ENEM 2013 a 2023 já estão processadas quase por completo (70 a 86 de 90 questões, dependendo do ano) — 2022 e 2024, que usam uma numeração diferente (até 176) vinda de outra fonte, ainda têm apenas parte do caderno extraída. Da UERJ, 2020 e 2023 têm 36-38 de 60 questões cada, e 2022 já está com 48 de 60; um levantamento no Drive confirmou que também há provas completas de 2016 a 2021 disponíveis para processamento futuro.
+O banco já tem **1.058 questões reais do ENEM** (15 anos: 2009 e 2011 a 2024) e **380 questões reais da UERJ** (2016 a 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes.
+
+Cobertura por ano:
+
+| Prova | Anos | Questões |
+| --- | --- | --- |
+| ENEM | 2009 (78), 2011 (82), 2012 (74), 2013 (77), 2014 (73), 2015 (80), 2016 (75), 2017 (72), 2018 (86), 2019 (79), 2020 (78), 2021 (85), 2022 (18), 2023 (83), 2024 (18) | 1.058 |
+| UERJ | 2016 (50), 2017 (50), 2018 (53), 2019 (53), 2020 (38), 2021 (52), 2022 (48), 2023 (36) | 380 |
+
+Nos anos de ENEM entre 2009 e 2023, o 1º dia está processado quase por completo (72 a 86 de 90 questões, dependendo do ano); 2022 e 2024, que usam uma numeração diferente (até 176) vinda de outra fonte, ainda têm apenas parte do caderno extraída. Da UERJ, cada ano cobre um Exame de Qualificação completo (50 a 53 de 60 questões), exceto 2020, 2022 e 2023, processados a partir de provas parciais.
 
 **Ainda faltam:**
-- Mais anos do ENEM (o objetivo é cobrir 2008 em diante — faltam 2008–2012 e 2025; a aplicação PPL de vários anos ainda não foi processada).
-- Completar o restante das questões dos anos já iniciados (muitas dependem de mapas, gráficos, imagens ou fórmulas estruturais que não sobrevivem à extração de texto do PDF e por isso são deliberadamente deixadas de fora).
-- Mais anos e mais questões da UERJ (só 2020 e 2023 foram cobertos até agora; faltam os demais anos e o Exame Discursivo).
+- **ENEM 2010**: o PDF disponível perde as letras das alternativas na extração de texto e não traz gabarito legível por máquina — processá-lo exigiria adivinhar respostas, o que não é aceitável para este banco. Fica pendente até que surja uma fonte melhor.
+- **ENEM 2008 e 2025**, e as aplicações PPL / 2ª aplicação de vários anos.
+- **O 2º dia do ENEM** (Linguagens e Códigos + Matemática, questões 91 a 180) da maioria dos anos.
+- **Completar 2022 e 2024**, hoje com apenas 18 questões cada.
+- **UERJ**: o segundo Exame de Qualificação de 2016 a 2019, o primeiro de 2020, 2022 e 2023, os anos anteriores a 2016 e todo o Exame Discursivo.
+- Em todos os anos, algumas questões são deliberadamente deixadas de fora porque dependem de mapas, gráficos, imagens, charges, circuitos ou fórmulas estruturais que não sobrevivem à extração de texto do PDF. Cada commit lista quais foram puladas e por quê.
 
 ### Sobre as fontes
 
 O ambiente usado para montar este banco tem acesso à internet bastante restrito (política de rede da sessão): domínios como `gov.br`, `inep.gov.br` e `vestibular.uerj.br` estão bloqueados, então não foi possível baixar as provas oficiais diretamente do INEP ou da UERJ. O banco foi construído a partir de duas fontes alternativas, sempre com o texto conferido antes de publicar:
 
 - Parte das questões do ENEM (2022 e 2024) vieram de um dataset aberto hospedado no GitHub, que reproduz fielmente o texto oficial dos cadernos do INEP.
-- A maior parte (2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023) veio de PDFs originais das provas e dos gabaritos oficiais (caderno de questões + gabarito), compartilhados diretamente pelo usuário do projeto via Google Drive — extraídos, checados questão a questão contra o gabarito oficial (e, quando possível, por cálculo direto nas questões de exatas), e só então incluídos no banco. Vale notar que em alguns anos mais antigos (2013 a 2016) o Caderno 1 Azul reúne Ciências Humanas e Ciências da Natureza, em vez do padrão mais recente de Linguagens + Ciências Humanas.
-- A UERJ (2020 e 2023) veio da mesma forma: provas e gabaritos oficiais compartilhados via Google Drive. Se você tiver acesso às provas de outros anos da UERJ, elas podem ser processadas do mesmo jeito.
+- A maior parte (2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023) veio de PDFs originais das provas e dos gabaritos oficiais (caderno de questões + gabarito), compartilhados diretamente pelo usuário do projeto via Google Drive — extraídos, checados questão a questão contra o gabarito oficial (e, quando possível, por cálculo direto nas questões de exatas), e só então incluídos no banco. Vale notar que em alguns anos mais antigos (2013 a 2016) o Caderno 1 Azul reúne Ciências Humanas e Ciências da Natureza, em vez do padrão mais recente de Linguagens + Ciências Humanas.
+- A UERJ (2016 a 2023) veio da mesma forma: provas e gabaritos oficiais compartilhados via Google Drive. Se você tiver acesso às provas de outros anos da UERJ, elas podem ser processadas do mesmo jeito.
 
 A expansão é feita em lotes: novas questões podem ser adicionadas diretamente nos arquivos JSON acima, seguindo o formato descrito, sem precisar mexer no HTML/CSS/JS.
 
