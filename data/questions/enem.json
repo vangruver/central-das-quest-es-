@@ -40161,7 +40161,7 @@
       "Interpretação de Texto",
       "Literatura"
     ],
-    "statement": "de maio Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades. ... O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora. Quem passa fome aprende a pensar no próximo, e nas crianças.\n\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a",
+    "statement": "10 de maio Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades. ... O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora. Quem passa fome aprende a pensar no próximo, e nas crianças.\n\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a",
     "alternatives": [
       {
         "letter": "A",
@@ -42093,180 +42093,56 @@
     }
   },
   {
-    "id": "enem-2022-q101",
+    "id": "enem-2022-q91",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 101,
-    "day": 2,
+    "originalNumber": 91,
     "subjectId": "biologia",
     "topics": [
-      "Fisiologia Humana"
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
     ],
-    "statement": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).\n\nA molécula produzida a partir dessa pesquisa é capaz de auxiliar no tratamento de doentes em risco de formar coágulos, com a finalidade de",
+    "statement": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos. Esse tipo de doping está diretamente relacionado ao aumento da",
     "alternatives": [
       {
         "letter": "A",
-        "text": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral."
+        "text": "frequência cardíaca."
       },
       {
         "letter": "B",
-        "text": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue."
+        "text": "capacidade pulmonar."
       },
       {
         "letter": "C",
-        "text": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos."
+        "text": "massa muscular do indivíduo."
       },
       {
         "letter": "D",
-        "text": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções."
+        "text": "atividade anaeróbica da musculatura."
       },
       {
         "letter": "E",
-        "text": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+        "text": "taxa de transporte de oxigênio pelo sangue."
       }
     ],
-    "correct": "A",
+    "correct": "E",
     "annulled": false,
-    "explanation": "O texto descreve uma molécula derivada do veneno da cascavel — naturalmente associado a hemorragias — capaz de modular (regular) a coagulação sanguínea. Um fármaco que module a coagulação pode ser usado tanto para ajudar o sangue a coagular quanto, terapeuticamente, para o efeito oposto: evitar a formação excessiva de coágulos (trombos), que é a causa de eventos graves como o acidente vascular cerebral (AVC) de origem trombótica. Por isso, A é a alternativa correta. As demais alternativas (anemia, urticária, linfonodos, pressão arterial) não têm relação direta com o mecanismo de coagulação sanguínea descrito no texto.",
+    "explanation": "A eritropoietina é o hormônio que estimula a eritropoiese, isto é, a produção de hemácias na medula óssea. Mais hemácias significam mais hemoglobina circulante e, portanto, maior capacidade de transportar oxigênio até os músculos em atividade. É esse ganho na oferta de O2 ao tecido muscular que sustenta por mais tempo o metabolismo aeróbico e adia a fadiga — daí o nome “doping sanguíneo”. O hormônio não age sobre a frequência cardíaca, sobre o volume dos pulmões nem sobre a massa muscular.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
-    "id": "enem-2022-q105",
+    "id": "enem-2022-q92",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 105,
-    "day": 2,
-    "subjectId": "fisica",
-    "topics": [
-      "Eletricidade"
-    ],
-    "statement": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V.\n\nUma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição, e que a resistência da lâmpada não se altera.\n\nNessa nova configuração, qual é a intensidade da corrente elétrica que passa a percorrer o circuito da lanterna?",
-    "alternatives": [
-      {
-        "letter": "A",
-        "text": "0,25 A"
-      },
-      {
-        "letter": "B",
-        "text": "0,33 A"
-      },
-      {
-        "letter": "C",
-        "text": "0,75 A"
-      },
-      {
-        "letter": "D",
-        "text": "1,00 A"
-      },
-      {
-        "letter": "E",
-        "text": "1,33 A"
-      }
-    ],
-    "correct": "A",
-    "annulled": false,
-    "explanation": "Em funcionamento normal, a lâmpada tem P = 4,5 W e V = 4,5 V, logo sua corrente nominal é I = P/V = 1 A e sua resistência é R = V/I = 4,5 Ω. Com as três pilhas corretas em série, a f.e.m. total seria 3 × 1,5 = 4,5 V — consistente com a tensão nominal da lâmpada. Ao inverter uma pilha, ela passa a se opor às outras duas: a f.e.m. total do circuito cai para 1,5 + 1,5 − 1,5 = 1,5 V (duas pilhas “ajudando”, uma “atrapalhando”). Já a resistência interna das três pilhas continua se somando normalmente (a resistência não depende da polaridade): r_total = 3 × 0,5 = 1,5 Ω. A corrente do circuito é então I = f.e.m. total / (r_total + R_lâmpada) = 1,5 / (1,5 + 4,5) = 1,5/6 = 0,25 A. Alternativa A.",
-    "source": {
-      "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
-    }
-  },
-  {
-    "id": "enem-2022-q109",
-    "exam": "enem",
-    "year": 2022,
-    "originalNumber": 109,
-    "day": 2,
-    "subjectId": "quimica",
-    "topics": [
-      "Química Geral e Inorgânica"
-    ],
-    "statement": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO₃) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
-    "alternatives": [
-      {
-        "letter": "A",
-        "text": "H₂"
-      },
-      {
-        "letter": "B",
-        "text": "O₂"
-      },
-      {
-        "letter": "C",
-        "text": "CO₂"
-      },
-      {
-        "letter": "D",
-        "text": "CO"
-      },
-      {
-        "letter": "E",
-        "text": "Cl₂"
-      }
-    ],
-    "correct": "C",
-    "annulled": false,
-    "explanation": "O carbonato de cálcio (mármore) reage com o ácido clorídrico segundo a equação CaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂. O gás liberado, com efervescência visível e liberação de calor (reação exotérmica), é o dióxido de carbono, CO₂ — o mesmo princípio usado, por exemplo, para identificar rochas calcárias em campo com um pingo de ácido. Alternativa C. As demais opções (H₂, O₂, CO, Cl₂) não correspondem aos produtos dessa reação ácido-carbonato.",
-    "source": {
-      "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Alternativas com subíndices restaurados a partir do original (a extração de texto do PDF fonte corrompeu os subíndices químicos)."
-    }
-  },
-  {
-    "id": "enem-2022-q116",
-    "exam": "enem",
-    "year": 2022,
-    "originalNumber": 116,
-    "day": 2,
-    "subjectId": "biologia",
-    "topics": [
-      "Evolução"
-    ],
-    "statement": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir:\n\nEspécie 1 – As fêmeas produzem cerca de 5.000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre, nesse ambiente, independente dos pais.\n\nEspécie 2 – As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos-d’água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento.\n\nEspécie 3 – As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d’água e aí se desenvolvem até a eclosão.\n\nEspécie 4 – As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.\n\nA análise comparativa dos padrões reprodutivos dessas espécies indica que",
-    "alternatives": [
-      {
-        "letter": "A",
-        "text": "as fêmeas influenciam o comportamento dos machos."
-      },
-      {
-        "letter": "B",
-        "text": "o cuidado parental é necessário para o desenvolvimento."
-      },
-      {
-        "letter": "C",
-        "text": "o grau de evolução determina o comportamento reprodutivo."
-      },
-      {
-        "letter": "D",
-        "text": "o sucesso reprodutivo pode ser garantido por estratégias diferentes."
-      },
-      {
-        "letter": "E",
-        "text": "o ambiente induz modificação na produção do número de gametas femininos."
-      }
-    ],
-    "correct": "D",
-    "annulled": false,
-    "explanation": "As quatro espécies alcançam a reprodução bem-sucedida por caminhos muito diferentes: uma aposta em produzir milhares de gametas sem qualquer cuidado parental (estratégia quantitativa), enquanto outras produzem poucos gametas, mas investem em proteção ativa dos embriões pelos machos (estratégia de cuidado parental). Isso mostra que não existe uma única “receita” evolutiva de sucesso reprodutivo — diferentes estratégias, adaptadas a diferentes pressões ambientais, podem funcionar igualmente bem, alternativa D. A opção B está incorreta porque a Espécie 1 se desenvolve sem qualquer cuidado parental; C está incorreta porque a teoria da evolução não estabelece uma hierarquia linear de “graus” entre espécies atuais.",
-    "source": {
-      "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
-    }
-  },
-  {
-    "id": "enem-2022-q121",
-    "exam": "enem",
-    "year": 2022,
-    "originalNumber": 121,
-    "day": 2,
+    "originalNumber": 92,
     "subjectId": "fisica",
     "topics": [
       "Mecânica"
     ],
-    "statement": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.\n\nComparando a colisão do carro com a barreira de pneus e com a barreira de blocos deformáveis, conclui-se que:",
+    "statement": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão. Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
     "alternatives": [
       {
         "letter": "A",
@@ -42291,23 +42167,465 @@
     ],
     "correct": "A",
     "annulled": false,
-    "explanation": "Pelo teorema do impulso, a força média numa colisão é proporcional à variação da quantidade de movimento (F ∝ Δp), para um mesmo intervalo de tempo (o enunciado diz que as duas colisões duram o mesmo tempo). Na barreira de pneus, o carro é rebatido de volta (muda de sentido), então sua variação de velocidade — e de momento — é maior em módulo do que na barreira de blocos, em que o carro apenas para (não inverte o sentido). Logo, a força é maior na colisão com a barreira de pneus. Já a energia dissipada é justamente a energia cinética que “some” na colisão: como na barreira de pneus o carro retorna com parte da velocidade (parte da energia cinética é conservada no ricochete), sobra menos energia dissipada; na barreira de blocos, o carro não retorna, então praticamente toda a energia cinética é dissipada. Isso corresponde exatamente à alternativa A.",
+    "explanation": "O impulso é o produto da força média pelo tempo de colisão: FΔt = Δp. Como o enunciado iguala a duração das duas colisões, a força média é maior onde for maior a variação da quantidade de movimento. Na barreira de pneus o carro volta, de modo que a velocidade inverte o sentido e Δp é maior; na barreira de blocos o carro apenas para, e Δp é menor. Logo a força média é maior nos pneus. Já a energia mecânica dissipada é maior nos blocos: ali o carro fica com energia cinética final nula, enquanto nos pneus parte da energia inicial lhe é devolvida na forma de energia cinética de retorno.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
-    "id": "enem-2022-q126",
+    "id": "enem-2022-q94",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 126,
-    "day": 2,
+    "originalNumber": 94,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "O protozoário Trypanosoma cruzi , causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário .\n\nDisponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).\n\nQual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Autoimunidade."
+      },
+      {
+        "letter": "B",
+        "text": "Hipersensibilidade."
+      },
+      {
+        "letter": "C",
+        "text": "Ativação da resposta inata."
+      },
+      {
+        "letter": "D",
+        "text": "Apresentação de antígeno específico."
+      },
+      {
+        "letter": "E",
+        "text": "Desencadeamento de processo anti-inflamatório."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O T. cruzi modificado passa a expressar em sua superfície uma molécula que também existe nas células tumorais. Ao combater o protozoário, o sistema imune reconhece essa molécula como antígeno e produz linfócitos e anticorpos dirigidos contra ela. Quando esses efetores encontram o tumor, atacam-no, pois “veem” o mesmo antígeno. O mecanismo é, portanto, a apresentação de um antígeno específico compartilhado entre o vetor vacinal e o câncer — não autoimunidade (o alvo não é uma molécula própria normal) nem simples ativação da imunidade inata.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q96",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 96,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.\n\nZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo.\n\nDisponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).\n\nQue fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Difração."
+      },
+      {
+        "letter": "B",
+        "text": "Absorção."
+      },
+      {
+        "letter": "C",
+        "text": "Polarização."
+      },
+      {
+        "letter": "D",
+        "text": "Reflexão."
+      },
+      {
+        "letter": "E",
+        "text": "Refração."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A garrafa PET cheia de água funciona como uma lente: a luz do sol que incide na parte externa passa do ar para a água, muda de velocidade e se desvia, espalhando-se para dentro do cômodo. Esse desvio na passagem entre meios de índices de refração diferentes é a refração. A difração é descartada explicitamente pelo enunciado, que informa ser o diâmetro da garrafa muito maior que o comprimento de onda da luz; absorção e polarização não iluminariam o ambiente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q97",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 97,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação. Qual é a etapa de retirada de grande parte desses sólidos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Coagulação."
+      },
+      {
+        "letter": "B",
+        "text": "Decantação."
+      },
+      {
+        "letter": "C",
+        "text": "Filtração."
+      },
+      {
+        "letter": "D",
+        "text": "Desinfecção."
+      },
+      {
+        "letter": "E",
+        "text": "Fluoretação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na coagulação adicionam-se sais como o sulfato de alumínio, que neutralizam as cargas das partículas coloidais e permitem que elas se agreguem em flocos maiores e mais densos. Esses flocos, já pesados, sedimentam por ação da gravidade nos tanques de decantação — é aí que a maior parte dos sólidos suspensos é efetivamente retirada da água. A filtração remove apenas o que restou em suspensão, e desinfecção e fluoretação não têm função de separação de sólidos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q98",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 98,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.\n\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).\n\nEm qual etapa do metabolismo energético celular a termogenina interfere?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Glicólise."
+      },
+      {
+        "letter": "B",
+        "text": "Fermentação lática."
+      },
+      {
+        "letter": "C",
+        "text": "Ciclo do ácido cítrico."
+      },
+      {
+        "letter": "D",
+        "text": "Oxidação do piruvato."
+      },
+      {
+        "letter": "E",
+        "text": "Fosforilação oxidativa."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A cadeia respiratória bombeia prótons para o espaço intermembranar da mitocôndria, criando um gradiente eletroquímico. O retorno desses prótons pela ATP sintase é o que fosforila o ADP — a fosforilação oxidativa. A termogenina abre uma via alternativa de retorno dos prótons, dissipando o gradiente como calor sem produzir ATP. É exatamente nessa etapa, e não na glicólise, no ciclo de Krebs ou na oxidação do piruvato, que a proteína interfere.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q99",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 99,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\n\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela:\n\nRota 1 — d.d.p. 510 J/(carro·m); corrente 4 carros/s\nRota 2 — d.d.p. 608 J/(carro·m); corrente 4 carros/s\nRota 3 — d.d.p. 575 J/(carro·m); corrente 3 carros/s\n\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1, 2, 3."
+      },
+      {
+        "letter": "B",
+        "text": "1, 3, 2."
+      },
+      {
+        "letter": "C",
+        "text": "2, 1, 3."
+      },
+      {
+        "letter": "D",
+        "text": "3, 1, 2."
+      },
+      {
+        "letter": "E",
+        "text": "3, 2, 1."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pela analogia proposta, a resistência de cada via é R = U/i. Rota 1: 510/4 = 127,5. Rota 2: 608/4 = 152. Rota 3: 575/3 ≈ 191,7. Como o aplicativo exibe as rotas da menor para a maior resistência, a ordem é 1, 2, 3.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q100",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 100,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um esquema do ciclo do nitrogênio mostra as transformações entre as formas do elemento no solo: as bactérias fixadoras convertem o N2 atmosférico em amônia (NH3) e amônio (NH4+); os decompositores devolvem nitrogênio orgânico ao solo por amonificação; as bactérias nitrificantes oxidam o amônio a nitritos (NO2−) e estes a nitratos (NO3−), que são absorvidos pelas plantas na assimilação; e as bactérias desnitrificantes devolvem N2 à atmosfera.\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).\n\nEm um solo de menor pH, será favorecida a formação de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "N2"
+      },
+      {
+        "letter": "B",
+        "text": "NH3"
+      },
+      {
+        "letter": "C",
+        "text": "NH4 +"
+      },
+      {
+        "letter": "D",
+        "text": "NO2 −"
+      },
+      {
+        "letter": "E",
+        "text": "NO3 −"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A chuva ácida aumenta a concentração de H+ no solo. A amônia é uma base fraca e, em meio mais ácido, é protonada: NH3 + H+ → NH4+. O equilíbrio desloca-se, portanto, para a forma iônica. Além disso, o pH baixo inibe as bactérias nitrificantes, que converteriam o amônio em nitrito e nitrato, o que faz o NH4+ acumular-se ainda mais no solo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q101",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 101,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "No processo de captação da luz pelo olho para a formação de imagens estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes. Um animal que tem bastonetes mais sensíveis irá",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentar daltonismo."
+      },
+      {
+        "letter": "B",
+        "text": "perceber cores fora do espectro do visível."
+      },
+      {
+        "letter": "C",
+        "text": "enxergar bem em ambientes mal iluminados."
+      },
+      {
+        "letter": "D",
+        "text": "necessitar de mais luminosidade para enxergar."
+      },
+      {
+        "letter": "E",
+        "text": "fazer uma pequena distinção de cores em ambientes iluminados."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os bastonetes respondem à quantidade de fótons, isto é, à intensidade luminosa, e não à frequência — por isso não distinguem cores. Um animal com bastonetes mais sensíveis consegue formar imagem com pouquíssimos fótons incidentes, o que corresponde justamente a enxergar bem no escuro. A percepção de cores depende dos cones, e nenhum ajuste de sensibilidade permite ver fora da faixa do visível.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q102",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 102,
     "subjectId": "quimica",
     "topics": [
       "Química Orgânica"
     ],
-    "statement": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos.\n\nForam analisadas cinco amostras de diferentes tipos de cana-de-açúcar, com os seguintes dados de concentração inicial de sacarose e de microrganismos presentes:\n\n• RB72: 13,0 g/L de sacarose; 0,7 mg/L de microrganismos\n• RB84: 18,0 g/L de sacarose; 0,8 mg/L de microrganismos\n• RB92: 16,0 g/L de sacarose; 0,6 mg/L de microrganismos\n• SP79: 14,0 g/L de sacarose; 0,5 mg/L de microrganismos\n• SP80: 17,0 g/L de sacarose; 0,9 mg/L de microrganismos\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg/L de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\n\nA amostra de cana-de-açúcar que deve ser escolhida é a",
+    "statement": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais: benzaldeído (no óleo de amêndoas), salicilato de metila (no óleo de gaultéria), anetol (no óleo de anis), vanilina (no óleo de baunilha), eugenol (no óleo de cravos) e cinamaldeído (no óleo de canela) — cujas fórmulas estruturais são apresentadas na prova.\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).\n\nA característica estrutural dessa família de compostos é a presença de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ramificações."
+      },
+      {
+        "letter": "B",
+        "text": "insaturações."
+      },
+      {
+        "letter": "C",
+        "text": "anel benzênico."
+      },
+      {
+        "letter": "D",
+        "text": "átomos de oxigênio."
+      },
+      {
+        "letter": "E",
+        "text": "carbonos assimétricos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Benzaldeído, salicilato de metila, anetol, vanilina, eugenol e cinamaldeído têm grupos funcionais diferentes entre si — aldeído, éster, éter, fenol — e o que todos compartilham é o anel benzênico. É esse anel, com seus seis elétrons π deslocalizados, que define a aromaticidade em termos de estrutura eletrônica, como diz o texto. Insaturações e átomos de oxigênio aparecem em muitos compostos não aromáticos, e nem todos os exemplos citados têm carbono assimétrico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q103",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 103,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia",
+      "Ecologia"
+    ],
+    "statement": "Os resultados de um ensaio clínico randomizado na Indonésia apontaram uma redução de 77% dos casos de dengue nas áreas que receberam o mosquito Aedes aegypti infectado com a bactéria Wolbachia . Trata-se da mesma técnica utilizada no Brasil pelo Método Wolbachia, iniciativa conduzida pela Fundação Oswaldo Cruz — Fiocruz. Essa bactéria induz a redução da carga viral no mosquito e, consequentemente, o número de casos de dengue na área, sendo repassada por meio do cruzamento entre os insetos. Como essa bactéria é um organismo intracelular e o vírus também precisa entrar nas células para se reproduzir, ambos necessitarão de recursos comuns.\n\nCOSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wolbachia para dengue.\n\nDisponível em: https://portal.fiocruz.br. Acesso em: 3 jun. 2022 (adaptado).\n\nEssa tecnologia utilizada no combate à dengue consiste na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "predação do vírus pela bactéria."
+      },
+      {
+        "letter": "B",
+        "text": "esterilização de mosquitos infectados."
+      },
+      {
+        "letter": "C",
+        "text": "alteração no genótipo do mosquito pela bactéria."
+      },
+      {
+        "letter": "D",
+        "text": "competição do vírus e da bactéria no hospedeiro."
+      },
+      {
+        "letter": "E",
+        "text": "inserção de material genético do vírus na bactéria."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A Wolbachia é intracelular obrigatória, e o vírus da dengue também depende do interior das células do mosquito para se replicar. Ao ocupar as mesmas células e consumir os mesmos recursos — aminoácidos, lipídios, maquinaria celular —, a bactéria limita a multiplicação viral. Trata-se de competição interespecífica dentro do hospedeiro, e não de predação, esterilização ou alteração do genótipo do Aedes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q104",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 104,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira ( Artocarpus heterophyllus ) , por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original."
+      },
+      {
+        "letter": "B",
+        "text": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras."
+      },
+      {
+        "letter": "C",
+        "text": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente."
+      },
+      {
+        "letter": "D",
+        "text": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente."
+      },
+      {
+        "letter": "E",
+        "text": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A jaqueira encontrou no Brasil condições favoráveis e poucos inimigos naturais, o que lhe permite ocupar o espaço físico e os recursos antes usados pela vegetação nativa. Ao substituir parcialmente a flora original, reduz o número de espécies do ecossistema — que é o que significa perda de biodiversidade. A alternativa C descreve um aumento de relações, e a E, um benefício às nativas: ambas contrariam o efeito descrito.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q105",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 105,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,50 m."
+      },
+      {
+        "letter": "B",
+        "text": "2,25 m."
+      },
+      {
+        "letter": "C",
+        "text": "4,00 m."
+      },
+      {
+        "letter": "D",
+        "text": "4,50 m."
+      },
+      {
+        "letter": "E",
+        "text": "5,00 m."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No lançamento horizontal a 1 m de altura, o tempo de queda vem de h = gt²/2: 1 = 5t², logo t² = 0,2 s². Como o alcance horizontal foi 3 m, a velocidade de saída satisfaz v = 3/t, ou seja, v² = 9/0,2 = 45 m²/s². Com a mangueira apontada para cima, a água sobe até parar: v² = 2gH, portanto H = 45/20 = 2,25 m. Esse é o alcance vertical medido a partir da saída de água, como pede o enunciado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q106",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 106,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação. No quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras:\n\nAmostra — concentração inicial de sacarose (g/L) — concentração de microrganismos (mg/L)\nRB72 — 13,0 — 0,7\nRB84 — 18,0 — 0,8\nRB92 — 16,0 — 0,6\nSP79 — 14,0 — 0,5\nSP80 — 17,0 — 0,9\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg/L de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\n\nQual tipo de cana-de-açúcar deve ser escolhido?",
     "alternatives": [
       {
         "letter": "A",
@@ -42332,10 +42650,1101 @@
     ],
     "correct": "C",
     "annulled": false,
-    "explanation": "A concentração final de sacarose após 10h é aproximadamente a concentração inicial multiplicada por (1/2) elevado à concentração de microrganismos (cada 1,0 mg/L de microrganismos reduz a concentração à metade). Calculando para cada amostra: RB72 ≈ 13,0 × 0,5^0,7 ≈ 8,0 g/L; RB84 ≈ 18,0 × 0,5^0,8 ≈ 10,3 g/L; RB92 ≈ 16,0 × 0,5^0,6 ≈ 10,6 g/L; SP79 ≈ 14,0 × 0,5^0,5 ≈ 9,9 g/L; SP80 ≈ 17,0 × 0,5^0,9 ≈ 9,1 g/L. A amostra RB92 é a que retém a maior concentração de sacarose após 10 horas, mesmo não sendo a que tinha mais sacarose inicialmente — porque também tem uma das menores concentrações de microrganismos. Por isso a resposta é a alternativa C.",
+    "explanation": "A regra dada é que, em 10 horas, a sacarose cai à metade para cada 1,0 mg/L de microrganismos. O que resta é, portanto, C0 × 0,5^(m/1,0). RB72: 13 × 0,5^0,7 ≈ 8,0 g/L. RB84: 18 × 0,5^0,8 ≈ 10,3 g/L. RB92: 16 × 0,5^0,6 ≈ 10,6 g/L. SP79: 14 × 0,5^0,5 ≈ 9,9 g/L. SP80: 17 × 0,5^0,9 ≈ 9,1 g/L. A RB92 combina uma concentração inicial alta com a menor carga de microrganismos entre as amostras ricas em sacarose, e por isso termina com o maior teor remanescente.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Alternativas (nomes das amostras) restauradas a partir do original — a extração de texto do PDF fonte embaralhou parte dos rótulos."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q107",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 107,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA. Para comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus. Essa etapa deve ser realizada para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "concentrar o RNA viral para otimizar a técnica."
+      },
+      {
+        "letter": "B",
+        "text": "identificar nas amostras anticorpos anti-SARS-CoV-2."
+      },
+      {
+        "letter": "C",
+        "text": "proliferar o vírus em culturas, aumentando a carga viral."
+      },
+      {
+        "letter": "D",
+        "text": "purificar ácidos nucleicos virais, facilitando a ação da enzima."
+      },
+      {
+        "letter": "E",
+        "text": "obter moléculas de cDNA viral por meio da transcrição reversa."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A DNA polimerase usada na PCR só amplifica DNA, e o SARS-CoV-2 tem genoma de RNA. É preciso, antes, converter esse RNA em DNA complementar (cDNA) pela ação da transcriptase reversa — daí o nome RT-PCR. Sem essa etapa a enzima não teria molde para copiar. Concentrar ou purificar o RNA ajuda a qualidade do ensaio, mas não é o que torna a amplificação possível.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q109",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 109,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido. O esquema da prova mostra a hidrólise da ligação glicosídica entre as unidades de glicose: o íon H+ aparece entre os reagentes, antes da quebra da cadeia, e reaparece entre os produtos, ao lado dos açúcares menores formados.\n\nOGEDA, T. L.; PETRI, D. F. S. Química Nova, n. 7, 2010 (adaptado).\n\nNessa conversão de polissacarídeos, a função do íon H+ é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dissolver os reagentes."
+      },
+      {
+        "letter": "B",
+        "text": "deslocar o equilíbrio químico."
+      },
+      {
+        "letter": "C",
+        "text": "aumentar a velocidade da reação."
+      },
+      {
+        "letter": "D",
+        "text": "mudar a constante de equilíbrio da reação."
+      },
+      {
+        "letter": "E",
+        "text": "formar ligações de hidrogênio com o polissacarídeo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O H+ aparece nos dois lados do esquema: entra como reagente e é devolvido ao final. Essa é a assinatura de um catalisador — ele participa do mecanismo, protonando o oxigênio da ligação glicosídica e tornando-a mais suscetível ao ataque da água, e ao fim é regenerado. O efeito é abaixar a energia de ativação e acelerar a hidrólise, sem alterar a constante de equilíbrio nem deslocar a posição do equilíbrio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q110",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 110,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol/L, consumindo um volume igual a 8,0 mL dessa base.\n\nA reação de titulação é a neutralização das duas carboxilas do ácido tartárico (massa molar 150 g/mol) por duas moléculas de hidróxido de sódio, formando o sal correspondente e 2 H2O.\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,8 g L−1"
+      },
+      {
+        "letter": "B",
+        "text": "2,4 g L−1"
+      },
+      {
+        "letter": "C",
+        "text": "3,6 g L−1"
+      },
+      {
+        "letter": "D",
+        "text": "4,8 g L−1"
+      },
+      {
+        "letter": "E",
+        "text": "9,6 g L−1"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O NaOH consumido é n = 0,10 mol/L × 0,0080 L = 8,0 × 10⁻⁴ mol. Pela equação, cada mol de ácido tartárico reage com 2 mol de base, logo há 4,0 × 10⁻⁴ mol de ácido na alíquota. A concentração é 4,0 × 10⁻⁴ / 0,025 L = 1,6 × 10⁻² mol/L, e multiplicando pela massa molar: 1,6 × 10⁻² × 150 = 2,4 g/L.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q111",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 111,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade",
+      "Termologia"
+    ],
+    "statement": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\nVazão de 3 L/min — morno: ΔT = 10 °C; quente: ΔT = 20 °C; superquente: ΔT = 30 °C\nVazão de 6 L/min — morno: ΔT = 5 °C; quente: ΔT = 10 °C; superquente: ΔT = 15 °C\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/(g·°C) e densidade de 1 000 g/L.\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "60 A"
+      },
+      {
+        "letter": "B",
+        "text": "30 A"
+      },
+      {
+        "letter": "C",
+        "text": "20 A"
+      },
+      {
+        "letter": "D",
+        "text": "10 A"
+      },
+      {
+        "letter": "E",
+        "text": "5 A"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A potência necessária é P = (vazão em g/s) × c × ΔT. No nível superquente com vazão de 3 L/min tem-se 50 g/s e ΔT = 30 °C: P = 50 × 4,2 × 30 = 6 300 W. Com 6 L/min são 100 g/s e ΔT = 15 °C: P = 100 × 4,2 × 15 = 6 300 W — a potência máxima é a mesma. A corrente máxima é i = P/U = 6 300/220 ≈ 28,6 A, e o múltiplo de 5 A imediatamente superior é 30 A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q112",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 112,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "H2"
+      },
+      {
+        "letter": "B",
+        "text": "O2"
+      },
+      {
+        "letter": "C",
+        "text": "CO2"
+      },
+      {
+        "letter": "D",
+        "text": "CO"
+      },
+      {
+        "letter": "E",
+        "text": "Cl2"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O mármore é carbonato de cálcio. Com ácido clorídrico ocorre CaCO3 + 2 HCl → CaCl2 + H2O + CO2. O ácido carbônico formado é instável e se decompõe imediatamente, liberando gás carbônico — a efervescência observada. Essa reação entre carbonato e ácido forte é justamente o teste clássico de identificação de carbonatos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q113",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 113,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Em 2002, foi publicado um artigo científico que relacionava alterações na produção de hormônios sexuais de sapos machos expostos à atrazina, um herbicida, com o desenvolvimento anômalo de seus caracteres sexuais primários e secundários. Entre os animais sujeitos à contaminação, observaram-se casos de hermafroditismo e desmasculinização da laringe.\n\nO estudo em questão comparou a concentração de um hormônio específico no sangue de machos expostos ao agrotóxico com a de outros machos e fêmeas que não o foram (controles). A figura da prova traz um gráfico de barras com as concentrações do hormônio (em ng/mL) nos três grupos: machos-controle, machos expostos à atrazina e fêmeas-controle. Os machos-controle apresentam a maior concentração; os machos expostos, uma concentração bem menor, próxima à das fêmeas-controle.\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to the Herbicide Atrazine at Low Ecologically Relevant Doses. Proceedings of the National Academy of Sciences, n. 8, 2002 (adaptado).\n\nCom base nas informações do texto, qual é o hormônio cujas concentrações estão representadas na figura?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Estrogênio."
+      },
+      {
+        "letter": "B",
+        "text": "Feromônio."
+      },
+      {
+        "letter": "C",
+        "text": "Testosterona."
+      },
+      {
+        "letter": "D",
+        "text": "Somatotrofina."
+      },
+      {
+        "letter": "E",
+        "text": "Hormônio folículo estimulante."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto informa que os machos expostos à atrazina sofreram desmasculinização da laringe e hermafroditismo, isto é, perda dos caracteres sexuais masculinos. O hormônio responsável por esses caracteres nos machos é a testosterona, e é sua queda que o gráfico mostra: machos-controle com concentração alta, machos expostos com concentração reduzida, próxima à das fêmeas-controle. O estrogênio se comportaria de modo inverso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q114",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 114,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea.\n\nDisponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).\n\nEsse novo medicamento apresenta potencial aplicação para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral."
+      },
+      {
+        "letter": "B",
+        "text": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue."
+      },
+      {
+        "letter": "C",
+        "text": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos."
+      },
+      {
+        "letter": "D",
+        "text": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções."
+      },
+      {
+        "letter": "E",
+        "text": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A collineína-1 vem de um veneno hemorrágico: sua ação sobre o sistema de coagulação é reduzir a formação de coágulos. Um fármaco derivado dela serve, portanto, como antitrombótico — útil justamente em quadros como o AVC isquêmico, causado pela obstrução de um vaso cerebral por um trombo. Anemia, urticária, linfonodos e pressão arterial não dependem da cascata de coagulação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q115",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 115,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.\n\nSCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory.\n\nDisponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).\n\nApós a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro."
+      },
+      {
+        "letter": "B",
+        "text": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais."
+      },
+      {
+        "letter": "C",
+        "text": "Eles se moveriam em direção ao centro do Buraco Negro."
+      },
+      {
+        "letter": "D",
+        "text": "Eles passariam a precessionar mais rapidamente."
+      },
+      {
+        "letter": "E",
+        "text": "Eles manteriam suas órbitas inalteradas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A força gravitacional depende apenas das massas e da distância entre os centros: F = GMm/d². Como o Buraco Negro teria exatamente a mesma massa do Sol e ocuparia a mesma posição, a força sobre cada planeta a milhões de quilômetros dali seria idêntica à atual. O horizonte de eventos de 3 km é irrelevante nessa escala — está muitíssimo distante de qualquer órbita planetária. As órbitas permaneceriam inalteradas; mudaria apenas a ausência de luz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q116",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 116,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Química Ambiental"
+    ],
+    "statement": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e eficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2, causador da covid-19, diversas alternativas foram buscadas para os procedimentos de descontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso como agente sanitizante para pulverização em humanos e equipamentos de proteção em câmaras ou túneis, higienização de automóveis e de ambientes fechados e descontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à formação de subprodutos, ao nível de concentração segura e às precauções necessárias.\n\nLIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).\n\nO grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "catalisador."
+      },
+      {
+        "letter": "B",
+        "text": "oxidante."
+      },
+      {
+        "letter": "C",
+        "text": "redutor."
+      },
+      {
+        "letter": "D",
+        "text": "ácido."
+      },
+      {
+        "letter": "E",
+        "text": "base."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O ozônio é um dos oxidantes mais fortes disponíveis, e é exatamente por isso que sanitiza: oxida membranas, proteínas e material genético dos microrganismos. Mas essa mesma reatividade não distingue micróbio de tecido humano — o O3 oxida o epitélio respiratório e as mucosas de quem se expõe, e gera subprodutos oxidados a partir da matéria orgânica presente. O risco do uso indiscriminado é, portanto, consequência direta do seu poder oxidante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q117",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 117,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A figura da prova representa o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações patológicas: a partir do zigoto (44+XX), formado pela união de um gameta masculino (22+X) e um gameta feminino (22+X), as células da blástula sofrem inativação aleatória de um dos X, de modo que as amostras de células corporais contêm tanto células com o cromossomo X paterno inativado quanto células com o X materno inativado.\n\nEntre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pleiotropia."
+      },
+      {
+        "letter": "B",
+        "text": "mutação gênica."
+      },
+      {
+        "letter": "C",
+        "text": "interação gênica."
+      },
+      {
+        "letter": "D",
+        "text": "penetrância incompleta."
+      },
+      {
+        "letter": "E",
+        "text": "expressividade variável."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Numa mulher heterozigota, a inativação do X é aleatória célula a célula: em umas fica ativo o X com o alelo normal, em outras o X com o alelo mutante. O corpo torna-se um mosaico, e a proporção entre os dois tipos de célula varia de tecido para tecido e de mulher para mulher. Resulta daí que a mesma constituição genotípica produz manifestações de intensidade muito diferente — o que se define como expressividade variável, e não penetrância incompleta (que é a ausência total de manifestação em parte dos portadores).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q120",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 120,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve ser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235. Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os hexafluoretos de urânio-235 e de urânio-238 para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente milhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia envolvida, cientistas e engenheiros continuam a pesquisar procedimentos alternativos de enriquecimento.\n\nATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).\n\nConsiderando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da efusão pode ser empregado para tal finalidade?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Peneiração."
+      },
+      {
+        "letter": "B",
+        "text": "Centrifugação."
+      },
+      {
+        "letter": "C",
+        "text": "Extração por solvente."
+      },
+      {
+        "letter": "D",
+        "text": "Destilação fracionada."
+      },
+      {
+        "letter": "E",
+        "text": "Separação magnética."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O 235UF6 e o 238UF6 são quimicamente idênticos: diferem apenas na massa. Separá-los exige um método que responda à massa, e não à reatividade nem ao tamanho. A centrifugação a altíssima rotação faz exatamente isso — as moléculas mais pesadas concentram-se junto à parede do rotor, e as mais leves, no eixo. Peneiração dependeria do tamanho da partícula (igual nos dois), extração e destilação dependeriam de propriedades químicas praticamente idênticas, e o urânio não é ferromagnético.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q121",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 121,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina. ANVISA.\n\nDisponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).\n\nO sucesso dessa terapia advém do fato de que o produto favorecerá a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "correção do código genético para a tradução da proteína."
+      },
+      {
+        "letter": "B",
+        "text": "alteração do RNA ribossômico ligado à síntese da proteína."
+      },
+      {
+        "letter": "C",
+        "text": "produção de mutações benéficas para a correção do problema."
+      },
+      {
+        "letter": "D",
+        "text": "liberação imediata da proteína normal na região ocular humana."
+      },
+      {
+        "letter": "E",
+        "text": "expressão do gene responsável pela produção da enzima normal."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na distrofia por mutação do RPE65 o gene existe, mas produz uma enzima defeituosa. O vetor viral leva ao interior das células da retina uma cópia funcional desse gene, que passa a ser transcrita e traduzida pela própria maquinaria celular — ou seja, o que a terapia consegue é a expressão do gene normal e a produção da enzima correta. Ela não altera o código genético (que é universal), não modifica o RNA ribossômico e não entrega a proteína pronta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q122",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 122,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental",
+      "Físico-Química"
+    ],
+    "statement": "A figura da prova ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero.\n\nEssa tecnologia de descontaminação emprega o íon persulfato (S2O8 2−), que é convertido no radical •SO4 − por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação, que incluem ácidos carboxílicos simples.\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).\n\nEsse procedimento de remediação de águas subterrâneas baseia-se em reações de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "oxirredução."
+      },
+      {
+        "letter": "B",
+        "text": "substituição."
+      },
+      {
+        "letter": "C",
+        "text": "precipitação."
+      },
+      {
+        "letter": "D",
+        "text": "desidratação."
+      },
+      {
+        "letter": "E",
+        "text": "neutralização."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O persulfato é convertido pelo Fe(III) no radical sulfato •SO4−, uma espécie fortemente oxidante. Esse radical ataca a dupla ligação do tricloroeteno e o degrada até ácidos orgânicos simples e, por fim, CO2 — ganhando elétrons enquanto o carbono do TCE os perde. Todo o processo, da geração do radical à degradação do contaminante, consiste em transferências de elétrons, isto é, em reações de oxirredução.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q123",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 123,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incineração do lixo orgânico."
+      },
+      {
+        "letter": "B",
+        "text": "construção de rede de esgoto."
+      },
+      {
+        "letter": "C",
+        "text": "uso de vermífugo pela população."
+      },
+      {
+        "letter": "D",
+        "text": "controle das populações dos vetores."
+      },
+      {
+        "letter": "E",
+        "text": "consumo de carnes vermelhas bem cozidas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A filariose é transmitida pelo mosquito Culex e a leishmaniose, pelo flebotomíneo (mosquito-palha). Nenhuma das duas se transmite por água, alimento ou contato direto: em ambas o parasita só chega ao ser humano pela picada de um inseto. Por isso a única profilaxia comum às duas é combater os vetores — eliminando criadouros, usando inseticidas, telas e repelentes. Rede de esgoto, vermífugo e cozimento de carnes atuam sobre outras vias de transmissão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q124",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 124,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W m2 e que a eficiência dos painéis é de 20%. Parque Solar Lapa entra em operação.\n\nDisponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).\n\nNessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 000 000 m2"
+      },
+      {
+        "letter": "B",
+        "text": "500 000 m2"
+      },
+      {
+        "letter": "C",
+        "text": "250 000 m2"
+      },
+      {
+        "letter": "D",
+        "text": "100 000 m2"
+      },
+      {
+        "letter": "E",
+        "text": "20 000 m2"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Da irradiância de 1 500 W/m² os painéis aproveitam 20%, ou seja, 300 W por metro quadrado. Para entregar a potência instalada de 150 MW = 1,5 × 10⁸ W, a área necessária é A = 1,5 × 10⁸ / 300 = 5 × 10⁵ m², isto é, 500 000 m².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q125",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 125,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes:\n\nÁcidos minerais fortes concentrados — incompatíveis com bases fortes, cianetos e hipoclorito de sódio — riscos: reação enérgica, explosão, produção de oxidante forte e produto tóxico.\nÁcido nítrico concentrado — incompatível com matéria orgânica — riscos: reação enérgica, explosão e produto tóxico.\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias: (1) ácido clorídrico concentrado com cianeto de potássio; (2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).\n\nO descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "liberação de gás tóxico e reação oxidativa forte."
+      },
+      {
+        "letter": "B",
+        "text": "reação oxidativa forte e liberação de gás tóxico."
+      },
+      {
+        "letter": "C",
+        "text": "formação de sais tóxicos e reação oxidativa forte."
+      },
+      {
+        "letter": "D",
+        "text": "liberação de gás tóxico e liberação de gás oxidante."
+      },
+      {
+        "letter": "E",
+        "text": "formação de sais tóxicos e liberação de gás oxidante."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No conjunto (1), o ácido clorídrico concentrado desloca o ácido fraco do cianeto de potássio: KCN + HCl → KCl + HCN. O cianeto de hidrogênio é um gás extremamente tóxico, e é ele que se libera. No conjunto (2), o ácido nítrico concentrado é oxidante enérgico e ataca a sacarose — matéria orgânica —, numa reação violenta de oxidação que carboniza o açúcar e libera calor e vapores nitrosos. Logo: gás tóxico no primeiro caso e reação oxidativa forte no segundo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q126",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 126,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições: • O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°; • Os filhos utilizarão o balanço até que tenham uma massa de 24 kg. Além disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 2 m s e despreza forças dissipativas. Qual é a tensão de ruptura da corda escolhida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "120 N"
+      },
+      {
+        "letter": "B",
+        "text": "300 N"
+      },
+      {
+        "letter": "C",
+        "text": "360 N"
+      },
+      {
+        "letter": "D",
+        "text": "450 N"
+      },
+      {
+        "letter": "E",
+        "text": "900 N"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Soltando do ângulo de 90°, a criança chega ao ponto mais baixo com v² = 2gL, pela conservação da energia. Ali a resultante centrípeta é T_total − mg = mv²/L = 2mg, de modo que T_total = 3mg = 3 × 24 × 10 = 720 N. Como são dois segmentos de corda em paralelo, cada um suporta 360 N. Exigindo tensão de ruptura 25% superior: 360 × 1,25 = 450 N.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q127",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 127,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera, causadores de corrosão. O processo de corrosão é espontâneo e provoca a deterioração de metais como o ferro, que, em presença de oxigênio e água, sofre oxidação, conforme ilustra a equação química: 4 Fe (s) + 2 H2O (l) + 3 O2 (g) → 2 Fe2O3⋅H2O (s) Uma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger.\n\nCLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como revestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).\n\nEssa nanotecnologia aplicada na proteção contra a corrosão se baseia no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proteção catódica, que utiliza um metal fortemente redutor."
+      },
+      {
+        "letter": "B",
+        "text": "uso de metais de sacrifício, que se oxidam no lugar do ferro."
+      },
+      {
+        "letter": "C",
+        "text": "passivação do ferro, que fica revestido pelo seu próprio óxido."
+      },
+      {
+        "letter": "D",
+        "text": "efeito de barreira, que impede o contato com o agente oxidante."
+      },
+      {
+        "letter": "E",
+        "text": "galvanização, que usa outros metais de menor potencial de redução."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Zircônia e alumina são óxidos cerâmicos, isolantes e quimicamente inertes — não são metais e, portanto, não podem oxidar-se no lugar do ferro nem fornecer elétrons a ele. O filme nanocerâmico atua fisicamente: recobre a superfície e impede que oxigênio e água cheguem ao metal. Sem contato com o agente oxidante, a reação de corrosão não se inicia. É proteção por barreira, e não proteção catódica, metal de sacrifício ou galvanização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q128",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 128,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Botânica"
+    ],
+    "statement": "As células da epiderme da folha da Tradescantia pallida purpurea , uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante a observação desse corte, foi possível identificar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "acúmulo do solvente com fragmentação da organela."
+      },
+      {
+        "letter": "B",
+        "text": "rompimento da membrana celular com liberação do citosol."
+      },
+      {
+        "letter": "C",
+        "text": "aumento do vacúolo com diluição do pigmento no seu interior."
+      },
+      {
+        "letter": "D",
+        "text": "quebra da parede celular com extravasamento do pigmento."
+      },
+      {
+        "letter": "E",
+        "text": "murchamento da célula com expulsão do pigmento do vacúolo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em meio hipotônico a água entra na célula por osmose e acumula-se sobretudo no vacúolo, que é o compartimento onde está o pigmento. O vacúolo incha e o pigmento, distribuído em um volume maior de água, fica mais diluído — a coloração roxa empalidece. A célula não estoura porque a parede celulósica resiste à pressão de turgor, o que elimina as alternativas de rompimento; e murchamento ocorreria em meio hipertônico, não hipotônico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q129",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 129,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água.\n\nAssim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:\n\nÁgua — densidade 1 000 kg/m³; calor específico 4,2 J/(g·°C)\nConcreto — densidade 2 500 kg/m³; calor específico 0,8 J/(g·°C)\n\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).\n\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0."
+      },
+      {
+        "letter": "B",
+        "text": "2,1."
+      },
+      {
+        "letter": "C",
+        "text": "2,5."
+      },
+      {
+        "letter": "D",
+        "text": "5,3."
+      },
+      {
+        "letter": "E",
+        "text": "13,1."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para a mesma quantidade de calor Q e o mesmo volume V, tem-se ΔT = Q/(m·c) = Q/(ρ·V·c). A razão entre as variações é, portanto, o inverso da razão dos produtos ρ·c. Para a água: 1 000 × 4,2 = 4 200 (em unidades consistentes). Para o concreto: 2 500 × 0,8 = 2 000. Logo ΔT_concreto/ΔT_água = 4 200/2 000 = 2,1 — o concreto esquenta mais que o dobro, o que explica as ilhas de calor urbanas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q130",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 130,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O elemento iodo (I) tem função biológica e é acumulado na tireoide. Nos acidentes nucleares de Chernobyl e Fukushima, ocorreu a liberação para a atmosfera do radioisótopo 131I, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo 131I foi monitorado por 14 dias, conforme o quadro:\n\nTempo (dia) — massa residual de 131I (µg)\n0 — 12,0\n2 — 10,1\n4 — 8,5\n5 — 7,8\n6 — 7,2\n8 — 6,0\n14 — 3,6\n\nApós o período de 40 dias, a massa residual desse isótopo é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,4 µg."
+      },
+      {
+        "letter": "B",
+        "text": "1,5 µg."
+      },
+      {
+        "letter": "C",
+        "text": "0,8 µg."
+      },
+      {
+        "letter": "D",
+        "text": "0,4 µg."
+      },
+      {
+        "letter": "E",
+        "text": "0,2 µg."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Pelo quadro, a massa cai de 12,0 µg para 6,0 µg em 8 dias: a meia-vida do 131I é de 8 dias. Em 40 dias transcorrem 40/8 = 5 meias-vidas, e a massa restante é 12,0/2⁵ = 12,0/32 = 0,375 µg — valor mais próximo de 0,4 µg.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q131",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 131,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução",
+      "Zoologia"
+    ],
+    "statement": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir: Espécie 1 – As fêmeas produzem cerca de 5 000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre, nesse ambiente, independente dos pais. Espécie 2 – As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos-d’água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento. Espécie 3 – As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d’água e aí se desenvolvem até a eclosão. Espécie 4 – As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai. Os padrões descritos evidenciam que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as fêmeas influenciam o comportamento dos machos."
+      },
+      {
+        "letter": "B",
+        "text": "o cuidado parental é necessário para o desenvolvimento."
+      },
+      {
+        "letter": "C",
+        "text": "o grau de evolução determina o comportamento reprodutivo."
+      },
+      {
+        "letter": "D",
+        "text": "o sucesso reprodutivo pode ser garantido por estratégias diferentes."
+      },
+      {
+        "letter": "E",
+        "text": "o ambiente induz modificação na produção do número de gametas femininos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As quatro espécies resolvem o mesmo problema — levar descendentes à metamorfose — de maneiras opostas: a espécie 1 aposta na quantidade (5 000 gametas, nenhum cuidado), e a espécie 4, na proteção máxima de pouquíssimos embriões dentro do saco vocal do macho. Como todas persistem, nenhuma estratégia é intrinsecamente superior: são caminhos distintos, selecionados em ambientes distintos, para garantir o sucesso reprodutivo. Não há aqui hierarquia de “grau de evolução” nem indução ambiental do número de gametas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q133",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 133,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição. Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,25 A"
+      },
+      {
+        "letter": "B",
+        "text": "0,33 A"
+      },
+      {
+        "letter": "C",
+        "text": "0,75 A"
+      },
+      {
+        "letter": "D",
+        "text": "1,00 A"
+      },
+      {
+        "letter": "E",
+        "text": "1,33 A"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Com uma pilha invertida, sua f.e.m. entra subtraindo: ε = 1,5 + 1,5 − 1,5 = 1,5 V. As resistências internas, porém, continuam somando, pois as três pilhas seguem em série: r = 3 × 0,5 = 1,5 Ω. A resistência da lâmpada, das suas especificações nominais, é R = U²/P = 4,5²/4,5 = 4,5 Ω. Assim i = 1,5/(4,5 + 1,5) = 1,5/6,0 = 0,25 A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q134",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 134,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro, em que a decomposição de H2O2 é dada em 10⁻¹² mol/min:\n\nEnsaio — temperatura (°C) — decomposição de H2O2\n1 — 10 — 8,0\n2 — 15 — 10,5\n3 — 20 — 9,5\n4 — 25 — 5,0\n5 — 30 — 3,6\n6 — 35 — 3,1\n\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "variação do pH do meio."
+      },
+      {
+        "letter": "B",
+        "text": "aumento da energia de ativação."
+      },
+      {
+        "letter": "C",
+        "text": "consumo da enzima durante o ensaio."
+      },
+      {
+        "letter": "D",
+        "text": "diminuição da concentração do substrato."
+      },
+      {
+        "letter": "E",
+        "text": "modificação da estrutura tridimensional da enzima."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A atividade sobe de 10 °C para 15 °C, onde é máxima, e depois cai continuamente até 35 °C. O aumento inicial é o efeito cinético esperado da temperatura; a queda que se segue não se explica por consumo da enzima nem por falta de substrato, já que os ensaios são independentes e feitos nas mesmas condições. O que ocorre acima da temperatura ótima é a desnaturação: as ligações que sustentam a conformação da catalase se rompem, o sítio ativo perde a forma e a enzima deixa de reconhecer o H2O2.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q135",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 135,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano:\n\nAntimicrobiano 1 — une-se aos ribossomos — impede a síntese proteica\nAntimicrobiano 2 — une-se aos microtúbulos — impede a segregação das cromátides\nAntimicrobiano 3 — une-se aos fosfolipídeos da membrana plasmática — reduz a permeabilidade da membrana plasmática\nAntimicrobiano 4 — interfere na síntese de timina — inibe a síntese de DNA\nAntimicrobiano 5 — interfere na síntese de uracila — impede a síntese de RNA\n\nQual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Um antifúngico seletivo precisa atingir uma estrutura que o fungo tem e a bactéria não. Fungos são eucariontes e formam fuso mitótico de microtúbulos; bactérias são procariontes e não possuem microtúbulos. Logo o antimicrobiano 2 age só sobre o fungo. Os demais atingiriam também as bactérias: ribossomos, membrana plasmática fosfolipídica e as sínteses de timina e uracila existem nos dois grupos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q136",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 136,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00. A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores. Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "14,4."
+      },
+      {
+        "letter": "B",
+        "text": "20,7."
+      },
+      {
+        "letter": "C",
+        "text": "22,0."
+      },
+      {
+        "letter": "D",
+        "text": "30,0."
+      },
+      {
+        "letter": "E",
+        "text": "37,5."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A folha total após os reajustes não pode ultrapassar 100 × 12 240 = R$ 1 224 000,00. Os mestres passarão a custar 60 × 8 000 × 1,25 = R$ 600 000,00, o que deixa no máximo R$ 624 000,00 para os doutores. Hoje eles custam 40 × 12 000 = R$ 480 000,00, logo o fator de reajuste máximo é 624 000/480 000 = 1,30 — um aumento de, no máximo, 30%.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q137",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 137,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos. A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,125."
+      },
+      {
+        "letter": "B",
+        "text": "0,200."
+      },
+      {
+        "letter": "C",
+        "text": "4,800."
+      },
+      {
+        "letter": "D",
+        "text": "6,000."
+      },
+      {
+        "letter": "E",
+        "text": "12,000."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em 60 dias ininterruptos há 60 × 24 × 60 = 86 400 minutos. Acionando a cada 48 minutos, são 86 400/48 = 1 800 acionamentos. Dividindo o conteúdo do recipiente por esse número: 360/1 800 = 0,2 mL liberados por acionamento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
@@ -42343,94 +43752,576 @@
     "exam": "enem",
     "year": 2022,
     "originalNumber": 138,
-    "day": 2,
     "subjectId": "matematica",
     "topics": [
-      "Álgebra"
+      "Razão e Proporção"
     ],
-    "statement": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos.\n\nO número escrito pelo estudante foi",
+    "statement": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. No planeta Z, seu ano corresponderia a quantos de seus dias?",
     "alternatives": [
       {
         "letter": "A",
-        "text": "135.000,00"
+        "text": "2,5"
       },
       {
         "letter": "B",
-        "text": "1.350.000,00"
+        "text": "10,0"
       },
       {
         "letter": "C",
-        "text": "13.500.000,00"
+        "text": "730,0"
       },
       {
         "letter": "D",
-        "text": "135.000.000,00"
+        "text": "13 322,5"
       },
       {
         "letter": "E",
-        "text": "1.350.000.000,00"
+        "text": "53 290,0"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Um ano de Z vale metade de um ano terrestre, ou seja, 365/2 = 182,5 dias terrestres. Um dia de Z vale 73 dias terrestres. Basta então dividir a duração do ano de Z pela duração do seu dia, ambas na mesma unidade: 182,5/73 = 2,5 dias de Z.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q140",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 140,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal. Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado. O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "R$ 2,00 menor."
+      },
+      {
+        "letter": "B",
+        "text": "R$ 100,00 menor."
+      },
+      {
+        "letter": "C",
+        "text": "R$ 200,00 menor."
+      },
+      {
+        "letter": "D",
+        "text": "R$ 42,00 maior."
+      },
+      {
+        "letter": "E",
+        "text": "R$ 80,00 maior."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O preço normal é 10% acima do promocional: 1 000 × 1,10 = R$ 1 100,00. Com o desconto de 2% no cartão da loja, o valor cobrado é 1 100 × 0,98 = R$ 1 078,00. A cliente, porém, aplicou os 8% sobre o preço promocional: 1 000 × 1,08 = R$ 1 080,00. O valor apresentado pela loja é, portanto, R$ 2,00 menor. O erro dela foi supor que os 10% de acréscimo e os 2% de desconto se compensassem exatamente em 8%, o que não vale porque incidem sobre bases diferentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q142",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 142,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é A b, como segue: • modelo II: o dobro da profundidade e a metade da área da base do modelo I; • modelo III: o dobro da profundidade e a metade do raio da base do modelo I; • modelo IV: a metade da profundidade e o dobro da área da base do modelo I; • modelo V: a metade da profundidade e o dobro do raio da base do modelo I. Uma pessoa pretende comprar nessa loja o modelo de caixa-d’água que ofereça a maior capacidade volumétrica. O modelo escolhido deve ser o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
       }
     ],
     "correct": "E",
     "annulled": false,
-    "explanation": "Um bilhão equivale a 1.000.000.000 (um seguido de nove zeros). Logo, 1,35 bilhão é 1,35 × 1.000.000.000 = 1.350.000.000,00, escrito por extenso com todos os algarismos — alternativa E. As demais alternativas correspondem a outras ordens de grandeza (milhão, dezena de milhão, centena de milhão), um erro comum de quem confunde as casas de “milhão” e “bilhão” ao escrever o número por extenso.",
+    "explanation": "O volume do cilindro é V = A_b · P. Modelo I: A_b·P. Modelo II: (A_b/2) × 2P = A_b·P. Modelo IV: 2A_b × P/2 = A_b·P — os três se equivalem. Modelo III tem raio pela metade, logo área da base A_b/4, e volume (A_b/4) × 2P = A_b·P/2, o menor de todos. Modelo V tem raio dobrado, logo área da base 4A_b, e volume 4A_b × P/2 = 2A_b·P — o dobro dos demais. A chave é lembrar que a área da base varia com o quadrado do raio.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
-    "id": "enem-2022-q163",
+    "id": "enem-2022-q143",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 163,
-    "day": 2,
+    "originalNumber": 143,
     "subjectId": "matematica",
     "topics": [
-      "Análise Combinatória"
+      "Razão e Proporção",
+      "Estatística e Probabilidade"
     ],
-    "statement": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar.\n\nQuanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• aqueles que finalizam em 1 ou 2: ambos os quartos recebem sol apenas na parte da manhã;\n• aqueles que finalizam em 3, 4, 5 ou 6: apenas um dos quartos recebe sol na parte da manhã;\n• aqueles que finalizam em 7 ou 8: ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+    "statement": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no mercado imobiliário dessa cidade:\n\nValor mensal do aluguel (R$) — 2005: 630; 2007: 960; 2009: 1 350; 2011: 1 800; 2013: 3 240\nValor de mercado do imóvel (milhar de R$) — 2005: 90; 2007: 120; 2009: 270; 2011: 450; 2013: 540\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.\n\nCom base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
     "alternatives": [
       {
         "letter": "A",
-        "text": "9 × [6! / (6 − 2)!]"
+        "text": "2005"
       },
       {
         "letter": "B",
-        "text": "9 × [6! / ((6 − 2)! × 2!)]"
+        "text": "2007"
       },
       {
         "letter": "C",
-        "text": "9 × [4! / ((4 − 2)! × 2!)]"
+        "text": "2009"
       },
       {
         "letter": "D",
-        "text": "9 × [2! / ((2 − 2)! × 2!)]"
+        "text": "2011"
       },
       {
         "letter": "E",
-        "text": "9 × {[8! / ((8 − 2)! × 2!)] − 1}"
+        "text": "2013"
       }
     ],
     "correct": "B",
     "annulled": false,
-    "explanation": "Só os apartamentos terminados em 1, 2, 3, 4, 5 ou 6 têm pelo menos um quarto com sol da manhã (os terminados em 7 ou 8 não têm nenhum quarto com sol da manhã). Isso dá 6 apartamentos “elegíveis” por andar, de um total de 8. Escolher 2 desses 6 apartamentos, sem importar a ordem, é uma combinação simples: C(6,2) = 6!/((6−2)!×2!) = 15 formas, para CADA um dos 9 andares do prédio (a escolha se repete de forma independente andar a andar, e o exercício soma as possibilidades andar por andar via multiplicação por 9). Isso dá a expressão da alternativa B: 9 × [6!/((6−2)!×2!)].",
+    "explanation": "A rentabilidade é o aluguel dividido pelo valor do imóvel. 2005: 630/90 000 = 0,70%. 2007: 960/120 000 = 0,80%. 2009: 1 350/270 000 = 0,50%. 2011: 1 800/450 000 = 0,40%. 2013: 3 240/540 000 = 0,60%. O maior valor ocorre em 2007. Note que o aluguel mais alto (2013) não corresponde à maior rentabilidade, porque o preço do imóvel subiu proporcionalmente mais.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
-    "id": "enem-2022-q174",
+    "id": "enem-2022-q144",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 174,
-    "day": 2,
+    "originalNumber": 144,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "135 000,00."
+      },
+      {
+        "letter": "B",
+        "text": "1 350 000,00."
+      },
+      {
+        "letter": "C",
+        "text": "13 500 000,00."
+      },
+      {
+        "letter": "D",
+        "text": "135 000 000,00."
+      },
+      {
+        "letter": "E",
+        "text": "1 350 000 000,00."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Um bilhão é 1 000 000 000, isto é, 10⁹. Assim, 1,35 bilhão equivale a 1,35 × 10⁹ = 1 350 000 000. Escrito com as casas decimais do real: R$ 1 350 000 000,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q146",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 146,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social. Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro. Operário Preço por hora (real) Preço do transporte (real) Tempo até conclusão (hora) I 120 0,00 8 II 180 0,00 6 III 170 20,00 6 IV 110 10,00 9 V 110 0,00 10 Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O custo de mão de obra de cada operário é preço por hora × tempo até a conclusão: I → 120 × 8 = R$ 960,00; II → 180 × 6 = R$ 1 080,00; III → 170 × 6 = R$ 1 020,00; IV → 110 × 9 = R$ 990,00; V → 110 × 10 = R$ 1 100,00. O operário I já é o mais barato só nesse item, e o transporte, que ele não cobra, apenas encarece os concorrentes III e IV. Logo a escolha é o operário I.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q147",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 147,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "3"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "12"
+      },
+      {
+        "letter": "E",
+        "text": "24"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O volume da esfera varia com o cubo do raio. Dobrando o diâmetro de 2 cm para 4 cm, cada docinho grande consome 2³ = 8 vezes a massa de um pequeno. Os 150 docinhos encomendados equivalem, portanto, a 150 × 8 = 1 200 docinhos pequenos. Como cada porção da receita rende 50 pequenos, são necessárias 1 200/50 = 24 porções.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q148",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 148,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura. 8 cm 10 cm Devido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm. Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,52."
+      },
+      {
+        "letter": "B",
+        "text": "3,24."
+      },
+      {
+        "letter": "C",
+        "text": "3,60."
+      },
+      {
+        "letter": "D",
+        "text": "6,48."
+      },
+      {
+        "letter": "E",
+        "text": "7,20."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O volume do cone é V = πr²h/3. Como a altura permanece 10 cm, o volume é proporcional a r². Reduzi-lo em 19% significa multiplicá-lo por 0,81, e como 0,81 = 0,9², o raio deve ser multiplicado por 0,9. O raio original é metade do diâmetro, 8/2 = 4 cm, de modo que o novo raio é 4 × 0,9 = 3,60 cm.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q149",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 149,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.\n\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\n\nDe acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "16 514."
+      },
+      {
+        "letter": "B",
+        "text": "86 700."
+      },
+      {
+        "letter": "C",
+        "text": "115 600."
+      },
+      {
+        "letter": "D",
+        "text": "441 343."
+      },
+      {
+        "letter": "E",
+        "text": "448 568."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Uma queda de 75% deixa 25% do valor anterior. Assim, 28 900 corresponde a 0,25 do número de vagas criadas em janeiro de 2012. Logo esse número é 28 900/0,25 = 28 900 × 4 = 115 600 vagas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q152",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 152,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Análise Combinatória"
+    ],
+    "statement": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1 2 . Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series ?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "35 64"
+      },
+      {
+        "letter": "B",
+        "text": "40 64"
+      },
+      {
+        "letter": "C",
+        "text": "42 64"
+      },
+      {
+        "letter": "D",
+        "text": "44 64"
+      },
+      {
+        "letter": "E",
+        "text": "52 64"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Suponha que o time A tenha vencido a primeira partida. Para simplificar a contagem, imagine que as seis partidas restantes sejam sempre disputadas (as que ocorreriam depois de decidido o campeão não alteram quem venceu quatro primeiro). A será campeão exatamente quando vencer ao menos 3 dessas 6 partidas. O número de casos favoráveis é C(6,3) + C(6,4) + C(6,5) + C(6,6) = 20 + 15 + 6 + 1 = 42, num total de 2⁶ = 64 sequências igualmente prováveis. A probabilidade é, portanto, 42/64.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q154",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 154,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo. A empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos. A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "50 000."
+      },
+      {
+        "letter": "B",
+        "text": "100 000."
+      },
+      {
+        "letter": "C",
+        "text": "200 000."
+      },
+      {
+        "letter": "D",
+        "text": "300 000."
+      },
+      {
+        "letter": "E",
+        "text": "400 000."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No pacote básico a proporção é 2 000 gemas para 100 000 moedas, isto é, 1 gema para 50 moedas. Dois pacotes básicos dariam 4 000 gemas; como o especial traz 6 000 gemas a mais, ele contém 10 000 gemas — cinco vezes o conteúdo do pacote básico. Mantida a proporção, ele deve conter 10 000 × 50 = 500 000 moedas. Como o especial é montado a partir do pacote básico, que já traz 100 000 moedas, a empresa precisa inserir 500 000 − 100 000 = 400 000 moedas. Repare que a mesma proporção vale para o que é inserido: 8 000 gemas inseridas para 400 000 moedas inseridas também é 1 para 50.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q155",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 155,
     "subjectId": "matematica",
     "topics": [
       "Álgebra"
     ],
-    "statement": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4, mais um dígito verificador N5. Todos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\n\nPara a determinação de N5, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5·N1 + 4·N2 + 3·N3 + 2·N4. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.\n\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0, 1, 0, 0 (nessa ordem). Qual é o dígito verificador N5 dessa agência?",
+    "statement": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m. No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível. A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10."
+      },
+      {
+        "letter": "B",
+        "text": "13."
+      },
+      {
+        "letter": "C",
+        "text": "14."
+      },
+      {
+        "letter": "D",
+        "text": "15."
+      },
+      {
+        "letter": "E",
+        "text": "16."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Chamando de M e m os comprimentos dos circuitos maior e menor: 3M + 2m = 1 800 e 2M + m = 1 100. Da segunda, m = 1 100 − 2M; substituindo na primeira, 3M + 2 200 − 4M = 1 800, logo M = 400 m e m = 300 m. No segundo dia é preciso que 400a + 300b = 5 000, ou seja, 4a + 3b = 50, com a e b inteiros não negativos e a + b máximo. Como as voltas menores rendem mais voltas por metro, convém minimizar a. Testando: a = 2 dá 3b = 42, b = 14. Esse é o menor a possível (a = 0 e a = 1 não deixam 50 − 4a divisível por 3), e a soma é 2 + 14 = 16.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q156",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 156,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Matemática Financeira"
+    ],
+    "statement": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\n\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.\n\nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério:\n\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.\n\nO aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "não satisfatório."
+      },
+      {
+        "letter": "B",
+        "text": "regular."
+      },
+      {
+        "letter": "C",
+        "text": "bom."
+      },
+      {
+        "letter": "D",
+        "text": "muito bom."
+      },
+      {
+        "letter": "E",
+        "text": "excelente."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Primeira divulgação — rede A: 3 000 visualizações, 10% clicam (300 cliques), 3% dos cliques compram, ou seja, 9 compradores, por R$ 100,00. Rede B: 1 000 visualizações, 30% clicam (300 cliques), 2% compram, ou seja, 6 compradores, por R$ 200,00. Total: 15 compradores. Com mais R$ 300,00 em cada rede, e sendo as visualizações proporcionais ao investimento: rede A ganha 3 × 3 000 = 9 000 visualizações novas → 900 cliques → 27 compradores; rede B ganha 1,5 × 1 000 = 1 500 visualizações novas → 450 cliques → 9 compradores. A segunda divulgação rende 27 + 9 = 36 compradores. O aumento em relação aos 15 anteriores é (36 − 15)/15 = 1,40, isto é, 140% — faixa classificada como “bom”.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q157",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 157,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8."
+      },
+      {
+        "letter": "B",
+        "text": "9."
+      },
+      {
+        "letter": "C",
+        "text": "11."
+      },
+      {
+        "letter": "D",
+        "text": "18."
+      },
+      {
+        "letter": "E",
+        "text": "24."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os opcionais são três itens que podem ser incluídos ou não, independentemente: 2³ = 8 combinações (incluindo a de nenhum opcional). Multiplicando pelos 7 modelos e pelos 2 motores: 7 × 2 × 8 = 112 configurações por cor. Para ultrapassar 1 000 configurações são necessárias n cores com 112n > 1 000, ou seja, n > 8,93. O menor inteiro que satisfaz isso é 9.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q159",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 159,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5. Todos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 - R. Considere o número de uma agência bancária cujos quatro primeiros dígitos são 0100. Qual é o dígito verificador N5 dessa agência bancária?",
     "alternatives": [
       {
         "letter": "A",
@@ -42455,31 +44346,352 @@
     ],
     "correct": "C",
     "annulled": false,
-    "explanation": "Com N1=0, N2=1, N3=0 e N4=0: S = 5×0 + 4×1 + 3×0 + 2×0 = 4. O resto da divisão de S=4 por 11 é o próprio 4 (já que 4 < 11), logo R = 4. Então N5 = 11 − R = 11 − 4 = 7. Alternativa C.",
+    "explanation": "Com N1 = 0, N2 = 1, N3 = 0 e N4 = 0: S = 5×0 + 4×1 + 3×0 + 2×0 = 4. Dividindo 4 por 11, o quociente é 0 e o resto é R = 4 (quando o dividendo é menor que o divisor, ele próprio é o resto). Logo N5 = 11 − 4 = 7.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida para fins educacionais e não comerciais. Um trecho do enunciado (a fórmula de N5) foi reconstituído a partir do original — a extração de texto do PDF fonte embaralhou um dígito solto na frase."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
-    "id": "enem-2022-q176",
+    "id": "enem-2022-q160",
     "exam": "enem",
     "year": 2022,
-    "originalNumber": 176,
-    "day": 2,
+    "originalNumber": 160,
     "subjectId": "matematica",
     "topics": [
-      "Sequências e Progressões"
+      "Razão e Proporção",
+      "Geometria Plana"
     ],
-    "statement": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo (fase de grupos). A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.\n\nConsiderando que o primeiro jogo do torneio ocorra no \"dia 1\" e que cada fase seja disputada o quanto antes possível respeitando essa regra de descanso, o número mínimo de dias, incluindo o dia do primeiro jogo e o dia da final, necessários para a realização de todo o torneio é",
+    "statement": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante. Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
     "alternatives": [
       {
         "letter": "A",
-        "text": "22"
+        "text": "1,80 e 0,60."
       },
       {
         "letter": "B",
-        "text": "25"
+        "text": "1,80 e 0,70."
+      },
+      {
+        "letter": "C",
+        "text": "1,90 e 0,80."
+      },
+      {
+        "letter": "D",
+        "text": "2,00 e 0,90."
+      },
+      {
+        "letter": "E",
+        "text": "2,00 e 1,00."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na escala 1 : 50, cada centímetro da planta vale 50 cm reais. O vão tem, portanto, 3,8 × 50 = 190 cm de altura e 1,6 × 50 = 80 cm de largura. Descontando a folga de 10 cm exigida na parte superior, sobram 180 cm de altura; descontando 10 cm de cada lado, sobram 80 − 20 = 60 cm de largura. As medidas máximas do refrigerador são 1,80 m e 0,60 m.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q161",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 161,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio. Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana. O número mínimo de dias necessários para a realização desse torneio é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22."
+      },
+      {
+        "letter": "B",
+        "text": "25."
+      },
+      {
+        "letter": "C",
+        "text": "28."
+      },
+      {
+        "letter": "D",
+        "text": "48."
+      },
+      {
+        "letter": "E",
+        "text": "64."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Dentro de cada grupo de 4 equipes, cada uma joga 3 partidas, o que exige 3 rodadas. Com descanso mínimo de 3 dias, dois jogos consecutivos de um mesmo time ficam separados por 4 dias: as rodadas de grupo caem nos dias 1, 5 e 9. As oitavas vêm no dia 13, as quartas no dia 17, as semifinais no dia 21 e a final no dia 25. São, no mínimo, 25 dias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q164",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 164,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico. Esperança de vida ao nascer 75 74 73 72 2008 72,78 73,09 73,4 73,67 73,95 74,23 2009 2010 2011 2012 2013\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\n\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014. Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "74,23."
+      },
+      {
+        "letter": "B",
+        "text": "74,51."
+      },
+      {
+        "letter": "C",
+        "text": "75,07."
+      },
+      {
+        "letter": "D",
+        "text": "75,23."
+      },
+      {
+        "letter": "E",
+        "text": "78,49."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Se a esperança de 2013 é a média das de 2012 e 2014, então 74,23 = (73,95 + x)/2. Multiplicando por 2: 148,46 = 73,95 + x, de onde x = 148,46 − 73,95 = 74,51 anos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q166",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 166,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano:\n\nJogador — jogo 1 — jogo 2 — jogo 3 — jogo 4\nI — 12 — 25 — 20 — 20\nII — 12 — 12 — 27 — 20\nIII — 14 — 14 — 17 — 26\nIV — 15 — 18 — 21 — 21\nV — 22 — 15 — 23 — 15\n\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.\n\nO jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para média 18 em cinco jogos, o total precisa ser 5 × 18 = 90 pontos. Somando os quatro primeiros jogos de cada jogador: I = 12 + 25 + 20 + 20 = 77; II = 12 + 12 + 27 + 20 = 71; III = 14 + 14 + 17 + 26 = 71; IV = 15 + 18 + 21 + 21 = 75; V = 22 + 15 + 23 + 15 = 75. O que falta para 90 é, respectivamente, 13, 19, 19, 15 e 15 pontos. O jogador I precisa da menor pontuação no último jogo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q167",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 167,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento. As dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são: • projeto I: 1,8 m, 2,0 m e 25,0 m; • projeto II: 2,0 m, 5,0 m e 9,0 m; • projeto III: 1,0 m, 6,0 m e 15,0 m; • projeto IV: 1,5 m, 15,0 m e 4,0 m; • projeto V: 2,5 m, 3,0 m e 12,0 m. O projeto que o casal deverá escolher será o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Todos os projetos têm o mesmo volume (90 m³, pois 90 000 L = 90 m³), então basta comparar a área revestida: fundo mais quatro paredes, isto é, A = c·l + 2p(c + l). Projeto I: 2×25 + 2×1,8×27 = 50 + 97,2 = 147,2 m². II: 5×9 + 2×2×14 = 45 + 56 = 101 m². III: 6×15 + 2×1×21 = 90 + 42 = 132 m². IV: 15×4 + 2×1,5×19 = 60 + 57 = 117 m². V: 3×12 + 2×2,5×15 = 36 + 75 = 111 m². A menor área é a do projeto II.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q168",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 168,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro:\n\nCurso — número de vagas oferecidas — número de candidatos por vaga\nAdministração — 30 — 6\nCiências Contábeis — 40 — 6\nEngenharia Elétrica — 50 — 7\nHistória — 30 — 8\nLetras — 25 — 4\nPedagogia — 25 — 5\n\nQual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "200"
+      },
+      {
+        "letter": "B",
+        "text": "400"
+      },
+      {
+        "letter": "C",
+        "text": "1 200"
+      },
+      {
+        "letter": "D",
+        "text": "1 235"
+      },
+      {
+        "letter": "E",
+        "text": "7 200"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O número de inscritos em cada curso é o produto das vagas pela relação candidato/vaga: Administração 30 × 6 = 180; Ciências Contábeis 40 × 6 = 240; Engenharia Elétrica 50 × 7 = 350; História 30 × 8 = 240; Letras 25 × 4 = 100; Pedagogia 25 × 5 = 125. Somando: 180 + 240 + 350 + 240 + 100 + 125 = 1 235 candidatos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q169",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 169,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento. Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "800"
+      },
+      {
+        "letter": "B",
+        "text": "1 200"
+      },
+      {
+        "letter": "C",
+        "text": "2 400"
+      },
+      {
+        "letter": "D",
+        "text": "4 800"
+      },
+      {
+        "letter": "E",
+        "text": "6 400"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O volume do cilindro é V = πr²h = π × 4² × 50 = 800π cm³. Cada esfera tem diâmetro 1 cm, logo raio 0,5 cm, e volume V = 4πr³/3 = 4π(0,125)/3 = π/6 cm³. O número de esferas é 800π ÷ (π/6) = 800 × 6 = 4 800.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q170",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 170,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos. Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30 minutos ou menos."
+      },
+      {
+        "letter": "B",
+        "text": "mais de 35 e menos de 45 minutos."
+      },
+      {
+        "letter": "C",
+        "text": "mais de 45 e menos de 55 minutos."
+      },
+      {
+        "letter": "D",
+        "text": "mais de 60 e menos de 70 minutos."
+      },
+      {
+        "letter": "E",
+        "text": "70 minutos ou mais."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A água ingerida corresponde a 140% da massa perdida: 1,7 = 1,4 × m, logo m = 1,7/1,4 ≈ 1,214 kg. Como a perda é de 1,5 kg por hora, o tempo de atividade foi t = 1,214/1,5 ≈ 0,81 h, ou seja, cerca de 48,6 minutos — entre 45 e 55 minutos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q171",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 171,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n\n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\n\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT, com a primeira fileira em Dmín = 0,6L e a última em Dmáx = 2L.\n\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.\n\nQuantas fileiras de poltronas a sala comportará após essa ampliação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "26"
+      },
+      {
+        "letter": "B",
+        "text": "27"
       },
       {
         "letter": "C",
@@ -42487,19 +44699,222 @@
       },
       {
         "letter": "D",
-        "text": "48"
+        "text": "29"
       },
       {
         "letter": "E",
-        "text": "64"
+        "text": "35"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com a tela de 12 m, a primeira fileira fica a D_mín = 0,6 × 12 = 7,2 m da tela, e o limite aceitável para a última é D = 2,9 × 12 = 34,8 m. O trecho disponível para as fileiras mede 34,8 − 7,2 = 27,6 m. Como o espaçamento entre encostos consecutivos é de 1 m, cabem 27 intervalos completos além da primeira fileira (o trecho restante de 0,6 m não comporta mais uma). O total é 27 + 1 = 28 fileiras.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q172",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 172,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Funções"
+    ],
+    "statement": "A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c ⋅ R 2 ⋅ T 4, em que c é uma constante igual para todas as estrelas.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\n\nConsidere duas estrelas E e F , sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F . Indique por LE e LF suas respectivas luminosidades. A relação entre as luminosidades dessas duas estrelas é dada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "L L E F = 2"
+      },
+      {
+        "letter": "B",
+        "text": "L L E F = 4"
+      },
+      {
+        "letter": "C",
+        "text": "LE = LF"
+      },
+      {
+        "letter": "D",
+        "text": "LE = 4 LF"
+      },
+      {
+        "letter": "E",
+        "text": "LE = 8 LF"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Com R_E = R_F/2 e T_E = 2T_F: L_E = c(R_F/2)²(2T_F)⁴ = c × (R_F²/4) × 16T_F⁴ = 4·c·R_F²·T_F⁴ = 4L_F. O fator 1/4 vindo do raio é mais que compensado pelo fator 16 vindo da temperatura, porque esta entra elevada à quarta potência.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q173",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 173,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS:\n\nNúmero de crianças por família — frequência\n0 — 100\n1 — 400\n2 — 200\n3 — 150\n4 — 100\n5 — 50\n\nO número que representa a mediana da quantidade de crianças por família nessa região é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0."
+      },
+      {
+        "letter": "B",
+        "text": "1,5."
+      },
+      {
+        "letter": "C",
+        "text": "1,9."
+      },
+      {
+        "letter": "D",
+        "text": "2,1."
+      },
+      {
+        "letter": "E",
+        "text": "2,5."
       }
     ],
     "correct": "B",
     "annulled": false,
-    "explanation": "A regra de descanso equivale a um intervalo mínimo de 4 dias entre duas partidas de uma mesma equipe (de domingo a quinta são 4 dias de diferença). Na fase de grupos, cada equipe joga uma única partida por rodada (3 rodadas, uma para cada adversário do grupo), então basta espaçar as 3 rodadas em 4 dias cada uma: rodada 1 no dia 1, rodada 2 no dia 5, rodada 3 no dia 9. A cada fase seguinte (oitavas, quartas, semifinal, final), as equipes que avançam jogam pela primeira vez desde a fase anterior, então cada nova fase também precisa esperar 4 dias após a fase anterior: oitavas no dia 13, quartas no dia 17, semifinal no dia 21, final no dia 25. Contando do dia 1 (primeiro jogo) até o dia 25 (final), inclusive, o torneio inteiro dura 25 dias — alternativa B.",
+    "explanation": "O total de famílias é 100 + 400 + 200 + 150 + 100 + 50 = 1 000, número par, de modo que a mediana é a média dos valores nas posições 500 e 501. Acumulando as frequências: até 0 criança chega-se à posição 100; até 1 criança, à posição 500. Assim a 500ª família tem 1 criança e a 501ª já está na faixa de 2 crianças. A mediana é (1 + 2)/2 = 1,5.",
     "source": {
       "institution": "INEP",
-      "note": "Questão oficial do ENEM 2022, reproduzida na íntegra para fins educacionais e não comerciais."
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q174",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 174,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = −x²/6 + 7x/3 + 12, em que y representa a altura da bola em relação ao eixo x (das abscissas), que está localizado a 1,5 m do piso da quadra. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\n\nO saque desse atleta foi invalidado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apenas no ginásio I."
+      },
+      {
+        "letter": "B",
+        "text": "apenas nos ginásios I e II."
+      },
+      {
+        "letter": "C",
+        "text": "apenas nos ginásios I, II e III."
+      },
+      {
+        "letter": "D",
+        "text": "apenas nos ginásios I, II, III e IV."
+      },
+      {
+        "letter": "E",
+        "text": "em todos os ginásios."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A parábola y = −x²/6 + 7x/3 + 12 tem vértice em x = −b/2a = −(7/3)/(2·(−1/6)) = 7. A altura máxima acima do eixo x é y(7) = −49/6 + 49/3 + 12 = 121/6 ≈ 20,17 m. Como o eixo x está a 1,5 m do piso, a bola sobe até cerca de 20,17 + 1,5 ≈ 21,67 m do chão. O saque é invalidado nos ginásios cujo teto está abaixo dessa altura: I (17 m), II (18 m), III (19 m) e IV (21 m). Apenas no ginásio V (40 m) a bola passa livre.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q176",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 176,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p ( t ) = - t 2 + 10 t + 24, sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p ( t ) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas: • I: 1 ≤ t ≤ 2; • II: 3 ≤ t ≤ 4; • III: 5 ≤ t ≤ 6; • IV: 7 ≤ t ≤ 9; • V: 10 ≤ t ≤ 12. A sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita. A proposta escolhida foi a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A função p(t) = −t² + 10t + 24 é uma parábola de concavidade para baixo, com máximo no vértice t = −b/2a = −10/(−2) = 5. Como t = 5 é um mês válido, o pico de infectados ocorre em t = 5, com p(5) = −25 + 50 + 24 = 49 pessoas. O período que engloba esse mês é 5 ≤ t ≤ 6, ou seja, a proposta III.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
+    }
+  },
+  {
+    "id": "enem-2022-q179",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 179,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A planta baixa desenhada pela empresa, já com a varanda incluída, está na escala de 1 : 50, e a varanda em L tem as seguintes medidas no desenho: o retângulo que a contém mede 18,4 cm por 16 cm, e o recorte retirado desse retângulo, correspondente à área ocupada pelos cômodos da casa, tem lados de 5 cm e 4 cm medidos a partir dos lados do retângulo maior.\n\nA medida real da área da varanda, em metro quadrado, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "33,40."
+      },
+      {
+        "letter": "B",
+        "text": "66,80."
+      },
+      {
+        "letter": "C",
+        "text": "89,24."
+      },
+      {
+        "letter": "D",
+        "text": "133,60."
+      },
+      {
+        "letter": "E",
+        "text": "534,40."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A varanda em L pode ser vista como o retângulo maior de 18,4 cm por 16 cm, do qual se retira o retângulo que corresponde ao recorte, de (18,4 − 5) = 13,4 cm por (16 − 4) = 12 cm. Na planta, sua área é 18,4 × 16 − 13,4 × 12 = 294,4 − 160,8 = 133,6 cm². Na escala 1 : 50 as áreas ficam multiplicadas por 50² = 2 500: 133,6 × 2 500 = 334 000 cm², que equivalem a 33,40 m².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
   },
   {
