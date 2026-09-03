@@ -1,5 +1,1913 @@
 [
   {
+    "id": "uerj-2018-eq1-q01",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Texto base - O PODER CRIATIVO DA IMPERFEIÇÃO\n\nJá escrevi sobre como nossas teorias científicas sobre o mundo são aproximações de uma realidade que podemos compreender apenas em parte. Nossos instrumentos de pesquisa, que tanto ampliam nossa visão de mundo, têm necessariamente limites de precisão. Não há dúvida de que Galileu, com seu telescópio, viu mais longe do que todos antes dele. Também não há dúvida de que hoje vemos muito mais longe do que Galileu poderia ter sonhado em 1610. E certamente, em cem anos, nossa visão cósmica terá sido ampliada de forma imprevisível. (l. 1-6)\n\nNo avanço do conhecimento científico, vemos um conceito que tem um papel essencial: simetria. Já desde os tempos de Platão, há a noção de que existe uma linguagem secreta da natureza, uma matemática por trás da ordem que observamos. (l. 7-9)\n\nPlatão - e, com ele, muitos matemáticos até hoje - acreditava que os conceitos matemáticos existiam em uma espécie de dimensão paralela, acessível apenas através da razão. Nesse caso, os teoremas da matemática (como o famoso teorema de Pitágoras) existem como verdades absolutas, que a mente humana, ao menos as mais aptas, pode ocasionalmente descobrir. Para os platônicos, a matemática é uma descoberta, e não uma invenção humana. (l. 10-14)\n\nAo menos no que diz respeito às forças que agem nas partículas fundamentais da matéria, a busca por uma teoria final da natureza é a encarnação moderna do sonho platônico de um código secreto da natureza. As teorias de unificação, como são chamadas, visam justamente a isso, formular todas as forças como manifestações de uma única, com sua simetria abrangendo as demais. (l. 15-18)\n\nCulturalmente, é difícil não traçar uma linha entre as fés monoteístas e a busca por uma unidade da natureza nas ciências. Esse sonho, porém, é impossível de ser realizado. (l. 19-20)\n\nPrimeiro, porque nossas teorias são sempre temporárias, passíveis de ajustes e revisões futuras. Não existe uma teoria que possamos dizer final, pois nossas explicações mudam de acordo com o conhecimento acumulado que temos das coisas. Um século atrás, um elétron era algo muito diferente do que é hoje. Em cem anos, será algo muito diferente outra vez. Não podemos saber se as forças que conhecemos hoje são as únicas que existem. (l. 21-25)\n\nSegundo, porque nossas teorias e as simetrias que detectamos nos padrões regulares da natureza são em geral aproximações. Não existe uma perfeição no mundo, apenas em nossas mentes. De fato, quando analisamos com calma as \"unificações\" da física, vemos que são aproximações que funcionam apenas dentro de certas condições. (l. 26-29)\n\nO que encontramos são assimetrias, imperfeições que surgem desde as descrições das propriedades da matéria até as das moléculas que determinam a vida, as proteínas e os ácidos nucleicos (RNA e DNA). Por trás da riqueza que vemos nas formas materiais, encontramos a força criativa das imperfeições. (l. 30-32)\n\nMARCELO GLEISER. Adaptado de Folha de São Paulo, 25/08/2013.\n\nStar Trek ou \"Jornada nas Estrelas\", um clássico da ficção científica, completou 50 anos de existência em 2016. A série mostrava as aventuras da tripulação da nave USS Enterprise no século XXIII, com mundos e raças alienígenas convivendo. Ao fazer analogias com situações da época, abordava questões sociais contemporâneas em um contexto futurista. O elenco era bem diferenciado, apresentando uma mulher negra, um asiático e um russo, que trabalhavam juntos e com papéis de destaque. O monólogo de introdução em cada episódio afirmava: \"Estas são as viagens da nave estelar Enterprise. Em sua missão de cinco anos, para explorar novos mundos, para pesquisar novas vidas, novas civilizações, audaciosamente indo aonde nenhum homem jamais esteve\".\nAdaptado de gamehall.uol.com.br.\n\nO desenvolvimento dos conhecimentos no campo da astronomia amplia a visão cósmica, como lembra o texto do físico Marcelo Gleiser, e as novas possibilidades de intervenção humana repercutem na produção de textos e filmes de ficção científica, a exemplo da série televisiva \"Jornada nas Estrelas\". De acordo com a reportagem, os episódios da série fizeram analogias com situações das décadas de 1960 e 1970 ao tematizar os seguintes tópicos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "avanço científico e controle territorial"
+      },
+      {
+        "letter": "B",
+        "text": "corrida espacial e diversidade étnica"
+      },
+      {
+        "letter": "C",
+        "text": "uniformização cultural e expansionismo militarista"
+      },
+      {
+        "letter": "D",
+        "text": "globalização econômica e dominação imperialista"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois tópicos aparecem descritos na própria reportagem. A missão de \"explorar novos mundos\", numa série lançada em 1966, remete diretamente à corrida espacial entre Estados Unidos e União Soviética, então no auge. E o elenco, com uma mulher negra, um asiático e um russo em papéis de destaque trabalhando lado a lado, encenava a diversidade étnica num momento em que os Estados Unidos viviam o movimento pelos direitos civis - e em que um russo na ponte de comando era, em plena Guerra Fria, uma tomada de posição. As demais alternativas invertem o sentido da série, que propunha convivência e não controle territorial, uniformização ou dominação imperialista.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q02",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O PODER CRIATIVO DA IMPERFEIÇÃO\n\nJá escrevi sobre como nossas teorias científicas sobre o mundo são aproximações de uma realidade que podemos compreender apenas em parte. Nossos instrumentos de pesquisa, que tanto ampliam nossa visão de mundo, têm necessariamente limites de precisão. Não há dúvida de que Galileu, com seu telescópio, viu mais longe do que todos antes dele. Também não há dúvida de que hoje vemos muito mais longe do que Galileu poderia ter sonhado em 1610. E certamente, em cem anos, nossa visão cósmica terá sido ampliada de forma imprevisível. (l. 1-6)\n\nNo avanço do conhecimento científico, vemos um conceito que tem um papel essencial: simetria. Já desde os tempos de Platão, há a noção de que existe uma linguagem secreta da natureza, uma matemática por trás da ordem que observamos. (l. 7-9)\n\nPlatão - e, com ele, muitos matemáticos até hoje - acreditava que os conceitos matemáticos existiam em uma espécie de dimensão paralela, acessível apenas através da razão. Nesse caso, os teoremas da matemática (como o famoso teorema de Pitágoras) existem como verdades absolutas, que a mente humana, ao menos as mais aptas, pode ocasionalmente descobrir. Para os platônicos, a matemática é uma descoberta, e não uma invenção humana. (l. 10-14)\n\nAo menos no que diz respeito às forças que agem nas partículas fundamentais da matéria, a busca por uma teoria final da natureza é a encarnação moderna do sonho platônico de um código secreto da natureza. As teorias de unificação, como são chamadas, visam justamente a isso, formular todas as forças como manifestações de uma única, com sua simetria abrangendo as demais. (l. 15-18)\n\nCulturalmente, é difícil não traçar uma linha entre as fés monoteístas e a busca por uma unidade da natureza nas ciências. Esse sonho, porém, é impossível de ser realizado. (l. 19-20)\n\nPrimeiro, porque nossas teorias são sempre temporárias, passíveis de ajustes e revisões futuras. Não existe uma teoria que possamos dizer final, pois nossas explicações mudam de acordo com o conhecimento acumulado que temos das coisas. Um século atrás, um elétron era algo muito diferente do que é hoje. Em cem anos, será algo muito diferente outra vez. Não podemos saber se as forças que conhecemos hoje são as únicas que existem. (l. 21-25)\n\nSegundo, porque nossas teorias e as simetrias que detectamos nos padrões regulares da natureza são em geral aproximações. Não existe uma perfeição no mundo, apenas em nossas mentes. De fato, quando analisamos com calma as \"unificações\" da física, vemos que são aproximações que funcionam apenas dentro de certas condições. (l. 26-29)\n\nO que encontramos são assimetrias, imperfeições que surgem desde as descrições das propriedades da matéria até as das moléculas que determinam a vida, as proteínas e os ácidos nucleicos (RNA e DNA). Por trás da riqueza que vemos nas formas materiais, encontramos a força criativa das imperfeições. (l. 30-32)\n\nMARCELO GLEISER. Adaptado de Folha de São Paulo, 25/08/2013.\n\nMarcelo Gleiser sustenta que a ciência descreve a realidade por meio de uma série de aproximações. Desse modo, ele recusa a compreensão de que o objetivo da ciência seja estabelecer:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cálculos complexos"
+      },
+      {
+        "letter": "B",
+        "text": "certezas imutáveis"
+      },
+      {
+        "letter": "C",
+        "text": "observações subjetivas"
+      },
+      {
+        "letter": "D",
+        "text": "propostas interpretativas"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Se todo conhecimento científico é aproximação, então nenhuma teoria pode ser definitiva. É o que o autor afirma explicitamente: \"nossas teorias são sempre temporárias, passíveis de ajustes e revisões futuras\" e \"não existe uma teoria que possamos dizer final\". O que ele recusa, portanto, é a ideia de que a ciência produza certezas imutáveis. As alternativas (A) e (D) não são negadas pelo texto - cálculos e interpretações fazem parte do trabalho científico -, e (C) contraria a própria noção de ciência que o autor defende.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q03",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 3,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Os zoólogos em seus museus de História Natural, sem se deslocarem mais do que poucos metros e abrindo apenas algumas gavetas, puderam viajar através de todos os continentes. Muitos aspectos comuns, que não podiam ser vistos em espécies perigosas distantes no tempo e no espaço, passaram a aparecer facilmente entre o conteúdo de uma vitrina e o da próxima.\nAdaptado de LOPES, M. O Brasil descobre a pesquisa científica: os museus e as ciências naturais no século XIX. São Paulo: HUCITEC; Brasília: UnB, 2009.\n\nNo decorrer dos séculos XIX e XX, museus de História Natural foram criados em diversos países. Esses espaços buscavam não só expor curiosidades, como também promover, em novas bases, o conhecimento científico de fenômenos e seres vivos. A promoção dessa forma de conhecimento sobre a natureza se relacionava com a seguinte sequência de procedimentos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "coletar, observar e classificar"
+      },
+      {
+        "letter": "B",
+        "text": "analisar, colecionar e organizar"
+      },
+      {
+        "letter": "C",
+        "text": "experimentar, reunir e desmistificar"
+      },
+      {
+        "letter": "D",
+        "text": "descobrir, uniformizar e hierarquizar"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A sequência descreve o método da história natural. Primeiro é preciso coletar exemplares em expedições pelos diversos continentes; depois observá-los detidamente no museu, onde ficam disponíveis lado a lado; e por fim classificá-los, agrupando-os segundo os \"aspectos comuns\" que a comparação revela. O texto sublinha justamente essa vantagem: reunidos nas gavetas e vitrinas, espécimes distantes no tempo e no espaço podem ser comparados com poucos passos. A ordem importa - a coleta precede necessariamente a observação, o que elimina a alternativa (B) -, e nem a experimentação nem a hierarquização caracterizavam esse tipo de conhecimento descritivo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q04",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 4,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "O mapa milenar chinês \"Yu Gong\" fazia uma divisão esquemática de todo o mundo em cinco zonas retilíneas, organizadas de acordo com os quatro pontos cardeais baseados nos ventos. A civilização encontra-se no núcleo da imagem, destacando o domínio imperial. O grau de barbárie aumenta a cada quadrado que se afasta desse núcleo: governantes tributários, as regiões fronteiriças, os bárbaros \"aliados\" e, finalmente, a zona selvagem, sem cultura, que incluía a Europa.\nAdaptado de BROTTON, J. Uma história do mundo em doze mapas. Rio de Janeiro: Zahar, 2014.\n\nTal como as teorias científicas, as concepções de mundo expressas através da cartografia também são aproximações passíveis de ajustes e revisões. No texto, a descrição do referencial utilizado para a criação de um mapa milenar chinês aponta para o seguinte aspecto, igualmente presente em documentos cartográficos de outras culturas:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atraso técnico da elaboração"
+      },
+      {
+        "letter": "B",
+        "text": "fundamento místico da orientação"
+      },
+      {
+        "letter": "C",
+        "text": "interesse econômico da delimitação"
+      },
+      {
+        "letter": "D",
+        "text": "caráter etnocêntrico da representação"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O mapa coloca o império chinês no centro e organiza todo o resto do mundo pela distância em relação a ele, com o \"grau de barbárie\" aumentando a cada quadrado - até a Europa, relegada à zona selvagem \"sem cultura\". A própria cultura é tomada como medida e critério de valor de todas as demais: é a definição de etnocentrismo. O aspecto é comum a outras tradições cartográficas, como os mapas medievais europeus centrados em Jerusalém. O texto não trata de limitações técnicas nem de interesses econômicos, e a orientação pelos ventos e pontos cardeais é um recurso prático, não místico.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q05",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 5,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Segundo historiadores da matemática, a análise de padrões de figuras quadradas possibilitou a descoberta das triplas pitagóricas. Nessa sequência de figuras, a 2ª, a 3ª e a 4ª figuras representam, respectivamente, os números inteiros 3², 4² e 5², que satisfazem ao Teorema de Pitágoras. Dessa forma, (3, 4, 5) é uma tripla pitagórica.\n\nOs quadrados representados pelas 4ª, 11ª e nª figuras determinam outra tripla pitagórica, sendo o valor de n igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "12"
+      },
+      {
+        "letter": "C",
+        "text": "14"
+      },
+      {
+        "letter": "D",
+        "text": "16"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Do exemplo dado extrai-se a regra da sequência: a 2ª figura representa 3², a 3ª representa 4² e a 4ª representa 5², ou seja, a k-ésima figura representa (k + 1)². Assim, a 4ª figura corresponde a 5² e a 11ª, a 12². Procura-se um número inteiro c tal que 5² + 12² = c²: como 25 + 144 = 169 = 13², tem-se c = 13. Se a n-ésima figura representa 13², então n + 1 = 13 e n = 12.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q07",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 7,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A lei de conservação do momento linear está associada às relações de simetrias espaciais. Nesse contexto, considere uma colisão inelástica entre uma partícula de massa M e velocidade V e um corpo, inicialmente em repouso, de massa igual a 10M.\n\nLogo após a colisão, a velocidade do sistema composto pela partícula e pelo corpo equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "V/10"
+      },
+      {
+        "letter": "B",
+        "text": "10V"
+      },
+      {
+        "letter": "C",
+        "text": "V/11"
+      },
+      {
+        "letter": "D",
+        "text": "11V"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Numa colisão inelástica os corpos seguem unidos, e a quantidade de movimento total se conserva. Antes da colisão, apenas a partícula se move: p = M · V (o corpo de massa 10M está em repouso e nada contribui). Depois, a massa total M + 10M = 11M se desloca com velocidade v: p = 11M · v. Igualando: M · V = 11M · v, logo v = V/11. O resultado é coerente com a física do problema: a velocidade final tem de ser menor que V, já que a mesma quantidade de movimento passa a mover uma massa onze vezes maior - o que descarta de imediato as alternativas (B) e (D).",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q10",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 10,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "A simetria também é observada na estrutura corporal dos animais, influenciando, por exemplo, a distribuição interna dos órgãos.\n\nUma característica associada à simetria bilateral, presente em todos os animais com esse padrão corporal, é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "grande cefalização"
+      },
+      {
+        "letter": "B",
+        "text": "organização metamérica"
+      },
+      {
+        "letter": "C",
+        "text": "sistema circulatório aberto"
+      },
+      {
+        "letter": "D",
+        "text": "sistema digestório incompleto"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A simetria bilateral define um eixo ântero-posterior e, com ele, uma extremidade que segue à frente durante o deslocamento. É nessa extremidade que se concentram os órgãos dos sentidos e os centros nervosos, de modo que o animal perceba primeiro o ambiente para onde se move - processo chamado cefalização, presente em todos os bilatérios. As demais características não são universais nesse grupo: a metameria ocorre em anelídeos e artrópodes, mas não em platelmintos; o sistema circulatório é fechado em anelídeos e vertebrados; e o sistema digestório é completo na maioria dos bilatérios.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q11",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 11,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "A composição assimétrica da membrana plasmática possibilita alguns processos fundamentais para o funcionamento celular.\n\nUm processo associado diretamente à estrutura assimétrica da membrana plasmática é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "síntese de proteínas"
+      },
+      {
+        "letter": "B",
+        "text": "armazenamento de glicídios"
+      },
+      {
+        "letter": "C",
+        "text": "transporte seletivo de substâncias"
+      },
+      {
+        "letter": "D",
+        "text": "transcrição da informação genética"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As duas faces da membrana plasmática têm composições diferentes: os lipídeos se distribuem de modo desigual entre as monocamadas e as proteínas transportadoras se inserem sempre com a mesma orientação, com domínios distintos voltados para dentro e para fora. É essa assimetria que dá direção ao transporte, permitindo que a célula bombeie substâncias em um sentido determinado e mantenha concentrações internas diferentes do meio externo - como faz a bomba de sódio e potássio. A síntese de proteínas ocorre nos ribossomos, a transcrição no núcleo, e o armazenamento de glicídios no citoplasma, nenhum deles dependendo da assimetria da membrana.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q12",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 12,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - O PODER CRIATIVO DA IMPERFEIÇÃO\n\nJá escrevi sobre como nossas teorias científicas sobre o mundo são aproximações de uma realidade que podemos compreender apenas em parte. Nossos instrumentos de pesquisa, que tanto ampliam nossa visão de mundo, têm necessariamente limites de precisão. Não há dúvida de que Galileu, com seu telescópio, viu mais longe do que todos antes dele. Também não há dúvida de que hoje vemos muito mais longe do que Galileu poderia ter sonhado em 1610. E certamente, em cem anos, nossa visão cósmica terá sido ampliada de forma imprevisível. (l. 1-6)\n\nNo avanço do conhecimento científico, vemos um conceito que tem um papel essencial: simetria. Já desde os tempos de Platão, há a noção de que existe uma linguagem secreta da natureza, uma matemática por trás da ordem que observamos. (l. 7-9)\n\nPlatão - e, com ele, muitos matemáticos até hoje - acreditava que os conceitos matemáticos existiam em uma espécie de dimensão paralela, acessível apenas através da razão. Nesse caso, os teoremas da matemática (como o famoso teorema de Pitágoras) existem como verdades absolutas, que a mente humana, ao menos as mais aptas, pode ocasionalmente descobrir. Para os platônicos, a matemática é uma descoberta, e não uma invenção humana. (l. 10-14)\n\nAo menos no que diz respeito às forças que agem nas partículas fundamentais da matéria, a busca por uma teoria final da natureza é a encarnação moderna do sonho platônico de um código secreto da natureza. As teorias de unificação, como são chamadas, visam justamente a isso, formular todas as forças como manifestações de uma única, com sua simetria abrangendo as demais. (l. 15-18)\n\nCulturalmente, é difícil não traçar uma linha entre as fés monoteístas e a busca por uma unidade da natureza nas ciências. Esse sonho, porém, é impossível de ser realizado. (l. 19-20)\n\nPrimeiro, porque nossas teorias são sempre temporárias, passíveis de ajustes e revisões futuras. Não existe uma teoria que possamos dizer final, pois nossas explicações mudam de acordo com o conhecimento acumulado que temos das coisas. Um século atrás, um elétron era algo muito diferente do que é hoje. Em cem anos, será algo muito diferente outra vez. Não podemos saber se as forças que conhecemos hoje são as únicas que existem. (l. 21-25)\n\nSegundo, porque nossas teorias e as simetrias que detectamos nos padrões regulares da natureza são em geral aproximações. Não existe uma perfeição no mundo, apenas em nossas mentes. De fato, quando analisamos com calma as \"unificações\" da física, vemos que são aproximações que funcionam apenas dentro de certas condições. (l. 26-29)\n\nO que encontramos são assimetrias, imperfeições que surgem desde as descrições das propriedades da matéria até as das moléculas que determinam a vida, as proteínas e os ácidos nucleicos (RNA e DNA). Por trás da riqueza que vemos nas formas materiais, encontramos a força criativa das imperfeições. (l. 30-32)\n\nMARCELO GLEISER. Adaptado de Folha de São Paulo, 25/08/2013.\n\nAo longo do texto, são mencionadas teorias que partem do princípio da unificação das forças da natureza. Em relação a essas teorias, Marcelo Gleiser apresenta, no último parágrafo, uma atitude de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indiferença"
+      },
+      {
+        "letter": "B",
+        "text": "concordância"
+      },
+      {
+        "letter": "C",
+        "text": "neutralidade"
+      },
+      {
+        "letter": "D",
+        "text": "discordância"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao final do texto, o autor conclui que o que se encontra na natureza \"são assimetrias, imperfeições\", e não a unidade buscada pelas teorias de unificação - as quais ele já havia classificado como um \"sonho impossível de ser realizado\". Trata-se de uma tomada de posição contrária, isto é, de discordância. Indiferença e neutralidade ficam excluídas porque o autor se posiciona explicitamente e dedica boa parte do texto a apresentar razões contra essas teorias, e concordância inverteria o sentido da conclusão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q14",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 14,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - COM O OUTRO NO CORPO, O ESPELHO PARTIDO\n\nO que acontece com o sentimento de identidade de uma pessoa que se depara, diante do espelho, com um rosto que não é seu? Como é possível manter a convicção razoavelmente estável que nos acompanha pela vida, a respeito do nosso ser, no caso de sofrermos uma alteração radical em nossa imagem? Perguntas como essas provocaram intenso debate a respeito da ética médica depois do transplante de parte da face em uma mulher que teve o rosto desfigurado por seu cachorro em Amiens, na França. (l. 1-6)\n\nNosso sentimento de permanência e unidade se estabelece diante do espelho, a despeito de todas as mudanças que o corpo sofre ao longo da vida. A criança humana, em um determinado estágio de maturação, identifica-se com sua imagem no espelho. Nesse caso, um transplante (ainda que parcial) que altera tanto os traços fenotípicos quanto as marcas da história de vida inscritas na face destruiria para sempre o sentimento de identidade do transplantado? Talvez não. Ocorre que o poder do espelho - esse de vidro e aço pendurado na parede - não é tão absoluto: o espelho que importa, para o humano, é o olhar de um outro humano. A cultura contemporânea do narcisismo, ao remeter as pessoas a buscar continuamente o testemunho do espelho, não considera que o espelho do humano é, antes de mais nada, o olhar do semelhante. (l. 7-15)\n\nÉ o reconhecimento do outro que nos confirma que existimos e que somos (mais ou menos) os mesmos ao longo da vida, na medida em que as pessoas próximas continuam a nos devolver nossa \"identidade\". O rosto é a sede do olhar que reconhece e que também busca reconhecimento. É que o rosto não se reduz à dimensão da imagem: ele é a própria presentificação de um ser humano, em sua singularidade irrecusável. Além disso, dentre todas as partes do corpo, o rosto é a que faz apelo ao outro. A parte que se comunica, expressa amor ou ódio e, sobretudo, demanda amor. (l. 16-21)\n\nA literatura pode nos ajudar a amenizar o drama da paciente francesa. O personagem Robinson Crusoé do livro Sexta-feira ou os limbos do Pacífico, de Michel Tournier, perde a noção de sua identidade e enlouquece, na falta do olhar de um semelhante que lhe confirme que ele é um ser humano. No início do romance, o náufrago solitário tenta fazer da natureza seu espelho. Faz do estranho, familiar, trabalhando para \"civilizar\" a ilha e representando diante de si mesmo o papel de senhor sem escravos, mestre sem discípulos. Mas depois de algum tempo o isolamento degrada sua humanidade. (l. 22-28)\n\nA paciente francesa, que agradeceu aos médicos a recomposição de uma face humana, ainda que não seja a \"sua\", vai agora depender de um esforço de tolerância e generosidade por parte dos que lhe são próximos. Parentes e amigos terão de superar o desconforto de olhar para ela e não encontrar a mesma de antes. Diante de um rosto outro, deverão ainda assim confirmar que ela continua sendo ela. E amar a mulher estranha a si mesma que renasceu daquela operação. (l. 29-33)\n\n* narcisismo - amor do indivíduo por sua própria imagem\n\nMARIA RITA KEHL. Adaptado de folha.uol.com.br, 11/12/2005.\n\n\"Ocorre que o poder do espelho - esse de vidro e aço pendurado na parede\" (l. 12)\n\nO fragmento introduzido pelo travessão especifica o sentido de espelho. Além da função de especificar o sentido de uma palavra, esse fragmento também cumpre, no parágrafo, o papel de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "antecipar emprego diferenciado do termo"
+      },
+      {
+        "letter": "B",
+        "text": "limitar usos atuais do discurso da ciência"
+      },
+      {
+        "letter": "C",
+        "text": "contradizer antiga expectativa do leitor"
+      },
+      {
+        "letter": "D",
+        "text": "indicar opinião implícita da autora"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Só faz sentido esclarecer que se trata do espelho \"de vidro e aço pendurado na parede\" se houver outro espelho em jogo. E há: na sequência imediata do mesmo parágrafo, a autora afirma que \"o espelho que importa, para o humano, é o olhar de um outro humano\". O aposto entre travessões prepara o leitor para esse segundo emprego, figurado, do termo - por isso antecipa um uso diferenciado da palavra. Não há referência ao discurso da ciência, nem contradição de expectativa, nem opinião implícita: a especificação é apenas o passo que torna possível o deslocamento de sentido.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q15",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 15,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Texto base - COM O OUTRO NO CORPO, O ESPELHO PARTIDO\n\nO que acontece com o sentimento de identidade de uma pessoa que se depara, diante do espelho, com um rosto que não é seu? Como é possível manter a convicção razoavelmente estável que nos acompanha pela vida, a respeito do nosso ser, no caso de sofrermos uma alteração radical em nossa imagem? Perguntas como essas provocaram intenso debate a respeito da ética médica depois do transplante de parte da face em uma mulher que teve o rosto desfigurado por seu cachorro em Amiens, na França. (l. 1-6)\n\nNosso sentimento de permanência e unidade se estabelece diante do espelho, a despeito de todas as mudanças que o corpo sofre ao longo da vida. A criança humana, em um determinado estágio de maturação, identifica-se com sua imagem no espelho. Nesse caso, um transplante (ainda que parcial) que altera tanto os traços fenotípicos quanto as marcas da história de vida inscritas na face destruiria para sempre o sentimento de identidade do transplantado? Talvez não. Ocorre que o poder do espelho - esse de vidro e aço pendurado na parede - não é tão absoluto: o espelho que importa, para o humano, é o olhar de um outro humano. A cultura contemporânea do narcisismo, ao remeter as pessoas a buscar continuamente o testemunho do espelho, não considera que o espelho do humano é, antes de mais nada, o olhar do semelhante. (l. 7-15)\n\nÉ o reconhecimento do outro que nos confirma que existimos e que somos (mais ou menos) os mesmos ao longo da vida, na medida em que as pessoas próximas continuam a nos devolver nossa \"identidade\". O rosto é a sede do olhar que reconhece e que também busca reconhecimento. É que o rosto não se reduz à dimensão da imagem: ele é a própria presentificação de um ser humano, em sua singularidade irrecusável. Além disso, dentre todas as partes do corpo, o rosto é a que faz apelo ao outro. A parte que se comunica, expressa amor ou ódio e, sobretudo, demanda amor. (l. 16-21)\n\nA literatura pode nos ajudar a amenizar o drama da paciente francesa. O personagem Robinson Crusoé do livro Sexta-feira ou os limbos do Pacífico, de Michel Tournier, perde a noção de sua identidade e enlouquece, na falta do olhar de um semelhante que lhe confirme que ele é um ser humano. No início do romance, o náufrago solitário tenta fazer da natureza seu espelho. Faz do estranho, familiar, trabalhando para \"civilizar\" a ilha e representando diante de si mesmo o papel de senhor sem escravos, mestre sem discípulos. Mas depois de algum tempo o isolamento degrada sua humanidade. (l. 22-28)\n\nA paciente francesa, que agradeceu aos médicos a recomposição de uma face humana, ainda que não seja a \"sua\", vai agora depender de um esforço de tolerância e generosidade por parte dos que lhe são próximos. Parentes e amigos terão de superar o desconforto de olhar para ela e não encontrar a mesma de antes. Diante de um rosto outro, deverão ainda assim confirmar que ela continua sendo ela. E amar a mulher estranha a si mesma que renasceu daquela operação. (l. 29-33)\n\n* narcisismo - amor do indivíduo por sua própria imagem\n\nMARIA RITA KEHL. Adaptado de folha.uol.com.br, 11/12/2005.\n\n\"o espelho do humano é, antes de mais nada, o olhar do semelhante.\" (l. 15)\n\nNo trecho, a expressão sublinhada enfatiza uma ideia, tal como se observa em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A cultura contemporânea do narcisismo, ao remeter as pessoas a buscar continuamente o testemunho do espelho, (l. 13-14)"
+      },
+      {
+        "letter": "B",
+        "text": "Além disso, dentre todas as partes do corpo, o rosto é a que faz apelo ao outro. (l. 20-21)"
+      },
+      {
+        "letter": "C",
+        "text": "A parte que se comunica, expressa amor ou ódio e, sobretudo, demanda amor. (l. 21)"
+      },
+      {
+        "letter": "D",
+        "text": "A paciente francesa, que agradeceu aos médicos a recomposição de uma face humana, ainda que não seja a \"sua\", (l. 29-30)"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "\"Antes de mais nada\" destaca um elemento como o mais importante entre outros possíveis. A mesma função é exercida por \"sobretudo\" no trecho da alternativa (C): entre as ações do rosto - comunicar-se, expressar amor ou ódio -, uma é apontada como a principal, demandar amor. Em (A) \"continuamente\" indica frequência, em (B) \"além disso\" acrescenta informação, e em (D) \"ainda que\" introduz uma concessão; nenhuma dessas expressões destaca um elemento como superior aos demais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q16",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 16,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Texto base - COM O OUTRO NO CORPO, O ESPELHO PARTIDO\n\nO que acontece com o sentimento de identidade de uma pessoa que se depara, diante do espelho, com um rosto que não é seu? Como é possível manter a convicção razoavelmente estável que nos acompanha pela vida, a respeito do nosso ser, no caso de sofrermos uma alteração radical em nossa imagem? Perguntas como essas provocaram intenso debate a respeito da ética médica depois do transplante de parte da face em uma mulher que teve o rosto desfigurado por seu cachorro em Amiens, na França. (l. 1-6)\n\nNosso sentimento de permanência e unidade se estabelece diante do espelho, a despeito de todas as mudanças que o corpo sofre ao longo da vida. A criança humana, em um determinado estágio de maturação, identifica-se com sua imagem no espelho. Nesse caso, um transplante (ainda que parcial) que altera tanto os traços fenotípicos quanto as marcas da história de vida inscritas na face destruiria para sempre o sentimento de identidade do transplantado? Talvez não. Ocorre que o poder do espelho - esse de vidro e aço pendurado na parede - não é tão absoluto: o espelho que importa, para o humano, é o olhar de um outro humano. A cultura contemporânea do narcisismo, ao remeter as pessoas a buscar continuamente o testemunho do espelho, não considera que o espelho do humano é, antes de mais nada, o olhar do semelhante. (l. 7-15)\n\nÉ o reconhecimento do outro que nos confirma que existimos e que somos (mais ou menos) os mesmos ao longo da vida, na medida em que as pessoas próximas continuam a nos devolver nossa \"identidade\". O rosto é a sede do olhar que reconhece e que também busca reconhecimento. É que o rosto não se reduz à dimensão da imagem: ele é a própria presentificação de um ser humano, em sua singularidade irrecusável. Além disso, dentre todas as partes do corpo, o rosto é a que faz apelo ao outro. A parte que se comunica, expressa amor ou ódio e, sobretudo, demanda amor. (l. 16-21)\n\nA literatura pode nos ajudar a amenizar o drama da paciente francesa. O personagem Robinson Crusoé do livro Sexta-feira ou os limbos do Pacífico, de Michel Tournier, perde a noção de sua identidade e enlouquece, na falta do olhar de um semelhante que lhe confirme que ele é um ser humano. No início do romance, o náufrago solitário tenta fazer da natureza seu espelho. Faz do estranho, familiar, trabalhando para \"civilizar\" a ilha e representando diante de si mesmo o papel de senhor sem escravos, mestre sem discípulos. Mas depois de algum tempo o isolamento degrada sua humanidade. (l. 22-28)\n\nA paciente francesa, que agradeceu aos médicos a recomposição de uma face humana, ainda que não seja a \"sua\", vai agora depender de um esforço de tolerância e generosidade por parte dos que lhe são próximos. Parentes e amigos terão de superar o desconforto de olhar para ela e não encontrar a mesma de antes. Diante de um rosto outro, deverão ainda assim confirmar que ela continua sendo ela. E amar a mulher estranha a si mesma que renasceu daquela operação. (l. 29-33)\n\n* narcisismo - amor do indivíduo por sua própria imagem\n\nMARIA RITA KEHL. Adaptado de folha.uol.com.br, 11/12/2005.\n\n\"É que o rosto não se reduz à dimensão da imagem: ele é a própria presentificação de um ser humano, em sua singularidade irrecusável.\" (l. 18-20)\n\nEm relação à declaração feita antes dos dois-pontos, o trecho sublinhado possui valor de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "condição"
+      },
+      {
+        "letter": "B",
+        "text": "conclusão"
+      },
+      {
+        "letter": "C",
+        "text": "explicação"
+      },
+      {
+        "letter": "D",
+        "text": "comparação"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A primeira parte faz uma afirmação negativa - o rosto não se reduz à imagem - que deixa em aberto por que isso ocorre. O que vem depois dos dois-pontos responde a essa pergunta: ele é a presentificação de um ser humano em sua singularidade. O segundo trecho justifica o primeiro, e é esse o valor de explicação, um dos empregos típicos dos dois-pontos. Não há hipótese que caracterize condição, não se deduz a segunda parte da primeira (o que configuraria conclusão), e não há dois termos postos em confronto, o que excluiria a comparação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q17",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 17,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto base - COM O OUTRO NO CORPO, O ESPELHO PARTIDO\n\nO que acontece com o sentimento de identidade de uma pessoa que se depara, diante do espelho, com um rosto que não é seu? Como é possível manter a convicção razoavelmente estável que nos acompanha pela vida, a respeito do nosso ser, no caso de sofrermos uma alteração radical em nossa imagem? Perguntas como essas provocaram intenso debate a respeito da ética médica depois do transplante de parte da face em uma mulher que teve o rosto desfigurado por seu cachorro em Amiens, na França. (l. 1-6)\n\nNosso sentimento de permanência e unidade se estabelece diante do espelho, a despeito de todas as mudanças que o corpo sofre ao longo da vida. A criança humana, em um determinado estágio de maturação, identifica-se com sua imagem no espelho. Nesse caso, um transplante (ainda que parcial) que altera tanto os traços fenotípicos quanto as marcas da história de vida inscritas na face destruiria para sempre o sentimento de identidade do transplantado? Talvez não. Ocorre que o poder do espelho - esse de vidro e aço pendurado na parede - não é tão absoluto: o espelho que importa, para o humano, é o olhar de um outro humano. A cultura contemporânea do narcisismo, ao remeter as pessoas a buscar continuamente o testemunho do espelho, não considera que o espelho do humano é, antes de mais nada, o olhar do semelhante. (l. 7-15)\n\nÉ o reconhecimento do outro que nos confirma que existimos e que somos (mais ou menos) os mesmos ao longo da vida, na medida em que as pessoas próximas continuam a nos devolver nossa \"identidade\". O rosto é a sede do olhar que reconhece e que também busca reconhecimento. É que o rosto não se reduz à dimensão da imagem: ele é a própria presentificação de um ser humano, em sua singularidade irrecusável. Além disso, dentre todas as partes do corpo, o rosto é a que faz apelo ao outro. A parte que se comunica, expressa amor ou ódio e, sobretudo, demanda amor. (l. 16-21)\n\nA literatura pode nos ajudar a amenizar o drama da paciente francesa. O personagem Robinson Crusoé do livro Sexta-feira ou os limbos do Pacífico, de Michel Tournier, perde a noção de sua identidade e enlouquece, na falta do olhar de um semelhante que lhe confirme que ele é um ser humano. No início do romance, o náufrago solitário tenta fazer da natureza seu espelho. Faz do estranho, familiar, trabalhando para \"civilizar\" a ilha e representando diante de si mesmo o papel de senhor sem escravos, mestre sem discípulos. Mas depois de algum tempo o isolamento degrada sua humanidade. (l. 22-28)\n\nA paciente francesa, que agradeceu aos médicos a recomposição de uma face humana, ainda que não seja a \"sua\", vai agora depender de um esforço de tolerância e generosidade por parte dos que lhe são próximos. Parentes e amigos terão de superar o desconforto de olhar para ela e não encontrar a mesma de antes. Diante de um rosto outro, deverão ainda assim confirmar que ela continua sendo ela. E amar a mulher estranha a si mesma que renasceu daquela operação. (l. 29-33)\n\n* narcisismo - amor do indivíduo por sua própria imagem\n\nMARIA RITA KEHL. Adaptado de folha.uol.com.br, 11/12/2005.\n\n\"A literatura pode nos ajudar a amenizar o drama da paciente francesa.\" (l. 22)\n\nNo penúltimo parágrafo, a história do personagem citado pela autora reforça a seguinte tese central do texto:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "interferência do progresso sobre as ações individuais"
+      },
+      {
+        "letter": "B",
+        "text": "imposição da imaginação sobre os fatos objetivos"
+      },
+      {
+        "letter": "C",
+        "text": "insuficiência da civilização para o bem-estar geral"
+      },
+      {
+        "letter": "D",
+        "text": "importância do contato para a condição humana"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Robinson Crusoé enlouquece \"na falta do olhar de um semelhante que lhe confirme que ele é um ser humano\". Seu isolamento demonstra pela ausência aquilo que a autora vinha sustentando: a identidade não se sustenta diante do espelho de vidro, mas no reconhecimento do outro. Por isso o exemplo consola a paciente francesa - o que a manterá sendo ela mesma não é o rosto, mas o olhar dos que lhe são próximos. A tese reforçada é, portanto, a importância do contato para a condição humana. O \"civilizar\" a ilha aparece no parágrafo apenas como tentativa fracassada do náufrago, e não como crítica à civilização ou ao progresso.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q18",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 18,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 18 a 21 referem-se ao conto \"A terceira margem do rio\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\nConsidere a hipótese de que o título \"A terceira margem do rio\" se refere também à própria ficção, que se desenvolve entre duas margens: a da realidade e a da imaginação.\n\nO trecho do conto que melhor comprova essa hipótese de leitura é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o que não era o certo, exato; mas, que era mentira por verdade."
+      },
+      {
+        "letter": "B",
+        "text": "Os tempos mudavam, no devagar depressa dos tempos."
+      },
+      {
+        "letter": "C",
+        "text": "e, eu, rio abaixo, rio a fora, rio a dentro - o rio."
+      },
+      {
+        "letter": "D",
+        "text": "Ninguém é doido. Ou, então, todos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "\"Mentira por verdade\" é uma definição precisa da ficção: um discurso que não corresponde ao factual - \"não era o certo, exato\" - mas que é tomado como verdadeiro e produz sentido. O trecho ocupa, assim, a terceira posição entre as duas margens do enunciado, nem realidade nem pura invenção, comprovando a hipótese proposta. As demais alternativas tratam da passagem do tempo (B), do movimento do personagem pelo rio (C) e da relativização da loucura (D) - temas do conto, mas que não definem o estatuto da ficção.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q19",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 19,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 18 a 21 referem-se ao conto \"A terceira margem do rio\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\nO conto constrói uma alegoria, ou seja, uma metáfora ampliada que o organiza. Esse aspecto alegórico é reforçado pelo modo de identificação dos personagens, o que se faz por meio de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nome próprio"
+      },
+      {
+        "letter": "B",
+        "text": "grau de parentesco"
+      },
+      {
+        "letter": "C",
+        "text": "atividade profissional"
+      },
+      {
+        "letter": "D",
+        "text": "demonstração de afeto"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No conto, ninguém tem nome: os personagens são \"nosso pai\", \"nossa mãe\", \"meu irmão\", \"nossa irmã\", \"eu\". Identificados apenas pela posição que ocupam na família, perdem a individualidade e passam a valer como figuras genéricas - o pai, o filho -, o que permite que a história seja lida como representação de uma experiência humana ampla, e não como o caso particular de uma família. É esse apagamento dos nomes próprios que sustenta o caráter alegórico. Atividade profissional e demonstrações de afeto não funcionam como critério de identificação no texto.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q20",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 20,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "As questões 18 a 21 referem-se ao conto \"A terceira margem do rio\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\nGuimarães Rosa afirmou, em uma entrevista, que somente renovando a língua é que se pode renovar o mundo. Visando a essa renovação, recorria a neologismos e inversões pouco usuais de termos, explorando novos sentidos em seus textos.\n\nUm exemplo dessas inversões encontra-se em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Nossa mãe era quem regia,"
+      },
+      {
+        "letter": "B",
+        "text": "Nossa mãe muito não se demonstrava."
+      },
+      {
+        "letter": "C",
+        "text": "Nossa mãe terminou indo também, de uma vez,"
+      },
+      {
+        "letter": "D",
+        "text": "Nossa mãe, vergonhosa, se portou com muita cordura;"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A ordem corrente seria \"nossa mãe não se demonstrava muito\", com o advérbio de intensidade posposto ao verbo. Guimarães Rosa antepõe \"muito\" à negação, produzindo \"muito não se demonstrava\" - construção estranha ao uso comum que desloca a ênfase e obriga o leitor a reler. É esse o tipo de inversão a que o enunciado se refere. As demais alternativas seguem a ordem usual da língua: sujeito e predicado em (A) e (C), e em (D) o adjetivo intercalado entre vírgulas, recurso corrente na norma escrita.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q21",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 21,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "As questões 18 a 21 referem-se ao conto \"A terceira margem do rio\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\n\"De dia e de noite, com sol ou aguaceiros, calor, sereno, e nas friagens terríveis de meio-do-ano, sem arrumo, só com o chapéu velho na cabeça, por todas as semanas, e meses, e os anos - sem fazer conta do se-ir do viver.\"\n\nA expressão sublinhada é um exemplo das recriações linguísticas do autor. Seu sentido, com base no trecho citado, pode ser definido como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ação da natureza"
+      },
+      {
+        "letter": "B",
+        "text": "passagem do tempo"
+      },
+      {
+        "letter": "C",
+        "text": "presença de esperança"
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de cuidados"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "\"Se-ir do viver\" transforma em substantivo o verbo \"ir-se\", isto é, o escoar-se da própria vida. O contexto confirma a leitura: o trecho enumera uma sucessão temporal cada vez mais ampla - dia e noite, as estações marcadas pelo sol, pelos aguaceiros e pelas friagens do meio do ano, depois \"as semanas, e meses, e os anos\". O pai permanece no rio sem levar em conta esse tempo que passa. A expressão nomeia, portanto, a passagem do tempo. As referências à natureza servem apenas para marcar essa sucessão, e não há no trecho ideia de esperança nem de cuidado.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q22",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 22,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "As questões 22 a 25 referem-se ao conto \"O espelho\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\n\"- Se quer seguir-me, narro-lhe; não uma aventura, mas experiência, a que me induziram, alternadamente, séries de raciocínios e intuições.\"\n\nA fala inicial do conto anuncia que a história combina gêneros textuais distintos. Além da narrativa, o outro gênero que se realiza nesse conto é o da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dissertação"
+      },
+      {
+        "letter": "B",
+        "text": "reportagem"
+      },
+      {
+        "letter": "C",
+        "text": "entrevista"
+      },
+      {
+        "letter": "D",
+        "text": "carta"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O narrador recusa desde a primeira frase a etiqueta de \"aventura\" - ou seja, de narrativa de peripécias - e anuncia que contará uma \"experiência\" conduzida por \"séries de raciocínios e intuições\". Raciocinar e concluir são operações do texto dissertativo, e é isso que o conto faz: ao longo da história o narrador expõe hipóteses sobre a identidade e a percepção de si, argumenta e busca convencer o interlocutor. A narrativa serve de suporte a essa reflexão. Não há entrevista (o interlocutor não faz perguntas registradas), nem estrutura de reportagem ou de carta.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q23",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 23,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 22 a 25 referem-se ao conto \"O espelho\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\nMarcelo Gleiser, em \"O poder criativo da imperfeição\", formula uma tese a respeito da relação entre ciência e realidade. O narrador do conto estabelece reflexões acerca do conhecimento que dialogam com essa tese.\n\nO trecho do conto que melhor sintetiza esse diálogo é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "porque vivemos, de modo incorrigível, distraídos das coisas mais importantes."
+      },
+      {
+        "letter": "B",
+        "text": "a espécie humana peleja para impor ao latejante mundo um pouco de rotina e lógica,"
+      },
+      {
+        "letter": "C",
+        "text": "primeiro a humanidade mirou-se nas superfícies de água quieta, lagoas, lameiros, fontes,"
+      },
+      {
+        "letter": "D",
+        "text": "Vejo que começa a descontar um pouco de sua inicial desconfiança, quanto ao meu são juízo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A tese de Gleiser é que a ordem e a simetria que julgamos encontrar na natureza são aproximações construídas por nós - \"não existe uma perfeição no mundo, apenas em nossas mentes\". O trecho da alternativa (B) diz o mesmo pela via literária: a espécie humana \"peleja para impor\" rotina e lógica a um mundo \"latejante\", isto é, irregular e em movimento. O verbo impor deixa claro que a ordem não é encontrada, e sim projetada sobre a realidade. As demais alternativas tratam da distração humana, da história material do espelho e da relação do narrador com seu interlocutor, sem tocar na questão do conhecimento.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q24",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 24,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 22 a 25 referem-se ao conto \"O espelho\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\n\"Que amedrontadora visão seria então aquela? Quem o Monstro?\"\n\nCom base na leitura do conto, a visão retratada na pergunta desencadeia o seguinte sentimento:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desejo de nova mudança"
+      },
+      {
+        "letter": "B",
+        "text": "anseio de poder absoluto"
+      },
+      {
+        "letter": "C",
+        "text": "receio com a própria imagem"
+      },
+      {
+        "letter": "D",
+        "text": "assombro com o tempo futuro"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O episódio marca o momento em que o narrador, diante do espelho, deixa de reconhecer-se e vê no próprio reflexo algo monstruoso. A pergunta \"Quem o Monstro?\" só faz sentido porque a resposta é ele mesmo, e é essa constatação que desencadeia o pavor. O sentimento é, portanto, o receio diante da própria imagem, ponto de partida da investigação sobre a identidade que o conto desenvolve. Não há ali desejo de transformação nem de poder, e o susto se refere ao que o narrador é naquele instante, não ao futuro.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q25",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 25,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "As questões 22 a 25 referem-se ao conto \"O espelho\", do livro Primeiras Estórias, de João Guimarães Rosa.\n\n\"Solicito os reparos que se digne dar-me, a mim, servo do senhor, recente amigo, mas companheiro no amor da ciência, de seus transviados acertos e de seus esbarros titubeados. Sim?\"\n\nNo trecho final do conto, observa-se a ênfase de um recurso utilizado em todo o texto. Esse recurso produz o seguinte efeito:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "revisão de uma postura"
+      },
+      {
+        "letter": "B",
+        "text": "insinuação de um segredo"
+      },
+      {
+        "letter": "C",
+        "text": "confissão de uma fraqueza"
+      },
+      {
+        "letter": "D",
+        "text": "encenação de um diálogo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O trecho é todo dirigido a um \"senhor\" de quem o narrador solicita reparos, e termina com o \"Sim?\" que espera resposta. Esse interlocutor, porém, nunca fala: sua presença é construída apenas pelos vocativos, pelas perguntas e pelos comentários sobre suas supostas reações - como o \"vejo que começa a descontar um pouco de sua inicial desconfiança\". O conto simula, assim, uma conversa que na verdade é monólogo, encenando um diálogo. O recurso não revisa postura alguma, não guarda segredo nem confessa fraqueza: serve para envolver o leitor, que acaba ocupando o lugar desse ouvinte mudo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q26",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 26,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - BELLEZA INALCANZABLE\n\nLa activista feminista Jean Kilbourne decía en el documental Killing Us Softly que estaba harta de oír la misma pregunta cuando hablaba de la representación de la mujer en los medios: \"Se lleva hablando de este tema cuarenta años. ¿Acaso no han mejorado las cosas?\" Su respuesta era que, tristemente, no sólo debía decir que no, sino que, de hecho, las cosas habían empeorado. Los anuncios ya no sólo venden productos, también venden valores, imágenes y conceptos sobre el amor, la sexualidad, el éxito y quizás, lo que es más importante, venden una imagen de normalidad. (l. 1-7)\n\nLa publicidad, a la que nos vemos expuestos cada día, muestra cuerpos esculturales e irreales como sinónimo de éxito, felicidad e incluso salud. Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\". (l. 8-10)\n\nY ¿qué nos cuentan los anuncios sobre las mujeres? Nos cuentan que lo primordial en nuestras vidas es nuestro aspecto físico. Pero, antes que nada, lo primero que nos enseñan las campañas publicitarias es cuál es el ideal de belleza femenino. Aprendemos desde una edad muy temprana que debemos invertir cantidades ingentes de tiempo, energías y, sobre todo, dinero, en alcanzar este ideal y sentirnos avergonzadas y culpables cuando fracasamos. (l. 11-15)\n\nSin embargo, la derrota es inevitable. (l. 16)\n\nEl modelo de belleza que nos vende la publicidad está basado en la perfección. Las mujeres en los anuncios no tienen líneas de expresión ni arrugas, ciertamente no tienen cicatrices ni granos y, de hecho, no tienen ni poros. (l. 17-19)\n\nPero lo fundamental de esta perfección es que es inalcanzable. La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\". No lo tenía, y era imposible que lo tuviese, porque su imagen fue creada a lo largo de los años a través del maquillaje y el retoque fotográfico. (l. 20-22)\n\nLas niñas beben este mensaje de perfección desde una edad cada vez más temprana. Necesitan ser no sólo bellas, sino increíblemente delgadas, atractivas y sexuales. Las niñas se sienten a gusto con sus cuerpos cuando tienen 8, 9, 10 años... pero unos años más tarde, en cuanto alcancen la pubertad, se darán de bruces con la cruda realidad. Una realidad que les impondrá un modelo de perfección física inalcanzable. (l. 23-27)\n\nLa pregunta es ¿qué podemos hacer con respecto a esta situación? Lo primero es darnos cuenta de que esta realidad existe, prestar atención y aceptar que nos afecta a todo el mundo. Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública que sólo podrá resolverse cambiando el entorno que nos rodea y esclaviza. (l. 28-31)\n\norbitadiversa.wordpress.com\n\nEn \"O poder criativo da imperfeição\" y \"Belleza inalcanzable\", los autores discuten el tema de la búsqueda por la perfección. Según los textos, la perfección presenta el siguiente rasgo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reside únicamente en las asimetrías"
+      },
+      {
+        "letter": "B",
+        "text": "existe solamente en el imaginario humano"
+      },
+      {
+        "letter": "C",
+        "text": "forma parte principalmente de la naturaleza"
+      },
+      {
+        "letter": "D",
+        "text": "depende básicamente de los códigos genéticos"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os dois textos convergem nesse ponto. Gleiser afirma que \"não existe uma perfeição no mundo, apenas em nossas mentes\". O texto espanhol descreve um modelo de beleza construído por maquiagem e retoque fotográfico, tão irreal que a própria Cindy Crawford não se parece com a imagem que leva seu nome - \"lo fundamental de esta perfección es que es inalcanzable\". Em ambos os casos, a perfeição não existe no mundo: é produto da mente ou da indústria, ou seja, do imaginário humano. A alternativa (C) inverte a tese dos dois autores, e (A) e (D) não são sustentadas por nenhum deles.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q27",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 27,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - BELLEZA INALCANZABLE\n\nLa activista feminista Jean Kilbourne decía en el documental Killing Us Softly que estaba harta de oír la misma pregunta cuando hablaba de la representación de la mujer en los medios: \"Se lleva hablando de este tema cuarenta años. ¿Acaso no han mejorado las cosas?\" Su respuesta era que, tristemente, no sólo debía decir que no, sino que, de hecho, las cosas habían empeorado. Los anuncios ya no sólo venden productos, también venden valores, imágenes y conceptos sobre el amor, la sexualidad, el éxito y quizás, lo que es más importante, venden una imagen de normalidad. (l. 1-7)\n\nLa publicidad, a la que nos vemos expuestos cada día, muestra cuerpos esculturales e irreales como sinónimo de éxito, felicidad e incluso salud. Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\". (l. 8-10)\n\nY ¿qué nos cuentan los anuncios sobre las mujeres? Nos cuentan que lo primordial en nuestras vidas es nuestro aspecto físico. Pero, antes que nada, lo primero que nos enseñan las campañas publicitarias es cuál es el ideal de belleza femenino. Aprendemos desde una edad muy temprana que debemos invertir cantidades ingentes de tiempo, energías y, sobre todo, dinero, en alcanzar este ideal y sentirnos avergonzadas y culpables cuando fracasamos. (l. 11-15)\n\nSin embargo, la derrota es inevitable. (l. 16)\n\nEl modelo de belleza que nos vende la publicidad está basado en la perfección. Las mujeres en los anuncios no tienen líneas de expresión ni arrugas, ciertamente no tienen cicatrices ni granos y, de hecho, no tienen ni poros. (l. 17-19)\n\nPero lo fundamental de esta perfección es que es inalcanzable. La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\". No lo tenía, y era imposible que lo tuviese, porque su imagen fue creada a lo largo de los años a través del maquillaje y el retoque fotográfico. (l. 20-22)\n\nLas niñas beben este mensaje de perfección desde una edad cada vez más temprana. Necesitan ser no sólo bellas, sino increíblemente delgadas, atractivas y sexuales. Las niñas se sienten a gusto con sus cuerpos cuando tienen 8, 9, 10 años... pero unos años más tarde, en cuanto alcancen la pubertad, se darán de bruces con la cruda realidad. Una realidad que les impondrá un modelo de perfección física inalcanzable. (l. 23-27)\n\nLa pregunta es ¿qué podemos hacer con respecto a esta situación? Lo primero es darnos cuenta de que esta realidad existe, prestar atención y aceptar que nos afecta a todo el mundo. Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública que sólo podrá resolverse cambiando el entorno que nos rodea y esclaviza. (l. 28-31)\n\norbitadiversa.wordpress.com\n\n\"Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\".\" (l. 8-10)\n\nLas comillas son recursos tipográficos utilizados con diferentes objetivos. En el fragmento, su finalidad es:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indicar crítica"
+      },
+      {
+        "letter": "B",
+        "text": "resaltar neologismo"
+      },
+      {
+        "letter": "C",
+        "text": "marcar extranjerismo"
+      },
+      {
+        "letter": "D",
+        "text": "destacar coloquialismo"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As aspas em \"educa\" tomam distância da palavra: a autora não aceita esse verbo e o corrige em seguida com \"o más bien adoctrina\", trocando educar por doutrinar. As aspas em \"cuerpo perfecto\" fazem o mesmo com um ideal que ela considera falso. Nos dois casos, sinalizam que os termos são usados com reserva, ou seja, indicam crítica. Nenhuma das palavras é neologismo, estrangeirismo ou coloquialismo - são palavras correntes do espanhol.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q28",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 28,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - BELLEZA INALCANZABLE\n\nLa activista feminista Jean Kilbourne decía en el documental Killing Us Softly que estaba harta de oír la misma pregunta cuando hablaba de la representación de la mujer en los medios: \"Se lleva hablando de este tema cuarenta años. ¿Acaso no han mejorado las cosas?\" Su respuesta era que, tristemente, no sólo debía decir que no, sino que, de hecho, las cosas habían empeorado. Los anuncios ya no sólo venden productos, también venden valores, imágenes y conceptos sobre el amor, la sexualidad, el éxito y quizás, lo que es más importante, venden una imagen de normalidad. (l. 1-7)\n\nLa publicidad, a la que nos vemos expuestos cada día, muestra cuerpos esculturales e irreales como sinónimo de éxito, felicidad e incluso salud. Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\". (l. 8-10)\n\nY ¿qué nos cuentan los anuncios sobre las mujeres? Nos cuentan que lo primordial en nuestras vidas es nuestro aspecto físico. Pero, antes que nada, lo primero que nos enseñan las campañas publicitarias es cuál es el ideal de belleza femenino. Aprendemos desde una edad muy temprana que debemos invertir cantidades ingentes de tiempo, energías y, sobre todo, dinero, en alcanzar este ideal y sentirnos avergonzadas y culpables cuando fracasamos. (l. 11-15)\n\nSin embargo, la derrota es inevitable. (l. 16)\n\nEl modelo de belleza que nos vende la publicidad está basado en la perfección. Las mujeres en los anuncios no tienen líneas de expresión ni arrugas, ciertamente no tienen cicatrices ni granos y, de hecho, no tienen ni poros. (l. 17-19)\n\nPero lo fundamental de esta perfección es que es inalcanzable. La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\". No lo tenía, y era imposible que lo tuviese, porque su imagen fue creada a lo largo de los años a través del maquillaje y el retoque fotográfico. (l. 20-22)\n\nLas niñas beben este mensaje de perfección desde una edad cada vez más temprana. Necesitan ser no sólo bellas, sino increíblemente delgadas, atractivas y sexuales. Las niñas se sienten a gusto con sus cuerpos cuando tienen 8, 9, 10 años... pero unos años más tarde, en cuanto alcancen la pubertad, se darán de bruces con la cruda realidad. Una realidad que les impondrá un modelo de perfección física inalcanzable. (l. 23-27)\n\nLa pregunta es ¿qué podemos hacer con respecto a esta situación? Lo primero es darnos cuenta de que esta realidad existe, prestar atención y aceptar que nos afecta a todo el mundo. Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública que sólo podrá resolverse cambiando el entorno que nos rodea y esclaviza. (l. 28-31)\n\norbitadiversa.wordpress.com\n\n\"Sin embargo, la derrota es inevitable.\" (l. 16)\n\nSe aclara la naturaleza de esa derrota en:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "El modelo de belleza que nos vende la publicidad está basado en la perfección. (l. 17)"
+      },
+      {
+        "letter": "B",
+        "text": "Pero lo fundamental de esta perfección es que es inalcanzable. (l. 20)"
+      },
+      {
+        "letter": "C",
+        "text": "Las niñas beben este mensaje de perfección desde una edad cada vez más temprana. (l. 23)"
+      },
+      {
+        "letter": "D",
+        "text": "Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública (l. 29-30)"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A frase isolada anuncia uma derrota sem dizer por que ela é inevitável. A resposta está na alternativa (B): a perfeição vendida pela publicidade é, por definição, inalcançável. Se a meta não pode ser atingida por ninguém, o fracasso está garantido de antemão - é essa impossibilidade que constitui a natureza da derrota. A alternativa (A) apenas caracteriza o modelo, (C) trata da idade em que a mensagem começa a atuar e (D) classifica a consequência social do problema, sem explicar por que a derrota seria inevitável.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q29",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 29,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto base - BELLEZA INALCANZABLE\n\nLa activista feminista Jean Kilbourne decía en el documental Killing Us Softly que estaba harta de oír la misma pregunta cuando hablaba de la representación de la mujer en los medios: \"Se lleva hablando de este tema cuarenta años. ¿Acaso no han mejorado las cosas?\" Su respuesta era que, tristemente, no sólo debía decir que no, sino que, de hecho, las cosas habían empeorado. Los anuncios ya no sólo venden productos, también venden valores, imágenes y conceptos sobre el amor, la sexualidad, el éxito y quizás, lo que es más importante, venden una imagen de normalidad. (l. 1-7)\n\nLa publicidad, a la que nos vemos expuestos cada día, muestra cuerpos esculturales e irreales como sinónimo de éxito, felicidad e incluso salud. Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\". (l. 8-10)\n\nY ¿qué nos cuentan los anuncios sobre las mujeres? Nos cuentan que lo primordial en nuestras vidas es nuestro aspecto físico. Pero, antes que nada, lo primero que nos enseñan las campañas publicitarias es cuál es el ideal de belleza femenino. Aprendemos desde una edad muy temprana que debemos invertir cantidades ingentes de tiempo, energías y, sobre todo, dinero, en alcanzar este ideal y sentirnos avergonzadas y culpables cuando fracasamos. (l. 11-15)\n\nSin embargo, la derrota es inevitable. (l. 16)\n\nEl modelo de belleza que nos vende la publicidad está basado en la perfección. Las mujeres en los anuncios no tienen líneas de expresión ni arrugas, ciertamente no tienen cicatrices ni granos y, de hecho, no tienen ni poros. (l. 17-19)\n\nPero lo fundamental de esta perfección es que es inalcanzable. La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\". No lo tenía, y era imposible que lo tuviese, porque su imagen fue creada a lo largo de los años a través del maquillaje y el retoque fotográfico. (l. 20-22)\n\nLas niñas beben este mensaje de perfección desde una edad cada vez más temprana. Necesitan ser no sólo bellas, sino increíblemente delgadas, atractivas y sexuales. Las niñas se sienten a gusto con sus cuerpos cuando tienen 8, 9, 10 años... pero unos años más tarde, en cuanto alcancen la pubertad, se darán de bruces con la cruda realidad. Una realidad que les impondrá un modelo de perfección física inalcanzable. (l. 23-27)\n\nLa pregunta es ¿qué podemos hacer con respecto a esta situación? Lo primero es darnos cuenta de que esta realidad existe, prestar atención y aceptar que nos afecta a todo el mundo. Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública que sólo podrá resolverse cambiando el entorno que nos rodea y esclaviza. (l. 28-31)\n\norbitadiversa.wordpress.com\n\n\"La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\".\" (l. 20-21)\n\nEl habla de la modelo enfatiza la falsedad de las imágenes que se venden en las publicidades. La declaración de Cindy Crawford crea un efecto que se identifica como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eufemístico"
+      },
+      {
+        "letter": "B",
+        "text": "metonímico"
+      },
+      {
+        "letter": "C",
+        "text": "hiperbólico"
+      },
+      {
+        "letter": "D",
+        "text": "paradojal"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A frase afirma algo logicamente contraditório: uma pessoa deseja parecer-se consigo mesma. A contradição só se desfaz quando se percebe que existem duas Cindy Crawford - a mulher real e a imagem publicitária construída por maquiagem e retoque fotográfico -, e que a primeira não consegue parecer-se com a segunda. Esse é o mecanismo do paradoxo: uma afirmação aparentemente absurda que, examinada, revela uma verdade. E é justamente essa verdade que o texto quer demonstrar. Não há atenuação (eufemismo), substituição por contiguidade (metonímia) nem exagero (hipérbole) - a frase é literal.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q30",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 30,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Texto base - BELLEZA INALCANZABLE\n\nLa activista feminista Jean Kilbourne decía en el documental Killing Us Softly que estaba harta de oír la misma pregunta cuando hablaba de la representación de la mujer en los medios: \"Se lleva hablando de este tema cuarenta años. ¿Acaso no han mejorado las cosas?\" Su respuesta era que, tristemente, no sólo debía decir que no, sino que, de hecho, las cosas habían empeorado. Los anuncios ya no sólo venden productos, también venden valores, imágenes y conceptos sobre el amor, la sexualidad, el éxito y quizás, lo que es más importante, venden una imagen de normalidad. (l. 1-7)\n\nLa publicidad, a la que nos vemos expuestos cada día, muestra cuerpos esculturales e irreales como sinónimo de éxito, felicidad e incluso salud. Esta presión socio-cultural, transmitida y potenciada por los medios de comunicación y la publicidad, \"educa\", o más bien adoctrina a la población sobre los beneficios de la imagen y el \"cuerpo perfecto\". (l. 8-10)\n\nY ¿qué nos cuentan los anuncios sobre las mujeres? Nos cuentan que lo primordial en nuestras vidas es nuestro aspecto físico. Pero, antes que nada, lo primero que nos enseñan las campañas publicitarias es cuál es el ideal de belleza femenino. Aprendemos desde una edad muy temprana que debemos invertir cantidades ingentes de tiempo, energías y, sobre todo, dinero, en alcanzar este ideal y sentirnos avergonzadas y culpables cuando fracasamos. (l. 11-15)\n\nSin embargo, la derrota es inevitable. (l. 16)\n\nEl modelo de belleza que nos vende la publicidad está basado en la perfección. Las mujeres en los anuncios no tienen líneas de expresión ni arrugas, ciertamente no tienen cicatrices ni granos y, de hecho, no tienen ni poros. (l. 17-19)\n\nPero lo fundamental de esta perfección es que es inalcanzable. La supermodelo Cindy Crawford dijo: \"Ojalá tuviese el aspecto de Cindy Crawford\". No lo tenía, y era imposible que lo tuviese, porque su imagen fue creada a lo largo de los años a través del maquillaje y el retoque fotográfico. (l. 20-22)\n\nLas niñas beben este mensaje de perfección desde una edad cada vez más temprana. Necesitan ser no sólo bellas, sino increíblemente delgadas, atractivas y sexuales. Las niñas se sienten a gusto con sus cuerpos cuando tienen 8, 9, 10 años... pero unos años más tarde, en cuanto alcancen la pubertad, se darán de bruces con la cruda realidad. Una realidad que les impondrá un modelo de perfección física inalcanzable. (l. 23-27)\n\nLa pregunta es ¿qué podemos hacer con respecto a esta situación? Lo primero es darnos cuenta de que esta realidad existe, prestar atención y aceptar que nos afecta a todo el mundo. Esta obsesión con la belleza, la perfección, la extremada delgadez es un problema de salud pública que sólo podrá resolverse cambiando el entorno que nos rodea y esclaviza. (l. 28-31)\n\norbitadiversa.wordpress.com\n\n\"en cuanto alcancen la pubertad,\" (l. 25-26)\n\nEl conector subrayado se puede sustituir, sin alteración importante de sentido, por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "si"
+      },
+      {
+        "letter": "B",
+        "text": "aunque"
+      },
+      {
+        "letter": "C",
+        "text": "apenas"
+      },
+      {
+        "letter": "D",
+        "text": "mientras"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "\"En cuanto\" é uma locução conjuntiva temporal que indica imediatez: a ação da oração principal ocorre logo que a outra se realiza. \"Apenas\", em espanhol, tem exatamente esse valor temporal de \"assim que\". A troca preserva o sentido do texto, que descreve o choque das meninas com a realidade tão logo chegam à puberdade. \"Si\" introduziria condição, tornando incerto um fato que o texto apresenta como certo; \"aunque\" introduziria concessão; e \"mientras\" indicaria simultaneidade prolongada, e não o momento pontual do início.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q31",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 31,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Onça e libra são unidades de massa do sistema inglês. Sabe-se que 16 onças equivalem a 1 libra e que 0,4 onças é igual a x libras.\n\nO valor de x é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,0125"
+      },
+      {
+        "letter": "B",
+        "text": "0,005"
+      },
+      {
+        "letter": "C",
+        "text": "0,025"
+      },
+      {
+        "letter": "D",
+        "text": "0,05"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A relação entre as unidades é direta: se 16 onças correspondem a 1 libra, então 0,4 onças correspondem a x libras. Montando a proporção 16/1 = 0,4/x, obtém-se x = 0,4/16 = 0,025 libras. O resultado é coerente com a ordem de grandeza esperada: 0,4 onças é uma fração pequena de uma libra.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q32",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 32,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Considere a seguinte construção:\n\n• os quadrados ACFG e ABHI, construídos sobre os catetos, cujas áreas medem, respectivamente, S1 e S2;\n• o triângulo retângulo ABC, com ângulo reto em A;\n• o trapézio retângulo BCDE, construído sobre a hipotenusa BC, que contém o ponto X, com CD e BE perpendiculares a BC.\n\nSabendo que CD = CX e BE = BX, a área do trapézio BCDE é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "(S1 + S2)/2"
+      },
+      {
+        "letter": "B",
+        "text": "(S1 + S2)/3"
+      },
+      {
+        "letter": "C",
+        "text": "S1 · S2"
+      },
+      {
+        "letter": "D",
+        "text": "(S1)² + (S2)²"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A área de um trapézio é a semissoma das bases multiplicada pela altura. Aqui as bases paralelas são CD e BE, ambas perpendiculares a BC, e a altura é o próprio segmento BC. Assim, a área vale (CD + BE)/2 × BC. Como CD = CX e BE = BX, e como X pertence a BC, tem-se CD + BE = CX + BX = BC. Logo, a área é (BC/2) × BC = BC²/2. Pelo Teorema de Pitágoras, BC² = AC² + AB², e como AC² e AB² são exatamente as áreas S1 e S2 dos quadrados construídos sobre os catetos, conclui-se que a área do trapézio é (S1 + S2)/2.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q34",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 34,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "As farmácias W e Y adquirem determinado produto com igual preço de custo. A farmácia W vende esse produto com 50% de lucro sobre o preço de custo. Na farmácia Y, o preço de venda do produto é 80% mais caro do que na farmácia W.\n\nO lucro da farmácia Y em relação ao preço de custo é de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "170%"
+      },
+      {
+        "letter": "B",
+        "text": "150%"
+      },
+      {
+        "letter": "C",
+        "text": "130%"
+      },
+      {
+        "letter": "D",
+        "text": "110%"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Tome o preço de custo como 100. A farmácia W vende com 50% de lucro, logo por 150. O preço de Y é 80% mais caro que o de W: 150 × 1,8 = 270. O lucro de Y sobre o custo é 270 - 100 = 170, ou seja, 170% do preço de custo. O erro comum é somar os percentuais (50% + 80% = 130%), o que ignora que os 80% incidem sobre o preço já acrescido de W, e não sobre o custo.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q35",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 35,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Admitindo um retângulo cujos lados medem a e b, sendo a < b, é possível formar uma sequência ilimitada de retângulos da seguinte forma: a partir do primeiro, cada novo retângulo é construído acrescentando-se um quadrado cujo lado é igual ao maior lado do retângulo anterior.\n\nA linha poligonal P1P2P3P4P5P6, formada pelos lados dos retângulos, tem seus segmentos dados pelos elementos da sequência (a, b, a + b, a + 2b, 2a + 3b).\n\nMantendo o mesmo padrão de construção, o comprimento da linha poligonal P1P2P3P4P5P6P7, de P1 até o vértice P7, é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5a + 7b"
+      },
+      {
+        "letter": "B",
+        "text": "8a + 12b"
+      },
+      {
+        "letter": "C",
+        "text": "13a + 20b"
+      },
+      {
+        "letter": "D",
+        "text": "21a + 33b"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A sequência dada é do tipo de Fibonacci: cada termo é a soma dos dois anteriores. De fato, a + b = a + b; b + (a + b) = a + 2b; e (a + b) + (a + 2b) = 2a + 3b. O termo seguinte é, portanto, (a + 2b) + (2a + 3b) = 3a + 5b. A linha P1...P6 tem cinco segmentos, cuja soma é a + b + (a + b) + (a + 2b) + (2a + 3b) = 5a + 7b - o valor da alternativa (A), que corresponde à poligonal anterior. Acrescentando o sexto segmento para chegar a P7: 5a + 7b + 3a + 5b = 8a + 12b.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q36",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 36,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Cinco cartas de um baralho estão sobre uma mesa; duas delas são Reis. Após serem viradas para baixo e embaralhadas, uma pessoa retira uma dessas cartas ao acaso e, em seguida, retira outra.\n\nA probabilidade de sair Rei apenas na segunda retirada equivale a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/2"
+      },
+      {
+        "letter": "B",
+        "text": "1/3"
+      },
+      {
+        "letter": "C",
+        "text": "2/5"
+      },
+      {
+        "letter": "D",
+        "text": "3/10"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O evento exige duas condições simultâneas: a primeira carta não pode ser Rei e a segunda tem de ser. Na primeira retirada há 3 cartas que não são Reis entre 5, o que dá probabilidade 3/5. Retirada essa carta, restam 4 sobre a mesa, das quais 2 são Reis, e a probabilidade da segunda condição é 2/4 = 1/2. Como se trata de retiradas sem reposição, multiplicam-se as probabilidades: (3/5) × (1/2) = 3/10.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q37",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 37,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Por conta de um incêndio, uma floresta teve sua vegetação totalmente destruída. Ao longo do tempo, foram observadas alterações no número e na diversidade de espécies vegetais no local, com a área passando de rocha nua a líquens e musgos, depois a ervas e pequenos arbustos, em seguida a mata com arbustos e, por fim, a pinheiros e carvalhos.\n\nEssas alterações caracterizam o fenômeno denominado:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "eutrofização"
+      },
+      {
+        "letter": "B",
+        "text": "amensalismo"
+      },
+      {
+        "letter": "C",
+        "text": "magnificação trófica"
+      },
+      {
+        "letter": "D",
+        "text": "sucessão ecológica"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A substituição ordenada de comunidades ao longo do tempo em um mesmo local é a sucessão ecológica. Cada etapa modifica as condições do ambiente - os líquens e musgos das espécies pioneiras decompõem a rocha e formam solo, permitindo a instalação de ervas, depois de arbustos e finalmente de árvores -, até se chegar à comunidade clímax. Como aqui o processo se dá sobre área que já abrigara vegetação, trata-se de uma sucessão secundária. A eutrofização é o enriquecimento de corpos d'água por nutrientes; o amensalismo é uma relação entre duas espécies; e a magnificação trófica descreve o acúmulo de substâncias tóxicas ao longo da cadeia alimentar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q38",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 38,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Observe o diagrama das etapas de variação da temperatura e de mudanças de estado físico de uma esfera sólida, em função do calor por ela recebido. As etapas A, B, C e D se sucedem no diagrama: em A e C a temperatura sobe, e em B e D a temperatura permanece constante. Admita que a esfera é constituída por um metal puro.\n\nDurante a etapa D, ocorre a seguinte mudança de estado físico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fusão"
+      },
+      {
+        "letter": "B",
+        "text": "sublimação"
+      },
+      {
+        "letter": "C",
+        "text": "condensação"
+      },
+      {
+        "letter": "D",
+        "text": "vaporização"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Num diagrama de aquecimento, os trechos inclinados correspondem a variações de temperatura dentro de um mesmo estado, e os patamares horizontais, às mudanças de estado, em que todo o calor recebido é usado para romper as ligações entre as partículas. Partindo do sólido, a etapa A é o aquecimento do sólido; B, o patamar da fusão; C, o aquecimento do líquido; e D, o segundo patamar, correspondente à vaporização. Sublimação está excluída porque exigiria a passagem direta de sólido a gasoso, sem as etapas intermediárias; e condensação seria o processo inverso, com liberação de calor, incompatível com uma esfera que recebe energia.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q39",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 39,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O cloreto de sódio, principal composto obtido no processo de evaporação da água do mar, apresenta a fórmula química NaCl.\n\nEsse composto pertence à seguinte função química:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sal"
+      },
+      {
+        "letter": "B",
+        "text": "base"
+      },
+      {
+        "letter": "C",
+        "text": "ácido"
+      },
+      {
+        "letter": "D",
+        "text": "óxido"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Sais são compostos formados por um cátion diferente de H⁺ e um ânion diferente de OH⁻, resultantes da neutralização entre um ácido e uma base. O NaCl é formado pelo cátion Na⁺ e pelo ânion Cl⁻, produto da reação entre HCl e NaOH. Não é base, pois não possui hidroxila; não é ácido, pois não libera H⁺ em solução; e não é óxido, pois não contém oxigênio.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q40",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 40,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um carro se desloca ao longo de uma reta. Sua velocidade varia linearmente com o tempo: no instante t = 0 a velocidade vale 5 m/s e, no instante t = 12 s, vale 20 m/s.\n\nA função que indica o deslocamento do carro em relação ao tempo t é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5t - 0,55t²"
+      },
+      {
+        "letter": "B",
+        "text": "5t + 0,625t²"
+      },
+      {
+        "letter": "C",
+        "text": "20t - 1,25t²"
+      },
+      {
+        "letter": "D",
+        "text": "20t + 2,5t²"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Como a velocidade varia linearmente, o movimento é uniformemente variado. A aceleração é a taxa de variação da velocidade: a = (20 - 5)/12 = 15/12 = 1,25 m/s². A função horária do deslocamento, partindo da posição inicial nula, é s = v₀t + (a/2)t². Substituindo v₀ = 5 m/s e a/2 = 0,625: s = 5t + 0,625t². As alternativas (C) e (D) usariam v₀ = 20 m/s, que é a velocidade final e não a inicial, e o sinal negativo em (A) e (C) indicaria desaceleração, incompatível com uma velocidade crescente.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q41",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 41,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Em estações de tratamento de água, é feita a adição de compostos de flúor para prevenir a formação de cáries. Dentre os compostos mais utilizados, destaca-se o ácido fluossilícico, cuja fórmula molecular corresponde a H2SiF6.\n\nO número de oxidação do silício nessa molécula é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "+1"
+      },
+      {
+        "letter": "B",
+        "text": "+2"
+      },
+      {
+        "letter": "C",
+        "text": "+4"
+      },
+      {
+        "letter": "D",
+        "text": "+6"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A soma dos números de oxidação em uma molécula neutra é zero. O hidrogênio ligado a não metais tem nox +1, e os dois átomos contribuem com +2. O flúor, elemento mais eletronegativo da tabela periódica, tem sempre nox -1, e os seis átomos somam -6. Assim, +2 + x + (-6) = 0, o que dá x = +4 para o silício - valor coerente com sua posição no grupo 14 e com o nox que apresenta na maioria de seus compostos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q42",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 42,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em um experimento, os blocos I e II, de massas iguais a 10 kg e a 6 kg, respectivamente, estão interligados por um fio ideal sobre uma superfície S. Em um primeiro momento, uma força de intensidade F igual a 64 N é aplicada no bloco I, gerando no fio uma tração TA. Em seguida, uma força de mesma intensidade F é aplicada no bloco II, produzindo a tração TB.\n\nDesconsiderando os atritos entre os blocos e a superfície S, a razão entre as trações TA/TB corresponde a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9/10"
+      },
+      {
+        "letter": "B",
+        "text": "4/7"
+      },
+      {
+        "letter": "C",
+        "text": "3/5"
+      },
+      {
+        "letter": "D",
+        "text": "8/13"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em ambos os casos o sistema tem massa total 10 + 6 = 16 kg e recebe a mesma força de 64 N, de modo que a aceleração é sempre a = 64/16 = 4 m/s². A tração no fio é a força necessária para acelerar apenas o bloco que está sendo puxado por ele. No primeiro caso, F atua no bloco I e o fio puxa o bloco II: TA = 6 × 4 = 24 N. No segundo, F atua no bloco II e o fio puxa o bloco I: TB = 10 × 4 = 40 N. A razão é TA/TB = 24/40 = 3/5.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q43",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 43,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A corrente elétrica no enrolamento primário de um transformador corresponde a 10 A, enquanto no enrolamento secundário corresponde a 20 A. Sabendo que o enrolamento primário possui 1200 espiras, o número de espiras do enrolamento secundário é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "600"
+      },
+      {
+        "letter": "B",
+        "text": "1200"
+      },
+      {
+        "letter": "C",
+        "text": "2400"
+      },
+      {
+        "letter": "D",
+        "text": "3600"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Num transformador ideal a potência se conserva, o que leva à relação N1 · i1 = N2 · i2 (as espiras e as correntes são inversamente proporcionais). Substituindo: 1200 × 10 = N2 × 20, logo N2 = 12000/20 = 600 espiras. O resultado é coerente: como a corrente dobrou no secundário, a tensão caiu pela metade, e o número de espiras teve de cair na mesma proporção - trata-se de um transformador abaixador de tensão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q44",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 44,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "O processo de dispersão de sementes é encontrado na maioria das espécies vegetais.\n\nUma vantagem evolutiva decorrente desse processo é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "produção de flores vistosas"
+      },
+      {
+        "letter": "B",
+        "text": "conquista de novos ambientes"
+      },
+      {
+        "letter": "C",
+        "text": "desenvolvimento de frutos secos"
+      },
+      {
+        "letter": "D",
+        "text": "fecundação independente da água"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Levar as sementes para longe da planta-mãe permite que a espécie ocupe áreas ainda não colonizadas, ampliando sua distribuição geográfica, e ao mesmo tempo reduz a competição por luz, água e nutrientes entre a nova planta e a que a originou. Essa é a vantagem evolutiva da dispersão. Flores vistosas e frutos secos são características que podem auxiliar na polinização ou na própria dispersão, mas são mecanismos, não vantagens decorrentes dela; e a independência da água na fecundação deve-se ao tubo polínico, característica das plantas com semente que não guarda relação com a dispersão.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q46",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 46,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Em células eucariotas, a cromatina pode se apresentar como eucromatina, uma forma não espiralada, ou como heterocromatina, uma forma muito espiralada. Na metáfase, muitas regiões de eucromatina se transformam em heterocromatina, formando cromossomos bastante espiralados.\n\nConsiderando uma mitose típica, a formação do cromossomo bastante espiralado favorece o seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "transcrição dos genes pela RNA polimerase"
+      },
+      {
+        "letter": "B",
+        "text": "distribuição do DNA para células-filhas"
+      },
+      {
+        "letter": "C",
+        "text": "síntese de proteínas nos ribossomos"
+      },
+      {
+        "letter": "D",
+        "text": "redução do cariótipo original"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O DNA de uma célula humana mede cerca de dois metros quando distendido. Espiralado ao máximo na metáfase, ele se compacta em estruturas curtas e resistentes, que podem ser puxadas pelas fibras do fuso sem se romper ou se emaranhar - o que garante a separação correta das cromátides-irmãs e a distribuição equitativa do material genético para as células-filhas. A alternativa (A) descreve o oposto: a transcrição exige a cromatina descondensada, pois a RNA polimerase precisa acessar as bases. A síntese proteica não depende do grau de espiralização, e a redução do cariótipo é característica da meiose, não da mitose.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q47",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 47,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A hemoglobina é uma proteína de elevada massa molar, responsável pelo transporte de oxigênio na corrente sanguínea. Esse transporte pode ser representado pela equação química abaixo, em que HB corresponde à hemoglobina.\n\nHB + 4 O2 → HB(O2)4\n\nEm um experimento, constatou-se que 1 g de hemoglobina é capaz de transportar 2,24 × 10⁻⁴ L de oxigênio molecular com comportamento ideal, nas CNTP.\n\nA massa molar, em g/mol, da hemoglobina utilizada no experimento é igual a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 × 10⁵"
+      },
+      {
+        "letter": "B",
+        "text": "2 × 10⁵"
+      },
+      {
+        "letter": "C",
+        "text": "3 × 10⁵"
+      },
+      {
+        "letter": "D",
+        "text": "4 × 10⁵"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Nas CNTP, 1 mol de gás ideal ocupa 22,4 L. A quantidade de oxigênio transportada é, portanto, 2,24 × 10⁻⁴ / 22,4 = 1 × 10⁻⁵ mol. Pela estequiometria da equação, cada mol de hemoglobina carrega 4 mols de O2, de modo que a quantidade de hemoglobina é 1 × 10⁻⁵ / 4 = 2,5 × 10⁻⁶ mol. Como essa quantidade corresponde a 1 g, a massa molar é 1 / (2,5 × 10⁻⁶) = 4 × 10⁵ g/mol. O valor é compatível com o enunciado, que descreve a hemoglobina como proteína de elevada massa molar.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q48",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 48,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "MISÉRIA EM REVOLTA. MOVIMENTO GREVISTA ASSUME CADA VEZ MAIORES PROPORÇÕES.\n\nApresenta-se com aspecto cada vez mais alarmante o movimento que começou no Cotonifício Crespi e se propagou a outras fábricas em número avultado. Não há como negar a justiça do movimento grevista. São suas causas inegáveis: salários baixos e vida caríssima. Com elas coincide a época de ouro da indústria, que trabalha como nunca e tem lucros como jamais. Censuram-se as violências dos grevistas. Entretanto, no fundo, não se encontraria uma justificação para essa atitude? Pais de família que vivem sendo explorados pelos patrões, que veem os industriais fazendo-se milionários à custa de seu suor e de sua miséria.\nO Combate, 12/07/1917. Adaptado de memoria.bn.br.\n\nDE GREVE EM GREVE\n\nAo longo da história republicana, vários movimentos sociais preferiram interpretação própria da modernização, como expansão de direitos. E agiram para converter ideia em fato. São Paulo viu isso em 1917, quando assistiu a sua primeira greve geral. A cidade parou. Aderiram categorias em cascata, demandantes de melhoras salariais e de condições de trabalho. Manifestantes daquele tempo se parecem mais com os de hoje do que se possa imaginar. A resposta das autoridades de então também segue a moda. Em 1917, um jovem sapateiro espanhol foi baleado no estômago. Em 2017, um estudante teve a cabeça golpeada com um cassetete. O enterro do sapateiro virou a maior manifestação de protesto que os paulistanos tinham visto até então. Já na greve geral de abril de 2017, 35 milhões de pessoas pararam, segundo os sindicatos.\nANGELA ALONSO. Adaptado de Folha de São Paulo, 07/05/2017.\n\nAs matérias jornalísticas referem-se a movimentos grevistas ocorridos no Brasil nos anos de 1917 e 2017, apresentando contextos diretamente associados aos conflitos entre capital e trabalho em área urbana. Tendo como base essas matérias, as principais semelhanças entre os dois contextos mencionados se relacionam aos seguintes fatores:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "precarização salarial e ampliação da regulação estatal"
+      },
+      {
+        "letter": "B",
+        "text": "aumento do desemprego e revisão de leis trabalhistas"
+      },
+      {
+        "letter": "C",
+        "text": "repressão policial e relevância das reivindicações populares"
+      },
+      {
+        "letter": "D",
+        "text": "ilegalidade da ação sindical e desqualificação da mão de obra"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O segundo texto estabelece o paralelo de modo explícito: em 1917 um sapateiro espanhol foi baleado no estômago; em 2017 um estudante teve a cabeça golpeada com um cassetete - a violência oficial contra os manifestantes, que a autora resume dizendo que \"a resposta das autoridades de então também segue a moda\". A segunda semelhança é a adesão massiva: em 1917 \"a cidade parou\" e o enterro do sapateiro reuniu a maior manifestação já vista até então; em 2017, 35 milhões de pessoas pararam. As pautas, ademais, são reconhecidas como justas, como afirma o jornal de 1917. As demais alternativas apontam fatores que não são comuns aos dois momentos ou que não aparecem nos textos.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q49",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 49,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "Considere dois mapas dos Estados Unidos. O primeiro apresenta os empregos mais comuns dos imigrantes em 2013: trabalhadores agrícolas, zeladores, operários da construção civil, enfermeiros, cuidadores, embaladores, motoristas de caminhão, caixas de mercado, cozinheiros, balconistas, empregados domésticos, professores, desenvolvedores de softwares e açougueiros. O segundo mostra a taxa de desemprego no país em 2017, cuja média era de 4,5%.\n\nAdaptado de vox.com e bls.gov.\n\nO atual presidente norte-americano defende uma política migratória que, segundo ele, irá reduzir os patamares do desemprego no país. Considerando as informações dos mapas e as características socioeconômicas dessa nação, existe fundamento para avaliar a eficácia dessa política como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alta, dado o percentual significativo de ociosidade nas unidades industriais"
+      },
+      {
+        "letter": "B",
+        "text": "baixa, dado o índice inexpressivo de estrangeiros nas populações regionais"
+      },
+      {
+        "letter": "C",
+        "text": "reduzida, dado o nível baixo de qualificação das ocupações dos não nacionais"
+      },
+      {
+        "letter": "D",
+        "text": "elevada, dado o perfil terciário predominante da economia das grandes cidades"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A lista de ocupações dos imigrantes é dominada por trabalhos manuais de baixa remuneração e pouca exigência de escolaridade: trabalhador agrícola, zelador, operário da construção, embalador, empregado doméstico, cozinheiro, balconista. São postos que a população nativa, mais qualificada, em geral não disputa. Restringir a imigração, portanto, não devolveria empregos aos americanos desempregados - apenas deixaria essas vagas descobertas. A eficácia da política é, assim, reduzida. A alternativa (B) contraria o peso demográfico dos imigrantes nos Estados Unidos, e (A) e (D) sustentam uma eficácia elevada que as ocupações listadas não autorizam.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q50",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 50,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Nos quadrinhos de Quino, uma criança à beira-mar pergunta ao pai: \"Pai, do outro lado do mar é a África. Não é?\". O pai responde: \"É\". A criança conclui: \"Ou elas foram dormir cedo ou as girafas não têm o pescoço tão comprido como eu imaginava\".\n\nAdmita que os personagens dos quadrinhos estão olhando para o leste. Dessa forma, eles estão localizados em uma praia situada no litoral da:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "América do Sul"
+      },
+      {
+        "letter": "B",
+        "text": "Ásia das Monções"
+      },
+      {
+        "letter": "C",
+        "text": "Europa Setentrional"
+      },
+      {
+        "letter": "D",
+        "text": "Austrália Meridional"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pergunta fixa duas condições: os personagens olham para o leste e, nessa direção, do outro lado do mar, está a África. É preciso então localizar um litoral situado a oeste do continente africano, separado dele por um oceano. Esse oceano é o Atlântico, e a costa que se encontra a oeste dele é a da América do Sul - cujo litoral leste está, de fato, voltado para a África. As demais alternativas não satisfazem a condição: a Ásia das Monções e a Austrália estão a leste do continente africano, e a Europa Setentrional fica ao norte, sem contato oceânico direto nessa direção.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q51",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 51,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "A ROSA DE HIROSHIMA\n\nPensem nas crianças / Mudas telepáticas / Pensem nas meninas / Cegas inexatas / Pensem nas mulheres / Rotas alteradas / Pensem nas feridas / Como rosas cálidas / Mas oh não se esqueçam / Da rosa da rosa / Da rosa de Hiroshima / A rosa hereditária / A rosa radioativa / Estúpida e inválida / A rosa com cirrose / A antirrosa atômica / Sem cor sem perfume / Sem rosa sem nada\nVINICIUS DE MORAES. viniciusdemoraes.com.br\n\nCOREIA DO NORTE REALIZA SEU MAIOR TESTE NUCLEAR\n\nA Coreia do Norte realizou seu maior teste nuclear em setembro de 2016 e informou ter dominado a habilidade de montar uma ogiva em míssil balístico. O teste aumenta a instabilidade na Ásia e preocupa os países da região, sobretudo Coreia do Sul, China e Japão. E.U.A., Rússia e Organização das Nações Unidas (ONU) também condenaram o teste nuclear. A explosão, no dia da comemoração dos 68 anos da fundação do país, foi mais poderosa que a bomba detonada em Hiroshima, de acordo com estimativas do Ministério de Defesa da Coreia do Sul. A explosão foi tão forte que provocou um terremoto de 5 graus na escala Richter no local do teste.\nAdaptado de veja.abril.com.br, 09/09/2016.\n\nO poema de Vinícius de Moraes alude ao lançamento da primeira bomba atômica sobre a cidade japonesa de Hiroshima, em 1945. Mesmo com os acordos de restrição ao uso desse tipo de armamento, os dispositivos nucleares ainda desestabilizam as relações internacionais, como descreve a reportagem. Com base nos textos, a principal motivação do governo da Coreia do Norte em testar esses dispositivos e o efeito que esses testes provocam são, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão do território no Extremo Oriente - agressão à população civil"
+      },
+      {
+        "letter": "B",
+        "text": "preservação das fronteiras políticas nacionais - ruína da produção agrícola"
+      },
+      {
+        "letter": "C",
+        "text": "competição da indústria local com outros países asiáticos - poluição do meio ambiente"
+      },
+      {
+        "letter": "D",
+        "text": "demonstração de poder aos governos vizinhos - impacto duradouro da radioatividade"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A reportagem indica a motivação ao registrar que o teste \"aumenta a instabilidade na Ásia e preocupa os países da região, sobretudo Coreia do Sul, China e Japão\", e que foi realizado no dia da comemoração da fundação do país: trata-se de dissuasão, isto é, de demonstrar poder militar aos governos vizinhos. O efeito aparece no poema, que insiste no caráter permanente do dano nuclear - a \"rosa hereditária\", \"radioativa\", que atravessa gerações. A alternativa (D) reúne os dois elementos. As demais atribuem à Coreia do Norte objetivos territoriais ou comerciais que os textos não sustentam, ou reduzem o efeito das armas nucleares a danos agrícolas e ambientais pontuais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q53",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 53,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cultura e Sociedade"
+    ],
+    "statement": "CONVENÇÃO RATIFICADA PELO BRASIL EM 2004\n\nAplica-se aos povos tribais em países independentes, cujas condições culturais, sociais e econômicas os distingam de outros setores da coletividade nacional, e que estejam regidos, total ou parcialmente, por seus próprios costumes ou tradições; aos povos em países independentes, considerados indígenas pelo fato de descenderem de populações que habitavam o país ou uma região geográfica na época da conquista ou da colonização. A consciência de sua identidade indígena ou tribal deverá ser considerada como critério fundamental para determinar os grupos aos que se aplicam as disposições da presente Convenção.\nORGANIZAÇÃO INTERNACIONAL DO TRABALHO, 1989. Adaptado de planalto.gov.br.\n\nA questão é acompanhada de um gráfico da população indígena no Brasil (dados da Funai), que registra crescimento expressivo entre 2000 e 2010, tanto no litoral quanto no interior.\n\nA partir do exposto no texto, a mudança nos dados demográficos apresentados no gráfico entre 2000 e 2010 está associada à seguinte atitude:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promoção da permanência de grupos nativos nas áreas de reserva"
+      },
+      {
+        "letter": "B",
+        "text": "adoção da autodeclaração como critério de pertencimento étnico"
+      },
+      {
+        "letter": "C",
+        "text": "aprimoramento do controle jurídico nos processos de demarcação de terras"
+      },
+      {
+        "letter": "D",
+        "text": "ampliação do processo de preservação das tradições das comunidades da floresta"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A Convenção 169 da OIT, ratificada pelo Brasil em 2004, estabelece que \"a consciência de sua identidade indígena ou tribal deverá ser considerada como critério fundamental\" de reconhecimento. O pertencimento deixa, assim, de depender de avaliação externa - traços físicos, língua, local de moradia - e passa a ser definido pela própria pessoa. Adotado nos censos, esse critério de autodeclaração fez crescer o número de indígenas contabilizados, sem que houvesse crescimento vegetativo correspondente: pessoas que antes não eram classificadas como indígenas passaram a declarar-se assim, inclusive nas cidades e no litoral. As demais alternativas tratam de políticas fundiárias ou culturais que não alteram a forma de contagem da população.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q54",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 54,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "Considere um mapa em que o tamanho de cada país é proporcional ao apoio financeiro recebido dos Estados Unidos em 2015, em milhões de dólares. Entre os valores registrados estão: Israel US$ 3.100; Egito US$ 1.500; Afeganistão US$ 1.100; Jordânia US$ 1.000; Paquistão US$ 933; Nigéria US$ 703; Tanzânia US$ 588; Uganda US$ 489; Etiópia US$ 478; Iraque US$ 373; Colômbia US$ 325; Haiti US$ 291; México US$ 207; Síria US$ 155; Líbano US$ 156; Polônia US$ 16; Brasil US$ 14.\n\nAdaptado de vox.com.\n\nNa região do mundo onde estão localizados os quatro países mais beneficiados pelo apoio financeiro dos Estados Unidos, o principal motivo utilizado para a concessão desse apoio é de natureza:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cultural"
+      },
+      {
+        "letter": "B",
+        "text": "geopolítica"
+      },
+      {
+        "letter": "C",
+        "text": "humanitária"
+      },
+      {
+        "letter": "D",
+        "text": "demográfica"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os quatro maiores beneficiários - Israel, Egito, Afeganistão e Jordânia - situam-se todos no Oriente Médio e em suas imediações, região estratégica pelas reservas de petróleo, pelo controle de rotas marítimas e pela presença de conflitos que afetam diretamente os interesses norte-americanos. O apoio sustenta aliados e assegura influência e bases militares na área, o que caracteriza motivação geopolítica. A natureza humanitária é descartada pela própria lista: países bem mais pobres, em situação de emergência, recebem quantias muito inferiores, e Israel, o maior beneficiário, tem elevada renda per capita. Critérios culturais e demográficos tampouco explicam a distribuição.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q55",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 55,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Naquele Império, a arte da cartografia alcançou tal perfeição que o mapa de uma única província ocupava uma cidade inteira, e o mapa do Império uma província inteira. Com o tempo, estes mapas desmedidos não bastaram e os colégios de cartógrafos levantaram um mapa do Império que tinha o tamanho do Império e coincidia com ele ponto por ponto. Menos dedicadas ao estudo da cartografia, as gerações seguintes decidiram que esse dilatado mapa era inútil e não sem impiedade entregaram-no às inclemências do sol e dos invernos. Nos desertos do oeste perduram despedaçadas ruínas do mapa habitadas por animais e por mendigos.\n\nBORGES, J. L. Sobre o rigor na ciência. Em: História universal da infâmia. Lisboa: Assírio e Alvim, 1982.\n\nNo conto de Jorge Luís Borges, apresenta-se uma reflexão sobre as funções da linguagem cartográfica para o conhecimento geográfico. A compreensão do conto leva à conclusão de que um mapa do tamanho exato do Império se tornava desnecessário pelo seguinte motivo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "extensão da grandeza do território político"
+      },
+      {
+        "letter": "B",
+        "text": "imprecisão da localização das regiões administrativas"
+      },
+      {
+        "letter": "C",
+        "text": "precariedade de instrumentos de orientação tridimensional"
+      },
+      {
+        "letter": "D",
+        "text": "equivalência da proporcionalidade da representação espacial"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A utilidade de um mapa está na redução: ele representa o espaço em escala menor, permitindo abarcar num só olhar o que não se pode ver de outro modo. Um mapa que \"tinha o tamanho do Império e coincidia com ele ponto por ponto\" tem escala 1:1 e, por isso, não simplifica nada - equivale ao próprio território e não pode ser transportado, consultado nem abrangido pela vista. É essa equivalência entre representação e realidade que o torna inútil, como perceberam as gerações seguintes. O problema não é a grandeza do território nem a falta de precisão ou de instrumentos: o mapa era, ao contrário, perfeitamente exato.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q56",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 56,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "Em uma cidade contemporânea, desenrolam-se, há muitas décadas, os processos paralelos de atomização e massificação. Na esteira deles, a cidade foi deixando de ser um mosaico de bairros coerentes, cada um polarizado por sua própria centralidade, até se chegar à cidade como um todo, nitidamente polarizada por seu Central Business District (CBD - Distrito Central de Negócios), para se tornar, hoje, uma estrutura muito mais complexa e difícil de resumir. Muitos bairros viram seus centros de comércio e serviços desaparecerem ou serem reduzidos à irrelevância e, não raro, o próprio CBD perder prestígio e decair.\n\nAdaptado de SOUZA, M. L. Os conceitos fundamentais da pesquisa sócio-espacial. Rio de Janeiro: Bertrand Brasil, 2015.\n\nA transformação para a atual estrutura interna das metrópoles, descrita no texto, é evidenciada pelo seguinte processo:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expansão dos shopping centers"
+      },
+      {
+        "letter": "B",
+        "text": "redução dos movimentos pendulares"
+      },
+      {
+        "letter": "C",
+        "text": "modernização dos transportes de massa"
+      },
+      {
+        "letter": "D",
+        "text": "retração dos mecanismos de segregação"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto descreve a passagem de uma cidade com centro único para uma estrutura policêntrica, em que tanto os antigos centros de bairro quanto o próprio CBD perdem importância. Os shopping centers explicam esse duplo movimento: concentram comércio e serviços em pontos dispersos pela metrópole, esvaziando as ruas comerciais dos bairros e disputando funções com o centro tradicional, ao qual deixam de estar subordinados. São, assim, as novas centralidades da cidade fragmentada. A alternativa (B) contraria a dinâmica descrita, já que a dispersão tende a multiplicar os deslocamentos; e nem os transportes de massa nem a segregação são discutidos no texto - esta última, aliás, costuma se acentuar nesse tipo de reestruturação.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q57",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 57,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "A integração da União Europeia começou oficialmente em 1957 e durante décadas houve um movimento contínuo de ampliação das liberdades de circulação de riquezas. Em 1991 entrou em vigor o Acordo Schengen. Nos últimos anos, no entanto, o bloco vem enfrentando dificuldades que sinalizam a possibilidade de retrocessos:\n\n\"2016 - A Alemanha e outros países da União Europeia estenderam por mais três meses o controle em suas fronteiras. Além da Alemanha, também Áustria, Dinamarca, Suécia e Noruega (que não faz parte da UE) vão continuar com o controle temporário de suas fronteiras, após o aval do Conselho Europeu. Todos esses países fazem parte da zona de livre-circulação prevista no Acordo Schengen.\"\nAdaptado de g1.globo.com e cvce.eu.\n\nConsiderando os eventos ocorridos nesse continente nos últimos cinco anos, a explicação para a mudança exposta na notícia é a necessidade de controle dos fluxos de:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "capitais"
+      },
+      {
+        "letter": "B",
+        "text": "serviços"
+      },
+      {
+        "letter": "C",
+        "text": "pessoas"
+      },
+      {
+        "letter": "D",
+        "text": "mercadorias"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O Acordo Schengen suprimiu justamente o controle de pessoas nas fronteiras internas do bloco; restabelecê-lo significa restringir esse fluxo, e não o de capitais, serviços ou mercadorias, regulados por outros instrumentos e não afetados pela medida. A causa imediata foi a crise migratória de 2015, quando mais de um milhão de refugiados - sobretudo sírios, afegãos e iraquianos - chegaram à Europa. Uma vez dentro do espaço Schengen, podiam circular livremente, e países de destino como Alemanha, Áustria, Suécia e Dinamarca passaram a reinstituir a fiscalização em suas fronteiras.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q58",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 58,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "O grafite é uma manifestação artística com múltiplas expressões, dentre elas a crítica político-social, bastante presente nas obras de Banksy, por exemplo. Em um evento na cidade de Belém, ao sul de Jerusalém, Banksy e outros artistas grafitaram parte do muro que envolve a Cisjordânia e seus arredores, tendo o contexto local como tema comum.\n\nO lugar escolhido e as imagens grafitadas são evidências da oposição do artista ao seguinte aspecto do conflito nessa região:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "radicalismo de posições no embate de sistemas religiosos"
+      },
+      {
+        "letter": "B",
+        "text": "assimetria de poder no processo de segregação territorial"
+      },
+      {
+        "letter": "C",
+        "text": "ausência de legalidade no enfrentamento de forças militares"
+      },
+      {
+        "letter": "D",
+        "text": "excesso de burocracia no encaminhamento de negociação diplomática"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O suporte escolhido é o próprio objeto da crítica. O muro erguido por Israel na Cisjordânia separa territórios, restringe a circulação dos palestinos e altera unilateralmente a ocupação da terra - um instrumento de segregação imposto por quem detém a força militar e institucional sobre quem não a detém. Grafitá-lo é subverter essa barreira, transformando o símbolo do controle em suporte de denúncia. A oposição do artista dirige-se, portanto, à assimetria de poder no processo de segregação territorial. A questão em jogo não é doutrinária, e sim territorial e política, o que afasta a alternativa (A), e o muro é resultado de decisão estatal, não de ausência de legalidade ou de entrave burocrático.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q59",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 59,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "O Monumento à Independência, localizado em São Paulo, foi criado em 1922 para as comemorações do centenário da emancipação política brasileira. O projeto vencedor, sem a aprovação unânime da comissão julgadora, foi alterado e teve de incluir episódios e personalidades vinculados ao processo da independência, tais como: na lateral esquerda do monumento, passaram a figurar os inconfidentes mineiros (1789); na lateral direita, os revolucionários pernambucanos (1817). Na face frontal, permaneceram as esculturas \"Independência ou Morte\" e \"Marcha Triunfal da Nação Brasileira\".\n\nOs contextos políticos nos quais são criados os monumentos interferem na valorização de determinadas interpretações sobre as experiências históricas por eles representadas. As mudanças realizadas no projeto original do Monumento à Independência expressam o seguinte interesse das autoridades governamentais da época:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reconhecimento da liderança de D. Pedro nas lutas pela autonomia"
+      },
+      {
+        "letter": "B",
+        "text": "culto à identidade nacional instituída pela centralização monárquica"
+      },
+      {
+        "letter": "C",
+        "text": "alusão ao ideário republicano presente em episódios anteriores ao grito do Ipiranga"
+      },
+      {
+        "letter": "D",
+        "text": "valorização da participação popular no processo de separação entre Brasil e Portugal"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O monumento foi encomendado em 1922, sob a República, e as figuras acrescentadas não são fortuitas: a Inconfidência Mineira (1789) e a Revolução Pernambucana (1817) foram os dois grandes movimentos de nítido caráter republicano do período colonial. Incluí-los ao lado do Grito do Ipiranga constrói uma linhagem que faz da independência o resultado de aspirações republicanas anteriores a 1822, e não obra exclusiva de um príncipe português. O acréscimo, portanto, relativiza o protagonismo monárquico - o que exclui as alternativas (A) e (B) - e não se refere à participação popular, já que os dois movimentos foram conduzidos por elites locais.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
+    "id": "uerj-2018-eq1-q60",
+    "exam": "uerj",
+    "year": 2018,
+    "originalNumber": 60,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "O trabalhador brasileiro nunca me decepcionou. Diligente, apto a aprender e a executar com enorme facilidade, sabe ser, também, bom patriota. A essas disposições o Governo responde com uma política trabalhista que não divide, não discrimina, mas, ao contrário, congrega a todos, conciliando interesses no plano superior do engrandecimento nacional. À medida que impulsionamos as forças da produção para favorecer o progresso geral e unificar economicamente o país, organizamos o trabalho, disciplinamo-lo sem compressões inúteis, afastando a luta de classes e estabelecendo as verdadeiras bases da justiça social. A ampliação e o reforçamento das leis de previdência são, para nós, uma preocupação constante. Este sentido de aperfeiçoamento se patenteia nas seguintes leis recentemente elaboradas e sujeitas agora à revisão final para promulgação: \"Consolidação das leis do trabalho\", \"Lei orgânica de previdência social\" e \"Salário adicional para a indústria\".\n\nDiscurso de Getúlio Vargas pronunciado no dia 1º de maio de 1943. Adaptado de biblioteca.presidencia.gov.br.\n\nO governo de Getúlio Vargas (1930-1945) realizou muitas vezes comemorações públicas e pronunciamentos no dia 1º de maio. O trecho do discurso proferido pelo então presidente possibilita compreender alguns dos objetivos centrais da política trabalhista estabelecida. Esses objetivos viabilizaram os seguintes resultados:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "controle dos lucros empresariais e redistribuição de renda"
+      },
+      {
+        "letter": "B",
+        "text": "garantia da regularidade da remuneração e erradicação da informalidade laboral"
+      },
+      {
+        "letter": "C",
+        "text": "universalização da assistência hospitalar e promoção do acesso à educação pública"
+      },
+      {
+        "letter": "D",
+        "text": "regulação estatal dos sindicatos e concessão de benefícios para o operariado urbano"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os dois resultados aparecem no próprio discurso. Quando Vargas diz que o governo \"organiza\" e \"disciplina\" o trabalho, \"afastando a luta de classes\", descreve a submissão dos sindicatos ao Estado - o sindicalismo atrelado ao Ministério do Trabalho, com imposto sindical e proibição de organizações autônomas. E quando enumera a CLT, a lei de previdência e o salário adicional para a indústria, apresenta a contrapartida: direitos concedidos de cima para baixo ao operariado urbano. Essa combinação define o trabalhismo varguista, em que os benefícios funcionam como moeda de troca pelo controle político da classe trabalhadora. As demais alternativas atribuem ao período conquistas - redistribuição de renda, fim da informalidade, saúde e educação universais - que não decorreram dessa política.",
+    "source": {
+      "institution": "UERJ",
+      "note": "1º Exame de Qualificação, Vestibular Estadual UERJ 2018 (aplicado em 16/07/2017), caderno de questões e gabarito oficial."
+    }
+  },
+  {
     "id": "uerj-2019-q01",
     "exam": "uerj",
     "year": 2019,
