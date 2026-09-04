@@ -4396,5 +4396,221 @@
       "institution": "UERJ",
       "note": "Questão oficial do Vestibular Estadual UERJ 2023 (Exame Único), reproduzida na íntegra para fins educacionais e não comerciais."
     }
+  },
+  {
+    "id": "uerj-2022-q06",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 6,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Mudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança;\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\n\nContinuamente vemos novidades,\nDiferentes em tudo da esperança;\nDo mal ficam as mágoas na lembrança,\nE do bem (se algum houve) as saudades.\n\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE enfim converte em choro o doce canto.\n\nE, afora este mudar-se cada dia,\nOutra mudança faz de mor espanto,\nQue não se muda já como soía.\n\nA imagem a seguir reproduz um grafite visto em um muro em Portugal, que estabelece intertextualidade com o soneto I, tratando, na contemporaneidade, da mudança como fonte de desassossego.\n\nReelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imprecisão do conhecimento"
+      },
+      {
+        "letter": "B",
+        "text": "necessidade da experiência"
+      },
+      {
+        "letter": "C",
+        "text": "ambiguidade do amor"
+      },
+      {
+        "letter": "D",
+        "text": "desconcerto do mundo"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "“Mudam-se os tempos, mudam-se as vontades” é tradicionalmente conhecido como o soneto do desconcerto do mundo: Camões descreve a mudança incessante de tudo à sua volta como fonte de perplexidade diante de um mundo que nunca permanece igual — tema que o grafite atualiza para o presente — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q07",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 7,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "O tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nNo soneto II, marcas enunciativas que representam os interlocutores do poema estão presentes nos seguintes versos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O tempo acaba a fama e a riqueza, / O tempo o mesmo tempo de si chora."
+      },
+      {
+        "letter": "B",
+        "text": "Mas não pode acabar minha tristeza, / Enquanto não quiserdes vós, Senhora."
+      },
+      {
+        "letter": "C",
+        "text": "O tempo o claro dia torna escuro, / E o mais ledo prazer em choro triste;"
+      },
+      {
+        "letter": "D",
+        "text": "O peito de diamante, onde consiste / A pena e o prazer desta esperança."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os versos da alternativa B trazem as marcas enunciativas do eu lírico (“minha tristeza”) e do interlocutor a quem o poema se dirige, tratado por “vós” e pelo vocativo “Senhora”; os demais versos apenas descrevem a ação do tempo, sem marcar os sujeitos do diálogo — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q08",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 8,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "O tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nNo soneto II, o poeta descreve o impacto da ação do tempo, destacando sua capacidade de transformar algo em seu oposto.\n\nEssa capacidade está exemplificada no seguinte verso:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O tempo acaba o ano, o mês e a hora,"
+      },
+      {
+        "letter": "B",
+        "text": "O tempo o mesmo tempo de si chora."
+      },
+      {
+        "letter": "C",
+        "text": "O tempo a tempestade em grã bonança."
+      },
+      {
+        "letter": "D",
+        "text": "Mas de abrandar o tempo estou seguro"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "“A tempestade em grã bonança” é uma antítese: o tempo transforma o tumulto (tempestade) em calmaria (bonança), ou seja, converte algo em seu oposto; os demais versos apenas mencionam o desgaste ou o fim causado pelo tempo, sem essa inversão — alternativa C.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q11",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 11,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "SONETO I\n\nMudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança;\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\n\nContinuamente vemos novidades,\nDiferentes em tudo da esperança;\nDo mal ficam as mágoas na lembrança,\nE do bem (se algum houve) as saudades.\n\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE enfim converte em choro o doce canto.\n\nE, afora este mudar-se cada dia,\nOutra mudança faz de mor espanto,\nQue não se muda já como soía.\n\nSONETO II\n\nO tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo prazer em choro triste;\nO tempo a tempestade em grã bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\nSONETO III\n\nSete anos de pastor Jacob servia\nLabão, pai de Raquel, serrana bela;\nMas não servia ao pai, servia a ela,\nE a ela só por prêmio pretendia.\n\nOs dias, na esperança de um só dia,\nPassava, contentando-se com vê-la;\nPorém o pai, usando de cautela,\nEm lugar de Raquel, lhe dava Lia.\n\nVendo o triste pastor que com enganos\nLhe fora assim negada sua pastora,\nComo se a não tivera merecida,\n\nComeça de servir outros sete anos,\nDizendo: — Mais servira, se não fora\nPara tão longo amor tão curta a vida.\n\nOs sonetos I, II e III destacam um sentimento de impotência diante da passagem do tempo. Na última estrofe de cada poema, porém, o poeta revela sentimentos que se confrontam com essa impotência.\n\nEsses sentimentos podem ser definidos, respectivamente, como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "surpresa – perseverança – lealdade"
+      },
+      {
+        "letter": "B",
+        "text": "lealdade – cooperação – prudência"
+      },
+      {
+        "letter": "C",
+        "text": "prudência – liberdade – satisfação"
+      },
+      {
+        "letter": "D",
+        "text": "satisfação – alegria – surpresa"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No soneto I, o eu lírico se espanta (surpresa) por a amada não mudar como as demais coisas do mundo; no soneto II, ele se declara seguro (perseverança) de que sua esperança resistirá à ação do tempo; no soneto III, Jacó aceita servir outros sete anos por amor a Raquel, mesmo enganado (lealdade) — alternativa A.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q54",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 54,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "TONI D’AGOSTINHO. jornalistaslivres.org.\n\nA charge expressa uma crítica às novas relações de trabalho no mundo contemporâneo.\n\nEssa crítica tem como alvo a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exaltação da jornada flexível"
+      },
+      {
+        "letter": "B",
+        "text": "elitização da inovação material"
+      },
+      {
+        "letter": "C",
+        "text": "fetichização da tecnologia avançada"
+      },
+      {
+        "letter": "D",
+        "text": "glamourização da precariedade laboral"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As novas relações de trabalho da chamada “uberização” costumam ser vendidas como liberdade e empreendedorismo, mas escondem perda de direitos trabalhistas e instabilidade de renda: a charge critica justamente esse discurso que glamouriza a precariedade laboral — alternativa D.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
+  },
+  {
+    "id": "uerj-2022-q57",
+    "exam": "uerj",
+    "year": 2022,
+    "originalNumber": 57,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "LAERTE. fotografia.folha.uol.com.br, 27/10/2020.\n\nNa charge de Laerte, o resultado do plebiscito, realizado no Chile em outubro de 2020, é relacionado a ideias que seriam aproveitadas pelo governo federal brasileiro.\n\nUma ideia rejeitada pelos chilenos que inspira medidas no Brasil é a:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "proteção de leis trabalhistas"
+      },
+      {
+        "letter": "B",
+        "text": "exaltação de heranças autoritárias"
+      },
+      {
+        "letter": "C",
+        "text": "ampliação de investimentos educacionais"
+      },
+      {
+        "letter": "D",
+        "text": "intensificação de despesas previdenciárias"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em 2020, os chilenos aprovaram, por ampla maioria, o início da substituição da Constituição herdada da ditadura de Pinochet, rejeitando esse legado autoritário; no Brasil, ao contrário, o governo federal da época cultivava justamente a exaltação de heranças autoritárias ligadas à ditadura militar — alternativa B.",
+    "source": {
+      "institution": "UERJ",
+      "note": "UERJ 2022 - Exame de Qualificação (Exame Único)"
+    }
   }
 ]
