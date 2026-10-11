@@ -49,14 +49,14 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-O banco já tem **1.745 questões reais do ENEM** (15 anos: 2009 e 2011 a 2024) e **675 questões reais da UERJ** (2016 a 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes.
+O banco já tem **1.745 questões reais do ENEM** (15 anos: 2009 e 2011 a 2024) e **681 questões reais da UERJ** (2016 a 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes.
 
 Cobertura por ano:
 
 | Prova | Anos | Questões |
 | --- | --- | --- |
 | ENEM | 2009 (78), 2011 (82), 2012 (74), 2013 (77), 2014 (142), 2015 (126), 2016 (125), 2017 (110), 2018 (86), 2019 (134), 2020 (133), 2021 (122), 2022 (164), 2023 (147), 2024 (145) | 1.745 |
-| UERJ | 2016 (104), 2017 (99), 2018 (111), 2019 (105), 2020 (114), 2021 (52), 2022 (48), 2023 (42) | 675 |
+| UERJ | 2016 (104), 2017 (99), 2018 (111), 2019 (105), 2020 (114), 2021 (52), 2022 (54), 2023 (42) | 681 |
 
 Nos anos de ENEM entre 2009 e 2024, o 1º dia (questões 1 a 90) está processado quase por completo — 72 a 94 de 90 questões, dependendo do ano (alguns anos passam de 90 porque guardam as versões de inglês e de espanhol das questões de língua estrangeira). O 2º dia (questões 91 a 180) já foi extraído dos cadernos oficiais de 2014 (69), 2015 (46), 2016 (50), 2017 (38), 2019 (55), 2020 (55), 2021 (37), 2022 (70), 2023 (64) e 2024 (62). Da UERJ, cada ano cobre um ou dois Exames de Qualificação (50 a 60 questões por exame); de 2021 em diante a universidade passou a aplicar um Exame Único, de 60 questões.
 
@@ -64,7 +64,7 @@ Nos anos de ENEM entre 2009 e 2024, o 1º dia (questões 1 a 90) está processad
 - **ENEM 2010**: o PDF disponível perde as letras das alternativas na extração de texto e não traz gabarito legível por máquina — processá-lo exigiria adivinhar respostas, o que não é aceitável para este banco. Fica pendente até que surja uma fonte melhor.
 - **ENEM 2008 e 2025**, e as aplicações PPL / 2ª aplicação de vários anos.
 - **O 2º dia do ENEM** dos anos de 2009 a 2013 e de 2018, cujos cadernos não estão entre os PDFs disponíveis, além do bloco de Matemática de 2021, cujo PDF vem com as fontes corrompidas na extração de texto.
-- **UERJ**: os anos anteriores a 2016 e todo o Exame Discursivo. De 2021 a 2023 não existe segundo exame — a UERJ passou ao Exame Único —, mas ainda faltam questões desses três anos: 8 de 2021, 12 de 2022 e 18 de 2023.
+- **UERJ**: os anos anteriores a 2016 e todo o Exame Discursivo. De 2021 a 2023 não existe segundo exame — a UERJ passou ao Exame Único —, mas ainda faltam questões desses três anos: 8 de 2021, 6 de 2022 e 18 de 2023.
 - Em todos os anos, algumas questões são deliberadamente deixadas de fora porque dependem de mapas, gráficos, imagens, charges, circuitos ou fórmulas estruturais que não sobrevivem à extração de texto do PDF. Cada commit lista quais foram puladas e por quê.
 
 ### Sobre as fontes
