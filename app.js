@@ -14,9 +14,14 @@ function escapeHtml(str) {
     .replace(/>/g, "&gt;");
 }
 
+function figureHtml(src, cls = "q-figure") {
+  return `<img class="${cls}" src="${escapeHtml(src).replace(/"/g, "&quot;")}" alt="Figura da questão" loading="lazy">`;
+}
+
 /* Converte o texto do enunciado (com marcações leves tipo "## Título" e
-   quebras de linha) em HTML simples, sem depender de biblioteca de markdown. */
-function formatStatement(text) {
+   quebras de linha) em HTML simples, sem depender de biblioteca de markdown.
+   Marcadores [[FIG1]] viram a imagem correspondente em `figures`. */
+function formatStatement(text, figures = {}) {
   return text
     .split("\n")
     .map((line) => {
@@ -24,9 +29,18 @@ function formatStatement(text) {
       if (/^#{1,6}\s/.test(line)) {
         return `<strong class="q-heading">${escapeHtml(trimmed)}</strong>`;
       }
-      return escapeHtml(line);
+      return escapeHtml(line).replace(/\[\[(FIG\d+)\]\]/g, (m, id) => (figures[id] ? figureHtml(figures[id]) : ""));
     })
     .join("\n");
+}
+
+function formatAlternative(alt) {
+  return escapeHtml(alt.text || "") + (alt.image ? figureHtml(alt.image, "alt-figure") : "");
+}
+
+function examLabel(q) {
+  const base = q.exam === "enem" ? "ENEM" : "UERJ";
+  return q.application ? `${base} ${q.application} ${q.year}` : `${base} ${q.year}`;
 }
 
 async function loadData() {
@@ -81,7 +95,7 @@ function renderQuestionCard(q, { mode = "static", index = null } = {}) {
 
   const meta = document.createElement("div");
   meta.className = "q-meta";
-  const examTag = q.exam === "enem" ? `ENEM ${q.year}` : `UERJ ${q.year}`;
+  const examTag = examLabel(q);
   meta.innerHTML = `
     <span class="tag exam">${escapeHtml(examTag)}</span>
     <span class="tag">${escapeHtml(subjectName(q.subjectId))}</span>
@@ -92,7 +106,7 @@ function renderQuestionCard(q, { mode = "static", index = null } = {}) {
 
   const statement = document.createElement("p");
   statement.className = "q-statement";
-  statement.innerHTML = (index !== null ? `<strong>${index}.</strong> ` : "") + formatStatement(q.statement);
+  statement.innerHTML = (index !== null ? `<strong>${index}.</strong> ` : "") + formatStatement(q.statement, q.figures);
   card.appendChild(statement);
 
   const list = document.createElement("ul");
@@ -100,7 +114,7 @@ function renderQuestionCard(q, { mode = "static", index = null } = {}) {
   q.alternatives.forEach((alt) => {
     const li = document.createElement("li");
     li.dataset.letter = alt.letter;
-    li.innerHTML = `<span class="letter">${alt.letter})</span><span>${escapeHtml(alt.text)}</span>`;
+    li.innerHTML = `<span class="letter">${alt.letter})</span><span>${formatAlternative(alt)}</span>`;
     if (mode === "quiz") {
       li.addEventListener("click", () => {
         if (state.exercicio.corrected) return;
@@ -340,10 +354,10 @@ function buildPrintArea() {
   chosen.forEach((q, i) => {
     html += `
       <div class="print-q">
-        <div class="p-num">${i + 1}. ${escapeHtml(examName(q.exam))} ${q.year} — ${escapeHtml(subjectName(q.subjectId))}</div>
-        <div class="p-statement">${formatStatement(q.statement)}</div>
+        <div class="p-num">${i + 1}. ${escapeHtml(examLabel(q))} — ${escapeHtml(subjectName(q.subjectId))}</div>
+        <div class="p-statement">${formatStatement(q.statement, q.figures)}</div>
         <ul>
-          ${q.alternatives.map((a) => `<li>${a.letter}) ${escapeHtml(a.text)}</li>`).join("")}
+          ${q.alternatives.map((a) => `<li>${a.letter}) ${formatAlternative(a)}</li>`).join("")}
         </ul>
       </div>
     `;
