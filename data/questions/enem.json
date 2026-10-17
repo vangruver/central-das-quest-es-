@@ -86862,5 +86862,760 @@
       "institution": "INEP",
       "note": "ENEM 2011 – 2º dia, 7 AZUL"
     }
+  },
+  {
+    "id": "enem-2012-q01",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "[[FIG1]]\nCharge anônima. BURKE, P. A fabricação do rei. Rio de Janeiro: Zahar, 1994.\nNa França, o rei Luís XIV teve sua imagem fabricada por um conjunto de estratégias que visavam sedimentar uma determinada noção de soberania. Neste sentido, a charge apresentada demonstra",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a humanidade do rei, pois retrata um homem comum, sem os adornos próprios à vestimenta real."
+      },
+      {
+        "letter": "B",
+        "text": "a unidade entre o público e o privado, pois a figura do rei com a vestimenta real representa o público e sem a vestimenta real, o privado."
+      },
+      {
+        "letter": "C",
+        "text": "o vínculo entre monarquia e povo, pois leva ao conhecimento do público a figura de um rei despretensioso e distante do poder político."
+      },
+      {
+        "letter": "D",
+        "text": "o gosto estético refinado do rei, pois evidencia a elegância dos trajes reais em relação aos de outros membros da corte."
+      },
+      {
+        "letter": "E",
+        "text": "a importância da vestimenta para a constituição simbólica do rei, pois o corpo político adornado esconde os defeitos do corpo pessoal."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q01-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A charge inglesa ironiza a figura de Luís XIV, o Rei Sol, ao desmembrá-lo em três partes: à esquerda, os trajes reais vazios (o corpo político e simbólico); ao centro, um homem calvo, envelhecido e frágil (o corpo físico/natural); e à direita, a composição majestosa que surge da união de ambos. Dessa forma, a obra evidencia o papel da indumentária e dos símbolos reais na construção do poder absolutista, demonstrando que a imponência do monarca era uma fabricação estética criada para mascarar sua debilidade física real e sedimentar a soberania. Portanto, a alternativa E está correta.\n\nA alternativa A está incorreta, pois a intenção da charge é criticar a ilusão do poder régio e não celebrar a humanidade do rei. A alternativa B está incorreta porque não se trata de uma união harmônica entre público e privado, mas da desmistificação da figura real. A alternativa C está incorreta, pois Luís XIV não era despretensioso nem mantinha tal vínculo popular informal. A alternativa D está incorreta porque o foco não reside na comparação do refinamento estético entre o rei e cortesãos, mas na separação entre o homem biológico e o monarca fabricado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q08",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "[[FIG1]]\nLORD WILLINGDON'S DILEMMA\nDisponível em: www.gandhiserve.org. Acesso em: 21 nov. 2011.\n\nO cartum, publicado em 1932, ironiza as consequências sociais das constantes prisões de Mahatma Gandhi pelas autoridades britânicas, na Índia, demonstrando",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a ineficiência do sistema judiciário inglês no território indiano."
+      },
+      {
+        "letter": "B",
+        "text": "o apoio da população hindu à prisão de Gandhi."
+      },
+      {
+        "letter": "C",
+        "text": "o caráter violento das manifestações hindus frente à ação inglesa."
+      },
+      {
+        "letter": "D",
+        "text": "a impossibilidade de deter o movimento liderado por Gandhi."
+      },
+      {
+        "letter": "E",
+        "text": "a indiferença das autoridades britânicas frente ao apelo popular hindu."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q08-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cartum retrata Lord Willingdon, vice-rei britânico da Índia, trancando Mahatma Gandhi em uma cela, enquanto olha para fora e vê uma multidão de milhares de indianos com a mesma fisionomia e vestimenta de Gandhi. A mensagem central da charge reside no dilema enfrentado pelo Império Britânico: prender a liderança física era inútil, pois seus ideais e a resistência pacífica já haviam se multiplicado por toda a população, tornando impossível deter a mobilização popular pela independência. Assim, a alternativa D está correta.\n\nA alternativa A está incorreta, pois a questão não se refere ao funcionamento das leis ou tribunais, mas à força política do movimento. A alternativa B é falsa, já que a população apoiava maciçamente Gandhi e seu projeto de libertação. A alternativa C é incorreta porque a resistência pregada por Gandhi fundamentava-se na desobediência civil não violenta (ahimsa). A alternativa E está incorreta porque o dilema e a perplexidade do vice-rei mostram justamente a preocupação britânica, não indiferença.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q12",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "[[FIG1]]\nCartaz da Revolução Constitucionalista.\nDisponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012.\n\nElaborado pelos partidários da Revolução Constitucionalista de 1932, o cartaz apresentado pretendia mobilizar a população paulista contra o governo federal.\n\nEssa mobilização utilizou-se de uma referência histórica, associando o processo revolucionário",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "à experiência francesa, expressa no chamado à luta contra a ditadura."
+      },
+      {
+        "letter": "B",
+        "text": "aos ideais republicanos, indicados no destaque à bandeira paulista."
+      },
+      {
+        "letter": "C",
+        "text": "ao protagonismo das Forças Armadas, representadas pelo militar que empunha a bandeira."
+      },
+      {
+        "letter": "D",
+        "text": "ao bandeirantismo, símbolo paulista apresentado em primeiro plano."
+      },
+      {
+        "letter": "E",
+        "text": "ao papel figurativo de Vargas na política, enfatizado pela pequenez de sua figura no cartaz."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q12-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cartaz de propaganda da Revolução Constitucionalista de 1932 retrata em primeiro plano a figura icônica de um bandeirante, caracterizado pelo chapéu de abas largas, botas de cano alto e bacamarte. O bandeirante segura em sua mão um Getúlio Vargas diminuto e caricato, sob o lema 'Abaixo a dictadura'. O movimento paulista apropriou-se da mítica figura dos bandeirantes como representação da valentia, autonomia e liderança histórica de São Paulo na federação, mobilizando a população sob essa identidade cívica. Logo, a alternativa D está correta.\n\nA alternativa A está incorreta, pois a principal referência histórica mobilizada é de cunho regional paulista (o bandeirante), e não a Revolução Francesa. A alternativa B é incorreta porque o uso da bandeira paulista reforça o regionalismo, não uma referência abstrata a ideais republicanos. A alternativa C está incorreta, pois a figura imponente é um bandeirante do período colonial, e não um militar das Forças Armadas. A alternativa E está incorreta, já que a pequenez de Vargas indica sua deslegitimação e fragilidade perante a força paulista, mas a referência histórica formadora do símbolo é o bandeirante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q16",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.metmuseum.org. Acesso em: 14 set. 2011.\n\nA figura apresentada é de um mosaico, produzido por volta do ano 300 d.C., encontrado na cidade de Lod, atual Estado de Israel. Nela, encontram-se elementos que representam uma característica política dos romanos no período, indicada em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cruzadismo – conquista da terra santa."
+      },
+      {
+        "letter": "B",
+        "text": "Patriotismo – exaltação da cultura local."
+      },
+      {
+        "letter": "C",
+        "text": "Helenismo – apropriação da estética grega."
+      },
+      {
+        "letter": "D",
+        "text": "Imperialismo – selvageria dos povos dominados."
+      },
+      {
+        "letter": "E",
+        "text": "Expansionismo – diversidade dos territórios conquistados."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q16-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O mosaico romano de Lod retrata diversos animais exóticos e selvagens, como elefantes, girafas, leões e tigres, oriundos de diferentes regiões da África e da Ásia. Essa profusão de fauna nas artes decorativas e nos espetáculos da arena romana simbolizava o vasto alcance do Império Romano e sua capacidade de dominar e integrar províncias muito distantes geograficamente, refletindo o expansionismo territorial e a enorme diversidade das regiões conquistadas. Portanto, a alternativa E está correta.\n\nA alternativa A está incorreta, pois as Cruzadas ocorreram séculos depois, durante a Idade Média. A alternativa B é incorreta, pois o mosaico celebra animais exóticos trazidos de domínios imperiais, e não uma valorização da cultura local de Lod. A alternativa C é incorreta, pois os elementos da cena não tratam primariamente da estética grega do helenismo, mas da demonstração da vastidão territorial romana. A alternativa D está incorreta porque a representação dos animais não tinha o sentido de caracterizar os povos dominados como selvagens, mas sim destacar o controle imperial sobre o mundo conhecido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q19",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://primeira-serie.blogspot.com.br. Acesso em: 07 dez. 2011 (adaptado).\n\nNa imagem do início do século XX, identifica-se um modelo produtivo cuja forma de organização fabril baseava-se na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "autonomia do produtor direto."
+      },
+      {
+        "letter": "B",
+        "text": "adoção da divisão sexual do trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "exploração do trabalho repetitivo."
+      },
+      {
+        "letter": "D",
+        "text": "utilização de empregados qualificados."
+      },
+      {
+        "letter": "E",
+        "text": "incentivo à criatividade dos funcionários."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q19-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A imagem mostra operários organizados ao longo de uma esteira rolante de montagem seriada, típica das linhas de produção fordistas implantadas no início do século XX pela indústria automobilística. Esse modelo de organização do trabalho baseia-se na extrema divisão de tarefas, na padronização dos processos produtivos e na fragmentação da produção, de modo que cada trabalhador realiza repetidamente e de forma mecânica a mesma operação simples durante toda a sua jornada diária. Dessa forma, a alternativa C está correta.\n\nA alternativa A está incorreta, pois o operário perde totalmente o controle e a autonomia sobre o ritmo e o produto final do trabalho. A alternativa B está incorreta porque a imagem retrata exclusivamente trabalhadores homens, não ilustrando uma divisão sexual do trabalho. A alternativa D está incorreta, pois a linha de montagem desqualifica o artesão tradicional, dispensando especialização complexa dos operários. A alternativa E está incorreta, já que a padronização e o controle rígido do tempo eliminam qualquer espaço para a criatividade individual.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q24",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População"
+    ],
+    "statement": "[[FIG1]]\n\n[[FIG2]]\nBRASIL. IBGE. Censo demográfico 1991-2010. Rio de Janeiro, 2011.\n\nA interpretação e a correlação das figuras sobre a dinâmica demográfica brasileira demonstram um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "menor proporção de fecundidade na área urbana."
+      },
+      {
+        "letter": "B",
+        "text": "menor proporção de homens na área rural."
+      },
+      {
+        "letter": "C",
+        "text": "aumento da proporção de fecundidade na área rural."
+      },
+      {
+        "letter": "D",
+        "text": "queda da longevidade na área rural."
+      },
+      {
+        "letter": "E",
+        "text": "queda do número de idosos na área urbana."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q24-1.webp",
+      "FIG2": "data/figuras/enem-2012-q24-2.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao analisar a pirâmide etária da população urbana (Figura 1) em comparação com a da população rural (Figura 2) entre 1991 e 2010, observa-se que a base da pirâmide urbana (faixas etárias de 0 a 4 e de 5 a 9 anos) apresenta percentuais sensivelmente menores em relação às faixas intermediárias se comparada à pirâmide rural. Isso evidencia que a taxa de fecundidade no meio urbano é menor do que no meio rural, indicando um processo de transição demográfica mais acentuado nas cidades. Assim, a alternativa A é correta.\n\nA alternativa B é incorreta, pois no campo a proporção de homens é ligeiramente superior à de mulheres na base e corpo da pirâmide (ou seja, há maior presença masculina devido à migração feminina). A alternativa C é incorreta, pois a comparação entre 1991 e 2010 mostra estreitamento da base também na área rural, indicando redução, e não aumento da fecundidade. A alternativa D é incorreta, pois o topo da pirâmide rural alargou-se, evidenciando ganho de longevidade. A alternativa E é incorreta, já que o número e proporção de idosos no meio urbano aumentaram expressivamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q45",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://nutriteengv.blogspot.com.br. Acesso em: 28 dez. 2011.\n\nNa charge faz-se referência a uma modificação produtiva ocorrida na agricultura. Uma contradição presente no espaço rural brasileiro derivada dessa modificação produtiva está presente em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Expansão das terras agricultáveis, com manutenção de desigualdades sociais."
+      },
+      {
+        "letter": "B",
+        "text": "Modernização técnica do território, com redução do nível de emprego formal."
+      },
+      {
+        "letter": "C",
+        "text": "Valorização de atividades de subsistência, com redução da produtividade da terra."
+      },
+      {
+        "letter": "D",
+        "text": "Desenvolvimento de núcleos policultores, com ampliação da concentração fundiária."
+      },
+      {
+        "letter": "E",
+        "text": "Melhora da qualidade dos produtos, com retração na exportação de produtos primários."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q45-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A charge aborda criticamente o discurso que legitimou a introdução e o avanço dos cultivos transgênicos e da modernização agropecuária (Revolução Verde), o qual prometia erradicar a fome mundial pelo expressivo aumento da produtividade agrícola. A contradição exposta é que, embora a produção de commodities e a fronteira agrícola tenham se expandido enormemente no território brasileiro graças a essas tecnologias, a fome e a insegurança alimentar persistem, acompanhadas da manutenção de profundas desigualdades socioeconômicas e de concentração de renda e terras. Portanto, a alternativa A está correta.\n\nA alternativa B é incorreta, pois a principal contradição abordada na charge é a promessa não cumprida de superação da fome frente à produção de transgênicos, e o emprego com carteira assinada no agronegócio não define o foco da crítica. A alternativa C é incorreta, visto que a agricultura transgênica prioriza a monocultura de exportação, desvalorizando a produção de subsistência. A alternativa D é incorreta, pois o modelo dominante é a monocultura mecanizada em latifúndios, não a policultura. A alternativa E é incorreta, pois as exportações brasileiras de grãos e produtos primários bateram recordes históricos sucessivos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q49",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A produção mundial de alimentos poderia se reduzir a 40% da atual sem a aplicação de controle sobre as pragas agrícolas. Por outro lado, o uso frequente dos agrotóxicos pode causar contaminação em solos, águas superficiais e subterrâneas, atmosfera e alimentos. Os biopesticidas, tais como a piretrina e a coronopilina, têm sido uma alternativa na diminuição dos prejuízos econômicos, sociais e ambientais gerados pelos agrotóxicos.\n\n[[FIG1]]\n\nPiretrina\n\n[[FIG2]]\n\nCoronopilina\n\nIdentifique as funções orgânicas presentes simultaneamente nas estruturas dos dois biopesticidas apresentados:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Éter e éster."
+      },
+      {
+        "letter": "B",
+        "text": "Cetona e éster."
+      },
+      {
+        "letter": "C",
+        "text": "Álcool e cetona."
+      },
+      {
+        "letter": "D",
+        "text": "Aldeído e cetona."
+      },
+      {
+        "letter": "E",
+        "text": "Éter e ácido carboxílico."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q49-1.webp",
+      "FIG2": "data/figuras/enem-2012-q49-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na estrutura da piretrina, observa-se um anel de cinco membros contendo uma carbonila ligada a dois átomos de carbono vizinhos (anel de ciclopentenona), que caracteriza a função cetona, além de uma ligação entre uma carbonila e um átomo de oxigênio ligado a uma cadeia carbônica, correspondente ao grupo éster (-COO-). Na estrutura da coronopilina, há também um anel de cinco membros com carbonila (ciclopentanona), caracterizando cetona, uma hidroxila ligada a carbono saturado (função álcool) e um anel de lactona (éster cíclico). Portanto, as funções oxigenadas presentes simultaneamente em ambas as moléculas são cetona e éster. Assim, a alternativa B é a correta.\n\nA alternativa A é incorreta, pois não há grupo éter (R-O-R') na piretrina. A alternativa C é incorreta, pois a função álcool está ausente na piretrina. A alternativa D é incorreta, pois nenhuma das moléculas contém aldeído (-CHO). A alternativa E é incorreta, pois não há ácido carboxílico livre (-COOH) em nenhuma das duas estruturas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q55",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O mecanismo que permite articular uma porta (de um móvel ou de acesso) é a dobradiça. Normalmente, são necessárias duas ou mais dobradiças para que a porta seja fixada no móvel ou no portal, permanecendo em equilíbrio e podendo ser articulada com facilidade.\n\nNo plano, o diagrama vetorial das forças que as dobradiças exercem na porta está representado em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2012-q55-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2012-q55-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2012-q55-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2012-q55-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2012-q55-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q55-1.webp",
+      "FIG2": "data/figuras/enem-2012-q55-2.webp",
+      "FIG3": "data/figuras/enem-2012-q55-3.webp",
+      "FIG4": "data/figuras/enem-2012-q55-4.webp",
+      "FIG5": "data/figuras/enem-2012-q55-5.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para que a porta permaneça em equilíbrio estático, a soma das forças e a soma dos torques em relação a qualquer ponto devem ser nulas. O peso da porta atua no seu centro de gravidade, localizado à direita da linha vertical que une as dobradiças, gerando uma tendência de giro no sentido horário. Para contrabalançar esse torque no sentido anti-horário, a dobradiça superior deve puxar a porta para a esquerda (força horizontal orientada para fora do batente, ou seja, para a esquerda) e a dobradiça inferior deve empurrá-la para a direita (para dentro da porta). Além disso, a componente horizontal líquida deve se anular. Em termos de forças puramente horizontais sobre a porta (ou horizontais dominantes representadas nas alternativas), a força na dobradiça superior aponta para a esquerda e na dobradiça inferior aponta para a direita, como ilustrado na Figura 4 (onde a superior tem componente para cima e para a esquerda e a inferior para cima e para a direita, sustentando também o peso verticalmente). Na alternativa D (FIG4), a dobradiça superior exerce força para a esquerda e para cima (ou para a esquerda) e a inferior para a direita e para cima (ou para a direita). Analisando as figuras: a FIG4 mostra a força superior apontando para a esquerda/cima e a inferior para a direita/cima, equilibrando tanto a rotação horária do peso quanto a força peso verticalmente. Logo, a alternativa D está correta.\n\nAs alternativas A e B não equilibram o peso vertical, pois as forças são estritamente horizontais. A alternativa C apresenta apenas forças verticais, incapazes de anular o torque gerado pelo peso em relação ao eixo da porta. A alternativa E mostra a dobradiça superior empurrando para a direita e a inferior puxando para a esquerda, o que produziria torque no mesmo sentido que a gravidade, desequilibrando a porta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q60",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para melhorar a mobilidade urbana na rede metroviária é necessário minimizar o tempo entre estações. Para isso a administração do metrô de uma grande cidade adotou o seguinte procedimento entre duas estações: a locomotiva parte do repouso com aceleração constante por um terço do tempo de percurso, mantém a velocidade constante por outro terço e reduz sua velocidade com desaceleração constante no trecho final, até parar.\n\nQual é o gráfico de posição (eixo vertical) em função do tempo (eixo horizontal) que representa o movimento desse trem?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2012-q60-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2012-q60-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2012-q60-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2012-q60-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2012-q60-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q60-1.webp",
+      "FIG2": "data/figuras/enem-2012-q60-2.webp",
+      "FIG3": "data/figuras/enem-2012-q60-3.webp",
+      "FIG4": "data/figuras/enem-2012-q60-4.webp",
+      "FIG5": "data/figuras/enem-2012-q60-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O movimento é dividido em três intervalos de tempos iguais:\n1) No primeiro terço do tempo, o trem parte do repouso e acelera constantemente (a > 0, MRUV). A posição varia segundo uma função quadrática com concavidade voltada para cima (ramo de parábola crescente com inclinação inicial nula).\n2) No segundo terço, a velocidade é constante (v = constante, MRU). A posição varia linearmente com o tempo, o que corresponde a um segmento de reta inclinada positiva.\n3) No terço final, o trem desacelera uniformemente (a < 0, MRUV) até parar. O trem continua avançando, portanto sua posição continua aumentando, mas a uma taxa decrescente; logo, a curva é um ramo de parábola crescente com concavidade para baixo, terminando com derivada nula (tangente horizontal).\n\nO gráfico que mostra a posição sempre aumentando, primeiro em parábola côncava para cima, depois em reta e por fim em parábola côncava para baixo, é o da Figura 3. Portanto, a alternativa C está correta.\n\nA alternativa A mostra o trem parando e retornando à origem. As alternativas B e E não apresentam a desaceleração correta até o repouso. A alternativa D mostra o trem parado durante o segundo terço, o que contradiz o texto que afirma velocidade constante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q66",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "O benzeno é um hidrocarboneto aromático presente no petróleo, no carvão e em condensados de gás natural. Seus metabólitos são altamente tóxicos e se depositam na medula óssea e nos tecidos gordurosos. O limite de exposição pode causar anemia, câncer (leucemia) e distúrbios do comportamento. Em termos de reatividade química, quando um eletrófilo se liga ao benzeno, ocorre a formação de um intermediário, o carbocátion. Por fim, ocorre a adição ou substituição eletrofílica.\n\nDisponível em: www.sindipetro.org.br. Acesso em: 1 mar. 2012 (adaptado).\n\n[[FIG1]]\n\nDisponível em: www.qmc.ufsc.br. Acesso em: 1 mar. 2012 (adaptado).\n\nCom base no texto e no gráfico do progresso da reação apresentada, as estruturas químicas encontradas em I, II e III são, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2012-q66-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2012-q66-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2012-q66-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2012-q66-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2012-q66-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q66-1.webp",
+      "FIG2": "data/figuras/enem-2012-q66-2.webp",
+      "FIG3": "data/figuras/enem-2012-q66-3.webp",
+      "FIG4": "data/figuras/enem-2012-q66-4.webp",
+      "FIG5": "data/figuras/enem-2012-q66-5.webp",
+      "FIG6": "data/figuras/enem-2012-q66-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na reação entre o benzeno e o bromo (Br2) catalisada por ácido de Lewis, o ataque eletrofílico forma inicialmente o carbocátion intermediário (complexo sigma de arenio), no qual um átomo de bromo e um hidrogênio ligam-se ao mesmo carbono sp3, restando quatro elétrons pi deslocalizados e uma carga positiva no anel. A partir desse intermediário, há dois caminhos: a adição e a substituição. A substituição eletrofílica aromática regenera a aromaticidade do anel (bromobenzeno), sendo altamente estável e exergônica, correspondendo ao mínimo termodinâmico de menor energia livre, isto é, o produto (III). O produto (II), de maior energia livre, resulta da adição de bromo com quebra permanente da aromaticidade (dibromociclo-hexadieno). Portanto: I é o carbocátion com duas ligações duplas conjugadas e carga positiva; II é o produto de adição (com dois bromos); e III é o bromobenzeno (produto aromático de substituição). Essa sequência corresponde com exatidão à opção A. Logo, a alternativa A está correta.\n\nA alternativa B inverte os produtos II e III e traz estruturas incorretas. As alternativas C, D e E apresentam um carbocátion incorreto (com apenas uma ligação dupla em vez de duas no sistema alílico estendido de ressonância) ou produtos aromáticos incorretos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q67",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O manual que acompanha uma ducha higiênica informa que a pressão mínima da água para o seu funcionamento apropriado é de 20 kPa. A figura mostra a instalação hidráulica com a caixa d’água e o cano ao qual deve ser conectada a ducha.\n\n[[FIG1]]\n\nO valor da pressão da água na ducha está associado à altura",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "h1."
+      },
+      {
+        "letter": "B",
+        "text": "h2."
+      },
+      {
+        "letter": "C",
+        "text": "h3."
+      },
+      {
+        "letter": "D",
+        "text": "h4."
+      },
+      {
+        "letter": "E",
+        "text": "h5."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q67-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Pelo Teorema de Stevin, a pressão hidrostática exercida por um fluido em equilíbrio em um determinado ponto depende da densidade do líquido, da aceleração da gravidade e da profundidade, ou seja, a distância vertical entre a superfície livre do líquido no reservatório e o ponto considerado. Analisando o esquema hidráulico, a altura que representa exatamente a distância vertical entre o nível superior da água na caixa d'água e a saída da ducha higiênica é a altura h3. Portanto, a alternativa C está correta. A alternativa A está incorreta porque a altura h1 mede apenas a distância da base do reservatório até a ducha. A alternativa B está incorreta porque não abrange toda a profundidade até a superfície livre. As alternativas D e E estão incorretas pois utilizam como referência a parte inferior da tubulação (o sifão em U), e não o ponto de saída da ducha.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q73",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Para ligar ou desligar uma mesma lâmpada a partir de dois interruptores, conectam-se os interruptores para que a mudança de posição de um deles faça ligar ou desligar a lâmpada, não importando qual a posição do outro. Esta ligação é conhecida como interruptores paralelos. Este interruptor é uma chave de duas posições constituída por um polo e dois terminais, conforme mostrado nas figuras de um mesmo interruptor. Na Posição I a chave conecta o polo ao terminal superior, e na Posição II a chave o conecta ao terminal inferior.\n\n[[FIG1]]\n\nO circuito que cumpre a finalidade de funcionamento descrita no texto é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2012-q73-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2012-q73-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2012-q73-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2012-q73-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2012-q73-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q73-1.webp",
+      "FIG2": "data/figuras/enem-2012-q73-2.webp",
+      "FIG3": "data/figuras/enem-2012-q73-3.webp",
+      "FIG4": "data/figuras/enem-2012-q73-4.webp",
+      "FIG5": "data/figuras/enem-2012-q73-5.webp",
+      "FIG6": "data/figuras/enem-2012-q73-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em um sistema de interruptores paralelos (three-way), o objetivo é permitir que a alternância da posição de qualquer uma das chaves inverta o estado do circuito (de aberto para fechado, ou vice-versa), ligando ou desligando a lâmpada.\n\nPara isso, um dos fios de alimentação é levado diretamente ao polo comum do primeiro interruptor. Os dois terminais de saída desse primeiro interruptor são conectados diretamente aos dois terminais do segundo interruptor através de dois condutores paralelos (fios de retorno). O polo comum do segundo interruptor é então conectado a um dos bornes da lâmpada, cujo outro borne retorna à rede elétrica. Dessa forma, quando ambos os interruptores apontam para o mesmo condutor (superior-superior ou inferior-inferior), o circuito fecha; se qualquer um mudar de posição, o circuito abre. Essa configuração padrão está representada na Figura 6 (alternativa E).\n\nA alternativa A apresenta um curto-circuito ou ligação que não permite controle independente. A alternativa B alimenta a lâmpada a partir do polo com curto ou desvio ineficaz. A alternativa C liga a lâmpada sem a ponte adequada entre os terminais. A alternativa D conecta polos de forma errada, gerando posições em que a comutação de um interruptor é ineficaz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q78",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Os freios ABS são uma importante medida de segurança no trânsito, os quais funcionam para impedir o travamento das rodas do carro quando o sistema de freios é acionado, liberando as rodas quando estão no limiar do deslizamento. Quando as rodas travam, a força de frenagem é governada pelo atrito cinético.\n\nAs representações esquemáticas da força de atrito fat entre os pneus e a pista, em função da pressão p aplicada no pedal de freio, para carros sem ABS e com ABS, respectivamente, são:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2012-q78-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2012-q78-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2012-q78-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2012-q78-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2012-q78-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q78-1.webp",
+      "FIG2": "data/figuras/enem-2012-q78-2.webp",
+      "FIG3": "data/figuras/enem-2012-q78-3.webp",
+      "FIG4": "data/figuras/enem-2012-q78-4.webp",
+      "FIG5": "data/figuras/enem-2012-q78-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No sistema de frenagem convencional (sem ABS), à medida que a pressão p sobre o pedal aumenta, a força de atrito estático fat cresce linearmente até atingir um valor máximo (destacamento). Quando a roda trava, ocorre escorregamento e o atrito passa a ser cinético, que possui intensidade constante e inferior à máxima força estática, gerando uma queda abrupta e um patamar horizontal no gráfico fat versus p. Já no carro equipado com ABS, os sensores impedem o travamento das rodas: quando o atrito atinge o limiar do deslizamento, o sistema alivia e retoma rapidamente a pressão hidráulica, fazendo a força oscilar repetidamente próxima ao valor estático máximo (com perfil em dente de serra).\n\nEsses comportamentos correspondem aos gráficos apresentados na alternativa A. Logo, a alternativa A é a correta.\n\nAs alternativas B, C e D erram ao sugerir dependência puramente linear ou contínua para o carro sem ABS, sem marcar a transição para o atrito cinético. A alternativa E propõe uma força de atrito constante com ABS, ignorando os ciclos sucessivos de frenagem e liberação da pinça de freio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q79",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O armazenamento de certas vitaminas no organismo apresenta grande dependência de sua solubilidade. Por exemplo, vitaminas hidrossolúveis devem ser incluídas na dieta diária, enquanto vitaminas lipossolúveis são armazenadas em quantidades suficientes para evitar doenças causadas pela sua carência. A seguir são apresentadas as estuturas químicas de cinco vitaminas necessárias ao organismo.\n\n[[FIG1]]\n\nDentre as vitaminas apresentadas na figura, aquela que necessita de maior suplementação diária é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q79-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O enunciado destaca que as vitaminas hidrossolúveis não são acumuladas em grandes quantidades no organismo humano, sendo prontamente excretadas na urina, o que exige sua ingestão diária constante por meio de alimentação ou suplementação. Por outro lado, vitaminas lipossolúveis conseguem se armazenar no tecido adiposo e no fígado.\n\nA solubilidade em água decorre da presença de grupos polares capazes de formar ligações de hidrogênio em abundância com o solvente. Analisando as moléculas apresentadas:\n- A molécula III (vitamina C ou ácido ascórbico) possui quatro grupos hidroxila (-OH), um anel heterocíclico com oxigênio e uma carbonila, com cadeia carbônica curta de 6 carbonos, conferindo-lhe elevadíssimo caráter hidrofílico (hidrossolúvel).\n- As estruturas I (vitamina A), II (vitamina K), IV (vitamina D) e V (vitamina E) possuem longas cadeias carbônicas apolares hidrocarbonadas, sendo altamente lipossolúveis.\n\nPortanto, a vitamina III é a que requer maior suplementação diária. A alternativa C está correta.\n\nAs alternativas A, B, D e E representam vitaminas lipossolúveis (A, K, D e E, respectivamente), que são armazenadas no tecido adiposo e não exigem suplementação estritamente diária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2012-q80",
+    "exam": "enem",
+    "year": 2012,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "[[FIG1]]\nDAVIS, J. Garfield está de dieta. Porto Alegre: L&PM, 2006.\n\nA condição física apresentada pelo personagem da tirinha é um fator de risco que pode desencadear doenças como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anemia."
+      },
+      {
+        "letter": "B",
+        "text": "beribéri."
+      },
+      {
+        "letter": "C",
+        "text": "diabetes."
+      },
+      {
+        "letter": "D",
+        "text": "escorbuto."
+      },
+      {
+        "letter": "E",
+        "text": "fenilcetonúria."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2012-q80-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na tirinha, Garfield reclama de estar fora de forma e de ter banhas, o que caracteriza o excesso de gordura corporal, ou seja, a obesidade. A obesidade é um importante fator de risco para o desenvolvimento do diabetes mellitus tipo 2, pois o excesso de tecido adiposo interfere na ação do hormônio insulina, levando à resistência insulínica. Portanto, a alternativa C está correta.\n\nAs demais alternativas estão incorretas porque se referem a doenças com causas distintas: a anemia (A) geralmente decorre da deficiência de ferro ou vitaminas; o beribéri (B) é uma avitaminose provocada pela falta de vitamina B1; o escorbuto (D) é causado pela carência de vitamina C; e a fenilcetonúria (E) é uma doença genética congênita decorrente do metabolismo alterado da fenilalanina, sem relação direta com a gordura corporal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2012 – 1º dia, 1 AZUL"
+    }
   }
 ]
