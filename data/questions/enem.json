@@ -70900,5 +70900,555 @@
       "institution": "INEP",
       "note": "ENEM 2024 – 2º dia (Ciências da Natureza e Matemática), Caderno 5 Amarelo, 1ª aplicação"
     }
+  },
+  {
+    "id": "enem-2009-q02",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Analise a figura.\n\n[[FIG1]]\n\nDisponível em: http//www.alcoologia.net. Acesso em: 15 jul. 2009 (adaptado).\n\nSupondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Concentração média de álcool no sangue ao longo do dia."
+      },
+      {
+        "letter": "B",
+        "text": "Variação da frequência da ingestão de álcool ao longo das horas."
+      },
+      {
+        "letter": "C",
+        "text": "Concentração mínima de álcool no sangue a partir de diferentes dosagens."
+      },
+      {
+        "letter": "D",
+        "text": "Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool."
+      },
+      {
+        "letter": "E",
+        "text": "Representação gráfica da distribuição de frequência de álcool em determinada hora do dia."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q02-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O gráfico apresenta a concentração de álcool no sangue em função do tempo decorrido, a partir do consumo de diferentes quantidades de bebidas alcoólicas, representadas pelas quatro curvas distintas. Nota-se que o teor alcoólico atinge um valor máximo logo na primeira hora e decai gradativamente com o passar do tempo até ser totalmente eliminado do organismo, o que permite estimar a duração do processo metabólico para cada dosagem ingerida. Por essa razão, a alternativa D traduz com exatidão o fenômeno biológico ilustrado. A alternativa A está incorreta porque o gráfico analisa o intervalo de poucas horas após doses específicas, e não a média ao longo de um dia. A alternativa B está incorreta porque o gráfico não trata da frequência ou do número de vezes em que o álcool foi ingerido. A alternativa C está incorreta porque as curvas evidenciam as concentrações máximas e a variação temporal, não valores mínimos. A alternativa E está incorreta porque o gráfico não é um histograma nem uma distribuição de frequências em um horário fixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q16",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.\n\n[[FIG1]]\n\nDepreende-se do modelo que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a única molécula que participa da produção de proteínas é o DNA."
+      },
+      {
+        "letter": "B",
+        "text": "o fluxo de informação genética, nos sistemas biológicos, é unidirecional."
+      },
+      {
+        "letter": "C",
+        "text": "as fontes de informação ativas durante o processo de transcrição são as proteínas."
+      },
+      {
+        "letter": "D",
+        "text": "é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição."
+      },
+      {
+        "letter": "E",
+        "text": "a molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q16-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O esquema ilustra as etapas centrais do fluxo da informação genética. A partir da molécula de DNA, ocorrem os processos de replicação e de transcrição em uma fita de RNA. Em seguida, essa mesma molécula de RNA é traduzida em três proteínas distintas, designadas como a, b e c, processo compatível com o mecanismo de splicing alternativo comum em eucariontes. Portanto, a alternativa D está correta ao indicar que é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição. A alternativa A está incorreta porque a síntese proteica depende diretamente de moléculas de RNA e dos ribossomos. A alternativa B está incorreta porque a dupla seta entre DNA e RNA indica fluxo bidirecional, característico da transcrição reversa. A alternativa C está incorreta porque a fonte de informação para a transcrição é o próprio DNA, e não as proteínas. A alternativa E está incorreta porque a forma circular presente no diagrama é meramente esquemática para representar a replicação, não descrevendo a conformação espacial real das moléculas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q19",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A instalação elétrica de uma casa envolve várias etapas, desde a alocação dos dispositivos, instrumentos e aparelhos elétricos, até a escolha dos materiais que a compõem, passando pelo dimensionamento da potência requerida, da fiação necessária, dos eletrodutos*, entre outras.\n\nPara cada aparelho elétrico existe um valor de potência associado. Valores típicos de potências para alguns aparelhos elétricos são apresentados no quadro seguinte:\n\n[[FIG1]]\n*Eletrodutos são condutos por onde passa a fiação de uma instalação elétrica, com a finalidade de protegê-la.\n\nA escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.\n\n[[FIG2]]\n\n[[FIG3]]\nObs.: Para efeitos dos cálculos das áreas, as paredes são desconsideradas.\n\nConsiderando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4.070."
+      },
+      {
+        "letter": "B",
+        "text": "4.270."
+      },
+      {
+        "letter": "C",
+        "text": "4.320."
+      },
+      {
+        "letter": "D",
+        "text": "4.390."
+      },
+      {
+        "letter": "E",
+        "text": "4.470."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q19-1.webp",
+      "FIG2": "data/figuras/enem-2009-q19-2.webp",
+      "FIG3": "data/figuras/enem-2009-q19-3.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para encontrar a potência total com todos os dispositivos ligados, somamos a potência dos aparelhos e a das lâmpadas. A soma dos aparelhos da primeira tabela resulta em: som (120 W) + chuveiro (3000 W) + ferro (500 W) + televisor (200 W) + geladeira (200 W) + rádio (50 W) = 4070 W. Em seguida, calculamos as áreas dos cômodos para determinar as lâmpadas: cozinha com 3,0 m x 3,0 m = 9,0 m², exigindo lâmpada de 100 W; sala/quarto à direita com 2,8 m x 3,0 m = 8,4 m², exigindo lâmpada de 100 W; banheiro com 1,5 m x 2,1 m = 3,15 m² (até 6,0 m²), exigindo lâmpada de 60 W; e o corredor inferior com 1,5 m x 0,9 m = 1,35 m² (até 6,0 m²), exigindo lâmpada de 60 W. A potência total das lâmpadas é 100 + 100 + 60 + 60 = 320 W. Somando com os aparelhos, temos 4070 W + 320 W = 4390 W, correspondendo à alternativa D. As alternativas A, B, C e E apresentam valores incorretos por esquecerem as lâmpadas (A considera apenas os eletrodomésticos) ou por errarem o dimensionamento das potências por cômodo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q21",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Os seres vivos apresentam diferentes ciclos de vida, caracterizados pelas fases nas quais gametas são produzidos e pelos processos reprodutivos que resultam na geração de novos indivíduos.\n\nConsiderando-se um modelo simplificado padrão para geração de indivíduos viáveis, a alternativa que corresponde ao observado em seres humanos é:\n\nDisponível em: www.infoescola.com (adaptado).",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2009-q21-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2009-q21-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2009-q21-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2009-q21-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2009-q21-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q21-1.webp",
+      "FIG2": "data/figuras/enem-2009-q21-2.webp",
+      "FIG3": "data/figuras/enem-2009-q21-3.webp",
+      "FIG4": "data/figuras/enem-2009-q21-4.webp",
+      "FIG5": "data/figuras/enem-2009-q21-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O ciclo biológico dos seres humanos é diplobionte, com organismos adultos diploides (2n). Nesses indivíduos, a meiose é do tipo gamética, ocorrendo nas gônadas para gerar gametas haploides (n). Na fecundação, a união de dois gametas reconstitui a condição diploide no zigoto (2n), o qual se desenvolve por sucessivas divisões mitóticas até formar o organismo adulto completo (2n). Esse encadeamento exato de ploidias e divisões celulares está corretamente representado na alternativa C. A alternativa A está incorreta porque ilustra o ciclo haplodiplobionte com alternância de gerações, característico de vegetais e algas. A alternativa B está incorreta porque indica formação de gametas por mitose e zigoto haploide. A alternativa D está incorreta pois inverte a ocorrência de mitose e meiose no ciclo. A alternativa E está incorreta porque aponta incorretamente o zigoto como uma célula haploide (n).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q29",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Os núcleos dos átomos são constituídos de prótons e nêutrons, sendo ambos os principais responsáveis pela sua massa. Nota-se que, na maioria dos núcleos, essas partículas não estão presentes na mesma proporção. O gráfico mostra a quantidade de nêutrons (N) em função da quantidade de prótons (Z) para os núcleos estáveis conhecidos.\n\n[[FIG1]]\n\nKAPLAN, I. Física Nuclear. Rio de Janeiro: Guanabara Dois,\n1978 (adaptado).\n\nO antimônio é um elemento químico que possui 50 prótons e possui vários isótopos — átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "entre 12 e 24 nêutrons a menos que o número de prótons."
+      },
+      {
+        "letter": "B",
+        "text": "exatamente o mesmo número de prótons e nêutrons."
+      },
+      {
+        "letter": "C",
+        "text": "entre 0 e 12 nêutrons a mais que o número de prótons."
+      },
+      {
+        "letter": "D",
+        "text": "entre 12 e 24 nêutrons a mais que o número de prótons."
+      },
+      {
+        "letter": "E",
+        "text": "entre 0 e 12 nêutrons a menos que o número de prótons."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q29-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O enunciado informa que o antimônio possui Z = 50 prótons. Observando o gráfico no eixo horizontal em Z = 50, a reta que representa a igualdade Z = N passa pelo ponto onde o número de nêutrons é exatamente 50. Os pontos correspondentes aos núcleos estáveis com Z = 50 estão posicionados bem acima dessa linha de referência, compreendidos no intervalo vertical entre N = 62 e N = 74 nêutrons. Dessa forma, calculando a diferença em relação à quantidade de prótons, tem-se entre 62 - 50 = 12 e 74 - 50 = 24 nêutrons a mais que o número de prótons, o que valida a alternativa D. As alternativas A e E estão incorretas porque os isótopos estáveis têm excesso de nêutrons, e não déficit. A alternativa B está incorreta pois nenhum núcleo estável de antimônio se situa sobre a reta Z = N. A alternativa C está incorreta porque o intervalo observado fica acima de 62 nêutrons, e não entre 50 e 62.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q36",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O uso de protetores solares em situações de grande exposição aos raios solares como, por exemplo, nas praias, é de grande importância para a saúde. As moléculas ativas de um protetor apresentam, usualmente, anéis aromáticos conjugados com grupos carbonila, pois esses sistemas são capazes de absorver a radiação ultravioleta mais nociva aos seres humanos. A conjugação é definida como a ocorrência de alternância entre ligações simples e duplas em uma molécula. Outra propriedade das moléculas em questão é apresentar, em uma de suas extremidades, uma parte apolar responsável por reduzir a solubilidade do composto em água, o que impede sua rápida remoção quando do contato com a água.\n\nDe acordo com as considerações do texto, qual das moléculas apresentadas a seguir é a mais adequada para funcionar como molécula ativa de protetores solares?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2009-q36-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2009-q36-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2009-q36-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2009-q36-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2009-q36-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q36-1.webp",
+      "FIG2": "data/figuras/enem-2009-q36-2.webp",
+      "FIG3": "data/figuras/enem-2009-q36-3.webp",
+      "FIG4": "data/figuras/enem-2009-q36-4.webp",
+      "FIG5": "data/figuras/enem-2009-q36-5.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto define três condições essenciais para a molécula ativa: presença de anel aromático, sistema conjugado com uma carbonila (alternância de ligações simples e duplas) e uma porção apolar volumosa em uma das extremidades para diminuir a solubilidade em água e garantir fixação. A estrutura da alternativa E atende perfeitamente a todos os requisitos, pois apresenta o anel aromático conjugado com a carbonila através de uma dupla ligação intermediária e possui uma longa cadeia hidrocarbônica apolar ligada ao oxigênio do éster. A alternativa A está incorreta porque, apesar da conjugação, apresenta terminação em ácido carboxílico hidrofílica, sem a cauda apolar. A alternativa B está incorreta porque não possui anel aromático. A alternativa C está incorreta porque não apresenta carbonila. A alternativa D está incorreta porque o grupo carbonila está separado do anel por duas ligações simples consecutivas, impedindo a conjugação necessária para absorver a radiação UV.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q45",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Considere a seguinte situação hipotética: ao preparar o palco para a apresentação de uma peça de teatro, o iluminador deveria colocar três atores sob luzes que tinham igual brilho e os demais, sob luzes de menor brilho. O iluminador determinou, então, aos técnicos, que instalassem no palco oito lâmpadas incandescentes com a mesma especificação (L1 a L8), interligadas em um circuito com uma bateria, conforme mostra a figura.\n\n[[FIG1]]\n\nNessa situação, quais são as três lâmpadas que acendem com o mesmo brilho por apresentarem igual valor de corrente fluindo nelas, sob as quais devem se posicionar os três atores?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "L1, L2 e L3."
+      },
+      {
+        "letter": "B",
+        "text": "L2, L3 e L4."
+      },
+      {
+        "letter": "C",
+        "text": "L2, L5 e L7."
+      },
+      {
+        "letter": "D",
+        "text": "L4, L5 e L6."
+      },
+      {
+        "letter": "E",
+        "text": "L4, L7 e L8."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q45-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada lâmpada possui a mesma resistência R. Analisando o circuito a partir da direita: L7 e L8 estão em série, totalizando 2R. Esse ramo está em paralelo com o ramo formado pelas lâmpadas L5 e L6 (que também estão em série, somando 2R). A resistência equivalente dessa combinação paralela é (2R * 2R)/(2R + 2R) = R. Essa associação de quatro lâmpadas (L5, L6, L7 e L8) está em série com a lâmpada L4, totalizando R + R = 2R. Por sua vez, esse conjunto de valor 2R está em paralelo com o ramo que contém L2 e L3 em série (que tem resistência R + R = 2R). Portanto, a corrente total que sai de L1 divide-se igualmente entre o ramo (L2-L3) e o ramo que contém L4. Assim, a corrente que passa por L4 é igual à corrente que passa por L2 e por L3 (ou seja, i_L4 = i_L2 = i_L3 = i_total/2). Com correntes iguais, as lâmpadas L2, L3 e L4 dissipam a mesma potência e brilham com a mesma intensidade, justificando a alternativa B. As alternativas A, C, D e E estão incorretas porque L1 recebe a corrente total (sendo a mais brilhante) e as lâmpadas L5, L6, L7 e L8 recebem apenas metade da corrente de L4 (i_total/4), brilhando menos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q73",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia da População",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\nCIATTONI, A. Géographie. L'espace mondial.\nParis: Hatier, 2008 (adaptado).\n\nA partir do mapa apresentado, é possível inferir que nas últimas décadas do século XX, registraram-se processos que resultaram em transformações na distribuição das atividades econômicas e da população sobre o território brasileiro, com reflexos no PIB por habitante. Assim,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país."
+      },
+      {
+        "letter": "B",
+        "text": "os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "o Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país."
+      },
+      {
+        "letter": "D",
+        "text": "o avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário."
+      },
+      {
+        "letter": "E",
+        "text": "o Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q73-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O mapa mostra a distribuição do PIB per capita em 2004, evidenciando valores expressivos em estados das regiões Centro-Oeste e Norte (como Mato Grosso e Amazonas), superando a média nacional em certas unidades. Esse fenômeno está associado à expansão da fronteira agrícola e mineral (agronegócio da soja e pecuária no Centro-Oeste e Zona Franca de Manaus e mineração no Norte), que impulsionou os setores primário, secundário e terciário nessas regiões, tornando a alternativa D correta. A alternativa A é incorreta porque as desigualdades regionais permanecem marcantes. A B é incorreta pois a migração acompanhou o dinamismo socioeconômico regional. A C é incorreta porque o Sudeste continua concentrando o maior PIB industrial do país. A E é incorreta porque o Nordeste apresentou crescimento econômico e atração de indústrias no período, e não retração generalizada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q77",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "A luta pela terra no Brasil é marcada por diversos aspectos que chamam a atenção. Entre os aspectos positivos, destaca-se a perseverança dos movimentos do campesinato e, entre os aspectos negativos, a violência que manchou de sangue essa história. Os movimentos pela reforma agrária articularam-se por todo o território nacional, principalmente entre 1985 e 1996, e conseguiram de maneira expressiva a inserção desse tema nas discussões pelo acesso à terra. O mapa seguinte apresenta a distribuição dos conflitos agrários em todas as regiões do Brasil nesse período, e o número de mortes ocorridas nessas lutas.\n\n[[FIG1]]\nOLIVEIRA, A. U. A longa marcha do campesinato brasileiro: movimentos sociais, conflitos e reforma agrária. Revista Estudos Avançados. Vol. 15 n. 43, São Paulo, set./dez. 2001.\n\nCom base nas informações do mapa acerca dos conflitos pela posse de terra no Brasil, a região",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conhecida historicamente como das Missões Jesuíticas é a de maior violência."
+      },
+      {
+        "letter": "B",
+        "text": "do Bico do Papagaio apresenta os números mais expressivos."
+      },
+      {
+        "letter": "C",
+        "text": "conhecida como oeste baiano tem o maior número de mortes."
+      },
+      {
+        "letter": "D",
+        "text": "do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país."
+      },
+      {
+        "letter": "E",
+        "text": "da Zona da Mata mineira teve o maior registro de mortes."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q77-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao observar a distribuição dos círculos no mapa, que representam o número total de assassinatos em conflitos rurais entre 1985 e 1996, nota-se que a maior concentração de grandes círculos situa-se na confluência dos estados do Pará, Tocantins e Maranhão, área geograficamente conhecida como o Bico do Papagaio. Essa região histórica foi palco de intensas disputas fundiárias envolvendo posseiros, grileiros e latifundiários, o que torna a alternativa B a correta. As outras alternativas estão incorretas: a região das Missões Jesuíticas (A), no Rio Grande do Sul, e a Zona da Mata mineira (E) apresentam círculos muito pequenos ou ausência de dados expressivos; o oeste baiano (C) e o norte de Mato Grosso (D) registram números significativos, porém inferiores aos da área do Bico do Papagaio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q78",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "O gráfico mostra o percentual de áreas ocupadas, segundo o tipo de propriedade rural no Brasil, no ano de 2006.\n\n[[FIG1]]\nMDA/INCRA (DIEESE, 2006)\nDisponível em: http://www.sober.org.br. Acesso em: 6 ago. 2009.\n\nDe acordo com o gráfico e com referência à distribuição das áreas rurais no Brasil, conclui-se que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões."
+      },
+      {
+        "letter": "B",
+        "text": "o índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola."
+      },
+      {
+        "letter": "C",
+        "text": "o percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra."
+      },
+      {
+        "letter": "D",
+        "text": "a região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental."
+      },
+      {
+        "letter": "E",
+        "text": "a região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q78-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A análise da tabela e do gráfico de barras mostra que, no Brasil como um todo, os imóveis improdutivos ocupam 63,8% da área total dos imóveis rurais. Além disso, ao analisar cada uma das regiões, constata-se que os imóveis improdutivos são maioria percentual em quatro das cinco regiões: Norte (82,6%), Nordeste (69,7%), Sudeste (48,4%) e Centro-Oeste (63,5%), sendo superados apenas na região Sul (38,3% contra 47,2% de produtivos). Dessa forma, os imóveis improdutivos predominam no país e na maioria das regiões, validando a alternativa A. A alternativa B é incorreta pois a improdutividade decorre principalmente da concentração fundiária e da especulação, não da fertilidade natural do solo. A C é incorreta pois a soma de produtivos e minifúndios no Brasil é 36,2%, bem inferior a 63,8%. A D é incorreta porque a região Norte apresenta o menor percentual (12,1%), e não o segundo menor. A E é incorreta pois a baixa área de minifúndios evidencia latifúndios, o que justifica a necessidade de reforma agrária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q84",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "[[FIG1]]\n\nBETHEL, L. História da América. V. I. São Paulo: Edusp, 1997.\n\nAs terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas."
+      },
+      {
+        "letter": "B",
+        "text": "o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa."
+      },
+      {
+        "letter": "C",
+        "text": "o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas."
+      },
+      {
+        "letter": "D",
+        "text": "Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas."
+      },
+      {
+        "letter": "E",
+        "text": "o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q84-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O mapa evidencia a linha vertical correspondente ao Tratado de Tordesilhas (1494), com a área hachurada delimitando o território português inicial. A área em cinza representa a expansão territorial reconhecida pelo Tratado de Madri (1750), que consagrou o princípio do uti possidetis, garantindo a Portugal a posse das terras efetivamente ocupadas a oeste da linha de Tordesilhas. Isso confirma a alternativa C. A alternativa A está errada porque a foz do rio Amazonas ficava sob controle espanhol segundo o traçado de Tordesilhas. A B está errada pois Tordesilhas utilizava um meridiano imaginário (370 léguas a oeste de Cabo Verde), e não rios. A D está errada porque San Ildefonso alterou limites na bacia platina em relação a Madri, mas Portugal mantinha um território muito superior ao de Tordesilhas. A E está errada porque o Tratado de Madri foi um acordo de fronteiras internacionais, não de criação de vice-reinos administrativos portugueses.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2009-q86",
+    "exam": "enem",
+    "year": 2009,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: http://clickdigitalsj.com.br. Acesso em: 9 jul. 2009.\n;\n\n[[FIG2]]\n\nDisponível em: http://conexaoambiental.zip.net/images/charge.jpg. Acesso em: 9 jul. 2009.\n\nReunindo-se as informações contidas nas duas charges, infere-se que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os regimes climáticos da Terra são desprovidos de padrões que os caracterizem."
+      },
+      {
+        "letter": "B",
+        "text": "as intervenções humanas nas regiões polares são mais intensas que em outras partes do globo."
+      },
+      {
+        "letter": "C",
+        "text": "o processo de aquecimento global será detido com a eliminação das queimadas."
+      },
+      {
+        "letter": "D",
+        "text": "a destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos."
+      },
+      {
+        "letter": "E",
+        "text": "os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2009-q86-1.webp",
+      "FIG2": "data/figuras/enem-2009-q86-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A primeira charge mostra pinguins sofrendo com calor extremo no Polo Sul no ano de 2100, caracterizando as consequências drásticas do aquecimento global. A segunda charge ilustra a devastação e queima de florestas tropicais, impactando populações tradicionais e contribuindo para a emissão de gases do efeito estufa. Ao conectar ambas as charges, compreende-se que as ações antrópicas locais, como o desmatamento e as queimadas em florestas tropicais, geram desequilíbrios climáticos em escala planetária, elevando as temperaturas médias globais e atingindo áreas distantes como as regiões polares, o que valida a alternativa D. A alternativa A é incorreta pois os regimes climáticos possuem padrões bem definidos. A B é incorreta porque as intervenções humanas mais intensas ocorrem em áreas temperadas e tropicais habitadas. A C é incorreta pois deter o aquecimento exige também a redução da queima de combustíveis fósseis. A E é incorreta porque processos naturais também atuam em escala global.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2009 – 1º dia, Azul"
+    }
   }
 ]
