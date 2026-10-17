@@ -77202,5 +77202,3139 @@
       "institution": "INEP",
       "note": "ENEM 2010 – 1º dia, 1-AZUL"
     }
+  },
+  {
+    "id": "enem-2010-esp-q91",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 91,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Los animales\n\nEn la Unión Europea desde el 1º de octubre de 2004 el uso de un pasaporte es obligatorio para los animales que viajan con su dueño en cualquier compañía.\nAVISO ESPECIAL: en España los animales deben haber sido vacunados contra la rabia antes de su dueño solicitar la documentación. Consultar a un veterinario.\n\nDisponível em: http://www.agencedelattre.com. Acesso em: 2 maio 2009 (adaptado).\n\nDe acordo com as informações sobre aeroportos e estações ferroviárias na Europa, uma pessoa que more na Espanha e queira viajar para a Alemanha com o seu cachorro deve",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "consultar as autoridades para verificar a possibilidade de viagem."
+      },
+      {
+        "letter": "B",
+        "text": "ter um certificado especial tirado em outubro de 2004."
+      },
+      {
+        "letter": "C",
+        "text": "tirar o passaporte do animal e logo vaciná-lo."
+      },
+      {
+        "letter": "D",
+        "text": "vacinar o animal contra todas as doenças."
+      },
+      {
+        "letter": "E",
+        "text": "vacinar o animal e depois solicitar o passaporte dele."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto apresenta um aviso especial para a Espanha: \"en España los animales deben haber sido vacunados contra la rabia antes de su dueño solicitar la documentación\". Isso significa que a vacinação contra a raiva deve ocorrer antes de se solicitar a documentação (o passaporte). Portanto, quem mora na Espanha e pretende viajar deve primeiro vacinar o animal e, em seguida, solicitar o seu passaporte, o que valida a alternativa E.\n\nA alternativa A é incorreta porque a regra para viagens com animais já está claramente estipulada. A alternativa B é incorreta porque outubro de 2004 foi a data em que a norma geral da UE entrou em vigor, não uma data de expedição de certificado. A alternativa C inverte a ordem das ações. A alternativa D é incorreta porque o texto especifica a vacinação contra a raiva, não contra todas as doenças.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2010-q91",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 91,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "THE DEATH OF THE PC\n\nThe days of paying for costly software upgrades are numbered. The PC will soon be obsolete. And BusinessWeek reports 70% of Americans are already using the technology that will replace it. Merrill Lynch calls it “a $160 billion tsunami.” Computing giants including IBM, Yahoo!, and Amazon are racing to be the first to cash in on this PC-killing revolution.\n\nYet, two little-known companies have a huge head start. Get their names in a free report from The Motley Fool called, “The Two Words Bill Gates Doesn´t Want You to Hear...”\n\nClick here for instant access to this FREE report!\n\nBROUGHT TO YOU BY THE MOTLEY FOOL\n\nDisponível em: http://www.fool.com. Acesso em: 21 jul. 2010.\n\nAo optar por ler a reportagem completa sobre o assunto anunciado, tem-se acesso a duas palavras que Bill Gates não quer que o leitor conheça e que se referem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aos responsáveis pela divulgação desta informação na internet."
+      },
+      {
+        "letter": "B",
+        "text": "às marcas mais importantes de microcomputadores do mercado."
+      },
+      {
+        "letter": "C",
+        "text": "aos nomes dos americanos que inventaram a suposta tecnologia."
+      },
+      {
+        "letter": "D",
+        "text": "aos sites da internet pelos quais o produto já pode ser conhecido."
+      },
+      {
+        "letter": "E",
+        "text": "às empresas que levam vantagem para serem suas concorrentes."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto afirma que \"two little-known companies have a huge head start\" (duas empresas pouco conhecidas têm uma grande vantagem inicial) nessa revolução tecnológica que ameaça o PC. Logo em seguida, indica que os nomes dessas empresas estão em um relatório intitulado \"The Two Words Bill Gates Doesn't Want You to Hear...\" (As duas palavras que Bill Gates não quer que você ouça). Portanto, essas duas palavras referem-se aos nomes das duas empresas que têm vantagem para concorrer com a Microsoft (de Bill Gates), justificando a alternativa E.\n\nA alternativa A é incorreta porque a divulgação é feita pelo The Motley Fool. A alternativa B é incorreta porque o texto trata de empresas que superariam o PC, não das marcas de microcomputadores tradicionais. A alternativa C é incorreta porque o texto fala de empresas e não de inventores americanos. A alternativa D é incorreta porque as palavras não se referem aos sites da internet.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2010-esp-q92",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 92,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Texto para as questões 92 e 93\n\nBilingüismo en la Educación Media\nContinuidad, no continuismo\n\nAun sin escuela e incluso a pesar de la escuela, paraguayos y paraguayas se están comunicando en guaraní. La comunidad paraguaya ha encontrado en la lengua guaraní una funcionalidad real que asegura su reproducción y continuidad. Esto, sin embargo, no basta. La inclusión de la lengua guaraní en el proceso de educación escolar fue sin duda un avance de la Reforma Educativa.\n\nGracias precisamente a los programas escolares, aun en contextos urbanos, el bilingüismo ha sido potenciado. Los guaraníhablantes se han acercado con mayor fuerza a la adquisición del castellano, y algunos castellanohablantes perdieron el miedo al guaraní y superaron los prejuicios en contra de él. Dejar fuera de la Educación Media al guaraní sería echar por la borda tanto trabajo realizado, tanta esperanza acumulada.\n\nCualquier intento de marginación del guaraní en la educación paraguaya merece la más viva y decidida protesta, pero esta postura ética no puede encubrir el continuismo de una forma de enseñanza del guaraní que ya ha causado demasiados estragos contra la lengua, contra la cultura y aun contra la lealtad que las paraguayas y paraguayos sienten por su querida lengua. El guaraní, lengua de comunicación sí y mil veces sí; lengua de imposición, no.\n\nMELIÀ, B. Disponível em: http://www.staff.uni-mainz.de. Acesso em: 27 abr. 2010 (adaptado).\n\nNo último parágrafo do fragmento sobre o bilinguismo no Paraguai, o autor afirma que a língua guarani, nas escolas, deve ser tratada como língua de comunicação e não de imposição. Qual dos argumentos abaixo foi usado pelo autor para defender essa ideia?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O guarani continua sendo usado pelos paraguaios, mesmo sem a escola e apesar dela."
+      },
+      {
+        "letter": "B",
+        "text": "O ensino médio no Paraguai, sem o guarani, desmereceria todo o trabalho realizado e as esperanças acumuladas."
+      },
+      {
+        "letter": "C",
+        "text": "A língua guarani encontrou uma funcionalidade real que assegura sua reprodução e continuidade, mas só isso não basta."
+      },
+      {
+        "letter": "D",
+        "text": "A introdução do guarani nas escolas potencializou a difusão da língua, mas é necessário que haja uma postura ética em seu ensino."
+      },
+      {
+        "letter": "E",
+        "text": "O bilinguismo na maneira de ensinar o guarani tem causado estragos contra a língua, a cultura e a lealdade dos paraguaios ao guarani."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O autor conclui o texto sustentando que o guarani deve ser uma língua de comunicação, e não de imposição autoritária. Para fundamentar essa posição, ele argumenta no último parágrafo que, embora a presença do idioma na educação formal mereça defesa e tenha impulsionado seu alcance, essa atitude ética não pode justificar a continuidade de métodos pedagógicos impositivos que prejudicam a própria relação dos estudantes com a língua. Portanto, a alternativa D está correta.\n\nA alternativa A está incorreta porque o uso do guarani fora da escola é mencionado na introdução, não como argumento do parágrafo final. A alternativa B é incorreta por citar uma ideia presente no segundo parágrafo sobre a permanência da disciplina no ensino médio. A alternativa C está incorreta por retomar afirmações do primeiro parágrafo. A alternativa E está incorreta porque o autor aponta prejuízos decorrentes do método impositivo de ensino, e não do bilinguismo em si.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2010-q92",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 92,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Viva la Vida\n\nI used to rule the world\nSeas would rise when I gave the word\nNow in the morning and I sleep alone\nSweep the streets I used to own\n\nI used to roll the dice\nFeel the fear in my enemy’s eyes\nListen as the crowd would sing\n“Now the old king is dead! Long live the king!”\n\nOne minute I held the key\nNext the walls were closed on me\nAnd I discovered that my castles stand\nUpon pillars of salt and pillars of sand\n[...]\n\nMARTIN, C. Viva la vida, Coldplay. In: Viva la vida or Death and all his friends. Parlophone, 2008.\n\nLetras de músicas abordam temas que, de certa forma, podem ser reforçados pela repetição de trechos ou palavras. O fragmento da canção Viva la vida, por exemplo, permite conhecer o relato de alguém que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "costumava ter o mundo aos seus pés e, de repente, se viu sem nada."
+      },
+      {
+        "letter": "B",
+        "text": "almeja o título de rei e, por ele, tem enfrentado inúmeros inimigos."
+      },
+      {
+        "letter": "C",
+        "text": "causa pouco temor a seus inimigos, embora tenha muito poder."
+      },
+      {
+        "letter": "D",
+        "text": "limpava as ruas e, com seu esforço, tornou-se rei de seu povo."
+      },
+      {
+        "letter": "E",
+        "text": "tinha a chave para todos os castelos nos quais desejava morar."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na letra da canção, o eu lírico afirma \"I used to rule the world\" (Eu costumava governar o mundo) e \"Now in the morning I sleep alone / Sweep the streets I used to own\" (Agora de manhã durmo sozinho / Varro as ruas que costumava possuir), além de constatar que seus castelos estavam apoiados sobre \"pilares de sal e pilares de areia\". Essas passagens evidenciam o relato de alguém que já possuiu muito poder e glória, mas perdeu tudo repentinamente, o que valida a alternativa A.\n\nA alternativa B é incorreta porque o personagem já foi rei no passado e perdeu a posição. A alternativa C é incorreta porque ele diz que sentia o medo nos olhos dos inimigos quando governava. A alternativa D inverte o sentido: ele era rei e agora varre as ruas. A alternativa E toma a metáfora da chave em sentido literal, ignorando a perda do poder.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2010-esp-q93",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Em alguns países bilíngues, o uso de uma língua pode se sobrepor à outra, gerando uma mobilização social em prol da valorização da menos proeminente. De acordo com o texto, no caso do Paraguai, esse processo se deu pelo (a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "falta de continuidade do ensino do guarani nos programas escolares."
+      },
+      {
+        "letter": "B",
+        "text": "preconceito existente contra o guarani principalmente nas escolas."
+      },
+      {
+        "letter": "C",
+        "text": "esperança acumulada na reforma educativa da educação média."
+      },
+      {
+        "letter": "D",
+        "text": "inclusão e permanência do ensino do guarani nas escolas."
+      },
+      {
+        "letter": "E",
+        "text": "continuísmo do ensino do castelhano nos centros urbanos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto aponta que o avanço na valorização do guarani frente ao castelhano decorreu de sua inserção no sistema educacional: \"La inclusión de la lengua guaraní en el proceso de educación escolar fue sin duda un avance de la Reforma Educativa\" e \"Gracias precisamente a los programas escolares, aun en contextos urbanos, el bilingüismo ha sido potenciado\". A permanência e a inclusão da língua nos programas de ensino permitiram superar preconceitos e aproximar falantes de ambas as línguas, justificando a alternativa D.\n\nA alternativa A é incorreta porque a valorização decorreu da presença e continuidade, e não de sua falta. A alternativa B é incorreta porque o preconceito foi atenuado pelos programas escolares, e não o causador do processo positivo. A alternativa C é incorreta porque a esperança é consequência do processo já iniciado, não a causa em si. A alternativa E é incorreta porque o foco é o fortalecimento do guarani, não o continuísmo do castelhano.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2010-q93",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "THE WEATHER MAN\n\nThey say that the British love talking about the weather. For other nationalities this can be a banal and boring subject of conversation, something that people talk about when they have nothing else to say to each other. And yet the weather is a very important part of our lives. That at least is the opinion of Barry Gromett, press officer for The Met Office. This is located in Exeter, a pretty cathedral city in the southwest of England. Here employees – and computers – supply weather forecasts for much of the world.\n\nSpeak Up. Ano XXIII, nº 275.\n\nAo conversar sobre a previsão do tempo, o texto mostra",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o aborrecimento do cidadão britânico ao falar sobre banalidades."
+      },
+      {
+        "letter": "B",
+        "text": "a falta de ter o que falar em situações de avaliação de línguas."
+      },
+      {
+        "letter": "C",
+        "text": "a importância de se entender sobre meteorologia para falar inglês."
+      },
+      {
+        "letter": "D",
+        "text": "as diferenças e as particularidades culturais no uso de uma língua."
+      },
+      {
+        "letter": "E",
+        "text": "o conflito entre diferentes ideias e opiniões ao se comunicar em inglês."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto contrasta o hábito dos britânicos de falar sobre o tempo meteorológico com a percepção de outras nacionalidades, para as quais falar sobre o clima pode parecer um assunto banal, entediante ou usado apenas quando não há o que dizer. Assim, o texto evidencia que o modo e o conteúdo da conversa variam segundo a cultura de cada povo, ressaltando as diferenças e particularidades culturais no uso da língua, o que torna a alternativa D correta.\n\nA alternativa A é incorreta porque os britânicos adoram falar sobre o tempo, não se aborrecem. A alternativa B é incorreta porque o texto não menciona situações formais de avaliação linguística. A alternativa C é incorreta porque não se exige conhecimento técnico em meteorologia para falar inglês. A alternativa E é incorreta porque o texto não aborda conflitos de ideias ou opiniões entre falantes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2010-esp-q94",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 94,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Dejar de fumar engorda, pero seguir haciéndolo, también. Esa es la conclusión a la que han llegado investigadores de la Universidad de Navarra que han hecho un seguimiento de 7.565 personas durante 50 meses. Los datos “se han ajustado por edad, sexo, índice de masa corporal inicial y estilo de vida”, ha explicado el director del ensayo, Javier Basterra-Gortari, por lo que “el único factor que queda es el tabaquismo”. El estudio se ha publicado en la Revista Española de Cardiología.\n\n“El tabaco es un anorexígeno [quita el apetito], y por eso las personas que dejan de fumar engordan”, añade Basterra-Gortari. Eso hace mucho más relevante el hallazgo del estudio. Puesto en orden, los que más peso ganan son los que dejan de fumar, luego, los que siguen haciéndolo, y, por último, los que nunca han fumado, indica el investigador. “Por eso lo mejor para mantener una vida saludable es no fumar nunca”, añade.\n\nBENITO, E. Disponível em: http://www.elpais.com/articulo/sociedad. Acesso em: 23 abr. 2010 (fragmento).\n\nO texto jornalístico caracteriza-se basicamente por apresentar informações a respeito dos mais variados assuntos, e seu título antecipa o tema que será tratado. Tomando como base o fragmento, qual proposição identifica o tema central e poderia ser usada como título?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Estilo de vida interfere no ganho de peso."
+      },
+      {
+        "letter": "B",
+        "text": "Estudo mostra expectativa de vida dos fumantes."
+      },
+      {
+        "letter": "C",
+        "text": "Pessoas que fumam podem se tornar anoréxicas."
+      },
+      {
+        "letter": "D",
+        "text": "Fumantes engordam mais que não fumantes."
+      },
+      {
+        "letter": "E",
+        "text": "Tabagismo como fator de emagrecimento."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto aborda uma pesquisa sobre o ganho de peso relacionado ao hábito de fumar: \"Dejar de fumar engorda, pero seguir haciéndolo, también\" e detalha que, em ordem de ganho de peso, estão os que param de fumar, seguidos pelos que continuam fumando e, por último, os que nunca fumaram. Dessa forma, conclui-se que quem fuma ganha mais peso ao longo do tempo do que quem nunca fumou, servindo perfeitamente de tema central a afirmação de que \"fumantes engordam mais que não fumantes\" (alternativa D).\n\nA alternativa A é incorreta porque o texto indica que a variável analisada foi isolada do estilo de vida. A alternativa B é incorreta porque o foco é o ganho de peso, não a expectativa de vida. A alternativa C é incorreta porque cita o efeito anorexígeno do tabaco para explicar por que parar de fumar engorda, não que fumantes se tornam anoréxicos. A alternativa E é incorreta porque o estudo aponta ganho de peso em quem continua fumando.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2010-q94",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 94,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "MILLENIUM GOALS\n\n[[FIG1]]\n\nDisponível em: http://www.chris-alexander.co.uk/1191. Acesso em: 28 jul. 2010 (adaptado).\n\nDefinidas pelos países membros da Organização das Nações Unidas e por organizações internacionais, as metas de desenvolvimento do milênio envolvem oito objetivos a serem alcançados até 2015. Apesar da diversidade cultural, esses objetivos, mostrados na imagem, são comuns ao mundo todo, sendo dois deles:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O combate à AIDS e a melhoria do ensino universitário."
+      },
+      {
+        "letter": "B",
+        "text": "A redução da mortalidade adulta e a criação de parcerias globais."
+      },
+      {
+        "letter": "C",
+        "text": "A promoção da igualdade de gêneros e a erradicação da pobreza."
+      },
+      {
+        "letter": "D",
+        "text": "A parceria global para o desenvolvimento e a valorização das crianças."
+      },
+      {
+        "letter": "E",
+        "text": "A garantia da sustentabilidade ambiental e o combate ao trabalho infantil."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q94-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A imagem apresenta os oito Objetivos de Desenvolvimento do Milênio. Analisando as opções e comparando com as metas: a meta 1 é \"Eradicate extreme poverty and hunger\" (erradicar a extrema pobreza e a fome) e a meta 3 é \"Promote gender equality and empower women\" (promover a igualdade de gênero e empoderar as mulheres). Esses dois objetivos estão descritos perfeitamente na alternativa C.\n\nA alternativa A está incorreta porque o objetivo 2 trata de ensino primário (universal primary education), e não universitário. A alternativa B está incorreta porque o objetivo 4 visa reduzir a mortalidade infantil (child mortality), não adulta. A alternativa D está incorreta porque a valorização infantil não é a descrição de uma das metas específicas. A alternativa E está incorreta porque não há menção explícita nas metas ao combate ao trabalho infantil, mas sim à educação primária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2010-esp-q95",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 95,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "[[FIG1]]\n\n¡BRINCANDO!\n\nKangaROOS llega a México con diseños atléticos, pero muy fashion. Tienen un toque vintage con diferentes formas y combinaciones de colores. Lo más cool de estos tenis es que tienen bolsas para guardar llaves o dinero. Son ideales para hacer ejercicio y con unos jeans obtendrás un look urbano.\n\nwww.kangaroos.com\n\nRevista Glamour Latinoamérica. México, mar. 2010.\n\nO texto publicitário utiliza diversas estratégias para enfatizar as características do produto que pretende vender. Assim, no texto, o uso de vários termos de outras línguas, que não a espanhola, tem a intenção de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atrair a atenção do público alvo dessa propaganda."
+      },
+      {
+        "letter": "B",
+        "text": "popularizar a prática de exercícios esportivos."
+      },
+      {
+        "letter": "C",
+        "text": "agradar aos compradores ingleses desse tênis."
+      },
+      {
+        "letter": "D",
+        "text": "incentivar os espanhóis a falarem outras línguas."
+      },
+      {
+        "letter": "E",
+        "text": "enfatizar o conhecimento de mundo do autor do texto."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-esp-q95-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto publicitário emprega palavras em inglês como \"fashion\", \"vintage\", \"cool\", \"jeans\" e \"look\". Esses estrangeirismos associam o produto à modernidade, juventude e tendências de moda globais, funcionando como um recurso expressivo para atrair o público jovem e urbano interessado em moda e esportes, o público-alvo do calçado. Isso confirma a alternativa A.\n\nA alternativa B é incorreta porque os estrangeirismos caracterizam o estilo do produto, e não têm a intenção primária de incentivar a prática esportiva. A alternativa C é incorreta porque o anúncio foi publicado em uma revista latino-americana direcionada ao mercado mexicano. A alternativa D é incorreta porque um anúncio comercial não tem finalidade de instrução de idiomas. A alternativa E é incorreta porque as estratégias publicitárias focam na persuasão do público, não em demonstrar erudição pessoal do redator.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2010-q95",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 95,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: http://www.meganbergdesigns.com/andrill/iceberg07/postcards/index.html.\nAcesso em: 29 jul. 2010 (adaptado).\n\nOs cartões-postais costumam ser utilizados por viajantes que desejam enviar notícias dos lugares que visitam a parentes e amigos. Publicado no site do projeto ANDRILL, o texto em formato de cartão-postal tem o propósito de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "comunicar o endereço da nova sede do projeto nos Estados Unidos."
+      },
+      {
+        "letter": "B",
+        "text": "convidar colecionadores de cartões-postais a se reunirem em um evento."
+      },
+      {
+        "letter": "C",
+        "text": "anunciar uma nova coleção de selos para angariar fundos para a Antártica."
+      },
+      {
+        "letter": "D",
+        "text": "divulgar às pessoas a possibilidade de receberem um cartão-postal da Antártica."
+      },
+      {
+        "letter": "E",
+        "text": "solicitar que as pessoas visitem o site do mencionado projeto com maior frequência."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q95-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cartão-postal traz a chamada \"Trade postcards with us!\" (Troque cartões-postais conosco!) e orienta o leitor: \"Send us a postcard [...] and what you would like to know about the ANDRILL project, or a question you have about Antarctica, and we'll send a postcard to you from the ice!\" (Envie-nos um cartão-postal [...] e enviaremos um cartão-postal para você do gelo!). Ou seja, o objetivo do texto é divulgar que o público pode receber um cartão-postal vindo diretamente da Antártica, tornando correta a alternativa D.\n\nA alternativa A é incorreta porque o endereço serve apenas para envio da correspondência ao projeto, não para anunciar uma nova sede. A alternativa B é incorreta porque não há convocação para reunião de colecionadores. A alternativa C é incorreta porque o texto não lança nem vende uma nova coleção de selos. A alternativa E é incorreta porque a principal chamada da ação é a troca física de cartões-postais, e não o aumento de visitas ao site.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2010-q96",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 96,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "[[FIG1]]\n\nBESSINHA. Disponível em: http://pattindica.files.wordpress.com/2009/06/bessinha458904-jpg-image_1245119001858.jpeg (adaptado).\n\nAs diferentes esferas sociais de uso da língua obrigam o falante a adaptá-la às variadas situações de comunicação. Uma das marcas linguísticas que configuram a linguagem oral informal usada entre avô e neto neste texto é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a opção pelo emprego da forma verbal “era” em lugar de “foi”."
+      },
+      {
+        "letter": "B",
+        "text": "a ausência de artigo antes da palavra “árvore”."
+      },
+      {
+        "letter": "C",
+        "text": "o emprego da redução “tá” em lugar da forma verbal “está”."
+      },
+      {
+        "letter": "D",
+        "text": "o uso da contração “desse” em lugar da expressão “de esse”."
+      },
+      {
+        "letter": "E",
+        "text": "a utilização do pronome “que” em início de frase exclamativa."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q96-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na fala do avô presente na tirinha: \"Árvore era assim, desse jeito, Juquinha... Tá vendo???\", observa-se o uso de \"tá\", forma apocopada e reduzida do verbo \"estar\" (\"está vendo\"), típica da linguagem coloquial e do registro oral informal do português brasileiro. Portanto, a alternativa C é a correta.\n\nA alternativa A é incorreta porque \"era\" é uma forma padrão do pretérito imperfeito do indicativo, adequada à descrição habitual no passado. A alternativa B é incorreta porque a omissão de artigo no início da oração nesse contexto funciona como generalização temática. A alternativa D é incorreta porque a contração da preposição \"de\" com o pronome demonstrativo \"esse\" gerando \"desse\" é padrão na língua portuguesa. A alternativa E é incorreta porque \"Que barato\" é uma estrutura exclamativa perfeitamente aceita no padrão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q97",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 97,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "A biosfera, que reúne todos os ambientes onde se desenvolvem os seres vivos, se divide em unidades menores chamadas ecossistemas, que podem ser uma floresta, um deserto e até um lago. Um ecossistema tem múltiplos mecanismos que regulam o número de organismos dentro dele, controlando sua reprodução, crescimento e migrações.\n\nDUARTE, M. O guia dos curiosos. São Paulo: Companhia das Letras, 1995.\n\nPredomina no texto a função da linguagem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "emotiva, porque o autor expressa seu sentimento em relação à ecologia."
+      },
+      {
+        "letter": "B",
+        "text": "fática, porque o texto testa o funcionamento do canal de comunicação."
+      },
+      {
+        "letter": "C",
+        "text": "poética, porque o texto chama a atenção para os recursos de linguagem."
+      },
+      {
+        "letter": "D",
+        "text": "conativa, porque o texto procura orientar comportamentos do leitor."
+      },
+      {
+        "letter": "E",
+        "text": "referencial, porque o texto trata de noções e informações conceituais."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto apresenta conceitos e explicações científicas sobre a biosfera e os ecossistemas, informando o leitor de forma objetiva, direta e impessoal a respeito de dados da realidade. O foco da mensagem é o próprio referente (o contexto/assunto), o que caracteriza a função referencial ou denotativa da linguagem, confirmando a alternativa E.\n\nA alternativa A é incorreta porque o autor não manifesta suas emoções ou sentimentos (função emotiva). A alternativa B é incorreta porque não há o teste do canal nem saudações para manter o contato (função fática). A alternativa C é incorreta porque não há preocupação estética com a construção da mensagem (função poética). A alternativa D é incorreta porque o texto não busca persuadir ou dar ordens ao leitor (função conativa).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q98",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 98,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "Câncer 21/06 a 21/07\n\nO eclipse em seu signo vai desencadear mudanças na sua autoestima e no seu modo de agir. O corpo indicará onde você falha – se anda engolindo sapos, a área gástrica se ressentirá. O que ficou guardado virá à tona para ser transformado, pois este novo ciclo exige uma “desintoxicação”. Seja comedida em suas ações, já que precisará de energia para se recompor. Há preocupação com a família, e a comunicação entre os irmãos trava. Lembre-se: palavra preciosa é palavra dita na hora certa. Isso ajuda também na vida amorosa, que será testada. Melhor conter as expectativas e ter calma, avaliando as próprias carências de modo maduro. Sentirá vontade de olhar além das questões materiais – sua confiança virá da intimidade com os assuntos da alma.\n\nRevista Cláudia. Nº 7, ano 48, jul. 2009.\n\nO reconhecimento dos diferentes gêneros textuais, seu contexto de uso, sua função social específica, seu objetivo comunicativo e seu formato mais comum relacionam-se aos conhecimentos construídos socioculturalmente. A análise dos elementos constitutivos desse texto demonstra que sua função é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vender um produto anunciado."
+      },
+      {
+        "letter": "B",
+        "text": "informar sobre astronomia."
+      },
+      {
+        "letter": "C",
+        "text": "ensinar os cuidados com a saúde."
+      },
+      {
+        "letter": "D",
+        "text": "expor a opinião de leitores em um jornal."
+      },
+      {
+        "letter": "E",
+        "text": "aconselhar sobre amor, família, saúde, trabalho."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto pertence ao gênero horóscopo (indicado pelo signo de Câncer e o período de nascimento correspondente). Sua finalidade principal é prever tendências astrológicas e orientar o leitor por meio de recomendações e conselhos práticos e emocionais sobre relacionamentos amorosos, dinâmica familiar, bem-estar, saúde e atitudes cotidianas (\"Seja comedida em suas ações\", \"Melhor conter as expectativas e ter calma\"). Portanto, a alternativa E está correta.\n\nA alternativa A é incorreta porque não há oferta comercial de produto. A alternativa B é incorreta porque o texto trata de astrologia e conselhos de vida, não de ciência astronômica. A alternativa C é incorreta porque a saúde é mencionada apenas de passagem como reflexo emocional, não como foco prescritivo de saúde. A alternativa D é incorreta porque não se trata de uma carta ou comentário de leitores.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q99",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 99,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "S.O.S Português\n\nPor que pronunciamos muitas palavras de um jeito diferente da escrita? Pode-se refletir sobre esse aspecto da língua com base em duas perspectivas. Na primeira delas, fala e escrita são dicotômicas, o que restringe o ensino da língua ao código. Daí vem o entendimento de que a escrita é mais complexa que a fala, e seu ensino restringe-se ao conhecimento das regras gramaticais, sem a preocupação com situações de uso. Outra abordagem permite encarar as diferenças como um produto distinto de duas modalidades da língua: a oral e a escrita. A questão é que nem sempre nos damos conta disso.\n\nS.O.S Português. Nova Escola. São Paulo: Abril, Ano XXV, nº 231, abr. 2010 (fragmento adaptado).\n\nO assunto tratado no fragmento é relativo à língua portuguesa e foi publicado em uma revista destinada a professores. Entre as características próprias desse tipo de texto, identificam-se as marcas linguísticas próprias do uso",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regional, pela presença de léxico de determinada região do Brasil."
+      },
+      {
+        "letter": "B",
+        "text": "literário, pela conformidade com as normas da gramática."
+      },
+      {
+        "letter": "C",
+        "text": "técnico, por meio de expressões próprias de textos científicos."
+      },
+      {
+        "letter": "D",
+        "text": "coloquial, por meio do registro de informalidade."
+      },
+      {
+        "letter": "E",
+        "text": "oral, por meio do uso de expressões típicas da oralidade."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto discute aspectos teóricos sobre a diferença entre fala e escrita recorrendo ao jargão linguístico e acadêmico, empregando vocabulário conceitual e especializado como \"dicotômicas\", \"código\", \"regras gramaticais\" e \"modalidades da língua\". Essas escolhas lexicais constituem marcas próprias do registro técnico e científico, voltado a profissionais da área (professores de língua), justificando a alternativa C.\n\nA alternativa A é incorreta porque não há vocabulário restrito a uma região geográfica. A alternativa B é incorreta porque conformidade gramatical não define o texto literário, caracterizado antes pela função poética e conotativa. A alternativa D é incorreta porque o registro é formal, não coloquial. A alternativa E é incorreta porque o fragmento utiliza linguagem padrão formal escrita, sem marcas de oralidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q100",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 100,
+    "day": 2,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte",
+      "Linguagens Artísticas"
+    ],
+    "statement": "Na busca constante pela sua evolução, o ser humano vem alternando a sua maneira de pensar, de sentir e de criar. Nas últimas décadas do século XVIII e no início do século XIX, os artistas criaram obras em que predominam o equilíbrio e a simetria de formas e cores, imprimindo um estilo caracterizado pela imagem da respeitabilidade, da sobriedade, do concreto e do civismo. Esses artistas misturaram o passado ao presente, retratando os personagens da nobreza e da burguesia, além de cenas míticas e histórias cheias de vigor.\n\nRAZOUK, J. J. (Org.). Histórias reais e belas nas telas. Posigraf: 2003.\n\nAtualmente, os artistas apropriam-se de desenhos, charges, grafismo e até de ilustrações de livros para compor obras em que se misturam personagens de diferentes épocas, como na seguinte imagem:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Romero Brito.“Gisele e Tom”.",
+        "image": "data/figuras/enem-2010-q100-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "Andy Warhol. “Michael Jackson”.",
+        "image": "data/figuras/enem-2010-q100-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "Funny Filez.“Monabean”.",
+        "image": "data/figuras/enem-2010-q100-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "Andy Warhol. “Marlyn Monroe”.",
+        "image": "data/figuras/enem-2010-q100-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "Pablo Picasso. “Retrato de Jaqueline Roque com as Mãos Cruzadas”.",
+        "image": "data/figuras/enem-2010-q100-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q100-1.webp",
+      "FIG2": "data/figuras/enem-2010-q100-2.webp",
+      "FIG3": "data/figuras/enem-2010-q100-3.webp",
+      "FIG4": "data/figuras/enem-2010-q100-4.webp",
+      "FIG5": "data/figuras/enem-2010-q100-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O enunciado destaca a prática de artistas contemporâneos que se apropriam de elementos visuais diversos para misturar personagens de diferentes épocas. Na imagem C (\"Monabean\", de Funny Filez), há a apropriação direta da célebre pintura da Mona Lisa (Renascimento, início do século XVI, de Leonardo da Vinci), fundida com a figura cômica moderna do personagem britânico contemporâneo Mr. Bean (século XX/XXI), além de seu urso de pelúcia, caracterizando perfeitamente essa fusão de épocas e estilos, o que valida a alternativa C.\n\nAs alternativas A, B, D e E não realizam a mistura de personagens de diferentes épocas: em A há duas figuras contemporâneas; em B e D são retratos serigráficos de personalidades do século XX pelo movimento Pop Art; em E é uma pintura modernista (cubista) de Jaqueline Roque feita por Picasso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q101",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 101,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "MOSTRE QUE SUA MEMÓRIA É MELHOR DO QUE A DE COMPUTADOR E GUARDE ESTA CONDIÇÃO: 12X SEM JUROS.\n\nCampanha publicitária de loja de eletroeletrônicos. Revista Época. N° 424, 03 jul. 2006.\n\nAo circularem socialmente, os textos realizam-se como práticas de linguagem, assumindo configurações específicas, formais e de conteúdo. Considerando o contexto em que circula o texto publicitário, seu objetivo básico é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "influenciar o comportamento do leitor, por meio de apelos que visam à adesão ao consumo."
+      },
+      {
+        "letter": "B",
+        "text": "definir regras de comportamento social pautadas no combate ao consumismo exagerado."
+      },
+      {
+        "letter": "C",
+        "text": "defender a importância do conhecimento de informática pela população de baixo poder aquisitivo."
+      },
+      {
+        "letter": "D",
+        "text": "facilitar o uso de equipamentos de informática pelas classes sociais economicamente desfavorecidas."
+      },
+      {
+        "letter": "E",
+        "text": "questionar o fato de o homem ser mais inteligente que a máquina, mesmo a mais moderna."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto publicitário tem como função predominante a conativa ou apelativa, utilizando verbos no imperativo (como 'mostre' e 'guarde') e argumentos persuasivos para convencer o interlocutor. Ao estabelecer uma comparação bem-humorada com a memória do computador, o anúncio busca captar a atenção do leitor e induzi-lo à compra facilitada pelo parcelamento em 12 vezes sem juros, o que valida a alternativa A.\n\nA alternativa B está incorreta porque o texto incentiva, e não combate, o consumo. A alternativa C está incorreta porque o anúncio não tem cunho social ou educativo voltado à democratização da informática. A alternativa D é incorreta porque a propaganda apenas promove vendas parceladas da loja, sem pretensão de inclusão digital. A alternativa E está incorreta porque a comparação entre homem e máquina é apenas um recurso retórico, sem intenção de aprofundar um debate filosófico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q102",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 102,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem",
+      "Interpretação de Texto"
+    ],
+    "statement": "Testes\n\nDia desses resolvi fazer um teste proposto por um site da internet. O nome do teste era tentador: “O que Freud diria de você”. Uau. Respondi a todas as perguntas e o resultado foi o seguinte: “Os acontecimentos da sua infância a marcaram até os doze anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”. Perfeito! Foi exatamente o que aconteceu comigo. Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise, e ele acertou na mosca.\n\nEstava com tempo sobrando, e curiosidade é algo que não me falta, então resolvi voltar ao teste e responder tudo diferente do que havia respondido antes. Marquei umas alternativas esdrúxulas, que nada tinham a ver com minha personalidade. E fui conferir o resultado, que dizia o seguinte: “Os acontecimentos da sua infância a marcaram até os 12 anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”.\n\nMEDEIROS, M. Doidas e santas. Porto Alegre, 2008 (adaptado).\n\nQuanto às influências que a internet pode exercer sobre os usuários, a autora expressa uma reação irônica no trecho:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "“Marquei umas alternativas esdrúxulas, que nada tinham a ver”."
+      },
+      {
+        "letter": "B",
+        "text": "“Os acontecimentos da sua infância a marcaram até os doze anos”."
+      },
+      {
+        "letter": "C",
+        "text": "“Dia desses resolvi fazer um teste proposto por um site da internet”."
+      },
+      {
+        "letter": "D",
+        "text": "“Respondi a todas as perguntas e o resultado foi o seguinte”."
+      },
+      {
+        "letter": "E",
+        "text": "“Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise”."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A ironia consiste em afirmar algo com o intuito de sugerir o oposto, geralmente com tom crítico ou humorístico. No trecho 'Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise', a autora finge um entusiasmo desmedido e atribui um caráter místico a Freud para ridicularizar a superficialidade e a falta de credibilidade dos testes populares da internet, tornando a alternativa E correta.\n\nA alternativa A está incorreta porque apenas descreve uma ação pragmática da autora para testar o site. A alternativa B está incorreta porque consiste na reprodução literal do resultado genérico fornecido pela plataforma. A alternativa C está incorreta porque apresenta apenas uma contextualização temporal e factual dos acontecimentos. A alternativa D está incorreta porque relata objetivamente as etapas do procedimento realizado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q125",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 125,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Produção Textual e Redação"
+    ],
+    "statement": "Texto para as questões 125 e 126\n\nA carreira do crime\n\nEstudo feito por pesquisadores da Fundação Oswaldo Cruz sobre adolescentes recrutados pelo tráfico de drogas nas favelas cariocas expõe as bases sociais dessas quadrilhas, contribuindo para explicar as dificuldades que o Estado enfrenta no combate ao crime organizado.\n\nO tráfico oferece aos jovens de escolaridade precária (nenhum dos entrevistados havia completado o ensino fundamental) um plano de carreira bem estruturado, com salários que variam de R$ 400,00 a R$ 12.000 mensais. Para uma base de comparação, convém notar que, segundo dados do IBGE de 2001, 59% da população brasileira com mais de dez anos que declara ter uma atividade remunerada ganha no máximo o 'piso salarial' oferecido pelo crime. Dos traficantes ouvidos pela pesquisa, 25% recebiam mais de R$ 2.000 mensais; já na população brasileira essa taxa não ultrapassa 6%.\n\nTais rendimentos mostram que as políticas sociais compensatórias, como o Bolsa-Escola (que paga R$ 15 mensais por aluno matriculado), são por si só incapazes de impedir que o narcotráfico continue aliciando crianças provenientes de estratos de baixa renda: tais políticas aliviam um pouco o orçamento familiar e incentivam os pais a manterem os filhos estudando, o que de modo algum impossibilita a opção pela deliquência. No mesmo sentido, os programas voltados aos jovens vulneráveis ao crime organizado (circo-escolas, oficinas de cultura, escolinhas de futebol) são importantes, mas não resolvem o problema.\n\nA única maneira de reduzir a atração exercida pelo tráfico é a repressão, que aumenta os riscos para os que escolhem esse caminho. Os rendimentos pagos aos adolescentes provam isso: eles são elevados precisamente porque a possibilidade de ser preso não é desprezível. É preciso que o Executivo federal e os estaduais desmontem as organizações paralelas erguidas pelas quadrilhas, para que a certeza de punição elimine o fascínio dos salários do crime.\n\nEditorial. Folha de São Paulo. 15 jan. 2003.\n\nCom base nos argumentos do autor, o texto aponta para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uma denúncia de quadrilhas que se organizam em torno do narcotráfico."
+      },
+      {
+        "letter": "B",
+        "text": "a constatação de que o narcotráfico restringe-se aos centros urbanos."
+      },
+      {
+        "letter": "C",
+        "text": "a informação de que as políticas sociais compensatórias eliminarão a atividade criminosa a longo prazo."
+      },
+      {
+        "letter": "D",
+        "text": "o convencimento do leitor de que para haver a superação do problema do narcotráfico é preciso aumentar a ação policial."
+      },
+      {
+        "letter": "E",
+        "text": "uma exposição numérica realizada com o fim de mostrar que o negócio do narcotráfico é vantajoso e sem riscos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao longo do editorial, o autor argumenta que as políticas sociais isoladas não impedem o aliciamento de jovens devido aos altos ganhos do narcotráfico. A conclusão expressa no último parágrafo sustenta explicitamente que a 'única maneira de reduzir a atração exercida pelo tráfico é a repressão' por parte dos governos federal e estaduais, visando aumentar o risco e a certeza de punição. Assim, o objetivo é persuadir o leitor quanto à necessidade do endurecimento policial e institucional, justificando a alternativa D.\n\nA alternativa A está incorreta porque o foco não é a denúncia de quadrilhas específicas, mas a análise do fenômeno socioeconômico. A alternativa B está incorreta porque não se afirma que o tráfico se limita a centros urbanos. A alternativa C está incorreta porque o texto afirma que tais políticas são insuficientes por si sós. A alternativa E está incorreta porque os números visam fundamentar o argumento do autor, e o texto destaca justamente o alto risco de prisão envolvido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q126",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 126,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Produção Textual e Redação"
+    ],
+    "statement": "No Editorial, o autor defende a tese de que \"as políticas sociais que procuram evitar a entrada dos jovens no tráfico não terão chance de sucesso enquanto a remuneração oferecida pelos traficantes for tão mais compensatória que aquela oferecida pelos programas do governo\". Para comprovar sua tese, o autor apresenta",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "instituições que divulgam o crescimento de jovens no crime organizado."
+      },
+      {
+        "letter": "B",
+        "text": "sugestões que ajudam a reduzir a atração exercida pelo crime organizado."
+      },
+      {
+        "letter": "C",
+        "text": "políticas sociais que impedem o aliciamento de crianças no crime organizado."
+      },
+      {
+        "letter": "D",
+        "text": "pesquisadores que se preocupam com os jovens envolvidos no crime organizado."
+      },
+      {
+        "letter": "E",
+        "text": "números que comparam os valores pagos entre os programas de governo e o crime organizado."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para sustentar a ideia de que a remuneração do crime é mais compensatória do que a assistência governamental, o texto recorre a dados estatísticos objetivos. Menciona-se que o tráfico paga entre R$ 400,00 e R$ 12.000 mensais aos jovens, enquanto programas sociais governamentais, como o Bolsa-Escola, pagavam à época R$ 15 mensais por estudante. Essa comparação direta entre cifras comprova empiricamente a discrepância financeira apontada na tese, confirmando a alternativa E.\n\nA alternativa A está incorreta porque a Fundação Oswaldo Cruz é citada como autora do estudo, não para mostrar crescimento numérico de jovens. A alternativa B está incorreta porque sugestões de repressão aparecem no final, mas não fundamentam a tese da disparidade salarial. A alternativa C está incorreta porque o texto afirma que essas políticas não conseguem impedir o aliciamento. A alternativa D está incorreta porque a menção aos pesquisadores apenas introduz a pesquisa, sem constituir a comprovação da disparidade de renda.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q127",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 127,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Gêneros Textuais"
+    ],
+    "statement": "Venho solicitar a clarividente atenção de Vossa Excelência para que seja conjurada uma calamidade que está prestes a desabar em cima da juventude feminina do Brasil. Refiro-me, senhor presidente, ao movimento entusiasta que está empolgando centenas de moças, atraindo-as para se transformarem em jogadoras de futebol, sem se levar em conta que a mulher não poderá praticar este esporte violento sem afetar, seriamente, o equilíbrio fisiológico das suas funções orgânicas, devido à natureza que dispôs a ser mãe. Ao que dizem os jornais, no Rio de Janeiro, já estão formados nada menos de dez quadros femininos. Em São Paulo e Belo Horizonte também já estão se constituindo outros. E, neste crescendo, dentro de um ano, é provável que em todo o Brasil estejam organizados uns 200 clubes femininos de futebol: ou seja: 200 núcleos destroçados da saúde de 2,2 mil futuras mães, que, além do mais, ficarão presas a uma mentalidade depressiva e propensa aos exibicionismos rudes e extravagantes.\n\nColuna Pênalti. Carta Capital. 28 abr. 2010.\n\nO trecho é parte de uma carta de um cidadão brasileiro, José Fuzeira, encaminhada, em abril de 1940, ao então presidente da República Getúlio Vargas. As opções linguísticas de Fuzeira mostram que seu texto foi elaborado em linguagem",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "regional, adequada à troca de informações na situação apresentada."
+      },
+      {
+        "letter": "B",
+        "text": "jurídica, exigida pelo tema relacionado ao domínio do futebol."
+      },
+      {
+        "letter": "C",
+        "text": "coloquial, considerando-se que ele era um cidadão brasileiro comum."
+      },
+      {
+        "letter": "D",
+        "text": "culta, adequando-se ao seu interlocutor e à situação de comunicação."
+      },
+      {
+        "letter": "E",
+        "text": "informal, pressupondo o grau de escolaridade de seu interlocutor."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O remetente dirige-se ao chefe do Poder Executivo em um documento formal, utilizando pronomes de tratamento adequados ('Vossa Excelência', 'senhor presidente'), vocabulário sofisticado ('clarividente', 'conjurada', 'calamidade') e rigor sintático de acordo com a norma-padrão. Essa escolha evidencia o emprego da norma culta, inteiramente condizente com o papel institucional do destinatário e com a seriedade pretendida na correspondência oficial, o que valida a alternativa D.\n\nA alternativa A está incorreta porque não há marcas de regionalismos dialetais no texto. A alternativa B está incorreta porque a carta trata de temas morais, sociais e fisiológicos sem o jargão técnico do meio jurídico. As alternativas C e E estão incorretas porque a mensagem afasta-se da linguagem informal ou coloquial, demonstrando alto grau de polidez e obediência às regras gramaticais clássicas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q128",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 128,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Capítulo III\n\nUm criado trouxe o café. Rubião pegou na xícara e, enquanto lhe deitava açúcar, ia disfarçadamente mirando a bandeja, que era de prata lavrada. Prata, ouro, eram os metais que amava de coração; não gostava de bronze, mas o amigo Palha disse-lhe que era matéria de preço, e assim se explica este par de figuras que aqui está na sala: um Mefistófeles e um Fausto. Tivesse, porém, de escolher, escolheria a bandeja — primor de argentaria, execução fina e acabada. O criado esperava teso e sério. Era espanhol; e não foi sem resistência que Rubião o aceitou das mãos de Cristiano; por mais que lhe dissesse que estava acostumado aos seus crioulos de Minas, e não queria línguas estrangeiras em casa, o amigo Palha insistiu, demonstrando-lhe a necessidade de ter criados brancos. Rubião cedeu com pena. O seu bom pajem, que ele queria pôr na sala, como um pedaço da província, nem o pôde deixar na cozinha, onde reinava um francês, Jean; foi degradado a outros serviços.\n\nASSIS, M. Quincas Borba. In: Obra completa. V.1. Rio de Janeiro: Nova Aguilar, 1993 (fragmento).\n\nQuincas Borba situa-se entre as obras-primas do autor e da literatura brasileira. No fragmento apresentado, a peculiaridade do texto que garante a universalização de sua abordagem reside",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "no conflito entre o passado pobre e o presente rico, que simboliza o triunfo da aparência sobre a essência."
+      },
+      {
+        "letter": "B",
+        "text": "no sentimento de nostalgia do passado devido à substituição da mão de obra escrava pela dos imigrantes."
+      },
+      {
+        "letter": "C",
+        "text": "na referência a Fausto e Mefistófeles, que representam o desejo de eternização de Rubião."
+      },
+      {
+        "letter": "D",
+        "text": "na admiração dos metais por parte de Rubião, que metaforicamente representam a durabilidade dos bens produzidos pelo trabalho."
+      },
+      {
+        "letter": "E",
+        "text": "na resistência de Rubião aos criados estrangeiros, que reproduz o sentimento de xenofobia."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Em Quincas Borba, Rubião enriquece repentinamente e passa a ser assessorado pelo casal Palha, que lhe dita regras de etiqueta e consumo burguês. O fragmento evidencia a valorização dos objetos pelo seu preço e prestígio social (prata, ouro, figuras de Fausto e Mefistófeles) e a substituição forçada de costumes e serviçais provincianos por criados europeus. Isso tematiza de forma universal o conflito humano entre a essência interior simples e a imposição da aparência e do status social, tornando a alternativa A correta.\n\nA alternativa B está incorreta porque a troca de criados decorre da vaidade e de pressões de etiqueta, não de nostalgia escravocrata. A alternativa C está incorreta porque as estátuas foram adquiridas meramente por indicação de preço, não por anseio de imortalidade. A alternativa D está incorreta porque o apreço de Rubião aos metais nobres decorre da ostentação e do luxo, não da valorização do esforço do trabalho. A alternativa E está incorreta porque a hesitação de Rubião reflete apego aos hábitos provincianos, não xenofobia sistemática.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q129",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 129,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Negrinha\n\nNegrinha era uma pobre órfã de sete anos. Preta? Não; fusca, mulatinha escura, de cabelos ruços e olhos assustados.\n\nNascera na senzala, de mãe escrava, e seus primeiros anos vivera-os pelos cantos escuros da cozinha, sobre velha esteira e trapos imundos. Sempre escondida, que a patroa não gostava de crianças.\n\nExcelente senhora, a patroa. Gorda, rica, dona do mundo, amimada dos padres, com lugar certo na igreja e camarote de luxo reservado no céu. Entaladas as banhas no trono (uma cadeira de balanço na sala de jantar), ali bordava, recebia as amigas e o vigário, dando audiências, discutindo o tempo. Uma virtuosa senhora em suma — \"dama de grandes virtudes apostólicas, esteio da religião e da moral\", dizia o reverendo.\n\nÓtima, a dona Inácia.\n\nMas não admitia choro de criança. Ai! Punha-lhe os nervos em carne viva.\n\n[...]\n\nA excelente dona Inácia era mestra na arte de judiar de crianças. Vinha da escravidão, fora senhora de escravos — e daquelas ferozes, amigas de ouvir cantar o bolo e estalar o bacalhau. Nunca se afizera ao regime novo — essa indecência de negro igual.\n\nLOBATO, M. Negrinha. In: MORICONE, I. Os cem melhores contos brasileiros do século. Rio de Janeiro: Objetiva, 2000 (fragmento).\n\nA narrativa focaliza um momento histórico-social de valores contraditórios. Essa contradição infere-se, no contexto, pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "falta de aproximação entre a menina e a senhora, preocupada com as amigas."
+      },
+      {
+        "letter": "B",
+        "text": "receptividade da senhora para com os padres, mas deselegante para com as beatas."
+      },
+      {
+        "letter": "C",
+        "text": "ironia do padre a respeito da senhora, que era perversa com as crianças."
+      },
+      {
+        "letter": "D",
+        "text": "resistência da senhora em aceitar a liberdade dos negros, evidenciada no final do texto."
+      },
+      {
+        "letter": "E",
+        "text": "rejeição aos criados por parte da senhora, que preferia tratá-los com castigos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O conto de Monteiro Lobato retrata o período posterior à abolição da escravidão no Brasil, marcado pela permanência de mentalidades arcaicas e preconceituosas. A contradição social revela-se na recusa explícita de dona Inácia em conviver com as novas diretrizes legais e humanitárias, expressa no trecho em que o narrador pontua que ela 'nunca se afizera ao regime novo — essa indecência de negro igual'. A senhora mantinha a violência e o desprezo característicos do regime escravista, confirmando a alternativa D.\n\nA alternativa A está incorreta porque a falta de afeto em relação a Negrinha decorre do racismo estrutural e da crueldade, e não da atenção dada às visitas. A alternativa B está incorreta porque o texto não menciona descortesia com beatas. A alternativa C está incorreta porque as palavras do padre demonstram hipocrisia e conveniência, e não ironia direcionada à senhora. A alternativa E está incorreta porque dona Inácia castigava os subalternos negros por sadismo e autoritarismo remanescentes da escravidão, e não por mera rejeição.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q130",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 130,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "O Flamengo começou a partida no ataque, enquanto o Botafogo procurava fazer uma forte marcação no meio campo e tentar lançamentos para Victor Simões, isolado entre os zagueiros rubro-negros. Mesmo com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade de chegar à área alvinegra por causa do bloqueio montado pelo Botafogo na frente da sua área.\n\nNo entanto, na primeira chance rubro-negra, saiu o gol. Após cruzamento da direita de Ibson, a zaga alvinegra rebateu a bola de cabeça para o meio da área. Kléberson apareceu na jogada e cabeceou por cima do goleiro Renan. Ronaldo Angelim apareceu nas costas da defesa e empurrou para o fundo da rede quase que em cima da linha: Flamengo 1 a 0.\n\nDisponível em: http://momentodofutebol.blogspot.com (adaptado).\n\nO texto, que narra uma parte do jogo final do Campeonato Carioca de futebol, realizado em 2009, contém vários conectivos, sendo que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "após é conectivo de causa, já que apresenta o motivo de a zaga alvinegra ter rebatido a bola de cabeça."
+      },
+      {
+        "letter": "B",
+        "text": "enquanto tem um significado alternativo, porque conecta duas opções possíveis para serem aplicadas no jogo."
+      },
+      {
+        "letter": "C",
+        "text": "no entanto tem significado de tempo, porque ordena os fatos observados no jogo em ordem cronológica de ocorrência."
+      },
+      {
+        "letter": "D",
+        "text": "mesmo traz ideia de concessão, já que \"com mais posse de bola\", ter dificuldade não é algo naturalmente esperado."
+      },
+      {
+        "letter": "E",
+        "text": "por causa de indica consequência, porque as tentativas de ataque do Flamengo motivaram o Botafogo a fazer um bloqueio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A conjunção ou locução concessiva introduz uma oração que expressa um obstáculo ou fato inesperado em relação ao resultado principal, sem impedi-lo. No trecho 'Mesmo com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade', a posse de bola sugere facilidade ofensiva, de modo que ter dificuldades é uma quebra de expectativa. O termo 'mesmo' opera, portanto, com valor concessivo, justificando a alternativa D.\n\nA alternativa A está incorreta porque 'após' é conectivo temporal cronológico, não de causa. A alternativa B está incorreta porque 'enquanto' estabelece simultaneidade ou contraste temporal, e não alternância. A alternativa C está incorreta porque 'no entanto' possui valor adversativo de oposição, e não temporal. A alternativa E está incorreta porque 'por causa de' expressa a causa da dificuldade, e não uma consequência.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q131",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 131,
+    "day": 2,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "Após estudar na Europa, Anita Malfatti retornou ao Brasil com uma mostra que abalou a cultura nacional do início do século XX. Elogiada por seus mestres na Europa, Anita se considerava pronta para mostrar seu trabalho no Brasil, mas enfrentou as duras críticas de Monteiro Lobato. Com a intenção de criar uma arte que valorizasse a cultura brasileira, Anita Malfatti e outros artistas modernistas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "buscaram libertar a arte brasileira das normas acadêmicas europeias, valorizando as cores, a originalidade e os temas nacionais."
+      },
+      {
+        "letter": "B",
+        "text": "defenderam a liberdade limitada de uso da cor, até então utilizada de forma irrestrita, afetando a criação artística nacional."
+      },
+      {
+        "letter": "C",
+        "text": "representaram a ideia de que a arte deveria copiar fielmente a natureza, tendo como finalidade a prática educativa."
+      },
+      {
+        "letter": "D",
+        "text": "mantiveram de forma fiel a realidade nas figuras retratadas, defendendo uma liberdade artística ligada à tradição acadêmica."
+      },
+      {
+        "letter": "E",
+        "text": "buscaram a liberdade na composição de suas figuras, respeitando limites de temas abordados."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O movimento modernista brasileiro, impulsionado pela exposição de Anita Malfatti em 1917 e pela Semana de Arte Moderna de 1922, propôs o rompimento com o academicismo formal de matriz europeia. Os artistas buscavam liberdade estilística, uso expressivo de cores e valorização de temas identitários e cotidianos do Brasil, construindo uma estética autônoma e vanguardista, o que torna a alternativa A correta.\n\nA alternativa B está incorreta porque os modernistas defendiam justamente a total liberdade expressiva na paleta de cores. A alternativa C está incorreta porque a cópia fiel da natureza era preceito do realismo e do academicismo oitocentista, combatido pela vanguarda. A alternativa D está incorreta porque os artistas romperam com a representação mimética tradicional da realidade. A alternativa E está incorreta porque o Modernismo pregava a ampliação irrestrita dos temas da cultura e do cotidiano nacional.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q132",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 132,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "[[FIG1]]\n\nSuperinteressante. Ed. 256, set. 2008.\n\nSegundo pesquisas recentes, é irrelevante a diferença entre sexos para se avaliar a inteligência. Com relação às tendências para áreas do conhecimento, por sexo, levando em conta a matrícula em cursos universitários brasileiros, as informações do gráfico asseguram que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os homens estão matriculados em menor proporção em cursos de Matemática que em Medicina por lidarem melhor com pessoas."
+      },
+      {
+        "letter": "B",
+        "text": "as mulheres estão matriculadas em maior percentual em cursos que exigem capacidade de compreensão dos seres humanos."
+      },
+      {
+        "letter": "C",
+        "text": "as mulheres estão matriculadas em percentual maior em Física que em Mineração por tenderem a trabalhar melhor com abstrações."
+      },
+      {
+        "letter": "D",
+        "text": "as homens e as mulheres estão matriculados na mesma proporção em cursos que exigem habilidades semelhantes na mesma área."
+      },
+      {
+        "letter": "E",
+        "text": "as mulheres estão matriculadas em menor número em Psicologia por sua habilidade de lidarem melhor com coisas que com sujeitos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q132-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O infográfico estabelece um eixo contínuo que vai de 'Pessoas' a 'Coisas'. Do lado associado ao contato humano ('compreender as pessoas e emoções'), as mulheres apresentam taxas elevadas de matrícula universitária, alcançando 84% em Psicologia, 75% em Humanas-artes, 72% em Educação e 63% em Medicina. Esses dados comprovam a afirmação de que as estudantes estão matriculadas em maior proporção em cursos voltados às relações humanas, o que valida a alternativa B.\n\nA alternativa A está incorreta porque os homens têm maior presença em Matemática (62%) do que em Medicina (37%). A alternativa C está incorreta porque as mulheres têm 20% em Física e 21% em Mineração. A alternativa D está incorreta porque há acentuada discrepância entre os gêneros nas diversas carreiras. A alternativa E está incorreta porque as mulheres são ampla maioria em Psicologia (84%).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q134",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 134,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto I\n\nEu amo a rua. Esse sentimento de natureza toda íntima não vos seria revelado por mim se não julgasse, e razões não tivesse para julgar, que este amor assim absoluto e assim exagerado é partilhado por todos vós. Nós somos irmãos, nós nos sentimos parecidos e iguais; nas cidades, nas aldeias, nos povoados, não porque soframos, com a dor e os desprazeres, a lei e a polícia, mas porque nos une, nivela e agremia o amor da rua. É este mesmo o sentimento imperturbável e indissolúvel, o único que, como a própria vida, resiste às idades e às épocas.\n\nRIO, J. A rua. In: A alma encantadora das ruas. São Paulo: Companhia das Letras, 2008 (fragmento).\n\nTexto II\n\nA rua dava-lhe uma força de fisionomia, mais consciência dela. Como se sentia estar no seu reino, na região em que era rainha e imperatriz. O olhar cobiçoso dos homens e o de inveja das mulheres acabavam o sentimento de sua personalidade, exaltavam-no até. Dirigiu-se para a rua do Catete com o seu passo miúdo e sólido. [...] No caminho trocou cumprimento com as raparigas pobres de uma casa de cômodos da vizinhança.\n\n[...] E debaixo dos olhares maravilhados das pobres raparigas, ela continuou o seu caminho, arrepanhando a saia, satisfeita que nem uma duquesa atravessando os seus domínios.\n\nBARRETO, L. Um e outro. In: Clara dos anjos. Rio de Janeiro: Editora Mérito (fragmento).\n\nA experiência urbana é um tema recorrente em crônicas, contos e romances do final do século XIX e início do XX, muitos dos quais elegem a rua para explorar essa experiência. Nos fragmentos I e II, a rua é vista, respectivamente, como lugar que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desperta sensações contraditórias e desejo de reconhecimento."
+      },
+      {
+        "letter": "B",
+        "text": "favorece o cultivo da intimidade e a exposição dos dotes físicos."
+      },
+      {
+        "letter": "C",
+        "text": "possibilita vínculos pessoais duradouros e encontros casuais."
+      },
+      {
+        "letter": "D",
+        "text": "propicia o sentido de comunidade e a exibição pessoal."
+      },
+      {
+        "letter": "E",
+        "text": "promove o anonimato e a segregação social."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No Texto I, João do Rio descreve a rua como um espaço coletivo de fraternidade, comunhão e pertencimento que 'une, nivela e agremia' todos os cidadãos, ressaltando o sentido de comunidade. No Texto II, Lima Barreto retrata a caminhada de uma mulher que se sente rainha sob o olhar cobiçoso ou invejoso dos transeuntes, desfilando com altivez como 'uma duquesa atravessando os seus domínios', o que caracteriza a exibição pessoal e a busca de visibilidade social. Portanto, a alternativa D está correta.\n\nA alternativa A está incorreta porque o primeiro texto não apresenta sensações contraditórias. A alternativa B está incorreta porque a rua não é espaço de intimidade no Texto I. A alternativa C está incorreta porque o foco de João do Rio é o laço coletivo e abstrato, não relações interpessoais duradouras. A alternativa E está incorreta porque nenhum dos fragmentos aborda a rua como fator de anonimato ou segregação excludente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q135",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 135,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "Fora da ordem\n\nEm 1588, o engenheiro militar italiano Agostinho Romelli publicou Le Diverse et Artificiose Machine, no qual descrevia uma máquina de ler livros. Montada para girar verticalmente, como uma roda de hamster, a invenção permitia que o leitor fosse de um texto ao outro sem se levantar de sua cadeira.\n\nHoje podemos alternar entre documentos com muito mais facilidade — um clique no mouse é suficiente para acessarmos imagens, textos, vídeos e sons instantaneamente. Para isso, usamos o computador, e principalmente a internet — tecnologias que não estavam disponíveis no Renascimento, época em que Romelli viveu.\n\nBERCITTO, D. Revista Língua Portuguesa. Ano II. N°14.\n\nO inventor italiano antecipou, no século XVI, um dos princípios definidores do hipertexto: a quebra de linearidade na leitura e a possibilidade de acesso ao texto conforme o interesse do leitor. Além de ser característica essencial da internet, do ponto de vista da produção do texto, a hipertextualidade se manifesta também em textos impressos, como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dicionários, pois a forma do texto dá liberdade de acesso à informação."
+      },
+      {
+        "letter": "B",
+        "text": "documentários, pois o autor faz uma seleção dos fatos e das imagens."
+      },
+      {
+        "letter": "C",
+        "text": "relatos pessoais, pois o narrador apresenta sua percepção dos fatos."
+      },
+      {
+        "letter": "D",
+        "text": "editoriais, pois o editorialista faz uma abordagem detalhada dos fatos."
+      },
+      {
+        "letter": "E",
+        "text": "romances românticos, pois os eventos ocorrem em diversos cenários."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O hipertexto é definido pela não linearidade, permitindo ao leitor percorrer conteúdos conforme seu próprio percurso e interesse por meio de remissões e nós conceituais. Entre as obras impressas, os dicionários operam com essa exata lógica: as entradas organizadas por verbetes autônomos e referências cruzadas dispensam a leitura sequencial, concedendo liberdade total na busca e aprofundamento das informações, o que confirma a alternativa A.\n\nA alternativa B está incorreta porque documentários são obras audiovisuais, não textos impressos, e costumam seguir uma narrativa linear. As alternativas C, D e E estão incorretas porque relatos pessoais, editoriais de jornal e romances românticos exigem encadeamento contínuo e cronológico para fazerem sentido pleno, não exemplificando a hipertextualidade estrutural.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q136",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 136,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões 136 a 180\n\nUm professor dividiu a lousa da sala de aula em quatro partes iguais. Em seguida, preencheu 75% dela com conceitos e explicações, conforme a figura seguinte.\n\n[[FIG1]]\n\nAlgum tempo depois, o professor apagou a lousa por completo e, adotando um procedimento semelhante ao anterior, voltou a preenchê-la, mas, dessa vez, utilizando 40% do espaço dela.\n\nUma representação possível para essa segunda situação é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2010-q136-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2010-q136-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2010-q136-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2010-q136-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2010-q136-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q136-1.webp",
+      "FIG2": "data/figuras/enem-2010-q136-2.webp",
+      "FIG3": "data/figuras/enem-2010-q136-3.webp",
+      "FIG4": "data/figuras/enem-2010-q136-4.webp",
+      "FIG5": "data/figuras/enem-2010-q136-5.webp",
+      "FIG6": "data/figuras/enem-2010-q136-6.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na primeira situação, o professor dividiu a lousa em 4 partes iguais e preencheu 3 delas, correspondendo a 3/4 = 0,75 = 75%. Para a segunda situação, adotando procedimento análogo, ele deseja ocupar exatamente 40% do espaço da lousa. Em termos fracionários, 40% = 40/100 = 2/5. Isso significa que uma representação compatível consiste em dividir o quadro em 5 partes iguais e preencher exatamente 2 dessas divisões, restando 3 partes em branco. Observando as figuras, a FIG4 (alternativa C) divide a lousa em 5 colunas de mesma largura, com as duas primeiras preenchidas de texto (2/5 da lousa) e as três seguintes vazias, tornando correta a alternativa C.\n\nA alternativa A apresenta 1 parte preenchida em 4 (1/4 = 25%). A alternativa B traz 2 partes preenchidas em 4 (2/4 = 50%). A alternativa D divide em 5 partes com 3 preenchidas (3/5 = 60%). A alternativa E apresenta 4 partes preenchidas em 5 (4/5 = 80%).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q137",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 137,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, \"o maior olho do mundo voltado para o céu\".\n\nDisponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado).\n\nAo ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm.\n\nQual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 : 20"
+      },
+      {
+        "letter": "B",
+        "text": "1 : 100"
+      },
+      {
+        "letter": "C",
+        "text": "1 : 200"
+      },
+      {
+        "letter": "D",
+        "text": "1 : 1 000"
+      },
+      {
+        "letter": "E",
+        "text": "1 : 2 000"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para calcular a razão entre duas medidas, é necessário expressá-las na mesma unidade. O diâmetro aproximado do olho humano é de 2,1 cm. O espelho primário do telescópio mede 42 m de diâmetro. Convertendo metros para centímetros, temos:\n42 m = 42 * 100 cm = 4 200 cm.\n\nA razão pedida é o diâmetro do olho dividido pelo diâmetro do telescópio:\nRazão = 2,1 / 4 200.\n\nMultiplicando o numerador e o denominador por 10 para eliminar a vírgula:\nRazão = 21 / 42 000.\n\nDividindo ambos os termos por 21:\nRazão = 1 / 2 000, ou seja, 1 : 2 000. Isso confirma a alternativa E.\n\nA alternativa A (1 : 20) decorre de um erro grosseiro de potência de dez. A alternativa B (1 : 100) ignora a relação de proporcionalidade real. As alternativas C (1 : 200) e D (1 : 1 000) resultam de divisões com fatores de conversão incorretos para metro e centímetro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q138",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Alguns testes de preferência por bebedouros de água foram realizados com bovinos, envolvendo três tipos de bebedouros, de formatos e tamanhos diferentes. Os bebedouros 1 e 2 têm a forma de um tronco de cone circular reto, de altura igual a 60 cm, e diâmetro da base superior igual a 120 cm e 60 cm, respectivamente. O bebedouro 3 é um semicilindro, com 30 cm de altura, 100 cm de comprimento e 60 cm de largura. Os três recipientes estão ilustrados na figura.\n\n[[FIG1]]\n\nA escolha do bebedouro. In: Biotemas. V. 22, n°. 4, 2009 (adaptado).\n\nConsiderando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2010-q138-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2010-q138-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2010-q138-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2010-q138-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2010-q138-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q138-1.webp",
+      "FIG2": "data/figuras/enem-2010-q138-2.webp",
+      "FIG3": "data/figuras/enem-2010-q138-3.webp",
+      "FIG4": "data/figuras/enem-2010-q138-4.webp",
+      "FIG5": "data/figuras/enem-2010-q138-5.webp",
+      "FIG6": "data/figuras/enem-2010-q138-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O bebedouro 3 tem a forma de um semicilindro sem tampa. Portanto, ele é composto por uma superfície lateral curva (que, quando aberta e planificada, corresponde a um retângulo) e duas bases semicirculares idênticas nas extremidades. A base semicircular tem diâmetro de 60 cm. A face retangular tem dimensões dadas pelo comprimento do semicilindro (100 cm) e pelo semicírculo retificado (que é a curva do semicilindro). Nas extremidades opostas desse retângulo de 100 cm de comprimento, devem estar conectados os dois semicírculos de base com diâmetro 60 cm. A única planificação que apresenta a face curva aberta com o comprimento de 100 cm e dois semicírculos congruentes nas pontas opostas é a da alternativa E.\n\nAs alternativas A, B e C estão incorretas porque apresentam círculos completos ou trapézios/setores circulares, que correspondem a cones ou troncos de cone. A alternativa D está incorreta por apresentar apenas um semicírculo em vez de dois.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q139",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.\n\nAnalisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 cm."
+      },
+      {
+        "letter": "B",
+        "text": "6 cm."
+      },
+      {
+        "letter": "C",
+        "text": "12 cm."
+      },
+      {
+        "letter": "D",
+        "text": "24 cm."
+      },
+      {
+        "letter": "E",
+        "text": "25 cm."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O volume do paralelepípedo retangular é dado pelo produto de suas três dimensões: V = 3 cm × 18 cm × 4 cm. Realizando o cálculo: V = 3 × 18 × 4 = 216 cm³. Como a barra em formato de cubo tem o mesmo volume do paralelepípedo, chamando a aresta do cubo de a, temos V = a³ = 216. Para encontrar o valor de a, extrai-se a raiz cúbica de 216: a = ∛216 = 6 cm. Portanto, a aresta do cubo mede 6 cm, o que confirma a alternativa B como correta.\n\nA alternativa A está incorreta pois 5³ = 125 cm³. A alternativa C está incorreta pois 12³ = 1728 cm³. As alternativas D e E estão incorretas pois valores como 24 cm e 25 cm produziriam volumes muito superiores a 216 cm³.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q140",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 140,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A classificação de um país no quadro de medalhas nos Jogos Olímpicos depende do número de medalhas de ouro que obteve na competição, tendo como critérios de desempate o número de medalhas de prata seguido do número de medalhas de bronze conquistados. Nas Olimpíadas de 2004, o Brasil foi o décimo sexto colocado no quadro de medalhas, tendo obtido 5 medalhas de ouro, 2 de prata e 3 de bronze. Parte desse quadro de medalhas é reproduzida a seguir.\n\n[[FIG1]]\n\nDisponível em: http://www.quadroademedalhas.com.br. Acesso em: 05 abr. 2010 (adaptado).\n\nSe o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "13º"
+      },
+      {
+        "letter": "B",
+        "text": "12º"
+      },
+      {
+        "letter": "C",
+        "text": "11º"
+      },
+      {
+        "letter": "D",
+        "text": "10º"
+      },
+      {
+        "letter": "E",
+        "text": "9º"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q140-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Originalmente, o Brasil possuía 5 medalhas de ouro, 2 de prata e 3 de bronze. Somando as novas medalhas obtidas, o Brasil ficaria com: 5 + 4 = 9 de ouro, 2 + 4 = 6 de prata e 3 + 10 = 13 de bronze. Analisando a tabela dada no quadro de medalhas:\n- A Itália (8º) tem 10 ouros, ficando à frente do Brasil.\n- A Coreia do Sul (9º) tem 9 ouros e 12 pratas (mais pratas que o Brasil).\n- A Grã-Bretanha (10º) tem 9 ouros e 9 pratas (mais pratas que o Brasil).\n- Cuba (11º) tem 9 ouros e 7 pratas (mais pratas que o Brasil).\n- O Brasil possui 9 ouros e 6 pratas, superando a Ucrânia (12º), que tem 9 ouros e apenas 5 pratas, e a Hungria (13º), que tem 8 ouros.\nAssim, o Brasil ficaria atrás de Cuba (11º) e à frente da Ucrânia, ocupando exatamente a 12ª colocação.\n\nAs alternativas A, C, D e E estão incorretas pois ignoram a comparação sequencial das medalhas de ouro e de prata entre os países.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q141",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 141,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "Os dados do gráfico foram coletados por meio da Pesquisa Nacional por Amostra de Domicílios.\n\n[[FIG1]]\n\nFonte: IBGE.Disponível em: http://www.ibge.gov.br. Acesso em: 28 abr. 2010 (adaptado).\n\nSupondo-se que, no Sudeste, 14 900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 513"
+      },
+      {
+        "letter": "B",
+        "text": "6 556"
+      },
+      {
+        "letter": "C",
+        "text": "7 450"
+      },
+      {
+        "letter": "D",
+        "text": "8 344"
+      },
+      {
+        "letter": "E",
+        "text": "9 536"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q141-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao analisar o gráfico fornecido, observa-se que, na região Sudeste, a porcentagem de estudantes que possuíam telefone móvel celular é representada pela barra escura, correspondente a 56%. O total de estudantes entrevistados nessa região foi de 14 900. Para encontrar a quantidade de estudantes que possuíam celular, calcula-se 56% de 14 900:\nQ = 0,56 × 14 900 = 56 × 149 = 8 344 estudantes.\nPortanto, a resposta correta é 8 344, indicada na alternativa D.\n\nA alternativa A (5 513) corresponde a aproximadamente 37% (taxa da região Norte). A alternativa B (6 556) corresponde a 44% (estudantes do Sudeste que não possuíam celular). A alternativa C (7 450) representa 50% do total. A alternativa E (9 536) representa 64% do total.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q142",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 142,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.\n\nQue gráfico melhor representa a altura do filho desse casal em função da idade?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2010-q142-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2010-q142-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2010-q142-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2010-q142-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2010-q142-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q142-1.webp",
+      "FIG2": "data/figuras/enem-2010-q142-2.webp",
+      "FIG3": "data/figuras/enem-2010-q142-3.webp",
+      "FIG4": "data/figuras/enem-2010-q142-4.webp",
+      "FIG5": "data/figuras/enem-2010-q142-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O crescimento de uma pessoa é um processo contínuo no tempo, de modo que a curva que representa a altura em função da idade não pode apresentar saltos ou descontinuidades. O texto informa que: de 0 a 10 anos, a taxa de crescimento é mais rápida (maior inclinação da reta); dos 10 aos 17 anos, a taxa diminui (inclinação menor); e, a partir dos 17 anos, a variação fica cada vez menor até se tornar imperceptível (o gráfico torna-se horizontal). O gráfico que exibe uma função contínua com declividades decrescentes a cada intervalo e depois constante é o da alternativa A.\n\nAs alternativas B, D e E estão incorretas porque apresentam saltos verticais instantâneos de altura (descontinuidades), o que é biologicamente impossível. A alternativa C está incorreta porque é formada apenas por segmentos verticais desconexos, não representando uma função contínua de crescimento ao longo do tempo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q143",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 143,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "Em sete de abril de 2004, um jornal publicou o ranking de desmatamento, conforme gráfico, da chamada Amazônia Legal, integrada por nove estados.\n\n[[FIG1]]\n\nDisponível em: www.folhaonline.com.br. Acesso em: 30 abr. 2010 (adaptado).\n\nConsiderando-se que até 2009 o desmatamento cresceu 10,5% em relação aos dados de 2004, o desmatamento médio por estado em 2009 está entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100 km² e 900 km²."
+      },
+      {
+        "letter": "B",
+        "text": "1 000 km² e 2 700 km²."
+      },
+      {
+        "letter": "C",
+        "text": "2 800 km² e 3 200 km²."
+      },
+      {
+        "letter": "D",
+        "text": "3 300 km² e 4 000 km²."
+      },
+      {
+        "letter": "E",
+        "text": "4 100 km² e 5 800 km²."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q143-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Primeiro, calcula-se o total desmatado em 2004 somando os valores de todos os 9 estados:\n4 + 136 + 326 + 549 + 766 + 797 + 3463 + 7293 + 10416 = 23 750 km².\nEm 2009, o desmatamento total sofreu um aumento de 10,5%:\nTotal (2009) = 23 750 × 1,105 = 26 243,75 km².\nPara encontrar o desmatamento médio por estado em 2009, divide-se o valor total pelos 9 estados:\nMédia = 26 243,75 / 9 ≈ 2 915,97 km².\nEsse valor médio está contido no intervalo entre 2 800 km² e 3 200 km², correspondendo à alternativa C.\n\nAs alternativas A, B, D e E trazem faixas numéricas que não englobam o valor encontrado de aproximadamente 2 916 km².",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q144",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 144,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "A resistência elétrica e as dimensões do condutor\n\nA relação da resistência elétrica com as dimensões do condutor foi estudada por um grupo de cientistas por meio de vários experimentos de eletricidade. Eles verificaram que existe proporcionalidade entre:\n\n• resistência (R) e comprimento (ℓ), dada a mesma secção transversal (A);\n• resistência (R) e área da secção transversal (A), dado o mesmo comprimento (ℓ) e\n• comprimento (ℓ) e área da secção transversal (A), dada a mesma resistência (R).\n\nConsiderando os resistores como fios, pode-se exemplificar o estudo das grandezas que influem na resistência elétrica utilizando as figuras seguintes.\n\n[[FIG1]]\n\nDisponível em: http://www.efeitojoule.com. Acesso em: abr. 2010 (adaptado).\n\nAs figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (ℓ), resistência (R) e área da secção transversal (A), e entre comprimento (ℓ) e área da secção transversal (A) são, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "direta, direta e direta."
+      },
+      {
+        "letter": "B",
+        "text": "direta, direta e inversa."
+      },
+      {
+        "letter": "C",
+        "text": "direta, inversa e direta."
+      },
+      {
+        "letter": "D",
+        "text": "inversa, direta e direta."
+      },
+      {
+        "letter": "E",
+        "text": "inversa, direta e inversa."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q144-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Analisando cada par de experimentos na imagem:\n1) Mantendo-se a área A constante, ao dobrar o comprimento de ℓ para 2ℓ, a resistência dobra de R para 2R. Portanto, R e ℓ são grandezas diretamente proporcionais.\n2) Mantendo-se o comprimento ℓ constante, ao dobrar a área de A para 2A, a resistência cai pela metade, passando de R para R/2. Portanto, R e A são grandezas inversamente proporcionais.\n3) Mantendo-se a resistência R constante, ao dobrar a área de A para 2A, o comprimento também deve dobrar de ℓ para 2ℓ para que a resistência não mude. Portanto, ℓ e A são grandezas diretamente proporcionais.\nAssim, a sequência correta das relações de proporcionalidade é direta, inversa e direta, o que corresponde à alternativa C.\n\nAs alternativas A, B, D e E classificam incorretamente uma ou mais dessas proporcionalidades.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q145",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "Os dados do gráfico seguinte foram gerados a partir de dados colhidos no conjunto de seis regiões metropolitanas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese).\n\n[[FIG1]]\n\nDisponível em: http://g1.globo.com. Acesso em: 28 abr. 2010 (adaptado).\n\nSupondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250 000, o número de desempregados em março de 2010, nessa região, foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "24 500."
+      },
+      {
+        "letter": "B",
+        "text": "25 000."
+      },
+      {
+        "letter": "C",
+        "text": "220 500."
+      },
+      {
+        "letter": "D",
+        "text": "223 000."
+      },
+      {
+        "letter": "E",
+        "text": "227 500."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q145-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Consultando o gráfico de barras, a taxa de desemprego na região metropolitana de Porto Alegre em março de 2010 foi de 9,8%.\nSendo o total de pessoas pesquisadas nessa região igual a 250 000, calcula-se 9,8% desse total para obter o número de desempregados:\nNúmero de desempregados = 250 000 × (9,8 / 100) = 2 500 × 9,8 = 24 500 pessoas.\nLogo, a resposta correta é 24 500, condizente com a alternativa A.\n\nA alternativa B (25 000) corresponderia a 10%. As alternativas C, D e E trazem valores acima de 200 000, que representam a quantidade aproximada de pessoas empregadas, e não de desempregados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q146",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 146,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "A siderúrgica \"Metal Nobre\" produz diversos objetos maciços utilizando o ferro. Um tipo especial de peça feita nessa companhia tem o formato de um paralelepípedo retangular, de acordo com as dimensões indicadas na figura que segue.\n\n[[FIG1]]\n\nO produto das três dimensões indicadas na peça resultaria na medida da grandeza",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "massa."
+      },
+      {
+        "letter": "B",
+        "text": "volume."
+      },
+      {
+        "letter": "C",
+        "text": "superfície."
+      },
+      {
+        "letter": "D",
+        "text": "capacidade."
+      },
+      {
+        "letter": "E",
+        "text": "comprimento."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q146-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A peça tem a forma geométrica de um paralelepípedo retangular com três dimensões lineares indicadas: comprimento (2,5 m), largura (0,5 m) e altura (1,3 m). O produto entre as três dimensões espaciais (comprimento × largura × altura) de um sólido geométrico tridimensional fornece a medida do espaço ocupado por esse corpo, que é definida fisicamente e geometricamente como a grandeza volume (expressa em metros cúbicos, m³). Portanto, a alternativa correta é a B.\n\nA alternativa A está incorreta porque massa depende também da densidade do material. A alternativa C está incorreta porque superfície (área) é dada pelo produto de duas dimensões (m²). A alternativa D está incorreta porque capacidade refere-se primariamente ao volume interno de recipientes para armazenar fluidos, enquanto a peça em questão é um bloco maciço. A alternativa E está incorreta pois comprimento é uma grandeza unidimensional.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q147",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 147,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A figura I abaixo mostra um esquema das principais vias que interligam a cidade A com a cidade B. Cada número indicado na figura II representa a probabilidade de pegar um engarrafamento quando se passa na via indicada. Assim, há uma probabilidade de 30% de se pegar engarrafamento no deslocamento do ponto C ao o ponto B, passando pela estrada E4, e de 50%, quando se passa por E3. Essas probabilidades são independentes umas das outras.\n\n[[FIG1]]\n\nPaula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível.\n\nO melhor trajeto para Paula é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "E1E3."
+      },
+      {
+        "letter": "B",
+        "text": "E1E4."
+      },
+      {
+        "letter": "C",
+        "text": "E2E4."
+      },
+      {
+        "letter": "D",
+        "text": "E2E5."
+      },
+      {
+        "letter": "E",
+        "text": "E2E6."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q147-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para ir de A até B usando exatamente duas vias, Paula tem 4 trajetos possíveis:\n- Trajeto 1: E1 seguida de E3 (via C). Probabilidade de não pegar engarrafamento em E1 é 1 - 0,8 = 0,2; em E3 é 1 - 0,5 = 0,5. Probabilidade de não pegar nenhum engarrafamento: 0,2 × 0,5 = 0,10. Logo, a probabilidade de pegar pelo menos um engarrafamento é 1 - 0,10 = 0,90 (ou 90%).\n- Trajeto 2: E1 seguida de E4 (via C). P(livre) = (1 - 0,8) × (1 - 0,3) = 0,2 × 0,7 = 0,14. Logo, P(engarrafamento) = 1 - 0,14 = 0,86 (86%).\n- Trajeto 3: E2 seguida de E5 (via D). P(livre) = (1 - 0,7) × (1 - 0,4) = 0,3 × 0,6 = 0,18. Logo, P(engarrafamento) = 1 - 0,18 = 0,82 (82%).\n- Trajeto 4: E2 seguida de E6 (via D). P(livre) = (1 - 0,7) × (1 - 0,6) = 0,3 × 0,4 = 0,12. Logo, P(engarrafamento) = 1 - 0,12 = 0,88 (88%).\nO trajeto com a menor probabilidade de engarrafamento é E2E5, com 82%.\n\nAs alternativas A, B e E apresentam trajetos com probabilidades de engarrafamento maiores (90%, 86% e 88%, respectivamente). A alternativa C não é um caminho válido contínuo de A a B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q148",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 148,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O gráfico a seguir apresenta o gasto militar dos Estados Unidos, no período de 1988 a 2006.\n\n[[FIG1]]\n\nAlmanaque Abril 2008. Editora Abril.\n\nCom base no gráfico, o gasto militar no início da guerra no Iraque foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "U$ 4.174.000,00."
+      },
+      {
+        "letter": "B",
+        "text": "U$ 41.740.000,00."
+      },
+      {
+        "letter": "C",
+        "text": "U$ 417.400.000,00."
+      },
+      {
+        "letter": "D",
+        "text": "U$ 41.740.000.000,00."
+      },
+      {
+        "letter": "E",
+        "text": "U$ 417.400.000.000,00."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q148-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "De acordo com o gráfico, no ponto assinalado com o texto 'Início da guerra no Iraque' (correspondente ao ano de 2003), o valor marcado sobre o ponto é 417,4. No canto superior esquerdo do gráfico, está explicitada a unidade: 'Em bilhões de dólares'. Como um bilhão equivale a 1 000 000 000 (10⁹), o valor de 417,4 bilhões de dólares corresponde numericamente a:\n417,4 × 1 000 000 000 = 417 400 000 000,00 dólares (U$ 417.400.000.000,00).\nPortanto, a resposta correta é a apresentada na alternativa E.\n\nAs alternativas A, B, C e D trazem valores com ordens de grandeza muito menores: milhares, dezenas de milhões, centenas de milhões e dezenas de bilhões, respectivamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q149",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 149,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Sequências e Progressões"
+    ],
+    "statement": "Uma professora realizou uma atividade com seus alunos utilizando canudos de refrigerante para montar figuras, onde cada lado foi representado por um canudo. A quantidade de canudos (C) de cada figura depende da quantidade de quadrados (Q) que formam cada figura. A estrutura de formação das figuras está representada a seguir.\n\n[[FIG1]]\n\nQue expressão fornece a quantidade de canudos em função da quantidade de quadrados de cada figura?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C = 4Q"
+      },
+      {
+        "letter": "B",
+        "text": "C = 3Q + 1"
+      },
+      {
+        "letter": "C",
+        "text": "C = 4Q - 1"
+      },
+      {
+        "letter": "D",
+        "text": "C = Q + 3"
+      },
+      {
+        "letter": "E",
+        "text": "C = 4Q - 2"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q149-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Analisando a quantidade de canudos C em função do número de quadrados Q em cada figura:\n- Na Figura I, há Q = 1 quadrado, formado por C = 4 canudos.\n- Na Figura II, há Q = 2 quadrados adjacentes. Para formar o segundo quadrado, utilizam-se apenas 3 novos canudos, totalizando C = 4 + 3 = 7 canudos.\n- Na Figura III, há Q = 3 quadrados adjacentes, totalizando C = 7 + 3 = 10 canudos.\nEssa sequência forma uma progressão aritmética de primeiro termo 4 e razão 3. A fórmula do termo geral é expressa por:\nC(Q) = 4 + (Q - 1) × 3 = 4 + 3Q - 3 = 3Q + 1.\nTestando para Q = 1, C = 3(1) + 1 = 4; para Q = 2, C = 3(2) + 1 = 7; para Q = 3, C = 3(3) + 1 = 10.\nLogo, a alternativa correta é a B.\n\nA alternativa A (C = 4Q) fornece C = 8 para Q = 2. A alternativa C (C = 4Q - 1) fornece C = 3 para Q = 1. A alternativa D (C = Q + 3) fornece C = 5 para Q = 2. A alternativa E (C = 4Q - 2) fornece C = 2 para Q = 1.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q150",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 150,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Álgebra"
+    ],
+    "statement": "A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais.\nUma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm × 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm × 100 cm). O valor da segunda encomenda será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram."
+      },
+      {
+        "letter": "B",
+        "text": "maior do que o valor da primeira encomenda, mas não o dobro."
+      },
+      {
+        "letter": "C",
+        "text": "a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram."
+      },
+      {
+        "letter": "D",
+        "text": "menor do que o valor da primeira encomenda, mas não a metade."
+      },
+      {
+        "letter": "E",
+        "text": "igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Vamos calcular o custo total de cada encomenda.\nPrimeira encomenda (8 quadros de 0,25 m × 0,50 m):\n- Área por quadro: 0,25 × 0,50 = 0,125 m²; área total para 8 quadros: 8 × 0,125 = 1 m².\n- Perímetro por quadro: 2 × (0,25 + 0,50) = 1,5 m; perímetro total: 8 × 1,5 = 12 m.\n- Custo 1 = (1 × 20) + (12 × 15) + 10 = 20 + 180 + 10 = R$ 210,00.\n\nSegunda encomenda (8 quadros de 0,50 m × 1,00 m):\n- Área por quadro: 0,50 × 1,00 = 0,5 m²; área total: 8 × 0,5 = 4 m².\n- Perímetro por quadro: 2 × (0,50 + 1,00) = 3 m; perímetro total: 8 × 3 = 24 m.\n- Custo 2 = (4 × 20) + (24 × 15) + 10 = 80 + 360 + 10 = R$ 450,00.\n\nComparando os dois valores: R$ 450,00 é maior que o valor da primeira (R$ 210,00), mas é diferente do dobro (o dobro seria R$ 420,00). Logo, o valor da segunda encomenda é maior do que o da primeira, mas não o dobro, o que valida a alternativa B.\n\nAs alternativas A, C, D e E afirmam incorretamente que o valor dobra, cai pela metade, diminui ou permanece igual.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q151",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Dona Maria, diarista na casa da família Teixeira, precisa fazer café para servir as vinte pessoas que se encontram numa reunião na sala. Para fazer o café, Dona Maria dispõe de uma leiteira cilíndrica e copinhos plásticos, também cilíndricos.\n\n[[FIG1]]\n\nCom o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade. Para que isso ocorra, Dona Maria deverá",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo."
+      },
+      {
+        "letter": "B",
+        "text": "encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo."
+      },
+      {
+        "letter": "C",
+        "text": "encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo."
+      },
+      {
+        "letter": "D",
+        "text": "encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo."
+      },
+      {
+        "letter": "E",
+        "text": "encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q151-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O volume de um cilindro é dado por V = π × r² × h.\nPara o copinho: diâmetro = 4 cm (raio r = 2 cm) e altura h = 4 cm.\nV_copo = π × 2² × 4 = 16π cm³.\nPara a leiteira: diâmetro = 8 cm (raio R = 4 cm) e altura H = 20 cm.\nV_leiteira = π × 4² × 20 = 16 × 20 × π = 320π cm³.\nComparando os volumes, temos V_leiteira / V_copo = 320π / 16π = 20, ou seja, a leiteira tem um volume 20 vezes maior que o de um copo.\nDona Maria precisa encher 20 copinhos pela metade, ou seja, precisa de um volume equivalente a: 20 × (V_copo / 2) = 10 × V_copo = 10 × 16π = 160π cm³ de café.\nComo o volume total da leiteira é 320π cm³, o volume necessário (160π cm³) corresponde a exatamente metade da capacidade da leiteira. Portanto, ela deverá encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o do copo (alternativa A).\n\nAs alternativas B, C, D e E trazem conclusões incorretas sobre o fator de proporção de volume (afirmando que é 10 vezes) ou sobre a quantidade de leiteiras necessárias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q152",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 152,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Um satélite de telecomunicações, t minutos após ter atingido sua órbita, está a r quilômetros de distância do centro da Terra. Quando r assume seus valores máximo e mínimo, diz-se que o satélite atingiu o apogeu e o perigeu, respectivamente. Suponha que, para esse satélite, o valor de r em função de t seja dado por\n\n[[FIG1]]\n\nUm cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no apogeu e no perigeu, representada por S.\n\nO cientista deveria concluir que, periodicamente, S atinge o valor de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12 765 km."
+      },
+      {
+        "letter": "B",
+        "text": "12 000 km."
+      },
+      {
+        "letter": "C",
+        "text": "11 730 km."
+      },
+      {
+        "letter": "D",
+        "text": "10 965 km."
+      },
+      {
+        "letter": "E",
+        "text": "5 865 km."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q152-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A função da distância é r(t) = 5 865 / [1 + 0,15 × cos(0,06t)]. A função cosseno varia no intervalo [-1, 1].\n- O valor máximo de r(t) (apogeu) ocorre quando o denominador assume seu menor valor positivo possível, ou seja, quando cos(0,06t) = -1:\nr_máx = 5 865 / [1 + 0,15 × (-1)] = 5 865 / 0,85 = 6 900 km.\n- O valor mínimo de r(t) (perigeu) ocorre quando o denominador assume seu maior valor, ou seja, quando cos(0,06t) = 1:\nr_mín = 5 865 / [1 + 0,15 × (1)] = 5 865 / 1,15 = 5 100 km.\nA soma S dos valores de r no apogeu e no perigeu é dada por:\nS = r_máx + r_mín = 6 900 + 5 100 = 12 000 km.\nAssim, a alternativa correta é a B.\n\nAs alternativas A (12 765 km), C (11 730 km), D (10 965 km) e E (5 865 km) decorrem de erros algébricos ou de interpretação das condições de máximo e mínimo da função trigonométrica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q153",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma empresa vende tanques de combustíveis de formato cilíndrico, em três tamanhos, com medidas indicadas nas figuras. O preço do tanque é diretamente proporcional à medida da área da superfície lateral do tanque. O dono de um posto de combustível deseja encomendar um tanque com menor custo por metro cúbico de capacidade de armazenamento.\n\n[[FIG1]]\n\nQual dos tanques deverá ser escolhido pelo dono do posto? (Considere π ≅ 3)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I, pela relação área/capacidade de armazenamento de 1/3."
+      },
+      {
+        "letter": "B",
+        "text": "I, pela relação área/capacidade de armazenamento de 4/3."
+      },
+      {
+        "letter": "C",
+        "text": "II, pela relação área/capacidade de armazenamento de 3/4."
+      },
+      {
+        "letter": "D",
+        "text": "III, pela relação área/capacidade de armazenamento de 2/3."
+      },
+      {
+        "letter": "E",
+        "text": "III, pela relação área/capacidade de armazenamento de 7/12."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q153-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O custo por metro cúbico é dado pela razão entre a área lateral e o volume do cilindro. A área lateral de um cilindro é 2πrh e o volume é πr²h. Assim, a razão entre a área e o volume simplifica-se para 2/r, dependendo apenas do raio do tanque. Para o tanque I, o diâmetro é 4 m (raio r = 2 m), resultando na razão 2/2 = 1. Para o tanque II, o diâmetro também é 4 m (raio r = 2 m), dando razão 2/2 = 1. Para o tanque III, o diâmetro é 6 m (raio r = 3 m), fornecendo uma razão de 2/3. Como 2/3 é o menor valor entre as três opções, o tanque III oferece o menor custo por metro cúbico. Portanto, a alternativa D está correta.\n\nAs alternativas A e B indicam incorretamente o tanque I e trazem razões errôneas (1/3 e 4/3). A alternativa C indica o tanque II com razão errada de 3/4. A alternativa E indica o tanque III, porém com valor numérico incorreto de 7/12.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q154",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 154,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma empresa possui um sistema de controle de qualidade que classifica o seu desempenho financeiro anual, tendo como base o do ano anterior. Os conceitos são: insuficiente, quando o crescimento é menor que 1%; regular, quando o crescimento é maior ou igual a 1% e menor que 5%; bom, quando o crescimento é maior ou igual a 5% e menor que 10%; ótimo, quando é maior ou igual a 10% e menor que 20%; e excelente, quando é maior ou igual a 20%. Essa empresa apresentou lucro de R$ 132 000,00 em 2008 e de R$ 145 000,00 em 2009.\n\nDe acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "insuficiente."
+      },
+      {
+        "letter": "B",
+        "text": "regular."
+      },
+      {
+        "letter": "C",
+        "text": "bom."
+      },
+      {
+        "letter": "D",
+        "text": "ótimo."
+      },
+      {
+        "letter": "E",
+        "text": "excelente."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para determinar o desempenho financeiro da empresa em 2009, calcula-se a taxa percentual de crescimento em relação a 2008. O aumento no lucro foi de 145 000 - 132 000 = 13 000 reais. Dividindo esse valor pela base inicial de 132 000 reais, obtém-se 13 000 / 132 000 ≈ 0,0985, o que equivale a um crescimento de aproximadamente 9,85%. De acordo com os critérios da empresa, um crescimento maior ou igual a 5% e menor que 10% é classificado como bom. Assim, a alternativa C está correta.\n\nA alternativa A está incorreta, pois o conceito insuficiente aplica-se a crescimentos menores que 1%. A alternativa B é incorreta porque a faixa regular abrange de 1% a menos de 5%. A alternativa D é incorreta, pois ótimo exige crescimento de pelo menos 10%. A alternativa E é incorreta, já que excelente requer crescimento a partir de 20%.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q155",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma escola recebeu do governo uma verba de R$ 1000,00 para enviar dois tipos de folhetos pelo correio. O diretor da escola pesquisou que tipos de selos deveriam ser utilizados. Concluiu que, para o primeiro tipo de folheto, bastava um selo de R$ 0,65 enquanto para folhetos do segundo tipo seriam necessários três selos, um de R$ 0,65, um de R$ 0,60 e um de R$ 0,20. O diretor solicitou que se comprassem selos de modo que fossem postados exatamente 500 folhetos do segundo tipo e uma quantidade restante de selos que permitisse o envio do máximo possível de folhetos do primeiro tipo.\n\nQuantos selos de R$ 0,65 foram comprados?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "476"
+      },
+      {
+        "letter": "B",
+        "text": "675"
+      },
+      {
+        "letter": "C",
+        "text": "923"
+      },
+      {
+        "letter": "D",
+        "text": "965"
+      },
+      {
+        "letter": "E",
+        "text": "1 538"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cada folheto do segundo tipo requer três selos (0,65 + 0,60 + 0,20 = 1,45 real). O envio de 500 folhetos do segundo tipo consome 500 × 1,45 = 725 reais e utiliza 500 selos de R$ 0,65. O valor restante da verba é 1000 - 725 = 275 reais. Como cada folheto do primeiro tipo precisa de apenas um selo de R$ 0,65, o número máximo desse tipo que pode ser postado é a parte inteira de 275 / 0,65 = 423 folhetos (custando 423 × 0,65 = 274,95 reais). Portanto, o total de selos de R$ 0,65 comprados é a soma dos utilizados nos dois tipos: 500 + 423 = 923 selos. Logo, a alternativa C está correta.\n\nA alternativa A está incorreta por considerar um número inferior de selos adicionais. A alternativa B calcula incorretamente a sobra orçamentária. As alternativas D e E erram na aplicação do saldo restante e no cálculo proporcional dos selos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q156",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 156,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "A figura a seguir é a representação de uma região por meio de curvas de nível, que são curvas fechadas representando a altitude da região, com relação ao nível do mar. As coordenadas estão expressas em graus de acordo com a longitude, no eixo horizontal, e a latitude, no eixo vertical. A escala em tons de cinza desenhada à direita está associada à altitude da região.\n\n[[FIG1]]\n\nUm pequeno helicóptero usado para reconhecimento sobrevoa a região a partir do ponto X = (20; 60). O helicóptero segue o percurso:\n0,8° L → 0,5° N → 0,2° O → 0,1° S → 0,4° N → 0,3° L.\nAo final, desce verticalmente até pousar no solo.\n\nDe acordo com as orientações, o helicóptero pousou em um local cuja altitude é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "menor ou igual a 200 m."
+      },
+      {
+        "letter": "B",
+        "text": "maior que 200 m e menor ou igual a 400 m."
+      },
+      {
+        "letter": "C",
+        "text": "maior que 400 m e menor ou igual a 600 m."
+      },
+      {
+        "letter": "D",
+        "text": "maior que 600 m e menor ou igual a 800 m."
+      },
+      {
+        "letter": "E",
+        "text": "maior que 800 m."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q156-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A partir do ponto inicial (20,0; 60,0), rastreamos os deslocamentos nas coordenadas horizontais (longitude, E-O) e verticais (latitude, N-S). Inicialmente, 0,8° L leva a longitude a 20,8°. Em seguida, 0,5° N eleva a latitude a 60,5°. Depois, 0,2° O reduz a longitude para 20,6°. O movimento de 0,1° S reduz a latitude para 60,4°. O trajeto de 0,4° N eleva a latitude a 60,8°. Por fim, 0,3° L desloca a longitude para 20,9°. O ponto final de pouso é (20,9; 60,8). Observando o mapa de curvas de nível, na coordenada (20,9; 60,8) encontra-se uma região escura circular associada às cotas mais baixas de 100 m a 200 m. Logo, o local possui altitude menor ou igual a 200 m, confirmando a alternativa A.\n\nAs alternativas B, C, D e E indicam faixas de altitude superiores (200 a 400 m, 400 a 600 m, 600 a 800 m e acima de 800 m), incompatíveis com o tom escuro de baixa altitude localizado nas coordenadas finais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q157",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 157,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.\n\nSupondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "R$ 230,40."
+      },
+      {
+        "letter": "B",
+        "text": "R$ 124,00."
+      },
+      {
+        "letter": "C",
+        "text": "R$ 104,16."
+      },
+      {
+        "letter": "D",
+        "text": "R$ 54,56."
+      },
+      {
+        "letter": "E",
+        "text": "R$ 49,60."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cilindro interno possui diâmetro de 2 m, logo raio interno r1 = 1 m e altura h = 4 m. Ao envolvê-lo com concreto de espessura 20 cm (0,2 m), obtém-se um cilindro externo de raio r2 = 1 + 0,2 = 1,2 m. O volume de concreto corresponde à diferença entre os volumes dos dois cilindros: V = π × (r2² - r1²) × h = 3,1 × (1,44 - 1) × 4 = 3,1 × 0,44 × 4 = 5,456 m³. Como cada metro cúbico custa R$ 10,00, o custo total é 5,456 × 10 = R$ 54,56. Portanto, a alternativa D está correta.\n\nAs alternativas A e B resultam de erros no cálculo da área da coroa circular ou por utilizar o diâmetro no lugar do raio. A alternativa C dobra indevidamente o volume de concreto. A alternativa E desconsidera a parcela decimal da expansão do raio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q158",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Álgebra"
+    ],
+    "statement": "No manejo sustentável de florestas, é preciso muitas vezes obter o volume da tora que pode ser obtida a partir de uma árvore. Para isso, existe um método prático, em que se mede a circunferência da árvore à altura do peito de um homem (1,30 m), conforme indicado na figura. A essa medida denomina-se \"rodo\" da árvore. O quadro a seguir indica a fórmula para se cubar, ou seja, obter o volume da tora em m³ a partir da medida do rodo e da altura da árvore.\n\n[[FIG1]]\n\nUm técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de duas espécies diferentes, sendo\n\n• 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³;\n• 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.\n\nApós realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "29,9 toneladas."
+      },
+      {
+        "letter": "B",
+        "text": "31,1 toneladas."
+      },
+      {
+        "letter": "C",
+        "text": "32,4 toneladas."
+      },
+      {
+        "letter": "D",
+        "text": "35,3 toneladas."
+      },
+      {
+        "letter": "E",
+        "text": "41,8 toneladas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q158-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Aplicando a fórmula V = rodo² × altura × 0,06 para a espécie I: cada tora tem volume V1 = 3² × 12 × 0,06 = 9 × 12 × 0,06 = 6,48 m³. Com densidade de 0,77 t/m³, cada tora tem massa de 6,48 × 0,77 = 4,9896 t. Para as 3 toras da espécie I, a massa total é 3 × 4,9896 = 14,9688 t. Para a espécie II: cada tora tem V2 = 4² × 10 × 0,06 = 16 × 10 × 0,06 = 9,6 m³. Com densidade de 0,78 t/m³, cada tora tem massa de 9,6 × 0,78 = 7,488 t. Para as 2 toras da espécie II, a massa é 2 × 7,488 = 14,976 t. Somando as duas espécies, temos 14,9688 + 14,976 = 29,9448 t, o que equivale a aproximadamente 29,9 toneladas. Logo, a alternativa A é correta.\n\nAs alternativas B, C, D e E apresentam valores superiores decorrentes de equívocos no produto dos coeficientes ou na contagem das toras de cada espécie.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q159",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 159,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Embora o Índice de Massa Corporal (IMC) seja amplamente utilizado, existem ainda inúmeras restrições teóricas ao uso e às faixas de normalidade preconizadas. O Recíproco do Índice Ponderal (RIP), de acordo com o modelo alométrico, possui uma melhor fundamentação matemática, já que a massa é uma variável de dimensões cúbicas e a altura, uma variável de dimensões lineares. As fórmulas que determinam esses índices são:\n\n[[FIG1]]\n\nARAUJO, C. G. S.; RICARDO, D. R. Índice de Massa Corporal: Um Questionamento Científico Baseado em Evidências. Arq. Bras. Cardiologia, volume 79, nº 1, 2002 (adaptado).\n\nSe uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m², então ela possui RIP igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,4 cm/kg¹/³."
+      },
+      {
+        "letter": "B",
+        "text": "2,5 cm/kg¹/³."
+      },
+      {
+        "letter": "C",
+        "text": "8 cm/kg¹/³."
+      },
+      {
+        "letter": "D",
+        "text": "20 cm/kg¹/³."
+      },
+      {
+        "letter": "E",
+        "text": "40 cm/kg¹/³."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q159-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Pela fórmula do IMC, tem-se IMC = massa / (altura)². Substituindo os valores conhecidos: 25 = 64 / h², de onde h² = 64 / 25, resultando em h = 8 / 5 = 1,6 m. Convertendo para centímetros, a altura da menina é 160 cm. Pela fórmula do RIP, divide-se a altura em centímetros pela raiz cúbica da massa em quilogramas: RIP = 160 / (³√64). Como ³√64 = 4, temos RIP = 160 / 4 = 40 cm/kg¹/³. Portanto, a alternativa E está correta.\n\nA alternativa A resulta de manter a altura em metros e inverter grandezas. A alternativa B decorre de confusão com o próprio valor numérico do IMC. A alternativa C calcula incorretamente a raiz quadrada em vez da cúbica no denominador. A alternativa D comete erro ao extrair a raiz cúbica ou no fator de conversão de unidades.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q160",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 160,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um balão atmosférico, lançado em Bauru (343 quilômetros a Noroeste de São Paulo), na noite do último domingo, caiu nesta segunda-feira em Cuiabá Paulista, na região de Presidente Prudente, assustando agricultores da região. O artefato faz parte do programa Projeto Hibiscus, desenvolvido por Brasil, França, Argentina, Inglaterra e Itália, para a medição do comportamento da camada de ozônio, e sua descida se deu após o cumprimento do tempo previsto de medição.\n\nDisponível em: http://www.correiodobrasil.com.br. Acesso em: 02 maio 2010.\n\nNa data do acontecido, duas pessoas avistaram o balão. Uma estava a 1,8 km da posição vertical do balão e o avistou sob um ângulo de 60°; a outra estava a 5,5 km da posição vertical do balão, alinhada com a primeira, e no mesmo sentido, conforme se vê na figura, e o avistou sob um ângulo de 30°.\n\n[[FIG1]]\n\nQual a altura aproximada em que se encontrava o balão?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,8 km"
+      },
+      {
+        "letter": "B",
+        "text": "1,9 km"
+      },
+      {
+        "letter": "C",
+        "text": "3,1 km"
+      },
+      {
+        "letter": "D",
+        "text": "3,7 km"
+      },
+      {
+        "letter": "E",
+        "text": "5,5 km"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q160-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Considerando o triângulo retângulo formado pela altura H do balão e o ponto A no solo, a distância horizontal é de 1,8 km e o ângulo de elevação é de 60°. Pela definição da tangente, tg(60°) = H / 1,8. Sabendo que tg(60°) = √3 ≈ 1,73, calcula-se H = 1,8 × 1,73 ≈ 3,11 km. Verificando pelo ponto B a 5,5 km (1,8 + 3,7): tg(30°) = H / 5,5, de modo que H = 5,5 × (√3 / 3) ≈ 5,5 × 0,577 ≈ 3,17 km. Em ambos os casos, a altura aproxima-se de 3,1 km. Assim, a alternativa C está correta.\n\nAs alternativas A e E correspondem simplesmente às distâncias horizontais dos pontos A e B até a base da projeção vertical do balão. A alternativa B subestima a altura usando um valor incorreto de tangente. A alternativa D corresponde ao espaçamento entre os observadores A e B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q161",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 161,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Em canteiros de obras de construção civil é comum perceber trabalhadores realizando medidas de comprimento e de ângulos e fazendo demarcações por onde a obra deve começar ou se erguer. Em um desses canteiros foram feitas algumas marcas no chão plano. Foi possível perceber que, das seis estacas colocadas, três eram vértices de um triângulo retângulo e as outras três eram os pontos médios dos lados desse triângulo, conforme pode ser visto na figura, em que as estacas foram indicadas por letras.\n\n[[FIG1]]\n\nA região demarcada pelas estacas A, B, M e N deveria ser calçada com concreto.\nNessas condições, a área a ser calçada corresponde",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "à mesma área do triângulo AMC."
+      },
+      {
+        "letter": "B",
+        "text": "à mesma área do triângulo BNC."
+      },
+      {
+        "letter": "C",
+        "text": "à metade da área formada pelo triângulo ABC."
+      },
+      {
+        "letter": "D",
+        "text": "ao dobro da área do triângulo MNC."
+      },
+      {
+        "letter": "E",
+        "text": "ao triplo da área do triângulo MNC."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q161-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Como M e N são os pontos médios dos lados BC e AC do triângulo ABC, o segmento MN é paralelo ao lado AB e mede metade de seu comprimento. Assim, o triângulo MNC é semelhante ao triângulo ABC com razão de semelhança igual a 1/2. A razão entre as áreas de figuras semelhantes é o quadrado da razão de semelhança, logo a área do triângulo MNC equivale a (1/2)² = 1/4 da área total do triângulo ABC. A região calçada ABNM corresponde ao quadrilátero restante, obtido subtraindo MNC de ABC: Área(ABNM) = Área(ABC) - Área(MNC) = 4 × Área(MNC) - Área(MNC) = 3 × Área(MNC). Portanto, a área a ser calçada corresponde ao triplo da área do triângulo MNC, tornando a alternativa E correta.\n\nAs alternativas A e B indicam igualdade com triângulos formados por medianas que não definem a mesma área do trapézio. A alternativa C erra ao afirmar que a área é metade da total (é 3/4). A alternativa D erra ao considerar que a área é o dobro em vez do triplo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q162",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 162,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados.\n\n[[FIG1]]\n\nPara que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 mm."
+      },
+      {
+        "letter": "B",
+        "text": "10 mm."
+      },
+      {
+        "letter": "C",
+        "text": "17 mm."
+      },
+      {
+        "letter": "D",
+        "text": "160 mm."
+      },
+      {
+        "letter": "E",
+        "text": "167 mm."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q162-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A área total da página do anúncio é obtida pelo produto de suas dimensões: 260 mm × 400 mm = 104 000 mm². Para que a representação seja fidedigna, a área do retângulo que representa os outros jornais deve corresponder a 4% da área total: 0,04 × 104 000 = 4 160 mm². O retângulo menor possui largura de 26 mm e comprimento x mm, de modo que sua área é 26 × x. Igualando os valores: 26x = 4 160, donde x = 4 160 / 26 = 160 mm. Assim, a alternativa D está correta.\n\nAs alternativas A e B trazem medidas excessivamente reduzidas que gerariam porcentagens muito inferiores a 4%. A alternativa C confunde a proporção entre os lados com a área. A alternativa E aproxima incorretamente os cálculos utilizando divisões inadequadas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q163",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides.\n\n[[FIG1]]\n\nBOLT, Brian. Atividades matemáticas.Ed.Gradiva.\n\nRepresentando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "y = R."
+      },
+      {
+        "letter": "B",
+        "text": "y = 2R."
+      },
+      {
+        "letter": "C",
+        "text": "y = πR."
+      },
+      {
+        "letter": "D",
+        "text": "y = 2πR."
+      },
+      {
+        "letter": "E",
+        "text": "y = 4πR."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q163-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Quando um cilindro de raio R rola sobre o solo sem escorregar ao dar uma volta completa, seu eixo central translada uma distância correspondente ao perímetro da circunferência da base: d_centro = 2πR. O bloco de pedra está em contato contínuo com o topo do rolo. Pela cinemática do rolamento puro, o topo do cilindro tem velocidade instantânea que é o dobro da velocidade do centro, pois o ponto de contato inferior com o solo está instantaneamente em repouso. Logo, o deslocamento horizontal do bloco apoiado no topo é o dobro do deslocamento do centro do cilindro: y = 2 × (2πR) = 4πR. Portanto, a alternativa E está correta.\n\nAs alternativas A e B desconsideram a rotação e o fator π. A alternativa C utiliza apenas o raio vezes π. A alternativa D representa apenas o deslocamento do centro do rolo (2πR), desconsiderando que o bloco se apoia no topo e viaja com o dobro dessa distância.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q164",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 164,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Geometria Espacial"
+    ],
+    "statement": "Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma peça com o formato de um prisma reto com base triangular, cujas dimensões da base são 6 cm, 8 cm e 10 cm e cuja altura é 10 cm. Tal peça deve ser vazada de tal maneira que a perfuração na forma de um cilindro circular reto seja tangente às suas faces laterais, conforme mostra a figura.\n\n[[FIG1]]\n\nO raio da perfuração da peça é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 cm."
+      },
+      {
+        "letter": "B",
+        "text": "2 cm."
+      },
+      {
+        "letter": "C",
+        "text": "3 cm."
+      },
+      {
+        "letter": "D",
+        "text": "4 cm."
+      },
+      {
+        "letter": "E",
+        "text": "5 cm."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q164-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A base do prisma é um triângulo de lados 6 cm, 8 cm e 10 cm. Como 6² + 8² = 36 + 64 = 100 = 10², trata-se de um triângulo retângulo cujos catetos medem 6 cm e 8 cm e a hipotenusa mede 10 cm. Como a perfuração cilíndrica é tangente às faces laterais, o círculo da base do cilindro está inscrito nesse triângulo. Em um triângulo retângulo, o raio r da circunferência inscrita pode ser obtido pela fórmula r = (a + b - c) / 2, onde a e b são os catetos e c é a hipotenusa. Logo, r = (6 + 8 - 10) / 2 = 4 / 2 = 2 cm. Portanto, a alternativa B está correta.\n\nA alternativa A subestima o raio inscrito. A alternativa C calcula incorretamente a relação com a média dos catetos. As alternativas D e E confundem o raio com a metade dos catetos ou da hipotenusa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q165",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 165,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Nos processos industriais, como na indústria de cerâmica, é necessário o uso de fornos capazes de produzir elevadas temperaturas e, em muitas situações, o tempo de elevação dessa temperatura deve ser controlado, para garantir a qualidade do produto final e a economia no processo. Em uma indústria de cerâmica, o forno é programado para elevar a temperatura ao longo do tempo de acordo com a função\n\n[[FIG1]]\n\nem que T é o valor da temperatura atingida pelo forno, em graus Celsius, e t é o tempo, em minutos, decorrido desde o instante em que o forno é ligado.\nUma peça deve ser colocada nesse forno quando a temperatura for 48 °C e retirada quando a temperatura for 200 °C.\n\nO tempo de permanência dessa peça no forno é, em minutos, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100."
+      },
+      {
+        "letter": "B",
+        "text": "108."
+      },
+      {
+        "letter": "C",
+        "text": "128."
+      },
+      {
+        "letter": "D",
+        "text": "130."
+      },
+      {
+        "letter": "E",
+        "text": "150."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q165-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para T = 48 °C, usamos a primeira parte da função (0 ≤ t < 100): 48 = (7/5)t + 20, o que dá (7/5)t = 28, logo t1 = 28 × 5 / 7 = 20 minutos. No instante t = 100, a temperatura atinge T = (2/125)(100)² - (16/5)(100) + 320 = 160 °C. Para a temperatura de retirada de 200 °C, utiliza-se a segunda parte da função: (2/125)t² - (16/5)t + 320 = 200, que simplifica para (2/125)t² - (16/5)t + 120 = 0. Multiplicando toda a equação por 125/2, obtém-se t² - 200t + 7500 = 0. Fatorando, tem-se (t - 50)(t - 150) = 0. Como o domínio é t ≥ 100, a raiz válida é t2 = 150 minutos. O tempo de permanência da peça é t2 - t1 = 150 - 20 = 130 minutos. Portanto, a alternativa D está correta.\n\nAs alternativas A, B e C apresentam valores menores por desconsiderarem o instante inicial t1 = 20 ou errarem na resolução da equação de segundo grau. A alternativa E indica o tempo total t2 sem subtrair o tempo inicial de entrada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q166",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 166,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.\n\n[[FIG1]]\n\nFavela Tem Memória. Época. Nº 621, 12 abr. 2010 (adaptado).\n\nSe o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "menor que 1 150."
+      },
+      {
+        "letter": "B",
+        "text": "218 unidades maior que em 2004."
+      },
+      {
+        "letter": "C",
+        "text": "maior que 1 150 e menor que 1 200."
+      },
+      {
+        "letter": "D",
+        "text": "177 unidades maior que em 2010."
+      },
+      {
+        "letter": "E",
+        "text": "maior que 1 200."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q166-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No período de 2004 a 2010 (intervalo de 6 anos), o número de favelas passou de 750 para 968, o que representa um aumento de 968 - 750 = 218 favelas. Se o padrão de crescimento linear se mantiver nos próximos 6 anos (de 2010 a 2016), haverá um novo acréscimo de 218 unidades. Assim, o número projetado de favelas em 2016 será 968 + 218 = 1 186. O valor 1 186 é maior que 1 150 e menor que 1 200. Portanto, a alternativa C está correta.\n\nA alternativa A é incorreta pois 1 186 é maior que 1 150. A alternativa B é falsa porque 1 186 é 436 unidades maior que em 2004, e não 218. A alternativa D erra ao propor uma variação de 177 unidades (que foi a variação entre 1992 e 2004). A alternativa E é incorreta pois 1 186 não ultrapassa 1 200.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q167",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 167,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006.\n\n[[FIG1]]\n\nDisponível em: http://www.suapesquisa.com. Acesso em: 23 abr. 2010 (adaptado).\n\nA partir dos dados apresentados, qual a mediana das quantidades de gols marcados pelos artilheiros das Copas do Mundo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6 gols"
+      },
+      {
+        "letter": "B",
+        "text": "6,5 gols"
+      },
+      {
+        "letter": "C",
+        "text": "7 gols"
+      },
+      {
+        "letter": "D",
+        "text": "7,3 gols"
+      },
+      {
+        "letter": "E",
+        "text": "8,5 gols"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q167-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O gráfico apresenta os dados de 18 Copas do Mundo (de 1930 a 2006). Coletando o número de gols de cada artilheiro: 1930 (8), 1934 (5), 1938 (7), 1950 (9), 1954 (11), 1958 (13), 1962 (4), 1966 (9), 1970 (10), 1974 (7), 1978 (6), 1982 (6), 1986 (6), 1990 (6), 1994 (6), 1998 (6), 2002 (8) e 2006 (5). Organizando esses 18 valores em ordem crescente (rol): 4, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 8, 8, 9, 9, 10, 11, 13. Como a quantidade de elementos é par (n = 18), a mediana é a média aritmética dos termos centrais nas posições 9ª e 10ª. O 9º termo é 6 e o 10º termo é 7. Logo, a mediana é (6 + 7) / 2 = 6,5 gols. Portanto, a alternativa B está correta.\n\nA alternativa A considera apenas o nono termo (ou a moda). A alternativa C considera apenas o décimo termo. A alternativa D aproxima a média aritmética em vez da mediana. A alternativa E calcula a média entre valores extremos ou incorretos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q168",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 168,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Em um casamento, os donos da festa serviam champanhe aos seus convidados em taças com formato de um hemisfério (Figura 1), porém um acidente na cozinha culminou na quebra de grande parte desses recipientes. Para substituir as taças quebradas, utilizou-se um outro tipo com formato de cone (Figura 2). No entanto, os noivos solicitaram que o volume de champanhe nos dois tipos de taças fosse igual.\n\n[[FIG1]]\n\nConsidere:\n\n[[FIG2]]\n\nSabendo que a taça com o formato de hemisfério é servida completamente cheia, a altura do volume de champanhe que deve ser colocado na outra taça, em centímetros, é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,33."
+      },
+      {
+        "letter": "B",
+        "text": "6,00."
+      },
+      {
+        "letter": "C",
+        "text": "12,00."
+      },
+      {
+        "letter": "D",
+        "text": "56,52."
+      },
+      {
+        "letter": "E",
+        "text": "113,04."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q168-1.webp",
+      "FIG2": "data/figuras/enem-2010-q168-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A taça hemisférica tem raio R = 3 cm. O volume de uma esfera é (4/3)·π·R³, logo o volume do hemisfério cheio é dado por V = (1/2)·(4/3)·π·(3)³ = (2/3)·π·27 = 18π cm³. Na taça em formato de cone, o líquido atinge uma superfície circular de raio R = 3 cm e altura h. O volume do cone é V = (1/3)·π·R²·h = (1/3)·π·(3)²·h = 3π·h. Como os noivos solicitaram que os volumes fossem iguais, igualamos as duas expressões: 3π·h = 18π, donde h = 18/3 = 6,00 cm. Portanto, a alternativa B é a correta. As demais alternativas resultam de erros conceituais: A confunde a fórmula ou esquece da divisão por 3; C considera a esfera inteira em vez do hemisfério ou duplica o volume; D e E utilizam aproximações numéricas de π multiplicadas erroneamente pela altura ou volume sem simplificar a equação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q169",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 169,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a impulsão; na passada ele cairá com o outro pé, do qual o salto é realizado.\n\nDisponível em: www.cbat.org.br (adaptado).\n\nUm atleta da modalidade Salto Triplo, depois de estudar seus movimentos, percebeu que, do segundo para o primeiro salto, o alcance diminuía em 1,2 m, e, do terceiro para o segundo salto, o alcance diminuía 1,5 m. Querendo atingir a meta de 17,4 m nessa prova e considerando os seus estudos, a distância alcançada no primeiro salto teria de estar entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4,0 m e 5,0 m."
+      },
+      {
+        "letter": "B",
+        "text": "5,0 m e 6,0 m."
+      },
+      {
+        "letter": "C",
+        "text": "6,0 m e 7,0 m."
+      },
+      {
+        "letter": "D",
+        "text": "7,0 m e 8,0 m."
+      },
+      {
+        "letter": "E",
+        "text": "8,0 m e 9,0 m."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Seja x a distância alcançada no primeiro salto. De acordo com o texto, o segundo salto diminuiu 1,2 m em relação ao primeiro, medindo portanto x - 1,2 m. O terceiro salto diminuiu 1,5 m em relação ao segundo, medindo (x - 1,2) - 1,5 = x - 2,7 m. A distância total percorrida no salto triplo é a soma dos três saltos: x + (x - 1,2) + (x - 2,7) = 17,4. Simplificando a equação, temos 3x - 3,9 = 17,4, o que leva a 3x = 21,3 e x = 7,1 m. Como 7,1 m está entre 7,0 m e 8,0 m, a alternativa D está correta. As alternativas A, B, C e E apresentam intervalos numéricos incorretos decorrentes de equívocos na montagem das diferenças entre os saltos ou erros na resolução da equação do primeiro grau.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q170",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 170,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Marco e Paulo foram classificados em um concurso. Para classificação no concurso o candidato deveria obter média aritmética na pontuação igual ou superior a 14. Em caso de empate na média, o desempate seria em favor da pontuação mais regular. No quadro a seguir são apresentados os pontos obtidos nas provas de Matemática, Português e Conhecimentos Gerais, a média, a mediana e o desvio padrão dos dois candidatos.\n\n[[FIG1]]\n\nO candidato com pontuação mais regular, portanto mais bem classificado no concurso, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Marco, pois a média e a mediana são iguais."
+      },
+      {
+        "letter": "B",
+        "text": "Marco, pois obteve menor desvio padrão."
+      },
+      {
+        "letter": "C",
+        "text": "Paulo, pois obteve a maior pontuação da tabela, 19 em Português."
+      },
+      {
+        "letter": "D",
+        "text": "Paulo, pois obteve maior mediana."
+      },
+      {
+        "letter": "E",
+        "text": "Paulo, pois obteve maior desvio padrão."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q170-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ambos os candidatos obtiveram a mesma média aritmética (15 pontos), o que gerou um empate. O critério de desempate estabelecido pelo concurso é a regularidade da pontuação. Em estatística, a regularidade de um conjunto de dados é medida pelo desvio padrão: quanto menor o desvio padrão, mais homogêneas e regulares são as notas do candidato em relação à média. Observando a tabela, Marco apresenta desvio padrão igual a 0,32, enquanto Paulo tem desvio padrão de 4,97. Portanto, Marco possui pontuação mais regular por ter o menor desvio padrão, justificando a alternativa B. A alternativa A erra porque a igualdade entre média e mediana não define regularidade; C e D ignoram o critério de regularidade e consideram métricas isoladas que não desempatam a média; e E contradiz o conceito, pois maior desvio padrão indica menor regularidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q171",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 171,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%.\n\nEm relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "16%."
+      },
+      {
+        "letter": "B",
+        "text": "24%."
+      },
+      {
+        "letter": "C",
+        "text": "32%."
+      },
+      {
+        "letter": "D",
+        "text": "48%."
+      },
+      {
+        "letter": "E",
+        "text": "64%."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Considerando um grupo inicial de 100 pacientes, o tratamento tradicional curou 40%, restando 60 pacientes não curados. Esses 60 pacientes foram divididos igualmente em dois grupos de 30 pessoas para os tratamentos inovadores. No primeiro grupo inovador, curaram-se 35% de 30 pacientes, ou seja, 0,35 · 30 = 10,5 pacientes. No segundo grupo inovador, curaram-se 45% de 30 pacientes, isto é, 0,45 · 30 = 13,5 pacientes. Somando os curados pelos dois novos métodos, temos 10,5 + 13,5 = 24 pacientes. Em relação ao total inicial de 100 pacientes submetidos, isso corresponde a 24%, tornando correta a alternativa B. A alternativa A comete erro no cálculo das porcentagens; C soma as porcentagens de forma indevida ou calcula sobre 40%; D calcula a média simples entre 35% e 45% multiplicada pelo total remanescente sem considerar a divisão correta; e E calcula porcentagens sobre bases equivocadas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q172",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 172,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Em 2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões. Neste mesmo ano, a produção brasileira de etanol correspondeu a 43% da produção mundial, ao passo que a produção dos Estados Unidos da América, usando milho, foi de 45%.\n\nDisponível em: planetasustentavel.abril.com.br. Acesso em: 02 maio 2009.\n\nConsiderando que, em 2009, a produção mundial de etanol seja a mesma de 2006 e que os Estados Unidos produzirão somente a metade de sua produção de 2006, para que o total produzido pelo Brasil e pelos Estados Unidos continue correspondendo a 88% da produção mundial, o Brasil deve aumentar sua produção em, aproximadamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22,5%."
+      },
+      {
+        "letter": "B",
+        "text": "50,0%."
+      },
+      {
+        "letter": "C",
+        "text": "52,3%."
+      },
+      {
+        "letter": "D",
+        "text": "65,5%."
+      },
+      {
+        "letter": "E",
+        "text": "77,5%."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em 2006, o Brasil produziu 43% da produção mundial e os EUA produziram 45%, totalizando 88%. Em 2009, a produção mundial se manteve constante e os EUA reduziram sua produção pela metade, passando a produzir 45% / 2 = 22,5% da produção mundial. Para que a soma de Brasil e EUA continue sendo 88%, a participação brasileira em 2009 deve ser 88% - 22,5% = 65,5% da produção mundial. O aumento necessário na produção brasileira é a variação percentual sobre sua produção anterior: (65,5% - 43%) / 43% = 22,5 / 43 ≈ 0,5232, ou seja, aproximadamente 52,3%. Logo, a alternativa C está correta. A alternativa A confunde o aumento percentual com a diferença em pontos percentuais (22,5%); B e D resultam de estimativas imprecisas; e E calcula a razão entre 65,5% e outros fatores de forma equivocada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q173",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 173,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades.\n\n[[FIG1]]\n\nComo João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. Examinando a figura, percebe que precisa considerar somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.\n\nO tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "60 min."
+      },
+      {
+        "letter": "B",
+        "text": "90 min."
+      },
+      {
+        "letter": "C",
+        "text": "120 min."
+      },
+      {
+        "letter": "D",
+        "text": "180 min."
+      },
+      {
+        "letter": "E",
+        "text": "360 min."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q173-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "João parte da cidade A, visita as outras 5 cidades (B, C, D, E e F) em alguma ordem e retorna a A. O número de ordens possíveis de visitação é dado pela permutação das 5 cidades intermediárias: P₅ = 5! = 120 trajetos. No entanto, o trajeto percorrido no sentido inverso possui o mesmo custo total (por exemplo, ABCDEFA e AFEDCBA têm o mesmo valor). Como cada análise de 1 min 30 s (1,5 min) avalia uma sequência e descarta simultaneamente sua simétrica, João precisa avaliar apenas a metade das permutações totais, ou seja, 120 / 2 = 60 sequências. O tempo total necessário é 60 · 1,5 min = 90 minutos, confirmando a alternativa B. A alternativa A considera apenas 40 sequências; C calcula o tempo sem descartar as simétricas mas errando o produto; D calcula o tempo para todas as 120 sequências (120 · 1,5 = 180 min), esquecendo que o descarte é feito em conjunto; e E dobra esse tempo incorretamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q174",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O diretor de um colégio leu numa revista que os pés das mulheres estavam aumentando. Há alguns anos, a média do tamanho dos calçados das mulheres era de 35,5 e, hoje, é de 37,0. Embora não fosse uma informação científica, ele ficou curioso e fez uma pesquisa com as funcionárias do seu colégio, obtendo o quadro a seguir:\n\n[[FIG1]]\n\nEscolhendo uma funcionária ao acaso e sabendo que ela tem calçado maior que 36,0, a probabilidade de ela calçar 38,0 é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/3"
+      },
+      {
+        "letter": "B",
+        "text": "1/5"
+      },
+      {
+        "letter": "C",
+        "text": "2/5"
+      },
+      {
+        "letter": "D",
+        "text": "5/7"
+      },
+      {
+        "letter": "E",
+        "text": "5/14"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q174-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Trata-se de uma probabilidade condicional. O espaço amostral é restrito às funcionárias que calçam número estritamente maior que 36,0. Observando os dados da tabela, os tamanhos maiores que 36,0 são: tamanho 37,0 (3 funcionárias), 38,0 (10 funcionárias) e 39,0 (1 funcionária). O número total de casos possíveis é 3 + 10 + 1 = 14 funcionárias. Dentre essas, o número de casos favoráveis (que calçam 38,0) é 10. Portanto, a probabilidade é dada por P = 10/14 = 5/7, correspondendo à alternativa D. As alternativas A, B e C utilizam denominadores incorretos decorrentes de falhas na contagem do espaço amostral reduzido; e a alternativa E não simplifica a fração ou considera o total geral da tabela de forma errônea.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q175",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 175,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols.\n\n[[FIG1]]\n\nSe X, Y e Z são, respectivamente, a média, a mediana e a moda desta distribuição, então",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "X = Y < Z."
+      },
+      {
+        "letter": "B",
+        "text": "Z < X = Y."
+      },
+      {
+        "letter": "C",
+        "text": "Y < Z < X."
+      },
+      {
+        "letter": "D",
+        "text": "Z < X < Y."
+      },
+      {
+        "letter": "E",
+        "text": "Z < Y < X."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q175-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Calculam-se as três medidas para a distribuição: O número total de partidas é 5 + 3 + 4 + 3 + 2 + 2 + 1 = 20. A moda (Z) é o valor de maior frequência absoluta: o valor 0 ocorreu 5 vezes, logo Z = 0. A mediana (Y) é a média entre o 10º e o 11º termos ordenados; acumulando as frequências, do 1º ao 5º temos 0 gols, do 6º ao 8º temos 1 gol, e do 9º ao 12º temos 2 gols, portanto o 10º e 11º são iguais a 2, logo Y = 2. A média (X) é dada pelo total de gols dividido pelo número de partidas: X = (0·5 + 1·3 + 2·4 + 3·3 + 4·2 + 5·2 + 7·1) / 20 = (0 + 3 + 8 + 9 + 8 + 10 + 7) / 20 = 45 / 20 = 2,25. Comparando os valores: Z = 0 < Y = 2 < X = 2,25, o que define Z < Y < X, correspondendo à alternativa E. As alternativas A, B, C e D apresentam ordenações incorretas ou pressupõem igualdades falsas entre as medidas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q176",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 176,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Razão e Proporção"
+    ],
+    "statement": "A disparidade de volume entre os planetas é tão grande que seria possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos. Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com vida: dentro dela cabem sete Martes. Netuno é o quarto maior: dentro dele cabem 58 Terras. Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos.\n\nRevista Veja. Ano 41, nº 25, 25 jun. 2008 (adaptado).\n\nSeguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "406"
+      },
+      {
+        "letter": "B",
+        "text": "1 334"
+      },
+      {
+        "letter": "C",
+        "text": "4 002"
+      },
+      {
+        "letter": "D",
+        "text": "9 338"
+      },
+      {
+        "letter": "E",
+        "text": "28 014"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O problema estabelece relações de capacidade entre os volumes dos planetas: dentro de Netuno cabem 58 Terras (1 Netuno = 58 Terras) e dentro de Júpiter cabem 23 Netunos (1 Júpiter = 23 Netunos). Para determinar quantas Terras cabem dentro de Júpiter, basta substituir o volume de Netuno em termos de Terras na relação de Júpiter: Capacidade = 23 · 58 = 1 334 Terras. Dessa forma, a alternativa B é a correta. A alternativa A multiplica 58 por 7 de forma equivocada; C calcula 23 · 58 · 3, incluindo indevidamente Mercúrio; D calcula 1 334 · 7, multiplicando desnecessariamente pela razão da Terra com Marte; e E multiplica todos os fatores numéricos citados no texto sem interpretar o encadeamento solicitado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q177",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Um dos grandes problemas da poluição dos mananciais (rios, córregos e outros) ocorre pelo hábito de jogar óleo utilizado em frituras nos encanamentos que estão interligados com o sistema de esgoto. Se isso ocorrer, cada 10 litros de óleo poderão contaminar 10 milhões (10⁷) de litros de água potável.\n\nManual de etiqueta. Parte integrante das revistas Veja (ed. 2055), Cláudia (ed. 555), National Geographic (ed. 93) e Nova Escola (ed. 208) (adaptado).\n\nSuponha que todas as famílias de uma cidade descartem os óleos de frituras através dos encanamentos e consomem 1 000 litros de óleo em frituras por semana.\n\nQual seria, em litros, a quantidade de água potável contaminada por semana nessa cidade?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10⁻²"
+      },
+      {
+        "letter": "B",
+        "text": "10³"
+      },
+      {
+        "letter": "C",
+        "text": "10⁴"
+      },
+      {
+        "letter": "D",
+        "text": "10⁶"
+      },
+      {
+        "letter": "E",
+        "text": "10⁹"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O enunciado informa que 10 litros de óleo contaminam 10⁷ litros de água potável. Isso significa que a taxa de contaminação é de 10⁷ / 10 = 10⁶ litros de água contaminada para cada 1 litro de óleo descartado. Como a cidade consome e descarta 1 000 litros de óleo por semana (1 000 = 10³ litros), a quantidade total de água contaminada semanalmente é dada pelo produto da quantidade de óleo pela taxa: 10³ · 10⁶ = 10³⁺⁶ = 10⁹ litros. Logo, a alternativa E está correta. As alternativas A, B, C e D decorrem de manipulações incorretas com as potências de dez, tais como subtrair expoentes em vez de somar ou esquecer de converter a proporção dada para a base unitária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q178",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo ilustrado a seguir. O cubo de dentro é vazio. A aresta do cubo maior mede 12 cm e a do cubo menor, que é interno, mede 8 cm.\n\n[[FIG1]]\n\nO volume de madeira utilizado na confecção desse objeto foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12 cm³."
+      },
+      {
+        "letter": "B",
+        "text": "64 cm³."
+      },
+      {
+        "letter": "C",
+        "text": "96 cm³."
+      },
+      {
+        "letter": "D",
+        "text": "1 216 cm³."
+      },
+      {
+        "letter": "E",
+        "text": "1 728 cm³."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q178-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O objeto é formado por um bloco de madeira no formato de um cubo de aresta 12 cm do qual foi retirado um cubo interno oco de aresta 8 cm. O volume do cubo maior é V₁ = 12³ = 1 728 cm³. O volume da cavidade interna cúbica é V₂ = 8³ = 512 cm³. O volume de madeira efetivamente utilizado corresponde à diferença entre o volume externo e o volume interno: V = V₁ - V₂ = 1 728 - 512 = 1 216 cm³, o que valida a alternativa D. A alternativa A representa apenas a medida da aresta do cubo maior; B calcula a área da base do cubo menor (8²); C calcula a diferença das arestas multiplicada por um fator arbitrário; e E representa o volume total do cubo maior, desconsiderando o espaço vazio interno.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q179",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir.\n\n[[FIG1]]\n\nEle percebeu que a soma dos números em cada linha tinha uma propriedade e que, por meio dessa propriedade, era possível prever a soma de qualquer linha posterior às já construídas.\n\nA partir dessa propriedade, qual será a soma da 9ª linha da sequência de caixas empilhadas por Ronaldo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9"
+      },
+      {
+        "letter": "B",
+        "text": "45"
+      },
+      {
+        "letter": "C",
+        "text": "64"
+      },
+      {
+        "letter": "D",
+        "text": "81"
+      },
+      {
+        "letter": "E",
+        "text": "285"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q179-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Analisando a soma dos números em cada linha: Linha 1: 1 = 1 = 1²; Linha 2: 1 + 2 + 1 = 4 = 2²; Linha 3: 1 + 2 + 3 + 2 + 1 = 9 = 3²; Linha 4: 1 + 2 + 3 + 4 + 3 + 2 + 1 = 16 = 4². Observa-se o padrão matemático em que a soma dos elementos da linha n é igual a n² (propriedade conhecida da soma dos inteiros de 1 a n e retorno a 1). Seguindo esse padrão para a 9ª linha da sequência, a soma dos números será 9² = 81. Portanto, a alternativa D é a correta. As alternativas A (que traz apenas o número da linha 9), B (que calcula a soma de 1 a 9 sem a volta), C (que corresponde a 8²) e E (que calcula a soma de quadrados de 1 a 9) não seguem a propriedade identificada na sequência.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q180",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 180,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Para conseguir chegar a um número recorde de produção de ovos de Páscoa, as empresas brasileiras começam a se planejar para esse período com um ano de antecedência. O gráfico a seguir mostra o número de ovos de Páscoa produzidos no Brasil no período de 2005 a 2009.\n\n[[FIG1]]\n\nRevista Veja. São Paulo: Abril, ed. 2107, nº 14, ano 42.\n\nDe acordo com o gráfico, o biênio que apresentou maior produção acumulada foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2004-2005."
+      },
+      {
+        "letter": "B",
+        "text": "2005-2006."
+      },
+      {
+        "letter": "C",
+        "text": "2006-2007."
+      },
+      {
+        "letter": "D",
+        "text": "2007-2008."
+      },
+      {
+        "letter": "E",
+        "text": "2008-2009."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q180-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Um biênio corresponde ao período de dois anos consecutivos. Somando as produções anuais registradas no gráfico para cada biênio disponível: 2005-2006: 90 + 94 = 184 milhões; 2006-2007: 94 + 99 = 193 milhões; 2007-2008: 99 + 107 = 206 milhões; 2008-2009: 107 + 113 = 220 milhões. Comparando os valores obtidos, o maior acumulado ocorreu no biênio 2008-2009 com 220 milhões de ovos de Páscoa, o que torna a alternativa E correta. A alternativa A cita um período que não consta completamente no gráfico (falta 2004); e as alternativas B, C e D apresentam somas estritamente inferiores à do biênio final, que acumulou os dois maiores picos da série histórica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
   }
 ]
