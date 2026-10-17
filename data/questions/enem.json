@@ -82713,5 +82713,132 @@
       "institution": "INEP",
       "note": "ENEM 2010 – 1º dia, 1-AZUL"
     }
+  },
+  {
+    "id": "enem-2010-q122",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 122,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto I\nO chamado “fumante passivo” é aquele indivíduo que não fuma, mas acaba respirando a fumaça dos cigarros fumados ao seu redor. Até hoje, discutem-se muito os efeitos do fumo passivo, mas uma coisa é certa: quem não fuma não é obrigado a respirar a fumaça dos outros.\nO fumo passivo é um problema de saúde pública em todos os países do mundo. Na Europa, estima-se que 79% das pessoas estão expostas à fumaça “de segunda mão”, enquanto, nos Estados Unidos, 88% dos não fumantes acabam fumando passivamente. A Sociedade do Câncer da Nova Zelândia informa que o fumo passivo é a terceira entre as principais causas de morte no país, depois do fumo ativo e do uso de álcool.\nDisponível em: www.terra.com.br. Acesso em: 27 abr. 2010 (fragmento).\nTexto II\n[[FIG1]]\nDisponível em:http://rickjaimecomics.blogspot.com. Acesso em: 27 abr.2010.\nAo abordar a questão do tabagismo, os textos I e II procuram demonstrar que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a quantidade de cigarros consumidos por pessoa, diariamente, excede o máximo de nicotina recomendado para os indivíduos, inclusive para os não fumantes."
+      },
+      {
+        "letter": "B",
+        "text": "para garantir o prazer que o indivíduo tem ao fumar, será necessário aumentar as estatísticas de fumo passivo."
+      },
+      {
+        "letter": "C",
+        "text": "a conscientização dos fumantes passivos é uma maneira de manter a privacidade de cada indivíduo e garantir a saúde de todos."
+      },
+      {
+        "letter": "D",
+        "text": "os não fumantes precisam ser respeitados e poupados, pois estes também estão sujeitos às doenças causadas pelo tabagismo."
+      },
+      {
+        "letter": "E",
+        "text": "o fumante passivo não é obrigado a inalar as mesmas toxinas que um fumante, portanto depende dele evitar ou não a contaminação proveniente da exposição ao fumo."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q122-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Texto I apresenta dados estatísticos e de saúde pública sobre os riscos do fumo passivo, destacando que os não fumantes não devem ser expostos à fumaça alheia. O Texto II ilustra visualmente a fumaça de um cigarro tomando a forma de uma entidade agressiva que sufoca o não fumante. A integração de ambos os textos demonstra que os não fumantes precisam ser respeitados e protegidos, já que a exposição à fumaça causa danos graves à saúde. A alternativa A está incorreta pois o texto não discute o limite diário de nicotina recomendado. A alternativa B é absurda, pois sugere o aumento do fumo passivo para garantir o prazer do fumante. A alternativa C erra ao focar na conscientização do não fumante, quando na verdade a conscientização cabe aos fumantes. A alternativa E é incorreta porque o fumante passivo muitas vezes não tem como evitar a exposição em ambientes compartilhados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q123",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 123,
+    "day": 2,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "“Todas as manhãs quando acordo, experimento um prazer supremo: o de ser Salvador Dalí.”\nNÉRET, G. Salvador Dalí. Taschen, 1996.\nAssim escreveu o pintor dos “relógios moles” e das “girafas em chamas” em 1931. Esse artista excêntrico deu apoio ao general Franco durante a Guerra Civil Espanhola e, por esse motivo, foi afastado do movimento surrealista por seu líder, André Breton. Dessa forma, Dalí criou seu próprio estilo, baseado na interpretação dos sonhos e nos estudos de Sigmund Freud, denominado “método de interpretação paranoico”. Esse método era constituído por textos visuais que demonstram imagens",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "do fantástico, impregnado de civismo pelo governo espanhol, em que a busca pela emoção e pela dramaticidade desenvolveram um estilo incomparável."
+      },
+      {
+        "letter": "B",
+        "text": "do onírico, que misturava sonho com realidade e interagia refletindo a unidade entre o consciente e o inconsciente como um universo único ou pessoal."
+      },
+      {
+        "letter": "C",
+        "text": "da linha inflexível da razão, dando vazão a uma forma de produção despojada no traço, na temática e nas formas vinculadas ao real."
+      },
+      {
+        "letter": "D",
+        "text": "do reflexo que, apesar do termo “paranoico”, possui sobriedade e elegância advindas de uma técnica de cores discretas e desenhos precisos."
+      },
+      {
+        "letter": "E",
+        "text": "da expressão e intensidade entre o consciente e a liberdade, declarando o amor pela forma de conduzir o enredo histórico dos personagens retratados."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Surrealismo, corrente artística em que Salvador Dalí se destacou, apoiava-se nas teorias da psicanálise de Sigmund Freud sobre o inconsciente. O método de interpretação paranoico criado por Dalí expressava a dimensão onírica, fundindo elementos do sonho e da realidade e refletindo a conexão entre o consciente e o inconsciente na criação visual. A alternativa A está incorreta pois o trabalho de Dalí não se apoiava no civismo nem na exaltação do governo espanhol. A alternativa C está incorreta porque o Surrealismo se opunha à linha inflexível da razão. A alternativa D está errada pois a técnica surrealista de Dalí buscava o extraordinário e o ilógico, e não a sobriedade. A alternativa E é incorreta por distorcer a relação entre consciente e enredo histórico na obra do artista.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q124",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 124,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Choque a 36 000 km/h\nA faixa que vai de 160 quilômetros de altitude em volta da terra assemelha-se a uma avenida congestionada onde orbitam 3 000 satélites ativos. Eles disputam espaço com 17 000 fragmentos de artefatos lançados pela Terra e que se desmancharam – foguetes, satélites desativados e até ferramentas perdidas por astronautas. Com um tráfego celeste tão intenso, era questão de tempo para que acontecesse um acidente de grandes proporções, como o da semana passada. Na terça-feira, dois satélites em órbita desde os anos 90 colidiram em um ponto 790 quilômetros acima da Sibéria. A trombada dos satélites chama a atenção para os riscos que oferece a montanha de lixo espacial em órbita. Como os objetos viajam a grande velocidade, mesmo um pequeno fragmento de 10 centímetros poderia causar estragos consideráveis no telescópio Hubble ou na estação espacial Internacional — nesse caso pando em risco a vida dos astronautas que lá trabalham.\nRevista Veja. 18 set. 2009 (adaptado).\nLevando-se em consideração os elementos constitutivos de um texto jornalístico, infere-se que o autor teve como objetivo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exaltar o emprego da linguagem figurada."
+      },
+      {
+        "letter": "B",
+        "text": "criar suspense e despertar temor no leitor."
+      },
+      {
+        "letter": "C",
+        "text": "influenciar a opinião dos leitores sobre o tema, com as marcas argumentativas de seu posicionamento."
+      },
+      {
+        "letter": "D",
+        "text": "induzir o leitor a pensar que os satélites artificiais representam um grande perigo para toda a humanidade."
+      },
+      {
+        "letter": "E",
+        "text": "exercitar a ironia ao empregar “avenida congestionada”; “tráfego celeste tão intenso”; “montanha de lixo”."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto jornalístico analisado vai além de apenas noticiar o choque entre satélites: ele adota expressões com valor expressivo e opinativo (como 'avenida congestionada', 'trombada' e 'montanha de lixo') para chamar a atenção do leitor para o problema do lixo espacial. Assim, o autor usa marcas argumentativas para influenciar a perspectiva do leitor sobre o tema. A alternativa A está incorreta pois o uso de figuras de linguagem é apenas um meio expressivo, não a finalidade do texto. A alternativa B é incorreta porque o gênero jornalístico não busca criar suspense ficcional. A alternativa D está errada ao afirmar que o perigo atinge toda a humanidade e é causado diretamente pelos satélites em si, e não pelo lixo orbital. A alternativa E é incorreta porque os termos citados são metáforas para ilustrar a situação, e não figuras de ironia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
   }
 ]
