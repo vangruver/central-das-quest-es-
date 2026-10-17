@@ -75128,5 +75128,2079 @@
       "institution": "INEP",
       "note": "ENEM 2009 – 2º dia, 7 AZUL"
     }
+  },
+  {
+    "id": "enem-2010-q01",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\nFonte: Incra, Estatísticas cadastrais 1998.\n\nO gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A concentração de terras nas mãos de poucos."
+      },
+      {
+        "letter": "B",
+        "text": "A existência de poucas terras agricultáveis."
+      },
+      {
+        "letter": "C",
+        "text": "O domínio territorial dos minifúndios."
+      },
+      {
+        "letter": "D",
+        "text": "A primazia da agricultura familiar."
+      },
+      {
+        "letter": "E",
+        "text": "A debilidade dos plantations modernos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q01-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O gráfico demonstra uma acentuada desigualdade na distribuição de terras no Brasil, visto que as propriedades com mais de 1.000 hectares ocupam mais da metade da área total cadastrada (53%), enquanto os pequenos imóveis de até 10 hectares representam apenas 1,3% da área. Isso evidencia uma forte concentração fundiária histórica nas mãos de poucos proprietários, tornando a alternativa A correta. A alternativa B está incorreta, pois o país possui vasta extensão de terras agricultáveis. A alternativa C é falsa, pois os minifúndios ocupam uma fração territorial diminuta. A alternativa D está errada, já que a agricultura familiar não detém a maior parte da área rural. A alternativa E é incorreta, pois os latifúndios modernos voltados à exportação são economicamente dominantes, e não débeis.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q02",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Antes, eram apenas as grandes cidades que se apresentavam como o império da técnica, objeto de modificações, suspensões, acréscimos, cada vez mais sofisticadas e carregadas de artifício. Esse mundo artificial inclui, hoje, o mundo rural.\n\nSANTOS, M. A Natureza do Espaço. São Paulo: Hucitec, 1996.\n\nConsiderando a transformação mencionada no texto, uma consequência socioespacial que caracteriza o atual mundo rural brasileiro é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a redução do processo de concentração de terras."
+      },
+      {
+        "letter": "B",
+        "text": "o aumento do aproveitamento de solos menos férteis."
+      },
+      {
+        "letter": "C",
+        "text": "a ampliação do isolamento do espaço rural."
+      },
+      {
+        "letter": "D",
+        "text": "a estagnação da fronteira agrícola do país."
+      },
+      {
+        "letter": "E",
+        "text": "a diminuição do nível de emprego formal."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto de Milton Santos aborda a difusão do meio técnico-científico-informacional no espaço agrário. Com o avanço das técnicas agrícolas modernas, como a calagem, fertilização química, drenagem e biotecnologia, áreas antes consideradas impróprias para o cultivo, a exemplo dos solos ácidos e pobres do Cerrado brasileiro, tornaram-se altamente produtivas, o que valida a alternativa B. A alternativa A está incorreta, pois a modernização agrícola tendeu a intensificar a concentração de terras. A alternativa C é falsa, pois as inovações técnicas integraram o campo aos centros urbanos e redes globais. A alternativa D erra ao sugerir estagnação, já que a fronteira agrícola expandiu-se intensamente. A alternativa E é incorreta, pois a tecnificação consolidou relações formais de trabalho em diversos polos do agronegócio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q04",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Os lixões são o pior tipo de disposição final dos resíduos sólidos de uma cidade, representando um grave problema ambiental e de saúde pública. Nesses locais, o lixo é jogado diretamente no solo e a céu aberto, sem nenhuma norma de controle, o que causa, entre outros problemas, a contaminação do solo e das águas pelo chorume (líquido escuro com alta carga poluidora, proveniente da decomposição da matéria orgânica presente no lixo).\n\nRICARDO, B.; CANPANILLI, M. Almanaque Brasil Socioambiental 2008.\nSão Paulo, Instituto Socioambiental, 2007.\n\nConsidere um município que deposita os resíduos sólidos produzidos por sua população em um lixão. Esse procedimento é considerado um problema de saúde pública porque os lixões",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "causam problemas respiratórios, devido ao mau cheiro que provém da decomposição."
+      },
+      {
+        "letter": "B",
+        "text": "são locais propícios a proliferação de vetores de doenças, além de contaminarem o solo e as águas."
+      },
+      {
+        "letter": "C",
+        "text": "provocam o fenômeno da chuva ácida, devido aos gases oriundos da decomposição da matéria orgânica."
+      },
+      {
+        "letter": "D",
+        "text": "são instalados próximos ao centro das cidades, afetando toda a população que circula diariamente na área."
+      },
+      {
+        "letter": "E",
+        "text": "são responsáveis pelo desaparecimento das nascentes na região onde são instalados, o que leva à escassez de água."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O descarte inadequado de resíduos sólidos a céu aberto atrai animais sinantrópicos como ratos, moscas, baratas e mosquitos, que atuam como vetores de diversas enfermidades humanas, tais como leptospirose e dengue. Além disso, a infiltração do chorume contamina os recursos hídricos subterrâneos e superficiais, expondo a população ao consumo de água poluída e a doenças de veiculação hídrica, justificando a alternativa B. A alternativa A está incorreta, pois o mau cheiro causa incômodo olfativo, mas não é a causa direta principal de patologias respiratórias. A alternativa C é falsa, pois a chuva ácida está associada a óxidos de enxofre e nitrogênio provenientes de queima de combustíveis fósseis. A alternativa D está errada, já que a maioria dos lixões situa-se em áreas periféricas. A alternativa E é incorreta, pois os lixões não extinguem nascentes de forma generalizada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q05",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Figura para as questões 5 e 6\n\n[[FIG1]]\nTEIXEIRA, W. et al. (Orgs). Decifrando a Terra. São Paulo: Companhia Editora Nacional, 2009.\n\nO esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Plantio direto."
+      },
+      {
+        "letter": "B",
+        "text": "Associação de culturas."
+      },
+      {
+        "letter": "C",
+        "text": "Implantação de curvas de nível."
+      },
+      {
+        "letter": "D",
+        "text": "Aração do solo, do topo ao vale."
+      },
+      {
+        "letter": "E",
+        "text": "Terraceamento na propriedade."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q05-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O esquema ilustra a evolução da erosão hídrica linear em encostas desprovidas de cobertura vegetal, gerando sulcos, ravinas e voçorocas. A aração realizada no sentido do topo ao vale cria linhas de menor resistência morro abaixo, canalizando o fluxo da água da chuva e acelerando brutalmente o escoamento superficial e o transporte de sedimentos, o que valida a alternativa D. Em contrapartida, todas as outras alternativas trazem técnicas conservacionistas do solo que reduzem o impacto da água e contêm a erosão: o plantio direto (alternativa A) preserva a palhada protetora; a associação de culturas (alternativa B) amplia a cobertura superficial; as curvas de nível (alternativa C) e o terraceamento (alternativa E) funcionam como barreiras físicas que reduzem a velocidade da enxurrada e aumentam a infiltração.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q06",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Muitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a maior ocorrência de enchentes, já que os rios assoreados comportam menos água em seus leitos."
+      },
+      {
+        "letter": "B",
+        "text": "a contaminação da população pelos sedimentos trazidos pelo rio e carregados de matéria orgânica."
+      },
+      {
+        "letter": "C",
+        "text": "o desgaste do solo nas áreas urbanas, causado pela redução do escoamento superficial pluvial na encosta."
+      },
+      {
+        "letter": "D",
+        "text": "a maior facilidade de captação de água potável para o abastecimento público, já que é maior o efeito do escoamento sobre a infiltração."
+      },
+      {
+        "letter": "E",
+        "text": "o aumento da incidência de doenças como a amebíase na população urbana, em decorrência do escoamento de água poluída do topo das encostas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O transporte de sedimentos erodidos nas encostas desce em direção aos fundos de vale e atinge a rede hidrográfica das áreas mais baixas. O depósito contínuo dessas partículas minerais no leito dos rios provoca o fenômeno do assoreamento, o que diminui sensivelmente a profundidade e a capacidade de retenção da calha fluvial. Consequentemente, durante períodos de chuvas intensas, ocorrem transbordamentos e inundações urbanas mais frequentes, tornando a alternativa A correta. A alternativa B é incorreta, pois sedimentos inorgânicos carreados não são por si só vetores tóxicos de contaminação orgânica direta da população. A alternativa C erra ao afirmar que há redução do escoamento pluvial, quando na verdade ele é ampliado. A alternativa D é falsa, já que a turbidez dificulta o tratamento da água. A alternativa E não procede, pois a amebíase decorre de contaminação fecal, não de sedimentos de encostas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q07",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Pensando nas correntes e prestes a entrar no braço que deriva da Corrente do Golfo para o norte, lembrei-me de um vidro de café solúvel vazio. Coloquei no vidro uma nota cheia de zeros, uma bola cor rosa-choque. Anotei a posição e data: Latitude 49°49’ N, Longitude 23°49’ W. Tampei e joguei na água. Nunca imaginei que receberia uma carta com a foto de um menino norueguês, segurando a bolinha e a estranha nota.\n\nKLINK, A. Parati: entre dois pólos. São Paulo: Companhia das Letras, 1998 (adaptado).\n\nNo texto, o autor anota sua coordenada geográfica, que é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a relação que se estabelece entre as distâncias representadas no mapa e as distâncias reais da superfície cartografada."
+      },
+      {
+        "letter": "B",
+        "text": "o registro de que os paralelos são verticais e convergem para os polos, e os meridianos são círculos imaginários, horizontais e equidistantes."
+      },
+      {
+        "letter": "C",
+        "text": "a informação de um conjunto de linhas imaginárias que permitem localizar um ponto ou acidente geográfico na superfície terrestre."
+      },
+      {
+        "letter": "D",
+        "text": "a latitude como distância em graus entre um ponto e o Meridiano de Greenwich, e a longitude como a distância em graus entre um ponto e o Equador."
+      },
+      {
+        "letter": "E",
+        "text": "a forma de projeção cartográfica, usado para navegação, onde os meridianos e paralelos distorcem a superfície do planeta."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As coordenadas geográficas constituem um sistema de localização fundamentado na interseção de linhas imaginárias: os paralelos (que medem a latitude de 0° a 90° para o Norte ou Sul a partir do Equador) e os meridianos (que medem a longitude de 0° a 180° para Leste ou Oeste a partir de Greenwich). Essa combinação possibilita a localização inequívoca de qualquer ponto na superfície da Terra, confirmando a alternativa C. A alternativa A está incorreta, pois a relação de distâncias define a escala cartográfica. A alternativa B inverte os conceitos, pois paralelos são horizontais e meridianos são semicírculos verticais que convergem aos polos. A alternativa D inverte as referências, atribuindo o Meridiano de Greenwich à latitude e o Equador à longitude. A alternativa E confunde coordenadas com projeções cartográficas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q08",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 8,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\nTEIXEIRA, W. et. al. (Orgs.) Decifrando a Terra.\nSão Paulo: Companhia Editora Nacional, 2009 (adaptado).\n\nO esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "magmáticas, pois a ação de vulcões causou as maiores extinções desses animais já conhecidas ao longo da história terrestre."
+      },
+      {
+        "letter": "B",
+        "text": "sedimentares, pois os restos podem ter sido soterrados e litificados com o restante dos sedimentos."
+      },
+      {
+        "letter": "C",
+        "text": "magmáticas, pois são as rochas mais facilmente erodidas, possibilitando a formação de tocas que foram posteriormente lacradas."
+      },
+      {
+        "letter": "D",
+        "text": "sedimentares, já que cada uma das camadas encontradas na figura simboliza um evento de erosão dessa área representada."
+      },
+      {
+        "letter": "E",
+        "text": "metamórficas, pois os animais representados precisavam estar perto de locais quentes."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q08-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A preservação de restos ou vestígios biológicos na forma de fósseis ocorre predominantemente em rochas sedimentares. Nesse ambiente, organismos mortos são rapidamente soterrados por sucessivas camadas de sedimentos (areia, argila, silte) em bacias de deposição, onde a baixa presença de oxigênio e a compressão posterior (diagênese e litificação) permitem a mineralização das estruturas duras sem sua completa decomposição ou fusão térmica, o que confirma a alternativa B. As alternativas A e C estão incorretas, pois o magma incandescente destruiria qualquer matéria biológica antes da fossilização. A alternativa D erra ao dizer que cada camada representa um evento de erosão, quando na verdade representa uma fase de deposição e sedimentação. A alternativa E é falsa, pois as altas pressões e temperaturas do metamorfismo costumam desfigurar ou destruir fósseis preexistentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q09",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "O G-20 é o grupo que reúne os países do G-7, os mais industrializados do mundo (EUA, Japão, Alemanha, França, Reino Unido, Itália e Canadá), a União Europeia e os principais emergentes (Brasil, Rússia, Índia, China, África do Sul, Arábia Saudita, Argentina, Austrália, Coreia do Sul, Indonésia, México e Turquia). Esse grupo de países vem ganhando força nos fóruns internacionais de decisão e consulta.\n\nALLAN, R. Crise global. Disponível em: http://conteudoclippingmp.planejamento.gov.br.\nAcesso em: 31 jul.2010.\n\nEntre os países emergentes que formam o G-20, estão os chamados BRIC (Brasil, Rússia, Índia e China), termo criado em 2001 para referir-se aos países que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentam características econômicas promissoras para as próximas décadas."
+      },
+      {
+        "letter": "B",
+        "text": "possuem base tecnológica mais elevada."
+      },
+      {
+        "letter": "C",
+        "text": "apresentam índices de igualdade social e econômica mais acentuados."
+      },
+      {
+        "letter": "D",
+        "text": "apresentam diversidade ambiental suficiente para impulsionar a economia global."
+      },
+      {
+        "letter": "E",
+        "text": "possuem similaridades culturais capazes de alavancar a economia mundial."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O termo BRIC foi cunhado em 2001 pelo economista Jim O'Neill, do banco Goldman Sachs, para destacar o grupo de países emergentes com grande território, ampla população e taxas aceleradas de expansão econômica, projetando que suas economias superariam as potências tradicionais ao longo das primeiras décadas do século XXI, o que valida a alternativa A. A alternativa B é incorreta, pois o topo tecnológico global pertence aos países centrais como EUA e Japão. A alternativa C é falsa, já que essas nações enfrentavam graves índices de desigualdade de renda e mazelas sociais. A alternativa D está errada, pois a classificação não decorria de riqueza de biodiversidade ecológica. A alternativa E não procede, uma vez que Brasil, Rússia, Índia e China possuem profundas diferenças culturais e linguísticas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q10",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A Inglaterra pedia lucros e recebia lucros. Tudo se transformava em lucro. As cidades tinham sua sujeira lucrativa, suas favelas lucrativas, sua fumaça lucrativa, sua desordem lucrativa, sua ignorância lucrativa, seu desespero lucrativo. As novas fábricas e os novos altos-fornos eram como as Pirâmides, mostrando mais a escravização do homem que seu poder.\n\nDEANE, P. A Revolução Industrial. Rio de Janeiro: Zahar, 1979 (adaptado).\n\nQual relação é estabelecida no texto entre os avanços tecnológicos ocorridos no contexto da Revolução Industrial Inglesa e as características das cidades industriais no início do século XIX?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A facilidade em se estabelecer relações lucrativas transformava as cidades em espaços privilegiados para a livre iniciativa, característica da nova sociedade capitalista."
+      },
+      {
+        "letter": "B",
+        "text": "O desenvolvimento de métodos de planejamento urbano aumentava a eficiência do trabalho industrial."
+      },
+      {
+        "letter": "C",
+        "text": "A construção de núcleos urbanos integrados por meios de transporte facilitava o deslocamento dos trabalhadores das periferias até as fábricas."
+      },
+      {
+        "letter": "D",
+        "text": "A grandiosidade dos prédios onde se localizavam as fábricas revelava os avanços da engenharia e da arquitetura do período, transformando as cidades em locais de experimentação estética e artística."
+      },
+      {
+        "letter": "E",
+        "text": "O alto nível de exploração dos trabalhadores industriais ocasionava o surgimento de aglomerados urbanos marcados por péssimas condições de moradia, saúde e higiene."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O excerto de Phyllis Deane enfatiza as contradições da Revolução Industrial, em que a busca desenfreada pelo lucro subordinou a dignidade humana. O ritmo fabril extenuante, os salários miseráveis e as longas jornadas impostas aos operários resultaram em bairros proletários caóticos, poluídos e destituídos de saneamento básico, configurando aglomerados insalubres marcados pela degradação social, o que valida a alternativa E. A alternativa A erra ao mascarar a exploração como ambiente favorável de livre iniciativa irrestrita. A alternativa B está incorreta, pois o crescimento urbano industrial britânico foi desordenado e carente de planejamento público. A alternativa C é anacrônica para o início do século XIX, período em que os operários residiam a pé nas cercanias das fábricas. A alternativa D é falsa, pois as fábricas e fornos visavam exclusivamente à funcionalidade produtiva, e não à vanguarda estética arquitetônica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q11",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Moderna"
+    ],
+    "statement": "A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.\n\nUm desses estágios foi o artesanato, em que se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "trabalhava conforme o ritmo das máquinas e de maneira padronizada."
+      },
+      {
+        "letter": "B",
+        "text": "trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série."
+      },
+      {
+        "letter": "C",
+        "text": "empregavam fontes de energia abundantes para o funcionamento das máquinas."
+      },
+      {
+        "letter": "D",
+        "text": "realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado."
+      },
+      {
+        "letter": "E",
+        "text": "faziam interferências do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O artesanato constitui a fase da produção material em que o artífice domina todas as etapas do processo produtivo, utilizando ferramentas predominantemente manuais. O trabalho é autônomo, não seriado e desprovido de linhas automatizadas de maquinário pesado, conferindo caráter particular a cada peça confeccionada, o que valida a alternativa B. A alternativa A é incorreta, pois o ritmo mecanizado e a padronização caracterizam a maquinofatura. A alternativa C está errada, pois o aproveitamento massivo de fontes inanimadas de energia (como carvão e vapor) viabilizou o surgimento das fábricas modernas. A alternativa D é falsa, pois a fragmentação de tarefas entre múltiplos operários assalariados define a manufatura e a fábrica. A alternativa E erra ao apontar a gestão científica de gerentes e técnicos, modelo desenvolvido apenas no final do século XIX sob o taylorismo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q12",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 12,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "A serraria construía ramais ferroviários que adentravam as grandes matas, onde grandes locomotivas com guindastes e correntes gigantescas de mais de 100 metros arrastavam, para as composições de trem, as toras que jaziam abatidas por equipes de trabalhadores que anteriormente passavam pelo local. Quando o guindaste arrastava as grandes toras em direção à composição de trem, os ervais nativos que existiam em meio às matas eram destruídos por este deslocamento.\n\nMACHADO, P. P. Lideranças do Contestado. Campinas: Unicamp, 2004 (adaptado).\n\nNo início do século XX, uma série de empreendimentos capitalistas chegou à região do meio-oeste de Santa Catarina — ferrovias, serrarias e projetos de colonização. Os impactos sociais gerados por esse processo estão na origem da chamada Guerra do Contestado. Entre tais impactos, encontrava-se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a absorção dos trabalhadores rurais como trabalhadores da serraria, resultando em um processo de êxodo rural."
+      },
+      {
+        "letter": "B",
+        "text": "o desemprego gerado pela introdução das novas máquinas, que diminuíam a necessidade de mão de obra."
+      },
+      {
+        "letter": "C",
+        "text": "a desorganização da economia tradicional, que sustentava os posseiros e os trabalhadores rurais da região."
+      },
+      {
+        "letter": "D",
+        "text": "a diminuição do poder dos grandes coronéis da região, que passavam disputar o poder político com os novos agentes."
+      },
+      {
+        "letter": "E",
+        "text": "o crescimento dos conflitos entre os operários empregados nesses empreendimentos e os seus proprietários, ligados ao capital internacional ."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A eclosão da Guerra do Contestado (1912-1916) esteve profundamente ligada à concessão de faixas de terra pelo governo federal à Brazil Railway Company e à madeireira Southern Brazil Lumber. Esses empreendimentos privatizaram florestas comunais, devastaram ervais nativos e desapropriaram violentamente as famílias de posseiros e caboclos locais, destruindo suas fontes de subsistência e seu modo de vida secular, o que confirma a alternativa C. A alternativa A é incorreta, pois a maioria dos posseiros foi desalojada e marginalizada, e não absorvida nas serrarias. A alternativa B está errada, pois o estopim foi a perda da terra e da autonomia, e não meramente a dispensa tecnológica de operários fabris. A alternativa D é falsa, pois muitos coronéis pactuaram com os interesses estatais e ferroviários contra os revoltosos messiânicos. A alternativa E não procede, já que os rebeldes eram camponeses excluídos, e não operários sindicalizados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q13",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 13,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "As secas e o apelo econômico da borracha — produto que no final do século XIX alcançava preços altos nos mercados internacionais — motivaram a movimentação de massas humanas oriundas do Nordeste do Brasil para o Acre. Entretanto, até o início do século XX, essa região pertencia à Bolívia, embora a maioria da sua população fosse brasileira e não obedecesse à autoridade boliviana. Para reagir à presença de brasileiros, o governo de La Paz negociou o arrendamento da região a uma entidade internacional, o Bolivian Syndicate, iniciando violentas disputas dos dois lados da fronteira. O conflito só terminou em 1903, com a assinatura do Tratado de Petrópolis, pelo qual o Brasil comprou o território por 2 milhões de libras esterlinas.\n\nDisponível em: www.mre.gov.br. Acesso em: 03 nov.2008 (adaptado).\n\nCompreendendo o contexto em que ocorreram os fatos apresentados, o Acre tornou-se parte do território nacional brasileiro",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pela formalização do Tratado de Petrópolis, que indenizava o Brasil pela sua anexação."
+      },
+      {
+        "letter": "B",
+        "text": "por meio do auxílio do Bolivian Syndicate aos emigrantes brasileiros na região."
+      },
+      {
+        "letter": "C",
+        "text": "devido à crescente emigração de brasileiros que exploravam os seringais."
+      },
+      {
+        "letter": "D",
+        "text": "em função da presença de inúmeros imigrantes estrangeiros na região."
+      },
+      {
+        "letter": "E",
+        "text": "pela indenização que os emigrantes brasileiros pagaram à Bolívia."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Durante o auge do ciclo da borracha no final do século XIX, milhares de migrantes nordestinos fugiram da seca de 1877 e dirigiram-se aos vales amazônicos para a extração do látex. Esse expressivo fluxo povoou e explorou economicamente a região acreana, até então pertencente formalmente à Bolívia. A soberania prática estabelecida pelos seringueiros brasileiros deflagrou o conflito diplomático e militar que culminou na compra da área pelo Brasil mediante o Tratado de Petrópolis, validando a alternativa C. A alternativa A é incorreta, pois o Tratado determinou que o Brasil pagasse 2 milhões de libras esterlinas à Bolívia, e não o oposto. A alternativa B está errada, visto que o consórcio Bolivian Syndicate foi formado pela Bolívia justamente para expulsar os seringueiros brasileiros. A alternativa D é falsa, pois a migração foi expressivamente nacional (nordestina). A alternativa E erra quanto ao pagador da indenização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q14",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 14,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "No dia 28 de fevereiro de 1985, era inaugurada a Estrada de Ferro Carajás, pertencente e diretamente operada pela Companhia Vale do Rio Doce (CVRD), na região Norte do país, ligando o interior ao principal porto da região, em São Luís. Por seus, aproximadamente, 900 quilômetros de linha, passam, hoje, 5 353 vagões e 100 locomotivas.\n\nDisponível em: http://www.transportes.gov.br.Acesso em: 27 jul. 2010 (adaptado).\n\nA ferrovia em questão é de extrema importância para a logística do setor primário da economia brasileira, em especial para porções dos estados do Pará e Maranhão. Um argumento que destaca a importância estratégica dessa porção do território é a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "produção de energia para as principais áreas industriais do país."
+      },
+      {
+        "letter": "B",
+        "text": "produção sustentável de recursos minerais não metálicos."
+      },
+      {
+        "letter": "C",
+        "text": "capacidade de produção de minerais metálicos."
+      },
+      {
+        "letter": "D",
+        "text": "logística de importação de matérias-primas industriais."
+      },
+      {
+        "letter": "E",
+        "text": "produção de recursos minerais energéticos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A Estrada de Ferro Carajás foi construída com a finalidade primordial de escoar a imensa produção da província mineral da Serra dos Carajás, no Pará, até o Terminal Marítimo de Ponta da Madeira, em São Luís (MA). Trata-se da maior reserva de minério de ferro de alto teor do planeta, além de abrigar jazidas estratégicas de manganês e cobre, todos enquadrados como minerais metálicos indispensáveis ao mercado internacional de commodities, o que valida a alternativa C. A alternativa A está incorreta, pois a ferrovia opera o transporte de minérios para exportação, e não geração de energia. A alternativa B está errada, já que o ferro e o cobre são de origem metálica, e sua lavra não se destaca pela sustentabilidade ecológica. A alternativa D é falsa, pois o fluxo dominante do corredor logístico é de exportação. A alternativa E não se aplica, pois Carajás não é polo produtor de minerais energéticos como carvão ou urânio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q16",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América"
+    ],
+    "statement": "O Império Inca, que corresponde principalmente aos territórios da Bolívia e do Peru, chegou a englobar enorme contingente populacional. Cuzco, a cidade sagrada, era o centro administrativo, com uma sociedade fortemente estratificada e composta por imperadores, nobres, sacerdotes, funcionários do governo, artesãos, camponeses, escravos e soldados. A religião contava com vários deuses, e a base da economia era a agricultura, principalmente o cultivo da batata e do milho.\n\nA principal característica da sociedade inca era a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ditadura teocrática, que igualava a todos."
+      },
+      {
+        "letter": "B",
+        "text": "existência da igualdade social e da coletivização da terra."
+      },
+      {
+        "letter": "C",
+        "text": "estrutura social desigual compensada pela coletivização de todos os bens."
+      },
+      {
+        "letter": "D",
+        "text": "existência de mobilidade social, o que levou à composição da elite pelo mérito."
+      },
+      {
+        "letter": "E",
+        "text": "impossibilidade de se mudar de extrato social e a existência de uma aristocracia hereditária."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A sociedade inca possuía uma rígida estratificação estamental, em que a posição do indivíduo era determinada pelo nascimento e legitimada por preceitos religiosos. Uma aristocracia hereditária, encabeçada pelo Sapa Inca (considerado filho do Sol) e composta por sacerdotes e nobres, detinha o monopólio do poder político e religioso, tornando praticamente impossível a mobilidade social entre os estratos, o que valida a alternativa E.\n\nA alternativa A está incorreta, pois a sociedade não era igualitária. A alternativa B é falsa, uma vez que não havia igualdade social. A alternativa C erra ao afirmar que todos os bens eram coletivizados para compensar a desigualdade, pois a produção servia prioritariamente para sustentar as elites governantes. A alternativa D está errada, pois a sociedade não permitia mobilidade social nem ascensão meritocrática.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q17",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Coube aos Xavante e aos Timbira, povos indígenas do Cerrado, um recente e marcante gesto simbólico: a realização de sua tradicional corrida de toras (de buriti) em plena Avenida Paulista (SP), para denunciar o cerco de suas terras e a degradação de seus entornos pelo avanço do agronegócio.\n\nRICARDO, B.; RICARDO, F. Povos indígenas do Brasil: 2001-2005. São Paulo: Instituto\nSocioambiental, 2006 (adaptado).\n\nA questão indígena contemporânea no Brasil evidencia a relação dos usos socioculturais da terra com os atuais problemas socioambientais, caracterizados pelas tensões entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a expansão territorial do agronegócio, em especial nas regiões Centro-Oeste e Norte, e as leis de proteção indígena e ambiental."
+      },
+      {
+        "letter": "B",
+        "text": "os grileiros articuladores do agronegócio e os povos indígenas pouco organizados no Cerrado."
+      },
+      {
+        "letter": "C",
+        "text": "as leis mais brandas sobre o uso tradicional do meio ambiente e as severas leis sobre o uso capitalista do meio ambiente."
+      },
+      {
+        "letter": "D",
+        "text": "os povos indígenas do Cerrado e os polos econômicos representados pelas elites industriais paulistas."
+      },
+      {
+        "letter": "E",
+        "text": "o campo e a cidade no Cerrado, que faz com que as terras indígenas dali sejam alvo de invasões urbanas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O ato simbólico realizado pelos povos indígenas no centro financeiro de São Paulo denuncia os impactos diretos do modelo predatório do agronegócio em biomas como o Cerrado e a Amazônia. Essa dinâmica coloca em confronto a expansão da fronteira agrícola nas regiões Centro-Oeste e Norte com as legislações constitucionais de demarcação de terras indígenas e de proteção ambiental, tornando correta a alternativa A.\n\nA alternativa B é incorreta, pois as comunidades indígenas demonstram forte articulação e mobilização política. A alternativa C inverte a realidade jurídica, pois as leis ambientais gerais não são mais severas do que as salvaguardas tradicionais. A alternativa D está errada, pois a disputa central das terras é contra os latifúndios rurais, e não contra a indústria paulista. A alternativa E erra ao apontar as invasões urbanas como o cerne do problema, quando a ameaça real vem do agronegócio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q18",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 18,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Os vestígios dos povos Tupi-guarani encontram-se desde as Missões e o rio da Prata, ao sul, até o Nordeste, com algumas ocorrências ainda mal conhecidas no sul da Amazônia. A leste, ocupavam toda a faixa litorânea, desde o Rio Grande do Sul até o Maranhão. A oeste, aparecem (no rio da Prata) no Paraguai e nas terras baixas da Bolívia. Evitam as terras inundáveis do Pantanal e marcam sua presença discretamente nos cerrados do Brasil central. De fato, ocuparam, de preferência, as regiões de floresta tropical e subtropical.\n\nPROUS, A. O Brasil antes dos brasileiros. Rio de Janeiro: Jorge Zahar Editor, 2005.\n\nOs povos indígenas citados possuíam tradições culturais específicas que os distinguiam de outras sociedades indígenas e dos colonizadores europeus. Entre as tradições tupi-guarani, destacava-se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a organização em aldeias politicamente independentes, dirigidas por um chefe, eleito pelos indivíduos mais velhos da tribo."
+      },
+      {
+        "letter": "B",
+        "text": "a ritualização da guerra entre as tribos e o caráter semisedentário de sua organização social."
+      },
+      {
+        "letter": "C",
+        "text": "a conquista de terras mediante operações militares, o que permitiu seu domínio sobre vasto território."
+      },
+      {
+        "letter": "D",
+        "text": "o caráter pastoril de sua economia, que prescindia da agricultura para investir na criação de animais."
+      },
+      {
+        "letter": "E",
+        "text": "o desprezo pelos rituais antropofágicos praticados em outras sociedades indígenas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os povos do tronco linguístico Tupi-Guarani caracterizavam-se pelo modo de vida seminômade ou semisedentário, deslocando suas aldeias quando os recursos do solo e da floresta se esgotavam. Além disso, a prática bélica era intensamente ritualizada, desempenhando papel central na coesão social, na vingança simbólica de antepassados e na captura de inimigos para rituais antropofágicos, o que confirma a alternativa B.\n\nA alternativa A está incorreta, pois a liderança não decorria de eleição formal por idosos, mas de prestígio individual em oratória e guerra. A alternativa C erra ao associar o domínio territorial a operações militares imperialistas de conquista. A alternativa D é falsa, pois os indígenas desconheciam o pastoreio e praticavam agricultura de subsistência, caça e coleta. A alternativa E está errada, visto que o canibalismo ritual era amplamente praticado por esses povos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q19",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Os tropeiros foram figuras decisivas na formação de vilarejos e cidades do Brasil colonial. A palavra tropeiro vem de “tropa” que, no passado, se referia ao conjunto de homens que transportava gado e mercadoria. Por volta do século XVIII, muita coisa era levada de um lugar a outro no lombo de mulas. O tropeirismo acabou associado à atividade mineradora, cujo auge foi a exploração de ouro em Minas Gerais e, mais tarde, em Goiás. A extração de pedras preciosas também atraiu grandes contingentes populacionais para as novas áreas e, por isso, era cada vez mais necessário dispor de alimentos e produtos básicos. A alimentação dos tropeiros era constituída por toucinho, feijão preto, farinha, pimenta-do-reino, café, fubá e coité (um molho de vinagre com fruto cáustico espremido). Nos pousos, os tropeiros comiam feijão quase sem molho com pedaços de carne de sol e toucinho, que era servido com farofa e couve picada. O feijão tropeiro é um dos pratos típicos da cozinha mineira e recebe esse nome porque era preparado pelos cozinheiros das tropas que conduziam o gado.\n\nDisponível em:http://www.tribunadoplanalto.com.br. Acesso em: 27 nov. 2008.\n\nA criação do feijão tropeiro na culinária brasileira está relacionada à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "atividade comercial exercida pelos homens que trabalhavam nas minas."
+      },
+      {
+        "letter": "B",
+        "text": "atividade culinária exercida pelos moradores cozinheiros que viviam nas regiões das minas."
+      },
+      {
+        "letter": "C",
+        "text": "atividade mercantil exercida pelos homens que transportavam gado e mercadoria."
+      },
+      {
+        "letter": "D",
+        "text": "atividade agropecuária exercida pelos tropeiros que necessitavam dispor de alimentos."
+      },
+      {
+        "letter": "E",
+        "text": "atividade mineradora exercida pelos tropeiros no auge da exploração do ouro."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O tropeirismo consistia no transporte de tropas de mulas carregadas de animais de abate e mercadorias diversas para suprir a demanda de consumo das regiões mineradoras, carentes de produção de víveres. Durante os deslocamentos e paradas, os homens dessas tropas preparavam alimentos duráveis e de fácil conservação, como o feijão misturado à farinha de mandioca e carne-seca, originando o feijão tropeiro. Assim, o prato está ligado à atividade mercantil exercida por esses condutores, confirmando a alternativa C.\n\nA alternativa A é incorreta, pois a prática não foi desenvolvida pelos trabalhadores da mineração. A alternativa B erra ao atribuir o prato a moradores fixos das cidades mineradoras. A alternativa D confunde tropeirismo com produção agropecuária de fixação. A alternativa E erra ao relacionar o prato à extração direta do ouro, e não ao comércio de abastecimento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q20",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 20,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "Quem construiu a Tebas de sete portas?\nNos livros estão nomes de reis.\nArrastaram eles os blocos de pedra?\nE a Babilônia várias vezes destruída. Quem a reconstruiu\ntantas vezes?\nEm que casas da Lima dourada moravam os construtores?\nPara onde foram os pedreiros, na noite em que a Muralha\nda China ficou pronta?\nA grande Roma está cheia de arcos do triunfo.\nQuem os ergueu? Sobre quem triunfaram os césares?\n\nBRECHT, B. Perguntas de um trabalhador que lê. Disponível em: http://recantodasletras.uol.com.br.\nAcesso em: 28 abr. 2010.\n\nPartindo das reflexões de um trabalhador que lê um livro de História, o autor censura a memória construída sobre determinados monumentos e acontecimentos históricos. A crítica refere-se ao fato de que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os agentes históricos de uma determinada sociedade deveriam ser aqueles que realizaram feitos heroicos ou grandiosos e, por isso, ficaram na memória."
+      },
+      {
+        "letter": "B",
+        "text": "a História deveria se preocupar em memorizar os nomes de reis ou dos governantes das civilizações que se desenvolveram ao longo do tempo."
+      },
+      {
+        "letter": "C",
+        "text": "os grandes monumentos históricos foram construídos por trabalhadores, mas sua memória está vinculada aos governantes das sociedades que os construíram."
+      },
+      {
+        "letter": "D",
+        "text": "os trabalhadores consideram que a História é uma ciência de difícil compreensão, pois trata de sociedades antigas e distantes no tempo."
+      },
+      {
+        "letter": "E",
+        "text": "as civilizações citadas no texto, embora muito importantes, permanecem sem terem sido alvos de pesquisas históricas."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O poema de Bertolt Brecht utiliza a perspectiva de um trabalhador para questionar a historiografia tradicional, que habitualmente atribui as grandes realizações da humanidade apenas a reis, generais e governantes. O texto evidencia que as obras monumentais foram materialmente edificadas pelo trabalho das massas operárias anônimas, cuja memória é omitida nos relatos oficiais, confirmando a alternativa C.\n\nA alternativa A contradiz o poema, pois o texto combate a visão de que apenas figuras heroicas ou grandiosas devem ser lembradas. A alternativa B faz o oposto da crítica, defendendo o foco nos reis. A alternativa D é incorreta, pois o poema não trata de dificuldade de compreensão teórica da História por trabalhadores. A alternativa E erra ao sugerir que tais civilizações não foram pesquisadas, quando a questão central é o recorte elitista dessas narrativas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q21",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "As ruínas do povoado de Canudos, no sertão norte da Bahia, além de significativas para a identidade cultural dessa região, são úteis às investigações sobre a Guerra de Canudos e o modo de vida dos antigos revoltosos.\n\nEssas ruínas foram reconhecidas como patrimônio cultural material pelo Iphan (Instituto do Patrimônio Histórico e Artístico Nacional) porque reúnem um conjunto de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "objetos arqueológicos e paisagísticos."
+      },
+      {
+        "letter": "B",
+        "text": "acervos museológicos e bibliográficos."
+      },
+      {
+        "letter": "C",
+        "text": "núcleos urbanos e etnográficos."
+      },
+      {
+        "letter": "D",
+        "text": "práticas e representações de uma sociedade."
+      },
+      {
+        "letter": "E",
+        "text": "expressões e técnicas de uma sociedade extinta."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O patrimônio cultural material abrange bens tangíveis de interesse histórico e científico. As ruínas do povoado de Canudos constituem um sítio arqueológico histórico de grande relevância, composto pelos restos materiais de fundações, artefatos cotidianos e pelo próprio ambiente físico do sertão baiano onde ocorreu a resistência sertaneja, integrando valor arqueológico e paisagístico, o que torna correta a alternativa A.\n\nA alternativa B é incorreta, pois ruínas a céu aberto não configuram coleções de museus ou bibliotecas. A alternativa C erra porque Canudos foi completamente arrasada, não remanescendo um núcleo urbano habitado. A alternativa D descreve o conceito de patrimônio imaterial, e não material. A alternativa E é incorreta, pois a sociedade sertaneja não foi extinta e os vestígios materiais em si não são apenas expressões e técnicas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q22",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Substitui-se então uma história crítica, profunda, por uma crônica de detalhes onde o patriotismo e a bravura dos nossos soldados encobrem a vilania dos motivos que levaram a Inglaterra a armar brasileiros e argentinos para a destruição da mais gloriosa república que já se viu na América Latina, a do Paraguai.\n\nCHIAVENATTO, J. J. Genocídio americano: A Guerra do Paraguai.\nSão Paulo: Brasiliense, 1979 (adaptado).\n\nO imperialismo inglês, “destruindo o Paraguai, mantém o status quo na América Meridional, impedindo a ascensão do seu único Estado economicamente livre”. Essa teoria conspiratória vai contra a realidade dos fatos e não tem provas documentais. Contudo essa teoria tem alguma repercussão.\n\nDORATIOTO, F. Maldita guerra: nova história da Guerra do Paraguai.\nSão Paulo: Cia. das Letras, 2002 (adaptado).\n\nUma leitura dessas narrativas divergentes demonstra que ambas estão refletindo sobre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a carência de fontes para a pesquisa sobre os reais motivos dessa Guerra."
+      },
+      {
+        "letter": "B",
+        "text": "o caráter positivista das diferentes versões sobre essa Guerra."
+      },
+      {
+        "letter": "C",
+        "text": "o resultado das intervenções britânicas nos cenários de batalha."
+      },
+      {
+        "letter": "D",
+        "text": "a dificuldade de elaborar explicações convincentes sobre os motivos dessa Guerra."
+      },
+      {
+        "letter": "E",
+        "text": "o nível de crueldade das ações do exército brasileiro e argentino durante o conflito."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os dois excertos confrontam visões historiográficas antagônicas a respeito da Guerra do Paraguai: o texto de Chiavenatto atribui a responsabilidade primordial à intervenção velada do imperialismo inglês, enquanto o texto de Doratioto desconstrói essa tese acusando-a de conspiratória e desprovida de lastro documental. O confronto entre ambas ilustra a complexidade e a dificuldade de consolidar uma explicação consensual e definitiva sobre as verdadeiras causas e dinâmicas do conflito, validando a alternativa D.\n\nA alternativa A é incorreta, pois não faltam fontes para pesquisar o conflito. A alternativa B erra ao rotular as duas visões como positivistas, visto que o primeiro texto segue viés marxista-nacionalista. A alternativa C está errada porque a Inglaterra não colocou tropas nos campos de batalha. A alternativa E não aborda a divergência historiográfica central tratada nos textos, que diz respeito às causas políticas e geopolíticas da guerra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q23",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 23,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Negro, filho de escrava e fidalgo português, o baiano Luiz Gama fez da lei e das letras suas armas na luta pela liberdade. Foi vendido ilegalmente como escravo pelo seu pai para cobrir dívidas de jogo. Sabendo ler e escrever, aos 18 anos de idade conseguiu provas de que havia nascido livre. Autodidata, advogado sem diploma, fez do direito o seu ofício e transformou-se, em pouco tempo, em proeminente advogado da causa abolicionista.\n\nAZEVEDO, E. O Orfeu de carapinha. In: Revista de História. Ano1, nº 3.\nRio de Janeiro: Biblioteca Nacional, jan. 2004 (adaptado).\n\nA conquista da liberdade pelos afro-brasileiros na segunda metade do séc. XIX foi resultado de importantes lutas sociais condicionadas historicamente. A biografia de Luiz Gama exemplifica a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impossibilidade de ascensão social do negro forro em uma sociedade escravocrata, mesmo sendo alfabetizado."
+      },
+      {
+        "letter": "B",
+        "text": "extrema dificuldade de projeção dos intelectuais negros nesse contexto e a utilização do Direito como canal de luta pela liberdade."
+      },
+      {
+        "letter": "C",
+        "text": "rigidez de uma sociedade, assentada na escravidão, que inviabilizava os mecanismos de ascensão social."
+      },
+      {
+        "letter": "D",
+        "text": "possibilidade de ascensão social, viabilizada pelo apoio das elites dominantes, a um mestiço filho de pai português."
+      },
+      {
+        "letter": "E",
+        "text": "troca de favores entre um representante negro e a elite agrária escravista que outorgara o direito advocatício ao mesmo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Luiz Gama enfrentou a intensa barreira racial da sociedade escravocrata do século XIX e, mesmo com sua capacidade intelectual autodidata, exerceu a advocacia na condição de rábula (advogado sem diploma formal). Ele utilizou o conhecimento técnico das leis vigentes para libertar centenas de escravizados, demonstrando como o meio jurídico serviu como importante trincheira de resistência e combate à escravidão, o que confirma a alternativa B.\n\nA alternativa A é incorreta porque Luiz Gama ascendeu socialmente e obteve prestígio. A alternativa C erra ao afirmar a inviabilidade absoluta de mecanismos de ascensão social, ignorando a própria trajetória de Gama. A alternativa D é falsa, já que sua trajetória foi de confronto contra as elites, tendo sido inclusive vendido pelo próprio pai. A alternativa E está errada, pois Gama não realizou trocas de favores com a elite escravista, mas sim combateu-a politicamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q24",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 24,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Colônia"
+    ],
+    "statement": "Eu, o Príncipe Regente, faço saber aos que o presente Alvará virem: que desejando promover e adiantar a riqueza nacional, e sendo um dos mananciais dela as manufaturas e a indústria, sou servido abolir e revogar toda e qualquer proibição que haja a este respeito no Estado do Brasil.\n\nAlvará de liberdade para as indústrias (1º de Abril de 1808). In Bonavides, P.; Amaral, R.\nTextos políticos da História do Brasil.Vol. 1. Brasília: Senado Federal, 2002 (adaptado).\n\nO projeto industrializante de D. João, conforme expresso no alvará, não se concretizou. Que características desse período explicam esse fato?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A ocupação de Portugal pelas tropas francesas e o fechamento das manufaturas portuguesas."
+      },
+      {
+        "letter": "B",
+        "text": "A dependência portuguesa da Inglaterra e o predomínio industrial inglês sobre suas redes de comércio."
+      },
+      {
+        "letter": "C",
+        "text": "A desconfiança da burguesia industrial colonial diante da chegada da família real portuguesa."
+      },
+      {
+        "letter": "D",
+        "text": "O confronto entre a França e a Inglaterra e a posição dúbia assumida por Portugal no comércio internacional."
+      },
+      {
+        "letter": "E",
+        "text": "O atraso industrial da colônia provocado pela perda de mercados para as indústrias portuguesas."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Embora o Alvará de 1808 tenha revogado a proibição de manufaturas na colônia (imposta pelo Alvará de 1785 de D. Maria I), o início da industrialização no Brasil foi inviabilizado pela concorrência desleal das mercadorias estrangeiras. Sobretudo após a Abertura dos Portos e os Tratados de 1810 com a Inglaterra, os produtos ingleses contavam com tarifas alfandegárias de apenas 15%, inundando o mercado brasileiro com artigos manufaturados a preços baixíssimos, o que confirma a alternativa B.\n\nA alternativa A é incorreta, pois a invasão de Portugal pela França não determinou a incapacidade produtiva local no Brasil. A alternativa C erra ao presumir a existência prévia de uma burguesia industrial colonial organizada. A alternativa D é irrelevante para justificar o fracasso da industrialização interna. A alternativa E está errada, visto que as manufaturas portuguesas não concorriam com o Brasil de forma a sufocá-lo, mas sim os produtos ingleses.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q26",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "I - Para consolidar-se como governo, a República precisava eliminar as arestas, conciliar-se com o passado monarquista, incorporar distintas vertentes do republicanismo. Tiradentes não deveria ser visto como herói republicano radical, mas sim como herói cívico-religioso, como mártir, integrador, portador da imagem do povo inteiro.\n\nCARVALHO, J. M. C. A formação das almas: O imaginário da República no Brasil.\nSão Paulo: Companhia das Letras, 1990.\n\nI – Ei-lo, o gigante da praça,/ O Cristo da multidão!\nÉ Tiradentes quem passa / Deixem passar o Titão.\n\nALVES, C. Gonzaga ou a revolução de Minas. In: CARVALHO. J. M.C. A formação das\nalmas: O imaginário da República no Brasil. São Paulo: Companhia das Letras, 1990.\n\nA 1ª República brasileira, nos seus primórdios, precisava constituir uma figura heroica capaz de congregar diferenças e sustentar simbolicamente o novo regime. Optando pela figura de Tiradentes, deixou de lado figuras como Frei Caneca ou Bento Gonçalves. A transformação do inconfidente em herói nacional evidencia que o esforço de construção de um simbolismo por parte da República estava relacionado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ao caráter nacionalista e republicano da Inconfidência, evidenciado nas ideias e na atuação de Tiradentes."
+      },
+      {
+        "letter": "B",
+        "text": "à identificação da Conjuração Mineira como o movimento precursor do positivismo brasileiro."
+      },
+      {
+        "letter": "C",
+        "text": "ao fato de a proclamação da República ter sido um movimento de poucas raízes populares, que precisava de legitimação."
+      },
+      {
+        "letter": "D",
+        "text": "à semelhança física entre Tiradentes e Jesus, que proporcionaria, a um povo católico como o brasileiro, uma fácil identificação."
+      },
+      {
+        "letter": "E",
+        "text": "ao fato de Frei Caneca e Bento Gonçalves terem liderado movimentos separatistas no Nordeste e no Sul do país."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A Proclamação da República no Brasil consistiu em um golpe militar conduzido pela oficialidade do Exército em aliança com a oligarquia cafeeira paulista, sem participação ou engajamento das massas populares. Para compensar esse déficit de legitimação social e criar uma identidade cívica nacional, o novo regime precisou construir símbolos e mitos fundadores, resgatando Tiradentes como um herói mártir da causa republicana, semelhante à figura de Cristo, o que valida a alternativa C.\n\nA alternativa A é incorreta, pois a Inconfidência Mineira não possuía um projeto nacional unitário, limitando-se ao âmbito regional. A alternativa B erra cronologicamente, já que o positivismo surgiu no século XIX, muito após a Inconfidência (século XVIII). A alternativa D está errada porque a semelhança iconográfica com Cristo foi uma invenção republicana deliberada, e não um traço físico original real. A alternativa E não justifica o motivo sociopolítico de fundo para a escolha de um mártir nacional integrador.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q27",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 27,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "O artigo 402 do Código penal Brasileiro de 1890 dizia:\nFazer nas ruas e praças públicas exercícios de agilidade e destreza corporal, conhecidos pela denominação de capoeiragem: andar em correrias, com armas ou instrumentos capazes de produzir uma lesão corporal, provocando tumulto ou desordens.\nPena: Prisão de dois a seis meses.\n\nSOARES, C. E. L. A Negregada instituição: os capoeiras no Rio de Janeiro: 1850-1890.\nRio de Janeiro: Secretaria Municipal de Cultura, 1994 (adaptado).\n\nO artigo do primeiro Código Penal Republicano naturaliza medidas socialmente excludentes. Nesse contexto, tal regulamento expressava",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a manutenção de parte da legislação do Império com vistas ao controle da criminalidade urbana."
+      },
+      {
+        "letter": "B",
+        "text": "a defesa do retorno do cativeiro e escravidão pelos primeiros governos do período republicano."
+      },
+      {
+        "letter": "C",
+        "text": "o caráter disciplinador de uma sociedade industrializada, desejosa de um equilíbrio entre progresso e civilização."
+      },
+      {
+        "letter": "D",
+        "text": "a criminalização de práticas culturais e a persistência de valores que vinculavam certos grupos ao passado de escravidão."
+      },
+      {
+        "letter": "E",
+        "text": "o poder do regime escravista, que mantinha os negros como categoria social inferior, discriminada e segregada."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A transição da Monarquia para a República no Brasil manteve a estrutura de exclusão social e racial da população negra recém-liberta. A tipificação penal da capoeiragem no Código Penal de 1890 demonstra a perseguição policial de costumes, danças e práticas afro-brasileiras sob o pretexto de manutenção da ordem pública e da vadiagem, revelando o preconceito arraigado e a associação dessas manifestações ao estigma da escravidão, o que confirma a alternativa D.\n\nA alternativa A está incorreta, pois a tipificação específica da capoeira foi uma novidade legal do Código Republicano de 1890. A alternativa B é absurda, pois não houve projeto de restauração do cativeiro. A alternativa C erra ao qualificar o Brasil do início da década de 1890 como uma sociedade plenamente industrializada. A alternativa E está errada porque a escravidão formal já havia sido abolida em 1888.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q28",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Em nosso país queremos substituir o egoísmo pela moral, a honra pela probidade, os usos pelos princípios, as conveniências pelos deveres, a tirania da moda pelo império da razão, o desprezo à desgraça pelo desprezo ao vício, a insolência pelo orgulho, a vaidade pela grandeza de alma, o amor ao dinheiro pelo amor à glória, a boa companhia pelas boas pessoas, a intriga pelo mérito, o espirituoso pelo gênio, o brilho pela verdade, o tédio da volúpia pelo encanto da felicidade, a mesquinharia dos grandes pela grandeza do homem.\n\nHUNT, L. Revolução Francesa e Vida Privada. In: PERROT, M. (Org.). História da Vida Privada: da\nRevolução Francesa à Primeira Guerra. Vol.4. São Paulo: Companhia das Letras, 1991(adaptado).\n\nO discurso de Robespierre, de 5 de fevereiro de 1794, do qual o trecho transcrito é parte, relaciona-se a qual dos grupos político-sociais envolvidos na Revolução Francesa?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "À alta burguesia, que desejava participar do poder legislativo francês como força política dominante."
+      },
+      {
+        "letter": "B",
+        "text": "Ao clero francês, que desejava justiça social e era ligado à alta burguesia."
+      },
+      {
+        "letter": "C",
+        "text": "A militares oriundos da pequena e média burguesia, que derrotaram as potências rivais e queriam reorganizar a França internamente."
+      },
+      {
+        "letter": "D",
+        "text": "À nobreza esclarecida, que, em função do seu contato com os intelectuais iluministas, desejava extinguir o absolutismo francês."
+      },
+      {
+        "letter": "E",
+        "text": "Aos representantes da pequena e média burguesia e das camadas populares, que desejavam justiça social e direitos políticos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Maximilien de Robespierre foi o principal líder dos jacobinos durante a fase da Convenção Nacional (1792-1794). A ala jacobina, também conhecida como Montanha, representava os interesses da pequena e média burguesia urbana articulada às camadas populares parisienses (os sans-culottes). Sob uma retórica moralizante fundamentada no pensamento rousseauniano, defendiam amplas reformas sociais, a soberania popular e a universalização dos direitos políticos, confirmando a alternativa E.\n\nA alternativa A é incorreta, pois a alta burguesia compunha o grupo rival dos girondinos. A alternativa B erra porque o clero era um dos principais alvos da perseguição e do processo de descristianização jacobino. A alternativa C não se aplica, pois a liderança do governo jacobino era política e civil, e não da corporação militar. A alternativa D é falsa, já que a nobreza foi destituída de seus privilégios e muitos de seus membros foram executados no período do Terror.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q29",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 29,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "A política foi, inicialmente, a arte de impedir as pessoas de se ocuparem do que lhes diz respeito. Posteriormente, passou a ser a arte de compelir as pessoas a decidirem sobre aquilo de que nada entendem.\n\nVALÉRY, P. Cadernos. Apud BENEVIDES, M. V. M. A cidadania ativa. São Paulo: Ática, 1996.\n\nNessa definição, o autor entende que a história da política está dividida em dois momentos principais: um primeiro, marcado pelo autoritarismo excludente, e um segundo, caracterizado por uma democracia incompleta. Considerando o texto, qual é o elemento comum a esses dois momentos da história política?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A distribuição equilibrada do poder."
+      },
+      {
+        "letter": "B",
+        "text": "O impedimento da participação popular."
+      },
+      {
+        "letter": "C",
+        "text": "O controle das decisões por uma minoria."
+      },
+      {
+        "letter": "D",
+        "text": "A valorização das opiniões mais competentes."
+      },
+      {
+        "letter": "E",
+        "text": "A sistematização dos processos decisórios."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Paul Valéry descreve dois cenários históricos: no primeiro, o poder autocrático impede os indivíduos de participarem de assuntos públicos; no segundo, o sistema democrático de massas induz a população a votar e decidir sobre temas complexos que ela não domina, sendo manipulada pela propaganda. Em ambos os casos, a tomada efetiva de decisões permanece concentrada nas mãos de uma minoria governante (oligarquia ou elites políticas), o que valida a alternativa C.\n\nA alternativa A está incorreta, pois o texto evidencia justamente a assimetria e a desigualdade do poder. A alternativa B erra ao dizer que o impedimento ocorre em ambos, já que na segunda fase há participação formal da população, embora alienada. A alternativa D é falsa, pois os cidadãos são levados a decidir sobre coisas que desconhecem. A alternativa E não aborda a essência crítica da passagem, que gira em torno da exclusão da maioria pelo controle exercido pela minoria.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q30",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 30,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "O príncipe, portanto, não deve se incomodar com a reputação de cruel, se seu propósito é manter o povo unido e leal. De fato, com uns poucos exemplos duros poderá ser mais clemente do que outros que, por muita piedade, permitem os distúrbios que levem ao assassínio e ao roubo.\n\nMAQUIAVEL, N. O Príncipe. São Paulo: Martin Claret, 2009.\n\nNo século XVI, Maquiavel escreveu O Príncipe, reflexão sobre a Monarquia e a função do governante. A manutenção da ordem social, segundo esse autor, baseava-se na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inércia do julgamento de crimes polêmicos."
+      },
+      {
+        "letter": "B",
+        "text": "bondade em relação ao comportamento dos mercenários."
+      },
+      {
+        "letter": "C",
+        "text": "compaixão quanto à condenação de transgressões religiosas."
+      },
+      {
+        "letter": "D",
+        "text": "neutralidade diante da condenação dos servos."
+      },
+      {
+        "letter": "E",
+        "text": "conveniência entre o poder tirânico e a moral do príncipe."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em O Príncipe, Maquiavel rompe com a tradição política clássica e cristã ao dissociar a ética política da moral religiosa convencional. Para o autor florentino, a virtù do governante consiste na capacidade de agir conforme a necessidade da manutenção do poder e da ordem social (a razão de Estado). Se a integridade e a paz do corpo político exigirem atos duros ou temidos, a conveniência prática do poder deve sobrepor-se à moral privada de compaixão, legitimando medidas que evitem o caos generalizado, o que torna correta a alternativa E.\n\nA alternativa A é incorreta, pois Maquiavel preconiza ação firme e exemplar, e não inércia. A alternativa B erra, já que o autor desaconselha veementemente o uso de mercenários, apontando-os como desleais. A alternativa C está errada porque o texto não aborda o perdão de infrações religiosas. A alternativa D não corresponde ao pensamento do autor, que não prega neutralidade perante julgamentos civis.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q31",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 31,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "Após a abdicação de D. Pedro I, o Brasil atravessou um período marcado por inúmeras crises: as diversas forças políticas lutavam pelo poder e as reivindicações populares eram por melhores condições de vida e pelo direito de participação na vida política do país. Os conflitos representavam também o protesto contra a centralização do governo. Nesse período, ocorreu também a expansão da cultura cafeeira e o surgimento do poderoso grupo dos \"barões do café\", para o qual era fundamental a manutenção da escravidão e do tráfico negreiro.\n\nO contexto do Período Regencial foi marcado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "por revoltas populares que reclamavam a volta da monarquia."
+      },
+      {
+        "letter": "B",
+        "text": "por várias crises e pela submissão das forças políticas ao poder central."
+      },
+      {
+        "letter": "C",
+        "text": "pela luta entre os principais grupos políticos que reivindicavam melhores condições de vida."
+      },
+      {
+        "letter": "D",
+        "text": "pelo governo dos chamados regentes, que promoveram a ascensão social dos \"barões do café\"."
+      },
+      {
+        "letter": "E",
+        "text": "pela convulsão política e por novas realidades econômicas que exigiam o reforço de velhas realidades sociais."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto descreve o Período Regencial como uma época de intensas lutas políticas e revoltas sociais que questionavam a centralização do poder, ao mesmo tempo em que a economia via a ascensão da cultura cafeeira. Essa nova força econômica exigia a manutenção da mão de obra escrava e do tráfico negreiro, reforçando uma estrutura social arcaica. Portanto, o período uniu convulsão política com uma economia em transformação que demandava o reforço de velhas realidades sociais. A alternativa A está incorreta, pois as revoltas não pediam a volta da monarquia de D. Pedro I, mas descentralização ou república. A alternativa B erra ao dizer que as forças políticas se submeteram ao poder central, quando na verdade rebelaram-se contra ele. A alternativa C erra porque as elites políticas disputavam poder entre si, e não melhores condições de vida para o povo. A alternativa D erra ao afirmar que os regentes promoveram a ascensão dos cafeicultores, pois essa ascensão foi fruto da dinâmica econômica global.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q32",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 32,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "De março de 1931 a fevereiro de 1940, foram decretadas mais de 150 leis novas de proteção social e de regulamentação do trabalho em todos os seus setores. Todas elas têm sido simplesmente uma dádiva do governo. Desde aí, o trabalhador brasileiro encontra nos quadros gerais do regime o seu verdadeiro lugar.\n\nDANTAS, M. A força nacionalizadora do Estado Novo. Rio de Janeiro: DIP, 1942. Apud BERCITO, S.\nR. Nos tempos de Getúlio: da revolução de 30 ao fim do Estado Novo. São Paulo: Atual, 1990.\n\nA adoção de novas políticas públicas e as mudanças jurídico-institucionais ocorridas no Brasil, com a ascensão de Getúlio Vargas ao poder, evidenciam o papel histórico de certas lideranças e a importância das lutas sociais na conquista da cidadania. Desse processo resultou a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criação do Ministério do Trabalho, Indústria e Comércio, que garantiu ao operariado autonomia para o exercício de atividades sindicais."
+      },
+      {
+        "letter": "B",
+        "text": "legislação previdenciária, que proibiu migrantes de ocuparem cargos de direção nos sindicatos."
+      },
+      {
+        "letter": "C",
+        "text": "criação da Justiça do Trabalho, para coibir ideologias consideradas perturbadoras da \"harmonia social\"."
+      },
+      {
+        "letter": "D",
+        "text": "legislação trabalhista que atendeu reivindicações dos operários, garantindo-lhes vários direitos e formas de proteção."
+      },
+      {
+        "letter": "E",
+        "text": "decretação da Consolidação das Leis do Trabalho (CLT), que impediu o controle estatal sobre as atividades políticas da classe operária."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Durante a Era Vargas, a criação da legislação trabalhista atendeu a históricas reivindicações da classe operária, ao mesmo tempo em que garantiu direitos sociais e proteção, integrando os trabalhadores à ordem política e jurídica do Estado. Assim, a letra D sintetiza com precisão o resultado desse processo. A alternativa A está incorreta porque a criação do Ministério do Trabalho subordinou e atrelou os sindicatos ao controle do Estado, retirando a sua autonomia. A alternativa B está errada, pois a previdência social não tinha como foco proibir migrantes em sindicatos. A alternativa C é falsa porque, embora houvesse repressão a ideologias de esquerda, a Justiça do Trabalho foi criada fundamentalmente para arbitrar conflitos trabalhistas entre patrões e empregados. A alternativa E erra ao afirmar que a CLT impediu o controle estatal, quando na verdade ela aprofundou e consolidou esse controle sobre as organizações sindicais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q33",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "Não é difícil entender o que ocorreu no Brasil nos anos imediatamente anteriores ao golpe militar de 1964. A diminuição da oferta de empregos e a desvalorização dos salários, provocadas pela inflação, levaram a uma intensa mobilização política popular, marcada por sucessivas ondas grevistas de várias categorias profissionais, o que aprofundou as tensões sociais. Dessa vez, as classes trabalhadoras se recusaram a pagar o pato pelas \"sobras\" do modelo econômico juscelinista.\n\nMENDONÇA, S. R. A Industrialização Brasileira. São Paulo: Moderna, 2002 (adaptado).\n\nSegundo o texto, os conflitos sociais ocorridos no início dos anos 1960 decorreram principalmente",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "da manipulação política empreendida pelo governo João Goulart."
+      },
+      {
+        "letter": "B",
+        "text": "das contradições econômicas do modelo desenvolvimentista."
+      },
+      {
+        "letter": "C",
+        "text": "do poder político adquirido pelos sindicatos populistas."
+      },
+      {
+        "letter": "D",
+        "text": "da desmobilização das classes dominantes frente ao avanço das greves."
+      },
+      {
+        "letter": "E",
+        "text": "da recusa dos sindicatos em aceitar mudanças na legislação trabalhista."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O texto associa as sucessivas greves e tensões sociais da década de 1960 à recusa dos trabalhadores em pagar pelas 'sobras' do modelo econômico juscelinista, marcado por alta inflação e perda do poder de compra dos salários. Esse cenário de endividamento e inflação representava contradições estruturais do projeto desenvolvimentista acelerado de Juscelino Kubitschek. A alternativa A está incorreta porque o texto atribui a crise às contradições socioeconômicas herdadas dos anos anteriores, não à mera manipulação de Goulart. A alternativa C é incorreta porque a mobilização foi decorrência da deterioração das condições materiais de vida, e não exclusivamente de poder sindical. A alternativa D é falsa, pois as classes dominantes não se desmobilizaram, mas sim articularam forte oposição que culminou no golpe. A alternativa E está errada, visto que as reivindicações buscavam recomposição salarial e reformas de base, e não a recusa de alterações legais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q34",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política",
+      "Filosofia Contemporânea"
+    ],
+    "statement": "A lei não nasce da natureza, junto das fontes frequentadas pelos primeiros pastores; a lei nasce das batalhas reais, das vitórias, dos massacres, das conquistas que têm sua data e seus heróis de horror: a lei nasce das cidades incendiadas, das terras devastadas; ela nasce com os famosos inocentes que agonizam no dia que está amanhecendo.\n\nFOUCAULT, M. Aula de 14 de janeiro de 1976. In: Em defesa da sociedade.\nSão Paulo: Martins Fontes, 1999.\n\nO filósofo Michel Foucault (séc. XX) inova ao pensar a política e a lei em relação ao poder e à organização social. Com base na reflexão de Foucault, a finalidade das leis na organização das sociedades modernas é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "combater ações violentas na guerra entre as nações."
+      },
+      {
+        "letter": "B",
+        "text": "coagir e servir para refrear a agressividade humana."
+      },
+      {
+        "letter": "C",
+        "text": "criar limites entre a guerra e a paz praticadas entre os indivíduos de uma mesma nação."
+      },
+      {
+        "letter": "D",
+        "text": "estabelecer princípios éticos que regulamentam as ações bélicas entre países inimigos."
+      },
+      {
+        "letter": "E",
+        "text": "organizar as relações de poder na sociedade e entre os Estados."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na perspectiva de Michel Foucault, a lei não é fruto de um consenso harmonioso ou de um estado de natureza pacífico, mas surge de conflitos, massacres e disputas reais de força. Nesse sentido, ela reflete a vitória de determinados grupos sobre outros e tem como objetivo fixar, gerir e organizar as relações de poder tanto no interior da sociedade quanto entre os Estados soberanos. A alternativa A está incorreta porque a lei, para Foucault, não elimina a violência da guerra, mas a institucionaliza em novas formas. A alternativa B erra ao adotar uma concepção hobbesiana tradicional de contenção da agressividade humana natural. A alternativa C é falsa porque a análise foucaultiana não busca traçar uma fronteira moral rígida entre guerra e paz. A alternativa D erra ao focar apenas em princípios éticos reguladores de guerras internacionais, desconsiderando a análise ampla sobre a dominação social interna.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q35",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 35,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "Opinião\n\nPodem me prender\nPodem me bater\nPodem até deixar-me sem comer\nQue eu não mudo de opinião.\nAqui do morro eu não saio não\nAqui do morro eu não saio não.\n\nSe não tem água\nEu furo um poço\n\nSe não tem carne\nEu compro um osso e ponho na sopa\nE deixa andar, deixa andar...\n\nFalem de mim\nQuem quiser falar\nAqui eu não pago aluguel\nSe eu morrer amanhã seu doutor,\nEstou pertinho do céu\n\nZé Ketti. Opinião. Disponível em: http://www.mpbnet.com.br.\nAcesso em: 28 abr.2010.\n\nEssa música fez parte de um importante espetáculo tea tral que estreou no ano de 1964, no Rio de Janeiro. O papel exercido pela Música Popular Brasileira (MPB) nesse contexto, evidenciado pela letra de música citada, foi o de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "entretenimento para os grupos intelectuais."
+      },
+      {
+        "letter": "B",
+        "text": "valorização do progresso econômico do país."
+      },
+      {
+        "letter": "C",
+        "text": "crítica à passividade dos setores populares."
+      },
+      {
+        "letter": "D",
+        "text": "denúncia da situação social e política do país."
+      },
+      {
+        "letter": "E",
+        "text": "mobilização dos setores que apoiavam a Ditadura Militar."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A canção 'Opinião', de Zé Ketti, estreada no contexto do pós-golpe de 1964 dentro do espetáculo de mesmo nome, expressa a resistência dos moradores das favelas contra a remoção forçada e a violência estatal ('podem me prender, podem me bater'). A MPB desse período assumiu primordialmente o papel de denúncia da situação social de carência ('se não tem carne eu compro um osso') e da opressão política instaurada no país. A alternativa A está incorreta, pois o objetivo do movimento ia além do simples entretenimento, tendo forte cunho político de protesto. A alternativa B é incorreta, já que a letra retrata a escassez e as dificuldades da população, contrastando com qualquer exaltação ao progresso. A alternativa C erra porque o eu lírico demonstra firmeza e atitude ativa de resistência, e não passividade. A alternativa E é falsa, visto que o espetáculo reunia artistas e intelectuais da oposição de esquerda ao regime.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q36",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "A chegada da televisão\n\nA caixa de pandora tecnológica penetra nos lares e libera suas cabeças falantes, astros, novelas, noticiários e as fabulosas, irresistíveis garotas-propaganda, versões modernizadas do tradicional homem-sanduíche.\n\nSEVCENKO, N. (Org). História da Vida Privada no Brasil 3. República: da Belle Époque\nà Era do Rádio. São Paulo: Cia das Letras, 1998.\n\nA TV, a partir da década de 1950, entrou nos lares brasileiros provocando mudanças consideráveis nos hábitos da população. Certos episódios da história brasileira revelaram que a TV, especialmente como espaço de ação da imprensa, tornou-se também veículo de utilidade pública, a favor da democracia, na medida em que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "amplificou os discursos nacionalistas e autoritários durante o governo Vargas."
+      },
+      {
+        "letter": "B",
+        "text": "revelou para o país casos de corrupção na esfera política de vários governos."
+      },
+      {
+        "letter": "C",
+        "text": "maquiou indicadores sociais negativos durante as décadas de 1970 e 1980."
+      },
+      {
+        "letter": "D",
+        "text": "apoiou, no governo Castelo Branco, as iniciativas de fechamento do parlamento."
+      },
+      {
+        "letter": "E",
+        "text": "corroborou a construção de obras faraônicas durante os governos militares."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O enunciado destaca a atuação da televisão brasileira como instrumento da imprensa de utilidade pública a favor da democracia. Isso ocorreu historicamente quando o jornalismo televisivo desempenhou o papel de expor desvios, esquemas de corrupção e desmandos na esfera do poder público em múltiplos governos da história recente, fortalecendo a fiscalização cidadã e as instituições republicanas. A alternativa A está incorreta, pois a televisão só estreou no Brasil em setembro de 1950, no final da carreira política de Vargas e antes de seu retorno como presidente eleito, não atuando no Estado Novo autoritário. A alternativa C descreve uma atitude contrária à democracia, marcada pela omissão ou censura oficial. A alternativa D é errônea porque apoiar o fechamento do parlamento atenta diretamente contra a democracia. A alternativa E não exemplifica ação em prol da democracia, mas adesão à propaganda oficial das obras do regime militar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q37",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "Os meios de comunicação funcionam como um elo entre os diferentes segmentos de uma sociedade. Nas últimas décadas, acompanhamos a inserção de um novo meio de comunicação que supera em muito outros já existentes, visto que pode contribuir para a democratização da vida social e política da sociedade à medida que possibilita a instituição de mecanismos eletrônicos para a efetiva participação política e disseminação de informações.\n\nConstitui o exemplo mais expressivo desse novo conjunto de redes informacionais a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Internet."
+      },
+      {
+        "letter": "B",
+        "text": "fibra ótica."
+      },
+      {
+        "letter": "C",
+        "text": "TV digital."
+      },
+      {
+        "letter": "D",
+        "text": "telefonia móvel."
+      },
+      {
+        "letter": "E",
+        "text": "portabilidade telefônica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto refere-se a uma rede de comunicação que permite a ampla disseminação de informações de modo bidirecional e interativo, criando instrumentos eletrônicos para o engajamento e a participação política direta dos cidadãos. A Internet é o meio de comunicação que melhor exemplifica essa nova rede informacional descentralizada e interativa. A alternativa B é incorreta porque a fibra ótica é um suporte físico de transmissão de dados, não um meio de comunicação em si. A alternativa C está incorreta porque a televisão digital, embora transmita sinal com maior qualidade técnica, preserva a lógica unidirecional de transmissão de conteúdo. A alternativa D é menos abrangente, pois a telefonia móvel é apenas uma via de acesso e comunicação por voz/dados. A alternativa E é errada, já que a portabilidade é somente um serviço regulatório que permite trocar de operadora mantendo o mesmo número telefônico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q38",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "A poluição e outras ofensas ambientais ainda não tinham esse nome, mas já eram largamente notadas no século XIX, nas grandes cidades inglesas e continentais. E a própria chegada ao campo das estradas de ferro suscitou protestos. A reação antimaquinista, protagonizada pelos diversos luddismos, antecipa a batalha atual dos ambientalistas. Esse era, então, o combate social contra os miasmas urbanos.\n\nSANTOS, M. A natureza do espaço: técnica e tempo, razão e emoção.\nSão Paulo: EDUSP, 2002 (adaptado).\n\nO crescente desenvolvimento técnico-produtivo impõe modificações na paisagem e nos objetos culturais vivenciados pelas sociedades. De acordo com o texto, pode-se dizer que tais movimentos sociais emergiram e se expressaram por meio",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "das ideologias conservacionistas, com milhares de adeptos no meio urbano."
+      },
+      {
+        "letter": "B",
+        "text": "das políticas governamentais de preservação dos objetos naturais e culturais."
+      },
+      {
+        "letter": "C",
+        "text": "das teorias sobre a necessidade de harmonização entre técnica e natureza."
+      },
+      {
+        "letter": "D",
+        "text": "dos boicotes aos produtos das empresas exploradoras e poluentes."
+      },
+      {
+        "letter": "E",
+        "text": "da contestação à degradação do trabalho, das tradições e da natureza."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto de Milton Santos relaciona os protestos do século XIX, como o ludismo e as queixas contra ferrovias e poluição urbana, às raízes das mobilizações contemporâneas. Tais movimentos históricos expressavam uma revolta direta contra a precarização das condições de trabalho nas fábricas, a ruptura com modos de vida tradicionais e a degradação violenta dos ambientes natural e urbano ocasionada pela industrialização acelerada. A alternativa A está incorreta porque o conservacionismo formal e científico não contava com milhares de adeptos de massas no início do século XIX. A alternativa B é incorreta, pois esses movimentos eram populares e operários, e não fruto de diretrizes estatais conservacionistas. A alternativa C erra ao presumir teorias filosóficas de harmonização, quando na verdade se tratava de ações práticas e conflitos sociais diretos. A alternativa D é falsa, já que o boicote a produtos não era o método de ação central daqueles movimentos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q39",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 39,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "A ética precisa ser compreendida como um empreendimento coletivo a ser constantemente retomado e rediscutido, porque é produto da relação interpessoal e social. A ética supõe ainda que cada grupo social se organize sentindo-se responsável por todos e que crie condições para o exercício de um pensar e agir autônomos. A relação entre ética e política é também uma questão de educação e luta pela soberania dos povos. É necessária uma ética renovada, que se construa a partir da natureza dos valores sociais para organizar também uma nova prática política.\n\nCORDI et al. Para filosofar. São Paulo: Scipione, 2007 (adaptado).\n\nO Século XX teve de repensar a ética para enfrentar novos problemas oriundos de diferentes crises sociais, conflitos ideológicos e contradições da realidade. Sob esse enfoque e a partir do texto, a ética pode ser compreendida como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "instrumento de garantia da cidadania, porque através dela os cidadãos passam a pensar e agir de acordo com valores coletivos."
+      },
+      {
+        "letter": "B",
+        "text": "mecanismo de criação de direitos humanos, porque é da natureza do homem ser ético e virtuoso."
+      },
+      {
+        "letter": "C",
+        "text": "meio para resolver os conflitos sociais no cenário da globalização, pois a partir do entendimento do que é efetivamente a ética, a política internacional se realiza."
+      },
+      {
+        "letter": "D",
+        "text": "parâmetro para assegurar o exercício político primando pelos interesses e ação privada dos cidadãos."
+      },
+      {
+        "letter": "E",
+        "text": "aceitação de valores universais implícitos numa sociedade que busca dimensionar sua vinculação à outras sociedades."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "De acordo com o texto, a ética deve ser concebida como uma construção coletiva, gerada nas relações sociais e ligada à autonomia do pensamento e da ação. Sob essa perspectiva, ela funciona como um instrumento indispensável para o pleno exercício da cidadania, orientando as ações dos indivíduos em harmonia com valores comuns construídos democraticamente no espaço público. A alternativa B está incorreta porque o texto fundamenta a ética na construção histórica e social, e não em uma essência natural pré-determinada da humanidade. A alternativa C erra ao superestimar a ética como uma fórmula mágica garantidora da paz nas relações internacionais globalizadas. A alternativa D está errada, pois a ética proposta é voltada à dimensão pública e coletiva, e não à supremacia dos interesses privados. A alternativa E é incorreta por propor uma aceitação passiva de valores universais prévios, contrariando a tese de revisão constante do agir ético.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q40",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 40,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "Homens da Inglaterra, por que arar para os senhores que vos mantêm na miséria?\nPor que tecer com esforços e cuidado as ricas roupas que vossos tiranos vestem?\nPor que alimentar, vestir e poupar do berço até o túmulo esses parasitas ingratos que exploram vosso suor — ah, que bebem vosso sangue?\n\nSHELLEY. Os homens da Inglaterra.\nApud HUBERMAN, L. História da Riqueza do Homem. Rio de Janeiro: Zahar, 1982.\n\nA análise do trecho permite identificar que o poeta romântico Shelley (1792-1822) registrou uma contradição nas condições socioeconômicas da nascente classe trabalhadora inglesa durante a Revolução Industrial. Tal contradição está identificada",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "na pobreza dos empregados, que estava dissociada da riqueza dos patrões."
+      },
+      {
+        "letter": "B",
+        "text": "no salário dos operários, que era proporcional aos seus esforços nas indústrias."
+      },
+      {
+        "letter": "C",
+        "text": "na burguesia, que tinha seus negócios financiados pelo proletariado."
+      },
+      {
+        "letter": "D",
+        "text": "no trabalho, que era considerado uma garantia de liberdade."
+      },
+      {
+        "letter": "E",
+        "text": "na riqueza, que não era usufruída por aqueles que a produziam."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Nos versos de Shelley, o poeta denuncia que os trabalhadores rurais e operários ingleses realizam todo o esforço de produzir alimentos e roupas ricas, mas permanecem na miséria, enquanto os senhores e industriais desfrutam confortavelmente dos frutos desse labor. A contradição central exposta é que aqueles que geram toda a riqueza social por meio de seu suor não usufruem dela. A alternativa A está incorreta porque a miséria do operariado decorria diretamente da apropriação de sua riqueza pelos patrões, existindo estreita relação entre ambos. A alternativa B é falsa, pois os salários pagos eram de mera subsistência, completamente desproporcionais ao esforço e ao valor produzido. A alternativa C erra ao sugerir que a burguesia recebia financiamento monetário voluntário dos operários. A alternativa D contradiz o poema, no qual o trabalho fabril alienado é descrito como forma de opressão e submissão à tirania, e não libertação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q41",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia",
+      "Cultura e Sociedade"
+    ],
+    "statement": "\"Pecado nefando\" era expressão correntemente utilizada pelos inquisidores para a sodomia. Nefandus: o que não pode ser dito. A Assembleia de clérigos reunida em Salvador, em 1707, considerou a sodomia \"tão péssimo e horrendo crime\", tão contrário à lei da natureza, que \"era indigno de ser nomeado\" e, por isso mesmo, nefando.\n\nNOVAIS, F.; MELLO E SOUZA, L. História da Vida Privada no Brasil. V. 1.\nSão Paulo: Companhia das Letras, 1997 (adaptado).\n\nO número de homossexuais assassinados no Brasil bateu o recorde histórico em 2009. De acordo com o Relatório Anual de Assassinato de Homossexuais (LGBT – Lésbicas, Gays, Bissexuais e Travestis ), nesse ano foram registrados 195 mortos por motivação homofóbica no País.\n\nDisponível em: www.alemdanoticia.com.br/ultimas_noticias.php?codnoticia=3871.\nAcesso em: 29 abr. 2010 (adaptado).\n\nA homofobia é a rejeição e menosprezo à orientação sexual do outro e, muitas vezes, expressa-se sob a forma de comportamentos violentos. Os textos indicam que as condenações públicas, perseguições e assassinatos de homossexuais no país estão associadas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "à baixa representatividade política de grupos organizados que defendem os direitos de cidadania dos homossexuais."
+      },
+      {
+        "letter": "B",
+        "text": "à falência da democracia no país, que torna impeditiva a divulgação de estatísticas relacionadas à violência contra homossexuais."
+      },
+      {
+        "letter": "C",
+        "text": "à Constituição de 1988, que exclui do tecido social os homossexuais, além de impedi-los de exercer seus direitos políticos."
+      },
+      {
+        "letter": "D",
+        "text": "a um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância."
+      },
+      {
+        "letter": "E",
+        "text": "a uma política eugênica desenvolvida pelo Estado, justificada a partir dos posicionamentos de correntes filosófico-científicas."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao estabelecer um elo entre a repressão colonial religiosa à sodomia (o 'pecado nefando' perseguido pela Inquisição e pela Igreja no século XVIII) e os altos índices contemporâneos de crimes homofóbicos, os textos ressaltam a permanência de raízes culturais conservadoras que historicamente demonizam as sexualidades dissidentes e alimentam o preconceito e a violência. A alternativa A está incorreta porque os movimentos LGBTQIA+ têm atuado ativamente no cenário nacional, não sendo a homofobia explicada apenas por baixa representatividade. A alternativa B é falsa, pois o Brasil possui instituições democráticas consolidadas e relatórios oficiais e de ONGs sobre a violência são rotineiramente divulgados. A alternativa C erra, visto que a Constituição Cidadã de 1988 consagrou a igualdade jurídica e o combate à discriminação. A alternativa E não condiz com o contexto atual, pois inexiste uma política oficial de eugenia adotada pelo Estado brasileiro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q42",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 42,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Colonização da América",
+      "Idade Contemporânea"
+    ],
+    "statement": "Judiciário contribuiu com ditadura no Chile, diz Juiz Guzmán Tapia\n\nAs cortes de apelação rejeitaram mais de 10 mil habeas corpus nos casos das pessoas desaparecidas. Nos tribunais militares, todas as causas foram concluídas com suspensões temporárias ou definitivas, e os desaparecimentos políticos tiveram apenas trâmite formal na Justiça. Assim, o Poder Judiciário contribuiu para que os agentes estatais ficassem impunes.\n\nDisponível em: http://www.cartamaior.com.br. Acesso em: 20 jul. 2010 (adaptado).\n\nSegundo o texto, durante a ditadura chilena na década de 1970, a relação entre os poderes Executivo e Judiciário caracterizava-se pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "preservação da autonomia institucional entre os poderes."
+      },
+      {
+        "letter": "B",
+        "text": "valorização da atuação independente de alguns juízes."
+      },
+      {
+        "letter": "C",
+        "text": "manutenção da interferência jurídica nos atos executivos."
+      },
+      {
+        "letter": "D",
+        "text": "transferência das funções dos juízes para o chefe de Estado."
+      },
+      {
+        "letter": "E",
+        "text": "subordinação do poder judiciário aos interesses políticos dominantes."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O relato do juiz Guzmán Tapia evidencia que o Judiciário chileno, ao rejeitar milhares de pedidos de habeas corpus e paralisar investigações de desaparecimentos forçados, atuou como cúmplice da ditadura de Augusto Pinochet, garantindo impunidade aos torturadores e agentes da repressão. Essa atitude demonstra a submissão das cortes aos desígnios e interesses do regime autoritário no poder. A alternativa A está incorreta, pois a conivência e omissão sistemática do Judiciário revelam a anulação da separação efetiva dos poderes. A alternativa B é errada porque a maioria dos juízes e cortes aderiu passivamente às ordens do regime, sendo a atuação independente exceção marginalizada. A alternativa C é falsa, já que não houve fiscalização jurídica legítima sobre as ações do Executivo militar. A alternativa D está errada, visto que as cortes mantiveram sua estrutura institucional formal para chancelar a legalidade das ações do governo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q44",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política",
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Na ética contemporânea, o sujeito não é mais um sujeito substancial, soberano e absolutamente livre, nem um sujeito empírico puramente natural. Ele é simultaneamente os dois, na medida em que é um sujeito histórico-social. Assim, a ética adquire um dimensionamento político, uma vez que a ação do sujeito não pode mais ser vista e avaliada fora da relação social coletiva. Desse modo, a ética se entrelaça, necessariamente, com a política, entendida esta como a área de avaliação dos valores que atravessam as relações sociais e que interliga os indivíduos entre si.\n\nSEVERINO, A. J. Filosofia. São Paulo: Cortez, 1992 (adaptado).\n\nO texto, ao evocar a dimensão histórica do processo de formação da ética na sociedade contemporânea, ressalta",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os conteúdos éticos decorrentes das ideologias político-partidárias."
+      },
+      {
+        "letter": "B",
+        "text": "o valor da ação humana derivada de preceitos metafísicos."
+      },
+      {
+        "letter": "C",
+        "text": "a sistematização de valores desassociados da cultura."
+      },
+      {
+        "letter": "D",
+        "text": "o sentido coletivo e político das ações humanas individuais."
+      },
+      {
+        "letter": "E",
+        "text": "o julgamento da ação ética pelos políticos eleitos democraticamente."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto de Severino sustenta que a ética contemporânea entende o sujeito como um ser histórico e social, de modo que suas ações adquirem significado no contexto da vida em comunidade. Portanto, toda ação individual reverbera e se insere nas dinâmicas sociais, assumindo um indispensável sentido coletivo e político. A alternativa A é incorreta porque a reflexão ética abrange os valores que fundamentam toda a convivência civil, não se restringindo a plataformas partidárias. A alternativa B está errada, pois o autor afasta explicitamente noções metafísicas ou essências transcendentais abstratas ao priorizar a historicidade do sujeito. A alternativa C é falsa porque valores éticos são produtos indissociáveis da própria cultura e do contexto social. A alternativa E é incorreta, já que a avaliação ética envolve toda a coletividade nas suas interações diárias, não sendo exclusividade da classe política eleita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q45",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 45,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "[[FIG1]]\nQUINO. Toda Mafalda. São Paulo: Martins Fontes, 1991.\n\nDemocracia: \"regime político no qual a soberania é exercida pelo povo, pertence ao conjunto dos cidadãos.\"\n\nJAPIASSÚ, H.; MARCONDES, D. Dicionário Básico de Filosofia. Rio de Janeiro: Zahar, 2006.\n\nUma suposta \"vacina\" contra o despotismo, em um contexto democrático, tem por objetivo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impedir a contratação de familiares para o serviço público."
+      },
+      {
+        "letter": "B",
+        "text": "reduzir a ação das instituições constitucionais."
+      },
+      {
+        "letter": "C",
+        "text": "combater a distribuição equilibrada de poder."
+      },
+      {
+        "letter": "D",
+        "text": "evitar a escolha de governantes autoritários."
+      },
+      {
+        "letter": "E",
+        "text": "restringir a atuação do Parlamento."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q45-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Despotismo é o regime em que um governante exerce poder absoluto, arbitrário e opressivo, desrespeitando as leis e a vontade do povo. Na tirinha de Quino, as crianças buscam metaforicamente se imunizar contra essa ameaça autoritária. Em um ambiente democrático, no qual o povo detém a soberania, essa proteção opera de modo a impedir o surgimento e a eleição de governantes com tendências despóticas e tirânicas. A alternativa A está incorreta porque a prática citada (nepotismo) é um desvio administrativo específico, e não o despotismo político. A alternativa B erra, pois a preservação da democracia exige fortalecer e preservar as instituições republicanas, não enfraquecê-las. A alternativa C é contrária à lógica democrática, que valoriza a separação e o equilíbrio entre os poderes (freios e contrapesos). A alternativa E está errada porque o Parlamento é um dos pilares essenciais da representação popular democrática.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q46",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "A vacina, o soro e os antibióticos submetem os organismos a processos biológicos diferentes. Pessoas que viajam para regiões em que ocorrem altas incidências de febre amarela, de picadas de cobras peçonhentas e de leptospirose e querem evitar ou tratar problemas de saúde relacionados a essas ocorrências devem seguir determinadas orientações.\n\nAo procurar um posto de saúde, um viajante deveria ser orientado por um médico a tomar preventivamente ou como medida de tratamento",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "antibiótico contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e vacina contra a leptospirose."
+      },
+      {
+        "letter": "B",
+        "text": "vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a Leptospira sp."
+      },
+      {
+        "letter": "C",
+        "text": "soro contra o vírus da febre amarela, antibiótico caso seja picado por uma cobra e soro contra toxinas bacterianas."
+      },
+      {
+        "letter": "D",
+        "text": "antibiótico ou soro, tanto contra o vírus da febre amarela como para veneno de cobras, e vacina contra a leptospirose."
+      },
+      {
+        "letter": "E",
+        "text": "soro antiofídico e antibiótico contra a Leptospira sp e vacina contra a febre amarela caso entre em contato com o vírus causador da doença."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A vacina atua de maneira preventiva por meio da imunização ativa, estimulando a produção de anticorpos e células de memória, sendo adequada contra o vírus da febre amarela antes da viagem. O soro antiofídico promove imunização passiva com anticorpos prontos, sendo uma medida curativa emergencial para neutralizar as toxinas caso ocorra picada de cobra. Por fim, os antibióticos são fármacos utilizados no tratamento de infecções causadas por bactérias, como a Leptospira sp., agente da leptospirose. Assim, a alternativa B está correta. A alternativa A erra ao propor antibiótico contra vírus e vacina como tratamento imediato para leptospirose. A alternativa C erra ao indicar soro preventivo para febre amarela e antibiótico contra veneno. A alternativa D erra ao sugerir antibiótico contra vírus e veneno. A alternativa E erra ao sugerir soro antiofídico profilático e vacina após o contato com o vírus.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q47",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 47,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "As ondas eletromagnéticas, como a luz visível e as ondas de rádio, viajam em linha reta em um meio homogêneo. Então, as ondas de rádio emitidas na região litorânea do Brasil não alcançariam a região amazônica do Brasil por causa da curvatura da Terra. Entretanto sabemos que é possível transmitir ondas de rádio entre essas localidades devido à ionosfera.\n\nCom a ajuda da ionosfera, a transmissão de ondas planas entre o litoral do Brasil e a região amazônica é possível por meio da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reflexão."
+      },
+      {
+        "letter": "B",
+        "text": "refração."
+      },
+      {
+        "letter": "C",
+        "text": "difração."
+      },
+      {
+        "letter": "D",
+        "text": "polarização."
+      },
+      {
+        "letter": "E",
+        "text": "interferência."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As ondas de rádio emitidas na faixa de ondas curtas propagam-se em linha reta, mas conseguem contornar a curvatura terrestre ao atingirem a ionosfera, uma camada da alta atmosfera rica em íons e elétrons livres. Ao incidirem nessa camada sob determinados ângulos, essas ondas eletromagnéticas sofrem reflexão e retornam em direção à superfície da Terra, podendo ser captadas a milhares de quilômetros de distância, como entre o litoral e a Amazônia. Portanto, a alternativa A está correta. A alternativa B está incorreta porque a refração faria a onda atravessar a ionosfera e se perder no espaço. A alternativa C está incorreta porque a difração é o contorno de obstáculos da ordem de grandeza do comprimento de onda, não o mecanismo de longo alcance via ionosfera. As alternativas D e E estão incorretas porque polarização e interferência não são responsáveis pelo redirecionamento global das ondas de rádio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q48",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Todo carro possui uma caixa de fusíveis, que são utilizados para proteção dos circuitos elétricos. Os fusíveis são constituídos de um material de baixo ponto de fusão, como o estanho, por exemplo, e se fundem quando percorridos por uma corrente elétrica igual ou maior do que aquela que são capazes de suportar. O quadro a seguir mostra uma série de fusíveis e os valores de corrente por eles suportados.\n\n[[FIG1]]\n\nUm farol usa uma lâmpada de gás halogênio de 55 W de potência que opera com 36 V. Os dois faróis são ligados separadamente, com um fusível para cada um, mas, após um mau funcionamento, o motorista passou a conectá-los em paralelo, usando apenas um fusível. Dessa forma, admitindo-se que a fiação suporte a carga dos dois faróis, o menor valor de fusível adequado para proteção desse novo circuito é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "azul."
+      },
+      {
+        "letter": "B",
+        "text": "preto."
+      },
+      {
+        "letter": "C",
+        "text": "laranja."
+      },
+      {
+        "letter": "D",
+        "text": "amarelo."
+      },
+      {
+        "letter": "E",
+        "text": "vermelho."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q48-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Cada farol possui potência de 55 W e opera com tensão de 36 V. A corrente elétrica individual em cada farol é dada por I = P / V = 55 / 36, o que resulta em aproximadamente 1,53 A. Ao ligar os dois faróis em paralelo sob a mesma tensão de 36 V, a corrente total que atravessará o único fusível protetor do circuito será a soma das correntes individuais: I_total = 2 vezes 1,53 A, totalizando aproximadamente 3,06 A. Para proteger o circuito sem interromper o funcionamento normal dos faróis, o fusível deve suportar uma corrente nominal imediatamente superior a 3,06 A. Consultando a tabela, o menor valor adequado é o fusível laranja, que suporta até 5,0 A, tornando a alternativa C correta. Os fusíveis azul (1,5 A) e amarelo (2,5 A) queimariam na operação normal, enquanto o preto (7,5 A) e o vermelho (10,0 A) suportariam a corrente, mas não representam o menor valor adequado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q49",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "A cárie dental resulta da atividade de bactérias que degradam os açúcares e os transformam em ácidos que corroem a porção mineralizada dos dentes. O flúor, juntamente com o cálcio e um açúcar chamado xilitol, agem inibindo esse processo. Quando não se escovam os dentes corretamente e neles acumulam-se restos de alimentos, as bactérias que vivem na boca aderem aos dentes, formando a placa bacteriana ou biofilme. Na placa, elas transformam o açúcar dos restos de alimentos em ácidos, que corroem o esmalte do dente formando uma cavidade, que é a cárie. Vale lembrar que a placa bacteriana se forma mesmo na ausência de ingestão de carboidratos fermentáveis, pois as bactérias possuem polissacarídeos intracelulares de reserva.\n\nDisponível em: http://www.diariodasaude.com.br. Acesso em: 11 ago 2010 (adaptado).\n\ncárie 1. destruição de um osso por corrosão progressiva.\n* cárie dentária: efeito da destruição da estrutura dentária por bactérias.\n\nHOUAISS, Antônio. Dicionário eletrônico. Versão 1.0. Editora Objetiva, 2001 (adaptado).\n\nA partir da leitura do texto, que discute as causas do aparecimento de cáries, e da sua relação com as informações do dicionário, conclui-se que a cárie dental resulta, principalmente, de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "falta de flúor e de cálcio na alimentação diária da população brasileira."
+      },
+      {
+        "letter": "B",
+        "text": "consumo exagerado do xilitol, um açúcar, na dieta alimentar diária do indivíduo."
+      },
+      {
+        "letter": "C",
+        "text": "redução na proliferação bacteriana quando a saliva é desbalanceada pela má alimentação."
+      },
+      {
+        "letter": "D",
+        "text": "uso exagerado do flúor, um agente que em alta quantidade torna-se tóxico à formação dos dentes."
+      },
+      {
+        "letter": "E",
+        "text": "consumo excessivo de açúcares na alimentação e má higienização bucal, que contribuem para a proliferação de bactérias."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto explica que a cárie se desenvolve quando bactérias bucais aderem aos dentes formando a placa bacteriana. Nesse biofilme, elas fermentam os restos de carboidratos e açúcares provenientes da dieta, liberando ácidos que desmineralizam e corroem o esmalte dentário. A má higienização bucal permite o acúmulo prolongado desses resíduos alimentares e favorece a proliferação microbiana, tornando a alternativa E correta. A alternativa A está incorreta porque a falta de flúor e cálcio não é a causa primária da cárie, mas sim a ação ácida bacteriana. A alternativa B está incorreta porque o texto cita o xilitol como um inibidor do processo de cárie. A alternativa C está incorreta porque há proliferação, e não redução, das bactérias. A alternativa D está incorreta porque o excesso de flúor causa fluorose, e não cárie.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q50",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Em nosso cotidiano, utilizamos as palavras \"calor\" e \"temperatura\" de forma diferente de como elas são usadas no meio científico. Na linguagem corrente, calor é identificado como \"algo quente\" e temperatura mede a \"quantidade de calor de um corpo\". Esses significados, no entanto, não conseguem explicar diversas situações que podem ser verificadas na prática.\n\nDo ponto de vista científico, que situação prática mostra a limitação dos conceitos corriqueiros de calor e temperatura?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A temperatura da água pode ficar constante durante o tempo em que estiver fervendo."
+      },
+      {
+        "letter": "B",
+        "text": "Uma mãe coloca a mão na água da banheira do bebê para verificar a temperatura da água."
+      },
+      {
+        "letter": "C",
+        "text": "A chama de um fogão pode ser usada para aumentar a temperatura da água em uma panela."
+      },
+      {
+        "letter": "D",
+        "text": "A água quente que está em uma caneca é passada para outra caneca a fim de diminuir sua temperatura."
+      },
+      {
+        "letter": "E",
+        "text": "Um forno pode fornecer calor para uma vasilha de água que está em seu interior com menor temperatura do que a dele."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No meio científico, calor é energia térmica em trânsito motivada por uma diferença de temperatura, enquanto a temperatura mede o grau médio de agitação térmica das partículas de um sistema. O senso comum confunde temperatura com quantidade de calor contida no corpo. A limitação desse conceito cotidiano fica evidente durante a mudança de estado físico de uma substância pura a pressão constante: na ebulição da água, calor latente continua sendo fornecido continuamente sem que a temperatura aumente, mantendo-se fixa em 100 graus Celsius ao nível do mar. Portanto, a alternativa A está correta. A alternativa B refere-se a uma estimativa sensorial de temperatura. As alternativas C e E ilustram situações em que o fornecimento de calor provoca elevação de temperatura, o que reforça, em vez de desafiar, o senso comum. A alternativa D apenas retrata resfriamento por perda de calor para o ambiente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q51",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O texto \"O vôo das Folhas\" traz uma visão dos índios Ticunas para um fenômeno usualmente observado na natureza:\n\nO vôo das Folhas\nCom o vento\nas folhas se movimentam.\nE quando caem no chão\nficam paradas em silêncio.\nAssim se forma o ngaura. O ngaura cobre o chão da\nfloresta, enriquece a terra e alimenta as árvores.]\nAs folhas velhas morrem para ajudar o crescimento das\nfolhas novas.]\nDentro do ngaura vivem aranhas, formigas, escorpiões,\ncentopeias, minhocas, cogumelos e vários tipos de\noutros seres muito pequenos.]\nAs folhas também caem nos lagos, nos igarapés e igapós.\n\nA natureza segundo os Ticunas/Livro das Árvores.\nOrganização Geral dos Professores Bilíngues Ticunas, 2000.\n\nNa visão dos índios Ticunas, a descrição sobre o ngaura permite classificá-lo como um produto diretamente relacionado ao ciclo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "da água."
+      },
+      {
+        "letter": "B",
+        "text": "do oxigênio."
+      },
+      {
+        "letter": "C",
+        "text": "do fósforo."
+      },
+      {
+        "letter": "D",
+        "text": "do carbono."
+      },
+      {
+        "letter": "E",
+        "text": "do nitrogênio."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto indígena descreve a formação do ngaura, que corresponde à serrapilheira, camada constituída por folhas caídas e restos vegetais ricos em compostos orgânicos. A presença de fungos, minhocas e outros decompositores promove a degradação dessa matéria orgânica morta, reciclando nutrientes e liberando dióxido de carbono que retorna à atmosfera e ao solo, permitindo o crescimento de novas plantas por meio da fotossíntese. Esse fluxo contínuo de matéria orgânica está diretamente integrado ao ciclo biogeoquímico do carbono, validando a alternativa D. As alternativas A e B estão incorretas porque, embora a água e o oxigênio participem de processos biológicos vitais, a biomassa vegetal em decomposição é essencialmente constituída por cadeias de carbono. As alternativas C e E estão incorretas porque o texto foca primordialmente na dinâmica da biomassa vegetal e dos decompositores, associada de forma primária ao ciclo do carbono.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q52",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10 °C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.\n\nO forno mais eficiente foi aquele que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "forneceu a maior quantidade de energia às amostras."
+      },
+      {
+        "letter": "B",
+        "text": "cedeu energia à amostra de maior massa em mais tempo."
+      },
+      {
+        "letter": "C",
+        "text": "forneceu a maior quantidade de energia em menos tempo."
+      },
+      {
+        "letter": "D",
+        "text": "cedeu energia à amostra de menor calor específico mais lentamente."
+      },
+      {
+        "letter": "E",
+        "text": "forneceu a menor quantidade de energia às amostras em menos tempo."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A eficiência de um dispositivo térmico como o forno micro-ondas relaciona-se à sua capacidade de transferir energia útil às amostras de maneira rápida e com o menor desperdício possível. A potência útil desenvolvida pelo forno é calculada pela razão entre a quantidade de energia térmica fornecida e o intervalo de tempo necessário para essa transferência, dada por P = E / delta t. Logo, o equipamento mais eficiente e de maior rendimento é aquele capaz de fornecer a maior quantidade de energia térmica às substâncias no menor intervalo de tempo, o que confirma a alternativa C. A alternativa A está incompleta pois não considera o tempo gasto no processo. A alternativa B descreve um processo lento, característico de baixa potência. As alternativas D e E indicam fornos ineficientes, pois transferem pouca energia ou operam com extrema lentidão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q53",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O fósforo, geralmente representado pelo íon de fosfato (PO₄³⁻), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon.\n\nUma medida que amenizaria esse problema seria:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo."
+      },
+      {
+        "letter": "B",
+        "text": "Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes."
+      },
+      {
+        "letter": "C",
+        "text": "Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes."
+      },
+      {
+        "letter": "D",
+        "text": "Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons."
+      },
+      {
+        "letter": "E",
+        "text": "Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O fósforo é um elemento insubstituível que compõe ácidos nucleicos, fosfolipídios de membrana e moléculas de ATP. Como as reservas minerais de fosfato são finitas e não renováveis em escala humana, e grande parte do elemento se perde pela erosão e descarte em aterros, a medida sustentável para amenizar essa escassez é a adubação orgânica por compostagem, que recicla dejetos animais e restos de colheita, devolvendo o fósforo ao solo agrícola, o que torna a alternativa A correta. A alternativa B é incorreta porque o fósforo é um elemento químico e não pode ser sintetizado artificialmente em escala para adubação. A alternativa C não resolve o esgotamento global das reservas. A alternativa D é inviável, já que o próprio texto afirma que o fósforo é um ingrediente biológico insubstituível. A alternativa E prejudicaria a produção mundial de alimentos ao banir abruptamente a fertilização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q55",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "Em visita a uma usina sucroalcooleira, um grupo de alunos pôde observar a série de processos de beneficiamento da cana-de-açúcar, entre os quais se destacam:\n1. A cana chega cortada da lavoura por meio de caminhões e é despejada em mesas alimentadoras que a conduzem para as moendas. Antes de ser esmagada para a retirada do caldo açucarado, toda a cana é transportada por esteiras e passada por um eletroímã para a retirada de materiais metálicos.\n2. Após se esmagar a cana, o bagaço segue para as caldeiras, que geram vapor e energia para toda a usina.\n3. O caldo primário, resultante do esmagamento, é passado por filtros e sofre tratamento para transformar-se em açúcar refinado e etanol.\n\nCom base nos destaques da observação dos alunos, quais operações físicas de separação de materiais foram realizadas nas etapas de beneficiamento da cana-de-açúcar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Separação mecânica, extração, decantação."
+      },
+      {
+        "letter": "B",
+        "text": "Separação magnética, combustão, filtração."
+      },
+      {
+        "letter": "C",
+        "text": "Separação magnética, extração, filtração."
+      },
+      {
+        "letter": "D",
+        "text": "Imantação, combustão, peneiração."
+      },
+      {
+        "letter": "E",
+        "text": "Imantação, destilação, filtração."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na etapa 1, a utilização de um eletroímã para recolher impurezas metálicas das esteiras constitui um processo de separação magnética. Ainda no contexto da primeira e segunda etapas, a moagem e o esmagamento mecânico da cana servem para retirar o caldo açucarado de dentro das fibras do bagaço, operação classificada fisicamente como extração mecânica. Na etapa 3, o caldo é passado por filtros para remover partículas sólidas residuais em suspensão, processo físico típico de filtração. Dessa forma, a sequência correta de operações físicas de separação é separação magnética, extração e filtração, correspondendo à alternativa C. As alternativas B e D estão erradas porque a combustão do bagaço na caldeira é uma reação química, não um processo físico de separação. A alternativa A erra ao omitir a separação magnética e citar decantação. A alternativa E erra ao mencionar destilação no trecho destacado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
   }
 ]
