@@ -91505,5 +91505,615 @@
       "institution": "INEP",
       "note": "ENEM 2012 – 2º dia, 7 - Azul"
     }
+  },
+  {
+    "id": "enem-2013-q01",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana",
+      "Geografia da População"
+    ],
+    "statement": "Mapa 1\nDistribuição espacial atual da população brasileira\n\n[[FIG1]]\nTHÉRY, H. As boas-novas sobre a população brasileira. Conhecimento Prático Geográfico, n. 41, jan. 2012 (adaptado).\n\nMapa 2\nConflitos em terras indígenas\n\n[[FIG2]]\nSIMIELLI, M. E. Geoatlas. São Paulo: Ática, 2009 (adaptado).\n\nOs mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor incidência de disputas territoriais envolvendo povos indígenas se explica pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fertilização natural dos solos."
+      },
+      {
+        "letter": "B",
+        "text": "expansão da fronteira agrícola."
+      },
+      {
+        "letter": "C",
+        "text": "intensificação da migração de retorno."
+      },
+      {
+        "letter": "D",
+        "text": "homologação de reservas extrativistas."
+      },
+      {
+        "letter": "E",
+        "text": "concentração histórica da urbanização."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q01-1.webp",
+      "FIG2": "data/figuras/enem-2013-q01-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao analisar os dois mapas, nota-se que a faixa litorânea e as regiões Sul e Sudeste apresentam enorme densidade populacional e de cidades, ao passo que os conflitos por terras indígenas se concentram marcadamente no Norte e Centro-Oeste. A menor incidência de disputas territoriais indígenas na porção leste do país decorre da concentração histórica da urbanização e da ocupação colonial, processo secular que dizimou e expulsou a maior parte das populações originárias dessas áreas, restando poucas terras indígenas demarcadas para disputas na atualidade. Portanto, a alternativa E está correta. A alternativa A é incorreta, pois a fertilidade natural dos solos costuma atrair disputas agrárias, e não reduzi-las. A alternativa B é incorreta, pois a expansão da fronteira agrícola é justamente o motor do aumento dos conflitos no Centro-Oeste e Norte. A alternativa C é incorreta, pois a migração de retorno não tem relação direta com a distribuição desses conflitos. A alternativa D é incorreta, pois a criação de reservas extrativistas não explica a quase ausência de conflitos indígenas no litoral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q10",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política"
+    ],
+    "statement": "Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.\n\nMAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.\n\nA partir da análise histórica do comportamento humano em suas relações sociais e políticas, Maquiavel define o homem como um ser",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "munido de virtude, com disposição nata a praticar o bem a si e aos outros."
+      },
+      {
+        "letter": "B",
+        "text": "possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política."
+      },
+      {
+        "letter": "C",
+        "text": "guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes."
+      },
+      {
+        "letter": "D",
+        "text": "naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais."
+      },
+      {
+        "letter": "E",
+        "text": "sociável por natureza, mantendo relações pacíficas com seus pares."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No trecho de O Príncipe, Maquiavel rompe com a visão idealizada da política clássica ao descrever os seres humanos a partir do realismo político. Ele pontua que as pessoas são ingratas, volúveis e ávidas de lucro, agindo a favor do soberano apenas enquanto lhes convém e revoltando-se diante do perigo. Assim, a conduta humana é apresentada como guiada exclusivamente por interesses egoístas, o que a torna inconstante e imprevisível. Portanto, a alternativa C está correta. A alternativa A está incorreta, pois Maquiavel rejeita a ideia de uma bondade ou virtude inata no ser humano. A alternativa B está incorreta, pois o conceito de fortuna em Maquiavel refere-se às circunstâncias e ao acaso, e não simplesmente à posse de riqueza material pelos cidadãos. A alternativa D está incorreta, pois a teoria dos direitos naturais e do estado de natureza pré-social pertence ao jusnaturalismo moderno de Locke e Hobbes, posterior a Maquiavel. A alternativa E está incorreta, pois a concepção aristotélica de que o homem é naturalmente sociável e pacífico é explicitamente refutada pelo texto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q28",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://BP.blogspot.com. Acesso em: 24 ago. 2011.\nNa imagem, visualiza-se um método de cultivo e as transformações provocadas no espaço geográfico. O objetivo imediato da técnica agrícola utilizada é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "controlar a erosão laminar."
+      },
+      {
+        "letter": "B",
+        "text": "preservar as nascentes fluviais."
+      },
+      {
+        "letter": "C",
+        "text": "diminuir a contaminação química."
+      },
+      {
+        "letter": "D",
+        "text": "incentivar a produção transgênica."
+      },
+      {
+        "letter": "E",
+        "text": "implantar a mecanização intensiva."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q28-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A imagem retrata a técnica agrícola de terraceamento (construção de degraus ou terraços em encostas íngremes), frequentemente combinada com o plantio em curvas de nível. Essa técnica visa reduzir a velocidade de escoamento superficial da água das chuvas nas encostas, facilitando a infiltração da água no solo e minimizando o arraste da camada fértil superficial. O objetivo imediato e direto do método é controlar a erosão laminar. Portanto, a alternativa A está correta. A alternativa B está incorreta, pois, embora o terraceamento auxilie na conservação do solo, a preservação direta de nascentes depende principalmente da manutenção de matas ciliares. A alternativa C está incorreta, pois o terraceamento é uma técnica de conservação mecânica do solo e não interfere diretamente no uso de agrotóxicos. A alternativa D está incorreta, já que a forma do terreno não induz à escolha de sementes geneticamente modificadas. A alternativa E está incorreta, pois o relevo acidentado e em degraus dificulta ou inviabiliza a mecanização intensiva de grande porte.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q33",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "[[FIG1]]\nMOREAUX, F. R. Proclamação da Independência.\nDisponível em: www.tvbrasil.org.br. Acesso em: 14 jun. 2010.\n[[FIG2]]\nFERREZ, M. D. Pedro II.\nSCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos. São Paulo: Cia. das Letras, 1998.\nAs imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Habilidade militar — riqueza pessoal."
+      },
+      {
+        "letter": "B",
+        "text": "Liderança popular — estabilidade política."
+      },
+      {
+        "letter": "C",
+        "text": "Instabilidade econômica — herança europeia."
+      },
+      {
+        "letter": "D",
+        "text": "Isolamento político — centralização do poder."
+      },
+      {
+        "letter": "E",
+        "text": "Nacionalismo exacerbado — inovação administrativa."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q33-1.webp",
+      "FIG2": "data/figuras/enem-2013-q33-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A primeira imagem, obra de François-René Moreaux, retrata D. Pedro I proclamando a Independência cercado por populares que celebram efusivamente, construindo a narrativa mítica de liderança popular e união nacional em torno do jovem libertador. Já a segunda imagem, uma célebre fotografia de Marc Ferrez, mostra D. Pedro II idoso, de vestes sóbrias civis e barba branca, transmitindo a imagem de sabedoria, serenidade, maturidade e estabilidade política, características centrais associadas à consolidação do Segundo Reinado. Logo, a ideia evocada por cada imagem é, respectivamente, liderança popular e estabilidade política, o que valida a alternativa B. A alternativa A está incorreta, pois a segunda foto enfatiza austeridade, não ostentação de riqueza. A alternativa C está incorreta, pois a primeira imagem glorifica o evento, sem sugerir crise econômica. A alternativa D está incorreta, visto que D. Pedro I aparece envolto por apoiadores e D. Pedro II é retratado como magistrado sereno, não tirânico. A alternativa E está incorreta, pois a segunda imagem não foca em modernização técnica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q55",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "A pílula anticoncepcional é um dos métodos contraceptivos de maior segurança, sendo constituída basicamente de dois hormônios sintéticos semelhantes aos hormônios produzidos pelo organismo feminino, o estrogênio (E) e a progesterona (P). Em um experimento médico, foi analisado o sangue de uma mulher que ingeriu ininterruptamente um comprimido desse medicamento por dia durante seis meses.\n\nQual gráfico representa a concentração sanguínea desses hormônios durante o período do experimento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2013-q55-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2013-q55-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2013-q55-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2013-q55-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2013-q55-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q55-1.webp",
+      "FIG2": "data/figuras/enem-2013-q55-2.webp",
+      "FIG3": "data/figuras/enem-2013-q55-3.webp",
+      "FIG4": "data/figuras/enem-2013-q55-4.webp",
+      "FIG5": "data/figuras/enem-2013-q55-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A pílula anticoncepcional combinada fornece doses diárias constantes de estrogênio sintético e progestagênio. Como o experimento estabeleceu a ingestão ininterrupta de um comprimido por dia ao longo de seis meses, as concentrações plasmáticas desses dois hormônios exógenos mantêm-se em níveis praticamente constantes e estáveis, inibindo as oscilações naturais do ciclo ovariano causadas pelos hormônios hipofisários LH e FSH. Por conseguinte, o gráfico que melhor representa essa situação ao longo do tempo é o gráfico da alternativa A, que exibe duas retas horizontais paralelas. As alternativas B e C estão incorretas, pois mostram oscilações periódicas ou picos típicos do ciclo menstrual natural não medicado. As alternativas D e E estão incorretas porque indicam um acúmulo contínuo e progressivo dos hormônios no sangue com o tempo, o que não ocorre na farmacocinética do medicamento, já que os hormônios são continuamente metabolizados pelo fígado e eliminados pelo organismo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q58",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O citral, substância de odor fortemente cítrico, é obtido a partir de algumas plantas como o capim-limão, cujo óleo essencial possui aproximadamente 80%, em massa, da substância. Uma de suas aplicações é na fabricação de produtos que atraem abelhas, especialmente do gênero Apis, pois seu cheiro é semelhante a um dos feromônios liberados por elas. Sua fórmula molecular é C₁₀H₁₆O, com uma cadeia alifática de oito carbonos, duas insaturações, nos carbonos 2 e 6; e dois grupos substituintes metila, nos carbonos 3 e 7. O citral possui dois isômeros geométricos, sendo o trans o que mais contribui para o forte odor.\n\nPara que se consiga atrair um maior número de abelhas para uma determinada região, a molécula que deve estar presente em alta concentração no produto a ser utilizado é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2013-q58-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2013-q58-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2013-q58-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2013-q58-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2013-q58-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q58-1.webp",
+      "FIG2": "data/figuras/enem-2013-q58-2.webp",
+      "FIG3": "data/figuras/enem-2013-q58-3.webp",
+      "FIG4": "data/figuras/enem-2013-q58-4.webp",
+      "FIG5": "data/figuras/enem-2013-q58-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O citral é o 3,7-dimetilocta-2,6-dienal. A numeração inicia-se no carbono da carbonila aldéidica (C1 = CHO). O isômero geométrico trans (ou geranial) é o isômero (2E), no qual a cadeia principal ligada ao carbono 3 e o grupo aldeído no carbono 2 estão em lados opostos em relação ao plano da dupla ligação C2=C3, mantendo a geometria em zigue-zague aberta. Na figura da alternativa A, observa-se a cadeia de 8 carbonos com insaturações entre os carbonos 2 e 6, metilas nos carbonos 3 e 7, com a porção C1(CHO) e o segmento de C4 em conformação trans em relação à dupla C2=C3. Portanto, a alternativa A é a correta. A alternativa B é incorreta porque a metila em C3 está desenhada para cima, alterando a configuração para cis. A alternativa C é incorreta porque a conformação da carbonila está voltada para cima, caracterizando a forma cis (neral). As alternativas D e E estão incorretas porque apresentam a dupla ligação em C5=C6, não correspondendo ao citral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q66",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para serrar ossos e carnes congeladas, um açougueiro utiliza uma serra de fita que possui três polias e um motor. O equipamento pode ser montado de duas formas diferentes, P e Q. Por questão de segurança, é necessário que a serra possua menor velocidade linear.\n\n[[FIG1]]\n\nPor qual montagem o açougueiro deve optar e qual a justificativa desta opção?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência."
+      },
+      {
+        "letter": "B",
+        "text": "Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico."
+      },
+      {
+        "letter": "C",
+        "text": "P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico."
+      },
+      {
+        "letter": "D",
+        "text": "P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência."
+      },
+      {
+        "letter": "E",
+        "text": "Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q66-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na montagem Q, a correia conecta a polia 1 (motor) à polia 3 externa. Como estão ligadas por correia, os pontos periféricos de 1 e 3 possuem a mesma velocidade linear (v1 = v3). Como v = 2 * pi * f * R, a polia 3, tendo raio maior que a polia 1, girará com frequência menor (f3 menor que f1). As polias 2 e 3 estão acopladas no mesmo eixo, compartilhando a mesma frequência reduzida (f2 = f3). Sendo a serra de fita acoplada à polia 2 (de menor raio), sua velocidade linear será dada por v_serra = 2 * pi * f2 * R2, resultando na menor velocidade linear possível. Portanto, deve-se optar pela montagem Q, tornando a alternativa A correta. A alternativa B está incorreta, pois polias unidas por correia não têm frequências iguais. As alternativas C e D estão incorretas, pois a montagem P gera velocidade maior para a fita. A alternativa E está incorreta, pois as polias 2 e 3 giram no mesmo eixo e possuem a mesma frequência.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q70",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.\n\n[[FIG1]]\n\nQue casal pode ser considerado como pais biológicos do bebê?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q70-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No teste de DNA por análise de bandas de eletroforese, cada banda observada no perfil genético do bebê deve ter sido herdada obrigatoriamente ou da mãe biológica ou do pai biológico. O bebê apresenta bandas nas posições 3, 4, 7, 9, 10, 11 e 13. Ao analisar os casais, observa-se que no Casal 3, as bandas 3, 4 e 9 do bebê estão presentes no suposto pai, enquanto as bandas 7, 10, 11 e 13 estão presentes na suposta mãe. Dessa forma, 100% das bandas do bebê encontram correspondência direta entre o pai e a mãe do Casal 3. Portanto, a alternativa C está correta. O Casal 1 é eliminado porque nem o pai nem a mãe possuem a banda 4. O Casal 2 é eliminado porque nenhum dos dois possui a banda 7 do bebê. O Casal 4 é eliminado porque nenhum dos cônjuges apresenta a banda 7. O Casal 5 também não apresenta a banda 7 em nenhum dos dois supostos genitores.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q72",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um eletricista analisa o diagrama de uma instalação elétrica residencial para planejar medições de tensão e corrente em uma cozinha. Nesse ambiente existem uma geladeira (G), uma tomada (T) e uma lâmpada (L), conforme a figura. O eletricista deseja medir a tensão elétrica aplicada à geladeira, a corrente total e a corrente na lâmpada. Para isso, ele dispõe de um voltímetro (V) e dois amperímetros (A).\n\n[[FIG1]]\n\nPara realizar essas medidas, o esquema da ligação desses instrumentos está representado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2013-q72-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2013-q72-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2013-q72-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2013-q72-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2013-q72-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q72-1.webp",
+      "FIG2": "data/figuras/enem-2013-q72-2.webp",
+      "FIG3": "data/figuras/enem-2013-q72-3.webp",
+      "FIG4": "data/figuras/enem-2013-q72-4.webp",
+      "FIG5": "data/figuras/enem-2013-q72-5.webp",
+      "FIG6": "data/figuras/enem-2013-q72-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para medir grandezas elétricas sem alterar o funcionamento do circuito, o voltímetro deve ser instalado em paralelo com o elemento cuja ddp se deseja medir, enquanto o amperímetro deve ser instalado em série no trecho por onde passa a corrente de interesse. A geladeira (G) está conectada entre a fase e o neutro; logo, um voltímetro em paralelo com essa rede mede a tensão da geladeira. O amperímetro que mede a corrente total deve ser inserido em série no condutor principal (na fase ou no neutro antes de qualquer derivação). O amperímetro que afere a corrente da lâmpada (L) deve ser colocado em série no ramo exclusivo da lâmpada. Esse arranjo correto é precisamente o apresentado na figura da alternativa E. As alternativas A, B e C estão incorretas, pois posicionam o voltímetro em série com a geladeira, impedindo seu funcionamento. A alternativa D está incorreta por colocar amperímetros em paralelo entre fase e neutro e em paralelo com a lâmpada, gerando curto-circuito.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q73",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 73,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.\n\n[[FIG1]]\n\nQual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q73-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O processo de secreção celular é desempenhado fundamentalmente pelo complexo golgiense, organela responsável por receber substâncias, modificá-las, empacotá-las em vesículas de secreção e direcioná-las para a exocitose no meio extracelular. Para se obter a maior taxa de secreção de polímeros no meio de cultura, deve-se selecionar a linhagem com a maior proporção dessa organela. Observando os dados da figura, a Linhagem I é a que apresenta a maior porcentagem de complexo golgiense, correspondendo a 50% do total celular, sendo, portanto, a alternativa correta.\n\nAs linhagens II (40%), III (35%), IV (20%) e V (15%) estão incorretas porque contêm porcentagens menores de complexo golgiense em comparação com a linhagem I, o que resulta em um potencial de secreção inferior.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q83",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Medir temperatura é fundamental em muitas aplicações, e apresentar a leitura em mostradores digitais é bastante prático. O seu funcionamento é baseado na correspondência entre valores de temperatura e de diferença de potencial elétrico. Por exemplo, podemos usar o circuito elétrico apresentado, no qual o elemento sensor de temperatura ocupa um dos braços do circuito (Rs) e a dependência da resistência com a temperatura é conhecida.\n\n[[FIG1]]\n\nPara um valor de temperatura em que Rs = 100 Ω, a leitura apresentada pelo voltímetro será de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "+ 6,2 V."
+      },
+      {
+        "letter": "B",
+        "text": "+ 1,7 V."
+      },
+      {
+        "letter": "C",
+        "text": "+ 0,3 V."
+      },
+      {
+        "letter": "D",
+        "text": "– 0,3 V."
+      },
+      {
+        "letter": "E",
+        "text": "– 6,2 V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q83-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O circuito constitui uma ponte de Wheatstone alimentada por 10 V entre o nó superior (10 V) e o nó inferior aterrado (0 V). O nó conectado ao terminal positivo (+) do voltímetro tem potencial determinado pelo divisor de tensão entre o resistor de 470 ohms e Rs = 100 ohms: V+ = 10 * [100 / (470 + 100)] = 1000 / 570 aproximadamente 1,75 V. O nó conectado ao terminal negativo (-) do voltímetro tem potencial determinado pelo divisor entre o resistor de 470 ohms e o de 120 ohms: V- = 10 * [120 / (470 + 120)] = 1200 / 590 aproximadamente 2,03 V. A leitura apresentada pelo voltímetro é a diferença de potencial V+ - V- = 1,75 V - 2,03 V = -0,28 V, que equivale a aproximadamente -0,3 V. Logo, a alternativa D está correta. A alternativa C está incorreta por desconsiderar o sinal negativo decorrente da polaridade dos terminais do voltímetro. As alternativas A, B e E trazem valores numéricos incorretos resultantes de divisões errôneas de tensão na ponte.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q87",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente até atingir a velocidade limite. No instante em que o paraquedas é aberto (instante Tₐ), ocorre a diminuição de sua velocidade de queda. Algum tempo após a abertura do paraquedas, ele passa a ter velocidade de queda constante, que possibilita sua aterrissagem em segurança.\nQue gráfico representa a força resultante sobre o paraquedista, durante o seu movimento de queda?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2013-q87-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2013-q87-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2013-q87-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2013-q87-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2013-q87-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q87-1.webp",
+      "FIG2": "data/figuras/enem-2013-q87-2.webp",
+      "FIG3": "data/figuras/enem-2013-q87-3.webp",
+      "FIG4": "data/figuras/enem-2013-q87-4.webp",
+      "FIG5": "data/figuras/enem-2013-q87-5.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Adotando o sentido para baixo como positivo, inicialmente (em t = 0) a velocidade é nula e a única força atuante é o peso, de modo que a força resultante é positiva e máxima (Fres = P). Conforme o paraquedista acelera, a força de resistência do ar aumenta, reduzindo a resultante gradativamente até zero, quando ele atinge a primeira velocidade limite antes de TA. No instante TA, com a abertura do paraquedas, a área de contato aumenta bruscamente, gerando uma força de arrasto muito superior ao peso, tornando a força resultante intensamente negativa (para cima, desacelerando a queda). À medida que a velocidade diminui, o arrasto diminui até igualar novamente o peso, fazendo a força resultante tender assintoticamente a zero a partir dos valores negativos. Esse comportamento é fielmente retratado na figura da alternativa B. A alternativa A está incorreta, pois a força resultante vai a menos infinito. As alternativas C e E erram ao iniciar a resultante em zero. A alternativa D não contempla a inversão de sentido da força após TA.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2013-q90",
+    "exam": "enem",
+    "year": 2013,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "As moléculas de nanoputians lembram figuras humanas e foram criadas para estimular o interesse de jovens na compreensão da linguagem expressa em fórmulas estruturais, muito usadas em química orgânica. Um exemplo é o NanoKid, representado na figura:\n[[FIG1]]\nCHANTEAU, S. H.; TOUR, J. M. The Journal of Organic Chemistry, v. 68, n. 23, 2003 (adaptado).\nEm que parte do corpo do NanoKid existe carbono quaternário?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mãos."
+      },
+      {
+        "letter": "B",
+        "text": "Cabeça."
+      },
+      {
+        "letter": "C",
+        "text": "Tórax."
+      },
+      {
+        "letter": "D",
+        "text": "Abdômen."
+      },
+      {
+        "letter": "E",
+        "text": "Pés."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2013-q90-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na química orgânica, um carbono quaternário é classificado como aquele que estabelece ligações covalentes com outros quatro átomos de carbono simultaneamente. Ao inspecionar a estrutura do NanoKid, verifica-se que nas extremidades dos braços (região correspondente às mãos) existem grupos terc-butila [-C(CH3)3] ligados a uma ligação tripla alcinílica (-C≡C-). O carbono central desse grupo terc-butila está ligado a três grupos metila (-CH3) e ao carbono da ligação tripla, perfazendo ligações com quatro átomos de carbono. Portanto, a presença de carbono quaternário ocorre nas mãos, o que torna a alternativa A correta. Na cabeça (alternativa B), os carbonos estão ligados a oxigênios ou a no máximo dois carbonos. No tórax (alternativa C) e no abdômen (alternativa D), os anéis aromáticos contêm carbonos que se ligam a no máximo três outros carbonos (carbonos secundários ou terciários). Nos pés (alternativa E), as cadeias alifáticas contêm carbonos primários e secundários.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2013 – 1º dia, 1 - AZUL"
+    }
   }
 ]
