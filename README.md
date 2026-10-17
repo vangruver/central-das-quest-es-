@@ -49,7 +49,7 @@ As provas do ENEM (INEP/MEC) e da UERJ são exames de instituições públicas, 
 
 ## Estado atual do banco
 
-<!-- totais -->**Total no banco: 2023 questões do ENEM e 681 da UERJ** (116 questões do ENEM com figuras).<!-- /totais -->
+<!-- totais -->**Total no banco: 2117 questões do ENEM e 681 da UERJ** (154 questões do ENEM com figuras).<!-- /totais -->
 
 O banco já tem **1.745 questões reais do ENEM** (15 anos: 2009 e 2011 a 2024) e **681 questões reais da UERJ** (2016 a 2023), cobrindo as quatro áreas do ENEM (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática) e as principais matérias da UERJ, num total de mais de 20 tópicos diferentes.
 
