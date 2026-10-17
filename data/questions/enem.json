@@ -82193,5 +82193,525 @@
       "institution": "INEP",
       "note": "ENEM 2010 – 2º dia, Azul"
     }
+  },
+  {
+    "id": "enem-2010-q76",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 76,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de Aedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem expressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.\n\nFU, G. et al. Female-specific flightless phenotype for mosquito control.\nPNAS 107 (10): 4550-4554, 2010.\n\nPrevê-se, porém, que a utilização dessa variedade de Aedes aegypti demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental. A liberação de machos de Aedes aegypti dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diminuiria o sucesso reprodutivo desses machos transgênicos."
+      },
+      {
+        "letter": "B",
+        "text": "restringiria a área geográfica de voo dessa espécie de mosquito."
+      },
+      {
+        "letter": "C",
+        "text": "dificultaria a contaminação e reprodução do vetor natural da doença."
+      },
+      {
+        "letter": "D",
+        "text": "tornaria o mosquito menos resistente ao agente etiológico da doença."
+      },
+      {
+        "letter": "E",
+        "text": "dificultaria a obtenção de alimentos pelos machos geneticamente modificados."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os machos geneticamente modificados cruzam com as fêmeas silvestres presentes na população da região. Como o gene letal/limitante é dominante, suas filhas herdarão esse gene e não conseguirão voar. Ao não voarem, essas fêmeas não conseguem acasalar, nem se alimentar de sangue (hematofagia necessária para a postura dos ovos), o que compromete drasticamente a reprodução do vetor silvestre e reduz sua população. Assim, dificulta-se a contaminação e reprodução do vetor natural da dengue, validando a alternativa C.\n\nA alternativa A está incorreta porque os machos continuam férteis e aptos a voar e copular, não havendo redução no sucesso reprodutivo inicial desses indivíduos.\nA alternativa B está incorreta porque o objetivo não é restringir a área de voo, mas sim inviabilizar o voo das fêmeas da geração descendente, reduzindo a densidade populacional.\nA alternativa D está incorreta porque a alteração afeta a musculatura de voo das fêmeas, não a imunidade do vetor ao vírus.\nA alternativa E está incorreta porque os mosquitos machos não se alimentam de sangue, mas sim de seiva/néctar vegetal, e eles voam normalmente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q77",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Química Orgânica"
+    ],
+    "statement": "No ano de 2004, diversas mortes de animais por envenenamento no zoológico de São Paulo foram evidenciadas. Estudos técnicos apontam suspeita de intoxicação por monofluoracetato de sódio, conhecido como composto 1080 e ilegalmente comercializado como raticida. O monofluoracetato de sódio é um derivado do ácido monofluoracético e age no organismo dos mamíferos bloqueando o ciclo de Krebs, que pode levar à parada da respiração celular oxidativa e ao acúmulo de amônia na circulação.\n\n[[FIG1]]\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 05 ago. 2010 (adaptado).\n\nO monofluoracetato de sódio pode ser obtido pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desidratação do ácido monofluoracético, com liberação de água."
+      },
+      {
+        "letter": "B",
+        "text": "hidrólise do ácido monofluoracético, sem formação de água."
+      },
+      {
+        "letter": "C",
+        "text": "perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio."
+      },
+      {
+        "letter": "D",
+        "text": "neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água."
+      },
+      {
+        "letter": "E",
+        "text": "substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q77-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O ácido monofluoracético (FCH₂COOH) é um ácido carboxílico e o monofluoracetato de sódio (FCH₂COONa) é o sal correspondente desse ácido. A reação de um ácido carboxílico com uma base forte, como o hidróxido de sódio (NaOH), é uma clássica reação de neutralização (ácido + base -> sal + água): FCH₂COOH + NaOH -> FCH₂COONa + H₂O. Portanto, ocorre a neutralização do ácido monofluoracético com hidróxido de sódio, com consequente liberação de água, o que torna a alternativa D correta.\n\nA alternativa A está incorreta porque a desidratação formaria um anidrido, e não um sal de sódio.\nA alternativa B está incorreta porque hidrólise não produz um sal de sódio e não há consumo de água para gerar o sal.\nA alternativa C está incorreta porque os ácidos carboxílicos perdem prótons H⁺, e não íons OH⁻, além de reagirem com NaOH em vez de liberá-lo.\nA alternativa E está incorreta porque a formação do sal a partir de NaOH gera água como subproduto da reação ácido-base.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q81",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 81,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Durante uma obra em um clube, um grupo de trabalhadores teve de remover uma escultura de ferro maciço colocada no fundo de uma piscina vazia. Cinco trabalhadores amarraram cordas à escultura e tentaram puxá-la para cima, sem sucesso.\n\nSe a piscina for preenchida com água, ficará mais fácil para os trabalhadores removerem a escultura, pois a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "escultura flutuará. Dessa forma, os homens não precisarão fazer força para remover a escultura do fundo."
+      },
+      {
+        "letter": "B",
+        "text": "escultura ficará com peso menor. Dessa forma, a intensidade da força necessária para elevar a escultura será menor."
+      },
+      {
+        "letter": "C",
+        "text": "água exercerá uma força na escultura proporcional a sua massa, e para cima. Esta força se somará à força que os trabalhadores fazem para anular a ação da força peso da escultura."
+      },
+      {
+        "letter": "D",
+        "text": "água exercerá uma força na escultura para baixo, e esta passará a receber uma força ascendente do piso da piscina. Esta força ajudará a anular a ação da força peso na escultura."
+      },
+      {
+        "letter": "E",
+        "text": "água exercerá uma força na escultura proporcional ao seu volume, e para cima. Esta força se somará à força que os trabalhadores fazem, podendo resultar em uma força ascendente maior que o peso da escultura."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "De acordo com o Princípio de Arquimedes, qualquer corpo total ou parcialmente submerso em um fluido sofre a ação de uma força vertical orientada para cima, denominada empuxo. O módulo do empuxo é igual ao peso do fluido deslocado: E = d_líquido * V_submerso * g. Logo, o empuxo depende do volume da escultura e atua para cima. Essa força exercida pela água soma-se à força aplicada pelos trabalhadores, reduzindo o esforço necessário para erguer o objeto do fundo. Assim, a alternativa E está perfeitamente correta.\n\nA alternativa A está incorreta porque uma escultura de ferro maciço tem densidade muito superior à da água e não flutuará sozinha.\nA alternativa B está incorreta porque o peso da escultura (massa vezes gravidade) é uma força constante que independe da presença de água; o que se reduz é o peso aparente.\nA alternativa C está incorreta porque o empuxo é proporcional ao volume da escultura (ou seja, à quantidade de fluido deslocado), e não à sua massa.\nA alternativa D está incorreta porque a força que o fluido exerce (empuxo) é orientada para cima, e não para baixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q82",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emissão de cádmio para a atmosfera durante a combustão é indicado que seja feita a reciclagem dos materiais dessas baterias.\nUma maneira de separar o cádmio dos demais compostos presentes na bateria é realizar o processo de lixiviação ácida. Nela, tanto os metais (Cd, Ni e eventualmente Co) como os hidróxidos de íons metálicos Cd(OH)₂(s), Ni(OH)₂(s) , Co(OH)₂(s) presentes na bateria, reagem com uma mistura ácida e são solubilizados. Em função da baixa seletividade (todos os íons metálicos são solubilizados), após a digestão ácida, é realizada uma etapa de extração dos metais com solventes orgânicos de acordo com a reação:\n\nM²⁺(aq) + 2 HR(org) ⇄ MR₂(org) + 2 H⁺(aq)\n\nOnde :\nM²⁺ = Cd²⁺, Ni²⁺ ou Co²⁺\nHR = C₁₆H₃₄—PO₂H : identificado no gráfico por X\nHR = C₁₂H₁₂—PO₂H : identificado no gráfico por Y\n\nO gráfico mostra resultado da extração utilizando os solventes orgânicos X e Y em diferentes pH.\n\n[[FIG1]]\nDisponível em: http://www.scielo.br. Acesso em 28 abr. 2010.\n\nA reação descrita no texto mostra o processo de extração dos metais por meio da reação com moléculas orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se afirmar que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H⁺ pelo cátion do metal."
+      },
+      {
+        "letter": "B",
+        "text": "as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H⁺ pelo cátion do metal."
+      },
+      {
+        "letter": "C",
+        "text": "as moléculas X e Y atuam como extratores catiônicos uma vez que a parte apolar da molécula troca o íon PO₂⁻ pelo cátion do metal."
+      },
+      {
+        "letter": "D",
+        "text": "as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO₂⁻ pelo cátion do metal."
+      },
+      {
+        "letter": "E",
+        "text": "as moléculas X e Y fazem ligações com os íons metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q82-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A equação do equilíbrio químico apresentada é:\nM²⁺(aq) + 2 HR(org) ⇄ MR₂(org) + 2 H⁺(aq)\nNesse processo, as moléculas orgânicas HR trocam os cátions H⁺ pelos cátions bivalentes do metal M²⁺. Por se ligarem e extraírem cátions metálicos da fase aquosa para a fase orgânica mediante a troca por hidrogênios ionizáveis, essas moléculas atuam funcionalmente como extratores catiônicos através do seu grupo polar com caráter ácido. Isso torna a alternativa A correta.\n\nA alternativa B está incorreta porque a troca envolve a atração de cátions metálicos, definindo um extrator catiônico, e não aniônico.\nA alternativa C está incorreta porque a troca iônica ocorre no grupo polar funcional ácido da molécula, e não na cauda carbônica apolar, sem troca do grupo fosfinato em si.\nA alternativa D está incorreta porque o sistema atua como trocador catiônico e o grupo fosfato/fosfinato permanece na estrutura do extrator.\nA alternativa E está incorreta porque a eficácia da extração seletiva decorre do equilíbrio químico em função do pH e da capacidade de troca do extrator, além de que a parte central da questão é a natureza do extrator.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q83",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 83,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Ao colocar um pouco de açúcar na água e mexer até a obtenção de uma só fase, prepara-se uma solução. O mesmo acontece ao se adicionar um pouquinho de sal à água e misturar bem. Uma substância capaz de dissolver o soluto é denominada solvente; por exemplo, a água é um solvente para o açúcar, para o sal e para várias outras substâncias. A figura a seguir ilustra essa citação.\n\n[[FIG1]]\nDisponível em: www.sobiologia.com.br. Acesso em: 27 abr. 2010.\n\nSuponha que uma pessoa, para adoçar seu cafezinho, tenha utilizado 3,42 g de sacarose (massa molar igual a 342 g/mol) para uma xícara de 50 mℓ do líquido. Qual é a concentração final, em mol/ℓ, de sacarose nesse cafezinho?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,02"
+      },
+      {
+        "letter": "B",
+        "text": "0,2"
+      },
+      {
+        "letter": "C",
+        "text": "2"
+      },
+      {
+        "letter": "D",
+        "text": "200"
+      },
+      {
+        "letter": "E",
+        "text": "2000"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q83-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para calcular a concentração molar, determinamos primeiro o número de mols de sacarose: n = massa / massa molar = 3,42 g / 342 g/mol = 0,01 mol. O volume da xícara é de 50 mL, o que corresponde a 50 / 1000 = 0,05 L. A concentração molar (C) é dada pela razão entre o número de mols de soluto e o volume da solução em litros: C = n / V = 0,01 mol / 0,05 L = 0,2 mol/L. Portanto, a concentração final de sacarose no cafezinho é de 0,2 mol/L, o que confirma a alternativa B.\n\nA alternativa A está incorreta pois 0,02 resultaria de uma divisão incorreta por um volume de 0,5 L.\nA alternativa C está incorreta pois o valor 2 mol/L representa um erro de uma ordem de grandeza no cálculo.\nAs alternativas D e E estão incorretas pois desconsideram a conversão correta de mL para L ou expressam concentrações muito acima do possível.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q84",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 84,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Um grupo de cientistas liderado por pesquisadores do Instituto de Tecnologia da Califórnia (Caltech), nos Estados Unidos, construiu o primeiro metamaterial que apresenta valor negativo do índice de refração relativo para a luz visível. Denomina-se metamaterial um material óptico artificial, tridimensional, formado por pequenas estruturas menores do que o comprimento de onda da luz, o que lhe dá propriedades e comportamentos que não são encontrados em materiais naturais. Esse material tem sido chamado de \"canhoto\".\n\nDisponível em: http://www.inovacaotecnologica.com.br. Acesso em: 28 abr. 2010 (adaptado).\n\nConsiderando o comportamento atípico desse metamaterial, qual é a figura que representa a refração da luz ao passar do ar para esse meio?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2010-q84-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2010-q84-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2010-q84-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2010-q84-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2010-q84-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q84-1.webp",
+      "FIG2": "data/figuras/enem-2010-q84-2.webp",
+      "FIG3": "data/figuras/enem-2010-q84-3.webp",
+      "FIG4": "data/figuras/enem-2010-q84-4.webp",
+      "FIG5": "data/figuras/enem-2010-q84-5.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Pela Lei de Snell-Descartes da refração, tem-se n₁ * sen(θ₁) = n₂ * sen(θ₂). Em materiais convencionais, ambos os índices de refração são positivos, de modo que o raio refratado passa para o lado oposto da linha normal no segundo meio. Contudo, em um metamaterial com índice de refração relativo negativo (n₂ < 0), o ângulo refratado adquire sinal oposto (sen(θ₂) < 0), fazendo com que o raio refratado permaneça no mesmo semiplano em relação à reta normal (comportamento dito \"canhoto\"), penetrando no meio mas inclinando-se para o mesmo lado em que a luz incidiu. A única figura que ilustra a refração ocorrendo do mesmo lado da normal é a FIG4 (alternativa D).\n\nA alternativa A mostra uma reflexão simples, não refração penetrando no segundo meio.\nA alternativa B mostra refração convencional sem desvio da normal.\nA alternativa C mostra uma refração comum, com o raio refratado no lado oposto à normal no segundo meio.\nA alternativa E mostra reflexão ou ausência de raio refratado no metamaterial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q85",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Decisão de asfaltamento da rodovia MG-010, acompanhada da introdução de espécies exóticas, e a prática de incêndios criminosos, ameaçam o sofisticado ecossistema do campo rupestre da reserva da Serra do Espinhaço. As plantas nativas desta região, altamente adaptadas a uma alta concentração de alumínio, que inibe o crescimento das raízes e dificultam a absorção de nutrientes e água, estão sendo substituídas por espécies invasoras que não teriam naturalmente adaptação para este ambiente, no entanto elas estão dominando as margens da rodovia, equivocadamente chamada de \"estrada ecológica\". Possivelmente a entrada de espécies de plantas exóticas neste ambiente foi provocada pelo uso, neste empreendimento, de um tipo de asfalto (cimento-solo), que possui uma mistura rica em cálcio, que causou modificações químicas aos solos adjacentes à rodovia MG-010.\n\nScientific American. Brasil. Ano 7, nº 79, 2008 (adaptado).\n\nEssa afirmação baseia-se no uso de cimento-solo, mistura rica em cálcio que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "inibe a toxicidade do alumínio, elevando o pH dessas áreas."
+      },
+      {
+        "letter": "B",
+        "text": "inibe a toxicidade do alumínio, reduzindo o pH dessas áreas."
+      },
+      {
+        "letter": "C",
+        "text": "aumenta a toxicidade do alumínio, elevando o pH dessas áreas."
+      },
+      {
+        "letter": "D",
+        "text": "aumenta a toxicidade do alumínio, reduzindo o pH dessas áreas."
+      },
+      {
+        "letter": "E",
+        "text": "neutraliza a toxicidade do alumínio, reduzindo o pH dessas áreas."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Em solos de campos rupestres e cerrados, o solo é naturalmente ácido e possui alta concentração de íons alumínio livres (Al³⁺), os quais são altamente tóxicos para espécies não adaptadas. A mistura de cimento-solo adicionada à rodovia é rica em compostos de cálcio com caráter básico (como CaO ou Ca(OH)₂), que promovem a calagem do solo adjacente. Ao aumentar a disponibilidade de cálcio e elevar o pH (tornando o meio menos ácido), o alumínio se precipita sob a forma insolúvel de hidróxido de alumínio [Al(OH)₃], inibindo a sua toxicidade e viabilizando o crescimento de plantas invasoras. Portanto, a alternativa A está correta.\n\nA alternativa B está incorreta porque a adição de compostos de cálcio eleva o pH, e não reduz.\nA alternativa C está incorreta porque a elevação do pH neutraliza e precipita o alumínio, diminuindo sua toxicidade.\nA alternativa D está incorreta porque a mistura rica em cálcio atua como base, não reduzindo o pH.\nA alternativa E está incorreta porque o pH das áreas adjacentes é aumentado pela alcalinidade da mistura.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q86",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Três dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos em tecidos cerebrais de gado morto são mostrados nas figuras a seguir. Uma vez identificado um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido.\n\n[[FIG1]]\nLegenda : PrPˢᶜ – proteínas do Príon\n\nScientific American. Brasil, ago. 2004 (adaptado).\n\nAnalisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Animal A, lâmina B e gel A."
+      },
+      {
+        "letter": "B",
+        "text": "Animal A, lâmina A e gel B."
+      },
+      {
+        "letter": "C",
+        "text": "Animal B, lâmina A e gel B."
+      },
+      {
+        "letter": "D",
+        "text": "Animal B, lâmina B e gel A."
+      },
+      {
+        "letter": "E",
+        "text": "Animal A, lâmina B e gel B."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q86-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No teste I (bioensaio), o animal de teste inoculado com a amostra que contém príons desenvolve a doença e morre; portanto, o resultado positivo para infecção é a morte do animal, representado pelo camundongo morto B (indicado com o 'X'). No teste II (imuno-histoquímica), o tecido é tratado com anticorpos específicos marcados contra o príon patogênico (PrPˢᶜ); na lâmina A, observam-se as marcações/manchas escuras resultantes do reconhecimento do anticorpo, evidenciando resultado positivo. No teste III (Western blot), as proteínas normais são degradadas pela protease, enquanto o príon patogênico é resistente à degradação e é detectado pelas bandas específicas no gel, representadas no gel B. Logo, a combinação positiva nos três testes é Animal B, lâmina A e gel B, correspondendo à alternativa C.\n\nA alternativa A está incorreta porque indica o animal A (que sobreviveu) e a lâmina B (sem reação).\nA alternativa B está incorreta porque indica o animal A como positivo.\nA alternativa D está incorreta porque indica a lâmina B e o gel A (sem bandas).\nA alternativa E está incorreta porque indica o animal A e a lâmina B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q87",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 87,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia",
+      "Botânica"
+    ],
+    "statement": "De 15% a 20% da área de um canavial precisa ser renovada anualmente. Entre o período de corte e o de plantação de novas canas, os produtores estão optando por plantar leguminosas, pois elas fixam nitrogênio no solo, um adubo natural para a cana. Essa opção de rotação é agronomicamente favorável, de forma que municípios canavieiros são hoje grandes produtores de soja, amendoim e feijão.\n\nAs encruzilhadas da fome. Planeta. São Paulo, ano 36, n°. 430, jul. 2008 (adaptado).\n\nA rotação de culturas citada no texto pode beneficiar economicamente os produtores de cana porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a decomposição da cobertura morta dessas culturas resulta em economia na aquisição de adubos industrializados."
+      },
+      {
+        "letter": "B",
+        "text": "o plantio de cana-de-açúcar propicia um solo mais adequado para o cultivo posterior da soja, do amendoim e do feijão."
+      },
+      {
+        "letter": "C",
+        "text": "as leguminosas absorvem do solo elementos químicos diferentes dos absorvidos pela cana, restabelecendo o equilíbrio do solo."
+      },
+      {
+        "letter": "D",
+        "text": "a queima dos restos vegetais do cultivo da cana-de-açúcar transforma-se em cinzas, sendo reincorporadas ao solo, o que gera economia na aquisição de adubo."
+      },
+      {
+        "letter": "E",
+        "text": "a soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados no mercado produtivo."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "As leguminosas (soja, amendoim e feijão) mantêm simbiose com bactérias fixadoras de nitrogênio (Rhizobium), capazes de fixar o nitrogênio atmosférico (N₂) no solo, fertilizando a terra naturalmente para o ciclo seguinte da cana-de-açúcar. Além dessa adubação verde, as leguminosas produzem grãos de alto valor comercial que podem ser colhidos e vendidos, gerando uma nova fonte de renda ao produtor durante o período de pousio da cana. Assim, a alternativa E explica o duplo benefício econômico e ecológico.\n\nA alternativa A está incorreta porque o texto foca primordialmente na fixação biológica e na comercialização desses grãos, e a biomassa morta em si não abrange o benefício direto de diversificação comercial destacado.\nA alternativa B está incorreta porque é o plantio de leguminosas que beneficia a cana, e não o oposto.\nA alternativa C está incorreta porque o mecanismo não é simplesmente absorver elementos diferentes, mas sim incorporar ativamente nitrogênio ao solo.\nA alternativa D está incorreta porque a queima da palha da cana acarreta perdas nutricionais e problemas ambientais, não sendo a razão do benefício da rotação com leguminosas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q88",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 88,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Diversos comportamentos e funções fisiológicas do nosso corpo são periódicos, sendo assim, são classificados como ritmo biológico. Quando o ritmo biológico responde a um período aproximado de 24 horas, ele é denominado ritmo circadiano. Esse ritmo diário é mantido pelas pistas ambientais de claro-escuro e determina comportamentos como o ciclo do sono-vigília e o da alimentação. Uma pessoa, em condições normais, acorda às 8 h e vai dormir às 21 h, mantendo seu ciclo de sono dentro do ritmo dia e noite. Imagine que essa mesma pessoa tenha sido mantida numa sala totalmente escura por mais de quinze dias. Ao sair de lá, ela dormia às 18 h e acordava às 3 h da manhã. Além disso, dormia mais vezes durante o dia, por curtos períodos de tempo, e havia perdido a noção da contagem dos dias, pois, quando saiu, achou que havia passado muito mais tempo no escuro.\n\nBRANDÃO, M. L. Psicofisiologia. São Paulo: Atheneu, 2000 (adaptado).\n\nEm função das características observadas, conclui-se que a pessoa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentou aumento do seu período de sono contínuo e passou a dormir durante o dia, pois seu ritmo biológico foi alterado apenas no período noturno."
+      },
+      {
+        "letter": "B",
+        "text": "apresentou pouca alteração do seu ritmo circadiano, sendo que sua noção de tempo foi alterada somente pela sua falta de atenção à passagem do tempo."
+      },
+      {
+        "letter": "C",
+        "text": "estava com seu ritmo já alterado antes de entrar na sala, o que significa que apenas progrediu para um estado mais avançado de perda do ritmo biológico no escuro."
+      },
+      {
+        "letter": "D",
+        "text": "teve seu ritmo biológico alterado devido à ausência de luz e de contato com o mundo externo, no qual a noção de tempo de um dia é modulada pela presença ou ausência do sol."
+      },
+      {
+        "letter": "E",
+        "text": "deveria não ter apresentado nenhuma mudança do seu período de sono porque, na realidade, continua com o seu ritmo normal, independentemente do ambiente em que seja colocada."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O ciclo circadiano humano tem periodicidade biológica intrínseca próxima a 24 horas, mas depende essencialmente de sincronizadores ambientais externos (zeitgebers), dos quais a luz solar natural é o principal estímulo para regular a secreção de melatonina e sincronizar o núcleo supraquiasmático. Na ausência de pistas de luminosidade e isolado do meio externo durante quinze dias, o ciclo entrou em ritmo livre (dessincronização), sofrendo alteração em relação aos horários convencionais do dia e da noite. Dessa forma, a conclusão correta é apresentada na alternativa D.\n\nA alternativa A está incorreta porque a pessoa passou a dormir em períodos fragmentados e seu sono contínuo não aumentou, tendo sido afetado como um todo.\nA alternativa B está incorreta porque a alteração do ciclo foi significativa e não decorreu de mera falta de atenção.\nA alternativa C está incorreta porque o indivíduo apresentava rotina normal antes do isolamento.\nA alternativa E está incorreta porque o ciclo vigília-sono é sensível e dependente da luminosidade do ambiente em que a pessoa se encontra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q89",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 89,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "Deseja-se instalar uma estação de geração de energia elétrica em um município localizado no interior de um pequeno vale cercado de altas montanhas de difícil acesso. A cidade é cruzada por um rio, que é fonte de água para consumo, irrigação das lavouras de subsistência e pesca. Na região, que possui pequena extensão territorial, a incidência solar é alta o ano todo. A estação em questão irá abastecer apenas o município apresentado.\n\nQual forma de obtenção de energia, entre as apresentadas, é a mais indicada para ser implantada nesse município de modo a causar o menor impacto ambiental?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Termelétrica, pois é possível utilizar a água do rio no sistema de refrigeração."
+      },
+      {
+        "letter": "B",
+        "text": "Eólica, pois a geografia do local é própria para a captação desse tipo de energia."
+      },
+      {
+        "letter": "C",
+        "text": "Nuclear, pois o modo de resfriamento de seus sistemas não afetaria a população."
+      },
+      {
+        "letter": "D",
+        "text": "Fotovoltaica, pois é possível aproveitar a energia solar que chega à superfície do local."
+      },
+      {
+        "letter": "E",
+        "text": "Hidrelétrica, pois o rio que corta o município é suficiente para abastecer a usina construída."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto destaca que o município está situado em um pequeno vale, possui pequena extensão territorial e apresenta alta incidência solar durante todo o ano, com demanda para atender apenas à própria comunidade local. A energia solar fotovoltaica é a mais indicada, pois aproveita a alta disponibilidade de radiação solar, pode ser instalada em pequenas áreas modulares (como telhados) e gera impacto ambiental mínimo, preservando a qualidade da água do rio que a população já utiliza para consumo, irrigação e pesca. Portanto, a alternativa D é a correta.\n\nA alternativa A está incorreta porque termelétricas poluem o ar com gases de efeito estufa e o uso da água para refrigeração altera termicamente o rio.\nA alternativa B está incorreta porque vales fechados por montanhas altas normalmente possuem ventos fracos e desfavoráveis à geração eólica.\nA alternativa C está incorreta porque a energia nuclear exige vultosos investimentos incompatíveis com um município pequeno e oferece riscos de contaminação térmica e radiológica.\nA alternativa E está incorreta porque uma hidrelétrica alagaria parte da pequena extensão territorial do vale e comprometeria os usos essenciais do rio (pesca e agricultura de subsistência).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q90",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "O lixão que recebia 130 toneladas de lixo e contaminava a região com o seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam.\n\nRevista Promoção da Saúde da Secretaria de Políticas de Saúde.\nAno 1, nº 4, dez. 2000 (adaptado).\n\nQuais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O lixo é recolhido e incinerado pela combustão a altas temperaturas."
+      },
+      {
+        "letter": "B",
+        "text": "O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem."
+      },
+      {
+        "letter": "C",
+        "text": "O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado."
+      },
+      {
+        "letter": "D",
+        "text": "O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume."
+      },
+      {
+        "letter": "E",
+        "text": "O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em um aterro sanitário, o solo é devidamente impermeabilizado com mantas sintéticas e argila para impedir a infiltração de substâncias poluentes no lençol freático. Os resíduos sólidos são compactados e recobertos diariamente com camadas de terra, e o chorume gerado pela decomposição anaeróbica da fração orgânica é drenado por tubulações e encaminhado para estações de tratamento específico para ser neutralizado antes de seu descarte, evitando a poluição dos recursos hídricos. Logo, a alternativa C está correta.\n\nA alternativa A está incorreta porque a queima em altas temperaturas é o procedimento de incineração, e não de aterro sanitário.\nA alternativa B está incorreta porque resíduos de saúde (hospitalares) requerem incineração, autoclavagem ou tratamento especializado antes de qualquer disposição final.\nA alternativa D está incorreta porque, no aterro comum, os resíduos são dispostos juntos em camadas e a formação de chorume ocorre inevitavelmente pela umidade e decomposição orgânica.\nA alternativa E está incorreta porque resíduos industriais perigosos possuem destinação em aterros industriais específicos de classe especial, não definindo a transição de um lixão comum para aterro sanitário.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
   }
 ]
