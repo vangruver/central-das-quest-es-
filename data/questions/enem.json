@@ -81512,5 +81512,686 @@
       "institution": "INEP",
       "note": "ENEM 2010 – 1º dia, 1-AZUL"
     }
+  },
+  {
+    "id": "enem-2010-q103",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 103,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Transtorno do comer compulsivo\n\nO transtorno do comer compulsivo vem sendo reconhecido, nos últimos anos, como uma síndrome caracterizada por episódios de ingestão exagerada e compulsiva de alimentos, porém, diferentemente da bulimia nervosa, essas pessoas não tentam evitar ganho de peso com os métodos compensatórios. Os episódios vêm acompanhados de uma sensação de falta de controle sobre o ato de comer, sentimentos de culpa e de vergonha.\n\nMuitas pessoas com essa síndrome são obesas, apresentando uma história de variação de peso, pois a comida é usada para lidar com problemas psicológicos. O transtorno do comer compulsivo é encontrado em cerca de 2% da população em geral, mais frequentemente acometendo mulheres entre 20 e 30 anos de idade. Pesquisas demonstram que 30% das pessoas que procuram tratamento para obesidade ou para perda de peso são portadoras de transtorno do comer compulsivo.\nDisponível em: http://www.abcdasaude.com.br. Acesso em: 1 maio 2009 (adaptado).\n\nConsiderando as ideias desenvolvidas pelo autor, conclui-se que o texto tem a finalidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "descrever e fornecer orientações sobre a síndrome da compulsão alimentícia."
+      },
+      {
+        "letter": "B",
+        "text": "narrar a vida das pessoas que têm o transtorno do comer compulsivo."
+      },
+      {
+        "letter": "C",
+        "text": "aconselhar as pessoas obesas a perder peso com métodos simples."
+      },
+      {
+        "letter": "D",
+        "text": "expor de forma geral o transtorno compulsivo por alimentação."
+      },
+      {
+        "letter": "E",
+        "text": "encaminhar as pessoas para a mudança de hábitos alimentícios."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto lido é predominantemente expositivo e informativo, pois apresenta as principais características, estatísticas e definições do transtorno do comer compulsivo de maneira objetiva e neutra. O autor busca esclarecer o público leitor sobre a natureza dessa síndrome alimentícia, diferindo-a da bulimia e indicando sua incidência na população. Por isso, a alternativa D está correta.\n\nA alternativa A está incorreta porque o texto não fornece orientações ou conselhos práticos de tratamento. A alternativa B é incorreta pois não se trata de uma narrativa da vida de indivíduos específicos. A alternativa C é falsa, visto que o texto não aconselha perda de peso nem propõe métodos. A alternativa E é incorreta, pois a intenção principal não é engajar o leitor em uma mudança comportamental.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q104",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 104,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "A gentileza é algo difícil de ser ensinado e vai muito além da palavra educação. Ela é difícil de ser encontrada, mas fácil de ser identificada, e acompanha pessoas generosas e desprendidas, que se interessam em contribuir para o bem do outro e da sociedade. É uma atitude desobrigada, que se manifesta nas situações cotidianas e das maneiras mais prosaicas.\nSIMURRO, S. A. B. Ser gentil é ser saudável. Disponível em: http://www.abqv.org.br.\nAcesso em: 22 jun. 2006 (adaptado).\n\nNo texto, menciona-se que a gentileza extrapola as regras de boa educação. A argumentação construída",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresenta fatos que estabelecem entre si relações de causa e de consequência."
+      },
+      {
+        "letter": "B",
+        "text": "descreve condições para a ocorrência de atitudes educadas."
+      },
+      {
+        "letter": "C",
+        "text": "indica a finalidade pela qual a gentileza pode ser praticada."
+      },
+      {
+        "letter": "D",
+        "text": "enumera fatos sucessivos em uma relação temporal."
+      },
+      {
+        "letter": "E",
+        "text": "mostra oposição e acrescenta ideias."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A estrutura argumentativa do texto constrói-se mediante conectivos que estabelecem relações lógicas de oposição e adição. O autor contrapõe traços da gentileza utilizando a conjuntiva adversativa \"mas\" em \"difícil de ser encontrada, mas fácil de ser identificada\", demonstrando oposição. Além disso, introduz novos atributos e complementos à ideia principal por meio da conjunção aditiva \"e\" em \"vai muito além da palavra educação\" e \"acompanha pessoas generosas\". Portanto, a alternativa E está correta.\n\nA alternativa A está incorreta porque o texto não estrutura uma relação de causa e efeito. A alternativa B está incorreta pois o foco é a definição e caracterização da gentileza, não as condições para ser educado. A alternativa C está incorreta porque o texto define a gentileza como desobrigada, sem uma finalidade pragmática. A alternativa D está incorreta pois não há ordenação cronológica de eventos no trecho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q105",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 105,
+    "day": 2,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "[[FIG1]]\nMONET,C. Mulher com sombrinha. 1875, 100x81cm.\nIn: BECKETT, W. História da Pintura. São Paulo: Ática, 1997.\n\nEm busca de maior naturalismo em suas obras e fundamentando-se em novo conceito estético, Monet, Degas, Renoir e outros artistas passaram a explorar novas formas de composição artística, que resultaram no estilo denominado Impressionismo. Observadores atentos da natureza, esses artistas passaram a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "retratar, em suas obras, as cores que idealizavam de acordo com o reflexo da luz solar nos objetos."
+      },
+      {
+        "letter": "B",
+        "text": "usar mais a cor preta, fazendo contornos nítidos, que melhor definiam as imagens e as cores do objeto representado."
+      },
+      {
+        "letter": "C",
+        "text": "retratar paisagens em diferentes horas do dia, recriando, em suas telas, as imagens por eles idealizadas."
+      },
+      {
+        "letter": "D",
+        "text": "usar pinceladas rápidas de cores puras e dissociadas diretamente na tela, sem misturá-las antes na paleta."
+      },
+      {
+        "letter": "E",
+        "text": "usar as sombras em tons de cinza e preto e com efeitos esfumaçados, tal como eram realizadas no Renascimento."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q105-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A obra Mulher com sombrinha, de Claude Monet, exemplifica o movimento Impressionista do final do século XIX. Os impressionistas revolucionaram a pintura ao sair dos ateliês para observar a iluminação natural ao ar livre, aplicando tintas puras em pinceladas rápidas e justapostas diretamente na tela, deixando que a mistura das cores ocorresse na retina do observador. Portanto, a alternativa D está correta.\n\nA alternativa A é incorreta porque eles não idealizavam cores, mas captavam a luz real. A alternativa B é incorreta pois o Impressionismo aboliu o uso do preto e de contornos nítidos. A alternativa C está errada porque os artistas buscavam registrar a luz momentânea real, e não imagens idealizadas. A alternativa E é incorreta, visto que o uso de sombras pretas e esfumaçadas renascentistas foi abandonado em favor de sombras coloridas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q106",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 106,
+    "day": 2,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "O folclore é o retrato da cultura de um povo. A dança popular e folclórica é uma forma de representar a cultura regional, pois retrata seus valores, crenças, trabalho e significados. Dançar a cultura de outras regiões é conhecê-la, é de alguma forma se apropriar dela, é enriquecer a própria cultura.\nBREGOLATO, R. A. Cultura Corporal da Dança. São Paulo: Ícone, 2007.\n\nAs manifestações folclóricas perpetuam uma tradição cultural, é obra de um povo que a cria, recria e a perpetua. Sob essa abordagem deixa-se de identificar como dança folclórica brasileira",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o Bumba-meu-boi, que é uma dança teatral onde personagens contam uma história envolvendo crítica social, morte e ressurreição."
+      },
+      {
+        "letter": "B",
+        "text": "a Quadrilha das festas juninas, que associam festejos religiosos a celebrações de origens pagãs envolvendo as colheitas e a fogueira."
+      },
+      {
+        "letter": "C",
+        "text": "o Congado, que é uma representação de um reinado africano onde se homenageia santos através de música, cantos e dança."
+      },
+      {
+        "letter": "D",
+        "text": "o Balé, em que se utilizam músicos, bailarinos e vários outros profissionais para contar uma história em forma de espetáculo."
+      },
+      {
+        "letter": "E",
+        "text": "o Carnaval, em que o samba derivado do batuque africano é utilizado com o objetivo de contar ou recriar uma história nos desfiles."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "As danças folclóricas brasileiras são manifestações populares tradicionais transmitidas entre gerações de forma espontânea e comunitária, expressando crenças e a identidade cultural regional, como o Bumba-meu-boi, a Quadrilha, o Congado e o Samba de Carnaval. O Balé, por outro lado, é uma dança de vertente erudita, acadêmica e técnica, com origem nas cortes europeias, não pertencendo ao folclore popular do Brasil. Dessa forma, a alternativa D é a resposta correta.\n\nAs alternativas A, B, C e E citam expressivas manifestações genuinamente folclóricas da cultura brasileira, estando incorretas como resposta ao comando que pede a exceção.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q107",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 107,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Semântica e Figuras de Linguagem",
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "Carnavália\n\nRepique tocou\nO surdo escutou\nE o meu corasamborim\nCuíca gemeu, será que era meu, quando ela passou por mim?\n[...]\nANTUNES, A.; BROWN, C.; MONTE, M. Tribalistas, 2002 (fragmento).\n\nNo terceiro verso, o vocábulo \"corasamborim\", que é a junção coração + samba + tamborim, refere-se, ao mesmo tempo, a elementos que compõem uma escola de samba e à situação emocional em que se encontra o autor da mensagem, com o coração no ritmo da percussão.\nEssa palavra corresponde a um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estrangeirismo, uso de elementos linguísticos originados em outras línguas e representativos de outras culturas."
+      },
+      {
+        "letter": "B",
+        "text": "neologismo, criação de novos itens linguísticos, pelos mecanismos que o sistema da língua disponibiliza."
+      },
+      {
+        "letter": "C",
+        "text": "gíria, que compõe uma linguagem originada em determinado grupo social e que pode vir a se disseminar em uma comunidade mais ampla."
+      },
+      {
+        "letter": "D",
+        "text": "regionalismo, por ser palavra característica de determinada área geográfica."
+      },
+      {
+        "letter": "E",
+        "text": "termo técnico, dado que designa elemento de área específica de atividade."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A palavra corasamborim é criada pela combinação de três palavras já existentes na língua portuguesa: coração, samba e tamborim. O processo de criação de novos termos vocabulares no sistema linguístico para atender a uma necessidade expressiva pontual do autor é denominado neologismo. Por essa razão, a alternativa B está correta.\n\nA alternativa A está incorreta porque não se trata de empréstimo de outro idioma. A alternativa C é incorreta pois não se trata de uma gíria restrita a um determinado grupo social. A alternativa D é incorreta porque o termo não pertence a um dialeto geográfico regional específico. A alternativa E está errada, visto que não se trata de um termo técnico profissional.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q108",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 108,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto I\n[[FIG1]]\nÉpoca. 12 out. 2009 (adaptado).\n\nTexto II\nCONEXÃO SEM FIO NO BRASIL\nOnde haverá cobertura de telefonia celular para baixar publicações para o Kindle\n[[FIG2]]\nÉpoca. 12 out. 2009.\n\nA capa da revista Época de 12 de outubro de 2009 traz um anúncio sobre o lançamento do livro digital no Brasil. Já o texto II traz informações referentes à abrangência de acessibilidade das tecnologias de comunicação e informação nas diferentes regiões do país. A partir da leitura dos dois textos, infere-se que o advento do livro digital no Brasil",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "possibilitará o acesso das diferentes regiões do país às informações antes restritas, uma vez que eliminará as distâncias, por meio da distribuição virtual."
+      },
+      {
+        "letter": "B",
+        "text": "criará a expectativa de viabilizar a democratização da leitura, porém, esbarra na insuficiência do acesso à internet por meio da telefonia celular, ainda deficiente no país."
+      },
+      {
+        "letter": "C",
+        "text": "fará com que os livros impressos tornem-se obsoletos, em razão da diminuição dos gastos com os produtos digitais gratuitamente distribuídos pela internet."
+      },
+      {
+        "letter": "D",
+        "text": "garantirá a democratização dos usos da tecnologia no país, levando em consideração as características de cada região no que se refere aos hábitos de leitura e acesso à informação."
+      },
+      {
+        "letter": "E",
+        "text": "impulsionará o crescimento da qualidade da leitura dos brasileiros, uma vez que as características do produto permitem que a leitura aconteça a despeito das adversidades geopolíticas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q108-1.webp",
+      "FIG2": "data/figuras/enem-2010-q108-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A análise conjunta da capa da revista (Texto I), que anuncia a chegada do leitor eletrônico como uma promessa de revolução na leitura, e do mapa de cobertura de telefonia celular (Texto II), que revela grande concentração no litoral e regiões Sul e Sudeste e vasta escassez no interior do país, permite concluir que o advento do livro digital enfrenta barreiras de infraestrutura. Assim, embora haja a expectativa de democratizar o acesso à leitura, essa possibilidade esbarra no déficit do acesso à internet móvel. A alternativa B está correta.\n\nA alternativa A é incorreta pois o mapa mostra desigualdade na distribuição do sinal. A alternativa C é incorreta porque o texto não afirma a gratuidade dos livros nem o fim do impresso. As alternativas D e E contradizem os dados do mapa sobre as disparidades regionais de acesso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q109",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 109,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "O Chat e sua linguagem virtual\n\nO significado da palavra chat vem do inglês e quer dizer \"conversa\". Essa conversa acontece em tempo real, e, para isso, é necessário que duas ou mais pessoas estejam conectadas ao mesmo tempo, o que chamamos de comunicação síncrona. São muitos os sites que oferecem a opção de bate-papo na internet, basta escolher a sala que deseja \"entrar\", identificar-se e iniciar a conversa. Geralmente, as salas são divididas por assuntos, como educação, cinema, esporte, música, sexo, entre outros. Para entrar, é necessário escolher um nick, uma espécie de apelido que identificará o participante durante a conversa. Algumas salas restringem a idade, mas não existe nenhum controle para verificar se a idade informada é realmente a idade de quem está acessando, facilitando que crianças e adolescentes acessem salas com conteúdos inadequados para sua faixa etária.\nAMARAL, S. F. Internet: novos valores e novos comportamentos. In: SILVA, E. T. (Coord.).\nA leitura nos oceanos da internet. São Paulo: Cortez, 2003. (adaptado).\n\nSegundo o texto, o chat proporciona a ocorrência de diálogos instantâneos com linguagem específica, uma vez que nesses ambientes interativos faz-se uso de protocolos diferenciados de interação. O chat, nessa perspectiva, cria uma nova forma de comunicação porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "possibilita que ocorra diálogo sem a exposição da identidade real dos indivíduos, que podem recorrer a apelidos fictícios sem comprometer o fluxo da comunicação em tempo real."
+      },
+      {
+        "letter": "B",
+        "text": "disponibiliza salas de bate-papo sobre diferentes assuntos com pessoas pré-selecionadas por meio de um sistema de busca monitorado e atualizado por autoridades no assunto."
+      },
+      {
+        "letter": "C",
+        "text": "seleciona previamente conteúdos adequados à faixa etária dos usuários que serão distribuídos nas faixas de idade organizadas pelo site que disponibiliza a ferramenta."
+      },
+      {
+        "letter": "D",
+        "text": "garante a gravação das conversas, o que possibilita que um diálogo permaneça aberto, independente da disposição de cada participante."
+      },
+      {
+        "letter": "E",
+        "text": "limita a quantidade de participantes conectados nas salas de bate-papo, a fim de garantir a qualidade e eficiência dos diálogos, evitando mal-entendidos."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto aborda a dinâmica de funcionamento dos chats ou salas de bate-papo, destacando que os usuários interagem em tempo real usando apelidos fictícios chamados nicks. Essa particularidade permite o diálogo síncrono e a troca de mensagens instantâneas sem a necessidade de revelação da real identidade dos participantes, configurando uma nova forma de comunicação interpessoal. Logo, a alternativa A é a correta.\n\nA alternativa B está incorreta porque não há pré-seleção por autoridades. A alternativa C está incorreta pois o texto ressalta a falta de controle eficaz sobre a faixa etária dos frequentadores. A alternativa D é errada porque a permanência da conversa não depende da gravação. A alternativa E é incorreta porque as salas não se caracterizam pelo limite rígido de usuários com essa finalidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q110",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 110,
+    "day": 2,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://algarveturistico.com/wp-content/uploads/2009/04/ptm-ginastica-ritmica-01.jpg. Acesso em: 01 set. 2010.\n\nO desenvolvimento das capacidades físicas (qualidades motoras passíveis de treinamento) ajuda na tomada de decisões em relação à melhor execução do movimento. A capacidade física predominante no movimento representado na imagem é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a velocidade, que permite ao músculo executar uma sucessão rápida de gestos em movimentação de intensidade máxima."
+      },
+      {
+        "letter": "B",
+        "text": "a resistência, que admite a realização de movimentos durante considerável período de tempo, sem perda da qualidade da execução."
+      },
+      {
+        "letter": "C",
+        "text": "a flexibilidade, que permite a amplitude máxima de um movimento, em uma ou mais articulações, sem causar lesões."
+      },
+      {
+        "letter": "D",
+        "text": "a agilidade, que possibilita a execução de movimentos rápidos e ligeiros com mudanças de direção."
+      },
+      {
+        "letter": "E",
+        "text": "o equilíbrio, que permite a realização dos mais variados movimentos, com o objetivo de sustentar o corpo sobre uma base."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q110-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A imagem mostra uma praticante de ginástica realizando uma extensão de perna e tronco em amplitude extrema, mantendo a articulação totalmente ampliada. A capacidade física que se refere à amplitude articular máxima do movimento humano, permitindo executar tais posições sem ocasionar lesões corporais, é a flexibilidade. Portanto, a alternativa C está correta.\n\nA alternativa A é incorreta porque a cena retrata amplitude articular e não deslocamento veloz. A alternativa B é incorreta pois não retrata sustentação prolongada sob fadiga ao longo do tempo. A alternativa D é errada, pois a agilidade exige trocas rápidas de direção. A alternativa E é incorreta porque, embora haja equilíbrio estático secundário, a qualidade motora predominante demonstrada na postura é a flexibilidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q111",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 111,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "Texto I\nSob o olhar do Twitter\n\nVivemos a era da exposição e do compartilhamento. Público e privado começam a se confundir. A ideia de privacidade vai mudar ou desaparecer.\nO trecho acima tem 140 caracteres exatos. É uma mensagem curta que tenta encapsular uma ideia complexa. Não é fácil esse tipo de síntese, mas dezenas de milhões de pessoas o praticam diariamente. No mundo todo, são disparados 2,4 trilhões de SMS por mês, e neles cabem 140 toques, ou pouco mais. Também é comum enviar e-mails, deixar recados no Orkut, falar com as pessoas pelo MSN, tagarelar no celular, receber chamados em qualquer parte, a qualquer hora. Estamos conectados. Superconectados, na verdade, de várias formas.\n[...] O mais recente exemplo de demanda por total conexão e de uma nova sintaxe social é o Twitter, o novo serviço de troca de mensagens pela internet. O Twitter pode ser entendido como uma mistura de blog e celular. As mensagens são de 140 toques, como os torpedos dos celulares, mas circulam pela internet como os textos de blogs. Em vez de seguir para apenas uma pessoa, como no celular ou no MSN, a mensagem do Twitter vai para todos os \"seguidores\" – gente que acompanha o emissor. Podem ser 30, 300 ou 409 mil seguidores.\nMARTINS, I.; LEAL, R. Época. 16 mar.2009 (fragmento adaptado).\n\nTexto II\n[[FIG1]]\nMARTINS, I.; LEAL, R. Época. 16 mar. 2009.\n\nDa comparação entre os textos, depreende-se que o texto II constitui um passo a passo para interferir no comportamento dos usuários, dirigindo-se diretamente aos leitores, e o texto I",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adverte os leitores de que a internet pode transformar-se em um problema porque expõe a vida dos usuários e, por isso, precisa ser investigada."
+      },
+      {
+        "letter": "B",
+        "text": "ensina aos leitores os procedimentos necessários para que as pessoas conheçam, em profundidade, os principais meios de comunicação da atualidade."
+      },
+      {
+        "letter": "C",
+        "text": "exemplifica e explica o novo serviço global de mensagens rápidas que desafia os hábitos de comunicação e reinventa o conceito de privacidade."
+      },
+      {
+        "letter": "D",
+        "text": "procura esclarecer os leitores a respeito dos perigos que o uso do Twitter pode representar nas relações de trabalho e também no plano pessoal."
+      },
+      {
+        "letter": "E",
+        "text": "apresenta uma enquete sobre as redes sociais mais usadas na atualidade e mostra que o Twitter é preferido entre a maioria dos internautas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q111-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Enquanto o Texto II fornece um conjunto prático de orientações diretas ao leitor (dicas de uso consciente), o Texto I é um artigo jornalístico expositivo e analítico. Nele, os autores explicam o funcionamento do Twitter como um novo meio global de comunicação rápida e discutem o modo como essa ferramenta afeta a vida social e redefine os limites entre o espaço público e o privado. Assim, a alternativa C está correta.\n\nA alternativa A é incorreta porque o foco não é pedir investigações policiais sobre a internet. A alternativa B está errada porque ensinar o passo a passo é a função do Texto II, não do Texto I. As alternativas D e E são incorretas pois o texto não aborda perigos trabalhistas específicos nem apresenta dados estatísticos de uma enquete.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q112",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 112,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "O dia em que o peixe saiu de graça\n\nUma operação do Ibama para combater a pesca ilegal na divisa entre os Estados do Pará, Maranhão e Tocantins incinerou 110 quilômetros de redes usadas por pescadores durante o período em que os peixes se reproduzem. Embora tenha um impacto temporário na atividade econômica da região, a medida visa preservá-la ao longo prazo, evitando o risco de extinção dos animais. Cerca de 15 toneladas de peixes foram apreendidas e doadas para instituições de caridade.\nÉpoca. 23 mar. 2009 (adaptado).\n\nA notícia, do ponto de vista de seus elementos constitutivos,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresenta argumentos contrários à pesca ilegal."
+      },
+      {
+        "letter": "B",
+        "text": "tem um título que resume o conteúdo do texto."
+      },
+      {
+        "letter": "C",
+        "text": "informa sobre uma ação, a finalidade que a motivou e o resultado dessa ação."
+      },
+      {
+        "letter": "D",
+        "text": "dirige-se aos órgãos governamentais dos estados envolvidos na referida operação do Ibama."
+      },
+      {
+        "letter": "E",
+        "text": "introduz um fato com a finalidade de incentivar movimentos sociais em defesa do meio ambiente."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto jornalístico relata a apreensão e destruição de redes ilegais de pesca realizada pelo Ibama. Em sua estrutura, a notícia informa o evento principal (a operação de combate à pesca ilegal), apresenta a finalidade da ação (preservar a fauna aquática a longo prazo contra a extinção) e indica os resultados obtidos (queima de redes e doação de 15 toneladas de peixes recolhidos). Dessa forma, a alternativa C é a correta.\n\nA alternativa A é incorreta porque o texto é uma notícia informativa e não um artigo de opinião fundamentado em tese. A alternativa B é incorreta pois o título utiliza recurso metafórico. A alternativa D é incorreta visto que o público-alvo é o leitor geral, não órgãos governamentais. A alternativa E é errada pois a intenção não é recrutar ativistas para movimentos sociais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q113",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 113,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Os filhos de Ana eram bons, uma coisa verdadeira e sumarenta. Cresciam, tomavam banho, exigiam para si, malcriados, instantes cada vez mais completos. A cozinha era enfim espaçosa, o fogão enguiçado dava estouros. O calor era forte no apartamento que estavam aos poucos pagando. Mas o vento batendo nas cortinas que ela mesma cortara lembrava-lhe que se quisesse podia parar e enxugar a testa, olhando o calmo horizonte. Como um lavrador. Ela plantara as sementes que tinha na mão, não outras, mas essas apenas.\nLISPECTOR, C. Laços de família. Rio de Janeiro: Rocco, 1998.\n\nA autora emprega por duas vezes o conectivo mas no fragmento apresentado. Observando aspectos da organização, estruturação e funcionalidade dos elementos que articulam o texto, o conectivo mas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "expressa o mesmo conteúdo nas duas situações em que aparece no texto."
+      },
+      {
+        "letter": "B",
+        "text": "quebra a fluidez do texto e prejudica a compreensão, se usado no início da frase."
+      },
+      {
+        "letter": "C",
+        "text": "ocupa posição fixa, sendo inadequado seu uso na abertura da frase."
+      },
+      {
+        "letter": "D",
+        "text": "contém uma ideia de sequência temporal que direciona a conclusão do leitor."
+      },
+      {
+        "letter": "E",
+        "text": "assume funções discursivas distintas nos dois contextos de uso."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No trecho de Clarice Lispector, a conjunção mas atua de maneiras distintas nas duas ocorrências. No primeiro emprego (\"Mas o vento batendo...\"), o termo conecta orações introduzindo uma oposição e uma ideia de alívio diante do calor sufocante e da rotina exaustiva descrita anteriormente. Já no segundo emprego (\"não outras, mas essas apenas\"), o conectivo atua com valor de retificação e restrição, equivalente a \"senão\" ou \"mas sim\". Assim, o termo assume funções discursivas e nuances de sentido diferentes a depender do contexto, justificando a alternativa E.\n\nA alternativa A é incorreta porque os dois usos não possuem exatamente a mesma função pragmática. A alternativa B é errada porque o uso inicial não prejudica a coesão. As alternativas C e D são falsas pois mas pode iniciar períodos e não expressa progressão temporal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q114",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 114,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "A Herança Cultural da Inquisição\n\nA Inquisição gerou uma série de comportamentos humanos defensivos na população da época, especialmente por ter perdurado na Espanha e em Portugal durante quase 300 anos, ou no mínimo quinze gerações.\nEmbora a Inquisição tenha terminado há mais de um século, a pergunta que fiz a vários sociólogos, historiadores e psicólogos era se alguns desses comportamentos culturais não poderiam ter-se perpetuado entre nós.\nNa maioria, as respostas foram negativas, ou seja, embora alterasse sem dúvida o comportamento da época, nenhum comportamento permanece tanto tempo depois, sem reforço ou estímulo continuado.\nNão sou psicólogo nem sociólogo para discordar, mas tenho a impressão de que existem alguns comportamentos estranhos na sociedade brasileira, e que fazem sentido se você os considerar resquícios da era da Inquisição. [...]\nKANITZ, S. A Herança Cultural da Inquisição. In: Revista Veja. Ano 38, nº 5, 2 fev. 2005 (fragmento).\n\nConsiderando-se o posicionamento do autor do fragmento a respeito de comportamentos humanos, o texto",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enfatiza a herança da Inquisição em comportamentos culturais observados em Portugal e na Espanha."
+      },
+      {
+        "letter": "B",
+        "text": "contesta sociólogos, psicólogos e historiadores sobre a manutenção de comportamentos gerados pela Inquisição."
+      },
+      {
+        "letter": "C",
+        "text": "contrapõe argumentos de historiadores e sociólogos a respeito de comportamentos culturais inquisidores."
+      },
+      {
+        "letter": "D",
+        "text": "relativiza comportamentos originados na Inquisição e observados na sociedade brasileira."
+      },
+      {
+        "letter": "E",
+        "text": "questiona a existência de comportamentos culturais brasileiros marcados pela herança da Inquisição."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No texto, o autor relata ter consultado historiadores, sociólogos e psicólogos sobre a permanência de traços da Inquisição na cultura atual, obtendo destes especialistas uma resposta negativa. Contudo, ao afirmar \"Não sou psicólogo nem sociólogo para discordar, mas tenho a impressão de que existem alguns comportamentos estranhos na sociedade brasileira...\", o autor manifesta discordância e contesta a tese dos especialistas, defendendo sua percepção de que esses hábitos persistem. Assim, a alternativa B está correta.\n\nAs alternativas A e D são incorretas porque o autor contraria os acadêmicos para afirmar que há heranças vivas no Brasil. A alternativa C é incorreta porque ele contrapõe sua própria visão à dos especialistas, e não argumentos de historiadores entre si. A alternativa E está errada porque o autor defende, e não questiona, a existência desses comportamentos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q115",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 115,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística",
+      "Interpretação de Texto"
+    ],
+    "statement": "Resta saber o que ficou das línguas indígenas no português do Brasil. Serafim da Silva Neto afirma: \"No português brasileiro não há, positivamente, influência das línguas africanas ou ameríndias\". Todavia, é difícil de aceitar que um longo período de bilinguismo de dois séculos não deixasse marcas no português do Brasil.\nELIA, S. Fundamentos Histórico-Linguísticos do Português do Brasil. Rio de Janeiro: Lucerna, 2003 (adaptado).\n\nNo final do século XVIII, no norte do Egito, foi descoberta a Pedra de Roseta, que continha um texto escrito em egípcio antigo, uma versão desse texto chamada \"demótico\", e o mesmo texto escrito em grego. Até então, a antiga escrita egípcia não estava decifrada. O inglês Thomas Young estudou o objeto e fez algumas descobertas como, por exemplo, a direção em que a leitura deveria ser feita. Mais tarde, o francês Jean-François Champollion voltou a estudá-la e conseguiu decifrar a antiga escrita egípcia a partir do grego, provando que, na verdade, o grego era a língua original do texto e que o egípcio era uma tradução.\n\nCom base na leitura dos textos conclui-se, sobre as línguas, que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cada língua é única e intraduzível."
+      },
+      {
+        "letter": "B",
+        "text": "elementos de uma língua são preservados, ainda que não haja mais falantes dessa língua."
+      },
+      {
+        "letter": "C",
+        "text": "a língua escrita de determinado grupo desaparece quando a sociedade que a produzia é extinta."
+      },
+      {
+        "letter": "D",
+        "text": "o egípcio antigo e o grego apresentam a mesma estrutura gramatical, assim como as línguas indígenas brasileiras e o português do Brasil."
+      },
+      {
+        "letter": "E",
+        "text": "o egípcio e o grego apresentavam letras e palavras similares, o que possibilitou a comparação linguística, o mesmo que aconteceu com as línguas indígenas brasileiras e o português do Brasil."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O Texto I discute como o bilinguismo e o contato entre o português e as línguas indígenas brasileiras deixaram traços duradouros no português do Brasil. O Texto II aborda a Pedra de Roseta, demonstrando que os registros de uma língua antiga (egípcio) puderam ser preservados e decifrados por meio do confronto com outra língua. Ambos os textos evidenciam que marcas e registros linguísticos se preservam historicamente mesmo após a mudança social ou o desaparecimento de seus falantes originais. Portanto, a alternativa B é a correta.\n\nA alternativa A é incorreta porque o Texto II mostra a viabilidade da tradução. A alternativa C é falsa pois a escrita egípcia permaneceu registrada. As alternativas D e E são incorretas por realizarem afirmações gramaticais e ortográficas que não são sustentadas pelos textos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q116",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 116,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Literatura"
+    ],
+    "statement": "[[FIG1]]\n\nJoaquim Maria Machado de Assis, cronista, contista, dramaturgo, jornalista, poeta, novelista, romancista, crítico e ensaísta, nasceu na cidade do Rio de Janeiro em 21 de junho de 1839. Filho de um operário mestiço de negro e português, Francisco José de Assis, e de D. Maria Leopoldina Machado de Assis, aquele que viria a tornar-se o maior escritor do país e um mestre da língua, perde a mãe muito cedo e é criado pela madrasta, Maria Inês, também mulata, que se dedica ao menino e o matricula na escola pública, única que frequentou o autodidata Machado de Assis.\nDisponível em: http://www.passeiweb.com. Acesso em: 1 maio 2009.\n\nConsiderando os seus conhecimentos sobre os gêneros textuais, o texto citado constitui-se de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fatos ficcionais, relacionados a outros de caráter realista, relativos à vida de um renomado escritor."
+      },
+      {
+        "letter": "B",
+        "text": "representações generalizadas acerca da vida de membros da sociedade por seus trabalhos e vida cotidiana."
+      },
+      {
+        "letter": "C",
+        "text": "explicações da vida de um renomado escritor, com estrutura argumentativa, destacando como tema seus principais feitos."
+      },
+      {
+        "letter": "D",
+        "text": "questões controversas e fatos diversos da vida de personalidade histórica, ressaltando sua intimidade familiar em detrimento de seus feitos públicos."
+      },
+      {
+        "letter": "E",
+        "text": "apresentação da vida de uma personalidade, organizada sobretudo pela ordem tipológica da narração, com um estilo marcado por linguagem objetiva."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q116-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto apresenta fatos reais sobre a trajetória pessoal e profissional de Machado de Assis, situando seu nascimento, origem familiar, formação autodidata e consagração literária. Trata-se de um fragmento biográfico organizado predominantemente sob a modalidade narrativa e redigido em linguagem denotativa e objetiva. Por essa razão, a alternativa E está correta.\n\nA alternativa A é incorreta porque o texto relata fatos históricos reais, sem ficcionalização. A alternativa B é errada pois se refere especificamente a uma personalidade histórica individualizada. A alternativa C está incorreta por não se tratar de texto de tipologia argumentativa. A alternativa D é falsa, visto que o texto não aborda controvérsias nem prioriza segredos íntimos em relação à vida pública do escritor.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q118",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 118,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura",
+      "Interpretação de Texto"
+    ],
+    "statement": "Texto I\nLogo depois transferiram para o trapiche o depósito dos objetos que o trabalho do dia lhes proporcionava. Estranhas coisas entraram então para o trapiche. Não mais estranhas, porém, que aqueles meninos, moleques de todas as cores e de idades as mais variadas, desde os nove aos dezesseis anos, que à noite se estendiam pelo assoalho e por debaixo da ponte e dormiam, indiferentes ao vento que circundava o casarão uivando, indiferentes à chuva que muitas vezes os lavava, mas com os olhos puxados para as luzes dos navios, com os ouvidos presos às canções que vinham das embarcações...\nAMADO, J. Capitães da Areia. São Paulo: Companhia das Letras, 2008 (fragmento).\n\nTexto II\nÀ margem esquerda do rio Belém, nos fundos do mercado de peixe, ergue-se o velho ingazeiro – ali os bêbados são felizes. Curitiba os considera animais sagrados, provê as suas necessidades de cachaça e pirão. No trivial contentavam-se com as sobras do mercado.\nTREVISAN, D. 35 noites de paixão: contos escolhidos. Rio de Janeiro: BestBolso, 2009 (fragmento).\n\nSob diferentes perspectivas, os fragmentos citados são exemplos de uma abordagem literária recorrente na literatura brasileira do século XX. Em ambos os textos,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a linguagem afetiva aproxima os narradores dos personagens marginalizados."
+      },
+      {
+        "letter": "B",
+        "text": "a ironia marca o distanciamento dos narradores em relação aos personagens."
+      },
+      {
+        "letter": "C",
+        "text": "o detalhamento do cotidiano dos personagens revela a sua origem social."
+      },
+      {
+        "letter": "D",
+        "text": "o espaço onde vivem os personagens é uma das marcas de sua exclusão."
+      },
+      {
+        "letter": "E",
+        "text": "a crítica à indiferença da sociedade pelos marginalizados é direta."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em ambos os textos, a caracterização espacial funciona como metáfora e representação direta da condição de marginalidade e desamparo dos sujeitos. No texto de Jorge Amado, os garotos habitam um trapiche abandonado e dormem debaixo da ponte, expostos às intempéries. No conto de Dalton Trevisan, os bêbados vivem à margem do rio e nos fundos do mercado de peixe, recolhendo sobras. Portanto, o espaço habitado pelos personagens é uma marca explícita de sua exclusão social, confirmando a alternativa D.\n\nA alternativa A é incorreta porque o texto II utiliza um tom irônico e distante, sem afeto. A alternativa B é incorreta pois a ironia não define o tom adotado por Jorge Amado em Capitães da Areia. A alternativa C está incorreta porque a ênfase dos trechos não recai sobre a descrição minuciosa do cotidiano para revelar origens, mas sobre o ambiente de vivência. A alternativa E é incorreta porque no texto II a crítica social se faz de modo irônico e indireto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
+  },
+  {
+    "id": "enem-2010-q119",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 119,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "A Internet que você faz\n\nUma pequena invenção, a Wikipédia, mudou o jeito de lidarmos com informações na rede. Trata-se de uma enciclopédia virtual colaborativa, que é feita e atualizada por qualquer internauta que tenha algo a contribuir. Em resumo: é como se você imprimisse uma nova página para a publicação desatualizada que encontrou na biblioteca.\nAntigamente, quando precisávamos de alguma informação confiável, tínhamos a enciclopédia como fonte segura de pesquisa para trabalhos, estudos e pesquisa em geral. Contudo, a novidade trazida pela Wikipédia nos coloca em uma nova circunstância, em que não podemos confiar integralmente no que lemos. Por ter como lema principal a escritura coletiva, seus textos trazem informações que podem ser editadas e reeditadas por pessoas do mundo inteiro. Ou seja, a relevância da informação não é determinada pela tradição cultural, como nas antigas enciclopédias, mas pela dinâmica da mídia.\nAssim, questiona-se a possibilidade de serem encontradas informações corretas entre sabotagens deliberadas e contribuições erradas.\nNÉO, A. et al. A Internet que você faz. In: Revista PENSE! Secretaria de Educação do Estado do Ceará. Ano 2, n°. 3, mar.-abr. 2010 (adaptado).\n\nAs novas Tecnologias de Informação e Comunicação, como a Wikipédia, têm trazido inovações que impactaram significativamente a sociedade. A respeito desse assunto, o texto apresentado mostra que a falta de confiança na veracidade dos conteúdos registrados na Wikipédia",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "acontece pelo fato de sua construção coletiva possibilitar a edição e reedição das informações por qualquer pessoa no mundo inteiro."
+      },
+      {
+        "letter": "B",
+        "text": "limita a disseminação do saber, apesar do crescente número de acessos ao site que a abriga, por falta de legitimidade"
+      },
+      {
+        "letter": "C",
+        "text": "ocorre pela facilidade de acesso à página, o que torna a informação vulnerável, ou seja, pela dinâmica da mídia."
+      },
+      {
+        "letter": "D",
+        "text": "ressalta a crescente busca das enciclopédias impressas para as pesquisas escolares."
+      },
+      {
+        "letter": "E",
+        "text": "revela o desconhecimento do usuário, impedindo-o de formar um juízo de valor sobre as informações."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto explicita que a desconfiança em relação aos conteúdos da Wikipédia decorre de sua própria estrutura colaborativa: ao ter a escrita coletiva como princípio, a plataforma permite que qualquer pessoa do mundo edite e reedite artigos, abrindo margem para equívocos e sabotagens. Dessa forma, a alternativa A traduz fielmente o argumento central do fragmento.\n\nA alternativa B é incorreta porque o texto não afirma que há limitação na disseminação do saber, ressaltando até que a enciclopédia mudou a dinâmica da rede. A alternativa C é incorreta pois reduz o problema apenas à facilidade de acesso à página em vez do modelo de autoria aberta e colaborativa. A alternativa D é incorreta porque o texto não menciona um aumento na procura por enciclopédias impressas nos dias de hoje. A alternativa E é incorreta, já que a questão tratada diz respeito à maleabilidade do conteúdo editável, e não a uma incapacidade intrínseca do leitor de julgar as informações.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 2º dia, Azul"
+    }
   }
 ]
