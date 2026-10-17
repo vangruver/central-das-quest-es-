@@ -80692,5 +80692,825 @@
       "institution": "INEP",
       "note": "ENEM 2011 – 1º dia, 1 AZUL"
     }
+  },
+  {
+    "id": "enem-2010-q56",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 56,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\nZIEGLER, M.F. Energia Sustentável. Revista IstoÉ. 28 abr. 2010.\n\nA fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pela circulação do magma no subsolo."
+      },
+      {
+        "letter": "B",
+        "text": "pelas erupções constantes dos vulcões."
+      },
+      {
+        "letter": "C",
+        "text": "pelo sol que aquece as águas com radiação ultravioleta."
+      },
+      {
+        "letter": "D",
+        "text": "pela queima do carvão e combustíveis fósseis."
+      },
+      {
+        "letter": "E",
+        "text": "pelos detritos e cinzas vulcânicas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q56-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A energia geotérmica representada no esquema aproveita o calor proveniente do interior da Terra, gerado pelas altas temperaturas e pela circulação do magma no subsolo em regiões tectonicamente ativas. Esse calor aquece a água subterrânea, transformando-a em vapor sob alta pressão, que é conduzido para movimentar turbinas e produzir eletricidade, tornando a alternativa A correta. A alternativa B está incorreta porque o sistema não depende de erupções vulcânicas diretas, as quais seriam destrutivas e imprevisíveis. A alternativa C é incorreta pois a fonte primária de aquecimento não é a radiação solar, mas o gradiente geotérmico. A alternativa D é incorreta já que a energia geotérmica não realiza queima de combustíveis fósseis. A alternativa E está incorreta porque o calor não provém de detritos ou cinzas, mas diretamente do magma profundo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q57",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio.\n\nUma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos."
+      },
+      {
+        "letter": "B",
+        "text": "Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios."
+      },
+      {
+        "letter": "C",
+        "text": "Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem o oxigênio."
+      },
+      {
+        "letter": "D",
+        "text": "Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes."
+      },
+      {
+        "letter": "E",
+        "text": "Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O processo de eutrofização decorre do aporte excessivo de matéria orgânica e nutrientes minerais, como nitrogênio e fósforo, que desencadeiam a proliferação acelerada de micro-organismos decompositores aeróbios, consumindo rapidamente o oxigênio dissolvido. A maneira mais eficaz de evitar a anóxia é o tratamento prévio dos efluentes com a remoção desses nutrientes antes do descarte nos corpos d'água, o que valida a alternativa B. A alternativa A está incorreta porque o aquecimento diminui a solubilidade do oxigênio na água e agrava a situação. A alternativa C é incorreta porque a adição de bactérias anaeróbicas não soluciona a escassez de oxigênio nem restaura a fauna aquática nativa. A alternativa D é incorreta pois produtos biodegradáveis continuam servindo de substrato para a proliferação bacteriana. A alternativa E é incorreta porque aumentar a solubilidade dos dejetos intensificaria o consumo de oxigênio pelos decompositores.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q58",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatura de 100 °C. Tendo por base essa informação, um garoto residente em uma cidade litorânea fez a seguinte experiência:\n\n• Colocou uma caneca metálica contendo água no fogareiro do fogão de sua casa.\n• Quando a água começou a ferver, encostou cuidadosamente a extremidade mais estreita de uma seringa de injeção, desprovida de agulha, na superfície do líquido e, erguendo o êmbolo da seringa, aspirou certa quantidade de água para seu interior, tapando-a em seguida.\n• Verificando após alguns instantes que a água da seringa havia parado de ferver, ele ergueu o êmbolo da seringa, constatando, intrigado, que a água voltou a ferver após um pequeno deslocamento do êmbolo.\n\nConsiderando o procedimento anterior, a água volta a ferver porque esse deslocamento",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "permite a entrada de calor do ambiente externo para o interior da seringa."
+      },
+      {
+        "letter": "B",
+        "text": "provoca, por atrito, um aquecimento da água contida na seringa."
+      },
+      {
+        "letter": "C",
+        "text": "produz um aumento de volume que aumenta o ponto de ebulição da água."
+      },
+      {
+        "letter": "D",
+        "text": "proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água."
+      },
+      {
+        "letter": "E",
+        "text": "possibilita uma diminuição da densidade da água que facilita sua ebulição."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O ponto de ebulição de um líquido depende diretamente da pressão externa exercida sobre sua superfície livre. Ao puxar o êmbolo da seringa tampada, o volume da câmara de ar interna aumenta, provocando uma redução na pressão interna. Com a diminuição da pressão, a temperatura necessária para que a pressão de vapor da água iguale a pressão ambiente diminui, permitindo que a água ferva a uma temperatura inferior a 100 °C, o que valida a alternativa D. A alternativa A está errada porque o corpo da seringa não permite ganho rápido de calor do ambiente e o fenômeno ocorre pela variação de pressão. A alternativa B é incorreta pois o atrito do êmbolo não fornece calor suficiente para ferver o líquido. A alternativa C está incorreta porque a diminuição da pressão reduz o ponto de ebulição, em vez de aumentá-lo. A alternativa E é incorreta porque a densidade praticamente não varia a ponto de induzir a ebulição.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q59",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "As cidades industrializadas produzem grandes proporções de gases como o CO₂, o principal gás causador do efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por \"ilhas de calor\". Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica.\n\nEm áreas urbanas, devido à atuação conjunta do efeito estufa e das \"ilhas de calor\", espera-se que o consumo de energia elétrica",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diminua devido à utilização de caldeiras por indústrias metalúrgicas."
+      },
+      {
+        "letter": "B",
+        "text": "aumente devido ao bloqueio da luz do sol pelos gases do efeito estufa."
+      },
+      {
+        "letter": "C",
+        "text": "diminua devido à não necessidade de aquecer a água utilizada em indústrias."
+      },
+      {
+        "letter": "D",
+        "text": "aumente devido à necessidade de maior refrigeração de indústrias e residências."
+      },
+      {
+        "letter": "E",
+        "text": "diminua devido à grande quantidade de radiação térmica reutilizada."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A combinação do aprisionamento de radiação pelo efeito estufa com a absorção e retenção térmica das superfícies asfaltadas e concretadas cria o fenômeno das ilhas de calor, elevando significativamente a temperatura das regiões urbanas. Como resposta fisiológica e operacional ao desconforto térmico, a população e as empresas aumentam substancialmente o uso de aparelhos de climatização e refrigeração, o que acarreta maior consumo de energia elétrica, tornando correta a alternativa D. A alternativa A é incorreta porque as caldeiras industriais consomem principalmente combustível térmico, não diminuindo a eletricidade. A alternativa B é incorreta pois os gases de efeito estufa não bloqueiam a luz visível solar a ponto de exigir iluminação artificial constante diurna. A alternativa C é incorreta porque a demanda residencial por refrigeração é ampliada, e não há dispensa de aquecimento industrial. A alternativa E é incorreta porque a radiação térmica dispersa no ambiente não pode ser diretamente reutilizada para gerar energia elétrica útil.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q60",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica"
+    ],
+    "statement": "A lavoura arrozeira na planície costeira da região sul do Brasil comumente sofre perdas elevadas devido à salinização da água de irrigação, que ocasiona prejuízos diretos, como a redução de produção da lavoura. Solos com processo de salinização avançado não são indicados, por exemplo, para o cultivo de arroz. As plantas retiram a água do solo quando as forças de embebição dos tecidos das raízes são superiores às forças com que a água é retida no solo.\n\nWINKEL, H.L.;TSCHIEDEL, M. Cultura do arroz: salinização de solos em cultivos de arroz.\nDisponível em: http://agropage.tripod.com/saliniza.hml. Acesso em: 25 jun. 2010 (adaptado).\n\nA presença de sais na solução do solo faz com que seja dificultada a absorção de água pelas plantas, o que provoca o fenômeno conhecido por seca fisiológica, caracterizado pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida."
+      },
+      {
+        "letter": "B",
+        "text": "aumento da salinidade, em que o solo atinge um nível muito baixo de água, e as plantas não têm força de sucção para absorver a água."
+      },
+      {
+        "letter": "C",
+        "text": "diminuição da salinidade, que atinge um nível em que as plantas não têm força de sucção, fazendo com que a água não seja absorvida."
+      },
+      {
+        "letter": "D",
+        "text": "aumento da salinidade, que atinge um nível em que as plantas têm muita sudação, não tendo força de sucção para superá-la."
+      },
+      {
+        "letter": "E",
+        "text": "diminuição da salinidade, que atinge um nível em que as plantas ficam túrgidas e não têm força de sudação para superá-la."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A absorção de água pelas raízes ocorre fundamentalmente por osmose, processo no qual a água se desloca do meio hipotônico para o hipertônico. Com o aumento da salinidade no solo, a concentração de solutos na solução do solo torna-se superior à do interior das células da raiz, reduzindo ou até invertendo o gradiente osmótico. Nessas condições, as raízes não conseguem retirar água do ambiente, configurando a seca fisiológica, o que torna a alternativa A correta. A alternativa B está incorreta porque a seca fisiológica ocorre mesmo com água presente em abundância no solo. As alternativas C e E estão erradas ao sugerirem diminuição da salinidade, quando o texto relata salinização avançada. A alternativa D é incorreta porque a sudação (ou gutação) não impede a sucção radicular, tratando-se de eliminação de água líquida em condições de alta umidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q61",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "No ano de 2000, um vazamento em dutos de óleo na baía de Guanabara (RJ) causou um dos maiores acidentes ambientais do Brasil. Além de afetar a fauna e a flora, o acidente abalou o equilíbrio da cadeia alimentar de toda a baía. O petróleo forma uma película na superfície da água, o que prejudica as trocas gasosas da atmosfera com a água e desfavorece a realização de fotossíntese pelas algas, que estão na base da cadeia alimentar hídrica. Além disso, o derramamento de óleo contribuiu para o envenenamento das árvores e, consequentemente, para a intoxicação da fauna e flora aquáticas, bem como conduziu à morte diversas espécies de animais, entre outras formas de vida, afetando também a atividade pesqueira.\n\nLAUBIER, L. Diversidade da Maré Negra. In: Scientific American Brasil. 4(39), ago. 2005 (adaptado).\n\nA situação exposta no texto e suas implicações",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indicam a independência da espécie humana com relação ao ambiente marinho."
+      },
+      {
+        "letter": "B",
+        "text": "alertam para a necessidade do controle da poluição ambiental para redução do efeito estufa."
+      },
+      {
+        "letter": "C",
+        "text": "ilustram a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat."
+      },
+      {
+        "letter": "D",
+        "text": "indicam a alta resistência do meio ambiente à ação do homem, além de evidenciar a sua sustentabilidade mesmo em condições extremas de poluição."
+      },
+      {
+        "letter": "E",
+        "text": "evidenciam a grande capacidade animal de se adaptar às mudanças ambientais, em contraste com a baixa capacidade das espécies vegetais, que estão na base da cadeia alimentar hídrica."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O derramamento de petróleo desencadeou uma reação em cadeia em todo o ecossistema da baía de Guanabara, pois a película na superfície bloqueou a fotossíntese do fitoplâncton, afetando toda a teia trófica aquática, os manguezais e até a atividade econômica humana pesqueira. Esse evento evidencia a profunda interdependência entre os componentes bióticos e abióticos de um bioma, justificando a alternativa C. A alternativa A é incorreta porque a espécie humana depende diretamente dos recursos marinhos, como comprovado pelos pescadores prejudicados. A alternativa B está incorreta porque o foco central do problema é a contaminação aquática e perda de biodiversidade, e não a emissão de gases estufa. A alternativa D é incorreta pois o meio ambiente sofreu colapso e graves danos com a poluição. A alternativa E é incorreta ao afirmar que animais têm maior capacidade de adaptação que vegetais diante do envenenamento químico direto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q62",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento:\nColocou 200 mℓ de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 mℓ, enquanto pelo papel dobrado foi de 12 mℓ.\n\n[[FIG1]]\n\nCom base nos dados obtidos, infere-se que a função das microvilosidades intestinais com relação à absorção de nutrientes pelas células das paredes internas do intestino é a de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "manter o volume de absorção."
+      },
+      {
+        "letter": "B",
+        "text": "aumentar a superfície de absorção."
+      },
+      {
+        "letter": "C",
+        "text": "diminuir a velocidade de absorção."
+      },
+      {
+        "letter": "D",
+        "text": "aumentar o tempo de absorção."
+      },
+      {
+        "letter": "E",
+        "text": "manter a seletividade na absorção."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q62-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O experimento demonstra que o papel pregueado, ocupando o mesmo comprimento linear que o papel liso, possui uma área superficial de contato muito maior, permitindo absorver 12 mL de água em vez de 8 mL. Da mesma forma, as microvilosidades do epitélio intestinal multiplicam exponencialmente a área de superfície de absorção sem necessitar do aumento exagerado do volume ou comprimento do órgão, facilitando o transporte de nutrientes, o que valida a alternativa B. A alternativa A está incorreta porque as vilosidades aumentam a capacidade total absorvida. A alternativa C é incorreta pois o aumento de área aumenta, e não diminui, a taxa de absorção por unidade de tempo. A alternativa D é incorreta visto que o objetivo não é tornar o processo mais lento. A alternativa E está incorreta porque o papel pregueado modela apenas o efeito físico da área superficial, não as propriedades de seletividade membranar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q63",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Ambiental"
+    ],
+    "statement": "O crescimento da produção de energia elétrica ao longo do tempo tem influenciado decisivamente o progresso da humanidade, mas também tem criado uma séria preocupação: o prejuízo ao meio ambiente. Nos próximos anos, uma nova tecnologia de geração de energia elétrica deverá ganhar espaço: as células a combustível hidrogênio/oxigênio.\n\n[[FIG1]]\n\nVILLULLAS, H. M; TICIANELLI, E. A; GONZÁLEZ, E. R. Química Nova Na Escola. N°15, maio 2002.\n\nCom base no texto e na figura, a produção de energia elétrica por meio da célula a combustível hidrogênio/oxigênio diferencia-se dos processos convencionais porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água."
+      },
+      {
+        "letter": "B",
+        "text": "converte a energia química contida nas moléculas dos componentes em energia térmica, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente."
+      },
+      {
+        "letter": "C",
+        "text": "transforma energia química em energia elétrica, porém emite gases poluentes da mesma forma que a produção de energia a partir dos combustíveis fósseis."
+      },
+      {
+        "letter": "D",
+        "text": "converte energia elétrica proveniente dos combustíveis fósseis em energia química, retendo os gases poluentes produzidos no processo sem alterar a qualidade do meio ambiente."
+      },
+      {
+        "letter": "E",
+        "text": "converte a energia potencial acumulada nas moléculas de água contidas no sistema em energia química, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q63-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As células a combustível hidrogênio/oxigênio são dispositivos eletroquímicos que convertem diretamente a energia química da reação redox entre o gás hidrogênio e o gás oxigênio em energia elétrica. Como a reação global é 2 H2 + O2 -> 2 H2O, o único produto químico resultante é a água líquida ou vapor, dispensando emissão de dióxido de carbono, óxidos de enxofre ou material particulado, o que torna a alternativa A correta. A alternativa B é incorreta porque o objetivo primário da célula é produzir eletricidade, não calor. A alternativa C está incorreta porque a célula a combustível não emite poluentes típicos de combustíveis fósseis. A alternativa D é incorreta pois a conversão vai de energia química para elétrica, sem uso de combustíveis fósseis no dispositivo. A alternativa E é incorreta visto que a água é o produto final gerado, e não o reagente de partida estocador de energia potencial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q64",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos.\n\nSuponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamarck. Ao adotar esse ponto de vista, ele diria que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as características citadas no texto foram originadas pela seleção natural."
+      },
+      {
+        "letter": "B",
+        "text": "a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso."
+      },
+      {
+        "letter": "C",
+        "text": "o corpo anelado é uma característica fortemente adaptativa, mas seria transmitida apenas à primeira geração de descendentes."
+      },
+      {
+        "letter": "D",
+        "text": "as patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes."
+      },
+      {
+        "letter": "E",
+        "text": "as características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A teoria proposta por Jean-Baptiste Lamarck baseava-se em dois princípios fundamentais: a lei do uso e desuso e a herança dos caracteres adquiridos. Sob essa óptica, o não uso contínuo de uma estrutura anatômica em determinado ambiente, como os olhos em ambientes subterrâneos totalmente escuros, levaria à sua atrofia e posterior desaparecimento, sendo essa condição transmitida aos descendentes, o que valida a alternativa B. A alternativa A está incorreta porque seleção natural é o mecanismo central da teoria de Charles Darwin. A alternativa C é incorreta porque Lamarck propunha a transmissão cumulativa ao longo de todas as gerações futuras. A alternativa D está incorreta pelo anacronismo conceitual, visto que Lamarck desconhecia a existência de genes ou patrimônio genético. A alternativa E é incorreta pois mutações e seleção natural pertencem à teoria sintética da evolução (Neodarwinismo).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q65",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Físico-Química"
+    ],
+    "statement": "As misturas efervescentes, em pó ou em comprimidos, são comuns para a administração de vitamina C ou de medicamentos para azia. Essa forma farmacêutica sólida foi desenvolvida para facilitar o transporte, aumentar a estabilidade de substâncias e, quando em solução, acelerar a absorção do fármaco pelo organismo.\nAs matérias-primas que atuam na efervescência são, em geral, o ácido tartárico ou o ácido cítrico que reagem com um sal de caráter básico, como o bicarbonato de sódio (NaHCO₃), quando em contato com a água. A partir do contato da mistura efervescente com a água, ocorre uma série de reações químicas simultâneas: liberação de íons, formação de ácido e liberação do gás carbônico — gerando a efervescência.\n\nAs equações a seguir representam as etapas da reação da mistura efervescente na água, em que foram omitidos os estados de agregação dos reagentes, e H₃A representa o ácido cítrico.\n\n[[FIG1]]\n\nA ionização, a dissociação iônica, a formação do ácido e a liberação do gás ocorrem, respectivamente, nas seguintes etapas:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "IV, I, II e III"
+      },
+      {
+        "letter": "B",
+        "text": "I, IV, III e II"
+      },
+      {
+        "letter": "C",
+        "text": "IV, III, I e II"
+      },
+      {
+        "letter": "D",
+        "text": "I, IV, II e III"
+      },
+      {
+        "letter": "E",
+        "text": "IV, I, III e II"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q65-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Analisando cada reação apresentada: em IV, o ácido cítrico (H3A) doa prótons sofrendo ionização; em I, o sal bicarbonato de sódio (NaHCO3) dissocia-se em seus íons constitutivos (dissociação iônica); em III, os íons hidrogenocarbonato ligam-se aos íons H+ formando o ácido carbônico (formação do ácido); e em II, o ácido carbônico se decompõe liberando água e gás carbônico na forma gasosa (liberação do gás). A sequência requerida (ionização, dissociação iônica, formação do ácido e liberação do gás) é, portanto, IV, I, III e II, tornando correta a alternativa E. As alternativas A, B, C e D invertem etapas essenciais do processo químico, como posicionar a dissociação iônica do sal antes da ionização ácida ou confundir a decomposição gasosa com a formação do ácido instável.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q66",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Ecologia"
+    ],
+    "statement": "Um ambiente capaz de asfixiar todos os animais conhecidos do planeta foi colonizado por pelo menos três espécies diferentes de invertebrados marinhos. Descobertos a mais de 3 000 m de profundidade no Mediterrâneo, eles são os primeiros membros do reino animal a prosperar mesmo diante da ausência total de oxigênio. Até agora, achava-se que só bactérias pudessem ter esse estilo de vida. Não admira que os bichos pertençam a um grupo pouco conhecido, o dos loricíferos, que mal chegam a 1,0 mm. Apesar do tamanho, possuem cabeça, boca, sistema digestivo e uma carapaça. A adaptação dos bichos à vida no sufoco é tão profunda que suas células dispensaram as chamadas mitocôndrias.\n\nLOPES, R. J. Italianos descobrem animal que vive em água sem oxigênio. Disponível em: http://www1.folha.uol.com.br. Acesso em: 10 abr. 2010 (adaptado).\n\nQue substâncias poderiam ter a mesma função do O₂ na respiração celular realizada pelos loricíferos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "S e CH₄"
+      },
+      {
+        "letter": "B",
+        "text": "S e NO₃⁻"
+      },
+      {
+        "letter": "C",
+        "text": "H₂ e NO₃⁻"
+      },
+      {
+        "letter": "D",
+        "text": "CO₂ e CH₄"
+      },
+      {
+        "letter": "E",
+        "text": "H₂ e CO₂"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na respiração celular aeróbia, o gás oxigênio atua como aceptor final de elétrons na cadeia respiratória, sendo reduzido a água. Em ambientes anóxicos, seres com respiração anaeróbia precisam utilizar espécies químicas oxidadas capazes de receber elétrons (atuando como agentes oxidantes). Tanto o enxofre elementar (S) quanto o íon nitrato (NO3-) possuem estados de oxidação que lhes permitem atuar como aceptores terminais de elétrons, sendo reduzidos a sulfeto (H2S) e nitrogênio molecular (N2) ou amônia, respectivamente, o que valida a alternativa B. As alternativas A e D contêm o metano (CH4), que é uma molécula em seu estado mais reduzido de carbono, incapaz de aceitar elétrons. As alternativas C e E contêm o hidrogênio molecular (H2), que é um doador de elétrons (agente redutor) e não pode substituir a função aceptora do O2.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q67",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado da superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para uso posterior.\n\nBROWN, T. Química a Ciência Central. São Paulo: Pearson Prentice Hall, 2005.\n\nAtualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH₄(g) + H₂O(v) + calor ⇄ CO(g) + 3 H₂(g) e analisando-a como potencial mecanismo para o aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente."
+      },
+      {
+        "letter": "B",
+        "text": "insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle."
+      },
+      {
+        "letter": "C",
+        "text": "insatisfatória, uma vez que há formação de gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente."
+      },
+      {
+        "letter": "D",
+        "text": "satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil."
+      },
+      {
+        "letter": "E",
+        "text": "satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A equação química fornecida apresenta o calor como reagente, o que caracteriza uma reação direta endotérmica. Ao incidir a radiação solar concentrada, o sistema absorve essa energia e a armazena nas ligações químicas dos produtos monóxido de carbono (CO) e gás hidrogênio (H2), conhecidos conjuntamente como gás de síntese. Posteriormente, quando houver demanda energética, essa mistura de combustíveis pode sofrer combustão exotérmica para liberação de calor e realização de trabalho mecânico ou elétrico. Logo, a estratégia é altamente satisfatória, confirmando a alternativa D. As alternativas A, B e C estão incorretas porque a reação é de fato viável e satisfatória como vetor de armazenamento químico, além de o CO conter expressivo poder calorífico. A alternativa E erra ao classificar a reação direta como liberadora de calor, quando ela é endotérmica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q68",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 68,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "A energia elétrica consumida nas residências é medida, em quilowatt-hora, por meio de um relógio medidor de consumo. Nesse relógio, da direita para esquerda, tem-se o ponteiro da unidade, da dezena, da centena e do milhar. Se um ponteiro estiver entre dois números, considera-se o último número ultrapassado pelo ponteiro. Suponha que as medidas indicadas nos esquemas seguintes tenham sido feitas em uma cidade em que o preço do quilowatt-hora fosse de R$ 0,20.\n\n[[FIG1]]\n\nFILHO, A.G.; BAROLLI, E. Instalação Elétrica. São Paulo: Scipione, 1997.\n\nO valor a ser pago pelo consumo de energia elétrica registrado seria de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "R$ 41,80."
+      },
+      {
+        "letter": "B",
+        "text": "R$ 42,00."
+      },
+      {
+        "letter": "C",
+        "text": "R$ 43,00."
+      },
+      {
+        "letter": "D",
+        "text": "R$ 43,80."
+      },
+      {
+        "letter": "E",
+        "text": "R$ 44,00."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q68-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para determinar a leitura do medidor, analisa-se cada ponteiro da esquerda para a direita (milhar, centena, dezena, unidade), adotando o último algarismo ultrapassado. Na leitura atual, temos: milhar em 2, centena em 7, dezena em 8 e unidade em 3, totalizando 2.783 kWh. Na leitura do mês passado, temos: milhar em 2, centena em 5, dezena em 6 e unidade em 3, totalizando 2.563 kWh. O consumo medido no período foi a diferença entre as duas leituras: 2.783 - 2.563 = 220 kWh. Multiplicando pelo preço unitário de R$ 0,20 por kWh, obtém-se 220 * 0,20 = R$ 44,00, tornando a alternativa E correta. As alternativas A (R$ 41,80), B (R$ 42,00), C (R$ 43,00) e D (R$ 43,80) decorrem de erros na identificação do sentido de rotação alternado dos relógios ou de equívoco na leitura dos dígitos das centenas e dezenas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q69",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "No que tange à tecnologia de combustíveis alternativos, muitos especialistas em energia acreditam que os alcoóis vão crescer em importância em um futuro próximo. Realmente, alcoóis como metanol e etanol têm encontrado alguns nichos para uso doméstico como combustíveis há muitas décadas e, recentemente, vêm obtendo uma aceitação cada vez maior como aditivos, ou mesmo como substitutos para gasolina em veículos. Algumas das propriedades físicas desses combustíveis são mostradas no quadro seguinte.\n\n[[FIG1]]\n\nBAIRD, C. Química Ambiental. São Paulo: Artmed, 1995 (adaptado).\n\nDados: Massas molares em g/mol: H = 1,0; C = 12,0; O = 16,0.\n\nConsidere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "metanol, pois sua combustão completa fornece aproximadamente 22,7 kJ de energia por litro de combustível queimado."
+      },
+      {
+        "letter": "B",
+        "text": "etanol, pois sua combustão completa fornece aproximadamente 29,7 kJ de energia por litro de combustível queimado."
+      },
+      {
+        "letter": "C",
+        "text": "metanol, pois sua combustão completa fornece aproximadamente 17,9 MJ de energia por litro de combustível queimado."
+      },
+      {
+        "letter": "D",
+        "text": "etanol, pois sua combustão completa fornece aproximadamente 23,5 MJ de energia por litro de combustível queimado."
+      },
+      {
+        "letter": "E",
+        "text": "etanol, pois sua combustão completa fornece aproximadamente 33,7 MJ de energia por litro de combustível queimado."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q69-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Calculando a energia liberada por litro de cada combustível, sabendo que 1 L corresponde a uma massa m = 1.000 mL * 0,79 g/mL = 790 g: para o metanol (CH3OH, massa molar M = 32 g/mol), o número de mols em 1 L é n = 790 / 32 ≈ 24,69 mol. A energia liberada é 24,69 * 726 kJ ≈ 17.925 kJ ≈ 17,9 MJ. Para o etanol (C2H5OH, massa molar M = 46 g/mol), o número de mols em 1 L é n = 790 / 46 ≈ 17,17 mol. A energia liberada é 17,17 * 1.367 kJ ≈ 23.477 kJ ≈ 23,5 MJ. Como o custo de produção por volume é idêntico, o etanol é economicamente mais vantajoso por liberar maior quantidade de calor por litro (cerca de 23,5 MJ), validando a alternativa D. As alternativas A e B expressam a unidade incorretamente em kJ em vez de MJ. A alternativa C escolhe erroneamente o metanol, que fornece menor energia útil. A alternativa E apresenta valor de energia incoerente com o cálculo estequiométrico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q70",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Observe a tabela seguinte. Ela traz especificações técnicas constantes no manual de instruções fornecido pelo fabricante de uma torneira elétrica.\n\n[[FIG1]]\n\nDisponível em: http://www.cardal.com.br/manualprod/Manuais/Torneira%20Suprema/ -Manual_Torneira_Suprema_roo.pdf\n\nConsiderando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1.830 W"
+      },
+      {
+        "letter": "B",
+        "text": "2.800 W"
+      },
+      {
+        "letter": "C",
+        "text": "3.200 W"
+      },
+      {
+        "letter": "D",
+        "text": "4.030 W"
+      },
+      {
+        "letter": "E",
+        "text": "5.500 W"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q70-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O modelo de maior potência na tensão nominal de 220 V opera com P = 5.500 W. A resistência elétrica interna de seu resistor de aquecimento pode ser obtida por R = V^2 / P = 220^2 / 5.500 = 48.400 / 5.500 = 8,8 ohms. Ao ligar esse mesmo aparelho em uma rede de 127 V, a potência dissipada torna-se P' = V'^2 / R = 127^2 / 8,8 = 16.129 / 8,8 ≈ 1.832,8 W, o que aproxima 1.830 W, justificando a alternativa A. A alternativa B corresponde à potência do modo morno em 220 V. A alternativa C corresponde ao modelo inferior no modo morno em 127 V. A alternativa D resulta de cálculos incorretos de proporcionalidade direta com a tensão. A alternativa E é a potência nominal original em 220 V, que só seria atingida se conectada à tensão de projeto correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q71",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "O uso prolongado de lentes de contato, sobretudo durante a noite, aliado a condições precárias de higiene representam fatores de risco para o aparecimento de uma infecção denominada ceratite microbiana, que causa ulceração inflamatória da córnea. Para interromper o processo da doença, é necessário tratamento antibiótico. De modo geral, os fatores de risco provocam a diminuição da oxigenação corneana e determinam mudanças no seu metabolismo, de um estado aeróbico para anaeróbico. Como decorrência, observa-se a diminuição no número e na velocidade de mitoses do epitélio, o que predispõe ao aparecimento de defeitos epiteliais e à invasão bacteriana.\n\nCRESTA, F. Lente de contato e infecção ocular. Revista Sinopse de Oftalmologia. São Paulo: Moreira Jr., v.04, n.04, 2002 (adaptado).\n\nA instalação das bactérias e o avanço do processo infeccioso na córnea estão relacionados a algumas características gerais desses microrganismos, tais como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A grande capacidade de adaptação, considerando as constantes mudanças no ambiente em que se reproduzem e o processo aeróbico como a melhor opção desses microrganismos para a obtenção de energia."
+      },
+      {
+        "letter": "B",
+        "text": "A grande capacidade de sofrer mutações, aumentando a probabilidade do aparecimento de formas resistentes e o processo anaeróbico da fermentação como a principal via de obtenção de energia."
+      },
+      {
+        "letter": "C",
+        "text": "A diversidade morfológica entre as bactérias, aumentando a variedade de tipos de agentes infecciosos e a nutrição heterotrófica, como forma de esses microrganismos obterem matéria-prima e energia."
+      },
+      {
+        "letter": "D",
+        "text": "O alto poder de reprodução, aumentando a variabilidade genética dos milhares de indivíduos e a nutrição heterotrófica, como única forma de obtenção de matéria-prima e energia desses microrganismos."
+      },
+      {
+        "letter": "E",
+        "text": "O alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos para a obtenção de energia."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A infecção da córnea por bactérias no cenário descrito é facilitada pela sua rápida proliferação por divisão binária, um processo assexuado que gera em curto período milhares de descendentes geneticamente idênticos entre si. Além disso, as bactérias apresentam ampla diversidade metabólica, permitindo que sobrevivam e proliferem tanto em ambientes aeróbicos quanto em condições anaeróbicas resultantes da diminuição da oxigenação corneana, o que torna a alternativa E correta.\nA alternativa A está incorreta porque as bactérias não dependem exclusivamente da via aeróbica, adaptando-se com facilidade à anaerobiose. A alternativa B erra ao colocar a taxa de mutação e a fermentação como regra geral determinante para essa infecção. A alternativa C erra ao apontar a diversidade morfológica como causa do avanço infeccioso. A alternativa D está errada porque a reprodução assexuada gera clones e não aumenta a variabilidade genética da população.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q78",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardaram seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado.\nPara explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "madeira, e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade."
+      },
+      {
+        "letter": "B",
+        "text": "metal, e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava."
+      },
+      {
+        "letter": "C",
+        "text": "metal, e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia."
+      },
+      {
+        "letter": "D",
+        "text": "metal, e o telefone não funcionava porque a área lateral da caixa de metal era maior."
+      },
+      {
+        "letter": "E",
+        "text": "madeira, e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O aparelho que ficou sem sinal estava no interior da caixa de metal. Condutores metálicos fechados formam uma Gaiola de Faraday, manifestando o princípio da blindagem eletrostática. As cargas livres presentes no metal se redistribuem na superfície de modo a anular o campo eletromagnético em seu interior, bloqueando as ondas de rádio emitidas e recebidas pelo celular. Por isso, a alternativa B é a correta.\nA alternativa A está incorreta porque materiais isolantes, como a madeira, permitem a passagem livre de ondas eletromagnéticas. A alternativa C está incorreta porque o metal não reflete todo tipo de radiação de maneira indiscriminada, sendo o fenômeno decorrente da distribuição de cargas em condutores. As alternativas D e E estão incorretas porque a área lateral e a espessura das caixas são irrelevantes quando comparadas à natureza condutora do material.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q79",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "As mobilizações para promover um planeta melhor para as futuras gerações são cada vez mais frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200 g de dióxido de carbono por km percorrido.\n\nRevista Aquecimento Global. Ano 2, nº 8. Publicação do Instituto Brasileiro de Cultura Ltda.\n\nUm dos principais constituintes da gasolina é o octano (C₈H₁₈). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "no processo há liberação de oxigênio, sob a forma de O₂."
+      },
+      {
+        "letter": "B",
+        "text": "o coeficiente estequiométrico para a água é de 8 para 1 do octano."
+      },
+      {
+        "letter": "C",
+        "text": "no processo há consumo de água, para que haja liberação de energia."
+      },
+      {
+        "letter": "D",
+        "text": "o coeficiente estequiométrico para o oxigênio é de 12,5 para 1 do octano."
+      },
+      {
+        "letter": "E",
+        "text": "o coeficiente estequiométrico para o gás carbônico é de 9 para 1 do octano."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A equação química balanceada da combustão completa do octano é: C8H18 + 12,5 O2 -> 8 CO2 + 9 H2O. A partir dessa proporção estequiométrica, constata-se que a queima de 1 mol de octano consome exatamente 12,5 mols de oxigênio gasoso (O2), o que confirma a alternativa D como correta.\nA alternativa A está incorreta porque o gás oxigênio atua como comburente e é consumido, não liberado. A alternativa B está incorreta porque a queima de 1 mol de octano produz 9 mols de água, e não 8. A alternativa C está incorreta porque a água é um produto da combustão, sendo liberada no processo. A alternativa E está incorreta porque o coeficiente estequiométrico obtido para o dióxido de carbono é de 8 mols para cada mol de octano reagido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
+  },
+  {
+    "id": "enem-2010-q80",
+    "exam": "enem",
+    "year": 2010,
+    "originalNumber": 80,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Química Ambiental"
+    ],
+    "statement": "Os pesticidas modernos são divididos em várias classes, entre as quais se destacam os organofosforados, materiais que apresentam efeito tóxico agudo para os seres humanos. Esses pesticidas contêm um átomo central de fósforo ao qual estão ligados outros átomos ou grupo de átomos como oxigênio, enxofre, grupos metoxi ou etoxi, ou um radical orgânico de cadeia longa. Os organofosforados são divididos em três subclasses: Tipo A, na qual o enxofre não se incorpora na molécula; Tipo B, na qual o oxigênio, que faz dupla ligação com fósforo, é substituído pelo enxofre; e Tipo C, no qual dois oxigênios são substituídos por enxofre.\n\nBAIRD, C. Química Ambiental. Bookmam, 2005.\n\nUm exemplo de pesticida organofosforado Tipo B, que apresenta grupo etoxi em sua fórmula estrutural, está representado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2010-q80-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2010-q80-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2010-q80-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2010-q80-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2010-q80-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2010-q80-1.webp",
+      "FIG2": "data/figuras/enem-2010-q80-2.webp",
+      "FIG3": "data/figuras/enem-2010-q80-3.webp",
+      "FIG4": "data/figuras/enem-2010-q80-4.webp",
+      "FIG5": "data/figuras/enem-2010-q80-5.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Conforme descrito no texto, os organofosforados do Tipo B têm o oxigênio que faz dupla ligação com o fósforo substituído por enxofre (formando a ligação P=S). O grupo etoxi corresponde à estrutura derivada do etanol com dois carbonos: -O-CH2-CH3. Ao analisar as opções, a molécula representada na alternativa E contém a ligação dupla P=S (Tipo B) e possui dois grupos etoxi (-OCH2CH3) ligados ao átomo central de fósforo, atendendo perfeitamente a todos os requisitos do enunciado.\nA alternativa A é incorreta por apresentar a ligação P=O, pertencendo ao Tipo A. A alternativa B é do Tipo B, mas apresenta radicais metoxi (-OCH3) em vez de etoxi. A alternativa C apresenta dois átomos de enxofre ligados ao fósforo, enquadrando-se no Tipo C. A alternativa D apresenta grupos amino e metoxi, sem o grupo etoxi.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2010 – 1º dia, 1-AZUL"
+    }
   }
 ]
