@@ -104136,5 +104136,2318 @@
       "institution": "INEP",
       "note": "ENEM 2017 – 1º dia, 1 - Azul"
     }
+  },
+  {
+    "id": "enem-2017-q93",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.\n[[FIG1]]\nO valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,5 × 10⁰."
+      },
+      {
+        "letter": "B",
+        "text": "2,0 × 10⁰."
+      },
+      {
+        "letter": "C",
+        "text": "2,5 × 10⁵."
+      },
+      {
+        "letter": "D",
+        "text": "5,0 × 10⁵."
+      },
+      {
+        "letter": "E",
+        "text": "2,0 × 10⁶."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q93-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na ausência de amônia, a polianilina se comporta como um resistor ôhmico. Pelo gráfico, podemos escolher um ponto para calcular sua resistência elétrica nominal R₀. Para a ddp U = 1,0 V, a corrente é i = 2,0 × 10⁻⁶ A. Aplicando a primeira lei de Ohm: R₀ = U / i = 1,0 / (2,0 × 10⁻⁶) = 0,5 × 10⁶ = 5,0 × 10⁵ Ω. O enunciado informa que na presença de altas concentrações de amônia, o valor da resistência elétrica quadruplica. Logo, a nova resistência será R = 4 × R₀ = 4 × (5,0 × 10⁵ Ω) = 2,0 × 10⁶ Ω, o que torna a alternativa E correta.\n\nA alternativa A está incorreta pois 0,5 × 10⁰ = 0,5 Ω desconsidera a escala de microamperes e a multiplicação por 4.\nA alternativa B está incorreta pois 2,0 × 10⁰ = 2 Ω também ignora as potências de dez da corrente.\nA alternativa C está incorreta pois 2,5 × 10⁵ Ω corresponderia à metade da resistência nominal.\nA alternativa D está incorreta pois 5,0 × 10⁵ Ω representa a resistência nominal na ausência de amônia, sem o efeito do aumento quadruplicado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q95",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 95,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n[[FIG1]]\nSHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "vapor de água."
+      },
+      {
+        "letter": "B",
+        "text": "oxigênio molecular."
+      },
+      {
+        "letter": "C",
+        "text": "hipoclorito de sódio."
+      },
+      {
+        "letter": "D",
+        "text": "hidrogênio molecular."
+      },
+      {
+        "letter": "E",
+        "text": "cloreto de hidrogênio."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q95-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na eletrólise de uma solução aquosa de cloreto de sódio (salmoura), ocorrem reações nos dois eletrodos. No ânodo (polo positivo), os íons cloreto sofrem oxidação preferencialmente em relação à água, produzindo gás cloro: 2 Cl⁻(aq) → Cl₂(g) + 2 e⁻. No cátodo (polo negativo), ocorre a redução da água em vez da redução dos cátions Na⁺, pois a água tem maior potencial de redução que os metais alcalinos: 2 H₂O(l) + 2 e⁻ → H₂(g) + 2 OH⁻(aq). Os íons OH⁻ permanecem na solução junto aos íons Na⁺, gerando a solução de hidróxido de sódio (NaOH, dreno alcalino). Portanto, o gás liberado no polo negativo (produto secundário indicado na figura) é o gás hidrogênio molecular (H₂), o que valida a alternativa D.\n\nA alternativa A está incorreta pois o vapor de água não é gerado por redução eletroquímica no cátodo.\nA alternativa B está incorreta pois o oxigênio seria gerado no ânodo pela oxidação da água, o que não ocorre na salmoura concentrada.\nA alternativa C está incorreta pois o hipoclorito é formado apenas pela reação posterior entre Cl₂ e NaOH em meio frio, não sendo o gás liberado.\nA alternativa E está incorreta pois o cloreto de hidrogênio (HCl) não é liberado no cátodo sob essas condições.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q98",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 98,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução"
+    ],
+    "statement": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.\n[[FIG1]]\nA diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "tipos de células."
+      },
+      {
+        "letter": "B",
+        "text": "aspectos ecológicos."
+      },
+      {
+        "letter": "C",
+        "text": "relações filogenéticas."
+      },
+      {
+        "letter": "D",
+        "text": "propriedades fisiológicas."
+      },
+      {
+        "letter": "E",
+        "text": "características morfológicas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q98-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O sistema de classificação de Robert Whittaker (1969) dividia os seres vivos em cinco reinos com base na organização celular (procarionte vs. eucarionte, unicelular vs. pluricelular) e no tipo de nutrição (autotrófica, heterotrófica por absorção ou ingestão). Por outro lado, a classificação de Carl Woese (1990) utilizou ferramentas de biologia molecular, especificamente a análise comparativa das sequências de nucleotídeos do RNA ribossômico. Isso permitiu rastrear a história evolutiva e estabelecer o parentesco evolutivo direto entre os seres vivos, demonstrando que os procariontes compreendem dois domínios distintos (Bacteria e Archaea). Trata-se, portanto, de uma classificação baseada fundamentalmente em relações filogenéticas, tornando a alternativa C correta.\n\nA alternativa A está incorreta pois a divisão por tipos celulares já era o critério de Whittaker.\nA alternativa B está incorreta pois os aspectos ecológicos (como nível trófico) eram usados na classificação antiga.\nA alternativa D está incorreta pois Woese não utilizou apenas propriedades fisiológicas, mas marcadores genéticos moleculares evolutivos.\nA alternativa E está incorreta pois características morfológicas são critérios clássicos, insuficientes para separar Bacteria de Archaea.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q101",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 101,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Óptica"
+    ],
+    "statement": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\n[[FIG1]]\nDisponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Haleto metálico."
+      },
+      {
+        "letter": "B",
+        "text": "Tungstênio."
+      },
+      {
+        "letter": "C",
+        "text": "Mercúrio."
+      },
+      {
+        "letter": "D",
+        "text": "Xênon."
+      },
+      {
+        "letter": "E",
+        "text": "LED."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q101-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O arquiteto procura uma lâmpada que forneça boa iluminação (isto é, emita radiação na faixa da luz visível, compreendida entre aproximadamente 400 nm e 700 nm, onde o olho humano tem sensibilidade) e que não aqueça o ambiente. A radiação térmica associada ao aquecimento corresponde à faixa do infravermelho (IV, comprimentos de onda acima de 700 nm). Analisando os espectros de emissão fornecidos, a lâmpada de LED concentra quase toda a sua emissão de energia (área cinza) dentro da faixa da luz visível e apresenta emissão praticamente nula na região do infravermelho. Por conseguinte, é a lâmpada mais eficiente para iluminar sem aquecer, tornando a alternativa E correta.\n\nA alternativa A está incorreta pois a lâmpada de haleto metálico emite parte de sua radiação no IV e UV.\nA alternativa B está incorreta pois o tungstênio emite a maior parte de sua energia no infravermelho, sendo altamente aquecedora.\nA alternativa C está incorreta pois o mercúrio tem picos intensos na região ultravioleta e emissões no IV.\nA alternativa D está incorreta pois a lâmpada de xênon tem picos proeminentes de alta intensidade justamente na faixa do infravermelho.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q108",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 108,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O brinquedo pula-pula (cama elástica) é composto por uma lona circular flexível horizontal presa por molas à sua borda. As crianças brincam pulando sobre ela, alterando e alternando suas formas de energia. Ao pular verticalmente, desprezando o atrito com o ar e os movimentos de rotação do corpo enquanto salta, uma criança realiza um movimento periódico vertical em torno da posição de equilíbrio da lona (h = 0), passando pelos pontos de máxima e de mínima alturas, hmáx e hmín, respectivamente.\n\nEsquematicamente, o esboço do gráfico da energia cinética da criança em função de sua posição vertical na situação descrita é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2017-q108-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2017-q108-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2017-q108-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2017-q108-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2017-q108-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q108-1.webp",
+      "FIG2": "data/figuras/enem-2017-q108-2.webp",
+      "FIG3": "data/figuras/enem-2017-q108-3.webp",
+      "FIG4": "data/figuras/enem-2017-q108-4.webp",
+      "FIG5": "data/figuras/enem-2017-q108-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O movimento ocorre com conservação da energia mecânica total E. Nos pontos de inversão do movimento (hmín e hmáx), a velocidade da criança é nula, logo a energia cinética é zero: Ec(hmín) = 0 e Ec(hmáx) = 0. Quando a criança perde o contato com a lona (para h > 0), atua sobre ela apenas a força gravitacional (constante). A energia potencial é puramente gravitacional, Ep(h) = m·g·h. Pela conservação da energia mecânica, Ec(h) = E - m·g·h, que é uma função afim (reta decrescente) com inclinação negativa para o intervalo de 0 a hmáx. Para h < 0, a criança deforma a lona, surgindo a energia potencial elástica, que depende quadraticamente da deformação: Ec(h) = E - m·g·h - 1/2·k·h², o que gera um perfil curvo (arco de parábola com concavidade voltada para baixo). Isso corresponde com exatidão ao gráfico da alternativa C.\n\nA alternativa A está incorreta pois mostra energia cinética não nula nas extremidades e comportamento linear em V.\nA alternativa B está incorreta pois exibe um trecho linear para h < 0 em vez de quadrático.\nA alternativa D está incorreta pois mostra trecho retilíneo para h < 0 e curvo para h > 0, o oposto da física do sistema.\nA alternativa E está incorreta pois indica Ec mínima no ponto de equilíbrio e máxima nos extremos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q111",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 111,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.\n\nMARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).\n\nOs botos-cinza acumulam maior concentração dessas substâncias porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "são animais herbívoros."
+      },
+      {
+        "letter": "B",
+        "text": "são animais detritívoros."
+      },
+      {
+        "letter": "C",
+        "text": "são animais de grande porte."
+      },
+      {
+        "letter": "D",
+        "text": "digerem o alimento lentamente."
+      },
+      {
+        "letter": "E",
+        "text": "estão no topo da cadeia alimentar."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O acúmulo progressivo de poluentes não biodegradáveis (como metais pesados, a exemplo do mercúrio) ao longo dos níveis tróficos de uma teia alimentar é conhecido como bioacumulação ou biomagnificação trófica. Como esses compostos não são metabolizados nem facilmente excretados pelos organismos, a concentração da substância tóxica aumenta a cada nível trófico sucessivo. Por serem predadores que ocupam o topo da cadeia alimentar marinha, os botos-cinza ingerem peixes e outros organismos que já acumularam o poluente, resultando em concentrações muito mais elevadas no organismo deles do que nos níveis tróficos inferiores. Assim, a alternativa E está correta.\n\nA alternativa A está incorreta pois botos são cetáceos carnívoros, não herbívoros.\nA alternativa B está incorreta pois eles não se alimentam de matéria orgânica em decomposição no fundo (não são detritívoros).\nA alternativa C está incorreta pois o tamanho corporal não é a causa direta da biomagnificação trófica.\nA alternativa D está incorreta pois a velocidade da digestão não determina a bioacumulação de poluentes não biodegradáveis.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q114",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 114,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:\n\n[[FIG1]]\n\nA função química presente no produto que representa o biodiesel é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "éter."
+      },
+      {
+        "letter": "B",
+        "text": "éster."
+      },
+      {
+        "letter": "C",
+        "text": "álcool."
+      },
+      {
+        "letter": "D",
+        "text": "cetona."
+      },
+      {
+        "letter": "E",
+        "text": "ácido carboxílico."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q114-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A reação apresentada é a transesterificação, na qual um triglicerídeo (triéster de glicerol) reage com três moléculas de metanol para formar três moléculas de ésteres de ácidos graxos e uma molécula de glicerol (propano-1,2,3-triol). A substância que corresponde ao biodiesel é a mistura de ésteres metílicos, representada na equação pela estrutura genérica R-COO-CH₃ (ou CH₃-O-C(=O)-R). Essa fórmula possui um grupo funcional carboxilato ligado a radicais carbônicos (carbonila ligada a um oxigênio que se liga a outro carbono), o que caracteriza perfeitamente a função orgânica éster, tornando a alternativa B correta.\n\nA alternativa A está incorreta pois éteres apresentam a estrutura R-O-R, sem a carbonila conjugada.\nA alternativa C está incorreta pois o álcool gerado na reação é o glicerol, um subproduto, e não o biodiesel.\nA alternativa D está incorreta pois cetonas possuem carbonila entre dois átomos de carbono (R-CO-R).\nA alternativa E está incorreta pois ácidos carboxílicos possuem o grupo carboxila livre (R-COOH).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q116",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 116,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.\n\n[[FIG1]]\n\nALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1997 (adaptado).\n\nA mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "movimentam-se livremente no plano da bicamada lipídica."
+      },
+      {
+        "letter": "B",
+        "text": "permanecem confinadas em determinadas regiões da bicamada."
+      },
+      {
+        "letter": "C",
+        "text": "auxiliam o deslocamento dos fosfolipídios da membrana plasmática."
+      },
+      {
+        "letter": "D",
+        "text": "são mobilizadas em razão da inserção de anticorpos."
+      },
+      {
+        "letter": "E",
+        "text": "são bloqueadas pelos anticorpos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q116-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O experimento clássico descrito (conduzido originalmente por Frye e Edidin em 1970) demonstra o modelo do mosaico fluido para a membrana plasmática, proposto por Singer e Nicolson. Na etapa 3, logo após a marcação dos anticorpos fluorescentes (tempo = 0), as proteínas de membrana humanas e de camundongo estavam confinadas em hemisférios opostos da célula híbrida. Após 40 minutos de incubação a 37 °C (etapa 4), observa-se que as duas classes de proteínas marcadas misturaram-se homogeneamente por toda a superfície celular. Isso comprova que a bicamada lipídica se comporta como um fluido bidimensional, permitindo que as proteínas de membrana difundam e se desloquem lateralmente ao longo do plano da membrana. Portanto, a alternativa A está correta.\n\nA alternativa B está incorreta pois a etapa 4 mostra que as proteínas deixaram de ficar confinadas.\nA alternativa C está incorreta pois a fluidez da membrana é uma propriedade intrínseca da matriz lipídica, e não causada pelas proteínas.\nA alternativa D está incorreta pois a inserção dos anticorpos serviu apenas para marcação visual fluorescente, não para provocar o movimento.\nA alternativa E está incorreta pois os anticorpos não impediram o livre deslocamento lateral das proteínas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q117",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 117,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.\n\nRICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).\n\nA diferença na manifestação da DMD entre as gêmeas pode ser explicada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dominância incompleta do alelo mutante em relação ao alelo normal."
+      },
+      {
+        "letter": "B",
+        "text": "falha na separação dos cromossomos X no momento da separação dos dois embriões."
+      },
+      {
+        "letter": "C",
+        "text": "recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões."
+      },
+      {
+        "letter": "D",
+        "text": "inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões."
+      },
+      {
+        "letter": "E",
+        "text": "origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Em fêmeas de mamíferos (que possuem cariótipo XX), ocorre durante as fases iniciais do desenvolvimento embrionário o processo de compensação de dose por meio da inativação aleatória de um dos dois cromossomos X em cada célula somática (formação do corpúsculo de Barr ou efeito Lyon). Como as gêmeas são monozigóticas e heterozigóticas para o alelo recessivo da DMD, cada uma herdou o mesmo genótipo. Porém, após a divisão do embrião que deu origem às duas irmãs, a inativação do X continuou ocorrendo de forma independente e aleatória em cada linhagem celular. Em uma das gêmeas, a inativação preferencial ou estocástica do cromossomo X que continha o alelo normal nas células do tecido muscular permitiu que o alelo mutante se expressasse, manifestando a doença. Na outra irmã, o cromossomo X com o alelo mutante foi majoritariamente inativado, resultando em fenótipo normal. Assim, a alternativa D está correta.\n\nA alternativa A está incorreta pois a DMD apresenta herança recessiva ligada ao X, não dominância incompleta.\nA alternativa B está incorreta pois isso causaria aneuploidias (como monossomia ou trissomia do X), e ambas possuem genótipo normal diploide.\nA alternativa C está incorreta pois permutações ocorrem na meiose dos genitores, não em mitoses que precedem a separação dos gêmeos mantendo o mesmo alelo.\nA alternativa E está incorreta pois gêmeas monozigóticas têm rigorosamente a mesma origem parental para seus cromossomos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q123",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 123,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Botânica",
+      "Ecologia"
+    ],
+    "statement": "A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.\n\nDisponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).\n\nEssas espécies captam água do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "organismo das plantas vizinhas."
+      },
+      {
+        "letter": "B",
+        "text": "solo através de suas longas raízes."
+      },
+      {
+        "letter": "C",
+        "text": "chuva acumulada entre suas folhas."
+      },
+      {
+        "letter": "D",
+        "text": "seiva bruta das plantas hospedeiras."
+      },
+      {
+        "letter": "E",
+        "text": "comunidade que vive em seu interior."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As bromélias são plantas epífitas típicas da Mata Atlântica que utilizam o tronco e os galhos de outras árvores apenas como suporte físico para obter melhor acesso à radiação solar, não mantendo relação de parasitismo com elas. Suas raízes são curtas e servem essencialmente para fixação ao substrato da casca. A captação de água e de nutrientes minerais ocorre principalmente através de modificações morfológicas de suas folhas, que são dispostas em roseta formando um tanque ou reservatório central. Esse tanque retém eficientemente a água da chuva e matéria orgânica em decomposição, que são absorvidas por tricomas escamosos especiais presentes na epiderme foliar. Dessa forma, a água provém diretamente da chuva acumulada entre suas folhas, tornando a alternativa C correta.\n\nA alternativa A está incorreta pois bromélias não retiram fluidos nem água dos tecidos de plantas vizinhas.\nA alternativa B está incorreta pois as epífitas não têm raízes longas que alcancem o solo da floresta.\nA alternativa D está incorreta pois elas não são parasitas (como o cipó-chumbo ou a erva-de-passarinho) e não sugam seiva bruta.\nA alternativa E está incorreta pois a fauna que vive no tanque usa a água acumulada, não a fornece à planta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q124",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 124,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nConsidere as seguintes equações termoquímicas:\n\nFe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g)     ΔᵣH𝜽 = -25 kJ/mol de Fe₂O₃\n3 FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g)     ΔᵣH𝜽 = -36 kJ/mol de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g)     ΔᵣH𝜽 = +47 kJ/mol de CO₂\n\nO valor mais próximo de ΔᵣH𝜽, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "-14."
+      },
+      {
+        "letter": "B",
+        "text": "-17."
+      },
+      {
+        "letter": "C",
+        "text": "-50."
+      },
+      {
+        "letter": "D",
+        "text": "-64."
+      },
+      {
+        "letter": "E",
+        "text": "-100."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Queremos determinar o ΔH da reação:\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nAs equações fornecidas são:\n(1) Fe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g), ΔH₁ = -25 kJ\n(2) 3 FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g), ΔH₂ = -36 kJ\n(3) 2 Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g), ΔH₃ = +47 kJ\n\nPodemos manipular as equações para obter 1 FeO no reagente:\nPara cancelar Fe₃O₄ e Fe₂O₃, vamos combinar (2) multiplicada por 2 com (3):\n2 × [3 FeO + CO₂ → Fe₃O₄ + CO]  =>  6 FeO + 2 CO₂ → 2 Fe₃O₄ + 2 CO, ΔH = 2(-36) = -72 kJ\nSomando com (3): 2 Fe₃O₄ + CO₂ → 3 Fe₂O₃ + CO, ΔH = +47 kJ\nObtemos: 6 FeO + 3 CO₂ → 3 Fe₂O₃ + 3 CO, ΔH = -72 + 47 = -25 kJ\nDividindo tudo por 3: 2 FeO + CO₂ → Fe₂O₃ + CO, ΔH = -25 / 3 kJ\n\nAgora invertemos essa equação para ter Fe₂O₃ nos reagentes e FeO nos produtos:\nFe₂O₃ + CO → 2 FeO + CO₂, ΔH = +25/3 kJ ≈ +8,33 kJ\n\nAgora somamos com a equação (1):\nFe₂O₃ + 3 CO → 2 Fe + 3 CO₂, ΔH₁ = -25 kJ\nSubtraindo a anterior (ou somando a invertida de Fe₂O₃ → 2 FeO):\n(Fe₂O₃ + 3 CO) - (Fe₂O₃ + CO) → (2 Fe + 3 CO₂) - (2 FeO + CO₂)\n2 CO → 2 Fe - 2 FeO + 2 CO₂\n2 FeO + 2 CO → 2 Fe + 2 CO₂, ΔH = -25 - (+8,33) = -33,33 kJ\nDividindo por 2 para 1 mol de FeO:\nFeO + CO → Fe + CO₂, ΔH = -33,33 / 2 = -16,67 kJ/mol de FeO ≈ -17 kJ/mol de FeO.\nPortanto, a alternativa B está correta.\n\nAs alternativas A (-14), C (-50), D (-64) e E (-100) decorrem de erros algébricos na aplicação da Lei de Hess.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q125",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 125,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Genética"
+    ],
+    "statement": "A reação em cadeia da polimerase (PCR, na sigla em inglês) é uma técnica de biologia molecular que permite replicação in vitro do DNA de forma rápida. Essa técnica surgiu na década de 1980 e permitiu avanços científicos em todas as áreas de investigação genômica. A dupla hélice é estabilizada por ligações hidrogênio, duas entre as bases adenina (A) e timina (T) e três entre as bases guanina (G) e citosina (C). Inicialmente, para que o DNA possa ser replicado, a dupla hélice precisa ser totalmente desnaturada (desenrolada) pelo aumento da temperatura, quando são desfeitas as ligações hidrogênio entre as diferentes bases nitrogenadas.\n\nQual dos segmentos de DNA será o primeiro a desnaturar totalmente durante o aumento da temperatura na reação de PCR?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2017-q125-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2017-q125-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2017-q125-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2017-q125-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2017-q125-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q125-1.webp",
+      "FIG2": "data/figuras/enem-2017-q125-2.webp",
+      "FIG3": "data/figuras/enem-2017-q125-3.webp",
+      "FIG4": "data/figuras/enem-2017-q125-4.webp",
+      "FIG5": "data/figuras/enem-2017-q125-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A estabilidade térmica da dupla hélice de DNA depende da quantidade total de pontes de hidrogênio entre as fitas complementares. Cada par adenina-timina (A-T) é unido por 2 pontes de hidrogênio, enquanto cada par guanina-citosina (G-C) é unido por 3 pontes de hidrogênio. Assim, o segmento que desnatura primeiro a temperaturas mais baixas é aquele que possui a menor quantidade total de pontes de hidrogênio, ou seja, o que contiver o maior número de pares A-T e o menor número de pares G-C.\nTodos os segmentos apresentados possuem 8 pares de bases:\n- Na opção A: 6 pares G-C e 2 pares A-T → (6×3) + (2×2) = 22 pontes.\n- Na opção B: 5 pares G-C e 3 pares A-T → (5×3) + (3×2) = 21 pontes.\n- Na opção C: 2 pares G-C (C-G e C-G) e 6 pares A-T → (2×3) + (6×2) = 18 pontes.\n- Na opção D: 6 pares G-C e 2 pares A-T → (6×3) + (2×2) = 22 pontes.\n- Na opção E: 4 pares G-C e 4 pares A-T → (4×3) + (4×2) = 20 pontes.\nComo a opção C possui a menor soma de pontes de hidrogênio (apenas 18), suas cadeias se desemparelharão mais facilmente, sendo a primeira a se desnaturar, tornando correta a alternativa C.\n\nAs alternativas A, B, D e E estão incorretas pois possuem maiores proporções de pares G-C e, consequentemente, mais ligações de hidrogênio, necessitando de temperaturas mais elevadas para a desnaturação total.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q130",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 130,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.\n\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\n[[FIG1]]\n\nRIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\n\nA substância presente na mistura que migra mais lentamente é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "licopeno."
+      },
+      {
+        "letter": "B",
+        "text": "α-caroteno."
+      },
+      {
+        "letter": "C",
+        "text": "γ-caroteno."
+      },
+      {
+        "letter": "D",
+        "text": "capsorubina."
+      },
+      {
+        "letter": "E",
+        "text": "α-criptoxantina."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q130-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na cromatografia descrita, o texto explicita que a água retida na celulose constitui a fase estacionária (altamente polar), ao passo que a mistura de hexano com 5% de acetona é a fase móvel (predominantemente apolar). Os componentes capazes de realizar interações intermoleculares mais fortes com a fase estacionária polar serão mais retidos e, portanto, migrarão mais lentamente.\nAnalisando as estruturas moleculares:\n- Licopeno, α-caroteno e γ-caroteno são hidrocarbonetos puros, totalmente apolares, que interagem fortemente com a fase móvel e migram rapidamente.\n- A α-criptoxantina possui apenas um grupo hidroxila (-OH).\n- A capsorubina possui dois grupos hidroxila (-OH) e duas carbonilas (C=O), conferindo-lhe a maior polaridade entre todas as substâncias do extrato e a maior capacidade de formar múltiplas ligações de hidrogênio com a água da fase estacionária. Assim, a capsorubina fica mais retida e migra mais lentamente, o que valida a alternativa D.\n\nAs alternativas A, B e C estão incorretas porque os carotenos e o licopeno são apolares e eluem rapidamente com a fase móvel.\nA alternativa E está incorreta pois a α-criptoxantina possui apenas uma hidroxila, sendo menos polar e migrando mais rápido que a capsorubina.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q131",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 131,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s². Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s². O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.\n\nQue distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,90 m"
+      },
+      {
+        "letter": "B",
+        "text": "14,0 m"
+      },
+      {
+        "letter": "C",
+        "text": "14,5 m"
+      },
+      {
+        "letter": "D",
+        "text": "15,0 m"
+      },
+      {
+        "letter": "E",
+        "text": "17,4 m"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Analisemos os movimentos de ambos os motoristas:\n1) Motorista atento:\nAciona o freio imediatamente quando sua velocidade é v₁ = 14,0 m/s. Ele desacelera com a = 5,00 m/s² até parar (v = 0). Pela equação de Torricelli:\nv² = v₁² - 2·a·d_frenagem1 ⇒ 0 = 14² - 2(5)·d₁ ⇒ d₁ = 196 / 10 = 19,6 m.\n\n2) Motorista desatento:\nLeva t = 1,00 s a mais para começar a frear. Durante esse 1,00 s, ele continua acelerando a 1,00 m/s², partindo de v₁ = 14,0 m/s:\nv₂ = 14,0 + 1,00 · 1,00 = 15,0 m/s.\nA distância percorrida nesse 1,00 s de aceleração é:\nd_reação = 14,0 · 1,00 + 0,5 · 1,00 · (1,00)² = 14,0 + 0,5 = 14,5 m.\nAos 15,0 m/s, ele aciona o freio com desaceleração de 5,00 m/s²:\n0 = 15² - 2(5)·d_frenagem2 ⇒ d_frenagem2 = 225 / 10 = 22,5 m.\nA distância total percorrida pelo desatento é:\nd_total2 = 14,5 + 22,5 = 37,0 m.\n\nA distância percorrida a mais pelo desatento é:\nΔd = d_total2 - d₁ = 37,0 - 19,6 = 17,4 m.\nPortanto, a alternativa E está correta.\n\nA alternativa A (2,90 m) corresponde apenas à diferença entre as distâncias de frenagem (22,5 - 19,6).\nA alternativa B (14,0 m) desconsidera a aceleração no tempo de reação e a diferença de frenagem.\nA alternativa C (14,5 m) calcula apenas a distância percorrida durante o tempo de reação adicional.\nA alternativa D (15,0 m) confunde o valor da velocidade final antes da frenagem com a distância excedente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q132",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 132,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.\n\nO que ocorre com as células presentes nos alimentos preservados com essa técnica?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O sal adicionado diminui a concentração de solutos em seu interior."
+      },
+      {
+        "letter": "B",
+        "text": "O sal adicionado desorganiza e destrói suas membranas plasmáticas."
+      },
+      {
+        "letter": "C",
+        "text": "A adição de sal altera as propriedades de suas membranas plasmáticas."
+      },
+      {
+        "letter": "D",
+        "text": "Os íons Na⁺ e Cl⁻ provenientes da dissociação do sal entram livremente nelas."
+      },
+      {
+        "letter": "E",
+        "text": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O salgamento de carnes baseia-se no princípio físico-químico da osmose. Ao cobrir a carne com grande quantidade de cloreto de sódio (NaCl), o meio extracelular torna-se altamente hipertônico em relação ao interior das células dos tecidos e, crucialmente, em relação aos micro-organismos (bactérias e fungos decompositores). Pela osmose, a água se desloca do meio menos concentrado em soluto (hipotônico, o meio intracelular) para o meio mais concentrado (hipertônico, o meio extracelular) através da membrana semipermeável. Esse processo desidrata as células dos tecidos e causa a plasmólise dos micro-organismos contaminantes, inibindo a sua proliferação e conservando o alimento. Assim, a alternativa E está correta.\n\nA alternativa A está incorreta pois a saída de água aumenta a concentração interna relativa de solutos das células desidratadas.\nA alternativa B está incorreta pois o sal não dissolve nem destrói diretamente a bicamada lipídica da membrana plasmática.\nA alternativa C está incorreta pois a osmose decorre da permeabilidade seletiva da membrana, cujas propriedades fundamentais continuam atuando.\nA alternativa D está incorreta pois a membrana plasmática possui permeabilidade seletiva e os íons Na⁺ e Cl⁻ não se difundem livremente sem canais e carreadores específicos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q134",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 134,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O₃), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\n[[FIG1]]\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n[[FIG2]]\n\nMARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\n\nQuais são os produtos formados nessa reação?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Benzaldeído e propanona."
+      },
+      {
+        "letter": "B",
+        "text": "Propanal e benzaldeído."
+      },
+      {
+        "letter": "C",
+        "text": "2-fenil-etanal e metanal."
+      },
+      {
+        "letter": "D",
+        "text": "Benzeno e propanona."
+      },
+      {
+        "letter": "E",
+        "text": "Benzaldeído e etanal."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q134-1.webp",
+      "FIG2": "data/figuras/enem-2017-q134-2.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A ozonólise de alcenos em meio redutor (zinco e água) cliva a ligação dupla carbono-carbono, ligando um átomo de oxigênio a cada carbono que participava da insaturação. O composto 1-fenil-2-metilprop-1-eno possui a estrutura Ph-CH=C(CH3)2. O carbono ligado ao anel benzênico é monossubstituído (Ph-CH=), originando o benzaldeído (Ph-CHO). Já o outro carbono da dupla ligação é dissubstituído por dois grupos metil (=C(CH3)2), dando origem a uma cetona de três carbonos, a propanona (O=C(CH3)2). Assim, os produtos formados são o benzaldeído e a propanona, o que torna a alternativa A correta.\n\nA alternativa B está incorreta porque o fragmento alifático gera uma cetona (propanona), e não propanal. A alternativa C está incorreta pois a clivagem ocorre diretamente no carbono da insaturação adjacente ao anel, não gerando 2-fenil-etanal nem metanal. A alternativa D está incorreta porque a clivagem oxidativa não rompe a ligação com o anel aromático para formar benzeno livre. A alternativa E está incorreta porque a cetona formada tem três carbonos, e não dois (etanal).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q136",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 136,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Um empréstimo foi feito à taxa mensal de i%, usando juros compostos, em oito parcelas fixas e iguais a P.\n\nO devedor tem a possibilidade de quitar a dívida antecipadamente a qualquer momento, pagando para isso o valor atual das parcelas ainda a pagar. Após pagar a 5ª parcela, resolve quitar a dívida no ato de pagar a 6ª parcela.\n\nA expressão que corresponde ao valor total pago pela quitação do empréstimo é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2017-q136-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2017-q136-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2017-q136-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2017-q136-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2017-q136-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q136-1.webp",
+      "FIG2": "data/figuras/enem-2017-q136-2.webp",
+      "FIG3": "data/figuras/enem-2017-q136-3.webp",
+      "FIG4": "data/figuras/enem-2017-q136-4.webp",
+      "FIG5": "data/figuras/enem-2017-q136-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para quitar a dívida no momento do pagamento da 6ª parcela, o devedor deve pagar o valor nominal da 6ª parcela, somado ao valor presente das parcelas futuras restantes (a 7ª e a 8ª parcela).\nNo ato do pagamento da 6ª parcela, ela não sofre desconto de antecipação, custando exatamente P. A 7ª parcela vence dali a 1 mês, logo seu valor atual é P / (1 + i/100). A 8ª parcela vence dali a 2 meses, logo seu valor atual é P / (1 + i/100)^2.\nSomando essas três quantias e colocando P em evidência, obtém-se o valor total: P * [1 + 1/(1 + i/100) + 1/(1 + i/100)^2], exatamente como expresso na alternativa A.\n\nA alternativa B erra ao utilizar juros simples no denominador da 8ª parcela em vez de regime composto. A alternativa C antecipa indevidamente a 7ª parcela por dois períodos. As alternativas D e E erram ao descontar indevidamente a 6ª parcela, que já venceu na data de quitação, além de aplicarem prazos incorretos de antecipação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q138",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Plana"
+    ],
+    "statement": "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo x com a sua superfície, conforme indica a figura.\n\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k · sen(x), sendo k uma constante, e supondo-se que x está entre 0° e 90°.\n\n[[FIG1]]\n\nQuando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "33%"
+      },
+      {
+        "letter": "B",
+        "text": "50%"
+      },
+      {
+        "letter": "C",
+        "text": "57%"
+      },
+      {
+        "letter": "D",
+        "text": "70%"
+      },
+      {
+        "letter": "E",
+        "text": "86%"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q138-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A intensidade luminosa é dada pela função I(x) = k * sen(x), no intervalo de 0° a 90°. Como o valor máximo da função seno nesse intervalo ocorre em 90°, com sen(90°) = 1, a intensidade máxima é I_máx = k * 1 = k.\nPara x = 30°, temos sen(30°) = 1/2 = 0,5. Substituindo na fórmula, a intensidade luminosa é I(30°) = k * sen(30°) = 0,5 * k.\nPara saber a qual percentual do valor máximo essa intensidade corresponde, basta calcular a razão: (0,5 * k) / k = 0,5, o que equivale exatamente a 50%. Portanto, a alternativa B é a correta.\n\nA alternativa A (33%) confunde a razão com um terço do ângulo reto. A alternativa C (57%) e a alternativa D (70%) utilizam aproximações numéricas sem fundamentação trigonométrica. A alternativa E (86%) corresponde incorretamente ao cosseno de 30° (aproximadamente 0,866) em vez do seno.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q140",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 140,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente.\n\n[[FIG1]]\n\nA bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "192."
+      },
+      {
+        "letter": "B",
+        "text": "300."
+      },
+      {
+        "letter": "C",
+        "text": "304."
+      },
+      {
+        "letter": "D",
+        "text": "320."
+      },
+      {
+        "letter": "E",
+        "text": "400."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q140-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para dispor quatro taças alinhadas, as bordas superiores não podem se sobrepor. Como a borda superior tem raio de 5 cm, seu diâmetro é 10 cm, logo a distância mínima entre os centros de duas taças consecutivas deve ser de 10 cm. Entre a primeira e a quarta taça há três vãos de 10 cm, somando 30 cm de distância entre os centros extremos.\nPara que a base circular da taça (raio de 4 cm) fique totalmente apoiada, a bandeja precisa se estender ao menos 4 cm além dos centros das taças das pontas. Portanto, o comprimento mínimo da bandeja é 4 + 30 + 4 = 38 cm.\nNa direção perpendicular (largura), a bandeja precisa acomodar o diâmetro da base, que mede 2 * 4 = 8 cm. Assim, a área mínima da bandeja é 38 cm * 8 cm = 304 cm², correspondendo à alternativa C.\n\nA alternativa A (192) considera incorretamente apenas as dimensões da base sem o espaçamento das bordas. A alternativa B (300) desconsidera a margem de suporte das bases nas extremidades. A alternativa D (320) calcula 40 cm por 8 cm, superestimando o comprimento necessário. A alternativa E (400) calcula a área baseando-se no diâmetro superior da taça também para a largura da bandeja.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q141",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 141,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1/3 de polpa de acerola.\n\nPara o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.\n\nPara não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.\n\nA redução, em real, no preço da embalagem da polpa de morango deverá ser de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,20."
+      },
+      {
+        "letter": "B",
+        "text": "0,90."
+      },
+      {
+        "letter": "C",
+        "text": "0,60."
+      },
+      {
+        "letter": "D",
+        "text": "0,40."
+      },
+      {
+        "letter": "E",
+        "text": "0,30."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O custo de uma porção do suco é composto por 2/3 do preço da polpa de morango e 1/3 do preço da de acerola. Inicialmente, o custo é (2/3)*18,00 + (1/3)*14,70 = 12,00 + 4,90 = R$ 16,90.\nCom o aumento da acerola para R$ 15,30, a embalagem dessa fruta encarece em 15,30 - 14,70 = R$ 0,60. Como a proporção de acerola é 1/3, o acréscimo de custo gerado por essa alta é de (1/3) * 0,60 = R$ 0,20.\nPara manter o custo final inalterado, a parcela da polpa de morango deve baratear exatamente R$ 0,20. Como a quantidade de morango representa 2/3 da mistura, temos: (2/3) * R = 0,20, em que R é a redução por embalagem de morango. Logo, R = 0,20 * (3/2) = R$ 0,30. Portanto, a alternativa correta é a E.\n\nA alternativa A erra ao calcular o dobro da variação total. A alternativa B e a C consideram de forma equivocada a própria variação da acerola (0,60) ou rateios proporcionais errados. A alternativa D esquece de ponderar adequadamente a razão inversa entre 2/3 e 1/3.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q143",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 143,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.\n\n[[FIG1]]\n\nNo setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.\n\nCom base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C₆,₄"
+      },
+      {
+        "letter": "B",
+        "text": "C₉,₃"
+      },
+      {
+        "letter": "C",
+        "text": "C₁₀,₄"
+      },
+      {
+        "letter": "D",
+        "text": "6⁴"
+      },
+      {
+        "letter": "E",
+        "text": "4⁶"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q143-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A ordem dos carrinhos na carreta não gera novos modelos, importando apenas a quantidade de carrinhos pintados em cada uma das 4 cores (amarelo, branco, laranja e verde). Sejam a, b, c e d as quantidades de carrinhos dessas cores. Devemos ter a + b + c + d = 10.\nComo cada cor deve ter pelo menos um carrinho, temos a >= 1, b >= 1, c >= 1 e d >= 1. Fazendo a mudança de variáveis a' = a - 1, b' = b - 1, c' = c - 1 e d' = d - 1, com variáveis inteiras maiores ou iguais a zero, a equação passa a ser a' + b' + c' + d' = 10 - 4 = 6.\nO número de soluções não negativas dessa equação é dado pela combinação completa: C(6 + 4 - 1, 4 - 1) = C(9, 3), que também equivale à escolha de 3 divisores entre os 9 espaços possíveis para separar 10 elementos. Logo, a alternativa correta é a B.\n\nA alternativa A (C6,4) aplica os índices de forma incorreta. A alternativa C (C10,4) ignora a restrição de que cada cor tem no mínimo um elemento. As alternativas D (6^4) e E (4^6) assumem erroneamente que os carrinhos são distinguíveis por posição.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q144",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 144,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.\n\nA quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "11,25."
+      },
+      {
+        "letter": "B",
+        "text": "27,00."
+      },
+      {
+        "letter": "C",
+        "text": "28,80."
+      },
+      {
+        "letter": "D",
+        "text": "32,25."
+      },
+      {
+        "letter": "E",
+        "text": "49,50."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A profundidade total da piscina é de 1,7 m e a lâmina d'água fica a 50 cm (0,5 m) da borda, de modo que a altura de água na piscina é de 1,7 - 0,5 = 1,2 m.\nO volume de água contido na piscina é dado pelo produto de suas três dimensões: V = 3 m * 5 m * 1,2 m = 18 m³.\nComo cada metro cúbico equivale a 1 000 litros, o volume total é de 18 000 litros.\nAs instruções técnicas recomendam a adição de 1,5 mL do produto químico para cada 1 000 L de água. Assim, a quantidade necessária é de 18 * 1,5 = 27 mL, tornando a alternativa B a correta.\n\nA alternativa A (11,25) utiliza apenas uma fração errônea da altura da lâmina. A alternativa C (28,80) resulta de arredondamentos incorretos de proporção. A alternativa D (32,25) e a E (49,50) cometem o equívoco de considerar a altura total da piscina (1,7 m) ou somar a borda livre em vez de subtraí-la.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q145",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\n[[FIG1]]\n\nO erro e pode ser expresso por\n\n|e| < 1,96 σ/√N\n\nem que σ é um parâmetro e N é o número de pessoas entrevistadas pela pesquisa.\n\nQual pesquisa deverá ser utilizada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "P1"
+      },
+      {
+        "letter": "B",
+        "text": "P2"
+      },
+      {
+        "letter": "C",
+        "text": "P3"
+      },
+      {
+        "letter": "D",
+        "text": "P4"
+      },
+      {
+        "letter": "E",
+        "text": "P5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q145-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O erro amostral máximo admitido é de 0,02 e deve satisfazer a inequação dada por |e| < 1,96 * sigma / raiz(N). Para encontrar a pesquisa cujo erro estimado é menor que 0,02, calcula-se o termo para cada uma:\nP1: 1,96 * (0,5 / 42) = 0,98 / 42 ≈ 0,0233;\nP2: 1,96 * (0,4 / 28) = 0,784 / 28 = 0,0280;\nP3: 1,96 * (0,3 / 24) = 0,588 / 24 = 0,0245;\nP4: 1,96 * (0,2 / 21) = 0,392 / 21 ≈ 0,0187;\nP5: 1,96 * (0,1 / 8) = 0,196 / 8 = 0,0245.\nApenas a pesquisa P4 resulta em um erro estritamente menor que 0,02 (aproximadamente 0,0187 < 0,02). Portanto, a alternativa correta é a D.\n\nAs alternativas A, B, C e E estão incorretas porque todas fornecem erros estimados superiores a 0,02 (2,33%, 2,80%, 2,45% e 2,45%, respectivamente), ultrapassando a margem de erro exigida pelo contratante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q147",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 147,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.\n\n[[FIG1]]\n\nFoi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.\n\nÀs 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "18"
+      },
+      {
+        "letter": "B",
+        "text": "20"
+      },
+      {
+        "letter": "C",
+        "text": "24"
+      },
+      {
+        "letter": "D",
+        "text": "36"
+      },
+      {
+        "letter": "E",
+        "text": "40"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q147-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Analisando a malha quadriculada do gráfico, entre as 15 h (ponto de máximo) e as 16 h, a profundidade do rio sofre uma queda vertical equivalente a 2 quadrículas do eixo vertical, o que corresponde a uma redução de 2 metros.\nDe acordo com o enunciado, entre 15 h e 16 h a profundidade diminuiu em 10%. Logo, esses 2 metros equivalem a 10% da profundidade registrada às 15 horas:\n0,10 * p(15h) = 2 m, o que resulta em p(15h) = 2 / 0,10 = 20 metros.\nComo a profundidade às 16 horas é 2 metros menor que a de 15 horas, temos:\np(16h) = 20 m - 2 m = 18 metros.\nLogo, a profundidade do rio às 16 horas é de 18 metros, o que confirma a alternativa A.\n\nA alternativa B (20) indica o valor da profundidade no horário de pico (15 horas), e não às 16 horas. A alternativa C (24) supõe erroneamente uma variação maior por quadrícula. As alternativas D (36) e E (40) decorrem de contar equivocadamente o número de unidades de redução como 4 metros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q149",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 149,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 × 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.\n\n[[FIG1]]\n\nEm sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.\n\nO jogador deverá abrir o quadrado marcado com a letra",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "P."
+      },
+      {
+        "letter": "B",
+        "text": "Q."
+      },
+      {
+        "letter": "C",
+        "text": "R."
+      },
+      {
+        "letter": "D",
+        "text": "S."
+      },
+      {
+        "letter": "E",
+        "text": "T."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q149-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada um dos quadrados abertos possui 8 vizinhos não revelados e não sobrepostos entre si. As probabilidades de encontrar uma mina nos vizinhos imediatos desses números são calculadas diretamente pela razão entre o número de minas informadas e seus 8 vizinhos:\nPara P: 2/8 = 0,250 (25%);\nPara Q: 1/8 = 0,125 (12,5%);\nPara S: 4/8 = 0,500 (50%);\nPara T: 3/8 = 0,375 (37,5%).\nPara a casa R, distante de todos os números abertos, a probabilidade depende das casas restantes do tabuleiro. O tabuleiro tem 16 * 16 = 256 casas e 40 minas. As 4 casas abertas (sem minas) e seus 4 * 8 = 32 vizinhos somam 36 casas conhecidas, contendo 2 + 1 + 4 + 3 = 10 minas no total. Sobram 256 - 36 = 220 casas não reveladas, que contêm 40 - 10 = 30 minas restantes. A probabilidade para a casa R é 30/220 ≈ 0,136 (13,6%).\nComparando os valores, a menor probabilidade de conter uma mina é a de Q (12,5%). Assim, a alternativa correta é a B.\n\nA alternativa A é incorreta pois P tem 25%. A alternativa C (R) é uma armadilha comum, mas sua probabilidade (13,6%) é maior que a de Q. As alternativas D (50%) e E (37,5%) apresentam riscos consideravelmente mais altos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q150",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 150,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.\nPor um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.\n[[FIG1]]\nPara recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°.\nA forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "90° no sentido horário."
+      },
+      {
+        "letter": "B",
+        "text": "135° no sentido horário."
+      },
+      {
+        "letter": "C",
+        "text": "180° no sentido anti-horário."
+      },
+      {
+        "letter": "D",
+        "text": "270° no sentido anti-horário."
+      },
+      {
+        "letter": "E",
+        "text": "315° no sentido horário."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q150-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na posição original da tela quadrada, o ponto B fica no vértice inferior direito, de onde o lado inferior (que contém a assinatura) parte na horizontal em direção ao oeste (180°).\nApós se soltar do ponto A e girar em torno de B, a tela atinge a nova configuração inclinada. Pela imagem após o giro, o vértice B encontra-se no topo, e a aresta com a assinatura estende-se para baixo e para a direita, formando 45° abaixo da horizontal voltada para o leste (direção 315°).\nAssim, a aresta que apontava a 180° passou a apontar a 315°, o que representa uma rotação no sentido anti-horário de 315° - 180° = 135°.\nPara recolocar a tela em sua posição original realizando o menor giro possível inferior a 360°, basta desfazer esse movimento, girando-a em 135° no sentido horário. Portanto, a alternativa correta é a B.\n\nA alternativa A (90°) deixaria a tela desalinhada em relação ao eixo horizontal. A alternativa C (180°) e a D (270°) não restabelecem a horizontalidade original do quadro. A alternativa E (315°) realizaria uma volta quase completa desnecessária, contrariando a condição de menor ângulo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q151",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:\n[[FIG1]]\nQuanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.\nDeterminado aluno sabe que se obtiver avaliação \"Bom\" ou \"Excelente\" conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.\n[[FIG2]]\nPara que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7,00."
+      },
+      {
+        "letter": "B",
+        "text": "7,38."
+      },
+      {
+        "letter": "C",
+        "text": "7,50."
+      },
+      {
+        "letter": "D",
+        "text": "8,25."
+      },
+      {
+        "letter": "E",
+        "text": "9,00."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q151-1.webp",
+      "FIG2": "data/figuras/enem-2017-q151-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para obter a avaliação 'Bom' ou 'Excelente', a média ponderada M deve ser no mínimo 7,00.\nO número total de créditos cursados pelo aluno é a soma dos créditos das cinco disciplinas: 12 + 4 + 8 + 8 + 10 = 42 créditos.\nA soma ponderada das notas nas quatro disciplinas já concluídas vale:\n(8,00 * 4) + (6,00 * 8) + (5,00 * 8) + (7,50 * 10) = 32 + 48 + 40 + 75 = 195.\nSeja x a nota necessária na disciplina I, que possui 12 créditos. A média ponderada final é expressa por:\nM = (12 * x + 195) / 42.\nPara que M >= 7,00, temos:\n12 * x + 195 >= 7,00 * 42 = 294\n12 * x >= 294 - 195 = 99\nx >= 99 / 12 = 8,25.\nPortanto, a nota mínima na disciplina I deve ser 8,25, o que corresponde à alternativa D.\n\nAs alternativas A (7,00), B (7,38) e C (7,50) resultariam em médias ponderadas estritamente inferiores a 7,00, impedindo o estudante de alcançar o conceito desejado. A alternativa E (9,00) é superior à nota estritamente mínima necessária para atingir a média 7,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q152",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 152,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Espacial"
+    ],
+    "statement": "A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.\n[[FIG1]]\nA água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.\nQual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água no sistema?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2017-q152-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2017-q152-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2017-q152-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2017-q152-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2017-q152-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q152-1.webp",
+      "FIG2": "data/figuras/enem-2017-q152-2.webp",
+      "FIG3": "data/figuras/enem-2017-q152-3.webp",
+      "FIG4": "data/figuras/enem-2017-q152-4.webp",
+      "FIG5": "data/figuras/enem-2017-q152-5.webp",
+      "FIG6": "data/figuras/enem-2017-q152-6.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O enchimento ocorre em três etapas:\n1ª etapa: A água entra apenas no Reservatório 1 até atingir a altura do cano de ligação. Como o reservatório é um prisma retangular, a altura h cresce linearmente em função do volume V, com taxa dh/dV = 1/A, sendo A a área da base.\n2ª etapa: Ao atingir o cano, toda a água escoa para o Reservatório 2 até que este atinja a mesma altura. Durante esse período, o volume total do sistema continua aumentando, mas a altura h no Reservatório 1 permanece constante, gerando um patamar horizontal no gráfico.\n3ª etapa: Uma vez nivelados ambos os reservatórios na altura do cano, eles passam a encher simultaneamente como vasos comunicantes. A área da superfície líquida dobra (2A), de modo que a taxa de variação da altura passa a ser dh/dV = 1/(2A). Isso gera um terceiro segmento linear menos inclinado do que o primeiro.\nO gráfico da alternativa D traduz perfeitamente esse comportamento.\n\nA alternativa A desconsidera a interrupção no nível da água. A alternativa B e a E apresentam curvas não lineares incompatíveis com prismas retos. A alternativa C erra ao manter a mesma inclinação na 1ª e na 3ª etapa, desconsiderando que na 3ª etapa os dois tanques sobem juntos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q153",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Geometria Espacial"
+    ],
+    "statement": "A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.\nCaminhão entala em viaduto no Centro\nUm caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.\n[[FIG1]]\nDisponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado).\nConsidere que o raio externo de cada cano da imagem seja 0,60 m e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 m do solo. O desenho representa a vista traseira do empilhamento dos canos.\n[[FIG2]]\nA margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 m menor do que a altura do vão do viaduto.\nConsidere 1,7 como aproximação para √3 .\nQual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,82"
+      },
+      {
+        "letter": "B",
+        "text": "3,52"
+      },
+      {
+        "letter": "C",
+        "text": "3,70"
+      },
+      {
+        "letter": "D",
+        "text": "4,02"
+      },
+      {
+        "letter": "E",
+        "text": "4,20"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q153-1.webp",
+      "FIG2": "data/figuras/enem-2017-q153-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Os três canos cilíndricos têm raio r = 0,60 m. Ao serem empilhados, os centros de suas seções circulares formam um triângulo equilátero de lado L = 2r = 1,20 m.\nA altura desse triângulo equilátero é h_t = (L * raiz(3)) / 2 = (1,20 * 1,7) / 2 = 1,02 m.\nA altura total da carga de canos, medida a partir da superfície da carroceria, vai do ponto inferior dos canos de baixo até o ponto mais alto do cano de cima: h_canos = r + h_t + r = 2r + h_t = 1,20 + 1,02 = 2,22 m.\nComo a carroceria está a 1,30 m do solo, a altura total do caminhão carregado é: H_caminhão = 1,30 + 2,22 = 3,52 m.\nPara trafegar em segurança sob o viaduto, deve haver uma margem adicional de no mínimo 0,50 m. Logo, a altura mínima do viaduto deve ser:\nH_viaduto = 3,52 + 0,50 = 4,02 m.\nPortanto, a resposta correta é a alternativa D.\n\nA alternativa A (2,82) decorre de desconsiderar partes do raio e a margem de segurança. A alternativa B (3,52) calcula apenas a altura do veículo com a carga, esquecendo a margem de segurança de 0,50 m. As alternativas C (3,70) e E (4,20) cometem erros na altura do triângulo equilátero.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q154",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 154,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir.\n[[FIG1]]\nA padaria está representada pelo ponto numerado com",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      },
+      {
+        "letter": "E",
+        "text": "5."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q154-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Seguindo o trajeto descrito a partir do ponto X (situado na Rua C, entre as Quadras 7 e 11):\n1. Andar para o oeste: o garoto caminha pela Rua C para a esquerda (oeste) até o cruzamento com a Rua 3.\n2. Virar à direita na primeira rua que encontrar: quem se desloca para o oeste e vira à direita passa a caminhar no sentido norte pela Rua 3, entre as Quadras 6 e 7.\n3. Seguir em frente e virar à esquerda na próxima rua: caminhando para o norte na Rua 3, a próxima transversal encontrada é a Rua B. Virando à esquerda nessa rua, o garoto volta a se deslocar para o oeste, entre a Quadra 2 e a Quadra 6.\nO local indicado logo a seguir nesse trecho da Rua B é o ponto 1. Portanto, a padaria está representada pelo ponto 1, o que torna correta a alternativa A.\n\nAs alternativas B (ponto 2) e C (ponto 3) estariam no sentido leste a partir da Rua 3, oposto à curva para a esquerda. As alternativas D (ponto 4) e E (ponto 5) ficam ao sul do ponto inicial, o que exigiria virar à esquerda no primeiro cruzamento, e não à direita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q155",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.\n[[FIG1]]\nCom base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apenas o aluno Y."
+      },
+      {
+        "letter": "B",
+        "text": "apenas o aluno Z."
+      },
+      {
+        "letter": "C",
+        "text": "apenas os alunos X e Y."
+      },
+      {
+        "letter": "D",
+        "text": "apenas os alunos X e Z."
+      },
+      {
+        "letter": "E",
+        "text": "os alunos X, Y e Z."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q155-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para ser aprovado, a média aritmética das notas das cinco provas deve ser maior ou igual a 6, o que equivale a uma soma de notas maior ou igual a 30 (pois 6 × 5 = 30).\nCalculando a soma das notas de cada aluno:\n- Aluno X: 5 + 5 + 5 + 10 + 6 = 31. Média = 31 / 5 = 6,2 (aprovado).\n- Aluno Y: 4 + 9 + 3 + 9 + 5 = 30. Média = 30 / 5 = 6,0 (aprovado).\n- Aluno Z: 5 + 5 + 8 + 5 + 6 = 29. Média = 29 / 5 = 5,8 (reprovado).\nLogo, apenas o aluno Z ficará reprovado, tornando a alternativa B correta.\nAs alternativas A, C, D e E estão incorretas porque os alunos X e Y obtiveram médias 6,2 e 6,0, respectivamente, cumprindo o critério mínimo de aprovação de média 6, não sendo reprovados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q156",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 156,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120°. A ponta seca está representada pelo ponto C, a ponta do grafite está representada pelo ponto B e a cabeça do compasso está representada pelo ponto A conforme a figura.\n[[FIG1]]\nApós concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.\n[[FIG2]]\nConsidere 1,7 como aproximação para √3 .\nO tipo de material a ser utilizado pelo setor de produção será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q156-1.webp",
+      "FIG2": "data/figuras/enem-2017-q156-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O compasso forma um triângulo isósceles ABC, no qual as hastes AB e AC medem 10 cm cada e o ângulo no vértice A é de 120°. O raio R da circunferência desenhada corresponde ao segmento BC. Aplicando a Lei dos Cossenos no triângulo ABC:\nR² = AB² + AC² - 2 · AB · AC · cos(120°)\nR² = 10² + 10² - 2 · 10 · 10 · (-0,5)\nR² = 100 + 100 + 100 = 300\nR = √300 = 10√3 cm.\nUtilizando a aproximação √3 ≈ 1,7 dada no enunciado, temos:\nR ≈ 10 · 1,7 = 17 cm.\nConsultando a tabela de tipos de material, o valor R = 17 cm pertence ao intervalo IV (15 < R ≤ 21), sendo correta a alternativa D.\nAs alternativas A, B, C e E estão incorretas porque indicam intervalos que não contêm o raio de 17 cm: o material I abrange até 5 cm, o II de 5 a 10 cm, o III de 10 a 15 cm e o V acima de 21 cm.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q157",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 157,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas. A figura indica a posição em que estaria faltando esta pérola.\n[[FIG1]]\nEla levou a joia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\nO joalheiro então colocou na pulseira a pérola cujo diâmetro era o mais próximo do diâmetro das pérolas originais.\nA pérola colocada na pulseira pelo joalheiro tem diâmetro, em milímetro, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,099."
+      },
+      {
+        "letter": "B",
+        "text": "3,970."
+      },
+      {
+        "letter": "C",
+        "text": "4,025."
+      },
+      {
+        "letter": "D",
+        "text": "4,080."
+      },
+      {
+        "letter": "E",
+        "text": "4,100."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q157-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As pérolas originais da pulseira possuem diâmetro de 4 mm (ou 4,000 mm). Para encontrar a pérola mais próxima, calcula-se o módulo da diferença entre o diâmetro de cada opção disponível no estoque e o diâmetro original de 4,000 mm:\n- |4,025 - 4,000| = 0,025 mm\n- |4,100 - 4,000| = 0,100 mm\n- |3,970 - 4,000| = 0,030 mm\n- |4,080 - 4,000| = 0,080 mm\n- |3,099 - 4,000| = 0,901 mm\nA menor diferença observada é 0,025 mm, correspondente à pérola de diâmetro 4,025 mm, tornando a alternativa C correta.\nA alternativa A erra por apresentar a maior diferença de todas (0,901 mm). A alternativa B apresenta uma diferença de 0,030 mm, que é superior a 0,025 mm. As alternativas D e E apresentam diferenças de 0,080 mm e 0,100 mm, sendo também mais distantes do valor original.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q158",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1 : 400, e que seu volume é de 25 cm³.\nO volume do monumento original, em metro cúbico, é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "100."
+      },
+      {
+        "letter": "B",
+        "text": "400."
+      },
+      {
+        "letter": "C",
+        "text": "1 600."
+      },
+      {
+        "letter": "D",
+        "text": "6 250."
+      },
+      {
+        "letter": "E",
+        "text": "10 000."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A escala linear informada é de 1 : 400. A razão entre volumes é igual ao cubo da razão linear, ou seja, (1 / 400)³ = 1 / 64 000 000. \nSabendo que o volume da miniatura é de 25 cm³, o volume V do monumento real é dado por:\nV = 25 · (400)³ = 25 · 64 000 000 cm³ = 1 600 000 000 cm³.\nPara converter de centímetros cúbicos para metros cúbicos, divide-se por 10⁶ (pois 1 m³ = 1 000 000 cm³):\nV = 1 600 000 000 / 1 000 000 = 1 600 m³.\nPortanto, a alternativa C está correta.\nAs alternativas A e B erram ao multiplicar o volume diretamente pela escala linear (25 × 400) ou utilizarem conversões inadequadas. A alternativa D resulta de cálculos incorretos de potência, e a alternativa E não considera a proporcionalidade cúbica correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q160",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 160,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan \"Juntos num só ritmo\", com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.\n[[FIG1]]\nDisponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado).\nDe quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15"
+      },
+      {
+        "letter": "B",
+        "text": "30"
+      },
+      {
+        "letter": "C",
+        "text": "108"
+      },
+      {
+        "letter": "D",
+        "text": "360"
+      },
+      {
+        "letter": "E",
+        "text": "972"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q160-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A logomarca é composta por 6 regiões adjacentes dispostas em estrutura conexa sem ciclos fechados (árvore). Para colori-la utilizando as 4 cores da bandeira nacional (verde, amarelo, azul e branco) de modo que regiões vizinhas tenham cores distintas, aplica-se o Princípio Fundamental da Contagem:\n- Para a primeira região escolhida, há 4 opções de cores disponíveis.\n- Para a segunda região (vizinha da primeira), restam 3 opções (qualquer uma exceto a cor da vizinha já pintada).\n- Da mesma forma, cada uma das 4 regiões restantes faz fronteira apenas com uma região previamente definida nessa ordem de pintura em árvore, dispondo de 3 opções de cores cada uma.\nO número total de maneiras é dado por: 4 × 3 × 3 × 3 × 3 × 3 = 4 × 3⁵ = 4 × 243 = 972.\nLogo, a alternativa E está correta.\nAs alternativas A e B correspondem a combinações simples de escolha de cores ou regiões (C(6, 4) = 15). A alternativa C (108) consideraria apenas 4 regiões (4 × 3³ = 108). A alternativa D (360) decorre do cálculo de arranjo A(6, 4) = 360, ignorando a possibilidade de repetição de cores em regiões não adjacentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q161",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 161,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.\n[[FIG1]]\nQuais devem ser os valores de X e de Y, em metro, para que a área da base do viveiro seja máxima?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 e 49"
+      },
+      {
+        "letter": "B",
+        "text": "1 e 99"
+      },
+      {
+        "letter": "C",
+        "text": "10 e 10"
+      },
+      {
+        "letter": "D",
+        "text": "25 e 25"
+      },
+      {
+        "letter": "E",
+        "text": "50 e 50"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q161-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O viveiro tem base retangular de dimensões X e Y. Como a tela de 100 metros é utilizada integralmente apenas nas faces laterais, o perímetro da base corresponde a esses 100 metros lineares:\n2X + 2Y = 100 ⇒ X + Y = 50 ⇒ Y = 50 - X.\nA área da base A em função de X é dada por:\nA(X) = X · Y = X · (50 - X) = -X² + 50X.\nEssa é uma função quadrática com coeficiente a = -1 < 0, cujo valor máximo ocorre no vértice:\nX_v = -b / (2a) = -50 / (2 · (-1)) = 25 metros.\nSubstituindo esse valor, encontramos Y = 50 - 25 = 25 metros.\nPortanto, as dimensões para área máxima são X = 25 e Y = 25, o que torna a alternativa D correta.\nA alternativa A e a B utilizam perímetros de 100 m e 200 m mas não maximizam a área. A alternativa C tem perímetro de apenas 40 m (10+10+10+10), e a E exigiria 200 metros lineares de tela.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q162",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 162,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade v de contração de um músculo ao ser submetido a um peso p é dada pela equação (p + a) (v + b) = K, com a, b e K constantes.\nUm fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:\n[[FIG1]]\nO fisioterapeuta analisou a dependência entre v e p na equação de Hill e a classificou de acordo com sua representação geométrica no plano cartesiano, utilizando o par de coordenadas (p ; v). Admita que K > 0.\nDisponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado).\nO gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito dos exercícios é do tipo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "semirreta oblíqua."
+      },
+      {
+        "letter": "B",
+        "text": "semirreta horizontal."
+      },
+      {
+        "letter": "C",
+        "text": "ramo de parábola."
+      },
+      {
+        "letter": "D",
+        "text": "arco de circunferência."
+      },
+      {
+        "letter": "E",
+        "text": "ramo de hipérbole."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q162-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A equação proposta é (p + a)(v + b) = K, com a, b e K constantes reais e K > 0. Isolando a velocidade v em função do peso p, obtém-se:\nv + b = K / (p + a) ⇒ v = [K / (p + a)] - b.\nEssa expressão representa uma função racional do tipo f(x) = [K / (x + c)] + d, cuja curva correspondente no plano cartesiano (p ; v) é uma hipérbole equilátera com assíntotas vertical (p = -a) e horizontal (v = -b). Como as grandezas físicas de velocidade e peso admitem valores no domínio de interesse prático, o gráfico considerado é um ramo de hipérbole, justificando a alternativa E.\nAs alternativas A e B estão incorretas porque equações de reta têm a forma v = m·p + n. A alternativa C é incorreta pois parábolas são descritas por equações quadráticas (v = c·p² + d·p + e). A alternativa D está errada pois circunferências exigem termos quadráticos em ambas as variáveis (p² + v² = r²).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q163",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Em um parque há dois mirantes de alturas distintas que são acessados por elevador panorâmico. O topo do mirante 1 é acessado pelo elevador 1, enquanto que o topo do mirante 2 é acessado pelo elevador 2. Eles encontram-se a uma distância possível de ser percorrida a pé, e entre os mirantes há um teleférico que os liga que pode ou não ser utilizado pelo visitante.\n[[FIG1]]\nO acesso aos elevadores tem os seguintes custos:\n• Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30.\nO custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.\nQual é o menor custo, em real, para uma pessoa visitar os topos dos dois mirantes e retornar ao solo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,25"
+      },
+      {
+        "letter": "B",
+        "text": "3,90"
+      },
+      {
+        "letter": "C",
+        "text": "4,35"
+      },
+      {
+        "letter": "D",
+        "text": "4,40"
+      },
+      {
+        "letter": "E",
+        "text": "4,45"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q163-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O visitante precisa visitar os topos de ambos os mirantes e retornar ao solo. Analisando as possibilidades de trajeto:\n1) Subir Mirante 1, pegar teleférico até o Mirante 2 e descer por este:\nCusto = Subir 1 (0,15) + Teleférico 1→2 (2,00) + Descer 2 (2,30) = R$ 4,45.\n2) Subir Mirante 2, pegar teleférico até o Mirante 1 e descer por este:\nCusto = Subir 2 (1,80) + Teleférico 2→1 (2,50) + Descer 1 (0,10) = R$ 4,40.\n3) Visitar cada mirante individualmente por seus elevadores, caminhando entre eles no solo (sem usar teleférico):\nCusto = Subir 1 (0,15) + Descer 1 (0,10) + Caminhar a pé (0,00) + Subir 2 (1,80) + Descer 2 (2,30) = 0,25 + 4,10 = R$ 4,35.\nComparando os trajetos, o menor custo total é R$ 4,35, confirmando a alternativa C.\nA alternativa A (2,25) considera apenas a subida nos dois mirantes sem descida. A alternativa B (3,90) soma custos arbitrários sem completar o percurso. As alternativas D (4,40) e E (4,45) correspondem aos trajetos que utilizam o teleférico, que são mais caros do que fazer o trajeto entre os mirantes a pé pelo solo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q164",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 164,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre \"às cegas\" (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.\nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).\nA razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5/4"
+      },
+      {
+        "letter": "B",
+        "text": "1/4"
+      },
+      {
+        "letter": "C",
+        "text": "4/3"
+      },
+      {
+        "letter": "D",
+        "text": "4/1"
+      },
+      {
+        "letter": "E",
+        "text": "3/4"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Como ambos os motoristas trafegam com a mesma velocidade constante v, a distância percorrida às cegas d é diretamente proporcional ao tempo t olhando para o celular: d = v · t.\nO tempo t_X gasto pelo motorista X corresponde a 25% do tempo t_Y do motorista Y:\nt_X = 0,25 · t_Y = (1/4) · t_Y.\nA razão entre as distâncias d_X e d_Y percorridas às cegas por X e Y, nessa ordem, é dada por:\nd_X / d_Y = (v · t_X) / (v · t_Y) = t_X / t_Y = [(1/4) · t_Y] / t_Y = 1/4.\nPortanto, a alternativa B está correta.\nA alternativa A (5/4) inverte e adiciona a porcentagem. A alternativa C (4/3) resultaria se a comparação envolvesse a fração complementar 75%. A alternativa D (4/1) inverte a ordem da razão pedida (calculando Y/X em vez de X/Y). A alternativa E (3/4) corresponde à fração restante (75%), e não aos 25% informados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q166",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 166,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Um cientista, em seus estudos para modelar a pressão arterial de uma pessoa, utiliza uma função do tipo P(t) = A + Bcos(kt) em que A, B e K são constantes reais positivas e t representa a variável tempo, medida em segundo. Considere que um batimento cardíaco representa o intervalo de tempo entre duas sucessivas pressões máximas.\nAo analisar um caso específico, o cientista obteve os dados:\n[[FIG1]]\nA função P(t) obtida, por este cientista, ao analisar o caso específico foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "P(t) = 99 + 21cos(3πt)"
+      },
+      {
+        "letter": "B",
+        "text": "P(t) = 78 + 42cos(3πt)"
+      },
+      {
+        "letter": "C",
+        "text": "P(t) = 99 + 21cos(2πt)"
+      },
+      {
+        "letter": "D",
+        "text": "P(t) = 99 + 21cos(t)"
+      },
+      {
+        "letter": "E",
+        "text": "P(t) = 78 + 42cos(t)"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q166-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A função da pressão arterial é dada por P(t) = A + B cos(kt). Sabendo que o cosseno varia entre -1 e 1, temos:\nPressão máxima: A + B = 120\nPressão mínima: A - B = 78\nSomando as duas equações: 2A = 198 ⇒ A = 99.\nSubtraindo as equações: 2B = 42 ⇒ B = 21.\nO número de batimentos é de 90 batimentos por minuto (60 segundos). O tempo correspondente a um ciclo completo (período T) é:\nT = 60 / 90 = 2/3 de segundo.\nComo o período de cos(kt) é dado por T = 2π / k, temos:\n2/3 = 2π / k ⇒ k = 3π.\nSubstituindo as constantes, obtém-se P(t) = 99 + 21 cos(3πt), o que torna a alternativa A correta.\nAs alternativas B e E erram nos parâmetros A e B ao utilizarem 78 e 42. A alternativa C erra na determinação da frequência angular, calculando k = 2π. As alternativas D e E consideram k = 1, desconsiderando a frequência cardíaca dada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q167",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 167,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Para decorar uma mesa de festa infantil, um chefe de cozinha usará um melão esférico com diâmetro medindo 10 cm, o qual servirá de suporte para espetar diversos doces. Ele irá retirar uma calota esférica do melão, conforme ilustra a figura, e, para garantir a estabilidade deste suporte, dificultando que o melão role sobre a mesa, o chefe fará o corte de modo que o raio r da seção circular de corte seja de pelo menos 3 cm. Por outro lado, o chefe desejará dispor da maior área possível da região em que serão afixados os doces.\n[[FIG1]]\nPara atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura h, em centímetro, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 - √91 / 2"
+      },
+      {
+        "letter": "B",
+        "text": "10 - √91"
+      },
+      {
+        "letter": "C",
+        "text": "1"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q167-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O melão esférico tem diâmetro de 10 cm, logo seu raio é R = 5 cm. Ao cortar uma calota de altura h, a distância do centro O ao plano da seção é dada por d = 5 - h. No triângulo retângulo OAB formado pelo centro da esfera, o centro da seção e um ponto da borda de corte, temos:\nr² + d² = R² ⇒ r² + (5 - h)² = 5² = 25.\nComo o suporte deve ter raio r de pelo menos 3 cm (r ≥ 3, logo r² ≥ 9):\n25 - (5 - h)² ≥ 9 ⇒ (5 - h)² ≤ 16 ⇒ -4 ≤ 5 - h ≤ 4 ⇒ 1 ≤ h ≤ 9.\nA área da região esférica restante (onde os doces serão afixados) é máxima quando a área da calota retirada (A = 2πRh) for mínima, ou seja, quando h for o menor possível.\nO menor valor permitido no intervalo é h = 1 cm, o que torna a alternativa C correta.\nAs alternativas A e B envolvem raízes resultantes de confusão entre diâmetro e raio no teorema de Pitágoras. A alternativa D (h = 4) resulta no raio máximo r = 5 cm, mas retira uma calota desnecessariamente grande. A alternativa E (h = 5) cortaria o melão exatamente ao meio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q169",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 169,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Razão e Proporção"
+    ],
+    "statement": "Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado um miniaplicativo de computador que roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa acessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso da sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.\n[[FIG1]]\nAnalisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no site",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "X."
+      },
+      {
+        "letter": "B",
+        "text": "Y."
+      },
+      {
+        "letter": "C",
+        "text": "Z."
+      },
+      {
+        "letter": "D",
+        "text": "W."
+      },
+      {
+        "letter": "E",
+        "text": "U."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q169-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A taxa de aumento relativo é dada por (Tempo_sábado - Tempo_sexta) / Tempo_sexta. Calculando a taxa para cada site:\n- Site X: (21 - 12) / 12 = 9 / 12 = 0,75 (aumento de 75%)\n- Site Y: (51 - 30) / 30 = 21 / 30 = 0,70 (aumento de 70%)\n- Site Z: (11 - 10) / 10 = 1 / 10 = 0,10 (aumento de 10%)\n- Site W: (57 - 38) / 38 = 19 / 38 = 0,50 (aumento de 50%)\n- Site U: (56 - 40) / 40 = 16 / 40 = 0,40 (aumento de 40%)\nA maior taxa percentual de aumento ocorreu no site X, com 75%, tornando correta a alternativa A.\nA alternativa B está incorreta pois o site Y teve 70% de taxa, inferior a X (apesar de ter maior aumento absoluto, 21 min). As alternativas C, D e E estão incorretas pois os sites Z, W e U tiveram taxas de apenas 10%, 50% e 40%, respectivamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q170",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 170,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.\n\n[[FIG1]]\n\nPor isso ele tem duas colunas. Na da esquerda, os números estão em ordem crescente, de cima para baixo, de -30 °C até 50 °C. Na coluna da direita, os números estão ordenados de forma crescente, de baixo para cima, de -30 °C até 50 °C.\n\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior do filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior dos filetes cinza nas duas colunas.\n\nDisponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\n\nQual é a temperatura máxima mais aproximada registrada nesse termômetro?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 °C"
+      },
+      {
+        "letter": "B",
+        "text": "7 °C"
+      },
+      {
+        "letter": "C",
+        "text": "13 °C"
+      },
+      {
+        "letter": "D",
+        "text": "15 °C"
+      },
+      {
+        "letter": "E",
+        "text": "19 °C"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q170-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "De acordo com o texto explicativo, a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita.\nNa coluna da direita, a escala termométrica é crescente de baixo para cima, variando de -30 °C a 50 °C. Cada divisão menor da régua representa 1 °C.\nObservando a linha tracejada que parte da base inferior do filete preto da coluna da direita, verifica-se que ela se alinha exatamente à marcação de 19 °C (uma divisão abaixo da marcação de 20 °C).\nPortanto, a temperatura máxima registrada é de 19 °C, tornando correta a alternativa E.\nA alternativa A refere-se à temperatura mínima indicada na coluna da esquerda (nível inferior do filete preto em 5 °C). As alternativas B e C referem-se à leitura dos filetes cinza (temperatura atual, em torno de 7 °C a 8 °C). A alternativa D (15 °C) não corresponde a nenhuma extremidade indicada pelos filetes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q171",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 171,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.\n\n[[FIG1]]\n\n[[FIG2]]\n\nUm pivô de três torres (T₁, T₂ e T₃) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T₁ são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.\n\nPara atingir seu objetivo, as velocidades das torres T₁, T₂ e T₃ devem ser, em metro por hora, de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12 , 24 e 36."
+      },
+      {
+        "letter": "B",
+        "text": "6 , 12 e 18."
+      },
+      {
+        "letter": "C",
+        "text": "2 , 4 e 6."
+      },
+      {
+        "letter": "D",
+        "text": "300 , 1 200 e 2 700."
+      },
+      {
+        "letter": "E",
+        "text": "600 , 2 400 e 5 400."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q171-1.webp",
+      "FIG2": "data/figuras/enem-2017-q171-2.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As distâncias da base às torres são: R₁ = 50 m para T₁, R₂ = 50 + 50 = 100 m para T₂, e R₃ = 100 + 50 = 150 m para T₃.\nO tempo para uma volta completa é de 25 horas e adota-se π ≈ 3. O comprimento circular C de cada trajetória é dado por C = 2πR ≈ 6R:\n- Para T₁: C₁ = 6 · 50 = 300 m. Velocidade v₁ = 300 / 25 = 12 m/h.\n- Para T₂: C₂ = 6 · 100 = 600 m. Velocidade v₂ = 600 / 25 = 24 m/h.\n- Para T₃: C₃ = 6 · 150 = 900 m. Velocidade v₃ = 900 / 25 = 36 m/h.\nPortanto, as velocidades das torres T₁, T₂ e T₃ são 12, 24 e 36 m/h, respectivamente, o que valida a alternativa A.\nA alternativa B erra ao calcular o comprimento da circunferência como πR em vez de 2πR. A alternativa C divide diretamente o raio pelo tempo (R / 25). As alternativas D e E representam as distâncias percorridas em metros (ou o dobro delas), esquecendo de dividir pelo tempo de 25 horas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q172",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 172,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água contida em cada reservatório nesse período pode ser visualizada na figura.\n\n[[FIG1]]\n\nO número de horas em que os dois reservatórios contêm a mesma quantidade de água é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "4."
+      },
+      {
+        "letter": "D",
+        "text": "5."
+      },
+      {
+        "letter": "E",
+        "text": "6."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q172-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os dois reservatórios possuem escalas distintas nos eixos verticais: o reservatório A (círculos) é lido no eixo da esquerda (de 0 a 180 000 L) e o reservatório B (triângulos) no eixo da direita (de 0 a 90 000 L).\nPara encontrar as horas em que ambos contêm a mesma quantidade de água, busca-se o período em que o valor numérico do volume coincide:\nNo intervalo de t = 8 h a t = 9 h, o reservatório A permanece constante no patamar horizontal de 30 000 L (lido no eixo da esquerda). Nesse mesmo intervalo de 8 h a 9 h, o reservatório B também se mantém constante no patamar horizontal de 30 000 L (lido no eixo da direita).\nAssim, durante todo esse período de 1 hora de duração (das 8 h às 9 h), os dois contêm exatamente a mesma quantidade de água (30 000 L).\nPortanto, a resposta é 1 hora, confirmando a alternativa A.\nAs alternativas B, C, D e E decorrem de leituras equivocadas, como contar os pontos de interseção visual das linhas no gráfico sem considerar a diferença de escala entre os eixos verticais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q173",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 173,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.\n\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).\n\nA quantidade de gasolina utilizada, em litro, no reabastecimento foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2017-q173-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2017-q173-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2017-q173-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2017-q173-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2017-q173-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q173-1.webp",
+      "FIG2": "data/figuras/enem-2017-q173-2.webp",
+      "FIG3": "data/figuras/enem-2017-q173-3.webp",
+      "FIG4": "data/figuras/enem-2017-q173-4.webp",
+      "FIG5": "data/figuras/enem-2017-q173-5.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O tanque do carro tinha inicialmente 100 kg de gasolina. No consumo informado, foram gastos quatro décimos dessa quantidade, ou seja, 4/10 de 100 kg = 40 kg. Dessa forma, restaram no tanque 100 - 40 = 60 kg. A equipe reabasteceu com a terça parte do que restou, logo, foram colocados (1/3) * 60 = 20 kg de combustível.\nA densidade da gasolina é de 750 g/L, o que equivale a 0,75 kg/L. Sabendo que densidade é a razão entre massa e volume (d = m / V), o volume em litros utilizado é dado por V = m / d = 20 / 0,75. Portanto, a expressão correta está na alternativa B.\nAs alternativas A e C erram na conversão da unidade de densidade de gramas por litro para quilogramas por litro (usando 0,075 e 7,5). Já as alternativas D e E multiplicam a massa pela densidade, em vez de dividi-la.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q174",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O gráfico apresenta a taxa de desemprego (em %) para o período de março de 2008 a abril de 2009, obtida com base nos dados observados nas regiões metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre.\n\n[[FIG1]]\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.\nAcesso em: 30 jul. 2012 (adaptado).\n\nA mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8,1%"
+      },
+      {
+        "letter": "B",
+        "text": "8,0%"
+      },
+      {
+        "letter": "C",
+        "text": "7,9%"
+      },
+      {
+        "letter": "D",
+        "text": "7,7%"
+      },
+      {
+        "letter": "E",
+        "text": "7,6%"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q174-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para calcular a mediana das taxas de desemprego no período de março de 2008 a abril de 2009, primeiro identificamos todos os 14 valores apresentados no gráfico cronologicamente: 8,6; 8,5; 7,9; 7,9; 8,1; 7,6; 7,7; 7,5; 7,6; 6,8; 8,2; 8,5; 9,0 e 8,9.\nOrganizando esses 14 termos em ordem crescente (rol), temos:\n6,8; 7,5; 7,6; 7,6; 7,7; 7,9; 7,9; 8,1; 8,2; 8,5; 8,5; 8,6; 8,9; 9,0.\nComo a quantidade de elementos é par (n = 14), a mediana é a média aritmética dos dois termos centrais, que ocupam a 7ª e a 8ª posições:\nMediana = (7,9 + 8,1) / 2 = 16,0 / 2 = 8,0%.\nPortanto, a alternativa B está correta.\nA alternativa A considerou apenas o 8º termo sem fazer a média. A alternativa C tomou apenas o 7º termo. As alternativas D e E correspondem a valores inferiores aos termos centrais da amostra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q176",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 176,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Álgebra"
+    ],
+    "statement": "A energia solar vai abastecer parte da demanda de energia do campus de uma universidade brasileira. A instalação de painéis solares na área dos estacionamentos e na cobertura do hospital pediátrico será aproveitada nas instalações universitárias e também ligada na rede da companhia elétrica distribuidora de energia.\n\nO projeto inclui 100 m² de painéis solares que ficarão instalados nos estacionamentos, produzindo energia elétrica e proporcionando sombra para os carros. Sobre o hospital pediátrico serão colocados aproximadamente 300 m² de painéis, sendo 100 m² para gerar energia elétrica utilizada no campus, e 200 m² para geração de energia térmica, produzindo aquecimento de água utilizada nas caldeiras do hospital.\n\nSuponha que cada metro quadrado de painel solar para energia elétrica gere uma economia de 1 kWh por dia e cada metro quadrado produzindo energia térmica permita economizar 0,7 kWh por dia para a universidade. Em uma segunda fase do projeto, será aumentada em 75% a área coberta pelos painéis solares que geram energia elétrica. Nessa fase também deverá ser ampliada a área de cobertura com painéis para geração de energia térmica.\n\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 30 out. 2013 (adaptado).\n\nPara se obter o dobro da quantidade de energia economizada diariamente, em relação à primeira fase, a área total dos painéis que geram energia térmica, em metro quadrado, deverá ter o valor mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "231."
+      },
+      {
+        "letter": "B",
+        "text": "431."
+      },
+      {
+        "letter": "C",
+        "text": "472."
+      },
+      {
+        "letter": "D",
+        "text": "523."
+      },
+      {
+        "letter": "E",
+        "text": "672."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na primeira fase, a área de painéis elétricos é de 100 m² (estacionamentos) + 100 m² (hospital) = 200 m², gerando economia de 200 * 1 = 200 kWh/dia. A área de painéis térmicos é de 200 m², gerando economia de 200 * 0,7 = 140 kWh/dia. Assim, a economia diária total da primeira fase é 200 + 140 = 340 kWh.\nNa segunda fase, deseja-se o dobro da economia diária: 2 * 340 = 680 kWh. A área de painéis elétricos aumenta 75%, passando para 200 * 1,75 = 350 m², que geram 350 kWh. Logo, a energia que deve ser gerada pelos painéis térmicos é de 680 - 350 = 330 kWh. Sendo a taxa térmica de 0,7 kWh/m², a nova área total térmica necessária é 330 / 0,7 ≈ 471,43 m², cujo valor mais próximo é 472 m² (alternativa C).\nA alternativa A calcula apenas a área adicional em relação à inicial. A alternativa B subestima o acréscimo térmico necessário. As alternativas D e E superestimam a área térmica ao ignorar a contribuição da expansão elétrica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q177",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser definido pela empresa. Existem cinco opções de formato oferecidas pelo programador, descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.\n\n[[FIG1]]\n\nAs letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.\n\nA empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.\n\nA opção que mais se adequa às condições da empresa é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q177-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O objetivo é encontrar o formato de senha cujo total de combinações N satisfaça 1.000.000 < N ≤ 2.000.000, sabendo que há 26 letras maiúsculas e 10 dígitos disponíveis com repetição permitida.\nAnalisando as opções:\n- Opção I: LDDDDD = 26 * 10^5 = 2.600.000 (superior a 2 milhões);\n- Opção II: DDDDDD = 10^6 = 1.000.000 (não é superior a 1 milhão, é igual);\n- Opção III: LLDDDD = 26^2 * 10^4 = 676 * 10.000 = 6.760.000 (superior a 2 milhões);\n- Opção IV: DDDDD = 10^5 = 100.000 (menor que 1 milhão);\n- Opção V: LLLDD = 26^3 * 10^2 = 17.576 * 100 = 1.757.600.\nComo 1.757.600 é superior a 1 milhão e não ultrapassa 2 milhões, a opção V é a mais adequada, correspondendo à alternativa E.\nAs alternativas A e C ultrapassam o dobro do número esperado de clientes, a alternativa B não é estritamente superior a 1 milhão e a alternativa D fica muito abaixo do valor exigido.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q178",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:\n\n[[FIG1]]\n\nSe a quantidade de jogadores for 8, quantas partidas serão realizadas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "64"
+      },
+      {
+        "letter": "B",
+        "text": "56"
+      },
+      {
+        "letter": "C",
+        "text": "49"
+      },
+      {
+        "letter": "D",
+        "text": "36"
+      },
+      {
+        "letter": "E",
+        "text": "28"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q178-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Cada partida envolve 2 jogadores distintos escolhidos entre os participantes do torneio, sem importar a ordem do confronto e sem repetição. Logo, o número de partidas para n jogadores é dado pela combinação simples de n elementos tomados 2 a 2:\nC(n, 2) = n * (n - 1) / 2.\nPara uma quantidade de n = 8 jogadores, temos:\nC(8, 2) = 8 * 7 / 2 = 56 / 2 = 28 partidas.\nOutra maneira de chegar ao resultado é observar o padrão da tabela: o acréscimo de partidas de um número de jogadores para o seguinte aumenta de 1 em 1 (para 3 jogadores somam-se 2, para 4 somam-se 3, ..., para 7 foram 21 partidas; logo, para 8 jogadores somam-se 7 partidas: 21 + 7 = 28).\nPortanto, a alternativa correta é a E.\nA alternativa A calcula 8^2 (arranjo com repetição para pares). A alternativa B calcula 8 * 7 (considerando a ordem dos confrontos, como em turno e returno). A alternativa C faz (8 - 1)^2. A alternativa D corresponde a C(9, 2).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q179",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um morador de uma região metropolitana tem 50% de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa região.\n\nQual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,075"
+      },
+      {
+        "letter": "B",
+        "text": "0,150"
+      },
+      {
+        "letter": "C",
+        "text": "0,325"
+      },
+      {
+        "letter": "D",
+        "text": "0,600"
+      },
+      {
+        "letter": "E",
+        "text": "0,800"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Pelo teorema da probabilidade total, a probabilidade de o morador se atrasar, P(A), depende da ocorrência ou não de chuva:\nP(A) = P(Chuva) * P(Atraso | Chuva) + P(Não Chuva) * P(Atraso | Não Chuva).\nOs dados do enunciado são:\n- Probabilidade de chuva: P(Chuva) = 30% = 0,30;\n- Probabilidade de não chover: P(Não Chuva) = 1 - 0,30 = 0,70;\n- Probabilidade de atraso com chuva: P(Atraso | Chuva) = 50% = 0,50;\n- Probabilidade de atraso sem chuva: P(Atraso | Não Chuva) = 25% = 0,25.\nSubstituindo esses valores:\nP(A) = 0,30 * 0,50 + 0,70 * 0,25 = 0,15 + 0,175 = 0,325.\nPortanto, a alternativa C está correta.\nA alternativa A calcula apenas a probabilidade de chover e atrasar dividida por dois (0,30 * 0,25). A alternativa B considera apenas o caso de chover e atrasar (0,30 * 0,50 = 0,150). As alternativas D e E decorrem de somas diretas de probabilidades condicionais sem ponderação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q180",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 180,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Álgebra"
+    ],
+    "statement": "Às 17 h 15 min começa uma forte chuva, que cai com intensidade constante. Uma piscina em forma de um paralelepípedo retângulo, que se encontrava inicialmente vazia, começa a acumular a água da chuva e, às 18 horas, o nível da água em seu interior alcança 20 cm de altura. Nesse instante, é aberto o registro que libera o escoamento da água por um ralo localizado no fundo dessa piscina, cuja vazão é constante. Às 18 h 40 min a chuva cessa e, nesse exato instante, o nível da água na piscina baixou para 15 cm.\n\nO instante em que a água dessa piscina terminar de escoar completamente está compreendido entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "19 h 30 min e 20 h 10 min."
+      },
+      {
+        "letter": "B",
+        "text": "19 h 20 min e 19 h 30 min."
+      },
+      {
+        "letter": "C",
+        "text": "19 h 10 min e 19 h 20 min."
+      },
+      {
+        "letter": "D",
+        "text": "19 h e 19 h 10 min."
+      },
+      {
+        "letter": "E",
+        "text": "18 h 40 min e 19 h."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Das 17h15 às 18h00 (45 minutos), a chuva eleva o nível da água em 20 cm. Assim, a taxa de elevação da chuva é de 20 / 45 = 4/9 cm/min.\nDas 18h00 às 18h40 (40 minutos), a chuva continua e o ralo atua. Nesse período, a chuva acrescentaria 40 * (4/9) = 160/9 cm. Como o nível caiu de 20 cm para 15 cm (uma redução líquida de 5 cm), a água escoada pelo ralo em 40 minutos foi de 160/9 + 5 = 205/9 cm. Logo, a vazão do ralo é (205/9) / 40 = 41/72 cm/min.\nÀs 18h40 a chuva cessa e restam 15 cm para escoar apenas pelo ralo. O tempo restante é:\nt = 15 / (41/72) = 1080 / 41 ≈ 26,34 minutos, ou seja, aproximadamente 26 minutos e 20 segundos.\nSomando esse tempo às 18h40, obtém-se 19h06min20s, horário que está compreendido entre 19 h e 19 h 10 min, confirmando a alternativa D.\nAs alternativas A, B e C superestimam o tempo de escoamento ao subestimar a vazão do ralo, enquanto a alternativa E supõe que o escoamento terminaria antes das 19h.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 2º dia, Caderno 7 - Azul"
+    }
   }
 ]
