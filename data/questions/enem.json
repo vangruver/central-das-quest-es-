@@ -123493,5 +123493,1212 @@
       "institution": "INEP",
       "note": "ENEM 2024 – 1º dia, 1 - AZUL"
     }
+  },
+  {
+    "id": "enem-2024-q96",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 96,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças agrícolas como substituintes de pesticidas sintéticos tradicionais, por serem menos nocivos ao ambiente, biodegradáveis e minimizarem custos e riscos relativos à lavoura. Por exemplo, os compostos 1 e 2 estão envolvidos nas respostas de defesa das plantas. Os grupos funcionais presentes nesses compostos são importantes para suas propriedades no controle de pragas.\n[[FIG1]]\nPINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. Química Nova, n. 10, 2013 (adaptado).\n\nQual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ácido carboxílico."
+      },
+      {
+        "letter": "B",
+        "text": "Cetona."
+      },
+      {
+        "letter": "C",
+        "text": "Alceno."
+      },
+      {
+        "letter": "D",
+        "text": "Álcool."
+      },
+      {
+        "letter": "E",
+        "text": "Fenol."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q96-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Analisando a estrutura do Composto 1 (ácido salicílico), identificamos as funções ácido carboxílico (-COOH) e fenol (-OH ligado ao anel aromático). No Composto 2 (ácido jasmônico), identificamos as funções cetona (C=O em anel), alceno (ligação dupla C=C) e ácido carboxílico (-COOH). Portanto, a única função orgânica comum a ambos os compostos é o ácido carboxílico, o que torna a alternativa A correta.\n\nA alternativa B é incorreta porque apenas o composto 2 possui cetona.\nA alternativa C é incorreta porque apenas o composto 2 apresenta alceno.\nA alternativa D é incorreta porque nenhum dos dois compostos possui a função álcool (no composto 1 a hidroxila está ligada a anel aromático, configurando fenol).\nA alternativa E é incorreta porque apenas o composto 1 possui fenol.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q97",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 97,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos.\n[[FIG1]]\nEm relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito."
+      },
+      {
+        "letter": "B",
+        "text": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito."
+      },
+      {
+        "letter": "C",
+        "text": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo."
+      },
+      {
+        "letter": "D",
+        "text": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo."
+      },
+      {
+        "letter": "E",
+        "text": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q97-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em um tubo de ensaio contendo meio de cultura líquido, a concentração de oxigênio dissolvido é maior no topo (próximo ao ar) e decresce até o fundo, onde o meio se torna anóxico. No tubo 1, as bactérias se concentram exclusivamente no topo, necessitando de oxigênio para sobreviver, sendo classificadas como aeróbias estritas. No tubo 2, o crescimento ocorre somente no fundo, onde não há oxigênio (o qual lhes é tóxico), sendo anaeróbias estritas. No tubo 3, as bactérias proliferam por todo o tubo, com maior densidade no topo, pois realizam respiração aeróbia com O2, mas também sobrevivem por fermentação ou respiração anaeróbia na ausência dele, caracterizando anaeróbias facultativas. Logo, a ordem correta é aeróbio estrito, anaeróbio estrito e anaeróbio facultativo, correspondendo à alternativa C.\n\nAs alternativas A, B e D erram ao classificar o tubo 1 como anaeróbio (facultativo ou estrito), desconsiderando a exigência de oxigênio no topo.\nA alternativa E erra ao inverter as classificações dos tubos 2 e 3.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q100",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 100,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.\n[[FIG1]]\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\n\nAo repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q100-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q100-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q100-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q100-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q100-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q100-1.webp",
+      "FIG2": "data/figuras/enem-2024-q100-2.webp",
+      "FIG3": "data/figuras/enem-2024-q100-3.webp",
+      "FIG4": "data/figuras/enem-2024-q100-4.webp",
+      "FIG5": "data/figuras/enem-2024-q100-5.webp",
+      "FIG6": "data/figuras/enem-2024-q100-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O cilindro metálico colocado entre as placas atua como um condutor em equilíbrio eletrostático no interior de um campo elétrico. Pelo fenômeno da blindagem eletrostática (Gaiola de Faraday), o campo elétrico no interior da cavidade de um condutor oco em equilíbrio eletrostático é nulo, de modo que não há linhas de campo dentro do cilindro. Além disso, a superfície de um condutor metálico é equipotencial, o que faz com que as linhas de força cheguem e saiam perpendicularmente à sua superfície externa, orientadas da placa positiva para a negativa (da esquerda para a direita). O único esquema que representa a ausência total de campo no interior do cilindro e a curvatura correta das linhas de campo no exterior (indo da placa A para a B) é o da Figura 6, correspondente à alternativa E.\n\nAs alternativas A, B, C e D são incorretas pois mostram linhas de campo atravessando a cavidade interna do cilindro oco, violando a blindagem eletrostática. Ademais, em B, C e D as linhas apontam no sentido oposto ao campo original.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q104",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 104,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade υ⃗_c, cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador precisará nadar na direção apontada pelos vetores υ⃗_n dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito.\n[[FIG1]]\nNessa situação, em quantos minutos o nadador completará a prova?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "42"
+      },
+      {
+        "letter": "B",
+        "text": "65"
+      },
+      {
+        "letter": "C",
+        "text": "72"
+      },
+      {
+        "letter": "D",
+        "text": "105"
+      },
+      {
+        "letter": "E",
+        "text": "120"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q104-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O circuito é percorrido no sentido anti-horário (1 -> 2 -> 3 -> 4 -> 1). A corrente tem velocidade vc = 30 m/min para baixo (sul), e o nadador tem velocidade vn = 50 m/min relativa à água.\nTrecho 1 -> 2 (800 m para leste): o nadador aponta contra a corrente para compensá-la. Sua componente vertical anula a corrente (30 m/min), logo a velocidade horizontal resultante é raiz de (50² - 30²) = 40 m/min. O tempo é t12 = 800 / 40 = 20 min.\nTrecho 2 -> 3 (400 m para o norte): contra a corrente, a velocidade resultante é vn - vc = 50 - 30 = 20 m/min. O tempo é t23 = 400 / 20 = 20 min.\nTrecho 3 -> 4 (800 m para oeste): analogamente ao trecho 1-2, o nadador compensa a corrente, obtendo velocidade horizontal para oeste de 40 m/min. O tempo é t34 = 800 / 40 = 20 min.\nTrecho 4 -> 1 (400 m para o sul): a favor da corrente, a velocidade resultante é vn + vc = 50 + 30 = 80 m/min. O tempo é t41 = 400 / 80 = 5 min.\nTempo total = 20 + 20 + 20 + 5 = 65 minutos, o que corresponde à alternativa B.\n\nA alternativa A (42 min) subestima o tempo por não considerar adequadamente o trecho contra a corrente.\nAs alternativas C (72 min), D (105 min) e E (120 min) resultam de cálculos incorretos da composição vetorial de velocidades.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q109",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 109,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, I_{máx}. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos.\n[[FIG1]]\nUm estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e I_{máx} = 1,0 mA cada; e dois resistores de 1,5 kΩ cada.\nO circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por I_{máx}, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q109-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q109-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q109-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q109-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q109-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q109-1.webp",
+      "FIG2": "data/figuras/enem-2024-q109-2.webp",
+      "FIG3": "data/figuras/enem-2024-q109-3.webp",
+      "FIG4": "data/figuras/enem-2024-q109-4.webp",
+      "FIG5": "data/figuras/enem-2024-q109-5.webp",
+      "FIG6": "data/figuras/enem-2024-q109-6.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada LED opera com 3,0 V e corrente I = 1,0 mA. Para que ambos fiquem sob 3,0 V a partir de uma fonte de 4,5 V, eles não podem ser ligados em série, pois a soma das tensões (6,0 V) excederia a tensão da bateria. Devem, portanto, ser associados em ramos em paralelo. Em cada ramo, deve haver um resistor em série com o LED para absorver a diferença de potencial: V_resistor = 4,5 V - 3,0 V = 1,5 V. Com corrente I = 1,0 mA = 0,001 A, a resistência necessária para cada ramo é R = 1,5 V / 0,001 A = 1500 ohms = 1,5 kΩ, que coincide exatamente com os resistores disponíveis. Além disso, a corrente contínua sai pelo polo positivo (+) da bateria e precisa entrar pelo anodo (base do triângulo) do LED. O circuito da Figura 3 (alternativa B) apresenta dois ramos paralelos contendo cada um um resistor de 1,5 kΩ e um LED orientado corretamente para a corrente que desce do polo positivo.\n\nA alternativa A usa apenas um resistor para os dois ramos paralelos, dividindo a corrente de modo inadequado.\nA alternativa C está com os LEDs polarizados reversamente (não conduzem corrente).\nA alternativa D coloca os dois LEDs em série, exigindo 6,0 V, valor indisponível na bateria de 4,5 V.\nA alternativa E possui um único resistor e os LEDs em antiparalelo/reversamente polarizados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q110",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 110,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Uma caixa decorativa utiliza duas pequenas lâmpadas, L₁ (6 V – 9 W) e L₂ (12 V – 18 W), ligadas em série a uma bateria de tensão V_{QR}. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis. A figura ilustra esse circuito.\n[[FIG1]]\nEm qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A"
+      },
+      {
+        "letter": "B",
+        "text": "B"
+      },
+      {
+        "letter": "C",
+        "text": "C"
+      },
+      {
+        "letter": "D",
+        "text": "D"
+      },
+      {
+        "letter": "E",
+        "text": "E"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q110-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para que as lâmpadas funcionem nominalmente, L1 opera com 6 V e L2 com 12 V. Como estão em série em relação ao ponto comum P, a tensão total da bateria é V_QR = 6 + 12 = 18 V. A corrente em L1 é I1 = P1/V1 = 9/6 = 1,5 A, e em L2 é I2 = P2/V2 = 18/12 = 1,5 A. Como as correntes nominais são iguais, a corrente no nó P é zero, de modo que o amperímetro ideal medirá zero quando o potencial no ponto de contato S for exatamente igual ao potencial no ponto P. Assim, a ddp entre Q e S deve ser de 6 V, e entre S e R de 12 V. Sendo o fio QR homogêneo de 48 cm submetido a 18 V, o gradiente de potencial é de 18 V / 48 cm = 0,375 V/cm. Os 5 pontos (A, B, C, D, E) dividem o fio de 48 cm em 6 segmentos de 8 cm cada. Portanto, as tensões a partir de Q são: ponto A (8 cm) = 3 V; ponto B (16 cm) = 6 V; ponto C (24 cm) = 9 V; ponto D (32 cm) = 12 V; ponto E (40 cm) = 15 V. Para termos 6 V de queda em relação a Q, o terminal S deve ser conectado ao ponto B, tornando correta a alternativa B.\n\nA alternativa A levaria a uma tensão de apenas 3 V sobre L1.\nAs alternativas C, D e E forneceriam tensões de 9 V, 12 V e 15 V para L1, respectivamente, queimando ou operando a lâmpada fora de suas especificações.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q114",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 114,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo.\n[[FIG1]]\nEm qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q114-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O centro de massa (CM) indicado na imagem está localizado ligeiramente à direita e um pouco acima do centro geométrico da roda (na região do quadrante superior direito, próximo ao eixo horizontal). Para deslocar o centro de massa de volta ao centro geométrico, é necessário adicionar uma massa corretiva (chumbo) na região diametralmente oposta ao deslocamento do CM. A posição diametralmente oposta a um ponto situado no lado superior direito/direito é o setor inferior esquerdo. Dentre os pontos numerados na borda da roda, o ponto 3 encontra-se exatamente no setor inferior esquerdo, na linha oposta ao desvio do CM, sendo o local correto para fixar a peça de chumbo. Assim, a alternativa correta é a C.\n\nOs pontos 1 e 5 estão localizados no setor superior direito, onde o CM já está deslocado, o que agravaria ainda mais o desbalanceamento.\nO ponto 2 está na metade esquerda, mas no eixo horizontal, sem compensar adequadamente o desvio diagonal.\nO ponto 4 está diretamente abaixo no eixo vertical, não corrigindo o desvio horizontal para a direita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q116",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 116,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Evolução",
+      "Zoologia"
+    ],
+    "statement": "Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.\n[[FIG1]]\nDIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado).\nAo longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "aumento no número de descendentes por ninhada."
+      },
+      {
+        "letter": "B",
+        "text": "mudança no tipo de fecundação de externa para interna."
+      },
+      {
+        "letter": "C",
+        "text": "redução da versatilidade de reprodução, que se torna unicamente sexuada."
+      },
+      {
+        "letter": "D",
+        "text": "desenvolvimento embrionário, que passa do meio aquático para o terrestre."
+      },
+      {
+        "letter": "E",
+        "text": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q116-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O cladograma mostra a evolução dos mamíferos a partir do ancestral comum, dividindo-se em Monotremata (prototérios, ovíparos como o ornitorrinco), Marsupialia (metatérios) e Placentalia (eutérios). Os monotremados botam ovos dotados de grande quantidade de vitelo na vesícula vitelínica para nutrir o embrião. Com a evolução dos marsupiais e placentários, o embrião passou a ser nutrido no interior do corpo materno (via placenta primitiva nos marsupiais e placenta complexa nos eutérios) e pela lactação após o nascimento, o que levou a uma redução drástica da vesícula vitelínica e de sua dependência nutritiva. Assim, a alternativa E está correta.\n\nA alternativa A é incorreta pois não houve aumento obrigatório no tamanho da ninhada; de fato, animais maiores tendem a ter menos filhotes.\nA alternativa B é incorreta pois todos os mamíferos compartilham fecundação interna, já presente em seu ancestral réptil amniota.\nA alternativa C é incorreta porque a reprodução nos vertebrados ancestrais já era unicamente sexuada.\nA alternativa D é incorreta pois a transição para o meio terrestre com ovo amniótico já havia ocorrido nos répteis ancestrais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q118",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 118,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Mirascópio 3D: produtor de ilusão instantânea\nO equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E₁ e E₂, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E₁ coincide com o foco de E₂ e vice-versa. Na abertura circular de E₂, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E₁. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E₂ e E₁, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.\n[[FIG1]]\nSALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).\nA natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "real e 5 cm."
+      },
+      {
+        "letter": "B",
+        "text": "real e 3,8 cm."
+      },
+      {
+        "letter": "C",
+        "text": "real e 7,6 cm."
+      },
+      {
+        "letter": "D",
+        "text": "virtual e 7,6 cm."
+      },
+      {
+        "letter": "E",
+        "text": "virtual e 3,8 cm."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q118-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O mirascópio é formado por dois espelhos côncavos idênticos E1 e E2, em que o vértice de cada um coincide com o foco principal do outro. O objeto está localizado sobre o vértice de E1 (foco de E2). Os raios que partem do objeto incidem no espelho superior E2 e, como partem de seu foco principal, são refletidos paralelamente ao eixo principal (verticalmente para baixo). Em seguida, esses raios paralelos incidem no espelho inferior E1 e são convergidos para o foco de E1, que coincide exatamente com o vértice superior de E2 (a abertura circular). Como a imagem é formada pelo cruzamento real dos próprios raios de luz convergentes, sua natureza é real. A distância vertical entre o ponto objeto (vértice inferior de E1) e o ponto imagem (abertura no topo de E2) é a distância total entre os vértices dos dois espelhos: 3,8 cm + 3,8 cm = 7,6 cm. Portanto, a alternativa correta é a C.\n\nAs alternativas A e B indicam distâncias incorretas (5 cm e 3,8 cm) para a separação vertical total entre o objeto na base e a imagem no topo.\nAs alternativas D e E erram ao classificar a imagem como virtual, pois ela é formada pela convergência física dos raios refletidos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q122",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 122,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "Metabolismo de procariontes\nO esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.\n[[FIG1]]\nDisponível em: https://pt.khanacademy.org. Acesso em: 27 jun. 2024 (adaptado).\nEm qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariontes nitrificantes?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q122-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os procariontes nitrificantes oxidam a amônia (NH3, Nox do N = -3) a nitrito (NO2-, Nox do N = +3) e depois a nitrato (NO3-, Nox do N = +5), ou seja, realizam a oxidação do nitrogênio para obter energia. No ciclo do carbono, os procariontes decompositores (etapa 5) decompõem a matéria orgânica e oxidam os carbonos fixados (que apresentam Nox médio próximo a 0 ou negativo nos carboidratos) a dióxido de carbono (CO2, Nox do C = +4), liberando CO2 para a atmosfera, caracterizando também uma oxidação da matéria. Portanto, a transformação redox análoga (oxidação de um composto reduzido para liberação de gás oxidado) ocorre na etapa 5, tornando correta a alternativa E.\n\nA etapa 1 corresponde à fixação biológica de N2 em NH3 (redução do nitrogênio).\nA etapa 2 é a desnitrificação, onde o nitrato (NO3-) é reduzido a N2 (redução do nitrogênio).\nAs etapas 3 e 4 correspondem à fixação fotossintética do CO2 por procariontes e plantas, processo no qual o carbono é reduzido (ganha elétrons) para formar matéria orgânica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q123",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 123,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Ambiental"
+    ],
+    "statement": "Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO₂), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O₂), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.\n[[FIG1]]\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).\nNa condição de razão ar/combustível igual a 18, haverá uma emissão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "baixa de O₂ e alta de NO."
+      },
+      {
+        "letter": "B",
+        "text": "baixa de NO e alta de HC."
+      },
+      {
+        "letter": "C",
+        "text": "baixa de CO e alta de CO₂."
+      },
+      {
+        "letter": "D",
+        "text": "baixa de HC e alta de CO."
+      },
+      {
+        "letter": "E",
+        "text": "baixa de CO₂ e alta de HC."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q123-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Analisando o gráfico no eixo horizontal no ponto em que a razão ar/combustível é igual a 18 (região de excesso de ar):\n- A curva de CO2 (azul) atinge cerca de 12% a 13% do volume, um valor bastante alto (próximo ao topo da escala).\n- A curva de CO (verde) está muito próxima de zero (emissão muito baixa).\n- A curva de NO (amarela) está em declínio, em torno de 1 x 10³ vppm.\n- A curva de HC (vermelha) está próxima do seu ponto mínimo (aproximadamente 1,3 x 10² vppm).\n- A curva de O2 (azul-clara) está em elevação (cerca de 4%).\nComparando esses dados com as opções, temos na razão 18 uma emissão muito baixa de CO e uma emissão alta de CO2, o que valida a alternativa C.\n\nA alternativa A é incorreta pois a emissão de NO está caindo e a de O2 está em ascensão (não baixa).\nA alternativa B é incorreta pois a emissão de hidrocarbonetos (HC) é baixa nessa região.\nA alternativa D é incorreta pois a emissão de CO é praticamente nula (baixa, e não alta).\nA alternativa E é incorreta pois o CO2 é alto e o HC é baixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q127",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 127,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia",
+      "Ecologia"
+    ],
+    "statement": "As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.\n[[FIG1]]\nALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. Ciência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).\nNesse contexto, como a urbanização está causando riscos à saúde humana?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Disseminando verminoses."
+      },
+      {
+        "letter": "B",
+        "text": "Causando a eutrofização de lagoas."
+      },
+      {
+        "letter": "C",
+        "text": "Aumentando a chance de contato com coliformes."
+      },
+      {
+        "letter": "D",
+        "text": "Diminuindo a população de predadores aquáticos."
+      },
+      {
+        "letter": "E",
+        "text": "Aproximando as pessoas das áreas de ocorrência de mosquitos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q127-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O fluxograma detalha a cadeia de eventos: Urbanização -> Ausência de saneamento básico -> Contaminação da água -> Redução da biodiversidade aquática -> Riscos para a saúde humana. No contexto das arboviroses transmitidas por mosquitos (que se reproduzem em corpos hídricos), a contaminação da água leva à perda de diversidade biológica aquática, o que reduz substancialmente as populações de animais predadores naturais das larvas e pupas de mosquitos (como peixes e insetos aquáticos carnívoros). Com menos predadores, há uma proliferação descontrolada dos mosquitos vetores, aumentando os riscos de infecção de doenças como dengue, zika e chikungunya para a população. Assim, a redução da biodiversidade aquática traduz-se diretamente na diminuição de predadores de mosquitos, justificando a alternativa D.\n\nAs alternativas A e C tratam de transmissão feco-oral e de agentes bacterianos/helmintos, fugindo do tema central das arboviroses transmitidas por mosquitos abordado no texto.\nA alternativa B aponta a eutrofização, que é causa/processo de poluição e não o elo que explica o risco direto à saúde por vetores.\nA alternativa E afirma uma aproximação física territorial, desconsiderando a cadeia ecológica mostrada de diminuição da biodiversidade aquática.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q135",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 135,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres. Um casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê.\nConsidere a legenda:\n[[FIG1]]\nGRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).\nQual heredograma foi recebido pelo casal?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q135-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q135-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q135-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q135-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q135-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q135-1.webp",
+      "FIG2": "data/figuras/enem-2024-q135-2.webp",
+      "FIG3": "data/figuras/enem-2024-q135-3.webp",
+      "FIG4": "data/figuras/enem-2024-q135-4.webp",
+      "FIG5": "data/figuras/enem-2024-q135-5.webp",
+      "FIG6": "data/figuras/enem-2024-q135-6.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O daltonismo é uma herança recessiva ligada ao sexo (cromossomo X). Representando o alelo normal por X^D e o alelo para o daltonismo por X^d:\nO pai é um homem não daltônico, com genótipo X^D Y (representado por quadrado em branco).\nA mãe é não daltônica e portadora do gene recessivo, portanto é heterozigota com genótipo X^D X^d (representada por círculo branco com ponto vermelho no centro).\nOs cruzamentos possíveis para o bebê são:\n- Menina X^D X^D: mulher não daltônica não portadora (círculo branco);\n- Menina X^D X^d: mulher heterozigota portadora (círculo com ponto vermelho);\n- Menino X^D Y: homem não daltônico (quadrado branco);\n- Menino X^d Y: homem daltônico (quadrado azul preenchido).\nPortanto, a descendência possível para o bebê deve contemplar essas 4 possibilidades distintas: uma mulher não daltônica, uma mulher heterozigota portadora, um homem não daltônico e um homem daltônico. Essa combinação exata é mostrada na Figura 3, tornando a alternativa B correta.\n\nA alternativa A mostra uma mulher daltônica (círculo preenchido), o que é geneticamente impossível, pois o pai doaria X^D.\nA alternativa C omite a filha homozigota dominante e o filho daltônico.\nAs alternativas D e E trazem possibilidades incorretas de proporção e genótipos impossíveis.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q139",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.\nA expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "\\frac{7!}{4!} \\times \\frac{6!}{4!}"
+      },
+      {
+        "letter": "B",
+        "text": "\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}"
+      },
+      {
+        "letter": "C",
+        "text": "\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!} + \\frac{5!}{1! \\times 4!}"
+      },
+      {
+        "letter": "D",
+        "text": "(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!}) \\times (\\frac{7!}{4! \\times 3!} + \\frac{6!}{1! \\times 5!}) \\times (\\frac{7!}{5! \\times 2!} + \\frac{6!}{0! \\times 6!})"
+      },
+      {
+        "letter": "E",
+        "text": "(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}) + (\\frac{7!}{4! \\times 3!} \\times \\frac{6!}{1! \\times 5!}) + (\\frac{7!}{5! \\times 2!} \\times \\frac{6!}{0! \\times 6!})"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O hospital deseja formar uma comissão de 5 médicos a partir de 7 cardiologistas (C) e 6 neurologistas (N), com a condição de haver pelo menos 3 cardiologistas. Os casos possíveis e excludentes são:\n1) 3 cardiologistas e 2 neurologistas: C(7, 3) x C(6, 2) = [7! / (3! 4!)] x [6! / (2! 4!)]\n2) 4 cardiologistas e 1 neurologista: C(7, 4) x C(6, 1) = [7! / (4! 3!)] x [6! / (1! 5!)]\n3) 5 cardiologistas e 0 neurologistas: C(7, 5) x C(6, 0) = [7! / (5! 2!)] x [6! / (0! 6!)]\nO total de maneiras é dado pela soma das combinações de cada um dos três cenários:\n[7! / (3! 4!) x 6! / (2! 4!)] + [7! / (4! 3!) x 6! / (1! 5!)] + [7! / (5! 2!) x 6! / (0! 6!)].\nEssa expressão corresponde exatamente à alternativa E.\n\nA alternativa A calcula arranjos simples e considera uma única configuração.\nA alternativa B calcula apenas a escolha de 3 cardiologistas e 2 neurologistas, ignorando os casos com 4 ou 5 cardiologistas.\nA alternativa C soma combinações de maneira equivocada e usa fatores incorretos.\nA alternativa D multiplica as possibilidades dos três casos em vez de somá-las.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q144",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 144,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias.\n[[FIG1]]\nPara substituição dessa correia, é necessária a especificação de seu comprimento.\nConsidere 3 como valor aproximado para π.\nA medida do comprimento dessa correia, em centímetro, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "54."
+      },
+      {
+        "letter": "B",
+        "text": "60."
+      },
+      {
+        "letter": "C",
+        "text": "66."
+      },
+      {
+        "letter": "D",
+        "text": "68."
+      },
+      {
+        "letter": "E",
+        "text": "72."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q144-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O comprimento total da correia é a soma dos dois trechos retilíneos com os arcos de contato em cada polia. Os segmentos retos medem 15 cm cada, totalizando 30 cm. Na polia menor (r = 4 cm), o ângulo central de contato é 150°, gerando um arco de comprimento (150°/360°) × 2 × π × 4 = (5/12) × 2 × 3 × 4 = 10 cm. Pela simetria das tangentes externas, a soma dos arcos de contato das duas polias é 360°, logo o ângulo na polia maior (R = 8 cm) é 360° - 150° = 210°. O arco na polia maior mede (210°/360°) × 2 × π × 8 = (7/12) × 2 × 3 × 8 = 28 cm. Assim, o comprimento total é 30 + 10 + 28 = 68 cm, o que valida a alternativa D. A alternativa A desconsidera os trechos retos adequadamente. As alternativas B e C erram o cálculo proporcional dos arcos de circunferência. A alternativa E adiciona comprimentos inexistentes ao perímetro total.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q146",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 146,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos restantes em superfície que simula uma estrada de chão.\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão.\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q146-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q146-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q146-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q146-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q146-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q146-1.webp",
+      "FIG2": "data/figuras/enem-2024-q146-2.webp",
+      "FIG3": "data/figuras/enem-2024-q146-3.webp",
+      "FIG4": "data/figuras/enem-2024-q146-4.webp",
+      "FIG5": "data/figuras/enem-2024-q146-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O experimento possui duas fases: os primeiros 9 minutos no asfalto e os 11 minutos finais (de 9 a 20 min) na estrada de chão. Para aprovação, as ondas devem ter amplitudes constantes em cada etapa, com a amplitude no asfalto sendo menor que na estrada de chão. No gráfico da alternativa A, observa-se amplitude constante e reduzida no intervalo de 0 a 9 minutos, seguida de uma amplitude maior e também constante de 9 a 20 minutos, atendendo plenamente às condições exigidas. A alternativa B está incorreta porque a amplitude decai ao longo do segundo trecho. A alternativa C apresenta decaimento contínuo de amplitude durante todo o teste. A alternativa D mostra amplitude constante e idêntica nos dois tipos de pista. A alternativa E exibe amplitudes de mesma altura em ambos os trechos, variando apenas o período.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q151",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma indústria faz uma parceria com uma distribuidora de sucos para lançar no mercado dois tipos de embalagens. Para a fabricação dessas embalagens, a indústria dispõe de folhas de alumínio retangulares, de dimensões 10 cm por 20 cm. Cada uma dessas folhas é utilizada para formar a superfície lateral da embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. A figura ilustra, dependendo de qual das duas extensões será utilizada como altura, as duas opções para formar a possível embalagem.\n[[FIG1]]\nDentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "4 000 π"
+      },
+      {
+        "letter": "B",
+        "text": "2 000 π"
+      },
+      {
+        "letter": "C",
+        "text": "4 000 / π"
+      },
+      {
+        "letter": "D",
+        "text": "1 000 / π"
+      },
+      {
+        "letter": "E",
+        "text": "500 / π"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q151-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao enrolar a folha de 10 cm por 20 cm para formar a superfície lateral de um cilindro, temos duas configurações possíveis: Embalagem 1, com altura h = 20 cm e perímetro da base C = 10 cm, resultando em raio r = 10/(2π) = 5/π cm e volume V1 = π × (5/π)² × 20 = 500/π cm³; Embalagem 2, com altura h = 10 cm e perímetro da base C = 20 cm, fornecendo raio r = 20/(2π) = 10/π cm e volume V2 = π × (10/π)² × 10 = 1 000/π cm³. A embalagem de maior capacidade é a segunda, com volume igual a 1 000/π cm³, tornando correta a alternativa D. As alternativas A e B multiplicam por π em vez de dividir. A alternativa C utiliza o perímetro diretamente como raio no cálculo. A alternativa E corresponde à embalagem de menor capacidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q152",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 152,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "As receitas anuais obtidas por uma indústria no período de 2014 a 2021, em milhão de reais, foram registradas, por pontos, em um gráfico. Nele, também está representada a reta que descreve a tendência de evolução das receitas. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.\n[[FIG1]]\nA estimativa da receita, em milhão de reais, dessa indústria, para o ano de 2026, obtida a partir dessa reta de tendência, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "7."
+      },
+      {
+        "letter": "B",
+        "text": "8."
+      },
+      {
+        "letter": "C",
+        "text": "9."
+      },
+      {
+        "letter": "D",
+        "text": "10."
+      },
+      {
+        "letter": "E",
+        "text": "11."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q152-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A reta de tendência passa de maneira exata pelos pontos da malha quadriculada em (2014, 4) e (2020, 6). A taxa de variação linear da receita anual é dada pela inclinação da reta: m = (6 - 4) / (2020 - 2014) = 2/6 = 1/3 milhão de reais por ano. Para projetar a receita no ano de 2026, calculamos a variação em relação a 2014, que compreende um intervalo de 12 anos: R(2026) = 4 + 12 × (1/3) = 4 + 4 = 8 milhões de reais. Portanto, a estimativa correta é a alternativa B. A alternativa A subestima a projeção, considerando uma inclinação menor que a da reta traçada. As alternativas C, D e E superestimam a evolução, atribuindo taxas de crescimento muito superiores à tendência do gráfico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q153",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Funções"
+    ],
+    "statement": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n[[FIG1]]\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q153-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q153-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q153-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q153-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q153-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q153-1.webp",
+      "FIG2": "data/figuras/enem-2024-q153-2.webp",
+      "FIG3": "data/figuras/enem-2024-q153-3.webp",
+      "FIG4": "data/figuras/enem-2024-q153-4.webp",
+      "FIG5": "data/figuras/enem-2024-q153-5.webp",
+      "FIG6": "data/figuras/enem-2024-q153-6.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A água entra pelo compartimento da direita, cuja base é 1/3 da área total. Para enchê-lo até a altura do anteparo (H/2), é necessário 1/6 do volume total, o que consome (1/6) × 12 = 2 horas. A partir desse instante, a água transborda para os demais compartimentos. Como o anteparo central tem H/2, a água não pode ultrapassar essa cota na direita enquanto o restante do tanque abaixo de H/2 não estiver totalmente preenchido. Para encher os dois compartimentos restantes até H/2, gasta-se mais (2/6) × 12 = 4 horas. Assim, de 2 h a 6 h, a maior altura registrada permanece constante em H/2. Após 6 h, todo o tanque sobe de forma uniforme de H/2 a H ao longo das 6 horas restantes. Esse comportamento linear por partes corresponde à alternativa B. A alternativa A traz platô de apenas 2 horas. A alternativa C prevê platô de 8 horas. As alternativas D e E representam funções em degrau, ignorando o enchimento gradual contínuo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q159",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 159,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n\n[[FIG1]]\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "147,00."
+      },
+      {
+        "letter": "B",
+        "text": "150,00."
+      },
+      {
+        "letter": "C",
+        "text": "162,50."
+      },
+      {
+        "letter": "D",
+        "text": "165,75."
+      },
+      {
+        "letter": "E",
+        "text": "168,00."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q159-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Calculamos o custo por hectare de cada defensivo: o Tipo A custa R$ 4,20 para 0,5 ha, ou seja, R$ 8,40/ha; o Tipo B custa R$ 3,00 para 0,4 ha, ou seja, R$ 7,50/ha, sendo mais econômico por área. Se o agricultor comprar apenas defensivo B para os 20 ha, precisará de 20 / 0,4 = 50 litros, gastando 50 × 3,00 = R$ 150,00 mais a máscara de R$ 12,50, totalizando R$ 162,50. Caso opte pela promoção para ganhar a máscara, deve comprar no mínimo 35 litros do Tipo A (cobrindo 17,5 ha por R$ 147,00) e cobrir os 2,5 ha restantes com Tipo B (2,5 / 0,4 = 6,25 litros por R$ 18,75), totalizando R$ 165,75. Se comprasse apenas Tipo A, gastaria 40 × 4,20 = R$ 168,00. Logo, o gasto mínimo é R$ 162,50, confirmando a alternativa C. A alternativa A não cobre toda a área. A alternativa B desconsidera a compra obrigatória da máscara. As alternativas D e E representam gastos superiores decorrentes do uso da promoção ou de apenas Tipo A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q161",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 161,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários, por setor e por faixa etária.\n\n[[FIG1]]\n\nUma viagem de férias será sorteada entre esses funcionários, de forma que todos terão igual probabilidade de serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários."
+      },
+      {
+        "letter": "B",
+        "text": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor."
+      },
+      {
+        "letter": "C",
+        "text": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor."
+      },
+      {
+        "letter": "D",
+        "text": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa."
+      },
+      {
+        "letter": "E",
+        "text": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q161-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Calculando a quantidade de funcionários em cada faixa etária: Até 25 anos: 20% de 80 + 25% de 120 + 40% de 200 = 16 + 30 + 80 = 126 funcionários. Entre 25 e 45 anos: 30% de 80 + 40% de 120 + 35% de 200 = 24 + 48 + 70 = 142 funcionários. A partir de 45 anos: 50% de 80 + 35% de 120 + 25% de 200 = 40 + 42 + 50 = 132 funcionários. Como todos têm igual probabilidade no sorteio, a maior probabilidade pertence ao grupo mais numeroso, que é o de funcionários entre 25 e 45 anos (142 pessoas), tornando correta a alternativa A. A alternativa B apresenta uma justificativa arbitrária sem fundamentação probabilística. As alternativas C e D escolhem a faixa de até 25 anos baseando-se em tendências parciais de setores, ignorando o total absoluto. A alternativa E soma porcentagens de bases diferentes, cometendo erro conceitual.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q162",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 162,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n\n[[FIG1]]\n\nA projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2024-q162-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2024-q162-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q162-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q162-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2024-q162-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q162-1.webp",
+      "FIG2": "data/figuras/enem-2024-q162-2.webp",
+      "FIG3": "data/figuras/enem-2024-q162-3.webp",
+      "FIG4": "data/figuras/enem-2024-q162-4.webp",
+      "FIG5": "data/figuras/enem-2024-q162-5.webp",
+      "FIG6": "data/figuras/enem-2024-q162-6.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para determinar a projeção ortogonal da trajetória ABCDEF sobre o plano da base, analisamos as coordenadas projetadas de cada vértice em uma malha quadriculada 4x4, considerando o fundo como a linha superior (y = 0), a frente como a inferior (y = 4), a parede esquerda em x = 0 e a parede direita em x = 4:\n- O ponto A está no canto superior direito do fundo: A' = (4, 0).\n- O ponto B está na parede esquerda, a uma unidade do fundo: B' = (0, 1). Assim, o segmento A'B' liga (4, 0) a (0, 1).\n- O segmento BC é estritamente vertical, logo sua projeção reduz-se a um único ponto: C' = B' = (0, 1).\n- O ponto D está na parede direita, duas unidades à frente do fundo: D' = (4, 2). Portanto, C'D' vai de (0, 1) a (4, 2).\n- O ponto E está na parede direita, três unidades à frente do fundo: E' = (4, 3). Como ambos pertencem à parede direita, D'E' é o segmento vertical ao longo da borda direita que liga (4, 2) a (4, 3).\n- O ponto F está na borda frontal, no ponto médio: F' = (2, 4). Logo, E'F' liga (4, 3) a (2, 4).\nEssa trajetória projetada corresponde exatamente à figura da alternativa C.\n\nErros das demais alternativas:\n- A e B desconsideram a projeção do segmento DE na parede direita, ligando o ponto à borda frontal diretamente.\n- D projeta indevidamente um segmento vertical BC na parede esquerda, quando na verdade BC é perpendicular à base e se projeta em um ponto.\n- E projeta D na primeira linha (y = 1), tornando o segmento C'D' horizontal, o que não corresponde à posição de D na segunda linha (y = 2).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q168",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 168,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Três grandezas (I, II e III) se relacionam entre si. Os gráficos a seguir, formados por segmentos de reta, descrevem as relações de dependência existentes entre as grandezas I e II, e entre as grandezas II e III.\n[[FIG1]]\nO valor máximo assumido pela grandeza III, quando a grandeza I varia de 1 a 3, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,0."
+      },
+      {
+        "letter": "B",
+        "text": "2,5."
+      },
+      {
+        "letter": "C",
+        "text": "3,0."
+      },
+      {
+        "letter": "D",
+        "text": "3,5."
+      },
+      {
+        "letter": "E",
+        "text": "4,0."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q168-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No primeiro gráfico, a grandeza II cresce com a grandeza I. Quando I varia de 1 a 2, a relação linear é II = 1,5 × I, atingindo II = 1,5 em I = 1 e II = 3 em I = 2. No trecho de I = 2 a I = 4, a inclinação é (4 - 3)/(4 - 2) = 0,5, logo para I = 3 temos II = 3 + 0,5 × (3 - 2) = 3,5. Assim, quando I varia de 1 a 3, a grandeza II percorre o intervalo [1,5; 3,5]. No segundo gráfico, para II entre 1,5 e 3, a relação é decrescente com III = 4 - II, cujo máximo ocorre em II = 1,5, valendo III = 4 - 1,5 = 2,5. No intervalo de II entre 3 e 3,5, a relação é crescente com inclinação 2: III = 1 + 2 × (II - 3), alcançando no máximo III = 1 + 2 × 0,5 = 2,0 em II = 3,5. O valor máximo assumido por III é o maior entre 2,5 e 2,0, ou seja, 2,5, correspondendo à alternativa B. A alternativa A indica o valor mínimo. As alternativas C, D e E excedem os valores possíveis para a grandeza III nesse intervalo restrito.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q175",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 175,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O gráfico apresenta o valor total de exportações e o valor total de importações, ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira é dado pelo valor total de exportações menos o valor total de importações num mesmo período.\n[[FIG1]]\nFonte: Ministério do Desenvolvimento.\nDisponível em: http://blogs.estadao.com.br.\nAcesso em: 20 fev. 2013 (adaptado).\n\nConsidere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam representados por:\n• S₁: saldo em junho de 2009;\n• S₂: saldo em janeiro de 2010;\n• S₃: saldo em junho de 2010.\n\nA ordenação dos saldos S₁, S₂ e S₃, do maior para o menor, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "S₁, S₃ e S₂."
+      },
+      {
+        "letter": "B",
+        "text": "S₂, S₁ e S₃."
+      },
+      {
+        "letter": "C",
+        "text": "S₂, S₃ e S₁."
+      },
+      {
+        "letter": "D",
+        "text": "S₃, S₁ e S₂."
+      },
+      {
+        "letter": "E",
+        "text": "S₃, S₂ e S₁."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q175-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O saldo da balança comercial é calculado por Saldo = Exportações - Importações. Em junho de 2009, as exportações estão em torno de 14,5 bilhões e as importações em 10,0 bilhões, gerando saldo positivo S₁ ≈ 14,5 - 10,0 = +4,5 bilhões. Em janeiro de 2010, a curva de exportações apresenta um vale em torno de 11,3 bilhões, ficando abaixo da curva de importações (aproximadamente 11,6 bilhões), de modo que o saldo S₂ é negativo (déficit comercial). Em junho de 2010, os valores indicados são 17,1 bilhões de exportações e 14,8 bilhões de importações, resultando em S₃ = 17,1 - 14,8 = +2,3 bilhões. Ordenando do maior para o menor, temos S₁ > S₃ > S₂, o que confirma a alternativa A. As alternativas B e C posicionam incorretamente S₂ como o maior saldo, apesar de ser deficitário. As alternativas D e E invertem a relação entre S₁ e S₃.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q178",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade.\n\nUm estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\n[[FIG1]]\nEsse estudante respondeu corretamente à pergunta da professora.\n\nAs posições indicadas pelo estudante foram",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I, II e IV."
+      },
+      {
+        "letter": "B",
+        "text": "II, IV e V."
+      },
+      {
+        "letter": "C",
+        "text": "II, III e V."
+      },
+      {
+        "letter": "D",
+        "text": "III, V e VI."
+      },
+      {
+        "letter": "E",
+        "text": "III, IV e VI."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q178-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Convertemos os números em cada um dos compartimentos para a forma decimal ou simplificada: no visor I, 4^(1/2) = √4 = 2; no visor II, o número misto 4 1/2 equivale a 4 + 1/2 = 4,5; no visor III, a fração 10/45 simplifica para 2/9 ≈ 0,222...; no visor IV, a fração imprópria 18/4 simplifica para 9/2 = 4,5; no visor V, temos o número decimal 4,5; no visor VI, a fração 4/5 é igual a 0,8. Observa-se imediatamente que as posições II, IV e V exibem valores rigorosamente idênticos a 4,5, validando a alternativa B. A alternativa A erra ao incluir a posição I, cujo valor é 2. As alternativas C, D e E contêm as posições III ou VI, que correspondem a frações menores que 1 e diferentes de 4,5.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
+  },
+  {
+    "id": "enem-2024-q179",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minuto, pode ser modelada pela função T(t) = a + 80 bᵗ, representada no gráfico a seguir.\n[[FIG1]]\nOs valores das constantes a e b são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a = 20; b = log(0,5)"
+      },
+      {
+        "letter": "B",
+        "text": "a = 100; b = 0,5"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2024-q179-2.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2024-q179-3.webp"
+      },
+      {
+        "letter": "E",
+        "text": "a = 20; b = 40"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q179-1.webp",
+      "FIG2": "data/figuras/enem-2024-q179-2.webp",
+      "FIG3": "data/figuras/enem-2024-q179-3.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A temperatura é dada por T(t) = a + 80 × b^t. No instante inicial t = 0 min, o gráfico indica T(0) = 100 °C. Substituindo na lei: 100 = a + 80 × b^0 = a + 80, o que determina a = 20. Para encontrar a base b, utilizamos o ponto final do gráfico em t = 20 min, onde T(20) = 40 °C: 40 = 20 + 80 × b^20 => 80 × b^20 = 20 => b^20 = 20/80 = 1/4 = (0,5)². Aplicando a raiz vigésima em ambos os lados, obtemos b = ((0,5)²)^(1/20) = (0,5)^(2/20) = (0,5)^(1/10). Esse resultado pode ser verificado em t = 10 min: T(10) = 20 + 80 × (0,5) = 60 °C, exatamente conforme o gráfico. Assim, a = 20 e b = (0,5)^(1/10), o que valida a alternativa C (FIG2). A alternativa A utiliza logaritmo de forma indevida na base. A alternativa B encontra a = 100 sem subtrair o termo multiplicativo. As alternativas D e E contêm expressões incorretas para b decorrentes de manipulações algébricas errôneas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 2º dia, 5 AMARELO"
+    }
   }
 ]
