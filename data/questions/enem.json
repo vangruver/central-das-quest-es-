@@ -120369,5 +120369,939 @@
       "institution": "INEP",
       "note": "ENEM 2022 – 1º dia, 1 AZUL"
     }
+  },
+  {
+    "id": "enem-2022-q93",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Orgânica"
+    ],
+    "statement": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n• carboxila: —COOH, cujo pKa é igual a 1,8;\n• amino: —NH₂, que pode ser convertido em amínio (—NH₃⁺, cujo pKa é igual a 7,9);\n• tiol: —SH, cujo pKa é igual a 10,5.\nSabe-se que pKa = −log Ka.\n[[FIG1]]\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q93-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q93-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q93-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q93-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q93-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q93-1.webp",
+      "FIG2": "data/figuras/enem-2022-q93-2.webp",
+      "FIG3": "data/figuras/enem-2022-q93-3.webp",
+      "FIG4": "data/figuras/enem-2022-q93-4.webp",
+      "FIG5": "data/figuras/enem-2022-q93-5.webp",
+      "FIG6": "data/figuras/enem-2022-q93-6.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para determinar a espécie predominante em uma solução com pH entre 5 e 7, compara-se o pH do meio com o pKa de cada grupo ionizável. Quando o pH é maior que o pKa, predomina a forma desprotonada; quando o pH é menor que o pKa, predomina a forma protonada. O grupo carboxila tem pKa de 1,8, valor bem inferior ao pH da urina (5 a 7), logo perde seu próton e se encontra desprotonado na forma de carboxilato, menos COO menos. O grupo amino protonado tem pKa de 7,9, superior ao pH da urina, permanecendo predominantemente protonado na forma de amínio, menos NH3 mais. O grupo tiol tem pKa de 10,5, também superior ao pH da urina, mantendo-se protonado como menos SH. Dessa forma, a espécie química predominante apresenta simultaneamente os grupos menos SH, menos NH3 mais e menos COO menos, o que corresponde exatamente à estrutura da alternativa C.\n\nA alternativa A está incorreta porque desprotona o tiol e desprotona o amínio. A alternativa B está incorreta porque desprotona o tiol e mantém a carboxila não ionizada. A alternativa D está incorreta porque desprotona o tiol e mantém a carboxila intacta. A alternativa E está incorreta porque mantém a carboxila protonada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q95",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 95,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é detectado por dois dispositivos situados em um barco, sendo que o detector A está imerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na água é de 1 540 m/s e no ar é de 340 m/s.\n[[FIG1]]\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos, os quais foram ligados simultaneamente em um instante anterior à queda do bloco de gelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível obter informações sobre a onda sonora.\n[[FIG2]]\nA distância L, em metro, entre o barco e a geleira é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "339 000."
+      },
+      {
+        "letter": "B",
+        "text": "78 900."
+      },
+      {
+        "letter": "C",
+        "text": "14 400."
+      },
+      {
+        "letter": "D",
+        "text": "5 240."
+      },
+      {
+        "letter": "E",
+        "text": "100."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q95-1.webp",
+      "FIG2": "data/figuras/enem-2022-q95-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A distância L percorrida pelo som na água e no ar até o barco é a mesma. O tempo gasto para o som se propagar em cada meio é dado por t = L / v. Pelo gráfico fornecido, a escala temporal possui divisões de 6 segundos. O primeiro pico de sinal relevante é registrado no detector A (imerso na água) no instante tA = 214 s, enquanto o mesmo pico no detector B (no ar) é registrado no instante tB = 226 s. A diferença entre os tempos de chegada é delta t = tB - tA = 226 - 214 = 12 s. Como delta t = (L / 340) - (L / 1540), temos que 12 = L * (1540 - 340) / (340 * 1540) = L * 1200 / 523600. Isolando a distância, obtém-se L = 12 * 523600 / 1200 = 5236 metros, valor mais próximo de 5240 metros, confirmando a alternativa D.\n\nAs alternativas A, B e C apresentam valores excessivamente elevados, decorrentes de erros na leitura da escala temporal ou inversão na razão das velocidades. A alternativa E subestima drasticamente a distância por considerar incorretamente a diferença de tempo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q108",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 108,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F⃗, conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\n[[FIG1]]\n\nMantendo-se a força F⃗ paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso (P⃗), normal (N⃗) e de atrito estático (f⃗ₑ).\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q108-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q108-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q108-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q108-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q108-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q108-1.webp",
+      "FIG2": "data/figuras/enem-2022-q108-2.webp",
+      "FIG3": "data/figuras/enem-2022-q108-3.webp",
+      "FIG4": "data/figuras/enem-2022-q108-4.webp",
+      "FIG5": "data/figuras/enem-2022-q108-5.webp",
+      "FIG6": "data/figuras/enem-2022-q108-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Ao inclinar a muleta mantendo a força F paralela a ela, cada força atuante deve ser representada com seu ponto de aplicação, direção e sentido corretos. A força F é aplicada na extremidade superior da muleta, atuando ao longo do seu eixo longitudinal e apontando para baixo e para a esquerda. A força peso P é uma força de campo que atua no centro de massa (CM) da muleta, sempre com direção vertical e sentido para baixo. A força normal N é uma força de contato exercida pelo piso sobre a ponta da muleta, tendo direção vertical e sentido para cima. A força de atrito estático fe atua no ponto de contato com o piso; como a componente horizontal de F empurra a ponta da muleta para a esquerda, a tendência de escorregamento é para a esquerda, de modo que o atrito estático aponta horizontalmente para a direita. O único esquema que reúne todas essas características corretamente é o da alternativa E.\n\nA alternativa A erra ao desenhar F vertical e N no chão com P também na extremidade. As alternativas B e D erram ao posicionar a normal N no centro de massa. A alternativa C erra ao colocar o peso P aplicado no piso em vez de no CM.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q118",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 118,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença do campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica. A figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C estão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\n[[FIG1]]\n\nConsiderando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q118-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q118-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q118-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q118-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q118-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q118-1.webp",
+      "FIG2": "data/figuras/enem-2022-q118-2.webp",
+      "FIG3": "data/figuras/enem-2022-q118-3.webp",
+      "FIG4": "data/figuras/enem-2022-q118-4.webp",
+      "FIG5": "data/figuras/enem-2022-q118-5.webp",
+      "FIG6": "data/figuras/enem-2022-q118-6.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "De acordo com a regra da mão direita para condutores retilíneos, posicionando o polegar no sentido da corrente elétrica (para cima), os demais dedos curvam-se indicando o sentido das linhas de indução magnética, que formam circunferências concêntricas no sentido anti-horário quando vistas de cima. O polo norte da bússola (região preta) alinha-se tangencialmente no sentido do vetor campo magnético em cada ponto. No ponto A, situado atrás do fio, a tangente à circunferência aponta para a esquerda, de modo que a ponta escura da agulha deve apontar para a esquerda. No ponto B, situado à frente do fio, a tangente aponta para a direita, logo a ponta escura aponta para a direita. No ponto C, situado à direita do fio, a tangente aponta para o fundo (entrando no plano da perspectiva), de modo que a ponta escura deve apontar para trás. A configuração que representa fielmente essas orientações é a da alternativa D.\n\nA alternativa A mostra a agulha em B apontando para a esquerda. A alternativa B inverte todas as orientações, correspondendo a um sentido horário. A alternativa C apresenta a agulha em A apontando para a direita. A alternativa E erra a orientação da agulha no ponto C.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q119",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 119,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\n[[FIG1]]\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência elétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.\n\nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. Biofísica: fundamentos e aplicações.\nSão Paulo: Pearson Prentice Hall, 2003 (adaptado).\n\nQual associação de baterias foi responsável pelo acidente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q119-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q119-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q119-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q119-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q119-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q119-1.webp",
+      "FIG2": "data/figuras/enem-2022-q119-2.webp",
+      "FIG3": "data/figuras/enem-2022-q119-3.webp",
+      "FIG4": "data/figuras/enem-2022-q119-4.webp",
+      "FIG5": "data/figuras/enem-2022-q119-5.webp",
+      "FIG6": "data/figuras/enem-2022-q119-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A tabela indica que a parada respiratória ocorre para correntes elétricas no intervalo de 20 mA a 100 mA (0,020 A a 0,100 A). A pessoa acidentada apresentava pele molhada, cuja resistência elétrica média é de 1 kΩ (1000 Ω). Pela Primeira Lei de Ohm, U = R * i. Para que a corrente i esteja entre 20 mA e 100 mA, a tensão aplicada U deve estar entre Umin = 1000 * 0,020 = 20 V e Umax = 1000 * 0,100 = 100 V. Como as baterias fornecem 12 V cada, a única forma de atingir uma tensão nessa faixa com duas baterias de 12 V é ligá-las em série aditiva, de modo que a tensão total seja 12 V + 12 V = 24 V, gerando uma corrente de 24 mA. Nessa associação, o polo positivo da primeira bateria conecta-se ao ponto A, seu polo negativo liga-se ao polo positivo da segunda bateria, e o polo negativo desta liga-se ao ponto B, conforme ilustrado na alternativa A.\n\nAs alternativas B e D apresentam baterias em oposição de polaridade (tensão nula). A alternativa C apresenta ligação incorreta que não fecha circuito em série aditiva. A alternativa E mostra uma ligação em paralelo (tensão de 12 V), que geraria 12 mA, causando apenas contrações musculares.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q132",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 132,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O eixo de rotação da Terra apresenta uma inclinação em relação ao plano de sua órbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano.\n\n[[FIG1]]\n\nUma pessoa instala em sua residência uma placa fotovoltaica, que transforma energia solar em elétrica. Ela monitora a energia total produzida por essa placa em 4 dias do ano, ensolarados e sem nuvens, e lança os resultados no gráfico.\n\n[[FIG2]]\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado).\n\nPróximo a que região se situa a residência onde as placas foram instaladas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Trópico de Capricórnio."
+      },
+      {
+        "letter": "B",
+        "text": "Trópico de Câncer."
+      },
+      {
+        "letter": "C",
+        "text": "Polo Norte."
+      },
+      {
+        "letter": "D",
+        "text": "Polo Sul."
+      },
+      {
+        "letter": "E",
+        "text": "Equador."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q132-1.webp",
+      "FIG2": "data/figuras/enem-2022-q132-2.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O gráfico demonstra que a energia solar captada pela placa atinge seu valor máximo em 10 de janeiro e seu valor mínimo em 10 de julho. Isso indica que a residência está localizada no Hemisfério Sul, onde o verão ocorre nos meses de dezembro e janeiro (dias mais longos e maior insolação) e o inverno ocorre nos meses de junho e julho (dias mais curtos e menor ângulo de incidência dos raios solares). No Trópico de Capricórnio (latitude 23,5 graus Sul), a incidência solar é praticamente perpendicular em dezembro/janeiro, garantindo a máxima geração de energia nessa época do ano, enquanto em julho a produção é mínima, o que explica exatamente o comportamento do gráfico.\n\nA alternativa B é incorreta porque no Trópico de Câncer o padrão seria inverso, com máxima produção em julho (verão boreal) e mínima em janeiro. As alternativas C e D são incorretas porque nos polos ocorrem meses de escuridão total (noite polar), inviabilizando geração no inverno polar. A alternativa E é incorreta porque no Equador a insolação é máxima nos equinócios (março e setembro), apresentando pequenas variações ao longo do ano.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q139",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha. O gráfico mostra a variação da distância percorrida por cada veículo, em função do tempo, durante toda a competição.\n[[FIG1]]\nQual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em último lugar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0"
+      },
+      {
+        "letter": "B",
+        "text": "1"
+      },
+      {
+        "letter": "C",
+        "text": "2"
+      },
+      {
+        "letter": "D",
+        "text": "3"
+      },
+      {
+        "letter": "E",
+        "text": "4"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q139-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Em um gráfico de distância em função do tempo, um veículo X ultrapassa um veículo Y no instante em que sua curva cruza a curva de Y de baixo para cima, ou seja, passa de uma posição inferior para uma superior. O veículo que chegou em último lugar é aquele que completou os 100 metros no maior tempo, correspondente à reta preta contínua que atinge a marca final aos 15 segundos. No início da corrida (t imediatamente superior a zero), esse veículo já possuía velocidade constante e estava à frente de dois competidores que partiram do repouso com aceleração progressiva. No decorrer da prova, esses dois carros aumentaram suas velocidades e cruzaram a trajetória do carro preto de baixo para cima, ultrapassando-o. O veículo que chegou em último lugar nunca cruzou a curva de nenhum outro carro de baixo para cima ao longo de todo o percurso. Portanto, o número de ultrapassagens efetuadas por ele foi igual a 0, confirmando a alternativa A.\n\nAs alternativas B, C, D e E estão incorretas porque confundem o número de ultrapassagens sofridas pelo veículo com as ultrapassagens efetuadas por ele, ou contam cruzamentos de curvas de maneira equivocada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q141",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 141,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas.\n[[FIG1]]\nPor causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar \"vire à esquerda\", \"siga em frente\" e \"vire à direita\", respectivamente.\nA sequência de letras que descreve o caminho poligonal destacado é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "DDEFDDEEFFD."
+      },
+      {
+        "letter": "B",
+        "text": "DFEFDDDEFFD."
+      },
+      {
+        "letter": "C",
+        "text": "DFEFDDEEFFD."
+      },
+      {
+        "letter": "D",
+        "text": "EFDFEEDDFFE."
+      },
+      {
+        "letter": "E",
+        "text": "EFDFEEEDFFE."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q141-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Acompanhando o trajeto a partir do ponto P, orientado inicialmente para o norte, no primeiro cruzamento o veículo deve virar à direita (D), passando a trafegar para o leste. Em seguida, atravessa o cruzamento seguinte seguindo em frente (F) e, no cruzamento seguinte, vira à esquerda (E), passando a se deslocar para o norte. Ao percorrer essa via, passa por um cruzamento seguindo em frente (F) e, no cruzamento seguinte, vira à direita (D), voltando a trafegar para o leste. Imediatamente no próximo cruzamento, vira à direita (D), descendo para o sul. No cruzamento seguinte, vira à esquerda (E) para retomar o sentido leste. No cruzamento seguinte, vira à esquerda (E) para seguir para o norte. Subindo em direção ao norte, passa direto por dois cruzamentos consecutivos, ou seja, segue em frente duas vezes (FF). Por fim, no último cruzamento antes do destino, vira à direita (D) em direção ao ponto Q. A sequência completa de comandos é DFEFDDEEFFD, exatamente como expresso na alternativa C.\n\nAs alternativas A, B, D e E erram nas rotações em esquinas intermediárias, como indicar seguir em frente em vez de virar ou trocar esquerda por direita ao longo das mudanças de orientação do veículo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q145",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Funções"
+    ],
+    "statement": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração e no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e deverão se conectar à Rodovia 003 em um mesmo ponto, conforme esboço apresentado na figura, na qual estão também indicadas as posições das cidades A e B, considerando o eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de conexão entre as três rodovias.\n[[FIG1]]\nPretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q145-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O problema consiste em encontrar o ponto P(x, 0) sobre a Rodovia 003 que minimiza a soma das distâncias PA + PB, com A(20, 40) e B(50, 20). Pelo princípio da reflexão (análogo ao princípio de Fermat da óptica geométrica), a distância mínima entre dois pontos situados do mesmo lado de uma reta passando por ela é obtida refletindo-se um dos pontos em relação a essa reta. Refletindo o ponto B(50, 20) em relação ao eixo x (y = 0), obtém-se B'(50, -20). A menor distância entre A e B' é o segmento de reta que os une, cuja intersecção com o eixo x fornece o ponto de conexão ótimo. O coeficiente angular da reta que passa por A e B' é m = (-20 - 40) / (50 - 20) = -60 / 30 = -2. A equação da reta é y - 40 = -2 * (x - 20), que se reduz a y = -2x + 80. Fazendo y = 0 para encontrar o ponto no eixo x, tem-se 0 = -2x + 80, resultando em x = 40 km. Essa coordenada coincide com a localização sugerida IV, tornando correta a alternativa D.\n\nAs localizações I (x = 20), II (x = 30), III (x = 35) e V (x = 50), correspondentes às alternativas A, B, C e E, não minimizam o percurso total, resultando em distâncias maiores que a linha reta refletida.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q150",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 150,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q150-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q150-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q150-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q150-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q150-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q150-1.webp",
+      "FIG2": "data/figuras/enem-2022-q150-2.webp",
+      "FIG3": "data/figuras/enem-2022-q150-3.webp",
+      "FIG4": "data/figuras/enem-2022-q150-4.webp",
+      "FIG5": "data/figuras/enem-2022-q150-5.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para que em ambos os apartamentos escolhidos ao menos um dos quartos receba sol na parte da manhã, os apartamentos devem possuir final 1 ou 2 (onde ambos os quartos recebem sol matutino, totalizando 2 apartamentos por andar) ou final 3, 4, 5 ou 6 (onde um dos quartos recebe sol matutino, totalizando 4 apartamentos por andar). Portanto, em cada um dos 9 andares há 2 + 4 = 6 apartamentos aptos à escolha, enquanto os apartamentos de final 7 e 8 não atendem ao critério. Como a pessoa deve comprar 2 apartamentos situados em um mesmo andar, deve-se primeiro escolher 1 dos 9 andares (9 possibilidades) e, em seguida, selecionar 2 entre os 6 apartamentos aptos desse andar, sem que a ordem de escolha importe. O número de combinações simples de 6 elementos tomados 2 a 2 é dado por 6! / ((6 - 2)! * 2!). Multiplicando pelo total de andares, obtém-se 9 * [6! / ((6 - 2)! * 2!)], o que corresponde à alternativa B.\n\nA alternativa A utiliza arranjo em vez de combinação. A alternativa C considera apenas os 4 apartamentos com final 3 a 6. A alternativa D restringe-se aos 2 apartamentos com final 1 e 2. A alternativa E tenta subtrair casos de forma incorreta a partir de todos os 8 apartamentos do andar.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q151",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V = T² − 4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.\n[[FIG1]]\nQuantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q151-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A velocidade do pistão é expressa por V = T² - 4. O pistão apresenta falhas de funcionamento quando sua velocidade se anula, ou seja, quando V = 0. Isso ocorre quando T² - 4 = 0, o que implica T² = 4, resultando em T = 2 °C ou T = -2 °C. Portanto, deve-se contar quantas vezes a curva de temperatura no gráfico atinge os valores de 2 °C ou -2 °C ao longo do intervalo de 10 horas. Analisando o registro gráfico: a curva atinge a reta T = 2 °C duas vezes, sendo a primeira na descida do pico inicial e a segunda na subida em direção ao pico final. Além disso, a curva atinge a linha de temperatura T = -2 °C exatamente em seus três pontos de mínimo locais inferiores. Somando todas essas ocorrências, a temperatura assumiu os valores críticos 2 + 3 = 5 vezes. Consequentemente, a velocidade do pistão se anulou 5 vezes, o que corresponde à alternativa E.\n\nAs alternativas A, B, C e D apresentam contagens inferiores porque desconsideram a solução negativa T = -2 °C, deixam de contar os toques nos pontos de mínimo ou omitem as intersecções com T = 2 °C.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q153",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.\n[[FIG1]]\nQual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,5"
+      },
+      {
+        "letter": "B",
+        "text": "2,0"
+      },
+      {
+        "letter": "C",
+        "text": "2,9"
+      },
+      {
+        "letter": "D",
+        "text": "3,0"
+      },
+      {
+        "letter": "E",
+        "text": "5,5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q153-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O enunciado especifica que a empresa obtém lucro quando a diferença entre receita e despesa é estritamente positiva, e que se deseja a mediana dos valores dos lucros apurados. Calculando a diferença (Receita - Despesa) para cada mês: Janeiro: 6 - 3 = 3; Fevereiro: 4 - 5 = -1 (prejuízo); Março: 3 - 2 = 1; Abril: 5 - 6 = -1 (prejuízo); Maio: 6 - 1 = 5; Junho: 5 - 2 = 3; Julho: 6 - 4 = 2; Agosto: 2 - 4 = -2 (prejuízo); Setembro: 7 - 3 = 4; Outubro: 2 - 4 = -2 (prejuízo); Novembro: 8 - 7 = 1; Dezembro: 6 - 2 = 4. Identificam-se 8 meses com lucro apurado. Ordenando os 8 valores de lucro em ordem crescente, tem-se o rol: 1; 1; 2; 3; 3; 4; 4; 5. Por se tratar de uma quantidade par de dados (n = 8), a mediana é a média aritmética dos dois termos centrais (o 4º e o 5º termos), que são 3 e 3. Logo, Mediana = (3 + 3) / 2 = 3,0 milhões de reais, confirmando a alternativa D.\n\nA alternativa A resulta de calcular a mediana incluindo indevidamente os meses de prejuízo. As alternativas B, C e E decorrem de erros na identificação dos valores das barras no gráfico ou no cálculo da média dos termos centrais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q158",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n[[FIG1]]\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.\n[[FIG2]]\nA planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q158-3.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q158-4.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q158-5.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q158-6.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q158-7.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q158-1.webp",
+      "FIG2": "data/figuras/enem-2022-q158-2.webp",
+      "FIG3": "data/figuras/enem-2022-q158-3.webp",
+      "FIG4": "data/figuras/enem-2022-q158-4.webp",
+      "FIG5": "data/figuras/enem-2022-q158-5.webp",
+      "FIG6": "data/figuras/enem-2022-q158-6.webp",
+      "FIG7": "data/figuras/enem-2022-q158-7.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na Figura 2, o cubo possui três quadrados menores pintados em três faces adjacentes que compartilham um mesmo vértice comum V. Na planificação em escada apresentada, se fixamos a face central superior (segundo quadrado da primeira linha) e a face à sua esquerda (primeiro quadrado da primeira linha), os dois quadrados pintados encontram-se encostados no canto superior do lado compartilhado por ambas, o que define a posição do vértice V no topo traseiro esquerdo do cubo montado. A terceira face que incide nesse vértice é a face traseira, que na planificação corresponde ao quadrado inferior direito (segundo quadrado da terceira linha). Ao dobrar mentalmente a planificação para reconstruir o cubo tridimensional, verifica-se que o vértice V corresponderá exatamente ao canto inferior direito desse último quadrado na malha plana. Portanto, a região sombreada nessa face deve ocupar o canto inferior direito, o que coincide exatamente com a representação da alternativa D.\n\nA alternativa A posiciona a pintura no canto superior direito da face inferior. A alternativa B posiciona a pintura na face lateral direita, que não converge para o vértice V. As alternativas C e E posicionam o terceiro quadrado sombreado na face inferior esquerda, que não contém o vértice comum compartilhado pelas outras duas faces pintadas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q162",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 162,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.\n[[FIG1]]\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n[[FIG2]]\nA probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/46 + 1/45"
+      },
+      {
+        "letter": "B",
+        "text": "1/46 + 2/(46 × 45)"
+      },
+      {
+        "letter": "C",
+        "text": "1/46 + 8/(46 × 45)"
+      },
+      {
+        "letter": "D",
+        "text": "1/46 + 43/(46 × 45)"
+      },
+      {
+        "letter": "E",
+        "text": "1/46 + 49/(46 × 45)"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q162-1.webp",
+      "FIG2": "data/figuras/enem-2022-q162-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Após quatro rodadas, restam 50 - 4 = 46 números na urna. Pedro tem marcados na primeira linha os números 03, 48 e 27, necessitando apenas do número 12 para completá-la. Ele também possui dois números na quarta coluna (27 e 07, restando 05 e 45) e dois números na diagonal principal (03 e 07, restando 11 e 19). Pedro pode vencer na 5ª rodada se o número 12 for sorteado, com probabilidade de 1/46. Caso não vença na 5ª rodada (número diferente de 12 sorteado), ele ainda pode vencer na 6ª rodada de três maneiras mutuamente exclusivas, considerando o total de 46 * 45 pares ordenados de sorteios possíveis: completando a primeira linha com o 12 na 6ª rodada após qualquer um dos outros 45 números na 5ª rodada (45 pares); completando a quarta coluna sorteando o par {05, 45} nas rodadas 5 e 6 (2 pares ordenados); ou completando a diagonal principal sorteando o par {11, 19} nas rodadas 5 e 6 (2 pares ordenados). O total de pares favoráveis para vencer na 6ª rodada é 45 + 2 + 2 = 49. Assim, a probabilidade de vitória na 5ª ou na 6ª rodada é 1/46 + 49 / (46 * 45), correspondendo à alternativa E.\n\nAs alternativas A, B, C e D desconsideram a possibilidade de vitória pela primeira linha na 6ª rodada ou omitem as combinações da coluna e da diagonal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q163",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n[[FIG1]]\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = 1/4 OM, traçar um arco de circunferência de raio medindo 1/2 OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n[[FIG2]]\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q163-3.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q163-4.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q163-5.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q163-6.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q163-7.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q163-1.webp",
+      "FIG2": "data/figuras/enem-2022-q163-2.webp",
+      "FIG3": "data/figuras/enem-2022-q163-3.webp",
+      "FIG4": "data/figuras/enem-2022-q163-4.webp",
+      "FIG5": "data/figuras/enem-2022-q163-5.webp",
+      "FIG6": "data/figuras/enem-2022-q163-6.webp",
+      "FIG7": "data/figuras/enem-2022-q163-7.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao dobrar o quadrado primeiramente pela diagonal e, em seguida, pela altura do triângulo retângulo obtido (que corresponde à outra diagonal do quadrado), o vértice O passa a representar o centro do quadrado original, e as duas bordas inclinadas da Figura 3 e da Figura 4 coincidem com as diagonais do quadrado. O segmento OM une o centro O ao ponto médio M de um dos lados do quadrado.\n\nComo o arco recortado tem centro em R pertencente a OM e raio medindo a metade de OM, a distância máxima do centro O até o arco ocorre ao longo do segmento OM (direção perpendicular aos lados do quadrado), valendo 1/4 OM + 1/2 OM = 3/4 OM. Nas bordas inclinadas (ao longo das diagonais), a distância do centro O ao arco é menor. Ao desdobrar o papel pelas diagonais, os arcos das quatro camadas se encontram exatamente sobre as diagonais formando vértices (bicos voltados para o interior), enquanto as saliências arredondadas apontam para os pontos médios dos quatro lados da folha. Essa configuração corresponde perfeitamente à Figura 5 (Alternativa C).\n\nA alternativa A está incorreta porque apresenta as reentrâncias nos pontos médios dos lados e as saliências nas diagonais. A alternativa B está incorreta pois o recorte gerado por quatro arcos não forma uma circunferência perfeita. A alternativa D está incorreta pois não se trata de uma elipse. A alternativa E está incorreta pois representaria apenas duas partes recortadas em vez das quatro simétricas geradas pelas duas dobras.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q165",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 165,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.\n[[FIG1]]\nA vista superior da projeção ortogonal sobre o plano α dessas duas trajetórias é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q165-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q165-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q165-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q165-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q165-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q165-1.webp",
+      "FIG2": "data/figuras/enem-2022-q165-2.webp",
+      "FIG3": "data/figuras/enem-2022-q165-3.webp",
+      "FIG4": "data/figuras/enem-2022-q165-4.webp",
+      "FIG5": "data/figuras/enem-2022-q165-5.webp",
+      "FIG6": "data/figuras/enem-2022-q165-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O plano α é paralelo ao plano do Equador, de modo que a projeção ortogonal sobre α vista de cima equivale a projetar sobre o plano equatorial a partir de um ponto de vista superior (olhando do Polo Norte para o Polo Sul). Nessa visão, a Linha do Equador se projeta como a circunferência máxima externa. O Polo Norte e o Polo Sul se projetam exatamente no centro do círculo. Qualquer meridiano (ou semi-meridiano) está contido em um plano perpendicular ao plano do Equador, de modo que sua projeção ortogonal sobre o plano equatorial é um segmento de reta que passa pelo centro. Como os dois meridianos estão em planos perpendiculares entre si, suas projeções formam segmentos perpendiculares que se encontram no centro. Os trechos das trajetórias destacados na Linha do Equador se projetam sobre a circunferência externa como arcos de 90°. Ao unirmos os segmentos radiais perpendiculares com os arcos do bordo, obtemos dois setores circulares opostos pelo vértice, sem a circunferência completa desenhada ao redor das outras partes, o que corresponde com precisão à figura da alternativa E.\n\nAs alternativas A e D desenham a circunferência inteira do globo, o que não faz parte das trajetórias destacadas. As alternativas B e C apresentam as projeções dos meridianos como curvas, desconsiderando que planos perpendiculares à base se projetam como retas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q177",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Álgebra"
+    ],
+    "statement": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:\n[[FIG1]]\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "T₃  R  T₄  R  R  T₅  R."
+      },
+      {
+        "letter": "B",
+        "text": "R  T₃  R  T₄  R  R  T₅."
+      },
+      {
+        "letter": "C",
+        "text": "R  T₄  R  R  T₅  R  T₁."
+      },
+      {
+        "letter": "D",
+        "text": "R  R  T₅  R  T₁  R  R."
+      },
+      {
+        "letter": "E",
+        "text": "R  T₅  R  T₁  R  R  T₂."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q177-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Analisando a tabela da sequência de treinamentos, temos 13 dias no ciclo: Dia 1: T₁, Dia 2: R, Dia 3: R, Dia 4: T₂, Dia 5: R, Dia 6: R, Dia 7: T₃, Dia 8: R, Dia 9: T₄, Dia 10: R, Dia 11: R, Dia 12: T₅, Dia 13: R. O ciclo completo tem, portanto, um período de 13 dias. Uma semana possui 7 dias, logo o total de dias até o fim da 23ª semana é 23 × 7 = 161 dias. A 24ª semana compreende os dias de 162 a 168 do treinamento. Para determinar a posição no ciclo de 13 dias, calculamos o resto da divisão por 13: 161 dividido por 13 dá quociente 12 e resto 5 (pois 12 × 13 = 156, e 156 + 5 = 161). Assim, o 161º dia corresponde ao 5º dia do ciclo (R). O primeiro dia da 24ª semana (162º dia) corresponde ao 6º dia do ciclo, que é R. Os 7 dias consecutivos da 24ª semana correspondem às posições 6 a 12 do ciclo: 6º dia: R; 7º dia: T₃; 8º dia: R; 9º dia: T₄; 10º dia: R; 11º dia: R; 12º dia: T₅. Portanto, a sequência é R, T₃, R, T₄, R, R, T₅, correspondendo à alternativa B.\n\nA alternativa A inicia em T₃, desconsiderando o primeiro repouso. As alternativas C, D e E trazem ordenações defasadas do ciclo devido a erros no cálculo do resto da divisão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q178",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas e centros de faces. Ele inicia seu deslocamento no ponto P, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da face seguinte, converte à direita e continua sua movimentação, sempre alternando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao ponto P. A figura apresenta os deslocamentos iniciais desse robô.\n[[FIG1]]\nA projeção ortogonal do trajeto descrito por esse robô sobre o plano da base, após terminada sua movimentação, visualizada da posição em que se está enxergando esse cubo, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2022-q178-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2022-q178-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2022-q178-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2022-q178-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2022-q178-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q178-1.webp",
+      "FIG2": "data/figuras/enem-2022-q178-2.webp",
+      "FIG3": "data/figuras/enem-2022-q178-3.webp",
+      "FIG4": "data/figuras/enem-2022-q178-4.webp",
+      "FIG5": "data/figuras/enem-2022-q178-5.webp",
+      "FIG6": "data/figuras/enem-2022-q178-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Considerando o cubo de lado 2 centrado na origem, com a face superior em z = 1 e a base em z = -1. O robô parte do ponto P (0, 0, 1), centro da face superior. Seu movimento inicial é para a direita (direção +x): vai de (0, 0, 1) até (1, 0, 1) na aresta, e desce na face lateral direita até seu centro (1, 0, 0). No centro da face lateral direita, ele vira à esquerda (que para ele, descendo, é a direção +y), indo até a aresta (1, 1, 0) e entrando na face posterior, alcançando o centro desta em (0, 1, 0). Aí ele vira à direita (para baixo, em direção a -z), alcançando a aresta inferior (0, 1, -1) e seguindo para o centro da base (0, 0, -1). Na base, ele deve virar à esquerda (direção -x), indo para (-1, 0, -1) e subindo na face esquerda até (-1, 0, 0). Vira à direita (direção -y), indo para a face frontal (0, -1, 0). Vira à esquerda (subindo para +z), atingindo a aresta (0, -1, 1) e voltando a P (0, 0, 1). A projeção ortogonal no plano xy de todos os segmentos percorridos cobre as quatro metades perpendiculares entre os centros das faces e o centro, formando uma cruz central no interior da base, dividindo a base em quatro quadrantes iguais. Visualizada na mesma perspectiva do desenho, temos a malha com cruz central completa, que é representada na alternativa A.\n\nAs alternativas B, C, D e E deixam de projetar alguns dos segmentos percorridos pelo trajeto completo fechado do robô, resultando em figuras incompletas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2022-q180",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 180,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n[[FIG1]]\nAo final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5 000"
+      },
+      {
+        "letter": "B",
+        "text": "7 000"
+      },
+      {
+        "letter": "C",
+        "text": "11 000"
+      },
+      {
+        "letter": "D",
+        "text": "18 000"
+      },
+      {
+        "letter": "E",
+        "text": "29 000"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q180-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O gráfico fornece o volume de vendas nos três períodos de 10 dias. No setor Adulto, nos primeiros 10 dias vendeu-se 18 000 reais e, entre o dia 10 e o dia 20, foram 15 000 reais. Como a variação é linear, há uma redução de 3 000 reais a cada 10 dias. Logo, entre o dia 20 e o dia 30, o setor Adulto venderá 15 000 - 3 000 = 12 000 reais. No setor Infantil, nos primeiros 10 dias foram 8 000 reais e, do dia 10 ao dia 20, foram 7 000 reais, com decréscimo de 1 000 reais a cada 10 dias. Portanto, do dia 20 ao dia 30, o setor Infantil venderá 7 000 - 1 000 = 6 000 reais. O total vendido pelo setor Adulto nos 30 dias é 18 000 + 15 000 + 12 000 = 45 000 reais. O total pelo setor Infantil é 8 000 + 7 000 + 6 000 = 21 000 reais. Somando os dois setores, o volume total acumulado no mês é 45 000 + 21 000 = 66 000 reais. Como a meta do mês é de 77 000 reais, o valor que faltará para atingi-la é 77 000 - 66 000 = 11 000 reais, o que corresponde à alternativa C.\n\nA alternativa A (5 000) decorre de calcular apenas a diferença em relação a 71 000. A alternativa B (7 000) e a alternativa D (18 000) resultam de erros na soma das vendas dos períodos de 10 dias. A alternativa E (29 000) consideraria incorretamente apenas as vendas dos últimos dez dias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 2º dia, 5 Amarelo"
+    }
   }
 ]
