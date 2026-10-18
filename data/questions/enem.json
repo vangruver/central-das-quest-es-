@@ -116024,5 +116024,689 @@
       "institution": "INEP",
       "note": "ENEM 2019 – 2º dia, 7 AZUL"
     }
+  },
+  {
+    "id": "enem-2020-q01",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: https://sites.psu.edu. Acesso em: 12 jun. 2018.\n\nOs recursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criticar o tipo de tratamento dado à mulher."
+      },
+      {
+        "letter": "B",
+        "text": "rever o desempenho da mulher no trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "questionar a sobrecarga de atribuições da mulher."
+      },
+      {
+        "letter": "D",
+        "text": "analisar as pesquisas acerca dos direitos da mulher."
+      },
+      {
+        "letter": "E",
+        "text": "censurar a mulher pelo uso de determinadas palavras."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q01-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A campanha da ONU Mulheres utiliza a ferramenta de autocompletar de um mecanismo de busca sobreposta à boca de uma mulher, exibindo frases discriminatórias frequentes na internet, como 'women shouldn't have rights' (mulheres não deveriam ter direitos) e 'women shouldn't work' (mulheres não deveriam trabalhar). A mensagem final, 'women shouldn't suffer from discrimination anymore', reforça o objetivo de denunciar e combater o machismo e a desigualdade, convidando o leitor a criticar o tratamento discriminatório dispensado às mulheres na sociedade, o que valida a alternativa A. A alternativa B é incorreta porque o foco não é o rendimento profissional feminino, mas o direito de trabalhar. A alternativa C erra ao limitar a discussão à sobrecarga de tarefas diárias. A alternativa D é incorreta porque não se trata de analisar dados estatísticos de pesquisas acadêmicas. A alternativa E erra ao interpretar que a mulher está sendo censurada por palavras ditas por ela mesma.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2020-esp-q02",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Los propietarios de la libertad\n\nLas palabras cumplen ciclos; las actitudes también. Sin embargo, cuando las palabras designan actitudes, los ciclos se vuelven más complejos. Cuando el hoy tan denostado Sartre puso la palabra compromiso sobre el tapete y hasta Mac Leish publicó un libro sobre la responsabilidad de los intelectuales, estas dos palabras, compromiso y responsabilidad, designaban actitudes que, sin ser gemelas, eran bastante afines. Salvo contadas excepciones, los intelectuales de entonces las hicieron suyas y, equivocados o no, dijeron sin eufemismos por qué empeño se la jugaban.\n\nLos intelectuales latinoamericanos también comprendieron dónde estaba esta vez el enemigo. Sólo entonces empezó la mala prensa. Los grandes pontífices de la propaganda subrayaron una y otra vez la palabra libertad y denostaron el compromiso. Libertad no era librarse de Batista o de Somoza, sino mantener la prensa libre. Libertad es la emocionada comprobación de que la gran prensa norteamericana es capaz de descubrir que Lumumba o Allende fueron liquidados por la CIA, sin poner el acento en que eso no sirve para resucitarlos.\n\n¿Y compromiso? Es la actitud que adoptan ciertos intelectuales, cuya carga ideológica perjudica notoriamente su arte. Después de todo, ¿cómo se atreven a frecuentar las provincias del espíritu, si es público y notorio que tales ámbitos son patrimonio exclusivo de los propietarios de la libertad?\n\nBENEDETTI, M. Perplejidades de fin de siglo. Buenos Aires: Sudamericana, 1993 (adaptado).\n\nTransformar palavras em atitudes tem sido um dos grandes dilemas dos intelectuais. Ao ponderar sobre essa temática, o autor, um dos grandes críticos e literatos latino-americanos da atualidade, leva o leitor a perceber que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "o compromisso político afasta o artista da criação."
+      },
+      {
+        "letter": "B",
+        "text": "os costumes sociais governam a linguagem e as atitudes das pessoas."
+      },
+      {
+        "letter": "C",
+        "text": "o compromisso ideológico de alguns intelectuais está refletido em suas obras."
+      },
+      {
+        "letter": "D",
+        "text": "a complexidade relacionada ao conceito de liberdade impede o compromisso."
+      },
+      {
+        "letter": "E",
+        "text": "os intelectuais latino-americanos têm um posicionamento acrítico perante o poder."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No texto, Mario Benedetti analisa historicamente como os intelectuais latino-americanos assumiram posições de compromisso e responsabilidade política, recusando o descompromisso estéril e enfrentando as imposições ideológicas da grande imprensa. Ao ironizar os críticos que afirmam que a carga ideológica prejudica a arte, o autor ressalta que o engajamento ideológico e social dos intelectuais e artistas está intrinsecamente refletido em suas criações, confirmando a alternativa C. A alternativa A é incorreta porque reproduz a tese rebatida ironicamente pelo autor. A alternativa B erra ao focar em hábitos e costumes sociais cotidianos, distanciando-se do debate sobre o papel político do intelectual. A alternativa D é incorreta pois o autor critica a manipulação do conceito de liberdade pela mídia hegemônica, sem afirmar que a liberdade impeça o compromisso. A alternativa E é falsa, visto que o autor destaca a capacidade crítica dos intelectuais em identificar o inimigo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2020-q02",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.csuchico.edu. Acesso em: 11 dez. 2017.\n\nNesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estereotipar povos de certas culturas."
+      },
+      {
+        "letter": "B",
+        "text": "discriminar hábitos de grupos minoritários."
+      },
+      {
+        "letter": "C",
+        "text": "banir imigrantes de determinadas origens."
+      },
+      {
+        "letter": "D",
+        "text": "julgar padrões de beleza de diversas etnias."
+      },
+      {
+        "letter": "E",
+        "text": "desvalorizar costumes de algumas sociedades."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q02-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A campanha traz pessoas pertencentes a diferentes grupos étnico-culturais segurando fotografias de fantasias comercializadas que caricaturam suas origens. A frase 'We're a culture, not a costume' (Somos uma cultura, não uma fantasia) destaca a crítica ao ato de reduzir trajes e identidades culturais ricas e complexas a estereótipos rasos e carnavalescos, tornando correta a alternativa A. A alternativa B é incorreta porque o foco não é o hábito cotidiano de minorias, mas a sua representação fantasiada por outros. A alternativa C está errada porque a campanha não discute políticas de imigração ou banimento territorial. A alternativa D é incorreta porque a crítica não recai sobre padrões estéticos de beleza. A alternativa E é incorreta porque a questão central não é a desvalorização abstrata de costumes, mas sim a apropriação e estereotipação cultural por meio de fantasias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2020-esp-q03",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "La violencia como bella arte\n\nPues bien, ‘Relatos Salvajes’, de Damián Szifrón, es sobre todo un brillante esfuerzo por poner rostro, por fotografiar, a la parte de la violencia que tanto cuesta ver en el cine. De repente, el director argentino coloca al espectador ante el espectáculo, digamos putrefacto, de una sociedad enferma de su propia indolencia, anestesiada por su ira, incapaz de entender el origen de la insatisfacción que la habita. ¿Cómo se quedan? Sí, estamos delante de la una película vocacionalmente violenta, obligadamente salvaje, pero, y sobre todo, deslumbrante en su claridad.\n\nMás allá del esplendor sabio de una producción perfecta, lo que más duele, lo que más divierte, lo que más conmueve es la sensación de reconocimiento. Cada uno de los damnificados, pese a su acento marcadamente argentino, somos nosotros. O, mejor, cada insulto proferido, y no siempre entendido, es nuestro, en algún momento ha salido de nuestra boca. O saldrá.\n\nLa violencia no es sólo eso que tanto desagrada a los profesionales del buen gusto, a los programadores de ópera o a los filósofos de la nada; la violencia, la realmente insoportable, es también una cuestión de actitud, un simple gesto. Y esa violencia está por todas partes, está dentro. Y Szifrón acierta a retratarla tan fielmente que no queda otra cosa que romper a reír. Aunque sólo sea de simple desesperación. Brillante, magistral incluso.\n\nMARTÍNEZ, L. Disponível em: www.elmundo.es. Acesso em: 13 abr. 2015 (adaptado).\n\nNessa resenha crítica acerca do filme Relatos Salvajes, o autor evidencia o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "cômico como fuga da sociedade diante de situações violentas."
+      },
+      {
+        "letter": "B",
+        "text": "estado de apatia da sociedade perante a violência rotineira do mundo atual."
+      },
+      {
+        "letter": "C",
+        "text": "empecilho para o espectador vivenciar a violência bruta na realidade e na ficção."
+      },
+      {
+        "letter": "D",
+        "text": "sotaque reforçado dos personagens a fim de marcar o espaço do cinema argentino."
+      },
+      {
+        "letter": "E",
+        "text": "autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O crítico cinematográfico destaca que o elemento mais impactante em 'Relatos Salvajes' é a 'sensación de reconocimiento', apontando que cada reação intempestiva e cada insulto exibido na tela espelham as atitudes que os próprios espectadores têm ou poderiam ter ('somos nosotros', 'en algún momento ha salido de nuestra boca'). Assim, o texto ressalta o autorreconhecimento do público diante das diversas facetas do comportamento humano e dos impulsos violentos cotidianos, validando a alternativa E. A alternativa A é incorreta porque o riso no filme é de desespero e catarse, e não uma fuga cômoda. A alternativa B erra ao afirmar que a sociedade está apática, pois o texto enfatiza a explosão de ira e fúria. A alternativa C está incorreta porque o filme aproxima e explicita a violência ao espectador, em vez de criar empecilhos. A alternativa D é inadequada porque o sotaque argentino é citado como um detalhe superficial que não impede a universalidade do comportamento retratado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2020-q03",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "A Mother in a Refugee Camp\n\nNo Madonna and Child could touch\nHer tenderness for a son\nShe soon would have to forget...\nThe air was heavy with odors of diarrhea,\nOf unwashed children with washed-out ribs\nAnd dried-up bottoms waddling in labored steps\nBehind blown-empty bellies. Other mothers there\nHad long ceased to care, but not this one:\nShe held a ghost-smile between her teeth,\nand in her eyes the memory\nOf a mother’s pride... She had bathed him\nAnd rubbed him down with bare palms.\nShe took from their bundle of possessions\nA broken comb and combed\nThe rust-colored hair left on his skull\nAnd then — humming in her eyes — began carefully\n      [to part it.\nIn their former life this was perhaps\nA little daily act of no consequence\nBefore his breakfast and school; now she did it\nLike putting flowers on a tiny grave.\n\nACHEBE, C. Collected Poems. New York: Anchor Books, 2004.\n\nO escritor nigeriano Chinua Achebe traz uma reflexão sobre a situação dos refugiados em um cenário pós-guerra civil em seu país. Essa reflexão é construída no poema por meio da representação de uma mãe, explorando a(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "demonstração de orgulho por não precisar pedir doações."
+      },
+      {
+        "letter": "B",
+        "text": "descrições artísticas detalhadas de uma obra conhecida."
+      },
+      {
+        "letter": "C",
+        "text": "aceitação de um diagnóstico de doença terminal do filho."
+      },
+      {
+        "letter": "D",
+        "text": "consternação ao visitar o túmulo do filho recém-falecido."
+      },
+      {
+        "letter": "E",
+        "text": "impressões sensoriais experimentadas no ambiente."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No poema, Chinua Achebe retrata a dolorosa realidade de um campo de refugiados por meio de fortes apelos aos sentidos: o odor fétido de diarreia no ar ('odors of diarrhea'), a visão dilacerante dos corpos desnutridos das crianças ('washed-out ribs', 'blown-empty bellies'), a textura dos cabelos e o ato de pentear a cabeça esquelética do filho que está morrendo. Essas sensações criam um quadro pungente e humanizado da tragédia, confirmando a alternativa E. A alternativa A é incorreta porque não há menção a recusar ajuda por orgulho. A alternativa B é incorreta pois a menção à Madona é apenas uma metáfora para contrastar a ternura materna, não uma análise artística de uma obra. A alternativa C está errada porque a condição do menino decorre da fome e da guerra, não de uma doença terminal diagnosticada clinicamente. A alternativa D é incorreta pois a criança ainda está viva, sendo o cuidado comparado poeticamente a colocar flores em um túmulo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2020-esp-q04",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Oye, Pito, ésta es: la vida bruta de un boy\n\nmis tierras eran\nnuevo méxico, colorado,\ncalifornia, arizona, tejas,\ny muchos otros senderos,\naún cuando la luz existía\nsonrientemente\nen las palabras\nde mis antepasados...\nera entonces hombre,\nmaduro y sencillo\ncomo los cerros y los peñascos,\ny mi cultura era el atole,\nel chaquehue, y los buenos días;\nmi idioma cantaba\nversículos\npor los cañones\nde tierra roja\ny tierra amarilla...\nHoy sí, hoy ya no soy\nmejicano ni hispano\nni tampoco americano,\npero soy — y bien lo siento ser —\nuna sombra del pasado\ny un esfuerzo\nhacia el futuro...\n\nSÁNCHEZ, R. Disponível em: www.materialdelectura.unam.mx. Acesso em: 4 dez. 2017.\n\nAo abordar a expropriação de territórios mexicanos pelos Estados Unidos, o eu lírico do poema revela um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rejeição da língua utilizada por seus antepassados."
+      },
+      {
+        "letter": "B",
+        "text": "desejo de pertencimento ao espaço estadunidense."
+      },
+      {
+        "letter": "C",
+        "text": "certeza de manutenção de suas tradições."
+      },
+      {
+        "letter": "D",
+        "text": "reivindicação de um mundo unificado."
+      },
+      {
+        "letter": "E",
+        "text": "sentimento de conflito de identidades."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O poema de Ricardo Sánchez evoca a memória das terras ancestrais mexicanas que foram anexadas pelos Estados Unidos e a perda da simplicidade cultural originária. No desfecho ('Hoy sí, hoy ya no soy mejicano ni hispano ni tampoco americano'), o eu lírico expressa um sentimento profundo de não pertencimento pleno a nenhuma dessas nacionalidades, revelando uma crise e um conflito de identidade decorrentes da opressão histórica e da desterritorialização, o que valida a alternativa E. A alternativa A é incorreta porque o poema valoriza com nostalgia a língua e as histórias dos antepassados. A alternativa B é incorreta pois o eu lírico afirma expressamente não se sentir americano. A alternativa C está errada porque o texto destaca a fragmentação das tradições do passado. A alternativa D erra ao sugerir a proposta de um mundo unificado, ignorando a denúncia da divisão identitária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2020-q04",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "A Minor Bird\n\nI have wished a bird would fly away,\nAnd not sing by my house all day;\n\nHave clapped my hands at him from the door\nWhen it seemed as if I could bear no more.\n\nThe fault must partly have been in me.\nThe bird was not to blame for his key.\n\nAnd of course there must be something wrong\nIn wanting to silence any song.\n\nFROST, R. West-running Brook. New York: Henry Holt and Company, 1928.\n\nNo poema de Robert Frost, as palavras “fault” e “blame” revelam por parte do eu lírico uma",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "culpa por não poder cuidar do pássaro."
+      },
+      {
+        "letter": "B",
+        "text": "atitude errada por querer matar o pássaro."
+      },
+      {
+        "letter": "C",
+        "text": "necessidade de entender o silêncio do pássaro."
+      },
+      {
+        "letter": "D",
+        "text": "sensibilização com relação à natureza do pássaro."
+      },
+      {
+        "letter": "E",
+        "text": "irritação quanto à persistência do canto do pássaro."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No poema, o eu lírico inicialmente se irrita com o canto contínuo da ave e tenta espantá-la batendo palmas. Contudo, ao usar os termos 'fault' (falha/culpa) e 'blame' (culpa), ele reflete e admite que o erro residia nele mesmo ('The fault must partly have been in me'), pois o pássaro não tinha culpa de emitir seu próprio canto ('was not to blame for his key'). Dessa forma, o eu lírico desenvolve uma sensibilidade e compreensão perante a própria natureza do animal e o erro de querer silenciá-lo, o que torna a alternativa D correta. A alternativa A está incorreta porque o eu lírico nunca desejou cuidar do pássaro. A alternativa B é incorreta porque ele não tentou matar a ave, apenas espantá-la. A alternativa C erra porque o pássaro cantava, não estava em silêncio. A alternativa E descreve apenas a reação inicial, não o significado reflexivo de 'fault' e 'blame'.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2020-esp-q05",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola",
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Poco después apareció en casa de Elisenda Morales, arrastrando su cansancio y las contrariedades de un largo día que había dejado su ánimo en ruinas. A pesar de todo, supo resistirlo, y cuando ella le ofreció una copa de mistela, abandonó su asiento para ir hasta la tienda en busca de algo más estimulante.\n\nAllí, en el corredor de la casa, en taburetes separados, recibieron los primeros cálidos soplos de la noche. Con su habitual entereza, Elisenda entró a conectar la luz de la sala, sofocando parte de su reflejo, mientras comentaba que así estarían mejor. Al menos, pensó el tío Camarillo, no había sacado la lámpara como otras veces, ni le había entregado alguno de sus álbumes, y parecía en cambio decidida a mantener en ascuas al vecindario. Aquélla fue la primera vez que en mucho tiempo dejaron de lado el tema de las rentas, para entrar con pies de plomo en el espinoso terreno de las confidencias.\n\nSÁNCHEZ, H. El héroe de la família. Bogotá: Tercer Mundo, 1988.\n\nNo texto, no qual é narrada a visita à casa de uma personagem, a expressão “entrar con pies de plomo” é utilizada para se referir ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "determinação para conduzir discussões pessoais."
+      },
+      {
+        "letter": "B",
+        "text": "insensibilidade para lidar com temas do passado."
+      },
+      {
+        "letter": "C",
+        "text": "discrição para administrar questões financeiras."
+      },
+      {
+        "letter": "D",
+        "text": "disposição para resolver problemas familiares."
+      },
+      {
+        "letter": "E",
+        "text": "cuidado para tratar de assuntos íntimos."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A expressão idiomática 'entrar con pies de plomo' significa agir com extrema cautela, prudência e cuidado ao lidar com uma situação delicada. No contexto da narrativa, essa cautela aplica-se ao 'espinoso terreno de las confidencias', isto é, aos momentos em que as personagens começam a compartilhar segredos e assuntos de natureza íntima e pessoal, o que torna correta a alternativa E. A alternativa A é incorreta porque a expressão denota prudência e cautela, não firmeza ou determinação impositiva. A alternativa B é incorreta pois os personagens não agem com insensibilidade, mas com receio e atenção. A alternativa C erra ao restringir a atitude a questões financeiras, pois o texto indica justamente que as rendas foram deixadas de lado para dar lugar às confidências. A alternativa D é incorreta porque a metáfora não se refere à resolução de litígios familiares.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2020-q05",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Finally, Aisha finished with her customer and asked what colour Ifemelu wanted for her hair attachments.\n\n“Colour four.”\n\n“Not good colour,” Aisha said promptly.\n\n“That’s what I use.”\n\n“It look dirty. You don’t want colour one?”\n\n“Colour one is too black, it looks fake,” Ifemelu said, loosening her headwrap. “Sometimes I use colour two, but colour four is closest to my natural colour.”\n\n[...]\n\nShe touched Ifemelu’s hair. “Why you don’t have relaxer?”\n\n“I like my hair the way God made it.”\n\n“But how you comb it? Hard to comb,” Aisha said.\n\nIfemelu had brought her own comb. She gently combed her hair, dense, soft and tightly coiled, until it framed her head like a halo. “It’s not hard to comb if you moisturize it properly,” she said, slipping into the coaxing tone of the proselytizer that she used whenever she was trying to convince other black women about the merits of wearing their hair natural. Aisha snorted; she clearly could not understand why anybody would choose to suffer through combing natural hair, instead of simply relaxing it. She sectioned out Ifemelu’s hair, plucked a little attachment from the pile on the table and began deftly to twist.\n\nADICHIE, C. Americanah: A novel. New York: Anchor Books, 2013.\n\nA passagem do romance da escritora nigeriana traz um diálogo entre duas mulheres negras: a cabeleireira, Aisha, e a cliente, Ifemelu. O posicionamento da cliente é sustentado por argumentos que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reforçam um padrão de beleza."
+      },
+      {
+        "letter": "B",
+        "text": "retratam um conflito de gerações."
+      },
+      {
+        "letter": "C",
+        "text": "revelam uma atitude de resistência."
+      },
+      {
+        "letter": "D",
+        "text": "demonstram uma postura de imaturidade."
+      },
+      {
+        "letter": "E",
+        "text": "evidenciam uma mudança de comportamento."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "No trecho do romance de Chimamanda Ngozi Adichie, Ifemelu defende enfaticamente a escolha de manter o cabelo natural e com sua cor original ('I like my hair the way God made it'), recusando alisamentos químicos e padrões estéticos eurocêntricos impostos socialmente, mesmo diante da insistência da cabeleireira. Sua postura afirmativa configura um ato de empoderamento e resistência cultural contra a imposição de padrões capilares artificiais, validando a alternativa C. A alternativa A é incorreta porque Ifemelu desconstrói o padrão de beleza imposto pelo alisamento. A alternativa B não é abordada, pois a divergência decorre da concepção de identidade e estética negra, e não da idade das personagens. A alternativa D é descabida, pois a postura da cliente reflete segurança e consciência identitária. A alternativa E é incorreta porque ela mantém firmemente a escolha já adotada de não usar relaxante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2020-q07",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 7,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).\n\nA frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "uso de uma marcação temporal."
+      },
+      {
+        "letter": "B",
+        "text": "imprecisão do referente de pessoa."
+      },
+      {
+        "letter": "C",
+        "text": "organização interrogativa da frase."
+      },
+      {
+        "letter": "D",
+        "text": "utilização de um verbo de ação."
+      },
+      {
+        "letter": "E",
+        "text": "apagamento de uma preposição."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q07-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Na norma-padrão da língua portuguesa, a regência de expressões interrogativas que indicam tempo exige a presença da preposição 'a', resultando na forma 'A que horas ela volta?'. O título do filme, 'Que horas ela volta?', reproduz um fenômeno sintático comum na variedade coloquial falada no Brasil, caracterizado pelo apagamento (ou omissão) da referida preposição, o que valida a alternativa E. A alternativa A é incorreta porque a marcação temporal é esperada e não constitui, por si só, um traço diferenciador de variedade linguística nessa estrutura. A alternativa B é incorreta pois o pronome 'ela' define claramente o referente de pessoa no contexto discursivo. A alternativa C está errada porque a interrogação é comum a todas as variedades da língua. A alternativa D é incorreta porque a presença do verbo intransitivo de movimento 'voltar' não caracteriza a especificidade dessa variação linguística coloquial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q22",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Esporte e Cultura"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017.\n\nEsse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "promover ações de conscientização para reduzir a violência de gênero em eventos esportivos."
+      },
+      {
+        "letter": "B",
+        "text": "estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte."
+      },
+      {
+        "letter": "C",
+        "text": "divulgar para a população as novas regras complementares para as torcidas de futebol."
+      },
+      {
+        "letter": "D",
+        "text": "informar ao público masculino as consequências de condutas ofensivas."
+      },
+      {
+        "letter": "E",
+        "text": "regulamentar normas de boa convivência nos estádios."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q22-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A peça publicitária do Ministério do Esporte traz o slogan 'Respeita as torcedoras!' e delimita atitudes aceitáveis ('Conversar?', 'Torcer juntos?') e inaceitáveis ('Tocar sem permissão?', 'Empurrar?'), além de disponibilizar o canal 'Disque 180' para denúncias. Dessa forma, a campanha promove a conscientização dos torcedores para combater o assédio e a violência de gênero nas arquibancadas e nos estádios de futebol, tornando correta a alternativa A. A alternativa B é incorreta porque a peça visa à conscientização direta do público presente nos jogos, e não à divulgação técnica de políticas públicas esportivas. A alternativa C é incorreta porque o texto não estabelece regulamentos oficiais das torcidas organizadas. A alternativa D está errada porque a campanha não lista punições ou consequências penais aos homens, focando na distinção entre respeito e assédio. A alternativa E erra ao sugerir que a campanha tem força de decreto ou regulamento legal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q37",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "educacao-fisica",
+    "topics": [
+      "Corpo e Sociedade"
+    ],
+    "statement": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um \"conceito ampliado\" de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\n[[FIG1]]\n\nBATISTELLA, C. Abordagens contemporâneas do conceito de saúde.\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\nCom base no conceito apresentado no texto, a saúde é consequência direta do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adoção de um estilo de vida ativo por parte dos indivíduos."
+      },
+      {
+        "letter": "B",
+        "text": "disponibilidade de emprego no mercado de trabalho."
+      },
+      {
+        "letter": "C",
+        "text": "condição habitacional presente nas cidades."
+      },
+      {
+        "letter": "D",
+        "text": "acesso ao sistema educacional."
+      },
+      {
+        "letter": "E",
+        "text": "forma de organização social."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q37-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O modelo de determinação social da saúde formulado a partir da VIII Conferência Nacional de Saúde estabelece que o bem-estar físico e mental não depende unicamente de fatores biológicos ou hábitos individuais, mas decorre prioritariamente dos determinantes sociais, econômicos, culturais e ambientais nos quais os indivíduos estão inseridos. A estrutura representada no infográfico evidencia que a saúde é produto da forma de organização da sociedade como um todo, englobando emprego, moradia, saneamento, educação e relações comunitárias, o que valida a alternativa E. As alternativas A, B, C e D estão incorretas porque isolam fatores singulares (estilo de vida ativo, emprego, habitação e educação), tratando como causa única e direta aquilo que é, na verdade, parte de uma teia ampla e integrada de determinações sociais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q44",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018.\n\nNessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "a família que adota é mais feliz."
+      },
+      {
+        "letter": "B",
+        "text": "a adoção tardia é muito positiva."
+      },
+      {
+        "letter": "C",
+        "text": "as famílias preferem adotar bebês."
+      },
+      {
+        "letter": "D",
+        "text": "a adoção de adolescentes é mais simples."
+      },
+      {
+        "letter": "E",
+        "text": "os filhos adotivos são companheiros dos pais."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q44-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A campanha publicitária 'Adoção: Pra encontrar a sua verdadeira família, não existe idade' apresenta uma foto familiar em que os filhos foram adotados em idades mais avançadas (com 8, 13 e 15 anos), período considerado tardio em comparação com a preferência comum por bebês. A união entre a imagem harmoniosa e as idades explícitas desconstrói preconceitos contra a adoção de crianças mais velhas e adolescentes, reforçando que a adoção tardia é uma experiência plenamente positiva e afetiva, o que torna correta a alternativa B. A alternativa A é incorreta porque o anúncio não estabelece uma comparação de superioridade na felicidade familiar. A alternativa C está errada porque a campanha combate justamente a preferência exclusiva por bebês. A alternativa D é incorreta porque o objetivo não é afirmar que o processo com adolescentes é mais simples, mas sim viável e enriquecedor. A alternativa E não traduz a tese central da publicidade sobre a inexistência de limite de idade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q51",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 51,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Zona de pastoreio e cultura do algodão e cereais do agreste (1963)\n\n[[FIG1]]\n\nANDRADE, M. C. A terra e o homem no Nordeste. São Paulo: Brasiliense, 1963.\n\nA dinâmica produtiva apresentada na imagem tem como estratégia central a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "separação pelo tipo de solo."
+      },
+      {
+        "letter": "B",
+        "text": "exportação da colheita sazonal."
+      },
+      {
+        "letter": "C",
+        "text": "priorização da tecnologia moderna."
+      },
+      {
+        "letter": "D",
+        "text": "adequação pelo tempo da natureza."
+      },
+      {
+        "letter": "E",
+        "text": "intensificação da atividade pecuária."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q51-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O diagrama circular representa o calendário agrícola tradicional do Agreste nordestino, articulando as épocas de plantio, desenvolvimento e colheita do algodão, milho e feijão com o período de pastoreio do gado bovino ao longo dos meses do ano. Essa dinâmica produtiva foi estruturada historicamente a partir dos ciclos pluviométricos (estações chuvosa e seca), de modo que o homem do campo adapta suas atividades ao tempo e aos ritmos da natureza, validando a alternativa D. A alternativa A é incorreta porque a figura organiza as práticas por meses do ano e sazonalidade climática, e não por classificação pedológica. A alternativa B erra ao supor foco na exportação, uma vez que se trata da produção alimentar e agropastoril de subsistência e comércio regional. A alternativa C é incorreta porque o modelo tradicional retratado em 1963 baseia-se em práticas empíricas e rudimentares, não em alta tecnologia moderna. A alternativa E erra pois a pecuária se integra rotativamente à agricultura, sem haver intensificação de confinamento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q65",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como de uma regulação específica.\n\nLIMA, R. C.; PENNA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016.\n\nO mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alteração da matriz econômica."
+      },
+      {
+        "letter": "B",
+        "text": "substituição do modal hidroviário."
+      },
+      {
+        "letter": "C",
+        "text": "retração do contingente demográfico."
+      },
+      {
+        "letter": "D",
+        "text": "projeção do escoamento produtivo."
+      },
+      {
+        "letter": "E",
+        "text": "estagnação de lavouras policultoras."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q65-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto aborda a necessidade de infraestrutura física e logística demandada pela expansão do agronegócio, que interliga as escalas local e global através de fluxos de mercadorias. O mapa complementa essa ideia ao destacar os eixos rodoviários (longitudinais, diagonais e radiais) que cortam e partem do Centro-Oeste rumo aos portos e a outras regiões do país. Portanto, a ampliação e estruturação dessas rodovias decorre da necessidade de garantir o escoamento eficiente da expressiva produção agropecuária brasileira. A alternativa A está incorreta porque o agronegócio fortaleceu a pauta de exportação primária tradicional, sem configurar uma mudança radical de matriz econômica. A alternativa B é incorreta pois as rodovias não substituíram as hidrovias, atuando de forma complementar ou até integrada a elas. A alternativa C é incorreta porque a região Centro-Oeste vivenciou crescimento demográfico com a marcha para o oeste e a fronteira agrícola. A alternativa E é incorreta porque a expansão se deu sobre lavouras monocultoras de grande escala voltadas à exportação, não em resposta à estagnação de policulturas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2020-q67",
+    "exam": "enem",
+    "year": 2020,
+    "originalNumber": 67,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado).\n\nOs aspectos físicos apresentados originam-se da atuação da força natural de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "colisão de placas tectônicas."
+      },
+      {
+        "letter": "B",
+        "text": "rifteamento da crosta terrestre."
+      },
+      {
+        "letter": "C",
+        "text": "subducção da plataforma oceânica."
+      },
+      {
+        "letter": "D",
+        "text": "formação de cadeias montanhosas."
+      },
+      {
+        "letter": "E",
+        "text": "metamorfismo de bordas continentais."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2020-q67-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A imagem ilustra a região do Rift Valley (Vale da Grande Fenda), localizada no leste da África, caracterizada pela presença de vulcões e grandes lagos tectônicos alinhados. Essa feição geológica é originada por um limite divergente de placas tectônicas continentais, processo denominado rifteamento da crosta terrestre, no qual as placas Africana (Núbia) e Somali estão se separando gradualmente. A alternativa A está incorreta porque a colisão de placas corresponde a limites convergentes, enquanto o Rift Valley é um limite divergente. A alternativa C está incorreta porque a subducção envolve o mergulho de uma placa sob outra em limites convergentes oceânico-continentais ou oceânico-oceânicos. A alternativa D está incorreta porque cadeias montanhosas orogenéticas resultam de esforços compressivos, ao passo que o rifteamento é distensivo e gera fossas tectônicas. A alternativa E é incorreta porque o metamorfismo não é a força tectônica causadora direta da abertura de fendas e vulcanismo associado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2020 – 1º dia, 1 - AZUL"
+    }
   }
 ]
