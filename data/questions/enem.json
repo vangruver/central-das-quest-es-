@@ -121303,5 +121303,516 @@
       "institution": "INEP",
       "note": "ENEM 2022 – 2º dia, 5 Amarelo"
     }
+  },
+  {
+    "id": "enem-2023-esp-q01",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "TEXTO I\n¿QUÉ ME PASA?:\n¿PORQUÉ ME CUESTA TANTO ESTUDIAR?\n¿PORQUÉ ME CUESTA TANTO CONCENTRARME?\n¿PORQUÉ......\n¿PORQUÉ......\n......\n¿PORQUÉ NO CONSIGO APRENDER COMO LOS DEMÁS?\n[[FIG1]]\nDisponível em: www.otrasvoceseneducacion.org. Acesso em: 8 nov. 2022.\nTEXTO II\nIshaan Awashi es un niño de 8 años cuyo mundo está plagado de maravillas que nadie más parece apreciar: colores, peces, perros y cometas, que simplemente no son importantes en la vida de los adultos, que parecen más interesados en cosas como los deberes, las notas o la limpieza. E Ishaan parece no poder hacer nada bien en clase. Cuando los problemas que ocasiona superan a sus padres, es internado en un colegio para que le disciplinen. Las cosas no mejoran en el nuevo colegio, donde Ishaan tiene además que aceptar estar lejos de sus padres. Hasta que un día, el nuevo profesor de arte, Ram Shankar Nikumbh, entra en escena, se interesa por el pequeño Ishaan y todo cambia.\nDisponível em: https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado).\nO filme Como estrellas en la tierra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "olhar diferenciado para com o outro gera mudanças."
+      },
+      {
+        "letter": "B",
+        "text": "estudante com dislexia apresenta um tom questionador."
+      },
+      {
+        "letter": "C",
+        "text": "abordagem para lidar com a dislexia é pautada na disciplina."
+      },
+      {
+        "letter": "D",
+        "text": "contato com os pais prejudica o acompanhamento da dislexia."
+      },
+      {
+        "letter": "E",
+        "text": "mudança de interesses ocorre na transição da infância para a vida adulta."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-esp-q01-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O cartaz apresenta os questionamentos e angústias de uma criança com dificuldades escolares ('¿Por qué no consigo aprender como los demás?'), acompanhado da imagem afetuosa entre professor e aluno. A sinopse do Texto II relata que a vida de Ishaan, um menino disléxico incompreendido pelos pais e pela escola tradicional, transforma-se completamente quando um novo professor de arte se interessa genuinamente por ele e tem uma abordagem acolhedora e atenta. Essa correlação evidencia que um olhar diferenciado e empático para com o outro é capaz de gerar transformações profundas, confirmando a alternativa A. A alternativa B é incorreta porque o questionamento reflete sofrimento e confusão, não uma postura insolente ou questionadora. A alternativa C erra ao citar a disciplina, pois o internamento rígido só piorou a situação de Ishaan. A alternativa D é incorreta, pois não é a proximidade dos pais que prejudica, mas a falta de compreensão da condição. A alternativa E erra ao generalizar o texto como uma simples mudança natural de interesses na transição etária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2023-q01",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\nThe average american tosses 300 pounds of food each year, making food the number one contributor to America’s landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it.\nDisponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).\nEsse cartaz de campanha sugere que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os lixões precisam de ampliação."
+      },
+      {
+        "letter": "B",
+        "text": "o desperdício degrada o ambiente."
+      },
+      {
+        "letter": "C",
+        "text": "os mercados doam alimentos perecíveis."
+      },
+      {
+        "letter": "D",
+        "text": "a desnutrição compromete o raciocínio."
+      },
+      {
+        "letter": "E",
+        "text": "as residências carecem de refrigeradores."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q01-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O cartaz aborda o volume excessivo de comida desperdiçada por ano nos Estados Unidos, que vai parar em aterros sanitários (landfills), e faz um apelo para que as pessoas comam sobras e guardem alimentos na geladeira, pois a Terra conta com isso. Dessa forma, evidencia-se que o desperdício de comida tem impacto negativo direto no meio ambiente, justificando a alternativa B. A alternativa A é incorreta porque o texto não defende a ampliação dos lixões, mas sim a redução do lixo produzido. A alternativa C está errada porque não se fala de doações por parte de supermercados. A alternativa D é incorreta, pois 'food for thought' é uma expressão idiomática que significa 'algo para se refletir', sem relação direta com desnutrição comprometendo o cérebro. A alternativa E erra ao deduzir que faltam refrigeradores, quando na verdade o texto apenas incentiva o seu uso correto para conservar alimentos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2023-esp-q02",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Vocabulário e Estruturas Gramaticais",
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Me niego rotundamente\nA negar mi voz,\nMi sangre y mi piel.\n\nY me niego rotundamente\nA dejar de ser yo,\nA deixar de sentirme bien\nCuando miro mi rostro en el espejo\nCon mi boca\nRotundamente grande,\nY mi nariz\nRotundamente hermosa,\nY mis dientes\nRotundamente blancos,\nY mi piel valientemente negra.\n\nY me niego categóricamente\nA dejar de hablar\nMi lengua, mi acento y mi historia.\n\nY me niego absolutamente\nA ser parte de los que callan,\nDe los que temen,\nDe los que lloran.\n\nPorque me acepto\nRotundamente libre,\nRotundamente negra,\nRotundamente hermosa.\nCAMPBELL BARR, S. Disponível em: https://negracubanateniaqueser.com. Acesso em: 25 out. 2021.\nPara enfatizar características e atitudes que reforçam a identidade da mulher negra, o poema da escritora costarriquenha apresenta",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "advérbios como “rotundamente” e “categóricamente”."
+      },
+      {
+        "letter": "B",
+        "text": "verbos reflexivos como “me niego” e “me acepto”."
+      },
+      {
+        "letter": "C",
+        "text": "adjetivos como “grande” e “hermosa”."
+      },
+      {
+        "letter": "D",
+        "text": "substantivos como “sangre” e “piel”."
+      },
+      {
+        "letter": "E",
+        "text": "adjetivos possessivos como “mi” e “mis”."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No poema, a escritora costarriquenha Shirley Campbell Barr constrói a afirmação de sua identidade e autoestima por meio da repetição enfática de advérbios terminados em '-mente', como 'rotundamente' (repetido várias vezes ao longo de todo o texto), 'categóricamente' e 'absolutamente'. Esses modificadores conferem convicção inabalável e firmeza às ações e aos atributos corporais e culturais exaltados, o que torna a alternativa A correta. Embora haja verbos na forma reflexiva (alternativa B), adjetivos (alternativa C), substantivos (alternativa D) e possessivos (alternativa E), o recurso de ênfase mais marcante e insistente empregado pela poetisa para reforçar a intensidade das afirmações e da negação é o uso reiterado dos advérbios de modo citados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2023-q02",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "No man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.\n[...]\nAny man’s death diminishes me,\nBecause I am involved in mankind.\nDONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).\nNesse poema, a expressão “No man is an island” ressalta o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "medo da morte."
+      },
+      {
+        "letter": "B",
+        "text": "ideia de conexão."
+      },
+      {
+        "letter": "C",
+        "text": "conceito de solidão."
+      },
+      {
+        "letter": "D",
+        "text": "risco de devastação."
+      },
+      {
+        "letter": "E",
+        "text": "necessidade de empatia."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No célebre poema de John Donne, a metáfora 'No man is an island' (Nenhum homem é uma ilha) expressa que nenhum ser humano é autossuficiente ou isolado do restante da humanidade; todos fazem parte de um mesmo 'continente'. Logo, a expressão enfatiza a ideia de conexão e interdependência entre os indivíduos, o que valida a alternativa B. A alternativa A está incorreta, pois a morte citada serve para ilustrar a perda coletiva, não o medo individual da morte. A alternativa C é contrária ao texto, já que o poema nega justamente a solidão essencial. A alternativa D não tem relação com o sentido do texto, que não discute devastação ecológica ou física. A alternativa E confunde a ideia central: embora a empatia seja um sentimento correlato, a expressão em si ressalta a intrínseca conexão e unidade da humanidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2023-esp-q03",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "“Caramelos” en sus suelos\nLas tierras de España, tu vista enamoran;\nsus gentes; te amistan; ¿“cocinas”?, ¡“te molan”!\n¿El plato común?, ¡pues «tortilla/patatas»!;\nen bares, figones, o tascas, ¡las «tapas»!;\n“sabor nacional”, ¡el «gazpacho», sus «vinos»,\n«sangría», y «jamón» de sabrosos cochinos!\n(Cual “sellos”, te grabas sus «Típicos Platos»;\n¡sabrás por dó pasas, por sólo tu olfato!,\n¡si en cada lugar, un sabor peculiar,\n“al paso” cautiva tu buen paladar!).\n¡Son más que “recetas”!, ¡será “alegoría”!,\n¡será “identidad”! (¡hay “reserva” en su «Guía»!);\nson platos allende un “timón conductor”,\n¡son mar, ríos, sierras!, ¡son valles, son flor!,\n¡y aportan “Conventos” a gastronomía,\nsus «dulces»! (sabor “celestial”, ¡de ambrosía!).\nQUIROZ Y LÓPEZ, M. Disponível em: https://pt.calameo.com. Acesso em: 25 out. 2021.\nNesse poema, o eu poético enaltece a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "característica amistosa do povo espanhol."
+      },
+      {
+        "letter": "B",
+        "text": "beleza das paisagens naturais da Espanha."
+      },
+      {
+        "letter": "C",
+        "text": "variedade de pratos na gastronomia espanhola."
+      },
+      {
+        "letter": "D",
+        "text": "relação entre os sentidos do paladar e do olfato na gastronomia."
+      },
+      {
+        "letter": "E",
+        "text": "gastronomia como representação da identidade cultural de um povo."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O poema de Mario Quiroz y López utiliza pratos típicos espanhóis (como tortilla de patatas, tapas, gazpacho, jamón) e afirma explicitamente que eles 'son más que recetas, ¡será alegoría!, ¡será identidad!'. Dessa forma, os elementos gastronômicos são enaltecidos como a personificação da própria identidade cultural e do território espanhol, validando a alternativa E. A alternativa A cita a simpatia do povo, mas isso é apenas um detalhe introdutório. A alternativa B erra, pois a beleza das paisagens é invocada metaforicamente pelos sabores culinários, e não o tema central. A alternativa C é incorreta porque o foco não é a mera diversidade de pratos, mas o significado identitário que eles carregam. A alternativa D também é limitada, pois paladar e olfato são usados como recursos sensoriais para reconhecer essa identidade cultural.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2023-q03",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Things We Carry on the Sea\nWe carry tears in our eyes: good-bye father, good-bye\n[mother\nWe carry soil in small bags: may home never fade in our\n[hearts\nWe carry carnage of mining, droughts, floods, genocides\nWe carry dust of our families and neighbors incinerated\n[in mushroom clouds\nWe carry our islands sinking under the sea\nWe carry our hands, feet, bones, hearts and best minds\n[for a new life\nWe carry diplomas: medicine, engineer, nurse,\n[education, math, poetry, even if they mean\n[nothing to the other shore\nWe carry railroads, plantations, laundromats,\n[bodegas, taco trucks, farms, factories, nursing\n[homes, hospitals, schools, temples... built on\n[our ancestors’ backs\nWe carry old homes along the spine, new dreams in our\n[chests\nWe carry yesterday, today and tomorrow\nWe’re orphans of the wars forced upon us\nWe’re refugees of the sea rising from industrial wastes\nAnd we carry our mother tongues\n[...]\nAs we drift... in our rubber boats... from shore... to shore...\n[to shore...\nPING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).\nAo retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "risco de choques culturais."
+      },
+      {
+        "letter": "B",
+        "text": "impacto do ensino de história."
+      },
+      {
+        "letter": "C",
+        "text": "importância da luta ambiental."
+      },
+      {
+        "letter": "D",
+        "text": "existência de experiências plurais."
+      },
+      {
+        "letter": "E",
+        "text": "necessidade de capacitação profissional."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O poema de Wang Ping lista inúmeras bagagens concretas e simbólicas carregadas pelos refugiados: dores, saudades, traumas ecológicos e de guerra, mas também profissões diversas (médicos, engenheiros, poetas), memórias, línguas maternas e aspirações. Esse recurso à travessia marítima enfatiza a multiplicidade e riqueza das vivências e identidades que compõem o grupo dos refugiados, o que torna a alternativa D correta. A alternativa A é incorreta, pois o foco não está no choque cultural entre grupos, mas na bagagem dos que migram. A alternativa B é incorreta porque a menção ao passado não se refere ao ensino escolar de história. A alternativa C está errada porque a crise ambiental é apenas uma das razões mencionadas, não o foco exclusivo do poema. A alternativa E é incorreta, já que muitos dos refugiados retratados já possuem diplomas e alta capacitação profissional.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2023-esp-q04",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola",
+      "Vocabulário e Estruturas Gramaticais"
+    ],
+    "statement": "Técnicas de manipulación y el resultado\nManipular es sembrar en la conciencia y en la mente de la gente ideas, actitudes, conceptos y aspiraciones — incluso falsas e inmorales — que sirvan a los objetivos de sus manipuladores.\nManipular es una de las primeras cosas que aprendemos en la vida. A muy temprana edad, los bebés descubren el poder del llanto, el berrinche, los pataleos, la risa o alguna “gracia” como recursos para demandar atención, exigir comida, pedir ayuda o simplemente mantener ocupada a la gente. Nuestras actitudes de adultos reflejan lo mucho o poco que algunos maduraron, procesaron y rebasaron ese periodo.\nPara que exista un manipulador, debe haber una base de ciudadanos indefensos, dóciles, desinformados. El manipulador es celoso, a veces casi paranoico; no admite cuestionamientos ni quiere que nadie ocupe su espacio, sabe que su vigencia depende de presencia controladora. Todos los días, hay que marcar la línea de discurso, incidir en el debate. El ridículo vale la pena si con ello se logra una cortina de humo.\nDisponível em: www.forbes.com.mx. Acesso em: 7 out. 2021 (adaptado).\nNesse texto, a expressão “cortina de humo” revela que o manipulador",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "amadurece tardiamente."
+      },
+      {
+        "letter": "B",
+        "text": "busca mascarar a verdade."
+      },
+      {
+        "letter": "C",
+        "text": "rejeita questionamentos alheios."
+      },
+      {
+        "letter": "D",
+        "text": "aproxima-se de pessoas indefesas."
+      },
+      {
+        "letter": "E",
+        "text": "faz-se presente de forma controladora."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A expressão 'cortina de humo' (cortina de fumaça) é uma metáfora que se refere à criação proposital de uma distração ou fato irrelevante/sensacionalista com o objetivo de desviar o foco da opinião pública, escondendo ou mascarando a realidade dos fatos e a verdade. Assim, o texto aponta que o manipulador se vale até do ridículo para encobrir suas reais intenções e a verdade dos fatos, o que valida a alternativa B. A alternativa A está incorreta, pois fala sobre o amadurecimento dos cidadãos em relação a táticas infantis, não sendo o sentido da metáfora. A alternativa C é incorreta porque a intolerância a questionamentos é outra característica descrita, distinta da expressão 'cortina de fumaça'. As alternativas D e E apontam traços do manipulador citados no texto, mas não correspondem ao significado figurado da expressão solicitada pelo enunciado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2023-q04",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Spanglish\npues estoy creando Spanglish\nbi-cultural systems\nscientific lexicographical\ninter-textual integrations\ntwo expressions\nexistentially wired\ntwo dominant languages\ncontinentally abrazándose\nin colloquial combate\nimperio spanglish emerges\nsobre territorio bi-lingual\nlas novelas mexicanas\nmixing with radiorocknroll\nimmigrant/migrant\nnasal mispronouncements\nhip-hop, street salsa, spanish pop\nstandard english classroom\nwith computer technicalities\nspanglish is literally perfect\nLAVIERA, T. Benedición: The Complete Poetry of Tato Laviera. Houston: Arte Público Press, 2014 (fragmento).\nNesse poema de Tato Laviera, o eu lírico destaca uma",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "convergência linguístico-cultural."
+      },
+      {
+        "letter": "B",
+        "text": "característica histórico-cultural."
+      },
+      {
+        "letter": "C",
+        "text": "tendência estilístico-literária."
+      },
+      {
+        "letter": "D",
+        "text": "discriminação cultural."
+      },
+      {
+        "letter": "E",
+        "text": "censura musical."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O poema retrata o 'Spanglish' como o encontro e a fusão de dois sistemas culturais e duas línguas dominantes (inglês e espanhol), misturando elementos cotidianos das duas culturas como novelas mexicanas, rock'n'roll, hip-hop, salsa e termos da computação. O texto celebra, portanto, uma convergência linguístico-cultural gerada pelos imigrantes nos Estados Unidos, tornando a alternativa A correta. A alternativa B é incorreta porque o texto foca primordialmente na dinâmica contemporânea de mistura linguística e sociocultural, não em uma retrospectiva histórica. A alternativa C erra ao restringir o fenômeno a uma tendência literária, quando o poema trata de um processo social mais amplo. A alternativa D está errada, pois o poema não destaca a discriminação, mas sim a potência e a integração do Spanglish. A alternativa E não tem sustentação no texto, pois não há menção a censura musical.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2023-esp-q05",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Que quede claro\nCómo es posible que se cierren\ntantas bocas, tantos ojos,\ntantas puertas, muchas mentes ante un\nacto xenofóbico sin precedentes.\nPresidentes, ministros, cancilleres,\nautoridades, responsables.\n¿Quién pagará el daño causado a familiares?\nPor un loco del estrada sin modales. [...]\nSe alejó de aquel lugar donde su color era\nmucho más que su color, era su raza.\nPersiguiendo un sueño que desapareció,\nque se fusionó y terminó en una pesadilla. [...]\nDéjame que te cuente esta historia\nque sucedió en el metro de Barcelona,\ncuando aquella mañana la injusticia\ny xenofobia se juntaron de la mano,\nprotagonizando una de las más feas escenas de racismo.\nEn aquel vagón viajaba un ángel de color diferente,\nen su camino se interpuso aquel inconsciente,\nque aún sabiendo lo que hacía,\nseguía hablando con su gente.\nLe dio al ángel dos patadas en su cara,\nse rió de ella sin cambiar la mirada.\nY aún anda suelto, aún anda suelto...\nORISHAS. In: Cosita buena. Delaware: Suerte Publishing LLC, 2008 (fragmento).\nA letra da canção Que quede claro, da banda cubana Orishas, revela o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "indignação diante do desrespeito à diversidade."
+      },
+      {
+        "letter": "B",
+        "text": "violência característica das grandes metrópoles."
+      },
+      {
+        "letter": "C",
+        "text": "preconceito da sociedade com relação ao misticismo."
+      },
+      {
+        "letter": "D",
+        "text": "descuido da população com os sonhos dos imigrantes."
+      },
+      {
+        "letter": "E",
+        "text": "falta de segurança existente no transporte público urbano."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A letra da canção denuncia um episódio real de agressão física covarde e racista contra uma mulher imigrante dentro do metrô de Barcelona, expressando forte revolta e consternação diante da passividade das pessoas e da impunidade do agressor ('Cómo es posible que se cierren tantas bocas... ante un acto xenofóbico'). Portanto, o texto manifesta claramente a indignação diante da intolerância e do desrespeito à diversidade, confirmando a alternativa A. A alternativa B é incorreta porque o foco da crítica não é a criminalidade urbana generalizada, mas um crime de ódio motivado por racismo e xenofobia. A alternativa C erra ao interpretar 'ángel' literalmente como misticismo, quando é apenas uma metáfora para a vítima. A alternativa D está errada, pois a crítica vai muito além de descaso com sonhos, focando na violência física e preconceito explícitos. A alternativa E não é o foco do texto, que não discute a infraestrutura da segurança pública de transportes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2023-q05",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\n“Oh, you’ll love working here. Nobody treats you any differently just because of your age, race, or gender.”\nDisponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.\nAo retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criticar um padrão de vestimenta."
+      },
+      {
+        "letter": "B",
+        "text": "destacar a falta de diversidade."
+      },
+      {
+        "letter": "C",
+        "text": "indicar um modo de interação."
+      },
+      {
+        "letter": "D",
+        "text": "elogiar um modelo de organização."
+      },
+      {
+        "letter": "E",
+        "text": "salientar o espírito de cooperação."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q05-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O cartum constrói sua ironia a partir do contraste entre a fala do personagem ('Ninguém trata você de forma diferente por causa de sua idade, raça ou gênero') e a imagem apresentada: todos os funcionários do escritório são homens brancos, de meia-idade e com a mesma fisionomia e estilo de vestuário. Assim, não há como haver discriminação entre eles simplesmente porque todos pertencem exatamente ao mesmo grupo hegemônico, criticando e destacando a total ausência de diversidade no local de trabalho. Portanto, a alternativa B é a correta. As alternativas A, C, D e E estão incorretas porque desconsideram a ironia central do cartum, que não visa criticar o código de vestuário, tampouco elogiar a organização ou salientar cooperação e interação genuínas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1 (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2023-q44",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 44,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.facebook.com/minsaude. Acesso em: 13 jun. 2018.\nEssa campanha publicitária do Ministério da Saúde visa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "divulgar um conjunto de benefícios proporcionados pela amamentação."
+      },
+      {
+        "letter": "B",
+        "text": "apresentar tratamentos para infecções respiratórias em bebês."
+      },
+      {
+        "letter": "C",
+        "text": "defender o direito das mulheres de amamentar em público."
+      },
+      {
+        "letter": "D",
+        "text": "orientar sobre os exercícios para uma boa amamentação."
+      },
+      {
+        "letter": "E",
+        "text": "informar sobre o aumento de anticorpos nas mães."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q44-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O cartaz do Ministério da Saúde tem como título 'Por que é tão importante amamentar?' e elenca uma lista de pontos positivos decorrentes do aleitamento materno: transferência de anticorpos e proteção contra doenças e infecções, redução de riscos de asma, diabetes e obesidade, exercício que desenvolve a face e a arcada dentária, e desenvolvimento da fala e boa respiração. Portanto, seu objetivo principal é divulgar os diversos benefícios promovidos pela prática da amamentação para a saúde e o desenvolvimento do bebê, tornando a alternativa A correta. A alternativa B é incorreta, pois o cartaz não detalha tratamentos médicos. A alternativa C não corresponde ao conteúdo veiculado, que não aborda direitos cívicos ou lactação em espaços públicos. A alternativa D é incorreta, já que a amamentação em si é que funciona como exercício facial, não havendo instruções de exercícios prévios. A alternativa E erra ao afirmar que os anticorpos aumentam na mãe, quando o cartaz esclarece que é o bebê quem os recebe.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1"
+    }
+  },
+  {
+    "id": "enem-2023-q46",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 46,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas",
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "[[FIG1]]\nFotografia da avó bordada\nSCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira de Pesquisa (Auto)Biográfica, n. 18, maio-ago. 2021.\nA definição de Sertão descrita no bordado associa esse recorte espacial a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "percursos e roteiros turísticos."
+      },
+      {
+        "letter": "B",
+        "text": "trajetos e movimentos holísticos."
+      },
+      {
+        "letter": "C",
+        "text": "vivências e itinerários socioafetivos."
+      },
+      {
+        "letter": "D",
+        "text": "fronteiras e demarcações territoriais."
+      },
+      {
+        "letter": "E",
+        "text": "profissões e interesses econômicos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q46-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O bordado poético define o espaço: 'Sertão é a avó bordando caminhos com linhas coloridas'. Nessa composição, que une a imagem da avó com traçados e linhas, o Sertão deixa de ser visto apenas sob um prisma geográfico tradicional e passa a ser configurado por laços de afeto, memória familiar e experiência vivida. Trata-se, portanto, de uma construção do espaço pautada em vivências e itinerários socioafetivos, validando a alternativa C. A alternativa A é incorreta, pois a obra nada tem a ver com turismo comercial. A alternativa B está incorreta, pois 'movimentos holísticos' não define a dimensão memorialista e afetiva da peça. A alternativa D é errônea porque o bordado transcende noções duras de delimitações geopolíticas ou fronteiras físicas. A alternativa E não encontra respaldo na obra, uma vez que a prática manual do bordado é apresentada sob o viés da memória e do afeto, e não de interesses econômicos de mercado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 1º dia, 1"
+    }
   }
 ]
