@@ -114550,5 +114550,1479 @@
       "institution": "INEP",
       "note": "ENEM 2019 – 1º dia, 1 - AZUL"
     }
+  },
+  {
+    "id": "enem-2019-q93",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "A esquistossomose (barriga-dʼágua) caracteriza-se pela inflamação do fígado e do baço causada pelo verme Schistosoma mansoni (esquistossomo). O contágio ocorre depois que larvas do verme são liberadas na água pelo caramujo do gênero Biomphalaria, seu hospedeiro intermediário, e penetram na pele humana. Após o diagnóstico, o tratamento tradicional utiliza medicamentos por via oral para matar o parasita dentro do corpo. Uma nova estratégia terapêutica baseia-se na utilização de uma vacina, feita a partir de uma proteína extraída do verme, que induz o organismo humano a produzir anticorpos para combater e prevenir a doença.\n\nInstituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz anuncia nova fase de vacina para esquistossomose. Disponível em: http://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).\n\nUma vantagem da vacina em relação ao tratamento tradicional é que ela poderá",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impedir a penetração do parasita pela pele."
+      },
+      {
+        "letter": "B",
+        "text": "eliminar o caramujo para que não haja contágio."
+      },
+      {
+        "letter": "C",
+        "text": "impedir o acesso do esquistossomo especificamente para o fígado."
+      },
+      {
+        "letter": "D",
+        "text": "eliminar o esquistossomo antes que ocorra contato com o organismo."
+      },
+      {
+        "letter": "E",
+        "text": "eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A vacina estimula o sistema imunológico a desenvolver uma resposta imune adaptativa, com produção de anticorpos e células de memória. Assim, caso o indivíduo seja infectado pelas larvas do Schistosoma mansoni, os anticorpos pré-existentes e a rápida resposta imunológica podem combater e neutralizar o parasita logo no início da infecção, antes que ele se estabeleça nos vasos sanguíneos e cause as lesões e manifestações clínicas típicas da esquistossomose. Portanto, a alternativa E está correta. A alternativa A está incorreta, pois a vacina não cria uma barreira física na pele para impedir a penetração das cercárias. A alternativa B é incorreta, já que a vacinação humana não tem ação direta sobre a população de caramujos transmissores. A alternativa C é incorreta, porque a resposta imune é sistêmica, não atuando apenas no fígado. A alternativa D é incorreta, pois para os anticorpos agirem sobre o parasita é necessário que ocorra a invasão do organismo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q97",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 97,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "As cutias, pequenos roedores das zonas tropicais, transportam pela boca as sementes que caem das árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar a maioria de suas sementes enterradas para as épocas mais secas, quando não há frutos maduros disponíveis. Cientistas descobriram que as cutias roubam as sementes enterradas por outras, e esse comportamento de “ladroagem” faz com que uma mesma semente possa ser enterrada dezenas de vezes.\n\nDisponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.\n\nEssa “ladroagem” está associada à relação de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sinfilia."
+      },
+      {
+        "letter": "B",
+        "text": "predatismo."
+      },
+      {
+        "letter": "C",
+        "text": "parasitismo."
+      },
+      {
+        "letter": "D",
+        "text": "competição."
+      },
+      {
+        "letter": "E",
+        "text": "comensalismo."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O comportamento descrito no texto envolve indivíduos da mesma espécie (cutias) disputando um recurso essencial e limitado, que são as sementes enterradas para a sobrevivência em períodos de escassez. A interação em que indivíduos disputam o mesmo recurso no meio ambiente configura uma relação ecológica de competição (neste caso, intraespecífica). Logo, a alternativa D está correta. A alternativa A está incorreta, pois sinfilia é uma relação harmônica interespecífica na qual uma espécie se beneficia de substâncias produzidas por outra, fornecendo algo em troca (como formigas e pulgões). A alternativa B está incorreta, pois predatismo envolve a captura e morte de uma presa de outra espécie para alimento. A alternativa C está incorreta, pois parasitismo envolve uma espécie vivendo à custa de um hospedeiro, causando-lhe prejuízo. A alternativa E está incorreta, pois comensalismo é uma relação interespecífica em que apenas uma espécie se beneficia dos restos alimentares da outra, sem prejudicá-la.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q107",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 107,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Zoologia"
+    ],
+    "statement": "Na piscicultura, costumam-se usar larvas de Artemia (crustáceo) para alimentar larvas de peixes. Ovos de Artemia são colocados em garrafas com água salgada e, sob condições ótimas de temperatura, luz e oxigênio, eles eclodem, liberando suas larvas, também conhecidas como náuplios. Para recolher os náuplios, coloca-se uma lâmpada branca fluorescente na boca da garrafa e estes começam a subir em direção ao gargalo.\n\nEsse comportamento das artêmias é chamado de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "geotropismo positivo."
+      },
+      {
+        "letter": "B",
+        "text": "fototropismo positivo."
+      },
+      {
+        "letter": "C",
+        "text": "hidrotropismo negativo."
+      },
+      {
+        "letter": "D",
+        "text": "termotropismo negativo."
+      },
+      {
+        "letter": "E",
+        "text": "quimiotropismo negativo."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Atenção: o termo técnico mais rigoroso para o deslocamento orientado de animais é 'tactismo' (fototactismo), mas a questão utilizou os termos tradicionais de resposta a estímulos. O movimento das larvas de artêmia ocorre em direção à fonte de luz (lâmpada branca fluorescente colocada no gargalo da garrafa), caracterizando uma atração e orientação positiva pela luz. Portanto, o comportamento em direção à luz é denominado fototropismo positivo (ou fototactismo positivo), tornando a alternativa B a correta. A alternativa A é incorreta, pois geotropismo refere-se à resposta à força da gravidade. A alternativa C é incorreta, pois hidrotropismo diz respeito à resposta ao estímulo de água ou umidade. A alternativa D é incorreta, pois termotropismo é a resposta a variações térmicas (de temperatura). A alternativa E é incorreta, pois quimiotropismo envolve a resposta orientada por substâncias químicas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q112",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 112,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica",
+      "Físico-Química"
+    ],
+    "statement": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.\n\n[[FIG1]]\nSANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).\n\nNa fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "suas densidades são maiores."
+      },
+      {
+        "letter": "B",
+        "text": "o número de ramificações é maior."
+      },
+      {
+        "letter": "C",
+        "text": "sua solubilidade no petróleo é maior."
+      },
+      {
+        "letter": "D",
+        "text": "as forças intermoleculares são mais intensas."
+      },
+      {
+        "letter": "E",
+        "text": "a cadeia carbônica é mais difícil de ser quebrada."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q112-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na fração 4, os hidrocarbonetos possuem cadeias carbônicas mais longas (de C14 a C18). Todas essas substâncias são apolares e interagem por forças intermoleculares do tipo dipolo induzido (dispersão de London). Quanto maior o tamanho da cadeia carbônica e a massa molar, maior é a área superficial de contato molecular e a polarizabilidade da nuvem eletrônica, o que torna as forças intermoleculares mais intensas. Consequentemente, é necessária uma maior quantidade de energia térmica para separar as moléculas na mudança de fase, elevando o ponto de ebulição. Assim, a alternativa D está correta. A alternativa A está incorreta, pois a densidade não é a causa direta das altas temperaturas de ebulição. A alternativa B está incorreta, pois quanto maior o número de ramificações, menor tende a ser a área de contato e o ponto de ebulição. A alternativa C é incorreta, pois a solubilidade mútua não dita as temperaturas de ebulição dos compostos puros. A alternativa E é incorreta, pois na destilação fracionada ocorrem apenas mudanças de estado físico (quebra de interações intermoleculares), não a quebra de ligações covalentes da cadeia carbônica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q113",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 113,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade",
+      "Mecânica"
+    ],
+    "statement": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B⃗, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon.\n\n[[FIG1]]\n\nA massa do íon medida por esse dispositivo será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2019-q113-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2019-q113-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2019-q113-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2019-q113-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2019-q113-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q113-1.webp",
+      "FIG2": "data/figuras/enem-2019-q113-2.webp",
+      "FIG3": "data/figuras/enem-2019-q113-3.webp",
+      "FIG4": "data/figuras/enem-2019-q113-4.webp",
+      "FIG5": "data/figuras/enem-2019-q113-5.webp",
+      "FIG6": "data/figuras/enem-2019-q113-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No movimento helicoidal, a projeção do movimento no plano perpendicular ao campo magnético (plano yz) é um movimento circular uniforme com período T. A força magnética atua como força centrípeta: F_mag = q*v_perp*B = m*(v_perp^2)/R, de onde tiramos R = m*v_perp / (q*B). Como a velocidade escalar no plano é v_perp = 2*pi*R / T, substituindo R temos T = 2*pi*m / (q*B). O tempo total de voo para N voltas completas é dado por t = N*T. Logo, t = N * (2*pi*m / (q*B)). Isolando a massa m do íon, obtemos: m = (q*B*t) / (2*pi*N). Portanto, a alternativa A está correta. As alternativas B, C, D e E trazem fatores incorretos no numerador ou denominador resultantes de erros na manipulação algébrica das fórmulas do período do ciclotron e do número de voltas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q119",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 119,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia",
+      "Mecânica"
+    ],
+    "statement": "Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas. Uma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas têm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B. Ao calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração pA e pB, os amigos observam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B. Pode-se considerar que as massas de ar comprimido no pneu da bicicleta A, mA, e no pneu da bicicleta B, mB, são diretamente proporcionais aos seus volumes.\n\nComparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pA < pB e mA < mB"
+      },
+      {
+        "letter": "B",
+        "text": "pA > pB e mA < mB"
+      },
+      {
+        "letter": "C",
+        "text": "pA > pB e mA = mB"
+      },
+      {
+        "letter": "D",
+        "text": "pA < pB e mA = mB"
+      },
+      {
+        "letter": "E",
+        "text": "pA > pB e mA > mB"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A deformação de um pneu sob esforço depende da pressão interna: quanto maior a pressão, mais rígido é o pneu e menor é a sua deformação. Como o pneu de A deforma muito menos que o de B sob os mesmos esforços, conclui-se que a pressão em A é maior que em B, isto é, pA > pB. Além disso, os pneus de A são mais estreitos (menor largura) e têm as mesmas demais características, portanto o volume interno de A é menor que o volume de B (VA < VB). Como o enunciado estabelece que as massas de ar comprimido são diretamente proporcionais aos volumes dos pneus, segue que mA < mB. Dessa forma, pA > pB e mA < mB, o que corresponde à alternativa B. As alternativas A e D afirmam incorretamente que pA < pB. As alternativas C e D afirmam erroneamente que mA = mB. A alternativa E afirma incorretamente que mA > mB.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q122",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 122,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química",
+      "Química Geral e Inorgânica"
+    ],
+    "statement": "O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um \"sabonete de aço inoxidável\", constituído de aço inox (74%), cromo e níquel. A principal vantagem desse \"sabonete\" é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.\n\n[[FIG1]]\n\nNa conversão de I em II, o \"sabonete\" atuará como um",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ácido."
+      },
+      {
+        "letter": "B",
+        "text": "redutor."
+      },
+      {
+        "letter": "C",
+        "text": "eletrólito."
+      },
+      {
+        "letter": "D",
+        "text": "tensoativo."
+      },
+      {
+        "letter": "E",
+        "text": "catalisador."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q122-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto informa que o sabonete metálico é feito de aço inoxidável, cromo e níquel e destaca como sua principal característica o fato de que 'não se desgasta com o uso'. Uma substância que acelera ou possibilita uma transformação química (neste caso, a redução da alicina I ao dissulfeto II) sem ser consumida na reação atua tipicamente como um catalisador (catálise heterogênea proporcionada pela superfície metálica). Portanto, a alternativa E está correta. A alternativa A está incorreta, pois os metais do aço não atuam primariamente doando prótons. A alternativa B está incorreta, pois se o aço atuasse como agente redutor estequiométrico, seus componentes metálicos se oxidariam e o sabonete sofreria desgaste e consumo ao longo do tempo. A alternativa C está incorreta, pois eletrólitos são substâncias que liberam íons em solução para conduzir corrente elétrica. A alternativa D está incorreta, pois tensoativos são compostos anfipáticos que reduzem a tensão superficial da água, característica de sabões tradicionais, e não de blocos metálicos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q133",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 133,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana"
+    ],
+    "statement": "O “The Kidney Project” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.\n\nDisponível em: https://pharm.ucsf.edu. Acesso em: 26 abr. 2019 (adaptado).\n\nO dispositivo criado promoverá diretamente a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "remoção de ureia."
+      },
+      {
+        "letter": "B",
+        "text": "excreção de lipídios."
+      },
+      {
+        "letter": "C",
+        "text": "síntese de vasopressina."
+      },
+      {
+        "letter": "D",
+        "text": "transformação de amônia."
+      },
+      {
+        "letter": "E",
+        "text": "fabricação de aldosterona."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os rins são órgãos responsáveis pela filtração do sangue e excreção de resíduos metabólicos do organismo, principalmente os excretas nitrogenados como a ureia. Pessoas com insuficiência renal dependem da hemodiálise justamente para remover a ureia e outras toxinas acumuladas no sangue. Sendo assim, o rim biônico promoverá diretamente a remoção de ureia, tornando a alternativa A correta. A alternativa B é incorreta, pois lipídios não são normalmente excretados pelo sistema renal. A alternativa C é incorreta, pois a vasopressina (hormônio antidiurético, ADH) é sintetizada pelo hipotálamo e liberada pela neuro-hipófise, não pelo rim. A alternativa D é incorreta, pois a transformação da amônia em ureia (ciclo da ureia) ocorre primariamente no fígado. A alternativa E é incorreta, pois a aldosterona é produzida pelas glândulas suprarrenais (córtex da adrenal).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q135",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 135,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Óptica"
+    ],
+    "statement": "Quando se considera a extrema velocidade com que a luz se espalha por todos os lados e que, quando vêm de diferentes lugares, mesmo totalmente opostos, [os raios luminosos] se atravessam uns aos outros sem se atrapalharem, compreende-se que, quando vemos um objeto luminoso, isso não poderia ocorrer pelo transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar; pois certamente isso repugna bastante a essas duas propriedades da luz, principalmente a última.\n\nHUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. Caderno de História e Filosofia da Ciência, supl. 4, 1986.\n\nO texto contesta que concepção acerca do comportamento da luz?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter."
+      },
+      {
+        "letter": "B",
+        "text": "O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos."
+      },
+      {
+        "letter": "C",
+        "text": "O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas."
+      },
+      {
+        "letter": "D",
+        "text": "A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos."
+      },
+      {
+        "letter": "E",
+        "text": "A ideia defendida pelos gregos de que a luz era produzida pelos olhos."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto de Christiaan Huygens argumenta que a luz não pode ser constituída por partículas materiais ('transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar'), pois partículas colidiriam entre si ao se cruzarem vindo de sentidos opostos, impedindo que os feixes luminosos se atravessassem mutuamente sem interferência mútua mecânica. Esse argumento é construído por Huygens especificamente para contestar o modelo corpuscular da luz, amplamente defendido por Isaac Newton, que propunha a luz como feixes de corpúsculos materiais. Portanto, a alternativa C está correta. A alternativa A é incorreta, pois o próprio Huygens apoiava a necessidade de um meio de propagação (o éter luminífero). A alternativa B é incorreta, pois o modelo ondulatório era defendido por Huygens, e não contestado por ele. A alternativa D é incorreta, já que o texto menciona a extrema velocidade da luz e não tem como foco contestar a velocidade infinita. A alternativa E é incorreta, pois a teoria da emissão ocular já havia sido superada muito antes e não é o alvo da comparação com projéteis como flechas ou balas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q137",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 137,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "A Hydrangea macrophylla é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8. Sabe-se que pH = - log₁₀x, em que x é a concentração de íon hidrogênio (H⁺).\n\nPara produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "qualquer valor acima de 10⁻⁸."
+      },
+      {
+        "letter": "B",
+        "text": "qualquer valor positivo inferior a 10⁻⁷."
+      },
+      {
+        "letter": "C",
+        "text": "valores maiores que 7 e menores que 8."
+      },
+      {
+        "letter": "D",
+        "text": "valores maiores que 70 e menores que 80."
+      },
+      {
+        "letter": "E",
+        "text": "valores maiores que 10⁻⁸ e menores que 10⁻⁷."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para que a Hydrangea seja cor-de-rosa, o solo deve ser alcalino, ou seja, pH > 7. Para ter o maior valor comercial, o pH deve ser inferior a 8. Portanto, temos a condição: 7 < pH < 8. Sabe-se que pH = -log₁₀(x), logo: 7 < -log₁₀(x) < 8. Multiplicando toda a inequação por -1 (o que inverte o sentido das desigualdades): -8 < log₁₀(x) < -7. Aplicando a base 10 (função estritamente crescente): 10⁻⁸ < x < 10⁻⁷. Assim, a concentração de H⁺ deve assumir valores maiores que 10⁻⁸ e menores que 10⁻⁷, correspondendo exatamente à alternativa E. A alternativa A está incorreta, pois valores acima de 10⁻⁸ incluiriam pH menor que 7 (solos ácidos com flor azul). A alternativa B está incorreta, pois valores inferiores a 10⁻⁷ incluem pH maior que 8. As alternativas C e D confundem o valor de x (concentração de íons H⁺) com a própria escala logarítmica de pH.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q138",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma pessoa, que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Art. 1 234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5% do valor do objeto.\n\nEla sabe que o custo com transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapasse o valor atual do objeto.\n\nNessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20%"
+      },
+      {
+        "letter": "B",
+        "text": "25%"
+      },
+      {
+        "letter": "C",
+        "text": "40%"
+      },
+      {
+        "letter": "D",
+        "text": "60%"
+      },
+      {
+        "letter": "E",
+        "text": "80%"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Seja V o valor atual do objeto. O custo com transporte é de um quinto do valor do objeto, ou seja, T = (1/5) * V = 0,20 * V (20% de V). O gasto total com despesas é a soma do transporte com a recompensa R: Gasto = T + R. A pessoa pretende que o gasto total não ultrapasse o valor atual do objeto, ou seja, T + R <= V. Substituindo T: 0,20 * V + R <= V => R <= V - 0,20 * V => R <= 0,80 * V. Portanto, o maior percentual possível de recompensa que ela poderá ofertar sobre o valor do objeto é de 80%. Isso satisfaz também a exigência legal de ser no mínimo 5%. Logo, a alternativa E está correta. A alternativa A (20%) corresponde apenas à despesa de transporte. As alternativas B, C e D apresentam percentuais inferiores ao valor máximo possível permitido pela restrição orçamentária do proprietário.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q139",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.\n\n• Faixa 1: para consumo de até 6 m³, valor fixo de R$ 12,00;\n• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\n\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês.\n\nO gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, em metro cúbico, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2019-q139-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2019-q139-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2019-q139-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2019-q139-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2019-q139-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q139-1.webp",
+      "FIG2": "data/figuras/enem-2019-q139-2.webp",
+      "FIG3": "data/figuras/enem-2019-q139-3.webp",
+      "FIG4": "data/figuras/enem-2019-q139-4.webp",
+      "FIG5": "data/figuras/enem-2019-q139-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Vamos analisar a função P(V) dividida por faixas:\n- Faixa 1 (0 <= V <= 6): P(V) = 12 (constante, segmento horizontal de reta).\n- Faixa 2 (6 < V <= 10): P(V) = 12 + 3*(V - 6) = 3V - 6. A inclinação da reta é 3. Para V = 10, P(10) = 12 + 3*(4) = 24.\n- Faixa 3 (10 < V <= 15): P(V) = 24 + 6*(V - 10) = 6V - 36. A inclinação da reta é 6. Para V = 15, P(15) = 24 + 6*(5) = 54.\nO gráfico deve começar constante e horizontal de 0 a 6, depois ter uma inclinação positiva moderada (m = 3) entre 6 e 10, e em seguida ficar ainda mais inclinado (m = 6, o dobro da inclinação anterior) entre 10 e 15. Esse comportamento de reta horizontal seguida por inclinação que se acentua na terceira faixa é representado fielmente na Figura 1 (alternativa A). A alternativa B está incorreta, pois mostra a inclinação diminuindo após V = 10. A alternativa C está incorreta, pois mostra valor constante após V = 10. A alternativa D está incorreta, pois não apresenta mudança de inclinação entre a segunda e terceira faixas. A alternativa E está incorreta, pois não é constante de 0 a 6.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q142",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 142,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6 m, é cercada por grama. A administração do condomínio deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8 m, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 m² de área. O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.\n\nUtilize 3 como aproximação para π.\n\nA conclusão correta a que o síndico deverá chegar, considerando a nova área a ser pavimentada, é a de que o material disponível em estoque",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "será suficiente, pois a área da nova região a ser pavimentada mede 21 m²."
+      },
+      {
+        "letter": "B",
+        "text": "será suficiente, pois a área da nova região a ser pavimentada mede 24 m²."
+      },
+      {
+        "letter": "C",
+        "text": "será suficiente, pois a área da nova região a ser pavimentada mede 48 m²."
+      },
+      {
+        "letter": "D",
+        "text": "não será suficiente, pois a área da nova região a ser pavimentada mede 108 m²."
+      },
+      {
+        "letter": "E",
+        "text": "não será suficiente, pois a área da nova região a ser pavimentada mede 120 m²."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A área pavimentada original possui formato circular com diâmetro de 6 m, logo seu raio inicial é r₁ = 3 m. O novo diâmetro é aumentado em 8 m, passando a ser 6 + 8 = 14 m, de modo que o novo raio é r₂ = 14 / 2 = 7 m. Como o revestimento existente será mantido, a nova área a ser pavimentada corresponde à área da coroa circular entre os dois círculos: A_nova = pi * (r₂² - r₁²). Usando a aproximação pi = 3: A_nova = 3 * (7² - 3²) = 3 * (49 - 9) = 3 * 40 = 120 m². Como o condomínio dispõe de material para pavimentar apenas 100 m² e a nova área mede 120 m², o material não será suficiente. Logo, a alternativa E está correta. A alternativa A está incorreta, pois resultaria de usar a variação do raio como raio de um novo círculo menor com erros de conta. As alternativas B e C erram o cálculo de áreas por confusão de raios e diâmetros. A alternativa D erra ao não considerar o raio correto ou cometer equívoco aritmético.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q145",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta. As diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.\n\n[[FIG1]]\n\nO ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.\n\nO valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2,3."
+      },
+      {
+        "letter": "B",
+        "text": "3,5."
+      },
+      {
+        "letter": "C",
+        "text": "4,7."
+      },
+      {
+        "letter": "D",
+        "text": "5,3."
+      },
+      {
+        "letter": "E",
+        "text": "10,5."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q145-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A distância percorrida pela bicicleta a cada volta completa dos pedais é diretamente proporcional ao número de voltas da catraca (e, portanto, da roda traseira). A transmissão por corrente preserva a velocidade linear: v = omega_coroa * R_coroa = omega_catraca * R_catraca. O número de voltas da catraca por volta da coroa é n = D_coroa / D_catraca, sendo inversamente proporcional ao diâmetro da catraca D. Para a bicicleta avançar 50% a mais com a segunda catraca, o novo avanço deve ser 1,5 vezes o avanço original, o que requer que o número de voltas seja 1,5 vezes maior: n₂ = 1,5 * n₁. Logo: D_coroa / D₂ = 1,5 * (D_coroa / D₁) => 1 / D₂ = 1,5 / D₁ => D₂ = D₁ / 1,5. Dado que D₁ = 7 cm: D₂ = 7 / 1,5 = 14 / 3 ≈ 4,67 cm, que arredondado com uma casa decimal é 4,7 cm. Portanto, a alternativa C está correta. As alternativas A, B e D decorrem de divisões incorretas. A alternativa E resulta de multiplicar erroneamente por 1,5 (7 * 1,5 = 10,5), esquecendo que catracas menores geram velocidades e avanços maiores.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q147",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 147,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu pátio de estacionamento.\n\nO profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas. O formato de cada placa é um círculo de diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 cm, conforme ilustrado na figura. Use 3,14 como aproximação para π.\n\n[[FIG1]]\n\nQual é a soma das medidas das áreas, em centímetros quadrados, das dez placas?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "16 628"
+      },
+      {
+        "letter": "B",
+        "text": "22 280"
+      },
+      {
+        "letter": "C",
+        "text": "28 560"
+      },
+      {
+        "letter": "D",
+        "text": "41 120"
+      },
+      {
+        "letter": "E",
+        "text": "66 240"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q147-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Cada placa é composta por um semicírculo no topo e um retângulo na base. O diâmetro do círculo é d = 40 cm, logo o raio mede r = 20 cm e a largura da placa é 40 cm. Como a altura total é h = 60 cm e o semicírculo ocupa 20 cm dessa altura, a altura do retângulo é 60 - 20 = 40 cm. Assim, a área do retângulo é dada por 40 cm × 40 cm = 1 600 cm². A área do semicírculo superior é (π × r²) / 2 = (3,14 × 20²) / 2 = (3,14 × 400) / 2 = 628 cm². Somando essas duas partes, a área de uma única placa é 1 600 + 628 = 2 228 cm². Para as dez placas encomendadas, a área total necessária é 10 × 2 228 = 22 280 cm², o que valida a alternativa B. A alternativa A erra ao calcular a área de apenas uma placa ou considerar o círculo completo de forma errônea. A alternativa C soma valores incorretos de altura. As alternativas D e E superestimam a área ao duplicar dimensões ou não descontar partes sobrepostas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q148",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 148,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade de 0,3 m³. Para evitar o transbordamento, essa banheira será preenchida em 80% de sua capacidade.\n\nPara esse banho, o número mínimo de embalagens desse cosmético é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9."
+      },
+      {
+        "letter": "B",
+        "text": "12."
+      },
+      {
+        "letter": "C",
+        "text": "89."
+      },
+      {
+        "letter": "D",
+        "text": "112."
+      },
+      {
+        "letter": "E",
+        "text": "134."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A banheira possui capacidade total de 0,3 m³. Como 1 m³ equivale a 1 000 litros, o volume total da banheira é de 300 litros. Sabendo que ela será preenchida até 80% de sua capacidade, o volume de líquido utilizado será 0,80 × 300 = 240 litros. Cada embalagem do cosmético rende 2,7 litros de produto pronto para o uso. Para determinar o número de embalagens necessárias, divide-se o volume total requerido pelo rendimento unitário: 240 / 2,7 = 2 400 / 27 ≈ 88,89 embalagens. Como não é possível adquirir uma fração de embalagem e a quantidade deve ser suficiente para atingir o volume previsto, é necessário arredondar para o próximo número inteiro superior, totalizando 89 embalagens. Portanto, a alternativa C está correta. As alternativas A e B resultam de erros na conversão de unidades de metros cúbicos para litros. As alternativas D e E decorrem de divisões incorretas utilizando a capacidade total sem aplicar a porcentagem de 80%.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q149",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 149,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "O slogan “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.\n\n[[FIG1]]\n\nSuponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.\n\nCom base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "150."
+      },
+      {
+        "letter": "B",
+        "text": "450."
+      },
+      {
+        "letter": "C",
+        "text": "550."
+      },
+      {
+        "letter": "D",
+        "text": "700."
+      },
+      {
+        "letter": "E",
+        "text": "800."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q149-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "De acordo com a tabela, o número de acidentes na rodovia foi de 900 em 2014 e caiu para 850 em 2015. A redução absoluta observada de 2014 para 2015 foi de 900 - 850 = 50 acidentes. O enunciado estabelece que a tendência para os anos seguintes segue essa mesma redução constante a cada ano. Dessa forma, calculamos ano a ano a partir de 2015: em 2016 o número esperado era 850 - 50 = 800; em 2017 passou a ser 800 - 50 = 750; e, finalmente, em 2018 o número de acidentes esperado foi de 750 - 50 = 700. Portanto, a alternativa D é a correta. A alternativa A calcula uma redução acumulada inadequada. As alternativas B e C aplicam reduções anuais muito maiores do que os 50 acidentes verificados na tabela. Já a alternativa E corresponde apenas ao valor previsto para o ano de 2016, sem projetar até 2018.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q150",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 150,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês. O primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02. Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado.\n\nO valor à vista, em real, que deverá constar na nota fiscal é de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "398,02."
+      },
+      {
+        "letter": "B",
+        "text": "400,00."
+      },
+      {
+        "letter": "C",
+        "text": "401,94."
+      },
+      {
+        "letter": "D",
+        "text": "404,00."
+      },
+      {
+        "letter": "E",
+        "text": "406,02."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O valor à vista corresponde à soma dos valores presentes de cada uma das parcelas negociadas sob o regime de juros compostos com taxa de 1% ao mês (i = 0,01). O primeiro pagamento de R$ 202,00 ocorre após 1 mês, logo seu valor presente é 202 / (1 + 0,01) = 202 / 1,01 = R$ 200,00. O segundo pagamento de R$ 204,02 ocorre após 2 meses, logo seu valor presente é 204,02 / (1 + 0,01)² = 204,02 / 1,0201 = R$ 200,00. Somando os dois valores presentes, temos 200,00 + 200,00 = R$ 400,00, que é o valor à vista a ser registrado na nota fiscal, confirmando a alternativa B. A alternativa A desconta juros de forma linear e inadequada sobre o total das parcelas. A alternativa C calcula incorretamente a atualização pelo fator ao quadrado. As alternativas D e E consideram a soma nominal das parcelas com pequenas deduções ou sem descontar adequadamente a incidência dos juros compostos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q151",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.\n\nAlgum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a venda, de modo proporcional à quantia total investida por cada sócio.\n\nQuais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos três sócios iniciais e o quarto sócio, respectivamente, receberam?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "29,60 e 11,11."
+      },
+      {
+        "letter": "B",
+        "text": "28,70 e 13,89."
+      },
+      {
+        "letter": "C",
+        "text": "25,00 e 25,00."
+      },
+      {
+        "letter": "D",
+        "text": "18,52 e 11,11."
+      },
+      {
+        "letter": "E",
+        "text": "12,96 e 13,89."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Inicialmente, os três primeiros sócios investiram partes iguais de R$ 1 000 000,00, ou seja, R$ 1 000 000,00 / 3 cada. Depois, os quatro sócios investiram partes iguais de R$ 800 000,00, correspondendo a R$ 200 000,00 para cada um. O quarto sócio investiu unicamente esses R$ 200 000,00 de um total investido de R$ 1 800 000,00. A fatia percentual do quarto sócio na partilha é dada por 200 000 / 1 800 000 = 1 / 9 ≈ 11,11%. Cada um dos três sócios fundadores investiu (1 000 000 / 3) + 200 000 = 1 600 000 / 3 reais. A fração correspondente a cada um deles em relação ao total é (1 600 000 / 3) / 1 800 000 = 16 / 54 = 8 / 27 ≈ 29,63%, cujo valor mais próximo nas opções é 29,60%. Isso torna a alternativa A correta. As alternativas B, C, D e E trazem divisões incorretas das proporções investidas ou consideram incorretamente que todos os sócios participaram do aporte inicial de forma igualitária.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q155",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões"
+    ],
+    "statement": "Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.\n\nApós uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação:\n\nDisponível em: www.oficinabrasil.com.br. Acesso em: 25 ago. 2014 (adaptado).\n\n1: rolamento, 2: pastilha de freio, 3: caixa de direção, 4: catalisador e 5: amortecedor.\n\nAo final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta um padrão de formação que consiste na repetição de um bloco de números. Essa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.\n\nO 2 015º item cadastrado foi um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "rolamento."
+      },
+      {
+        "letter": "B",
+        "text": "catalisador."
+      },
+      {
+        "letter": "C",
+        "text": "amortecedor."
+      },
+      {
+        "letter": "D",
+        "text": "pastilha de freio."
+      },
+      {
+        "letter": "E",
+        "text": "caixa de direção."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Analisando a sequência dos códigos cadastrados: 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, percebe-se que ela é periódica e é formada pela repetição sucessiva do bloco de 8 números: (5, 4, 3, 2, 1, 2, 3, 4). Para descobrir o 2 015º item, calcula-se o resto da divisão inteira de 2 015 por 8. Dividindo 2 015 por 8, obtém-se quociente 251 e resto 7, já que 251 × 8 = 2 008 e 2 015 - 2 008 = 7. Portanto, o elemento na posição 2 015 corresponde ao 7º elemento do bloco padrão de repetição. Observando a ordem dentro do bloco, temos: 1º = 5; 2º = 4; 3º = 3; 4º = 2; 5º = 1; 6º = 2; 7º = 3. O código 3 foi definido no enunciado como caixa de direção. Assim, a alternativa correta é a E. As alternativas A, B, C e D indicam outros produtos decorrentes de erros na determinação do tamanho do período da sequência ou na contagem do resto da divisão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q158",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Comum em lançamentos de empreendimentos imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta de marketing para as construtoras, pois, além de encantar clientes, auxiliam de maneira significativa os corretores na negociação e venda de imóveis.\n\nUm condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete projetada pela construtora, em escala de 1 : 200, existe um reservatório de água com capacidade de 45 cm³.\n\nQuando todas as famílias estiverem residindo no condomínio, a estimativa é que, por dia, sejam consumidos 30 000 litros de água.\n\nEm uma eventual falta de água, o reservatório cheio será suficiente para abastecer o condomínio por quantos dias?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30"
+      },
+      {
+        "letter": "B",
+        "text": "15"
+      },
+      {
+        "letter": "C",
+        "text": "12"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      },
+      {
+        "letter": "E",
+        "text": "3"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A maquete está construída na escala linear de 1 : 200. A razão entre volumes é igual ao cubo da razão linear de semelhança, ou seja, (200)³ = 8 000 000. O volume real do reservatório é obtido multiplicando o volume na maquete por essa constante: 45 cm³ × 8 000 000 = 360 000 000 cm³. Sabendo que 1 litro equivale a 1 000 cm³, a capacidade real do reservatório é de 360 000 000 / 1 000 = 360 000 litros. O condomínio consome diariamente 30 000 litros de água. Logo, o número de dias que o reservatório cheio consegue abastecer o local é dado pela divisão: 360 000 / 30 000 = 12 dias. A alternativa C está correta. A alternativa A erra ao calcular o volume com o quadrado da escala em vez do cubo. A alternativa B comete equívoco no consumo diário ou na simplificação. As alternativas D e E subestimam o volume real por erros nas potências de base dez durante as conversões.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q160",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 160,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 m. No último treino antes da estreia em um campeonato, um dos jogadores desfalcou o time em razão de uma séria contusão, forçando o técnico a contratar outro jogador para recompor o grupo.\n\nSe o novo jogador é 0,20 m mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,60"
+      },
+      {
+        "letter": "B",
+        "text": "1,78"
+      },
+      {
+        "letter": "C",
+        "text": "1,79"
+      },
+      {
+        "letter": "D",
+        "text": "1,81"
+      },
+      {
+        "letter": "E",
+        "text": "1,82"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A média inicial de altura dos 20 jogadores era de 1,80 m, o que resulta em uma soma de alturas igual a 20 × 1,80 = 36,00 m. Com a substituição do jogador lesionado por um novo atleta que é 0,20 m mais baixo, a nova soma das alturas de todos os 20 jogadores passa a ser 36,00 - 0,20 = 35,80 m. Dividindo essa nova soma pelo total de jogadores, que continua sendo 20, obtém-se a nova média de altura: 35,80 / 20 = 1,79 m. De forma direta, a redução média na equipe é de 0,20 / 20 = 0,01 m, fazendo a média passar de 1,80 m para 1,79 m, o que torna a alternativa C correta. A alternativa A subtrai 0,20 m diretamente da média. A alternativa B considera erroneamente uma redução em dobro na média. As alternativas D e E consideram um aumento na média em vez de uma diminuição provocada pela contratação de um atleta mais baixo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q161",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 161,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.\n\nDiariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro.\n\n[[FIG1]]\n\nA média diária de garrafas fora das especificações no período considerado é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "0,1."
+      },
+      {
+        "letter": "B",
+        "text": "0,2."
+      },
+      {
+        "letter": "C",
+        "text": "1,5."
+      },
+      {
+        "letter": "D",
+        "text": "2,0."
+      },
+      {
+        "letter": "E",
+        "text": "3,0."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q161-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para calcular a média diária de garrafas fora das especificações, calcula-se a média ponderada multiplicando cada quantidade diária de falhas pelo seu respectivo número de dias de ocorrência. O número total de garrafas fora do padrão registradas nos 60 dias é: (0 × 52) + (1 × 5) + (2 × 2) + (3 × 1) = 0 + 5 + 4 + 3 = 12 garrafas. O número total de dias analisados é 52 + 5 + 2 + 1 = 60 dias. Dessa maneira, a média diária é a razão entre o total de garrafas e o total de dias: 12 / 60 = 0,2 garrafa por dia. Isso confirma a alternativa B como correta. A alternativa A surge de uma divisão errônea por um número maior de dias. As alternativas C, D e E confundem a média diária ponderada com a média aritmética simples dos valores da coluna da esquerda ou com valores modais e medianos da amostra.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q163",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo √X, o terceiro X^(1/3), o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.\n\nQual desses países obteve o maior IDH?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "O primeiro."
+      },
+      {
+        "letter": "B",
+        "text": "O segundo."
+      },
+      {
+        "letter": "C",
+        "text": "O terceiro."
+      },
+      {
+        "letter": "D",
+        "text": "O quarto."
+      },
+      {
+        "letter": "E",
+        "text": "O quinto."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O IDH varia estritamente no intervalo 0 < X < 1, pois o enunciado pontua que nenhum dos países zerou ou atingiu o índice máximo. Quando a base de uma potência pertence ao intervalo aberto entre zero e um, a função exponencial é estritamente decrescente em relação ao expoente, o que significa que quanto menor for o expoente, maior será o resultado obtido. Os índices dos cinco países podem ser reescritos em potências de X: primeiro país = X¹; segundo país = X^(1/2); terceiro país = X^(1/3); quarto país = X²; quinto país = X³. Comparando os expoentes envolvidos (1/3 < 1/2 < 1 < 2 < 3), o menor expoente é 1/3. Portanto, o maior valor é obtido por X^(1/3), que corresponde ao terceiro país, validando a alternativa C. As alternativas A, B, D e E estão incorretas porque assumem expoentes maiores ou aplicam a regra válida para bases maiores que 1, na qual maiores expoentes geram potências maiores.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q168",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 168,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Funções"
+    ],
+    "statement": "Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1 000,00 por semana. Os outros funcionários são diaristas. Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.\n\nChamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Y = 80X + 920."
+      },
+      {
+        "letter": "B",
+        "text": "Y = 80X + 1 000."
+      },
+      {
+        "letter": "C",
+        "text": "Y = 80X + 1 080."
+      },
+      {
+        "letter": "D",
+        "text": "Y = 160X + 840."
+      },
+      {
+        "letter": "E",
+        "text": "Y = 160X + 1 000."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O total de funcionários da empresa é dado por X. Como 1 deles é o gerente, os demais funcionários são diaristas, totalizando (X - 1) pessoas. Cada diarista trabalha 2 dias na semana e recebe R$ 80,00 por dia trabalhado, recebendo semanalmente 2 × 80 = R$ 160,00. O gerente recebe uma quantia fixa semanal de R$ 1 000,00. Portanto, o gasto semanal total Y da empresa é a soma do pagamento do gerente com o pagamento de todos os diaristas: Y = 1 000 + 160(X - 1). Aplicando a propriedade distributiva, temos Y = 1 000 + 160X - 160 = 160X + 840. Assim, a expressão correta é a apresentada na alternativa D. A alternativa A multiplica X por 80 em vez do valor semanal por diarista. As alternativas B e E não descontam a pessoa do gerente ao contabilizar os diaristas. A alternativa C erra o sinal ao subtrair a remuneração semanal do gerente na simplificação algébrica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q169",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 169,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V. Sabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.\n\n[[FIG1]]\n\nCom base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q169-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para haver match entre o usuário P e outro usuário, ambos devem estar no alcance de abrangência mútuo. Como o raio de P é de 3 km, a distância entre P e qualquer contato deve ser de no máximo 3 km e não pode exceder o raio de abrangência do outro usuário. Para R, cujo raio é de 2 km, a distância entre P e R deve ser menor ou igual a 2 km. O ponto de R no plano cartesiano é (6, 7). O ponto I possui coordenadas (5, 6). A distância entre I e R é dada por raiz((5-6)² + (6-7)²) = raiz(1 + 1) = raiz(2) ≈ 1,41 km, que é menor que 2 km. Em relação a Q (3, 7, raio 3 km), a distância de I a Q é raiz((5-3)² + (6-7)²) = raiz(4 + 1) = raiz(5) ≈ 2,24 km, que é menor que 3 km. Em relação a S (5, 3, raio 5 km), a distância de I a S é raiz((5-5)² + (6-3)²) = 3 km, que satisfaz o raio de 3 km de P e o de 5 km de S. Os demais bares (II, III, IV e V) estão a distâncias estritamente superiores a 2 km de R, inviabilizando o match simultâneo. Logo, a alternativa A é a correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q170",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 170,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 mg desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 kg pelo período de 5 dias. Esse medicamento pode ser comprado em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento. Considere que 1 g desse medicamento ocupe um volume de 1 cm³.\n\nA capacidade do frasco, em mililitro, que esses pais deverão comprar é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10."
+      },
+      {
+        "letter": "B",
+        "text": "50."
+      },
+      {
+        "letter": "C",
+        "text": "100."
+      },
+      {
+        "letter": "D",
+        "text": "250."
+      },
+      {
+        "letter": "E",
+        "text": "500."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A dosagem diária máxima é de 500 mg para cada quilograma de massa corporal. Para uma criança de 20 kg, a dose diária é 500 mg/kg × 20 kg = 10 000 mg por dia. Como o tratamento dura 5 dias, a quantidade total a ser ministrada ao longo de todo o período é 10 000 mg/dia × 5 dias = 50 000 mg. Convertendo miligramas para gramas, temos 50 000 mg = 50 g de antibiótico. O enunciado informa que 1 g do medicamento ocupa 1 cm³, logo 50 g equivalem a um volume de 50 cm³. Sabendo que 1 cm³ corresponde a 1 mL, o volume total exato do medicamento a ser ministrado é de 50 mL. Dessa forma, para evitar desperdício e administrar a dose exata prescrita, os pais devem comprar o frasco de 50 mL, tornando correta a alternativa B. As alternativas A, C, D e E apresentam volumes insuficientes para o tratamento ou que resultariam em sobra considerável de medicamento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q171",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 171,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações, conforme ilustrado na figura.\n\n[[FIG1]]\n\nDe acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "C₁₂⁴ × C₁₂³ × C₁₂³ × C₁₂²"
+      },
+      {
+        "letter": "B",
+        "text": "C₁₂⁴ + C₈³ + C₅³ + C₂²"
+      },
+      {
+        "letter": "C",
+        "text": "C₁₂⁴ × 2 × C₈³ × C₂²"
+      },
+      {
+        "letter": "D",
+        "text": "C₁₂⁴ + 2 × C₁₂³ + C₁₂²"
+      },
+      {
+        "letter": "E",
+        "text": "C₁₂⁴ × C₈³ × C₅³ × C₂²"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q171-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Há 12 posições fixas e ordenadas numericamente de 1 a 12 para os vagões do trem. Para determinar o número de configurações possíveis de cores, deve-se escolher quais posições receberão cada uma das cores disponíveis. Inicialmente, escolhem-se 4 das 12 posições para os vagões vermelhos, o que pode ser feito de C(12, 4) maneiras. Em seguida, restam 8 posições livres, dentre as quais 3 são escolhidas para os vagões azuis, perfazendo C(8, 3) possibilidades. Restam então 5 posições disponíveis, das quais 3 são escolhidas para os vagões verdes, resultando em C(5, 3) maneiras. Por fim, para as 2 posições restantes, escolhem-se ambas para os vagões amarelos, gerando C(2, 2) maneira. Pelo princípio fundamental da contagem, multiplicam-se todas essas combinações: C₁₂⁴ × C₈³ × C₅³ × C₂². Essa expressão corresponde à alternativa E. As alternativas A, B, C e D erram ao somar combinações ou não atualizar o total de posições remanescentes para as escolhas subsequentes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q174",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.\n\n[[FIG1]]\n\nSegundo o acordo, qual município receberá o investimento extra?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q174-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A taxa de urbanização é a razão entre a população urbana e a população total (urbana + rural). Para cada município, temos: I: 8 000 / (8 000 + 4 000) = 8 000 / 12 000 = 2/3 ≈ 0,667 (66,7%); II: 10 000 / (10 000 + 8 000) = 10 000 / 18 000 = 5/9 ≈ 0,556 (55,6%); III: 11 000 / (11 000 + 5 000) = 11 000 / 16 000 = 11/16 = 0,6875 (68,75%); IV: 18 000 / (18 000 + 10 000) = 18 000 / 28 000 = 9/14 ≈ 0,643 (64,3%); V: 17 000 / (17 000 + 12 000) = 17 000 / 29 000 ≈ 0,586 (58,6%). Comparando as razões, o município III atinge 68,75%, sendo a maior taxa de urbanização entre todos os analisados. Portanto, a alternativa C é a correta. As alternativas A, B e E trazem taxas estritamente menores. A alternativa D corresponde ao município com a maior população urbana absoluta, mas cuja proporção em relação à população total é inferior à do município III.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q175",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 175,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄), os quais possuem raios internos e alturas internas medindo 1,5 m.\n\n[[FIG1]]\n\nAs ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectados próximos às bases de cada reservatório. Na conexão de cada um desses canos com o reservatório central há registros que liberam ou interrompem o fluxo de água.\n\nNo momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.\n\nA medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,44."
+      },
+      {
+        "letter": "B",
+        "text": "1,16."
+      },
+      {
+        "letter": "C",
+        "text": "1,10."
+      },
+      {
+        "letter": "D",
+        "text": "1,00."
+      },
+      {
+        "letter": "E",
+        "text": "0,95."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q175-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O volume inicial de água no reservatório central é V = π · R² · H = π · 2² · 3,30 = 13,2π m³. Os canos cilíndricos têm diâmetro de 0,10 m (raio r = 0,05 m) e comprimento L = 20 m. O volume de água em cada cano é π · 0,05² · 20 = π · 0,0025 · 20 = 0,05π m³. Como são 4 canos, o volume total ocupado nos canos é 4 · 0,05π = 0,20π m³. Assim, o volume restante nos reservatórios é 13,20π - 0,20π = 13,00π m³. Ao atingir o equilíbrio à mesma altura h, a área da base do reservatório central é π · 2² = 4π m², e a de cada um dos quatro reservatórios auxiliares é π · 1,5² = 2,25π m². A soma das áreas das bases dos 5 reservatórios é 4π + 4 · 2,25π = 4π + 9π = 13π m². O volume total é 13π · h = 13π, donde h = 1,00 m. As alternativas A, B, C e E estão incorretas pois desconsideram o volume retido nos canos de ligação ou erram o cálculo das áreas da base dos cilindros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q177",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Álgebra"
+    ],
+    "statement": "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão está representado na figura.\n\n[[FIG1]]\n\nA função [[FIG2]] definida para t ≥ 0 descreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.\n\nO valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm. Para os cálculos, utilize 3 como aproximação para π.\n\nO menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "4."
+      },
+      {
+        "letter": "D",
+        "text": "5."
+      },
+      {
+        "letter": "E",
+        "text": "8."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q177-1.webp",
+      "FIG2": "data/figuras/enem-2019-q177-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A função da altura é h(t) = 4 + 4 sen(βt/2 - π/2). Queremos que h(t) = 6 três vezes antes de t = 4 s. Igualando: 4 + 4 sen(θ) = 6 ⇒ 4 sen(θ) = 2 ⇒ sen(θ) = 1/2, onde θ = βt/2 - π/2. Como t varia a partir de 0, para t = 0 temos θ = -π/2. Os valores em que sen(θ) = 1/2 a partir de -π/2 são: 1ª vez em θ = π/6; 2ª vez em θ = 5π/6; 3ª vez em θ = 2π + π/6 = 13π/6. Portanto, a 3ª vez ocorre quando βt/2 - π/2 = 13π/6 ⇒ βt/2 = 13π/6 + 3π/6 = 16π/6 = 8π/3 ⇒ βt = 16π/3. Usando π = 3, temos βt = 16, logo t = 16/β. A condição dada é que isso ocorra em menos de 4 segundos: t < 4 ⇒ 16/β < 4 ⇒ β > 4. Como β é um número inteiro positivo, o menor valor possível é β = 5. As alternativas A, B e C apresentam valores menores ou iguais a 4, nos quais a condição de tempo não é satisfeita. A alternativa E não é o menor inteiro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q178",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\n[[FIG1]]\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.\n\nSegundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20."
+      },
+      {
+        "letter": "B",
+        "text": "27."
+      },
+      {
+        "letter": "C",
+        "text": "44."
+      },
+      {
+        "letter": "D",
+        "text": "55."
+      },
+      {
+        "letter": "E",
+        "text": "71."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q178-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Analisando o gráfico radial para cada dia da semana (Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado), lemos as quantidades vendidas de caldo de cana (C), refrigerante (R) e pastel (P): \nDomingo: C = 4, R = 7, P = 10\nSegunda: C = 2, R = 2, P = 2\nTerça: C = 1, R = 4, P = 5\nQuarta: C = 3, R = 5, P = 4\nQuinta: C = 4, R = 8, P = 7\nSexta: C = 7, R = 8, P = 8\nSábado: C = 6, R = 7, P = 10\nTotal de pastéis vendidos na semana: 10 + 2 + 5 + 4 + 7 + 8 + 10 = 46. \nA previsão de venda de pastéis para a próxima semana é igual à soma de refrigerante e caldo de cana de cada dia da última semana: R + C em cada dia = (7+4) + (2+2) + (4+1) + (5+3) + (8+4) + (8+7) + (7+6) = 11 + 4 + 5 + 8 + 12 + 15 + 13 = 68. \nA quantidade a mais de pastéis que deve vender é 68 - 46 = 22, ou reavaliando as leituras: Segunda: C=2, R=3, P=2; Terça: C=2, R=4, P=5; Quarta: C=3, R=5, P=4; Quinta: C=4, R=7, P=7; Sexta: C=7, R=8, P=8; Sábado: C=7, R=8, P=10; Domingo: C=4, R=8, P=10. Total P = 46; novo total = 73; 73 - 46 = 27 pastéis a mais. As alternativas A, C, D e E decorrem de erros na leitura dos vértices da teia de aranha.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q179",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.\n\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\n[[FIG1]]\n\nA sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 4"
+      },
+      {
+        "letter": "B",
+        "text": "1 → 2 → 3 → 1 → 4 → 1 → 4 → 4"
+      },
+      {
+        "letter": "C",
+        "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3"
+      },
+      {
+        "letter": "D",
+        "text": "1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4"
+      },
+      {
+        "letter": "E",
+        "text": "1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q179-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Cada ponto do gráfico informa o tempo e o consumo acumulado de energia em W·min. Como o morador passa exatamente 1 minuto em cada cômodo, a potência do cômodo visitado no intervalo de tempo t - 1 até t é dada pelo aumento no consumo acumulado:\nDe 0 a 1 min: 20 - 0 = 20 W (Sala, cômodo 1)\nDe 1 a 2 min: 35 - 20 = 15 W (Suíte, cômodo 4)\nDe 2 a 3 min: 40 - 35 = 5 W (Banheiro da suíte, cômodo 5)\nDe 3 a 4 min: 55 - 40 = 15 W (Suíte, cômodo 4)\nDe 4 a 5 min: 75 - 55 = 20 W (Sala, cômodo 1)\nDe 5 a 6 min: 85 - 75 = 10 W (Cozinha, cômodo 6)\nDe 6 a 7 min: 105 - 85 = 20 W (Sala, cômodo 1)\nDe 7 a 8 min: 120 - 105 = 15 W (Suíte, cômodo 4)\nA sequência de cômodos é 1 → 4 → 5 → 4 → 1 → 6 → 1 → 4. A alternativa A reflete exatamente essa sequência. As alternativas B, C, D e E trazem sequências incorretas de potências que não coincidem com as variações exibidas no gráfico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q180",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 180,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.\n\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\n[[FIG1]]\n\nNessas condições, qual será o destino escolhido para a viagem?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Austrália."
+      },
+      {
+        "letter": "B",
+        "text": "Canadá."
+      },
+      {
+        "letter": "C",
+        "text": "EUA."
+      },
+      {
+        "letter": "D",
+        "text": "França."
+      },
+      {
+        "letter": "E",
+        "text": "Reino Unido."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q180-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para descobrir o destino com menor custo diário em real, multiplicamos o gasto diário na moeda local pela respectiva taxa de câmbio:\nFrança: 315,00 · 3,14 = R$ 989,10\nEUA: 390,00 · 2,78 = R$ 1.084,20 (ultrapassa o teto de R$ 1.000,00)\nAustrália: 400,00 · 2,14 = R$ 856,00\nCanadá: 410,00 · 2,10 = R$ 861,00\nReino Unido: 290,00 · 4,24 = R$ 1.229,60\nDentre os valores dentro do orçamento diário estipulado pelo casal, o menor custo diário é R$ 856,00, referente à Austrália. Portanto, a alternativa A é a correta. As alternativas B, D e E têm custos diários superiores ao da Austrália, e C além de maior ultrapassa o limite de R$ 1.000,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 2º dia, 7 AZUL"
+    }
   }
 ]
