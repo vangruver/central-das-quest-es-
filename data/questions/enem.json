@@ -96872,5 +96872,1117 @@
       "institution": "INEP",
       "note": "ENEM 2014 – 1º dia, 1 - AZUL"
     }
+  },
+  {
+    "id": "enem-2014-q91",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 91,
+    "day": 2,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "A Tall Order\n\nThe sky isn’t the limit for an architect building the world’s first invisible skyscraper.\n\nCharles Wee, one of the world’s leading high-rise architects, has a confession to make: he’s bored with skyscrapers. After designing more than 30, most of which punctuate the skylines of rapidly expanding Asian cities, he has struck upon a novel concept: the first invisible skyscraper.\n\nAs the tallest structure in South Korea, his Infinity Tower will loom over Seoul until somebody pushes a button and it completely disappears.\n\nWhen he entered a 2004 competition to design a landmark tower, the Korean-American architect rejected the notion of competing with Dubai, Toronto, and Shanghai to reach the summit of man-made summits. “I thought, let’s not jump into this stupid race to build another ‘tallest’ tower,” he says in a phone conversation. “Let’s take an opposite approach — let’s make an anti-tower.”\n\nThe result will be a 150-story building that fades from view at the flick of a switch. The tower will effectively function as an enormous television screen, being able to project an exact replica of whatever is happening behind it onto its façade. To the human eye, the building will appear to have melted away.\n\nIt will be the most extraordinary achievement of Wee’s stellar architectural career. After graduating from UCLA, he worked under Anthony Lumsden, a prolific Californian architect who helped devise the modern technique of wrapping buildings inside smooth glass skins.\nHINES, N. Disponível em: http://mag.newsweek.com. Acesso em: 13 out. 2013 (adaptado).\n\nNo título e no subtítulo desse texto, as expressões A Tall Order e The sky isn’t the limit são usadas para apresentar uma matéria cujo tema é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Inovações tecnológicas usadas para a construção de um novo arranha-céu em Seul."
+      },
+      {
+        "letter": "B",
+        "text": "Confissões de um arquiteto que busca se destacar na construção de arranha-céus."
+      },
+      {
+        "letter": "C",
+        "text": "Técnicas a serem estabelecidas para a construção de edifícios altos na Califórnia."
+      },
+      {
+        "letter": "D",
+        "text": "Competição entre arquitetos para a construção do edifício mais alto do mundo."
+      },
+      {
+        "letter": "E",
+        "text": "Construção de altas torres de apartamentos nas grandes metrópoles da Ásia."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O título e o subtítulo da notícia utilizam trocadilhos como 'A Tall Order' e 'The sky isn't the limit' para introduzir o audacioso projeto do arquiteto Charles Wee: a construção do Infinity Tower, um arranha-céu na Coreia do Sul capaz de ficar invisível por meio de projeções tecnológicas em sua fachada. Assim, o foco central do texto são as inovações tecnológicas aplicadas a essa nova edificação em Seul, o que torna a alternativa A correta. A alternativa B está incorreta porque a confissão do arquiteto é apenas um detalhe introdutório. A C erra ao mencionar técnicas na Califórnia, local onde ele apenas estudou. A D é incorreta pois o arquiteto rejeitou expressamente participar da corrida pelo prédio mais alto. A E aborda torres de apartamentos na Ásia, tema distante do propósito do texto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2014-esp-q93",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 93,
+    "day": 2,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "En un año de campaña paraguaya, he visto muchas cosas tristes...\n\nHe visto la tierra, con su fertilidad incoercible y salvaje, sofocar al hombre, que arroja una semilla y obtiene cien plantas diferentes y no sabe cuál es la suya. He visto los viejos caminos que abrió la tiranía devorados por la vegetación, desleídos por las innundaciones, borrados por el abandono.\nBARRET, R. Lo que he visto. Cuba: XX Feria Internacional del Libro de la Habana, 2011.\n\nRafael Barret nasceu na Espanha e, ainda jovem, foi viver no Paraguai. O fragmento do texto Lo que he visto revela um pouco da percepção do escritor sobre a realidade paraguaia, marcada, em essência, pelo(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desalento frente às adversidades naturais."
+      },
+      {
+        "letter": "B",
+        "text": "amplo conhecimento da flora paraguaia."
+      },
+      {
+        "letter": "C",
+        "text": "impossibilidade de cultivo da terra."
+      },
+      {
+        "letter": "D",
+        "text": "necessidade de se construírem novos caminhos."
+      },
+      {
+        "letter": "E",
+        "text": "despreparo do agricultor no trato com a terra."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No texto 'Lo que he visto', Rafael Barrett descreve com tom de tristeza a força avassaladora da natureza paraguaia, que sufoca os esforços humanos, destrói estradas e apaga caminhos criados pela sociedade. A constatação da ferocidade natural diante da impotência humana revela um sentimento de desalento frente às adversidades da natureza, confirmando a alternativa A como correta. A alternativa B está incorreta pois o texto não visa demonstrar conhecimento botânico. A C é incorreta porque a terra é fértil e produz, não sendo impossível cultivá-la. A D foca apenas em uma consequência secundária, que é a destruição dos caminhos. A E erra ao atribuir o problema ao despreparo do agricultor, quando a ênfase está na força desmedida da própria natureza.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2014-q96",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 96,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "TEXTO I\n\nSeis estados zeram fila de espera\npara transplante da córnea\n\nSeis estados brasileiros aproveitaram o aumento no número de doadores e de transplantes feitos no primeiro semestre de 2012 no país e entraram para uma lista privilegiada: a de não ter mais pacientes esperando por uma córnea.\n\nAté julho desse ano, Acre, Distrito Federal, Espírito Santo, Paraná, Rio Grande do Norte e São Paulo eliminaram a lista de espera no transplante de córneas, de acordo com balanço divulgado pelo Ministério da Saúde, no Dia Nacional de Doação de Órgãos e Tecidos. Em 2011, só São Paulo e Rio Grande do Norte conseguiram zerar essa fila.\n\nTEXTO II\n\n[[FIG1]]\nDisponível em: http://noticias.uol.com.br. Acesso em: 11 ago. 2013 (adaptado).\n\nA notícia e o cartaz abordam a questão da doação de órgãos. Ao relacionar os dois textos, observa-se que o cartaz é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "contraditório, pois a notícia informa que o país superou a necessidade de doação de órgãos."
+      },
+      {
+        "letter": "B",
+        "text": "complementar, pois a notícia diz que a doação de órgãos cresceu e o cartaz solicita doações."
+      },
+      {
+        "letter": "C",
+        "text": "redundante, pois a notícia e o cartaz têm a intenção de influenciar as pessoas a doarem seus órgãos."
+      },
+      {
+        "letter": "D",
+        "text": "indispensável, pois a notícia fica incompleta sem o cartaz, que apela para a sensibilidade das pessoas."
+      },
+      {
+        "letter": "E",
+        "text": "discordante, pois ambos os textos apresentam posições distintas sobre a necessidade de doação de órgãos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q96-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A relação entre os dois textos revela uma complementaridade de informações. O Texto I traz uma notícia positiva indicando que o número de doadores de órgãos cresceu e zerou a fila de espera para transplante de córneas em alguns estados brasileiros. Já o Texto II traz um cartaz de campanha publicitária incentivando a população a se conscientizar e avisar a família sobre o desejo de ser doador. Dessa forma, o cartaz complementa a notícia, estimulando a continuidade e a expansão desse avanço, o que valida a alternativa B. A alternativa A está errada pois a necessidade de doação não foi superada no país. A C erra ao chamar de redundante, pois a notícia tem caráter informativo e o cartaz, persuasivo. A D é incorreta pois a notícia possui sentido completo. A E erra ao afirmar que há discórdia entre os textos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q99",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 99,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "TEXTO I\n\nJoão Guedes, um dos assíduos frequentadores do boliche do capitão, mudara-se da campanha havia três anos. Três anos de pobreza na cidade bastaram para o degradar. Ao morrer, não tinha um vintém nos bolsos e fazia dois meses que saíra da cadeia, onde estivera preso por roubo de ovelha.\n\nA história de sua desgraça se confunde com a da maioria dos que povoam a aldeia de Boa Ventura, uma cidadezinha distante, triste e precocemente envelhecida, situada nos confins da fronteira do Brasil com o Uruguai.\nMARTINS, C. Porteira fechada. Porto Alegre: Movimento, 2001 (fragmento).\n\nTEXTO II\n\nComecei a procurar emprego, já topando o que desse e viesse, menos complicação com os homens, mas não tava fácil. Fui na feira, fui nos bancos de sangue, fui nesses lugares que sempre dão para descolar algum, fui de porta em porta me oferecendo de faxineiro, mas tava todo mundo escabreado pedindo referências, e referências eu só tinha do diretor do presídio.\nFONSECA, R. Feliz Ano Novo. São Paulo: Cia. das Letras, 1989 (fragmento).\n\nA oposição entre campo e cidade esteve entre as temáticas tradicionais da literatura brasileira. Nos fragmentos dos dois autores contemporâneos, esse embate incorpora um elemento novo: a questão da violência e do desemprego. As narrativas apresentam confluência, pois nelas o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criminalidade é algo inerente ao ser humano, que sucumbe a suas manifestações."
+      },
+      {
+        "letter": "B",
+        "text": "meio urbano, especialmente o das grandes cidades, estimula uma vida mais violenta."
+      },
+      {
+        "letter": "C",
+        "text": "falta de oportunidades na cidade dialoga com a pobreza do campo rumo à criminalidade."
+      },
+      {
+        "letter": "D",
+        "text": "êxodo rural e a falta de escolaridade são causas da violência nas grandes cidades."
+      },
+      {
+        "letter": "E",
+        "text": "complacência das leis e a inércia das personagens são estímulos à prática criminosa."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Tanto no Texto I quanto no Texto II, os autores abordam a migração ou a busca por uma vida melhor no meio urbano sob a perspectiva da exclusão social. Em ambos os casos, a falta de oportunidades de emprego e a pobreza vivenciada nas cidades aproximam os sujeitos da marginalização e do crime, criando um ponto de confluência entre as narrativas. Por essa razão, a alternativa C está correta. A alternativa A é incorreta pois a criminalidade não é tratada como algo biológico ou inerente ao ser humano. A B erra ao generalizar que a cidade estimula a violência por si só. A D é incorreta porque não há menção à escolaridade como causa central. A E está errada ao responsabilizar a lei ou a suposta inércia das personagens pela prática de crimes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q101",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 101,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gramática e Morfossintaxe",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "Há qualquer coisa de especial nisso de botar a cara na janela em crônica de jornal — eu não fazia isso há muitos anos, enquanto me escondia em poesia e ficção. Crônica algumas vezes também é feita, intencionalmente, para provocar. Além do mais, em certos dias mesmo o escritor mais escolado não está lá grande coisa. Tem os que mostram sua cara escrevendo para reclamar: moderna demais, antiquada demais. Alguns discorrem sobre o assunto, e é gostoso compartilhar ideias. Há os textos que parecem passar despercebidos, outros rendem um montão de recados: “Você escreveu exatamente o que eu sinto”, “Isso é exatamente o que falo com meus pacientes”, “É isso que digo para meus pais”, “Comentei com minha namorada”. Os estímulos são valiosos pra quem nesses tempos andava meio assim: é como me botarem no colo — também eu preciso. Na verdade, nunca fui tão posta no colo por leitores como na janela do jornal. De modo que está sendo ótima, essa brincadeira séria, com alguns textos que iam acabar neste livro, outros espalhados por aí. Porque eu levo a sério ser sério... mesmo quando parece que estou brincando: essa é uma das maravilhas de escrever. Como escrevi há muitos anos e continua sendo a minha verdade: palavras são meu jeito mais secreto de calar.\nLUFT, L. Pensar é transgredir. Rio de Janeiro: Record, 2004.\n\nOs textos fazem uso constante de recursos que permitem a articulação entre suas partes. Quanto à construção do fragmento, o elemento",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "“nisso” introduz o fragmento “botar a cara na janela em crônica de jornal”."
+      },
+      {
+        "letter": "B",
+        "text": "“assim” é uma paráfrase de “é como me botarem no colo”."
+      },
+      {
+        "letter": "C",
+        "text": "“isso” remete a “escondia em poesia e ficção”."
+      },
+      {
+        "letter": "D",
+        "text": "“alguns” antecipa a informação “É isso que digo para meus pais”."
+      },
+      {
+        "letter": "E",
+        "text": "“essa” recupera a informação anterior “janela do jornal”."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Na construção do texto, o pronome demonstrativo 'nisso' funciona como um elemento catafórico, antecipando e introduzindo o sentido do trecho que vem a seguir, ou seja, a ação de 'botar a cara na janela em crônica de jornal'. Por essa razão, a alternativa A está correta. A alternativa B é incorreta pois 'assim' não parafraseia a frase seguinte, mas apenas introduz uma comparação. A C erra porque o pronome 'isso' refere-se ao ato de escrever crônicas na janela do jornal, e não a esconder-se na poesia. A D é incorreta pois 'alguns' refere-se aos recados ou leitores, não antecipando a citação específica. A E está errada porque o demonstrativo 'essa' acompanha a expressão 'brincadeira séria' para se referir ao ato de escrever, e não recupera diretamente 'janela do jornal'.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q106",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 106,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... é lógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezessete anos de casados…\n\nCUNHA, M. A. F. (Org.) . Corpus discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.\n\nNa transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é um(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "índice de baixa escolaridade do falante."
+      },
+      {
+        "letter": "B",
+        "text": "estratégia típica de manutenção da interação oral."
+      },
+      {
+        "letter": "C",
+        "text": "marca de conexão lógica entre conteúdos na fala."
+      },
+      {
+        "letter": "D",
+        "text": "manifestação característica da fala regional nordestina."
+      },
+      {
+        "letter": "E",
+        "text": "recurso enfatizador da informação mais relevante da narrativa."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na transcrição do relato oral, a repetição frequente do elemento 'né' atua como uma marca conversacional típica da linguagem falada. Sua função principal é manter o contato ativo com o ouvinte, checar a atenção do interlocutor e garantir a continuidade da interação oral. Por isso, a alternativa B é a correta. A alternativa A está incorreta porque o uso do 'né' é universal no português falado, não indicando baixo nível de escolaridade. A C erra ao atribuir função de conexão lógica formal a um marcador fático. A D é incorreta pois o recurso não é exclusivo da região Nordeste, ocorrendo em todo o Brasil. A E é errada visto que o 'né' não serve para destacar as informações mais importantes da narrativa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q121",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 121,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "A última edição deste periódico apresenta mais uma vez tema relacionado ao tratamento dado ao lixo caseiro, aquele que produzimos no dia a dia. A informação agora passa pelo problema do material jogado na estrada vicinal que liga o município de Rio Claro ao distrito de Ajapi. Infelizmente, no local em questão, a reportagem encontrou mais uma forma errada de destinação do lixo: material atirado ao lado da pista como se isso fosse o ideal. Muitos moradores, por exemplo, retiram o lixo de suas residências e, em vez de um destino correto, procuram dispensá-lo em outras regiões. Uma situação no mínimo incômoda. Se você sai de casa para jogar o lixo em outra localidade, por que não o fazer no local ideal? É muita falta de educação achar que aquilo que não é correto para sua região possa ser para outra. A reciclagem do lixo doméstico é um passo inteligente e de consciência. Olha o exemplo que passamos aos mais jovens! Quem aprende errado coloca em prática o errado. Um perigo!\n\nDisponível em: http://jornaldacidade.uol.com.br. Acesso em: 10 ago. 2012 (adaptado).\n\nEsse editorial faz uma leitura diferenciada de uma notícia veiculada no jornal. Tal diferença traz à tona uma das funções sociais desse gênero textual, que é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentar fatos que tenham sido noticiados pelo próprio veículo."
+      },
+      {
+        "letter": "B",
+        "text": "chamar a atenção do leitor para temas raramente abordados no jornal."
+      },
+      {
+        "letter": "C",
+        "text": "provocar a indignação dos cidadãos por força dos argumentos apresentados."
+      },
+      {
+        "letter": "D",
+        "text": "interpretar criticamente fatos noticiados e considerados relevantes para a opinião pública."
+      },
+      {
+        "letter": "E",
+        "text": "trabalhar uma informação previamente apresentada com base no ponto de vista do autor da notícia."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O editorial é um gênero textual jornalístico e opinativo cuja principal função social é expressar o posicionamento crítico do veículo de comunicação a respeito de um fato de relevância pública que foi noticiado. No texto, o jornal analisa o descarte incorreto de lixo e faz uma reflexão crítica e educativa sobre a atitude dos cidadãos, o que torna a alternativa D correta. A alternativa A está incorreta pois noticiar fatos é papel da notícia, não a essência do editorial. A B erra ao dizer que o tema é raramente abordado. A C é incorreta porque o objetivo principal é posicionar-se e orientar, não apenas provocar indignação. A E está errada pois o editorial traz o ponto de vista do veículo institucional, e não do autor individual da notícia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q124",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 124,
+    "day": 2,
+    "subjectId": "portugues",
+    "topics": [
+      "Literatura"
+    ],
+    "statement": "Vida obscura\n\nNinguém sentiu o teu espasmo obscuro,\nó ser humilde entre os humildes seres,\nembriagado, tonto de prazeres,\no mundo para ti foi negro e duro.\n\nAtravessaste no silêncio escuro\na vida presa a trágicos deveres\ne chegaste ao saber de altos saberes\ntornando-te mais simples e mais puro.\n\nNinguém te viu o sentimento inquieto,\nmagoado, oculto e aterrador, secreto,\nque o coração te apunhalou no mundo,\n\nMas eu que sempre te segui os passos\nsei que cruz infernal prendeu-te os braços\ne o teu suspiro como foi profundo!\n\nSOUSA, C. Obra completa. Rio de Janeiro: Nova Aguilar, 1961.\n\nCom uma obra densa e expressiva no Simbolismo brasileiro, Cruz e Sousa transpôs para seu lirismo uma sensibilidade em conflito com a realidade vivenciada. No soneto, essa percepção traduz-se em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "sofrimento tácito diante dos limites impostos pela discriminação."
+      },
+      {
+        "letter": "B",
+        "text": "tendência latente ao vício como resposta ao isolamento social."
+      },
+      {
+        "letter": "C",
+        "text": "extenuação condicionada a uma rotina de tarefas degradantes."
+      },
+      {
+        "letter": "D",
+        "text": "frustração amorosa canalizada para as atividades intelectuais."
+      },
+      {
+        "letter": "E",
+        "text": "vocação religiosa manifesta na aproximação com a fé cristã."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O poeta simbolista Cruz e Sousa expressa em seus versos um sofrimento profundo e silencioso vivenciado por um indivíduo marginalizado. O poema descreve a dor velada ('espasmo obscuro', 'silêncio escuro', 'cruz infernal') decorrente do preconceito e das barreiras impostas pela sociedade, traduzindo o sofrimento tácito do eu lírico perante a discriminação. Portanto, a alternativa A é a correta. A alternativa B é incorreta pois o poema não trata de vício ou dependência. A C erra ao focar apenas em rotina de trabalho, quando a dor tem caráter existencial e social mais amplo. A D é errada porque não há temática de frustração amorosa. A E é incorreta pois a referência à 'cruz' é uma metáfora para o fardo social e humano, e não uma manifestação de fé cristã.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q131",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 131,
+    "day": 2,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "[[FIG1]]\nWILL. Disponível em: www.willtirando.com.br. Acesso em: 7 nov. 2013.\n\nOpportunity é o nome de um veículo explorador que aterrissou em Marte com a missão de enviar informações à Terra. A charge apresenta uma crítica ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "gasto exagerado com o envio de robôs a outros planetas."
+      },
+      {
+        "letter": "B",
+        "text": "exploração indiscriminada de outros planetas."
+      },
+      {
+        "letter": "C",
+        "text": "circulação digital excessiva de autorretratos."
+      },
+      {
+        "letter": "D",
+        "text": "vulgarização das descobertas espaciais."
+      },
+      {
+        "letter": "E",
+        "text": "mecanização das atividades humanas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q131-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A charge retrata de forma bem-humorada o robô Opportunity tirando um autorretrato ('selfie') em Marte, parodiando o comportamento humano contemporâneo. O objetivo do cartunista é criticar o hábito excessivo da sociedade moderna de registrar e compartilhar fotos de si mesma em qualquer ambiente, extrapolando esse comportamento até para a exploração espacial. Assim, a alternativa C está correta. A alternativa A é incorreta porque o foco da tirinha não é o custo financeiro da missão. A B erra ao sugerir exploração predatória de outros planetas. A D é incorreta pois a descoberta científica em si não é ridicularizada. A E está errada porque o tema central não é a automação ou substituição do trabalho humano por máquinas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q137",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 137,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Estatística e Probabilidade"
+    ],
+    "statement": "A taxa de fecundidade é um indicador que expressa a condição reprodutiva média das mulheres de uma região, e é importante para uma análise da dinâmica demográfica dessa região. A tabela apresenta os dados obtidos pelos Censos de 2000 e 2010, feitos pelo IBGE, com relação à taxa de fecundidade no Brasil.\n\n[[FIG1]]\n\nDisponível em: www.saladeimprensa.ibge.gov.br. Acesso em: 31 jul. 2013.\n\nSuponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020.\n\nNesse caso, em 2020 a taxa de fecundidade no Brasil estará mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,14."
+      },
+      {
+        "letter": "B",
+        "text": "1,42."
+      },
+      {
+        "letter": "C",
+        "text": "1,52."
+      },
+      {
+        "letter": "D",
+        "text": "1,70."
+      },
+      {
+        "letter": "E",
+        "text": "1,80."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q137-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para calcular a taxa de fecundidade em 2020 mantendo a mesma variação percentual relativa observada entre 2000 e 2010, calculamos primeiro a razão entre as taxas do período: 1,90 / 2,38. Aplicando esse mesmo fator de redução à taxa de 2010 para obter o valor aproximado em 2020, temos: 1,90 * (1,90 / 2,38) = 3,61 / 2,38 = 1,5168. Arredondando para duas casas decimais, a taxa estará mais próxima de 1,52, o que torna a alternativa C correta. As alternativas A (1,14) e B (1,42) resultam de erros de cálculo na proporção ou de reduções percentuais exageradas. As alternativas D (1,70) e E (1,80) subestimam a queda na fecundidade, considerando um fator de redução muito menor do que o ocorrido no período anterior.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q139",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um carpinteiro fabrica portas retangulares maciças, feitas de um mesmo material. Por ter recebido de seus clientes pedidos de portas mais altas, aumentou sua altura em 1/8, preservando suas espessuras. A fim de manter o custo com o material de cada porta, precisou reduzir a largura.\n\nA razão entre a largura da nova porta e a largura da porta anterior é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/8"
+      },
+      {
+        "letter": "B",
+        "text": "7/8"
+      },
+      {
+        "letter": "C",
+        "text": "8/7"
+      },
+      {
+        "letter": "D",
+        "text": "8/9"
+      },
+      {
+        "letter": "E",
+        "text": "9/8"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para que o custo do material da porta seja mantido sem alterar a espessura, o volume total do bloco de madeira deve permanecer constante, o que equivale a manter a área da face retangular constante. Chamando a altura inicial de H e a largura inicial de L, a nova altura H' com o aumento de 1/8 é dada por H' = H + (1/8)H = (9/8)H. Para que a nova área H' * L' seja igual à área original H * L, devemos ter: (9/8)H * L' = H * L, o que implica L' = (8/9)L. Assim, a razão L'/L entre a nova largura e a anterior é 8/9, confirmando a alternativa D como correta. As alternativas A (1/8) e B (7/8) representam frações incorretas de redução. As alternativas C (8/7) e E (9/8) resultariam em um aumento da largura ou seriam a razão inversa, aumentando o custo do material.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q140",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 140,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "De acordo com a ONU, da água utilizada diariamente,\n• 25% são para tomar banho, lavar as mãos e escovar os dentes.\n• 33% são utilizados em descarga de banheiro.\n• 27% são para cozinhar e beber.\n• 15% são para demais atividades.\n\nNo Brasil, o consumo de água por pessoa chega, em média, a 200 litros por dia.\n\nO quadro mostra sugestões de consumo moderado de água por pessoa, por dia, em algumas atividades.\n\n[[FIG1]]\n\nSe cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30,0."
+      },
+      {
+        "letter": "B",
+        "text": "69,6."
+      },
+      {
+        "letter": "C",
+        "text": "100,4."
+      },
+      {
+        "letter": "D",
+        "text": "130,4."
+      },
+      {
+        "letter": "E",
+        "text": "170,0."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q140-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O consumo diário médio de água no Brasil é de 200 litros por pessoa. Calculando o consumo atual nas atividades mencionadas: higiene pessoal (25% de 200 = 50 L), descarga (33% de 200 = 66 L) e cozinhar/beber (27% de 200 = 54 L), totalizando 170 litros por dia. Somando os valores sugeridos no quadro para essas mesmas atividades: banho (24,0 L) + descarga (18,0 L) + lavar mãos (3,2 L) + escovar dentes (2,4 L) + beber/cozinhar (22,0 L) = 69,6 litros. A economia diária será a diferença: 170 - 69,6 = 100,4 litros, tornando a alternativa C correta. A alternativa A (30,0 L) corresponde ao consumo mantido nas demais atividades. A B (69,6 L) é o consumo proposto, não a economia. As alternativas D (130,4 L) e E (170,0 L) advêm de subtrações incorretas dos percentuais e valores fornecidos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q141",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 141,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Os candidatos K, L, M, N e P estão disputando uma única vaga de emprego em uma empresa e fizeram provas de português, matemática, direito e informática. A tabela apresenta as notas obtidas pelos cinco candidatos.\n\n[[FIG1]]\n\nSegundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior.\n\nO candidato aprovado será",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "K."
+      },
+      {
+        "letter": "B",
+        "text": "L."
+      },
+      {
+        "letter": "C",
+        "text": "M."
+      },
+      {
+        "letter": "D",
+        "text": "N."
+      },
+      {
+        "letter": "E",
+        "text": "P."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q141-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A mediana de um conjunto com 4 notas é a média aritmética entre os dois valores centrais após ordená-los em ordem crescente. Calculando a mediana de cada candidato:\n- K (33, 33, 33, 34): mediana = (33 + 33) / 2 = 33,0;\n- L (32, 33, 34, 39): mediana = (33 + 34) / 2 = 33,5;\n- M (34, 35, 35, 36): mediana = (35 + 35) / 2 = 35,0;\n- N (24, 35, 37, 40): mediana = (35 + 37) / 2 = 36,0;\n- P (16, 26, 36, 41): mediana = (26 + 36) / 2 = 31,0.\nO candidato N obteve a maior mediana (36,0), sendo o aprovado. Logo, a alternativa D está correta. As alternativas A (K), B (L), C (M) e E (P) estão incorretas porque as medianas calculadas para esses candidatos são estritamente menores que 36,0.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q145",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Um professor, depois de corrigir as provas de sua turma, percebeu que várias questões estavam muito difíceis. Para compensar, decidiu utilizar uma função polinomial f, de grau menor que 3, para alterar as notas x da prova para notas y = f(x), da seguinte maneira:\n• A nota zero permanece zero.\n• A nota 10 permanece 10.\n• A nota 5 passa a ser 6.\nA expressão da função y = f(x) a ser utilizada pelo professor é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "y = - 1/25 x² + 7/5 x"
+      },
+      {
+        "letter": "B",
+        "text": "y = - 1/10 x² + 2x"
+      },
+      {
+        "letter": "C",
+        "text": "y = 1/24 x² + 7/12 x"
+      },
+      {
+        "letter": "D",
+        "text": "y = 4/5 x + 2"
+      },
+      {
+        "letter": "E",
+        "text": "y = x"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A função polinomial tem grau menor que 3, portanto é da forma f(x) = ax² + bx + c. Aplicando as condições dadas:\n1) f(0) = 0 => c = 0.\n2) f(10) = 10 => 100a + 10b = 10 => 10a + b = 1 => b = 1 - 10a.\n3) f(5) = 6 => 25a + 5b = 6.\nSubstituindo b na terceira equação: 25a + 5(1 - 10a) = 6 => 25a + 5 - 50a = 6 => -25a = 1 => a = -1/25.\nEntão b = 1 - 10(-1/25) = 1 + 2/5 = 7/5.\nAssim, y = -1/25 x² + 7/5 x, o que torna a alternativa A correta. A alternativa B erra ao utilizar coeficientes incorretos. A C possui o sinal do termo quadrático invertido (parábola com concavidade para cima). A D é uma função linear que não satisfaz a nota 5 virar 6. A E representa a função identidade f(x) = x, sem alterar nota alguma.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q148",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 148,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções",
+      "Geometria Plana"
+    ],
+    "statement": "A figura mostra uma criança brincando em um balanço no parque. A corda que prende o assento do balanço ao topo do suporte mede 2 metros. A criança toma cuidado para não sofrer um acidente, então se balança de modo que a corda não chegue a alcançar a posição horizontal.\n[[FIG1]]\nNa figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo X é paralelo ao chão do parque, e o eixo Y tem orientação positiva para cima.\nA curva determinada pela trajetória do assento do balanço é parte do gráfico da função",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "f(x) = - √(2 - x²)"
+      },
+      {
+        "letter": "B",
+        "text": "f(x) = √(2 - x²)"
+      },
+      {
+        "letter": "C",
+        "text": "f(x) = x² - 2"
+      },
+      {
+        "letter": "D",
+        "text": "f(x) = - √(4 - x²)"
+      },
+      {
+        "letter": "E",
+        "text": "f(x) = √(4 - x²)"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q148-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A trajetória descrita pelo assento do balanço é um arco de circunferência centrado na origem do sistema cartesiano (0,0), que corresponde ao topo do suporte. Como o comprimento da corda é 2 metros, o raio da circunferência é R = 2. A equação cartesiana da circunferência é x² + y² = R², ou seja, x² + y² = 4. Isolando y, obtemos y² = 4 - x², o que resulta em y = ±√(4 - x²). Visto que a trajetória do assento está localizada estritamente abaixo do topo do suporte, as coordenadas y são negativas, escolhendo-se a raiz negativa: f(x) = -√(4 - x²). Assim, a alternativa D é a correta. As alternativas A e B consideram raio √2 em vez de 2. A C representa uma parábola, e não uma curva circular. A E indica a parte superior da circunferência (valores positivos de y).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q151",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Uma lata de tinta, com a forma de um paralelepípedo retangular reto, tem as dimensões, em centímetros, mostradas na figura.\n[[FIG1]]\nSerá produzida uma nova lata, com os mesmos formato e volume, de tal modo que as dimensões de sua base sejam 25% maiores que as da lata atual.\nPara obter a altura da nova lata, a altura da lata atual deve ser reduzida em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "14,4%"
+      },
+      {
+        "letter": "B",
+        "text": "20,0%"
+      },
+      {
+        "letter": "C",
+        "text": "32,0%"
+      },
+      {
+        "letter": "D",
+        "text": "36,0%"
+      },
+      {
+        "letter": "E",
+        "text": "64,0%"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q151-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O volume de um paralelepípedo retangular é dado pelo produto da área da base pela altura: V = Ab * h. Seja a base original de dimensões a e b, e altura h. As novas dimensões da base são 25% maiores, ou seja, 1,25a e 1,25b. A nova área da base é Ab' = (1,25a) * (1,25b) = 1,5625 * Ab = (5/4)^2 * Ab = (25/16) * Ab. Como o volume deve permanecer o mesmo (V' = V), temos que Ab' * h' = Ab * h, logo (25/16) * Ab * h' = Ab * h, o que resulta em h' = (16/25) * h = 0,64 * h. Portanto, a nova altura corresponde a 64% da original, o que representa uma redução de 100% - 64% = 36%.\n\nA alternativa D está correta.\nAs alternativas A, B e C apresentam valores inferiores ao percentual de redução calculado. A alternativa E confunde a porcentagem restante da altura (64%) com a redução percentual sofrida.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q153",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Matemática Financeira"
+    ],
+    "statement": "Uma empresa de alimentos oferece três valores diferentes de remuneração a seus funcionários, de acordo com o grau de instrução necessário para cada cargo. No ano de 2013, a empresa teve uma receita de 10 milhões de reais por mês e um gasto mensal com a folha salarial de R$ 400 000,00, distribuídos de acordo com o Gráfico 1. No ano seguinte, a empresa ampliará o número de funcionários, mantendo o mesmo valor salarial para cada categoria. Os demais custos da empresa permanecerão constantes de 2013 para 2014. O número de funcionários em 2013 e 2014, por grau de instrução, está no Gráfico 2.\n[[FIG1]]\n[[FIG2]]\nQual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "R$ 114 285,00"
+      },
+      {
+        "letter": "B",
+        "text": "R$ 130 000,00"
+      },
+      {
+        "letter": "C",
+        "text": "R$ 160 000,00"
+      },
+      {
+        "letter": "D",
+        "text": "R$ 210 000,00"
+      },
+      {
+        "letter": "E",
+        "text": "R$ 213 333,00"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q153-1.webp",
+      "FIG2": "data/figuras/enem-2014-q153-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Em 2013, o gasto com a folha foi de R$ 400 000,00. Pelo Gráfico 1, a distribuição é:\n- Ensino fundamental: 12,5% de 400 000 = R$ 50 000,00 para 50 funcionários (Gráfico 2), logo cada um ganha R$ 1 000,00.\n- Ensino médio: 75% de 400 000 = R$ 300 000,00 para 150 funcionários, logo cada um ganha R$ 2 000,00.\n- Ensino superior: 12,5% de 400 000 = R$ 50 000,00 para 10 funcionários, logo cada um ganha R$ 5 000,00.\n\nPara 2014, o número de funcionários aumenta para 70 (fundamental), 180 (médio) e 20 (superior). O novo gasto mensal com a folha salarial será:\n70 * 1 000 + 180 * 2 000 + 20 * 5 000 = 70 000 + 360 000 + 100 000 = R$ 530 000,00.\nO aumento do gasto com a folha é de 530 000 - 400 000 = R$ 130 000,00. Como os demais custos permanecem constantes, para manter o lucro, a receita deve aumentar no mesmo valor do aumento de custos, ou seja, R$ 130 000,00.\n\nA alternativa B está correta.\nAs alternativas A, C, D e E trazem valores resultantes de erros na determinação dos salários individuais ou na diferença entre os totais das folhas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q154",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 154,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Boliche é um jogo em que se arremessa uma bola sobre uma pista para atingir dez pinos, dispostos em uma formação de base triangular, buscando derrubar o maior número de pinos. A razão entre o total de vezes em que o jogador derruba todos os pinos e o número de jogadas determina seu desempenho.\nEm uma disputa entre cinco jogadores, foram obtidos os seguintes resultados:\nJogador I – Derrubou todos os pinos 50 vezes em 85 jogadas.\nJogador II – Derrubou todos os pinos 40 vezes em 65 jogadas.\nJogador III – Derrubou todos os pinos 20 vezes em 65 jogadas.\nJogador IV – Derrubou todos os pinos 30 vezes em 40 jogadas.\nJogador V – Derrubou todos os pinos 48 vezes em 90 jogadas.\nQual desses jogadores apresentou maior desempenho?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O desempenho é a razão entre o número de vezes em que o jogador derrubou todos os pinos e o total de jogadas:\n- Jogador I: 50/85 = 10/17 ≈ 0,588\n- Jogador II: 40/65 = 8/13 ≈ 0,615\n- Jogador III: 20/65 = 4/13 ≈ 0,308\n- Jogador IV: 30/40 = 3/4 = 0,750\n- Jogador V: 48/90 = 8/15 ≈ 0,533\n\nComparando os valores, o jogador IV obteve o maior desempenho (0,75).\n\nA alternativa D está correta.\nAs alternativas A, B, C e E indicam jogadores com razões de acerto estritamente menores que a do jogador IV.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q155",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade",
+      "Álgebra"
+    ],
+    "statement": "Ao final de uma competição de ciências em uma escola, restaram apenas três candidatos. De acordo com as regras, o vencedor será o candidato que obtiver a maior média ponderada entre as notas das provas finais nas disciplinas química e física, considerando, respectivamente, os pesos 4 e 6 para elas. As notas são sempre números inteiros. Por questões médicas, o candidato II ainda não fez a prova final de química. No dia em que sua avaliação for aplicada, as notas dos outros dois candidatos, em ambas as disciplinas, já terão sido divulgadas.\nO quadro apresenta as notas obtidas pelos finalistas nas provas finais.\n[[FIG1]]\nA menor nota que o candidato II deverá obter na prova final de química para vencer a competição é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "18."
+      },
+      {
+        "letter": "B",
+        "text": "19."
+      },
+      {
+        "letter": "C",
+        "text": "22."
+      },
+      {
+        "letter": "D",
+        "text": "25."
+      },
+      {
+        "letter": "E",
+        "text": "26."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q155-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A média ponderada tem peso 4 para química e 6 para física, com soma dos pesos igual a 10. Para vencer, o candidato II precisa obter uma média estritamente maior que as dos outros dois.\nCalculando a pontuação ponderada total (4 * Q + 6 * F):\n- Candidato I: 4 * 20 + 6 * 23 = 80 + 138 = 218.\n- Candidato III: 4 * 21 + 6 * 18 = 84 + 108 = 192.\nA maior pontuação a ser superada é a do candidato I (218).\nA pontuação do candidato II é 4 * X + 6 * 25 = 4X + 150.\nPara vencer, deve-se ter:\n4X + 150 > 218\n4X > 68\nX > 17.\nComo a nota deve ser um número inteiro, a menor nota inteira maior que 17 é X = 18.\n\nA alternativa A está correta.\nAs alternativas B, C, D e E trazem notas maiores do que o valor mínimo necessário de 18.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q157",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 157,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma loja que vende sapatos recebeu diversas reclamações de seus clientes relacionadas à venda de sapatos de cor branca ou preta. Os donos da loja anotaram as numerações dos sapatos com defeito e fizeram um estudo estatístico com o intuito de reclamar com o fabricante.\nA tabela contém a média, a mediana e a moda desses dados anotados pelos donos.\n[[FIG1]]\nPara quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.\nOs donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.\nA loja encaminhou um ofício ao fornecedor dos sapatos, explicando que não serão mais encomendados os sapatos de cor",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "branca e os de número 38."
+      },
+      {
+        "letter": "B",
+        "text": "branca e os de número 37."
+      },
+      {
+        "letter": "C",
+        "text": "branca e os de número 36."
+      },
+      {
+        "letter": "D",
+        "text": "preta e os de número 38."
+      },
+      {
+        "letter": "E",
+        "text": "preta e os de número 37."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q157-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A numeração com maior número de reclamações corresponde à moda da distribuição das numerações. Observando a tabela fornecida, a moda é 38.\nPara a cor, foi atribuído 0 para a cor branca e 1 para a cor preta. A média de uma variável indicadora (que assume apenas 0 e 1) é a proporção de uns (cor preta). Como a média é 0,45, temos que 45% dos sapatos reclamados são pretos e 100% - 45% = 55% são brancos. Logo, a cor com maior número de reclamações é a branca.\nPortanto, a loja não encomendará mais os sapatos de cor branca e de número 38.\n\nA alternativa A está correta.\nAs alternativas B e C consideram a mediana (37) ou a média (36) em vez da moda (38). As alternativas D e E consideram erroneamente a cor preta, que representa apenas 45% das reclamações.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q163",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 163,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Um cliente de uma videolocadora tem o hábito de alugar dois filmes por vez. Quando os devolve, sempre pega outros dois filmes e assim sucessivamente. Ele soube que a videolocadora recebeu alguns lançamentos, sendo 8 filmes de ação, 5 de comédia e 3 de drama e, por isso, estabeleceu uma estratégia para ver todos esses 16 lançamentos. Inicialmente alugará, em cada vez, um filme de ação e um de comédia. Quando se esgotarem as possibilidades de comédia, o cliente alugará um filme de ação e um de drama, até que todos os lançamentos sejam vistos e sem que nenhum filme seja repetido.\n\nDe quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "20 × 8! + (3!)²"
+      },
+      {
+        "letter": "B",
+        "text": "8! × 5! × 3!"
+      },
+      {
+        "letter": "C",
+        "text": "8! × 5! × 3!\n——————\n   2⁸"
+      },
+      {
+        "letter": "D",
+        "text": "8! × 5! × 3!\n——————\n   2²"
+      },
+      {
+        "letter": "E",
+        "text": "16!\n——\n 2⁸"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O cliente assistirá aos 16 filmes em 8 pares ordenados no tempo:\nNas primeiras 5 idas, ele aluga 1 de ação e 1 de comédia. Nas 3 idas seguintes, 1 de ação e 1 de drama.\nA ordem em que os 8 filmes de ação são assistidos pode ser escolhida de 8! maneiras (um para cada uma das 8 idas).\nA ordem em que os 5 filmes de comédia são assistidos nas 5 primeiras idas pode ser escolhida de 5! maneiras.\nA ordem em que os 3 filmes de drama são assistidos nas últimas 3 idas pode ser escolhida de 3! maneiras.\nPelo princípio fundamental da contagem, o número total de maneiras distintas de organizar a exibição é o produto das permutações de cada gênero: 8! × 5! × 3!.\n\nA alternativa B está correta.\nA alternativa A realiza uma soma indevida. As alternativas C e D dividem desnecessariamente por potências de 2, como se a ordem dentro do par ou das locações fosse indiferente para a sequência de escolhas do cliente. A alternativa E não considera a divisão por gêneros estabelecida na estratégia.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q168",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 168,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "O Brasil é um país com uma vantagem econômica clara no terreno dos recursos naturais, dispondo de uma das maiores áreas com vocação agrícola do mundo. Especialistas calculam que, dos 853 milhões de hectares do país, as cidades, as reservas indígenas e as áreas de preservação, incluindo florestas e mananciais, cubram por volta de 470 milhões de hectares. Aproximadamente 280 milhões se destinam à agropecuária, 200 milhões para pastagens e 80 milhões para a agricultura, somadas as lavouras anuais e as perenes, como o café e a fruticultura.\n\nFORTES, G. Recuperação de pastagens é alternativa para ampliar cultivos.\nFolha de S. Paulo, 30 out. 2011.\n\nDe acordo com os dados apresentados, o percentual correspondente à área utilizada para agricultura em relação à área do território brasileiro é mais próximo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "32,8%"
+      },
+      {
+        "letter": "B",
+        "text": "28,6%"
+      },
+      {
+        "letter": "C",
+        "text": "10,7%"
+      },
+      {
+        "letter": "D",
+        "text": "9,4%"
+      },
+      {
+        "letter": "E",
+        "text": "8,0%"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto informa que o território brasileiro tem uma área total de 853 milhões de hectares e que a área destinada à agricultura é de 80 milhões de hectares.\nPara encontrar o percentual correspondente à agricultura em relação à área total:\nP = (80 / 853) * 100%\n80 / 853 ≈ 0,09378, ou seja, cerca de 9,38%.\nO valor mais próximo dentre as opções fornecidas é 9,4%.\n\nA alternativa D está correta.\nA alternativa A (32,8%) aproxima a razão da agropecuária inteira (280/853 ≈ 32,8%). A alternativa B (28,6%) aproxima a razão entre agricultura e agropecuária (80/280 ≈ 28,6%). As alternativas C e E trazem aproximações incorretas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q172",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 172,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Os incas desenvolveram uma maneira de registrar quantidades e representar números utilizando um sistema de numeração decimal posicional: um conjunto de cordas com nós denominado quipus. O quipus era feito de uma corda matriz, ou principal (mais grossa que as demais), na qual eram penduradas outras cordas, mais finas, de diferentes tamanhos e cores (cordas pendentes). De acordo com a sua posição, os nós significavam unidades, dezenas, centenas e milhares. Na Figura 1, o quipus representa o número decimal 2 453. Para representar o “zero” em qualquer posição, não se coloca nenhum nó.\n[[FIG1]]\nDisponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012.\nO número da representação do quipus da Figura 2, em base decimal, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "364."
+      },
+      {
+        "letter": "B",
+        "text": "463."
+      },
+      {
+        "letter": "C",
+        "text": "3 064."
+      },
+      {
+        "letter": "D",
+        "text": "3 640."
+      },
+      {
+        "letter": "E",
+        "text": "4 603."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q172-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Analisando a Figura 1 e as linhas guia horizontais que definem as ordens posicionais decimais:\n- A primeira faixa (topo) representa milhares.\n- A segunda faixa representa centenas.\n- A terceira faixa representa dezenas.\n- A quarta faixa (inferior) representa unidades.\n\nNa Figura 2:\n- Na posição dos milhares, há 3 nós.\n- Na posição das centenas, não há nenhum nó (representando o algarismo 0).\n- Na posição das dezenas, há 6 nós.\n- Na posição das unidades, há 4 nós.\n\nPortanto, o número representado é 3 064.\n\nA alternativa C está correta.\nAs alternativas A e B ignoram a ordem de grandeza dos milhares. A alternativa D troca a posição vazia da centena com a das unidades. A alternativa E inverte a leitura das ordens.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q173",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 173,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Razão e Proporção"
+    ],
+    "statement": "A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área.\nSabe-se que 1 hectare corresponde a 1 hectômetro quadrado.\nQual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8"
+      },
+      {
+        "letter": "B",
+        "text": "80"
+      },
+      {
+        "letter": "C",
+        "text": "800"
+      },
+      {
+        "letter": "D",
+        "text": "8 000"
+      },
+      {
+        "letter": "E",
+        "text": "80 000"
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Um hectômetro corresponde a 100 metros (1 hm = 100 m).\nAssim, 1 hectômetro quadrado é a área de um quadrado de 100 m de lado:\n1 hm² = (100 m)² = 10 000 m².\nComo 1 hectare (ha) equivale a 1 hm², tem-se que 1 ha = 10 000 m².\nA piscina cobre um terreno de 8 hectares de área. Multiplicando pelo fator de conversão:\n8 ha = 8 * 10 000 m² = 80 000 m².\n\nA alternativa E está correta.\nAs alternativas A, B, C e D erram as potências de 10 na conversão de unidades de área, desconsiderando a elevação ao quadrado da conversão linear.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q174",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Durante uma epidemia de uma gripe viral, o secretário de saúde de um município comprou 16 galões de álcool em gel, com 4 litros de capacidade cada um, para distribuir igualmente em recipientes para 10 escolas públicas do município. O fornecedor dispõe à venda diversos tipos de recipientes, com suas respectivas capacidades listadas:\n• Recipiente I: 0,125 litro\n• Recipiente II: 0,250 litro\n• Recipiente III: 0,320 litro\n• Recipiente IV: 0,500 litro\n• Recipiente V: 0,800 litro\nO secretário de saúde comprará recipientes de um mesmo tipo, de modo a instalar 20 deles em cada escola, abastecidos com álcool em gel na sua capacidade máxima, de forma a utilizar todo o gel dos galões de uma só vez.\nQue tipo de recipiente o secretário de saúde deve comprar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para encontrar a capacidade do recipiente adequado, primeiro calcula-se o volume total de álcool em gel disponível: 16 galões multiplicados por 4 litros por galão resultam em 64 litros. Em seguida, determina-se a quantidade total de recipientes necessários: são 10 escolas e cada uma receberá 20 recipientes, totalizando 10 vezes 20, ou seja, 200 recipientes. Como todo o volume deve ser distribuído igualmente e preencher a capacidade máxima dos frascos, divide-se o volume total pelo número de recipientes: 64 dividido por 200 é igual a 0,320 litro por recipiente. Esse valor corresponde exatamente ao Recipiente III, tornando a alternativa C a correta.\n\nAs demais alternativas estão incorretas pois apresentam capacidades diferentes de 0,320 litro: o recipiente I tem 0,125 L, o recipiente II tem 0,250 L, o recipiente IV tem 0,500 L e o recipiente V tem 0,800 L, de modo que nenhum deles permitiria gastar exatamente os 64 litros com 200 unidades cheias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q177",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Razão e Proporção"
+    ],
+    "statement": "Um fazendeiro tem um depósito para armazenar leite formado por duas partes cúbicas que se comunicam, como indicado na figura. A aresta da parte cúbica de baixo tem medida igual ao dobro da medida da aresta da parte cúbica de cima. A torneira utilizada para encher o depósito tem vazão constante e levou 8 minutos para encher metade da parte de baixo.\n[[FIG1]]\nQuantos minutos essa torneira levará para encher completamente o restante do depósito?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "8"
+      },
+      {
+        "letter": "B",
+        "text": "10"
+      },
+      {
+        "letter": "C",
+        "text": "16"
+      },
+      {
+        "letter": "D",
+        "text": "18"
+      },
+      {
+        "letter": "E",
+        "text": "24"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q177-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Seja 'a' a medida da aresta do cubo de cima. O volume do cubo de cima é V_cima = a³.\nA aresta do cubo de baixo mede o dobro, ou seja, 2a. O volume do cubo de baixo é V_baixo = (2a)³ = 8a³.\nMetade da parte de baixo tem volume igual a (8a³) / 2 = 4a³.\nA torneira levou 8 minutos para encher 4a³, o que dá uma vazão de 4a³ / 8 = 0,5a³ por minuto (ou seja, 1a³ a cada 2 minutos).\nO restante do depósito a ser preenchido compreende a outra metade do cubo de baixo (4a³) mais o cubo de cima inteiro (a³), totalizando 4a³ + a³ = 5a³.\nPara encher 5a³, o tempo necessário será de 5 * 2 = 10 minutos.\n\nA alternativa B está correta.\nA alternativa A considera apenas o tempo para encher a metade restante da base. A alternativa C calcula o tempo para encher todo o cubo de baixo. As alternativas D e E consideram incorretamente as proporções de volume entre os cubos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 2º dia, 7 - AZUL"
+    }
   }
 ]
