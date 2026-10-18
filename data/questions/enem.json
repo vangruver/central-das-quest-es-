@@ -122972,5 +122972,526 @@
       "institution": "INEP",
       "note": "ENEM 2023 – 2º dia, 5 Amarelo"
     }
+  },
+  {
+    "id": "enem-2024-q01",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\n\n[[FIG2]]\n\nDisponível em: http://thumbpress.com. Acesso em: 28 out. 2013.\n\nA relação entre as citações atribuídas ao físico Albert Einstein e ao cantor e compositor Bob Marley reside na crença de que é necessário",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "dar oportunidade a pessoas que parecem necessitadas."
+      },
+      {
+        "letter": "B",
+        "text": "identificar contextos que podem representar perigo."
+      },
+      {
+        "letter": "C",
+        "text": "tirar proveito de situações que podem ser adversas."
+      },
+      {
+        "letter": "D",
+        "text": "evitar dificuldades que parecem ser intransponíveis."
+      },
+      {
+        "letter": "E",
+        "text": "contestar circunstâncias que parecem ser harmônicas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q01-1.webp",
+      "FIG2": "data/figuras/enem-2024-q01-2.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Einstein afirma que em meio à dificuldade encontra-se a oportunidade, enquanto Marley destaca que algumas pessoas apenas se molham na chuva, mas outras são capazes de vivenciá-la e senti-la. Ambas as mensagens convergem para a ideia de extrair algo enriquecedor e positivo de circunstâncias desafiadoras ou desconfortáveis, o que valida a alternativa C. A alternativa A está incorreta, pois as frases tratam de posturas individuais diante da vida, não de caridade. A alternativa B é incorreta, já que os textos não abordam perigo. A alternativa D está errada, pois a mensagem é enfrentar e ressignificar dificuldades, e não evitá-las. A alternativa E erra ao propor a contestação da harmonia, quando Einstein prega justamente encontrá-la no conflito.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2024-q03",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).\n\nO texto estabelece uma relação entre elementos da natureza e comandos de um programa de computador para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alertar as pessoas sobre a rápida destruição da natureza."
+      },
+      {
+        "letter": "B",
+        "text": "conscientizar os indivíduos sobre a passagem acelerada do tempo."
+      },
+      {
+        "letter": "C",
+        "text": "apresentar aos leitores os avanços tecnológicos na área da agricultura."
+      },
+      {
+        "letter": "D",
+        "text": "orientar os usuários sobre o emprego sustentável das novas tecnologias."
+      },
+      {
+        "letter": "E",
+        "text": "informar os interessados sobre o tempo de crescimento de novas árvores."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q03-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A imagem parodia a interface de um sistema operacional mostrando uma barra de exclusão intitulada 70% Deleted com árvores sendo removidas a uma velocidade de 1000 por segundo, restando apenas duas décadas. O objetivo central é utilizar a metáfora digital para alertar sobre o ritmo alarmante do desmatamento e da destruição ambiental provocados pelo ser humano, confirmando a alternativa A. A alternativa B está incorreta, pois a passagem do tempo é apenas elemento secundário da advertência ecológica. A alternativa C erra porque não há apresentação de inovações agrícolas. A alternativa D é incorreta, visto que o foco não é o uso sustentável de softwares. A alternativa E está errada, pois a taxa indicada se refere ao corte de vegetação, não ao crescimento de novas mudas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2024-q05",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.clickhole.com. Acesso em: 26 out. 2015.\n\nA carta da editora Stephanie Allen-Nichols à escritora Alice Walker tem o propósito de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "problematizar o enredo de sua obra."
+      },
+      {
+        "letter": "B",
+        "text": "acusar o recebimento de seu manuscrito."
+      },
+      {
+        "letter": "C",
+        "text": "solicitar a revisão ortográfica de seu texto."
+      },
+      {
+        "letter": "D",
+        "text": "informar a transferência de seu livro a outra editora."
+      },
+      {
+        "letter": "E",
+        "text": "comunicar a recusa da publicação de seu romance."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q05-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A carta enviada pela editora à autora Alice Walker contém a frase conclusiva we are forced to make the difficult decision to pass on your manuscript, em que a expressão pass on significa abrir mão ou rejeitar a oportunidade de publicar a obra devido ao uso excessivo de pontos de exclamação, o que justifica a alternativa E. A alternativa A está incorreta, pois a editora elogia a narrativa e critica apenas a pontuação. A alternativa B é incorreta, já que o texto vai além do mero aviso de recebimento, comunicando a deliberação editorial. A alternativa C erra porque a carta encerra o processo sem propor revisões. A alternativa D está errada, pois nenhuma transferência para outra editora é mencionada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2024-q25",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 25,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "[[FIG1]]\nVISCONTI, E. Três meninas no jardim. Óleo sobre tela, 81 × 65 cm. Museu Nacional de Belas Artes, Rio de Janeiro, 1935.\nDisponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012.\nEliseu D’Angelo Visconti (1866-1944) desenvolveu diversas obras no Brasil, com grande influência das escolas europeias. Em sua pintura Três meninas no jardim, há",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "culto à fluidez e ao progresso, nos moldes do ideário futurista."
+      },
+      {
+        "letter": "B",
+        "text": "valorização de formas decompostas, a exemplo do estilo cubista."
+      },
+      {
+        "letter": "C",
+        "text": "efeitos fugazes de luz e movimento, que remetem à estética impressionista."
+      },
+      {
+        "letter": "D",
+        "text": "expressão do sonho e do inconsciente, que dialoga com a proposta surrealista."
+      },
+      {
+        "letter": "E",
+        "text": "tematização de elementos cotidianos, que resgata modelos de representação da arte realista."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q25-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em Três meninas no jardim, Eliseu Visconti emprega a técnica de pinceladas soltas e justapostas para captar a incidência da luz solar natural sobre a vegetação e as figuras humanas, criando uma sensação de efemeridade e vibração visual. Esses elementos compõem a essência do impressionismo, escola europeia da qual o pintor foi o principal representante brasileiro, o que torna correta a alternativa C. A alternativa A está incorreta, pois o futurismo valoriza o dinamismo mecânico e a tecnologia industrial. A alternativa B é incorreta, já que a decomposição geométrica de planos caracteriza o cubismo. A alternativa D erra ao atribuir traços oníricos e psicanalíticos do surrealismo a uma cena bucólica real. A alternativa E está errada, pois a fatura pictórica aberta e a ênfase na luz distinguem-se do realismo acadêmico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q33",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 33,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: https://defesacivil.rs.gov.br.\nAcesso em: 11 mar. 2024 (adaptado).\n\nNesse cartaz, a expressão \"Vou deixar que você se vá\", em conjunto com os elementos não verbais utilizados, tem a finalidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incentivar o descarte de itens defeituosos."
+      },
+      {
+        "letter": "B",
+        "text": "promover a reciclagem de produtos usados."
+      },
+      {
+        "letter": "C",
+        "text": "garantir a conservação de roupas de inverno."
+      },
+      {
+        "letter": "D",
+        "text": "relacionar o gesto de doação à ideia de desapego."
+      },
+      {
+        "letter": "E",
+        "text": "comparar a peça de roupa ao sentimento de despedida."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q33-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A campanha do agasalho utiliza a frase de tom emotivo Vou deixar que você se vá estampada na própria roupa para personificá-la, como se o dono estivesse se despedindo de uma peça querida. Ao fazer isso, a peça publicitária estimula o público a superar o apego material e doar agasalhos em bom estado para quem enfrenta o frio, tornando correta a alternativa D. A alternativa A está incorreta, pois a campanha pede expressamente roupas em bom estado, e não defeituosas. A alternativa B é incorreta, visto que o propósito é a doação imediata para uso, não a reciclagem industrial de materiais. A alternativa C erra porque o cartaz incentiva a entrega do vestuário, não sua guarda ou conservação pessoal. A alternativa E está errada, pois a despedida é uma metáfora para promover a doação, não um estudo comparativo abstrato.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q53",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 53,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\n\nA desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "variabilidade solar anual."
+      },
+      {
+        "letter": "B",
+        "text": "temperatura média mensal."
+      },
+      {
+        "letter": "C",
+        "text": "declividade do relevo local."
+      },
+      {
+        "letter": "D",
+        "text": "dinâmica tectônica regional."
+      },
+      {
+        "letter": "E",
+        "text": "gradação da turbidez fluvial."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q53-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O gráfico compara inundações bruscas, caracterizadas por subida rápida e alta velocidade do fluxo de água em curto período, com inundações graduais, que apresentam menor velocidade e maior tempo de duração. Esse comportamento hidrológico depende fundamentalmente da declividade do relevo local: encostas íngremes aceleram o escoamento superficial gerando enxurradas repentinas, enquanto planícies favorecem o represamento lento das águas, o que valida a alternativa C. A alternativa A está incorreta, pois os ciclos solares não determinam a hidrodinâmica específica da drenagem fluvial. A alternativa B é incorreta, pois variações de temperatura mensal afetam a evaporação, mas não a velocidade instantânea do curso de água. A alternativa D erra ao focar em tectonismo, processo de escala geológica sem relação direta com enxurradas pontuais. A alternativa E está errada, pois a turbidez é consequência do transporte de sedimentos, não causa da vazão.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q58",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 58,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Ética e Política",
+      "Filosofia Antiga e Medieval"
+    ],
+    "statement": "TEXTO I\nAristóteles entendia que a felicidade era diretamente ligada ao respeito pela própria natureza e, de certa maneira, a uma vida que tivesse na natureza de si mesma uma referência inabalável. Isso lhe permitiu formular o conceito de excelência. O que seria excelência? Seria, justamente, ao longo da vida, tirar de si mesmo, em forma de performance, de conduta, de comportamento, de disposição, o que a natureza permitiria de melhor.\nCOEN, M.; BARROS FILHO, C. A monja e o professor: reflexões sobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.\n\nTEXTO II\nA noção de eudaimonia é central para a ética aristotélica. A eudaimonia é uma atividade e não um estado psicológico, pois é definida na Ética a Nicômaco como uma atividade da alma com base na virtude moral. A virtude moral é definida em termos de uma disposição diretamente ligada à deliberação, o que o leva a estudar a virtude intelectual que opera em seu interior, isto é, a prudência. A estrutura conceitual da ética aristotélica responde a uma tentativa de elucidar conceitualmente em que consiste isto, agir bem, ou, na linguagem aristotélica, o que significa ser feliz.\nZINGANO, M. Eudaimonia, razão e contemplação na ética aristotélica. Analytica, n. 1, 2017 (adaptado).\n\nOs textos indicam que a prática de ações virtuosas, sempre efetivada na pólis, ocorre por meio do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "teoria das formas essenciais."
+      },
+      {
+        "letter": "B",
+        "text": "identificação dos princípios racionais."
+      },
+      {
+        "letter": "C",
+        "text": "desenvolvimento das técnicas retóricas."
+      },
+      {
+        "letter": "D",
+        "text": "aperfeiçoamento das condutas humanas."
+      },
+      {
+        "letter": "E",
+        "text": "conhecimento das epistemes verdadeiras."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para a ética aristotélica, a eudaimonia (felicidade plena) consiste em uma atividade da alma conforme a virtude, realizada na vida comunitária da pólis. Os textos ressaltam que essa excelência se atinge pelo agir bem reiterado, isto é, pela prática deliberada e pelo aprimoramento constante dos hábitos e das condutas humanas sob a orientação da prudência racional, o que confirma a alternativa D. A alternativa A está incorreta, pois a teoria das formas essenciais pertence a Platão, e não a Aristóteles. A alternativa B é incorreta, pois a virtude moral exige ação e hábito prático, não apenas a identificação teórica de princípios. A alternativa C erra porque a retórica é a técnica do discurso persuasivo, não o fundamento da conduta ética. A alternativa E está errada, visto que o conhecimento epistêmico puro refere-se à contemplação teórica, enquanto a virtude ética opera no campo prático da ação moral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q59",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Antiga e Medieval"
+    ],
+    "statement": "As instituições que a Idade Média nos legou são de um valor maior e mais imperecível do que suas catedrais. E a universidade é nitidamente uma instituição medieval — tanto quanto a monarquia constitucional, ou os parlamentos, ou o julgamento por meio do júri. As universidades e os produtos imediatos das suas atividades constituem a grande realização da Idade Média na esfera intelectual.\nRASHDALL, H. apud OLIVEIRA, T. Origem e memória das universidades medievais. Varia História, n. 37, jan.-jun. 2007.\n\nDe acordo com o texto, o legado das universidades medievais torna-se um relevante patrimônio histórico-cultural por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adotar currículo e método padronizado."
+      },
+      {
+        "letter": "B",
+        "text": "rejeitar ideologias e costumes orientais."
+      },
+      {
+        "letter": "C",
+        "text": "possuir organização e função mercantil."
+      },
+      {
+        "letter": "D",
+        "text": "transmitir técnicas e valores ecumênicos."
+      },
+      {
+        "letter": "E",
+        "text": "agregar tradição e conhecimento científico."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O texto destaca a universidade como uma das maiores criações institucionais e intelectuais da Idade Média, ressaltando a perenidade de suas contribuições para a posteridade. A universidade medieval consolidou-se como espaço de valorização da tradição clássica e teológica articulada à produção sistemática de saberes, debates racionais e formação intelectual, assentando as bases para o desenvolvimento do pensamento científico ocidental. Portanto, a alternativa E está correta.\n\nA alternativa A é incorreta porque a padronização curricular moderna não é o foco do texto, nem definia uniformemente as diversas corporações de mestres e estudantes medievais. A alternativa B é incorreta pois as universidades medievais frequentemente absorveram e debateram traduções e contribuições árabes e orientais (como os comentários a Aristóteles). A alternativa C é incorreta porque o texto destaca a esfera intelectual, não objetivos mercantis ou comerciais. A alternativa D é incorreta porque o termo 'ecumênico' não define a missão primordial dessas instituições, que visavam a investigação filosófica, teológica e das artes liberais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q60",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 60,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "Há experiências de lutas sociais de reapropriação cultural da natureza que são movimentos emblemáticos, como a dos seringueiros no Brasil, que da luta sindical para a comercialização da borracha chegaram a inventar o conceito de reserva extrativista e estão avançando para um novo modo de produção, uma nova racionalidade produtiva, mostrando que é possível viver bem, e não apenas sobreviver, em harmonia com a natureza que habitam. O novo planeta que podemos imaginar é feito desses territórios produtivos que não são apenas economias de autossubsistência mas economias que potencializam a produtividade ecológica de seus territórios.\nLEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado).\n\nO texto expõe a possibilidade de uma nova racionalidade produtiva por meio de uma gestão territorial que se baseia na",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "integração de mercados regidos por pressões regionais."
+      },
+      {
+        "letter": "B",
+        "text": "conexão de valores fundamentados por decisões locais."
+      },
+      {
+        "letter": "C",
+        "text": "unificação de preços delimitados por demandas nacionais."
+      },
+      {
+        "letter": "D",
+        "text": "normatização de regras construídas por instituições mundiais."
+      },
+      {
+        "letter": "E",
+        "text": "valorização de tradições orientadas por determinações globais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O excerto aborda o modelo das reservas extrativistas concebido pelos seringueiros, demonstrando que a conservação ambiental e a reprodução da vida comunitária resultam da mobilização social e dos modos de vida tradicionais. Trata-se de uma governança territorial articulada a partir de demandas, saberes e deliberações locais, que desafia a lógica predatória convencional, justificando a alternativa B. A alternativa A está incorreta, pois as reservas extrativistas priorizam a sustentabilidade socioambiental sobre pressões de mercado regional. A alternativa C é incorreta, pois a proposta não se define pelo controle uniforme de preços em nível nacional. A alternativa D erra ao sugerir normas impostas por órgãos globais, quando a iniciativa partiu da luta de base das populações da floresta. A alternativa E está errada, já que o movimento valoriza tradições e autonomia locais frente a imposições exteriores da globalização.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q61",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 61,
+    "day": 1,
+    "subjectId": "filosofia",
+    "topics": [
+      "Filosofia Contemporânea"
+    ],
+    "statement": "Eu sentia falta do futuro. É claro que eu sabia, muito mesmo antes da recorrência dele, que nunca envelheceria. Era muito provável que eu nunca mais fosse ver o oceano de uma altura de trinta mil pés de novo, uma distância tão grande que não dá nem para distinguir as ondas, nem nenhum barco, de um jeito que faz o oceano parecer um enorme e infinito monólito. Eu poderia imaginá-lo. Eu poderia me lembrar dele. Mas não poderia vê-lo de novo, e me ocorreu que a ambição voraz dos seres humanos nunca é saciada quando os sonhos são realizados, porque há sempre a sensação de que tudo poderia ter sido feito melhor e ser feito outra vez.\nGREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012.\n\nO texto apresenta uma reflexão da personagem acerca de um problema característico da filosofia contemporânea, que trata da(s)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "implicações éticas."
+      },
+      {
+        "letter": "B",
+        "text": "finitude humana."
+      },
+      {
+        "letter": "C",
+        "text": "limitações da linguagem."
+      },
+      {
+        "letter": "D",
+        "text": "pressuposição existencial."
+      },
+      {
+        "letter": "E",
+        "text": "objetividade do conhecimento."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No trecho da obra de John Green, a narradora com doença terminal reflete sobre a certeza de que não envelhecerá, a impossibilidade de revisitar experiências e o limite imposto à existência e aos desejos humanos. Essa meditação aborda a finitude humana e a consciência da mortalidade, tema central na tradição da filosofia contemporânea, especialmente no existencialismo, o que valida a alternativa B. A alternativa A está incorreta, pois o foco da reflexão não são dilemas morais ou deveres éticos. A alternativa C é incorreta, pois não se discutem impasses de comunicação ou insuficiência da linguagem. A alternativa D erra porque o texto não trata de pressupostos lógicos da existência, mas do sentimento real diante do fim da própria vida. A alternativa E está errada, já que a passagem expressa uma vivência subjetiva e íntima, sem discutir critérios científicos de objetividade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q77",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 77,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "[[FIG1]]\nVIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945).\nRio de Janeiro: Unirio, 2019.\n\nO que as capas da revista Travel in Brazil, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP), evidenciam?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Estereótipos da cultura nacional."
+      },
+      {
+        "letter": "B",
+        "text": "Exploração da população pobre."
+      },
+      {
+        "letter": "C",
+        "text": "Preconceitos de ordem racial."
+      },
+      {
+        "letter": "D",
+        "text": "Política de censura midiática."
+      },
+      {
+        "letter": "E",
+        "text": "Projeto de país industrial."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q77-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As capas da revista Travel in Brazil, editada pelo DIP durante a ditadura do Estado Novo, tinham como público-alvo viajantes estrangeiros e utilizavam figuras emblemáticas como a baiana estilizada (inspirada em Carmen Miranda), o gaúcho com trajes típicos e os vaqueiros nordestinos. Essa estratégia propagandística construía uma imagem pitoresca e homogênea do país fundamentada em estereótipos regionais da cultura nacional, o que valida a alternativa A. A alternativa B está incorreta, pois as ilustrações mascaram as contradições sociais e a pobreza por meio de uma visão folclórica e idílica. A alternativa C é incorreta, pois as capas não visam expressar preconceito racial, mas celebrar uma identidade mestiça ufanista idealizada pelo regime. A alternativa D erra porque, embora o DIP exercesse censura, as imagens apresentadas exemplificam a propaganda turística oficial, não o veto editorial. A alternativa E está errada, visto que as capas retratam tradições agropastoris e festivas, sem alusão ao parque industrial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2024-q86",
+    "exam": "enem",
+    "year": 2024,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Urbana"
+    ],
+    "statement": "TEXTO I\n[[FIG1]]\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\nTEXTO II\n[[FIG2]]\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\nA comparação entre as imagens de satélite indica a ocorrência de um processo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conservação de lugares afetivos."
+      },
+      {
+        "letter": "B",
+        "text": "aumento de áreas desertificadas."
+      },
+      {
+        "letter": "C",
+        "text": "redefinição de fronteiras nacionais."
+      },
+      {
+        "letter": "D",
+        "text": "artificialização do espaço geográfico."
+      },
+      {
+        "letter": "E",
+        "text": "mudança da dinâmica macroclimática."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2024-q86-1.webp",
+      "FIG2": "data/figuras/enem-2024-q86-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O confronto das imagens de satélite de 2000 e 2020 revela transformações radicais na linha costeira de Dubai, destacando a construção de imensas ilhas artificiais em formatos geométricos (como as Palm Islands) e a densa expansão imobiliária sobre o mar e o deserto. Essa intensa modificação morfológica operada pelo capital e pela engenharia ilustra a artificialização do espaço geográfico, o que confirma a alternativa D. A alternativa A está incorreta, pois as transformações refletem empreendimentos econômicos e imobiliários globais, não preservação de memórias afetivas locais. A alternativa B é incorreta, uma vez que o fenômeno visível é a urbanização e o aterro marinho, não a expansão da aridez desértica natural. A alternativa C erra porque as obras não alteraram fronteiras políticas entre países. A alternativa E está errada, pois intervenções urbanas costeiras não modificam a dinâmica macroclimática do planeta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2024 – 1º dia, 1 - AZUL"
+    }
   }
 ]
