@@ -97984,5 +97984,412 @@
       "institution": "INEP",
       "note": "ENEM 2014 – 2º dia, 7 - AZUL"
     }
+  },
+  {
+    "id": "enem-2015-q01",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\nBRASIL. Ministério do Meio Ambiente/IBGE. Biomas. 2004 (adaptado).\n\nNo mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desertificação das áreas afetadas."
+      },
+      {
+        "letter": "B",
+        "text": "poluição dos rios temporários."
+      },
+      {
+        "letter": "C",
+        "text": "queimadas dos remanescentes vegetais."
+      },
+      {
+        "letter": "D",
+        "text": "desmatamento das matas ciliares."
+      },
+      {
+        "letter": "E",
+        "text": "contaminação das águas subterrâneas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q01-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A área hachurada no mapa corresponde à porção semiárida do Nordeste brasileiro e ao norte de Minas Gerais, abrangendo predominantemente a Caatinga e áreas de transição com o Cerrado. Trata-se da região suscetível ao processo de desertificação, intensificado pelo desmatamento, pela agropecuária extensiva e pelo manejo inadequado do solo em um clima semiárido, o que torna correta a alternativa A.\n\nA alternativa B é incorreta porque a poluição de rios temporários não constitui a principal problemática macroambiental cartografada nessa área regional.\nA alternativa C é incorreta porque o foco territorial delimitado não visa primariamente o bioma do Cerrado como um todo ou áreas de queimadas generalizadas, mas sim os núcleos de desertificação.\nA alternativa D é incorreta porque o desmatamento ciliar afeta todo o território nacional e não apenas a mancha semiárida delimitada.\nA alternativa E é incorreta porque a contaminação de aquíferos subterrâneos não é a marca ambiental definidora destacada para esse polígono.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q04",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Agrária e Industrial",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\nAMARILDO. Disponível em: www.amarildo.com.br. Acesso em: 3 mar. 2013.\n\nNa charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "elevado preço das mercadorias no comércio."
+      },
+      {
+        "letter": "B",
+        "text": "aumento da demanda por produtos naturais."
+      },
+      {
+        "letter": "C",
+        "text": "crescimento da produção de alimentos."
+      },
+      {
+        "letter": "D",
+        "text": "hábito de adquirir derivados industriais."
+      },
+      {
+        "letter": "E",
+        "text": "uso de agrotóxicos nas plantações."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q04-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A charge constrói seu humor e crítica a partir da fala do personagem que acredita que sua esposa quer assassiná-lo por servir alimentos vegetais comuns, como pimentão, alface, tomate, morango e uva. Na realidade do modelo agrícola brasileiro contemporâneo, essas culturas figuram constantemente nos relatórios de monitoramento de resíduos de agrotóxicos da Anvisa como as que mais concentram substâncias químicas potencialmente tóxicas à saúde. Portanto, a crítica foca no uso excessivo de agrotóxicos nas plantações, tornando correta a alternativa E.\n\nA alternativa A é incorreta porque a preocupação expressa pelo personagem é com o risco de morte e envenenamento, não com os custos das mercadorias.\nA alternativa B é incorreta porque a crítica recai sobre a contaminação química dos alimentos, e não sobre um aumento na busca por produtos orgânicos.\nA alternativa C é incorreta porque a tirinha não trata da expansão quantitativa de colheitas.\nA alternativa D é incorreta porque os itens citados são produtos in natura, não derivados industrializados.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q19",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 19,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "[[FIG1]]\nZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). Uma história do Brasil através da\ncaricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001.\n\nNo período de 1964 a 1985, a estratégia do Regime Militar abordada na charge foi caracterizada pela",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "priorização da segurança nacional."
+      },
+      {
+        "letter": "B",
+        "text": "captação de financiamentos estrangeiros."
+      },
+      {
+        "letter": "C",
+        "text": "execução de cortes nos gastos públicos."
+      },
+      {
+        "letter": "D",
+        "text": "nacionalização de empresas multinacionais."
+      },
+      {
+        "letter": "E",
+        "text": "promoção de políticas de distribuição de renda."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q19-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A charge de Ziraldo, datada de 1974, retrata a dependência do modelo econômico da ditadura militar em relação aos vultosos empréstimos externos para financiar o crescimento econômico e grandes obras. O comentário da mulher sobre a entrada de três bilhões de dólares e o pagamento com carência de dez anos, junto à compaixão do pai pelo filho ('Tadinho!'), evidencia o endividamento externo cuja conta recairia sobre as futuras gerações. Portanto, o tema abordado é a captação de financiamentos estrangeiros, confirmando a alternativa B.\n\nA alternativa A é incorreta porque o conteúdo do diálogo é estritamente de natureza fiscal e econômica, não militar.\nA alternativa C é incorreta porque o período foi marcado por expressivos investimentos públicos e endividamento estatal, e não por austeridade.\nA alternativa D é incorreta porque o regime incentivou a entrada de capital multinacional associado ao capital estatal, sem nacionalizações.\nA alternativa E é incorreta porque o crescimento durante o 'Milagre Econômico' aprofundou a concentração de renda em vez de distribuí-la.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q36",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil Império"
+    ],
+    "statement": "[[FIG1]]\nSCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos. São Paulo: Cia. das Letras, 1998 (adaptado).\n\nEssas imagens de D. Pedro II foram feitas no início dos anos de 1850, pouco mais de uma década após o Golpe da Maioridade. Considerando o contexto histórico em que foram produzidas e os elementos simbólicos destacados, essas imagens representavam um",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "jovem imaturo que agiria de forma irresponsável."
+      },
+      {
+        "letter": "B",
+        "text": "imperador adulto que governaria segundo as leis."
+      },
+      {
+        "letter": "C",
+        "text": "líder guerreiro que comandaria as vitórias militares."
+      },
+      {
+        "letter": "D",
+        "text": "soberano religioso que acataria a autoridade papal."
+      },
+      {
+        "letter": "E",
+        "text": "monarca absolutista que exerceria seu autoritarismo."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q36-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No início da década de 1850, consolidou-se no Brasil o projeto de estabilização política do Segundo Reinado. As pinturas oficiais mostram D. Pedro II com barba e feições maduras, trajes sóbrios da burocracia monárquica ou militar sem exageros régios absolutistas, e com a mão apoiada sobre textos legais ou a Constituição, reforçando a imagem de um imperador austero, adulto e comprometido com o império da lei e da ordem institucional. Assim, correta a alternativa B.\n\nA alternativa A é incorreta porque os retratos buscavam deliberadamente envelhecer a figura do jovem monarca para transmitir seriedade e maturidade.\nA alternativa C é incorreta porque a iconografia não o representa como um conquistador militar armado em combate.\nA alternativa D é incorreta porque o Império brasileiro mantinha o regime do padroado, subordinando a Igreja ao Estado, e a imagem não denota submissão papal.\nA alternativa E é incorreta porque a representação buscava conferir legitimidade constitucional ao monarca, e não traços de um déspota absolutista.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q48",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 48,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia"
+    ],
+    "statement": "Muitos estudos de síntese e endereçamento de proteínas utilizam aminoácidos marcados radioativamente para acompanhar as proteínas, desde fases iniciais de sua produção até seu destino final. Esses ensaios foram muito empregados para estudo e caracterização de células secretoras.\n\nApós esses ensaios de radioatividade, qual gráfico representa a evolução temporal da produção de proteínas e sua localização em uma célula secretora?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2015-q48-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2015-q48-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2015-q48-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2015-q48-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2015-q48-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q48-1.webp",
+      "FIG2": "data/figuras/enem-2015-q48-2.webp",
+      "FIG3": "data/figuras/enem-2015-q48-3.webp",
+      "FIG4": "data/figuras/enem-2015-q48-4.webp",
+      "FIG5": "data/figuras/enem-2015-q48-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em uma célula secretora, os aminoácidos marcados radioativamente são inicialmente incorporados aos polipeptídios durante a tradução nos ribossomos aderidos ao Retículo Endoplasmático Rugoso (RER). Desse modo, no início (5 min), a maior concentração de radioatividade deve ser observada no retículo. Em seguida, as proteínas migram por vesículas de transporte para o Complexo Golgiense, onde sofrem modificações e empacotamento, de modo que aos 10 min a maior porcentagem de radioatividade se concentra no Golgi. Por fim, aos 15 min, as proteínas são direcionadas para as Vesículas de Secreção a caminho da exocitose, atingindo ali o pico de radioatividade. O gráfico que traduz essa sequência temporal é o da alternativa C.\n\nAs alternativas A, B, D e E estão incorretas porque invertem ou desordenam o fluxo biológico obrigatório de tráfego vesicular (Retículo Endoplasmático para Complexo Golgiense e deste para as Vesículas de Secreção).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q50",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 50,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Óptica"
+    ],
+    "statement": "A radiação ultravioleta (UV) é dividida, de acordo com três faixas de frequência, em UV-A, UV-B e UV-C, conforme a figura.\n\n[[FIG1]]\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n[[FIG2]]\n\nConsidere:\nvelocidade da luz = 3,0×10⁸ m/s e 1 nm = 1,0×10⁻⁹ m.\n\nO filtro solar que a pessoa deve selecionar é o",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "V."
+      },
+      {
+        "letter": "B",
+        "text": "IV."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "II."
+      },
+      {
+        "letter": "E",
+        "text": "I."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q50-1.webp",
+      "FIG2": "data/figuras/enem-2015-q50-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela relação c = lambda * f, temos lambda = c / f. A faixa UV-B no gráfico de frequências está delimitada entre f1 = 9,34 * 10^14 s^-1 e f2 = 1,03 * 10^15 s^-1. \nCalculando os comprimentos de onda correspondentes aos limites dessa faixa:\nlambda1 = (3,0 * 10^8) / (1,03 * 10^15) = 2,91 * 10^-7 m = 291 nm;\nlambda2 = (3,0 * 10^8) / (9,34 * 10^14) = 3,21 * 10^-7 m = 321 nm.\nPortanto, a faixa UV-B corresponde ao intervalo aproximado de comprimentos de onda de 291 nm a 321 nm. \nAo analisar o espectro de absorção dos cinco filtros na segunda figura, observa-se que o filtro solar IV apresenta seu pico máximo de absorbância em aproximadamente 310 nm, exatamente dentro do intervalo da radiação UV-B. Logo, a alternativa correta é a B.\n\nA alternativa A é incorreta porque o filtro V tem pico em torno de 265 nm (faixa UV-C).\nAs alternativas C, D e E são incorretas porque os filtros III, II e I têm picos em torno de 360 nm, 420 nm e 275 nm, respectivamente, que não coincidem com o centro de absorção da faixa UV-B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q69",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 69,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Citologia",
+      "Fisiologia Humana"
+    ],
+    "statement": "Normalmente, as células do organismo humano realizam a respiração aeróbica, na qual o consumo de uma molécula de glicose gera 38 moléculas de ATP. Contudo, em condições anaeróbicas, o consumo de uma molécula de glicose pelas células é capaz de gerar apenas duas moléculas de ATP.\n[[FIG1]]\nQual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q69-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para manter a homeostase celular, a quantidade de ATP gerada deve permanecer constante. Na respiração aeróbica, a oxidação de 1 molécula de glicose produz 38 ATPs, ao passo que na via anaeróbica a mesma molécula rende apenas 2 ATPs. Dessa forma, quando a concentração de oxigênio é nula ou muito baixa, a célula necessita degradar uma quantidade muito elevada de glicose via fermentação (19 vezes mais) para obter a energia necessária. Conforme a concentração de oxigênio aumenta gradualmente, a célula passa a realizar a respiração celular aeróbica, tornando o processo muito mais eficiente e reduzindo paulatinamente a necessidade de consumo de glicose. Esse perfil de decaimento monotônico é representado pela curva 5, tornando correta a alternativa E.\n\nA alternativa A é incorreta porque a curva 1 mostra um consumo constante, o que ignora o aumento de rendimento energético proporcionado pelo oxigênio.\nAs alternativas B e C são incorretas porque as curvas 2 e 3 mostram oscilações periódicas que não condizem com um aumento contínuo de oxigênio.\nA alternativa D é incorreta porque a curva 4 mostra um aumento no consumo de glicose, o oposto do efeito Pasteur.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q70",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 70,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, D, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica kd (do estilingue mais “duro”) é o dobro da constante elástica km (do estilingue mais “mole”).\nA razão entre os alcances Dd / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/4."
+      },
+      {
+        "letter": "B",
+        "text": "1/2."
+      },
+      {
+        "letter": "C",
+        "text": "1."
+      },
+      {
+        "letter": "D",
+        "text": "2."
+      },
+      {
+        "letter": "E",
+        "text": "4."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela Lei de Hooke, a força aplicada na borracha é F = k * x, logo a deformação é x = F / k. \nA energia mecânica transferida ao projétil é puramente elástica: E = (k * x^2) / 2 = k * (F / k)^2 / 2 = F^2 / (2k). \nToda essa energia elástica se transforma em energia cinética de lançamento: (m * v^2) / 2 = F^2 / (2k), o que fornece v^2 = F^2 / (m * k). \nO alcance horizontal em um lançamento sob ângulo fixo e aceleração da gravidade g constante é dado por D = (v^2 * sen(2*theta)) / g. \nAssim, D é diretamente proporcional a v^2 e, portanto, inversamente proporcional à constante elástica: D está para 1/k. \nLogo, a razão entre os alcances é Dd / Dm = km / kd. \nComo o enunciado informa que kd = 2 * km, temos Dd / Dm = km / (2 * km) = 1/2. Portanto, a alternativa correta é a B.\n\nAs alternativas A, C, D e E estão incorretas porque resultam de relações quadráticas inadequadas ou da inversão direta da proporcionalidade entre a constante elástica e a energia potencial acumulada sob força constante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
+  },
+  {
+    "id": "enem-2015-q82",
+    "exam": "enem",
+    "year": 2015,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Em um experimento, um professor levou para a sala de aula um saco de arroz, um pedaço de madeira triangular e uma barra de ferro cilíndrica e homogênea. Ele propôs que fizessem a medição da massa da barra utilizando esses objetos. Para isso, os alunos fizeram marcações na barra, dividindo-a em oito partes iguais, e em seguida apoiaram-na sobre a base triangular, com o saco de arroz pendurado em uma de suas extremidades, até atingir a situação de equilíbrio.\n\n[[FIG1]]\n\nNessa situação, qual foi a massa da barra obtida pelos alunos?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3,00 kg"
+      },
+      {
+        "letter": "B",
+        "text": "3,75 kg"
+      },
+      {
+        "letter": "C",
+        "text": "5,00 kg"
+      },
+      {
+        "letter": "D",
+        "text": "6,00 kg"
+      },
+      {
+        "letter": "E",
+        "text": "15,00 kg"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2015-q82-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A barra homogênea de comprimento L está dividida em 8 partes iguais, de comprimento individual d = L / 8. O ponto de apoio encontra-se na 3ª divisão a partir da extremidade esquerda onde está preso o saco de arroz. Portanto, o braço de alavanca do saco de arroz é d_arroz = 3d.\nComo a barra é homogênea, seu centro de massa está localizado exatamente no seu ponto médio, ou seja, a 4d da extremidade esquerda. Assim, a distância do centro de massa ao ponto de apoio é d_barra = 4d - 3d = 1d.\nPara haver equilíbrio estático de rotação em torno do ponto de apoio, o torque horário gerado pelo peso da barra deve igualar o torque anti-horário gerado pelo peso do arroz:\nP_arroz * d_arroz = P_barra * d_barra\nm_arroz * g * (3d) = m_barra * g * (1d)\n5,00 kg * 3 = m_barra * 1\nm_barra = 15,00 kg.\nLogo, a massa da barra obtida é 15,00 kg, o que valida a alternativa E.\n\nAs alternativas A, B, C e D apresentam valores incompatíveis com o cálculo dos momentos e decorrem do posicionamento equivocado do centro de gravidade ou de relações de proporção errôneas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2015 – 1º dia, 1 AZUL"
+    }
   }
 ]
