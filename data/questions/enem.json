@@ -100528,5 +100528,710 @@
       "institution": "INEP",
       "note": "ENEM 2015 – 2º dia, 7 AZUL"
     }
+  },
+  {
+    "id": "enem-2016-q11",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 11,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República",
+      "Movimentos Sociais e Direitos"
+    ],
+    "statement": "TEXTO I\n[[FIG1]]\nDisponível em: http://portal.iphan.gov.br. Acesso em: 6 abr. 2016.\n\nTEXTO II\nA eleição dos novos bens, ou melhor, de novas formas de se conceber a condição do patrimônio cultural nacional, também permite que diferentes grupos sociais, utilizando as leis do Estado e o apoio de especialistas, revejam as imagens e alegorias do seu passado, do que querem guardar e definir como próprio e identitário.\nABREU, M.; SOIHET, R.; GONTIJO, R. (Org.). Cultura política e leituras do passado: historiografia e ensino de história. Rio de Janeiro: Civilização Brasileira, 2007.\n\nO texto chama a atenção para a importância da proteção de bens que, como aquele apresentado na imagem, se identificam como:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Artefatos sagrados."
+      },
+      {
+        "letter": "B",
+        "text": "Heranças materiais."
+      },
+      {
+        "letter": "C",
+        "text": "Objetos arqueológicos."
+      },
+      {
+        "letter": "D",
+        "text": "Peças comercializáveis."
+      },
+      {
+        "letter": "E",
+        "text": "Conhecimentos tradicionais."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q11-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A imagem retrata o trabalho artesanal de confecção de uma viola-de-cocho, atividade tradicional ligada ao saber-fazer de mestres artesãos. O texto discute a ampliação do conceito de patrimônio cultural nacional, que passou a abarcar não apenas monumentos físicos, mas também bens imateriais representativos da identidade e memória de grupos sociais. Portanto, a imagem e o texto referem-se aos conhecimentos tradicionais (patrimônio imaterial).\n\nA alternativa A está incorreta porque o objeto é um instrumento musical artesanal popular, não um artefato sagrado. A alternativa B está incorreta porque o foco da proteção do IPHAN nesse contexto é o saber-fazer imaterial, e não a mera herança material. A alternativa C está incorreta porque não se trata de achados arqueológicos. A alternativa D está incorreta porque a valorização como patrimônio identitário não se baseia na mercantilização de peças.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q17",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.unric.org. Acesso em: 9 ago. 2013.\n\nA ONU faz referência a uma projeção cartográfica em seu logotipo. A figura que ilustra o modelo dessa projeção é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2016-q17-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2016-q17-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2016-q17-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2016-q17-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2016-q17-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q17-1.webp",
+      "FIG2": "data/figuras/enem-2016-q17-2.webp",
+      "FIG3": "data/figuras/enem-2016-q17-3.webp",
+      "FIG4": "data/figuras/enem-2016-q17-4.webp",
+      "FIG5": "data/figuras/enem-2016-q17-5.webp",
+      "FIG6": "data/figuras/enem-2016-q17-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O emblema da Organização das Nações Unidas (ONU) apresenta um mapa-múndi centrado no Polo Norte, no qual os meridianos divergem a partir do centro e os paralelos formam círculos concêntricos. Essa representação corresponde a uma projeção azimutal (ou plana) polar, em que a superfície da Terra é projetada sobre um plano tangente a um dos polos. A imagem que ilustra o modelo geométrico dessa projeção plana/azimutal polar é a apresentada na opção A (FIG2), onde se observa um plano tangente ao polo do globo terrestre.\n\nA alternativa B mostra uma projeção cônica. As alternativas C e E mostram projeções cilíndricas normais ou transversas. A alternativa D representa um plano oblíquo, que não corresponde à projeção polar adotada no símbolo da ONU.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q22",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Idade Contemporânea"
+    ],
+    "statement": "[[FIG1]]\n\nSATRAPI, M. Persépolis. São Paulo: Cia. das Letras, 2007 (adaptado).\n\nA memória recuperada pela autora apresenta a relação entre",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conflito trabalhista e engajamento sindical."
+      },
+      {
+        "letter": "B",
+        "text": "organização familiar e proteção à infância."
+      },
+      {
+        "letter": "C",
+        "text": "centralização econômica e pregação religiosa."
+      },
+      {
+        "letter": "D",
+        "text": "estrutura educacional e desigualdade de renda."
+      },
+      {
+        "letter": "E",
+        "text": "transformação política e modificação de costumes."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q22-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A história em quadrinhos da obra Persépolis retrata as memórias da autora durante a Revolução Islâmica no Irã, ocorrida em 1979. Os quadrinhos mostram como uma grande mudança no poder político do país levou à imposição de normas religiosas rígidas na vida cotidiana da população, como a obrigatoriedade do uso do véu (hijab) para as meninas nas escolas a partir de 1980. Isso evidencia diretamente a relação entre transformação política e modificação de costumes.\n\nA alternativa A está incorreta, pois não há menção a reivindicações sindicais ou conflitos de trabalhadores. A alternativa B é incorreta, já que a cena escolar e a imposição do véu não tratam de políticas de proteção à infância. A alternativa C está incorreta, pois a questão central não envolve centralização econômica. A alternativa D está incorreta, pois a discussão não é pautada na desigualdade de renda.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q38",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "historia",
+    "topics": [
+      "Brasil República"
+    ],
+    "statement": "[[FIG1]]\nO Cruzeiro, década de 1960. Disponível em: www.memoriaviva.com.br.\nAcesso em: 28 fev. 2012 (adaptado).\n\nNo anúncio, há referências a algumas das transformações ocorridas no Brasil nos anos 1950 e 1960. No entanto, tais referências omitem transformações que impactaram segmentos da população, como a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exaltação da tradição colonial."
+      },
+      {
+        "letter": "B",
+        "text": "redução da influência estrangeira."
+      },
+      {
+        "letter": "C",
+        "text": "ampliação da imigração internacional."
+      },
+      {
+        "letter": "D",
+        "text": "intensificação da desigualdade regional."
+      },
+      {
+        "letter": "E",
+        "text": "desconcentração da produção industrial."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q38-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A propaganda do automóvel Simca Chambord diante do Palácio da Alvorada em Brasília simboliza o projeto desenvolvimentista dos anos 1950 e 1960 (governo JK), caracterizado pelo rodoviarismo, pela atração de indústrias automobilísticas e pela modernização urbana. Contudo, essa imagem de progresso modernizador omitia contradições sociais e espaciais severas, destacando-se a intensificação das desigualdades regionais, uma vez que o polo dinâmico e os investimentos concentravam-se fortemente no Centro-Sul, gerando disparidades em relação ao Norte e Nordeste.\n\nA alternativa A é incorreta porque o anúncio exalta a modernidade futurista, não o passado colonial. A alternativa B é incorreta, pois houve aumento expressivo da presença de capitais multinacionais. A alternativa C é incorreta, pois o período foi marcado por fluxos de migração interna, não por ampliação da imigração internacional. A alternativa E é incorreta, visto que houve grande concentração espacial da produção industrial no Sudeste.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q49",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 49,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Uma ambulância A em movimento retilíneo e uniforme aproxima-se de um observador O, em repouso. A sirene emite um som de frequência constante fA. O desenho ilustra as frentes de onda do som emitido pela ambulância. O observador possui um detector que consegue registrar, no esboço de um gráfico, a frequência da onda sonora detectada em função do tempo fO(t), antes e depois da passagem da ambulância por ele.\n\n[[FIG1]]\n\nQual esboço gráfico representa a frequência fO(t) detectada pelo observador?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2016-q49-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2016-q49-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2016-q49-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2016-q49-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2016-q49-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q49-1.webp",
+      "FIG2": "data/figuras/enem-2016-q49-2.webp",
+      "FIG3": "data/figuras/enem-2016-q49-3.webp",
+      "FIG4": "data/figuras/enem-2016-q49-4.webp",
+      "FIG5": "data/figuras/enem-2016-q49-5.webp",
+      "FIG6": "data/figuras/enem-2016-q49-6.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O efeito Doppler sonoro para uma fonte em movimento retilíneo uniforme prevê frequências aparentes distintas quando há aproximação e afastamento. Na aproximação, a frequência percebida pelo observador é constante e maior do que a frequência natural da fonte: f_O = f_A * v_som / (v_som - v_fonte). No afastamento, ela é constante e menor: f_O = f_A * v_som / (v_som + v_fonte). Como a ambulância não passa exatamente pelo ponto O com colisão pontual (há uma distância de aproximação mínima), a transição entre a frequência alta e a baixa ocorre de forma contínua e suave conforme a projeção da velocidade varia, partindo de um patamar superior a f_A e decaindo monotonicamente para um patamar inferior a f_A. Esse comportamento é fielmente retratado na FIG5 (alternativa D).\n\nA alternativa A representa uma oscilação senoidal incorreta. A alternativa B mostra um pulso com valor central máximo. A alternativa C sugere que a frequência aumentaria com o tempo, o que contraria o efeito Doppler. A alternativa E não prevê qualquer variação de frequência decorrente do movimento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q52",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 52,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda.\n\n[[FIG1]]\n\nO uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.\n\n[[FIG2]]\n\nFERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro odor: a comunicação química entre os insetos. Química Nova na Escola, n. 7, maio 1998 (adaptado).\n\nConsiderando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Sitophilus spp."
+      },
+      {
+        "letter": "B",
+        "text": "Migdolus fryanus."
+      },
+      {
+        "letter": "C",
+        "text": "Anthonomus rubi."
+      },
+      {
+        "letter": "D",
+        "text": "Grapholita molesta."
+      },
+      {
+        "letter": "E",
+        "text": "Scrobipalpuloides absoluta."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q52-1.webp",
+      "FIG2": "data/figuras/enem-2016-q52-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O bombicol apresenta ligações duplas entre carbonos em sua cadeia alifática sem átomos de carbono assimétricos (quirais), exibindo estereoisomeria do tipo geométrica (cis-trans ou E-Z). Analisando as substâncias da tabela:\n- Sitophilus spp: possui carbonos quirais (isomeria óptica).\n- Migdolus fryanus: possui carbonos quirais (isomeria óptica).\n- Anthonomus rubi: a dupla possui dois grupos metila no mesmo carbono (não tem isomeria geométrica na dupla).\n- Grapholita molesta: não tem duplas nem carbonos quirais (não tem estereoisomeria).\n- Scrobipalpuloides absoluta: apresenta duplas ligações com substituintes diferentes em cada carbono sp2 (como em cadeias com isomeria cis/trans), configurando estereoisomeria geométrica idêntica à do bombicol.\n\nLogo, a alternativa correta é a E.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q55",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "A Figura 1 apresenta o gráfico da intensidade, em decibéis (dB), da onda sonora emitida por um alto-falante, que está em repouso, e medida por um microfone em função da frequência da onda para diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste experimento.\n\nFigura 1\n[[FIG1]]\nDisponível em: www.batera.com.br. Acesso em: 8 fev. 2015.\n\nFigura 2\n[[FIG2]]\nDisponível em: www.somsc.com.br. Acesso em: 2 abr. 2015.\n\nRelacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Aumenta na faixa das frequências médias."
+      },
+      {
+        "letter": "B",
+        "text": "Diminui na faixa das frequências agudas."
+      },
+      {
+        "letter": "C",
+        "text": "Diminui na faixa das frequências graves."
+      },
+      {
+        "letter": "D",
+        "text": "Aumenta na faixa das frequências médias altas."
+      },
+      {
+        "letter": "E",
+        "text": "Aumenta na faixa das frequências médias baixas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q55-1.webp",
+      "FIG2": "data/figuras/enem-2016-q55-2.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Ao analisar a Figura 1, observamos que, para frequências abaixo de cerca de 250 Hz (faixas subgrave e grave, conforme a Figura 2), a curva de intensidade (em dB) cai de cerca de +15 dB (a 3 mm) para cerca de -5 dB (a 60 mm). Portanto, à medida que a distância do microfone aumenta de 3 mm para 60 mm, a intensidade sonora medida diminui significativamente na faixa das frequências graves e subgraves. Já acima de cerca de 2 kHz (médias altas e agudas), todas as curvas coincidem, não havendo variação com a distância.\n\nA alternativa A está incorreta porque na faixa média a intensidade cai levemente ou se mantém, não aumenta. A alternativa B está incorreta porque na faixa das frequências agudas a intensidade não varia com a distância (curva única). A alternativa D e a alternativa E estão incorretas porque a intensidade não aumenta com o distanciamento em nenhuma faixa.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q59",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.\n\n[[FIG1]]\n\nMunido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.\n\n[[FIG2]]\n\nNa sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras R_AB e R_BC, respectivamente.\n\nAo estabelecer a razão R_AB / R_BC, qual resultado o estudante obteve?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "4/7"
+      },
+      {
+        "letter": "C",
+        "text": "10/27"
+      },
+      {
+        "letter": "D",
+        "text": "14/81"
+      },
+      {
+        "letter": "E",
+        "text": "4/81"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q59-1.webp",
+      "FIG2": "data/figuras/enem-2016-q59-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No circuito do desenho, temos:\n- Entre A e B: o resistor de 20 kΩ e o arco semicircular de 5 kΩ estão ligados em paralelo direto entre os nós A e B. A resistência equivalente desse ramo paralelo AB é dada por: R_par = (20 * 5) / (20 + 5) = 100 / 25 = 4 kΩ.\n- O ramo AC tem resistor de 10 kΩ e o ramo BC tem resistor de 10 kΩ, conectados no nó C.\n\nPara a medição entre A e B (R_AB):\nOs terminais AC e BC ficam em série, totalizando 10 + 10 = 20 kΩ. Esse conjunto de 20 kΩ fica em paralelo com R_par (4 kΩ):\nR_AB = (4 * 20) / (4 + 20) = 80 / 24 = 10/3 kΩ.\n\nPara a medição entre B e C (R_BC):\nO resistor BC (10 kΩ) está em paralelo com o caminho que vai de B até C passando por A (R_par + ramo AC = 4 + 10 = 14 kΩ):\nR_BC = (10 * 14) / (10 + 14) = 140 / 24 = 35/6 kΩ.\n\nCalculando a razão R_AB / R_BC:\nR_AB / R_BC = (10/3) / (35/6) = (10/3) * (6/35) = 20/35 = 4/7.\n\nAs alternativas A, C, D e E trazem valores incorretos decorrentes de equívocos na análise das associações em série e paralelo ao mudar os nós de medição.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q63",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Dois veículos que trafegam com velocidade constante em uma estrada, na mesma direção e sentido, devem manter entre si uma distância mínima. Isso porque o movimento de um veículo, até que ele pare totalmente, ocorre em duas etapas, a partir do momento em que o motorista detecta um problema que exige uma freada brusca. A primeira etapa é associada à distância que o veículo percorre entre o intervalo de tempo da detecção do problema e o acionamento dos freios. Já a segunda se relaciona com a distância que o automóvel percorre enquanto os freios agem com desaceleração constante.\n\nConsiderando a situação descrita, qual esboço gráfico representa a velocidade do automóvel em relação à distância percorrida até parar totalmente?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2016-q63-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2016-q63-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2016-q63-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2016-q63-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2016-q63-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q63-1.webp",
+      "FIG2": "data/figuras/enem-2016-q63-2.webp",
+      "FIG3": "data/figuras/enem-2016-q63-3.webp",
+      "FIG4": "data/figuras/enem-2016-q63-4.webp",
+      "FIG5": "data/figuras/enem-2016-q63-5.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O movimento ocorre em duas etapas em relação à distância percorrida d:\n1ª etapa (tempo de reação): o veículo trafega com velocidade constante v_0 enquanto percorre a distância d_reação. No gráfico de velocidade versus distância percorrida, isso é representado por uma linha horizontal reta (velocidade não varia conforme d aumenta).\n2ª etapa (frenagem com desaceleração constante a): aplica-se a equação de Torricelli, v² = v_0² - 2*a*Δd, ou v(d) = sqrt(v_0² - 2*a*(d - d_reação)). Esta função tem taxa de variação dv/dd = -a / v, o que significa que o módulo da inclinação aumenta à medida que a velocidade diminui, resultando em uma curva com concavidade voltada para baixo até atingir velocidade zero.\nEssa representação corresponde à FIG4 (alternativa D).\n\nA alternativa A não inclui a etapa de velocidade constante. A alternativa B mostra desaceleração linear com a distância, o que corresponderia a uma relação incorreta (Torricelli não é linear em d). As alternativas C e E trazem perfis que não condizem com a primeira etapa com velocidade constante.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q66",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 66,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A invenção e o acoplamento entre engrenagens revolucionaram a ciência na época e propiciaram a invenção de várias tecnologias, como os relógios.\nAo construir um pequeno cronômetro, um relojoeiro usa o sistema de engrenagens mostrado. De acordo com a figura, um motor é ligado ao eixo e movimenta as engrenagens fazendo o ponteiro girar. A frequência do motor é de 18 RPM, e o número de dentes das engrenagens está apresentado no quadro.\n\n[[FIG1]]\n\n[[FIG2]]\n\nA frequência de giro do ponteiro, em RPM, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "4."
+      },
+      {
+        "letter": "D",
+        "text": "81."
+      },
+      {
+        "letter": "E",
+        "text": "162."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q66-1.webp",
+      "FIG2": "data/figuras/enem-2016-q66-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O motor gira o eixo com frequência f_motor = 18 RPM. A engrenagem A está solidária ao eixo do motor, logo f_A = 18 RPM.\nA engrenagem A (24 dentes) está em contato denteado com a engrenagem B (72 dentes):\nf_B * N_B = f_A * N_A => f_B * 72 = 18 * 24 => f_B = 18 / 3 = 6 RPM.\nA engrenagem C (36 dentes) está no mesmo eixo da engrenagem B, compartilhando a mesma rotação: f_C = f_B = 6 RPM.\nA engrenagem C engrena na engrenagem D (108 dentes), à qual está conectado o ponteiro:\nf_D * N_D = f_C * N_C => f_D * 108 = 6 * 36 => f_D = 216 / 108 = 2 RPM.\nComo o ponteiro gira com a engrenagem D, a sua frequência de giro é 2 RPM.\n\nA alternativa A decorre de cálculo errado de divisão das relações. A alternativa C ignora a razão 36/108. As alternativas D e E multiplicam incorretamente as frequências em vez de reduzi-las.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q74",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Três lâmpadas idênticas foram ligadas no circuito esquematizado. A bateria apresenta resistência interna desprezível, e os fios possuem resistência nula. Um técnico fez uma análise do circuito para prever a corrente elétrica nos pontos: A, B, C, D e E; e rotulou essas correntes de I_A, I_B, I_C, I_D e I_E, respectivamente.\n\n[[FIG1]]\n\nO técnico concluiu que as correntes que apresentam o mesmo valor são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I_A = I_E e I_C = I_D."
+      },
+      {
+        "letter": "B",
+        "text": "I_A = I_B = I_E e I_C = I_D."
+      },
+      {
+        "letter": "C",
+        "text": "I_A = I_B, apenas."
+      },
+      {
+        "letter": "D",
+        "text": "I_A = I_B = I_E, apenas."
+      },
+      {
+        "letter": "E",
+        "text": "I_C = I_B, apenas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q74-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "As três lâmpadas L1, L2 e L3 são idênticas (possuem a mesma resistência R) e estão conectadas em paralelo sob a mesma diferença de potencial V da bateria. Assim, a corrente em cada lâmpada é i = V/R.\n- No ponto C passa apenas a corrente de L1: I_C = i.\n- No ponto D passa apenas a corrente de L2: I_D = i. Portanto, I_C = I_D.\n- No ponto A passa a corrente total fornecida pela fonte para alimentar as três lâmpadas: I_A = 3i.\n- No ponto E passa a corrente total que retorna à fonte: I_E = 3i. Portanto, I_A = I_E.\n- No ponto B passa apenas a corrente necessária para alimentar as lâmpadas L1 e L2: I_B = 2i.\nLogo, as igualdades verdadeiras são I_A = I_E e I_C = I_D.\n\nA alternativa B é incorreta pois I_B = 2i != 3i = I_A. A alternativa C é incorreta porque I_B não é igual a I_A. A alternativa D é incorreta pelo mesmo motivo. A alternativa E é incorreta pois I_C = i e I_B = 2i.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q79",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 79,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituídas por patógenos avirulentos, e os probióticos que contêm bactérias benéficas. Na figura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.\n\n[[FIG1]]\n\nMcALLISTER, T. A. et al. Review: The use of direct fed microbials to mitigate pathogens and enhance production in cattle. Can. J. Anim. Sci., jan. 2011 (adaptado).\n\nQual mecanismo de ação desses probióticos promove um efeito similar ao da vacina?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "2"
+      },
+      {
+        "letter": "E",
+        "text": "1"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q79-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "As vacinas atenuadas contêm microrganismos vivos com virulência reduzida que agem estimulando o sistema imunológico do hospedeiro a desencadear uma resposta imune adaptativa, com a produção de anticorpos específicos (imunoglobulinas) e células de memória. Na figura apresentada, o mecanismo número 4 corresponde explicitamente ao estímulo à produção de imunoglobulinas mediado por células apresentadoras de antígeno (células dendríticas), reproduzindo exatamente o efeito protetor e imunogênico conferido por uma vacina.\n\nA alternativa A (mecanismo 5) trata apenas da manutenção da barreira epitelial mecânica. A alternativa C (mecanismo 3) aborda a exclusão competitiva por sítios de adesão. A alternativa D (mecanismo 2) trata da secreção direta de substâncias bactericidas/bacteriostáticas. A alternativa E (mecanismo 1) refere-se à competição ecológica por nutrientes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q82",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma invenção que significou um grande avanço tecnológico na Antiguidade, a polia composta ou a associação de polias, é atribuída a Arquimedes (287 a.C. a 212 a.C.). O aparato consiste em associar uma série de polias móveis a uma polia fixa. A figura exemplifica um arranjo possível para esse aparato. É relatado que Arquimedes teria demonstrado para o rei Hierão um outro arranjo desse aparato, movendo sozinho, sobre a areia da praia, um navio repleto de passageiros e cargas, algo que seria impossível sem a participação de muitos homens. Suponha que a massa do navio era de 3 000 kg, que o coeficiente de atrito estático entre o navio e a areia era de 0,8 e que Arquimedes tenha puxado o navio com uma força F⃗, paralela à direção do movimento e de módulo igual a 400 N. Considere os fios e as polias ideais, a aceleração da gravidade igual a 10 m/s² e que a superfície da praia é perfeitamente horizontal.\n\n[[FIG1]]\n\nDisponível em: www.histedbr.fae.unicamp.br. Acesso em: 28 fev. 2013 (adaptado).\n\nO número mínimo de polias móveis usadas, nessa situação, por Arquimedes foi",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3."
+      },
+      {
+        "letter": "B",
+        "text": "6."
+      },
+      {
+        "letter": "C",
+        "text": "7."
+      },
+      {
+        "letter": "D",
+        "text": "8."
+      },
+      {
+        "letter": "E",
+        "text": "10."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q82-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A força de atrito estático máxima necessária para iniciar o movimento do navio sobre a superfície horizontal é dada por: F_atrito = μ * N = μ * m * g.\nSubstituindo os valores: F_atrito = 0,8 * 3000 kg * 10 m/s² = 24 000 N.\nUma talha exponencial com n polias móveis reduz a força necessária pela relação: F_aplicada = F_resistente / (2^n).\nPara que uma força F de módulo 400 N consiga mover o navio:\n400 >= 24000 / (2^n) => 2^n >= 24000 / 400 => 2^n >= 60.\nCalculando as potências de base 2:\n2^5 = 32 (insuficiente);\n2^6 = 64 (satisfaz 64 >= 60).\nPortanto, o número mínimo de polias móveis necessárias é 6.\n\nA alternativa A (3 polias) forneceria uma vantagem mecânica de apenas 2^3 = 8, exigindo força de 3000 N. As alternativas C, D e E trazem números maiores que o mínimo necessário.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q85",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Físico-Química"
+    ],
+    "statement": "Os tensoativos são compostos capazes de interagir com substâncias polares e apolares. A parte iônica dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estrutura orgânica de um tensoativo pode ser representada por:\n\n[[FIG1]]\n\nAo adicionar um tensoativo sobre a água, suas moléculas formam um arranjo ordenado.\n\nEsse arranjo é representado esquematicamente por:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2016-q85-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2016-q85-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2016-q85-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2016-q85-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2016-q85-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q85-1.webp",
+      "FIG2": "data/figuras/enem-2016-q85-2.webp",
+      "FIG3": "data/figuras/enem-2016-q85-3.webp",
+      "FIG4": "data/figuras/enem-2016-q85-4.webp",
+      "FIG5": "data/figuras/enem-2016-q85-5.webp",
+      "FIG6": "data/figuras/enem-2016-q85-6.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "As moléculas de tensoativo são compostas por uma cauda apolar hidrofóbica (representada pela linha sinuosa) e uma cabeça polar/iônica hidrofílica (representada pelo círculo preto). Como a água é um líquido polar e o ar acima dela é apolar, quando o tensoativo é adicionado à superfície da água, as moléculas se organizam formando uma monocamada na interface água-ar. A parte iônica hidrofílica (cabeça polar) interage fortemente com as moléculas de água, permanecendo em contato com ela, enquanto a cauda carbônica hidrofóbica é expelida da água, orientando-se para cima, em direção ao ar. Esse arranjo ordenado na superfície da água é corretamente ilustrado na FIG4 (alternativa C).\n\nNas figuras das alternativas A e B, a cauda apolar está imersa na água, o que é desfavorável termodinamicamente. Na FIG5 (alternativa D), o tensoativo está no fundo do béquer. Na FIG6 (alternativa E), as cabeças e caudas estão posicionadas de maneira invertida e submersa em relação à interface correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2016-q86",
+    "exam": "enem",
+    "year": 2016,
+    "originalNumber": 86,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória"
+    ],
+    "statement": "Um experimento para comprovar a natureza ondulatória da radiação de micro-ondas foi realizado da seguinte forma: anotou-se a frequência de operação de um forno de micro-ondas e, em seguida, retirou-se sua plataforma giratória. No seu lugar, colocou-se uma travessa refratária com uma camada grossa de manteiga. Depois disso, o forno foi ligado por alguns segundos. Ao se retirar a travessa refratária do forno, observou-se que havia três pontos de manteiga derretida alinhados sobre toda a travessa. Parte da onda estacionária gerada no interior do forno é ilustrada na figura.\n\n[[FIG1]]\n\nDe acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I e III"
+      },
+      {
+        "letter": "B",
+        "text": "I e V"
+      },
+      {
+        "letter": "C",
+        "text": "II e III"
+      },
+      {
+        "letter": "D",
+        "text": "II e IV"
+      },
+      {
+        "letter": "E",
+        "text": "II e V"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2016-q86-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Nas ondas estacionárias que se formam no interior do forno de micro-ondas, há pontos nodais (nós), onde a amplitude de oscilação do campo eletromagnético é nula, e pontos ventrais (ventre ou antinós), onde a amplitude de oscilação e a intensidade energética são máximas. O aquecimento dielétrico que funde a manteiga ocorre preferencialmente nos ventres de oscilação, que correspondem aos picos e vales das amplitudes da onda. Na figura, as posições I, III e V indicam os ventres sucessivos, enquanto II e IV representam nós. Logo, dois pontos consecutivos de manteiga derretida correspondem a dois ventres consecutivos, ou seja, às posições I e III (ou III e V).\n\nA alternativa B traz os pontos I e V, que são ventres, mas não consecutivos (estão separados pelo ventre III). As alternativas C, D e E envolvem as posições II e/ou IV, que são nós e, portanto, representam regiões de mínima transferência de energia onde a manteiga não derrete.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2016 – 1º dia, 1 - AZUL"
+    }
   }
 ]
