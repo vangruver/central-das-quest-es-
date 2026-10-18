@@ -120325,5 +120325,49 @@
       "institution": "INEP",
       "note": "ENEM 2021 – 2º dia, 5 Amarelo"
     }
+  },
+  {
+    "id": "enem-2022-q78",
+    "exam": "enem",
+    "year": 2022,
+    "originalNumber": 78,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "Possível trajeto do voo MH370 da Malaysia Airlines antes da queda, em 2014\n[[FIG1]]\nDisponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).\nConsiderando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 : 12 500."
+      },
+      {
+        "letter": "B",
+        "text": "1 : 125 000."
+      },
+      {
+        "letter": "C",
+        "text": "1 : 1 250 000."
+      },
+      {
+        "letter": "D",
+        "text": "1 : 12 500 000."
+      },
+      {
+        "letter": "E",
+        "text": "1 : 125 000 000."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2022-q78-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A escala cartográfica (E) expressa a razão entre a distância no mapa (d) e a distância real correspondente (D), dada por E = d / D, em uma mesma unidade de medida.\n\nDe acordo com a imagem e o enunciado:\n- Distância gráfica (d) = 2 cm\n- Distância real (D) = 2 500 km\n\nConvertendo a distância real para centímetros:\n2 500 km = 2 500 × 100 000 cm = 250 000 000 cm\n\nCalculando a escala:\nE = 2 / 250 000 000 = 1 / 125 000 000, ou seja, 1 : 125 000 000.\n\nPortanto, a alternativa E está correta.\n\nAs alternativas A, B, C e D estão incorretas porque cometem erros na conversão de unidades (quilômetros para centímetros), esquecendo fatores de 10, o que resulta em escalas com número inadequado de zeros no denominador (por exemplo, dividindo por 100 ou 1 000 em vez de 100 000).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2022 – 1º dia, 1 AZUL"
+    }
   }
 ]
