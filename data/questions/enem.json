@@ -103182,5 +103182,959 @@
       "institution": "INEP",
       "note": "ENEM 2016 – 2º dia, 7 - AZUL"
     }
+  },
+  {
+    "id": "enem-2017-esp-q01",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "El carpintero\n\nOrlando Goicoechea reconoce las maderas por el olor, de qué árboles vienen, qué edad tienen, y oliéndolas sabe si fueron cortadas a tiempo o a destiempo y les adivina los posibles contratiempos.\n\nAl cabo de tantos años de trabajo, Orlando se ha dado el lujo de comprarse un video, y ve una película tras otra.\n\nNo sabía que eras loco por cine le dice el vecino.\n\nY Orlando le explica que no, que a él ni le va ni le viene, pero gracias al video puede detener las películas para estudiar los muebles.\n\nGALEANO, E. Disponível em: http://elcajondesastre.blogcindarrio.com. Acesso em: 18 abr. 2012.\n\nNo conto de Galeano, a expressão ni le va ni le viene encerra uma opinião a respeito de cinema que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "desconstrói a ideia central do conto sobre a importância das atividades de lazer."
+      },
+      {
+        "letter": "B",
+        "text": "contradiz a percepção que o narrador tem em relação à profissão exercida por Orlando."
+      },
+      {
+        "letter": "C",
+        "text": "revela o descaso do narrador com relação ao ofício desempenhado por Orlando."
+      },
+      {
+        "letter": "D",
+        "text": "reforça a impressão do vizinho de que Orlando gostava de filmes."
+      },
+      {
+        "letter": "E",
+        "text": "evidencia a extrema devoção do carpinteiro ao seu ofício."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A locução coloquial \"ni le va ni le viene\" significa ter total indiferença por algo. Orlando explica ao vizinho que não se importa nem um pouco com cinema em si, mas utiliza as fitas de vídeo unicamente para pausar as cenas e observar os móveis. Esse detalhe ressalta que até em momentos associados ao lazer ele está integralmente concentrado em seu trabalho como marceneiro, evidenciando sua profunda devoção ao ofício. Portanto, a alternativa E está correta.\n\nA alternativa A é incorreta, pois o conto não discute a importância teórica do lazer. A alternativa B é incorreta, pois a atitude confirma e reforça a percepção de dedicação apresentada no início da narrativa. A alternativa C é incorreta, pois o narrador retrata a sensibilidade profissional de Orlando de maneira positiva e admirada. A alternativa D é incorreta, pois a fala desfaz a suposição do vizinho de que Orlando seria cinéfilo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2017-q01",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "One of the things that made an incredible impression on me in the film was Frida’s comfort in and celebration of her own unique beauty. She didn’t try to fit into conventional ideas or images about womanhood or what makes someone or something beautiful. Instead, she fully inhabited her own unique gifts, not particularly caring what other people thought. She was magnetic and beautiful in her own right. She painted for years, not to be a commercial success or to be discovered, but to express her own inner pain, joy, family, love and culture. She absolutely and resolutely was who she was. The trueness of her own unique vision and her ability to stand firmly in her own truth was what made her successful in the end.\n\nHUTZLER, L. Disponível em: www.etbscreenwriting.com. Acesso em: 6 maio 2013.\n\nA autora desse comentário sobre o filme Frida mostra-se impressionada com o fato de a pintora",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ter uma aparência exótica."
+      },
+      {
+        "letter": "B",
+        "text": "vender bem a sua imagem."
+      },
+      {
+        "letter": "C",
+        "text": "ter grande poder de sedução."
+      },
+      {
+        "letter": "D",
+        "text": "assumir sua beleza singular."
+      },
+      {
+        "letter": "E",
+        "text": "recriar-se por meio da pintura."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto destaca que a autora ficou profundamente impressionada com o modo como Frida Kahlo celebrava e vivenciava confortavelmente sua própria beleza peculiar (\"Frida’s comfort in and celebration of her own unique beauty\"), recusando-se a atender a padrões e imagens convencionais sobre a feminilidade. Portanto, a alternativa D está correta.\n\nA alternativa A é incorreta, pois o foco não reside em um exotismo superficial, mas na autenticidade de sua beleza. A alternativa B é incorreta, já que o texto afirma expressamente que ela pintava não para obter sucesso comercial (\"not to be a commercial success\"). A alternativa C é incorreta, pois a impressão marcante não decorre de um poder de sedução, mas de sua autoafirmação. A alternativa E é incorreta, pois a pintura é mencionada como canal de expressão de sentimentos internos, e não como motor primordial da impressão causada pela pintora.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2017-esp-q02",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "El virus del papiloma humano (HPV) también es un problema de hombres\n\nPara algunos hombres, el virus del papiloma humano (HPV) es algo muy lejano. Se olvidan de que ellos también se infectan y de que, al contagiarnos, nos están regalando un pasaporte mágico para el cáncer cérvico-uterino — segunda causa de muerte entre las mujeres de México —; incluso me ha tocado escuchar en boca de algunos de ellos que “sólo se trata de una infeccioncita”. Pues bien, el HPV también es un problema de hombres, no sólo porque propaga la infección entre la población femenina, sino también porque este virus produce otros problemas de salud tanto en hombres como en mujeres, incluyendo verrugas genitales y cáncer de boca y garganta que, si bien no son tan conocidos o alarmantes por su cantidad, como otros tipos de cáncer, también constituyen un riesgo. Por lo anterior, la Academia Americana de Pediatría decidió enfrentarse al HPV mediante vacunas que se ponen tanto a mujeres como hombres. Los especialistas afirman que la vacuna es más efectiva si se administra antes de que el niño se vuelva sexualmente activo, y responde mejor en el organismo de varones entre 9 y 15 años.\n\nALBITER, K. Disponível em: http://vivirmexico.com. Acesso em: 10 jul. 2012 (adaptado).\n\nO texto aborda a temática do HPV. Ao discorrer sobre o contágio e a prevenção do papiloma humano, a autora informa aos leitores que esse vírus é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "estudado pela Academia Americana de Pediatria por seus efeitos em crianças."
+      },
+      {
+        "letter": "B",
+        "text": "responsável pelo aumento de casos de câncer na população jovem mexicana."
+      },
+      {
+        "letter": "C",
+        "text": "ignorado pelos homens por se restringir à população feminina."
+      },
+      {
+        "letter": "D",
+        "text": "combatido por vacinas que devem ser aplicadas tanto em mulheres quanto em homens."
+      },
+      {
+        "letter": "E",
+        "text": "classificado como um problema superável pela facilidade com que se enfrenta a infecção."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O texto busca esclarecer que o HPV não atinge apenas o sexo feminino, explicando que os homens também se infectam, transmitem o vírus e podem desenvolver doenças decorrentes dele. Com base nisso, informa que a Academia Americana de Pediatria determinou o combate ao vírus por meio da imunização preventiva tanto de mulheres quanto de homens, o que torna correta a alternativa D.\n\nA alternativa A é incorreta, pois a Academia estabeleceu a vacinação para prevenir males futuros, não apenas para estudar efeitos em crianças. A alternativa B é incorreta, pois o texto não traz estatísticas de aumento de câncer na juventude mexicana. A alternativa C é incorreta, já que a autora rebate expressamente a ideia de que o vírus se limita ao público feminino. A alternativa E é incorreta, pois a autora combate a postura negligente daqueles que tratam o HPV como \"sólo una infeccioncita\".",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2017-q02",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "British Government to Recruit Teens as Next Generation of Spies\n\nIn the 50 years since the first James Bond movie created a lasting impression of a British secret agent, a completely different character is about to emerge. Britain’s intelligence agencies are to recruit their next generation of cyber spies by harnessing the talents of the “Xbox generation”.\n\nIn an expansion of a pilot program, Foreign Secretary William Hague announced Thursday that up to 100 18-year-olds will be given the chance to train for a career in Britain’s secret services. The move to recruit school-leavers marks a break with the past, when agencies mainly drew their staff from among university graduates.\n\n“Young people are the key to our country’s future success, just as they were during the War”, Hague said. “Today we are not at war, but I see evidence every day of deliberate, organized attacks against intellectual property and government networks in the United Kingdom.”\n\nThe new recruitment program, called the Single Intelligence Account apprenticeship scheme will enable students with suitable qualifications in science, technology or engineering, to spend two years learning about communications, security and engineering through formal education, technical training and work placements.\n\nJEARY, P. Disponível em: http://worldnews.nbcnews.com. Acesso em: 19 nov. 2012.\n\nSegundo informações veiculadas pela NBC News, a geração digital já tem seu espaço conquistado nas agências britânicas de inteligência. O governo britânico decidiu que",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enfrentará a guerra vigente e deliberada contra a propriedade intelectual no Reino Unido."
+      },
+      {
+        "letter": "B",
+        "text": "abandonará a política de contratação de universitários como agentes secretos."
+      },
+      {
+        "letter": "C",
+        "text": "recrutará jovens jogadores de Xbox como ciberespiões das agências de inteligência."
+      },
+      {
+        "letter": "D",
+        "text": "implantará um esquema de capacitação de adolescentes para atuarem como agentes secretos."
+      },
+      {
+        "letter": "E",
+        "text": "anunciará os nomes dos jovens a serem contratados pelas agências de inteligência."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "De acordo com a reportagem, o governo britânico decidiu lançar um programa de aprendizagem (\"Single Intelligence Account apprenticeship scheme\") voltado a jovens de 18 anos recém-saídos da escola, proporcionando dois anos de capacitação técnica, formal e prática para formá-los como agentes de segurança e inteligência cibernética. Logo, a alternativa D é a correta.\n\nA alternativa A é incorreta, pois o ministro afirma que o país não está formalmente em guerra, apenas que há ataques cibernéticos organizados. A alternativa B é incorreta, pois a abertura para estudantes secundaristas representa uma ruptura com o modelo anterior centrado em graduados universitários, sem indicar abandono total desse público. A alternativa C é incorreta, pois \"geração Xbox\" é uma metáfora para a juventude digitalizada, não um recrutamento restrito a jogadores de console. A alternativa E é incorreta, uma vez que as identidades dos agentes secretos não são reveladas publicamente.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2017-esp-q03",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Aquí estoy established,\nEn los Estados Unidos,\nDiez años pasaron ya,\nEn que crucé de mojado,\nPapeles no he arreglado,\nSigo siendo un ilegal.\nTengo mi esposa y mis hijos,\nQue me los traje muy chicos\nY se han olvidado ya,\nDe mi México querido,\nDel que yo nunca me olvido,\nY no puedo regresar.\n[...]\nMis hijos no hablan conmigo,\nOtro idioma han aprendido,\nY olvidado el español,\nPiensan como americanos,\nNiegan que son mexicanos,\nAunque tengan mi color.\n\nLOS TIGRES DEL NORTE. Jaula de oro. Woodland Hills, Califórnia: Fonovisa, 1986 (fragmento).\n\nA letra de canção coloca em cena um dilema por vezes vivenciado por imigrantes. Esse dilema se configura no sentimento do pai em relação ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "diluição de sua identidade latino-americana, advinda do contato cotidiano com o outro."
+      },
+      {
+        "letter": "B",
+        "text": "distanciamento dos filhos, gerado pela apropriação da língua e da cultura do outro."
+      },
+      {
+        "letter": "C",
+        "text": "preconceito étnico-racial sofrido pelos imigrantes mexicanos no novo país."
+      },
+      {
+        "letter": "D",
+        "text": "desejo de se integrar à nova cultura e de se comunicar na outra língua."
+      },
+      {
+        "letter": "E",
+        "text": "vergonha perante os filhos de viver ilegalmente em outro país."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na canção, o eu lírico lamenta a situação vivenciada em sua família nos Estados Unidos: enquanto ele preserva a memória e o apego ao seu país natal, seus filhos aprenderam inglês, esqueceram o espanhol, pensam como norte-americanos e negam a origem mexicana. O conflito central consiste no distanciamento cultural e afetivo entre o pai e os filhos decorrente da assimilação da nova cultura e língua por parte destes, o que valida a alternativa B.\n\nA alternativa A é incorreta, pois o pai mantém sua identidade intacta (\"Del que yo nunca me olvido\"). A alternativa C é incorreta, pois a letra foca no afastamento intrafamiliar, não em episódios de preconceito no cotidiano. A alternativa D é incorreta, já que o pai não manifesta desejo pessoal de aculturação. A alternativa E é incorreta, pois a tristeza do pai decorre do esquecimento das raízes por parte dos filhos, e não de vergonha perante eles por sua situação legal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2017-q03",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\nReader’s Digest, set. 1993.\n\nNesse texto publicitário são utilizados recursos verbais e não verbais para transmitir a mensagem. Ao associar os termos anyplace e regret à imagem do texto, constata-se que o tema da propaganda é a importância da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "preservação do meio ambiente."
+      },
+      {
+        "letter": "B",
+        "text": "manutenção do motor."
+      },
+      {
+        "letter": "C",
+        "text": "escolha da empresa certa."
+      },
+      {
+        "letter": "D",
+        "text": "consistência do produto."
+      },
+      {
+        "letter": "E",
+        "text": "conservação do carro."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q03-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A propaganda adverte o leitor: \"Take your car just anyplace for an oil change, and you may regret it down the road\" (Leve seu carro a qualquer lugar para trocar o óleo, e você poderá se arrepender mais adiante). A imagem mostra um parafuso solto e uma poça de óleo derramado. Ao correlacionar \"anyplace\" (qualquer lugar) com o risco de arrependimento e prejuízo mecânico, a campanha enfatiza que o motorista deve ser criterioso ao escolher uma oficina ou empresa de confiança e qualificada para realizar o serviço, tornando correta a alternativa C.\n\nA alternativa A é incorreta, pois o anúncio não é focado em sustentabilidade ambiental. A alternativa B é incorreta, pois a necessidade de trocar o óleo já é pressuposta; a questão central é onde realizá-la. A alternativa D é incorreta, visto que o anúncio alerta sobre a prestação do serviço em locais inadequados, não sobre a textura do lubrificante. A alternativa E é incorreta, pois a preservação do veículo é consequência da escolha do estabelecimento de manutenção.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2017-esp-q04",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Emotivo encuentro en la universidad pública\n\nEl entonces mandatario uruguayo recibió el cariño de sus compatriotas residentes en Nueva York e informó sobre la evolución del país, las políticas de gobierno, los avances y cuentas pendientes. Como en ocasiones similares, se multiplicaron las muestras de respeto y emoción. “Una nación es un formidable sentimiento de un ‘nosotros’”, dijo.\n\nMujica comenzó su discurso relatando lo recogido de otras experiencias de comunidades en el exilio. “Muchos de ustedes echaron raíces, tienen hijos y no pueden cometer la agresión de descuajarle la vida. Tienen que cargar con esa nostalgia de ser de allá, pero estar acá”, dijo.\n\n“Estamos metidos en la lucha por mejorar las circunstancias, con el sueño de que las generaciones que vengan, puedan venir con más soltura, con más apoyo”, dijo el Presidente.\n\nMujica se refirió a algunas críticas que reciben algunas políticas sociales. “Nos acusan de que damos sin contrapartida. Nos dicen ‘a la gente no hay que darle pescado, sino enseñarle a pescar’. Sí — razonó el Presidente —, pero cuando le afanaste la caña, le afanaste el bote, ¿qué le vas a pedir? Para atrás no arreglamos, arreglamos para adelante.”\n\nDisponível em: www.republica.com.uy. Acesso em: 26 set. 2013 (adaptado).\n\nNo discurso dirigido aos compatriotas radicados em Nova York, o então presidente Mujica expressa o desejo de que os cidadãos que vivem no Uruguai",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apoiem as políticas públicas afirmativas."
+      },
+      {
+        "letter": "B",
+        "text": "integrem-se ao processo de globalização."
+      },
+      {
+        "letter": "C",
+        "text": "cultivem o sentimento nacionalista."
+      },
+      {
+        "letter": "D",
+        "text": "ofereçam uma contrapartida à nação."
+      },
+      {
+        "letter": "E",
+        "text": "tenham melhores condições de vida."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em seu pronunciamento aos uruguaios residentes no exterior, o presidente Mujica declara: \"Estamos metidos en la lucha por mejorar las circunstancias, con el sueño de que las generaciones que vengan, puedan venir con más soltura, con más apoyo\". Essa afirmação traduz o anseio governamental de construir uma realidade social mais justa e próspera para que a população do país tenha melhores condições de vida, confirmando a alternativa E.\n\nA alternativa A é incorreta, pois Mujica defende as ações afirmativas de seu governo contra críticas, não fazendo apelo aos emigrados para que as apoiem. A alternativa B é incorreta, pois o foco está na reparação social e no bem-estar local, não na integração global. A alternativa C é incorreta, já que o trecho citado não preconiza o cultivo de nacionalismo. A alternativa D é incorreta, pois o ex-presidente rebate a exigência de contrapartida imediata da população vulnerável que foi historicamente espoliada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2017-q04",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Letters\n\nChildren and Guns\nPublished: May 7, 2013\nTo the Editor: Re “Girl’s Death by Gunshot Is Rejected as Symbol” (news article, May 6):\n\nI find it abhorrent that the people of Burkesville, Ky., are not willing to learn a lesson from the tragic shooting of a 2-year-old girl by her 5-year-old brother. I am not judging their lifestyle of introducing guns to children at a young age, but I do feel that it’s irresponsible not to practice basic safety with anything potentially lethal — guns, knives, fire and so on. How can anyone justify leaving guns lying around, unlocked and possibly loaded, in a home with two young children?\n\nI wish the family of the victim comfort during this difficult time, but to dismiss this as a simple accident leaves open the potential for many more such “accidents” to occur. I hope this doesn’t have to happen several more times for legislators to realize that something needs to be changed.\n\nEMILY LOUBATON\nBrooklyn, May 6, 2013\nDisponível em: www.nytimes.com. Acesso em: 10 maio 2013.\n\nNo que diz respeito à tragédia ocorrida em Burkesville, a autora da carta enviada ao The New York Times busca",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reconhecer o acidente noticiado como um fato isolado."
+      },
+      {
+        "letter": "B",
+        "text": "responsabilizar o irmão da vítima pelo incidente ocorrido."
+      },
+      {
+        "letter": "C",
+        "text": "apresentar versão diferente da notícia publicada pelo jornal."
+      },
+      {
+        "letter": "D",
+        "text": "expor sua indignação com a negligência de portadores de armas."
+      },
+      {
+        "letter": "E",
+        "text": "reforçar a necessidade de proibição do uso de armas por crianças."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na carta, a autora demonstra repugnância diante do descuido dos responsáveis pela tragédia, classificando como irresponsável o ato de deixar armas destravadas e carregadas ao alcance de crianças pequenas (\"How can anyone justify leaving guns lying around, unlocked and possibly loaded, in a home with two young children?\"). Ela expressa sua revolta com a negligência dos proprietários e com a recusa local em aprender com o episódio. Assim, a alternativa D está correta.\n\nA alternativa A é incorreta, pois a autora adverte expressamente contra tratar o fato como um simples acidente isolado. A alternativa B é incorreta, pois a responsabilidade recai sobre os adultos negligentes que deixaram a arma acessível, não sobre o irmão de cinco anos. A alternativa C é incorreta, pois a carta comenta e reage ao caso noticiado, sem contestar os fatos relatados. A alternativa E é incorreta, pois o foco da indignação está na ausência de normas básicas de segurança por parte dos adultos proprietários de armas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2017-esp-q05",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "El eclipse\n\nCuando Fray Bartolomé Arrazola se sintió perdido aceptó que ya nada podría salvarlo. La selva poderosa de Guatemala lo había apresado, implacable y definitiva. Ante su ignorancia topográfica se sentó con tranquilidad a esperar la muerte. Al despertar se encontró rodeado por un grupo de indígenas de rostro impasible que se disponía a sacrificarlo ante un altar, un altar que a Bartolomé le pareció como el lecho en que descansaría, al fin, de sus temores, de su destino, de sí mismo. Tres años en el país le habían conferido un mediano dominio de las lenguas nativas. Intentó algo. Dijo algunas palabras que fueron comprendidas. Entonces floreció en él una idea que tuvo por digna de su talento y de su cultura universal y de su arduo conocimiento de Aristóteles. Recordó que para ese día se esperaba un eclipse total de sol. Y dispuso, en lo más íntimo, valerse de aquel conocimiento para engañar a sus opresores y salvar la vida. — Si me matáis — les dijo — puedo hacer que el sol se oscurezca en su altura.\n\nLos indígenas lo miraron fijamente y Bartolomé sorprendió la incredulidad en sus ojos. Vio que se produjo un pequeño consejo, y esperó confiado, no sin cierto desdén.\n\nDos horas después el corazón de Fray Bartolomé Arrazola chorreaba su sangre vehemente sobre la piedra de los sacrificios (¡brillante bajo la opaca luz de un sol eclipsado!), mientras uno de los indígenas recitaba sin ninguna inflexión de voz, sin prisa, una por una las infinitas fechas en que se producirían eclipses solares y lunares, que los astrónomos de la comunidad maia habían previsto y anotado en sus códices sin la valiosa ayuda de Aristóteles.\n\nMONTERROSO, A. Obras completas y otros cuentos. Bogotá: Norma, 1994 (adaptado).\n\nNo texto, confrontam-se duas visões de mundo: a da cultura ocidental, representada por Frei Bartolomé Arrazola, e a da mítica pré-hispânica, representada pela comunidade indígena maia. Segundo a narrativa,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os catequizadores espanhóis avalizam os saberes produzidos pelas comunidades indígenas hispano-americanas."
+      },
+      {
+        "letter": "B",
+        "text": "os indígenas da comunidade maia mostram-se perplexos diante da superioridade do conhecimento aristotélico do frei espanhol."
+      },
+      {
+        "letter": "C",
+        "text": "o catequizador espanhol Arrazola apresenta-se adaptado às culturas autóctones, ao promover a interlocução entre os conhecimentos aristotélico e indígena."
+      },
+      {
+        "letter": "D",
+        "text": "o episódio representa, de forma neutra, o significado do conhecimento ancestral indígena, quando comparado ao conhecimento ocidental."
+      },
+      {
+        "letter": "E",
+        "text": "os conhecimentos acadêmicos de Arrazola são insuficientes para salvá-lo da morte, ante a sabedoria astronômica da cultura maia."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O conto ironiza a suposta superioridade intelectual europeia diante dos povos originários americanos. Frei Bartolomé acreditava que seu saber aristotélico lhe permitiria enganar os indígenas ao fingir que provocaria um eclipse para se salvar. No entanto, os astrônomos maias já conheciam e haviam mapeado com precisão milenar os ciclos de eclipses em seus códices. Assim, o conhecimento acadêmico ocidental do frei mostrou-se inútil para salvá-lo, fazendo com que a alternativa E seja a correta.\n\nA alternativa A é incorreta, pois os colonizadores desdenhavam a sabedoria nativa em vez de avalizá-la. A alternativa B é incorreta, pois os maias não ficaram perplexos, demonstrando total domínio astronômico prévio. A alternativa C é incorreta, já que o frei tentou instrumentalizar a astronomia com arrogância e arrogou-se poder divino sobre os maias, não buscando diálogo. A alternativa D é incorreta, pois o texto não é neutro, construindo uma ironia crítica contundente contra a pretensa superioridade colonial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2017-q05",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "Israel Travel Guide\n\nIsrael has always been a standout destination. From the days of prophets to the modern day nomad this tiny slice of land on the eastern Mediterranean has long attracted visitors. While some arrive in the ‘Holy Land’ on a spiritual quest, many others are on cultural tours, beach holidays and eco-tourism trips. Weeding through Israel’s convoluted history is both exhilarating and exhausting. There are crumbling temples, ruined cities, abandoned forts and hundreds of places associated with the Bible. And while a sense of adventure is required, most sites are safe and easily accessible. Most of all, Israel is about its incredibly diverse population. Jews come from all over the world to live here, while about 20% of the population is Muslim. Politics are hard to get away from in Israel as everyone has an opinion on how to move the country forward — with a ready ear you’re sure to hear opinions from every side of the political spectrum.\nDisponível em: www.worldtravelguide.net. Acesso em: 15 jun. 2012.\n\nAntes de viajar, turistas geralmente buscam informações sobre o local para onde pretendem ir. O trecho do guia de viagens de Israel",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "descreve a história desse local para que turistas valorizem seus costumes milenares."
+      },
+      {
+        "letter": "B",
+        "text": "informa hábitos religiosos para auxiliar turistas a entenderem as diferenças culturais."
+      },
+      {
+        "letter": "C",
+        "text": "divulga os principais pontos turísticos para ajudar turistas a planejarem sua viagem."
+      },
+      {
+        "letter": "D",
+        "text": "recomenda medidas de segurança para alertar turistas sobre possíveis riscos locais."
+      },
+      {
+        "letter": "E",
+        "text": "apresenta aspectos gerais da cultura do país para continuar a atrair turistas estrangeiros."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O trecho do guia de viagens apresenta uma visão abrangente sobre Israel, destacando sua relevância histórica milenar, suas opções de turismo cultural, de praias e ecológico, além de sua diversidade étnico-religiosa e o ambiente político participativo. Ao expor esse panorama multifacetado da sociedade e dos atrativos israelenses, o texto cumpre a função de despertar o interesse e continuar a atrair visitantes internacionais, confirmando a alternativa E.\n\nA alternativa A é incorreta, pois a história é apenas um dos vários elementos apresentados pelo texto. A alternativa B é incorreta, visto que o texto não detalha práticas ou ritos religiosos específicos. A alternativa C é incorreta, pois o fragmento não enumera pontos turísticos específicos de forma a montar um roteiro de viagem detalhado. A alternativa D é incorreta, pois o trecho salienta inclusive que a maioria dos sítios é segura e de fácil acesso, não priorizando alertas de segurança.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2017-q09",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 9,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "TEXTO I\nTerezinha de Jesus\nDe uma queda foi ao chão\nAcudiu três cavalheiros\nTodos os três de chapéu na mão\nO primeiro foi seu pai\nO segundo, seu irmão\nO terceiro foi aquele\nA quem Tereza deu a mão\n\nBATISTA, M. F. B. M.; SANTOS, I. M. F. (Org.). Cancioneiro da Paraíba. João Pessoa: Grafset, 1993 (adaptado).\n\nTEXTO II\nOutra interpretação é feita a partir das condições sociais daquele tempo. Para a ama e para a criança para quem cantava a cantiga, a música falava do casamento como um destino natural na vida da mulher, na sociedade brasileira do século XIX, marcada pelo patriarcalismo. A música prepara a moça para o seu destino não apenas inexorável, mas desejável: o casamento, estabelecendo uma hierarquia de obediência (pai, irmão mais velho, marido), de acordo com a época e circunstâncias de sua vida.\n\nDisponível em: http://provsjose.blogspot.com.br. Acesso em: 5 dez. 2012.\n\nO comentário do Texto II sobre o Texto I evoca a mobilização da língua oral que, em determinados contextos,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "assegura a existência de pensamentos contrários à ordem vigente."
+      },
+      {
+        "letter": "B",
+        "text": "mantém a heterogeneidade das formas de relações sociais."
+      },
+      {
+        "letter": "C",
+        "text": "conserva a influência religiosa sobre certas culturas."
+      },
+      {
+        "letter": "D",
+        "text": "preserva a diversidade cultural e comportamental."
+      },
+      {
+        "letter": "E",
+        "text": "reforça comportamentos e padrões culturais."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Texto II demonstra como a cantiga de roda tradicional da tradição oral servia socialmente para condicionar as crianças ao modelo patriarcal do século XIX, naturalizando o casamento como destino inelutável e estabelecendo uma hierarquia de submissão da mulher em relação a homens (pai, irmão e marido). Logo, a língua oral veiculada pelas cantigas atuava no sentido de reforçar e reproduzir comportamentos e modelos culturais tradicionais vigentes, o que torna correta a alternativa E.\n\nA alternativa A é incorreta, pois a cantiga legitimava a ordem vigente patriarcal, em vez de contrariá-la. A alternativa B é incorreta, pois a função descrita era padronizar papéis sociais, não manter heterogeneidade. A alternativa C é incorreta, pois a análise do texto enfoca a organização patriarcal da família, sem menção a preceitos religiosos específicos. A alternativa D é incorreta, já que a cantiga promovia a reprodução de um modelo normativo único de conduta feminina.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q21",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 21,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte"
+    ],
+    "statement": "TEXTO I\n[[FIG1]]\nGOELDI, O. Sem título. Bico de pena, 29,4 x 24 cm. Coleção Ary Ferreira Macedo, circa 1940.\nDisponível em: https://revistacontemporartes.blogspot.com.br. Acesso em: 10 dez. 2012.\n\nTEXTO II\nNa sua produção, Goeldi buscou refletir seu caminho pessoal e político, sua melancolia e paixão sobre os intensos aspectos mais latentes em sua obra, como: cidades, peixes, urubus, caveiras, abandono, solidão, drama e medo.\nZULIETTI, L. F. Goeldi: da melancolia ao inevitável. Revista de Arte, Mídia e Política. Acesso em: 24 abr. 2017 (adaptado).\n\nO gravador Oswaldo Goeldi recebeu fortes influências de um movimento artístico europeu do início do século XX, que apresenta as características reveladas nos traços da obra de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Alfred Kubin, representante do Expressionismo.\n\nSonho e desarranjo, Alfred Kubin.",
+        "image": "data/figuras/enem-2017-q21-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "Henri Matisse, representante do Fauvismo.\n\nBailarina deitada, Henri Matisse",
+        "image": "data/figuras/enem-2017-q21-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "Diego Rivera, representante do Muralismo.\n\nMineiro, Diego Rivera.",
+        "image": "data/figuras/enem-2017-q21-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "Pablo Picasso, representante do Cubismo.\n\nRetrato de Igor Stravinsky, Pablo Picasso.",
+        "image": "data/figuras/enem-2017-q21-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "René Magritte, representante do Surrealismo.\n\nOs amantes, René Magritte.",
+        "image": "data/figuras/enem-2017-q21-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q21-1.webp",
+      "FIG2": "data/figuras/enem-2017-q21-2.webp",
+      "FIG3": "data/figuras/enem-2017-q21-3.webp",
+      "FIG4": "data/figuras/enem-2017-q21-4.webp",
+      "FIG5": "data/figuras/enem-2017-q21-5.webp",
+      "FIG6": "data/figuras/enem-2017-q21-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O texto teórico enfatiza que a obra de Oswaldo Goeldi reflete melancolia, medo, solidão, figuras fúnebres e drama. Essas marcas estéticas e temáticas angustiantes alinham-se profundamente aos preceitos do Expressionismo europeu. Historicamente, Goeldi sofreu influência determinante dos traços hachurados, densos e sombrios do artista expressionista austríaco Alfred Kubin, cuja gravura apresentada sintetiza o universo de pesadelo e desarranjo psíquico compartilhado por ambos, tornando correta a alternativa A.\n\nA alternativa B é incorreta, pois o Fauvismo de Matisse prioriza a pureza cromática e a leveza das formas decorativas. A alternativa C é incorreta, pois o Muralismo de Rivera possui caráter monumental e engajamento sociopolítico com traços sintéticos bem demarcados. A alternativa D é incorreta, pois o Cubismo de Picasso baseia-se na decomposição geométrica de múltiplos planos. A alternativa E é incorreta, pois o Surrealismo de Magritte trabalha com enigmas conceituais no espaço figurativo realista, e não com a angústia gráfica expressionista de Goeldi.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q22",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 22,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Variação Linguística"
+    ],
+    "statement": "TEXTO I\nA língua ticuna é o idioma mais falado entre os indígenas brasileiros. De acordo com o pesquisador Aryon Rodrigues, há 40 mil índios que falam o idioma. A maioria mora ao longo do Rio Solimões, no Alto Amazonas. É a maior nação indígena do Brasil, sendo também encontrada no Peru e na Colômbia. Os ticunas falam uma língua considerada isolada, que não mantém semelhança com nenhuma outra língua indígena e apresenta complexidades em sua fonologia e sintaxe. Sua característica principal é o uso de diferentes alturas na voz.\nO uso intensivo da língua não chega a ser ameaçado pela proximidade de cidades ou mesmo pela convivência com falantes de outras línguas no interior da própria área ticuna: nas aldeias, esses outros falantes são minoritários e acabam por se submeter à realidade ticuna, razão pela qual, talvez, não representem uma ameaça linguística.\nLíngua Portuguesa, n. 52, fev. 2010 (adaptado).\n\nTEXTO II\nRiqueza da língua\n“O inglês está destinado a ser uma língua mundial em sentido mais amplo do que o latim foi na era passada e o francês é na presente”, dizia o presidente americano John Adams no século XVIII. A profecia se cumpriu: o inglês é hoje a língua franca da globalização. No extremo oposto da economia linguística mundial, estão as línguas de pequenas comunidades declinantes. Calcula-se que hoje se falem de 6 000 a 7 000 línguas no mundo todo. Quase metade delas deve desaparecer nos próximos 100 anos. A última edição do Ethnologue — o mais abrangente estudo sobre as línguas mundiais —, de 2005, listava 516 línguas em risco de extinção.\nVeja, n. 36, set. 2007 (adaptado).\n\nOs textos tratam de línguas de culturas completamente diferentes, cujas realidades se aproximam em função do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "semelhança no modo de expansão."
+      },
+      {
+        "letter": "B",
+        "text": "preferência de uso na modalidade falada."
+      },
+      {
+        "letter": "C",
+        "text": "modo de organização das regras sintáticas."
+      },
+      {
+        "letter": "D",
+        "text": "predomínio em relação às outras línguas de contato."
+      },
+      {
+        "letter": "E",
+        "text": "fato de motivarem o desaparecimento de línguas minoritárias."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O Texto I relata que a língua ticuna, em sua área territorial, submete falantes minoritários de outros idiomas à sua realidade sem sofrer ameaça de dissolução. O Texto II aponta que o inglês opera como língua franca mundial na globalização, sobrepondo-se às demais línguas em escala planetária. Embora pertençam a escalas espaciais e históricas completamente diferentes, ambas as realidades convergem porque exercem predomínio e hegemonia em relação a outras línguas com as quais entram em contato em seus respectivos domínios, tornando correta a alternativa D.\n\nA alternativa A é incorreta, pois o inglês se expandiu pela colonização mundial e globalização econômica, enquanto o ticuna permanece restrito a sua comunidade tradicional amazônica. A alternativa B é incorreta, pois o inglês possui vasta produção e prestígio escrito internacional. A alternativa C é incorreta, já que o texto destaca a sintaxe isolada do ticuna, incompatível com a estrutura germânica do inglês. A alternativa E é incorreta, visto que o ticuna não causa o desaparecimento de outras línguas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q28",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 28,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.agenciapatriciagalvao.org.br. Acesso em: 15 maio 2017 (adaptado).\n\nCampanhas publicitárias podem evidenciar problemas sociais. O cartaz tem como finalidade",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "alertar os homens agressores sobre as consequências de seus atos."
+      },
+      {
+        "letter": "B",
+        "text": "conscientizar a população sobre a necessidade de denunciar a violência doméstica."
+      },
+      {
+        "letter": "C",
+        "text": "instruir as mulheres sobre o que fazer em casos de agressão."
+      },
+      {
+        "letter": "D",
+        "text": "despertar nas crianças a capacidade de reconhecer atos de violência doméstica."
+      },
+      {
+        "letter": "E",
+        "text": "exigir das autoridades ações preventivas contra a violência doméstica."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q28-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A peça publicitária utiliza um desenho infantil com traços de aflição nos filhos e na mãe para demonstrar que a agressão física afeta psicologicamente todo o núcleo familiar, retratando o pai como uma figura monstruosa. Na parte inferior, o comando verbal \"Ligue 180. Não se cale diante da violência doméstica\" orienta diretamente o leitor a quebrar o silêncio, cumprindo a finalidade precípua de conscientizar a sociedade sobre a gravidade do problema e incentivar a denúncia por meio do canal público. Portanto, a alternativa B está correta.\n\nA alternativa A é incorreta, pois o cartaz busca sensibilizar a sociedade para denunciar, e não dialogar diretamente com o agressor. A alternativa C é incorreta, já que o foco é convocar a denúncia geral contra a omissão, não fornecendo um protocolo instrutivo de defesa para mulheres. A alternativa D é incorreta, pois o desenho feito por criança é um recurso persuasivo voltado a adultos, e não um manual pedagógico para o público infantil. A alternativa E é incorreta, pois o texto não formula reivindicações ao poder público.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q34",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "[[FIG1]]\nÉpoca, n. 698, 3 out. 2011 (adaptado).\n\nOs textos publicitários são produzidos para cumprir determinadas funções comunicativas. Os objetivos desse cartaz estão voltados para a conscientização dos brasileiros sobre a necessidade de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "as crianças frequentarem a escola regularmente."
+      },
+      {
+        "letter": "B",
+        "text": "a formação leitora começar na infância."
+      },
+      {
+        "letter": "C",
+        "text": "a alfabetização acontecer na idade certa."
+      },
+      {
+        "letter": "D",
+        "text": "a literatura ter o seu mercado consumidor ampliado."
+      },
+      {
+        "letter": "E",
+        "text": "as escolas desenvolverem campanhas a favor da leitura."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q34-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A campanha publicitária Leia para uma criança incentiva o hábito da leitura desde os primeiros anos de vida, destacando que gostar de ler é o início de uma história cheia de descobertas e aprendizados. O objetivo central é conscientizar os adultos sobre a importância de introduzir os livros precocemente para construir a formação leitora da criança. Portanto, a alternativa B está correta. A alternativa A está incorreta pois o foco é a leitura no ambiente familiar, não a frequência escolar. A alternativa C é incorreta porque a campanha foca na mediação da leitura e no estímulo ao gosto pelos livros, não no processo formal de alfabetização. A alternativa D erra ao sugerir foco puramente comercial do mercado editorial. A alternativa E está errada porque a mensagem é direcionada ao público geral e às famílias, não apenas às instituições escolares.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q36",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte",
+      "Linguagens Artísticas"
+    ],
+    "statement": "[[FIG1]]\nVALENTIM, R. Emblema 78. Acrílico sobre tela. 73 x 100 cm. 1978.\nDisponível em: www.espacoarte.com.br. Acesso em: 2 ago. 2012.\n\nA obra de Rubem Valentim apresenta emblemas que, baseando-se em signos de religiões afro-brasileiras, se transformam em produção artística. A obra Emblema 78 relaciona-se com o Modernismo em virtude da",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "simplificação de formas da paisagem brasileira."
+      },
+      {
+        "letter": "B",
+        "text": "valorização de símbolos do processo de urbanização."
+      },
+      {
+        "letter": "C",
+        "text": "fusão de elementos da cultura brasileira com a arte europeia."
+      },
+      {
+        "letter": "D",
+        "text": "alusão aos símbolos cívicos presentes na bandeira nacional."
+      },
+      {
+        "letter": "E",
+        "text": "composição simétrica de elementos relativos à miscigenação racial."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q36-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A obra Emblema 78, de Rubem Valentim, combina formas geométricas abstratas — linguagem visual associada às vanguardas construtivas europeias do século XX — com a simbologia visual dos orixás e religiões de matriz africana no Brasil. Essa síntese reflete o ideal modernista brasileiro de assimilar e reinterpretar influências internacionais a partir de elementos da identidade cultural nacional. Por isso, a alternativa C está correta. A alternativa A está incorreta porque a obra não retrata paisagens naturais simplificadas. A alternativa B erra pois o foco não são os símbolos da urbanização, mas a religiosidade afro-brasileira. A alternativa D é incorreta porque o emblema não faz alusão direta à bandeira nacional. A alternativa E erra ao restringir a obra a uma composição simétrica sobre miscigenação racial, omitindo a fusão entre vertentes estéticas europeias e símbolos sagrados locais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q37",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Linguagens Artísticas"
+    ],
+    "statement": "[[FIG1]]\nERNESTO NETO. Dengo. 2010. MAM-SP, 2010.\nDisponível em: http://espacohumus.com. Acesso em: 25 abr. 2017.\n\nA instalação Dengo transformou a sala do MAM-SP em um ambiente singular, explorando como principal característica artística a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "participação do público na interação lúdica com a obra."
+      },
+      {
+        "letter": "B",
+        "text": "distribuição de obstáculos no espaço da exposição."
+      },
+      {
+        "letter": "C",
+        "text": "representação simbólica de objetos oníricos."
+      },
+      {
+        "letter": "D",
+        "text": "interpretação subjetiva da lei da gravidade."
+      },
+      {
+        "letter": "E",
+        "text": "valorização de técnicas de artesanato."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q37-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A instalação Dengo, de Ernesto Neto, utiliza estruturas suspensas em crochê que transformam o espaço do museu em um ambiente sensorial e participativo. A proposta central do artista é convidar o espectador a entrar, tocar e interagir de forma lúdica com a obra, rompendo a distância tradicional entre público e arte. Assim, a alternativa A está correta. A alternativa B está incorreta porque os elementos não são meros obstáculos, mas convites ao engajamento. A alternativa C erra ao focar em objetos oníricos, visto que a obra prioriza a experiência corporal e sensorial concreta. A alternativa D é incorreta porque, embora as peças pendam do teto, a intenção primária não é interpretar a gravidade. A alternativa E erra pois, embora use o crochê, o artesanato é um meio técnico, e não a principal característica artística explorada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q41",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 41,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Interpretação de Texto"
+    ],
+    "statement": "[[FIG1]]\nRevista Bolsa, 1986. In: CARRASCOZA, J. A. A evolução do texto publicitário: a associação de palavras como elemento de sedução na publicidade. São Paulo: Futura, 1999 (adaptado).\n\nNesse cartaz publicitário de uma empresa de papel e celulose, a combinação dos elementos verbais e não verbais visa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "justificar os prejuízos ao meio ambiente, ao vincular a empresa à difusão da cultura."
+      },
+      {
+        "letter": "B",
+        "text": "incentivar a leitura de obras literárias, ao referir-se a títulos consagrados do acervo mundial."
+      },
+      {
+        "letter": "C",
+        "text": "seduzir o consumidor, ao relacionar o anunciante às histórias clássicas da literatura universal."
+      },
+      {
+        "letter": "D",
+        "text": "promover uma reflexão sobre a preservação ambiental ao aliar o desmatamento aos clássicos da literatura."
+      },
+      {
+        "letter": "E",
+        "text": "construir uma imagem positiva do anunciante, ao associar a exploração alegadamente sustentável à produção de livros."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q41-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O anúncio de papel e celulose associa a imagem de uma floresta cultivada a títulos renomados da literatura mundial, sugerindo que das árvores plantadas nascem os clássicos de grandes autores. Essa estratégia publicitária visa criar um apelo ecológico e cultural favorável, promovendo uma imagem positiva e sustentável da empresa diante do consumidor. Assim, a alternativa E está correta. A alternativa A erra porque o anúncio não admite prejuízos ambientais. A alternativa B está incorreta pois o objetivo comercial do anúncio não é incentivar a leitura. A alternativa C erra ao focar apenas no desejo do consumidor, omitindo o propósito de valorização institucional da marca. A alternativa D é incorreta pois a propaganda não visa conscientizar contra o desmatamento, mas legitimá-lo como produção sustentável.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q43",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 43,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade",
+      "Linguagens Artísticas"
+    ],
+    "statement": "TEXTO I\n\n[[FIG1]]\nSPETO. Grafite. Museu Afro Brasil, 2009.\nDisponível em: www.diariosp.com.br. Acesso em: 25 set. 2015.\n\nTEXTO II\n\nSpeto\n\nPaulo César Silva, mais conhecido como Speto, é um grafiteiro paulista envolvido com o skate e a música. O fortalecimento de sua arte ocorreu, em 1999, pela oportunidade de ver de perto as referências que trazia há tempos, ao passar por diversas cidades do Norte do Brasil em uma turnê com a banda O Rappa.\n\nRevista Zupi, n. 19, 2010.\n\nO grafite do artista paulista Speto, exposto no Museu Afro Brasil, revela elementos da cultura brasileira reconhecidos",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "na influência da expressão abstrata."
+      },
+      {
+        "letter": "B",
+        "text": "na representação de lendas nacionais."
+      },
+      {
+        "letter": "C",
+        "text": "na inspiração das composições musicais."
+      },
+      {
+        "letter": "D",
+        "text": "nos traços marcados pela xilogravura nordestina."
+      },
+      {
+        "letter": "E",
+        "text": "nos usos característicos de grafismos dos skates."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q43-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O grafite de Speto no Museu Afro Brasil utiliza contornos marcantes, traços pretos espessos sobre fundo claro e estética figurativa inspirada diretamente nas gravuras em madeira tradicionais do Nordeste (xilogravuras), que ilustram a literatura de cordel. Dessa forma, a obra resgata e valoriza uma linguagem gráfica profundamente ligada à identidade cultural brasileira. Portanto, a alternativa D está correta. A alternativa A está incorreta pois a representação é figurativa, e não abstrata. A alternativa B erra porque a imagem retrata figuras populares e cotidiano, não lendas. A alternativa C é incorreta porque, embora o texto mencione a música, os elementos visuais marcantes vêm da xilogravura. A alternativa E erra ao associar o estilo visual do mural aos grafismos do skate.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q59",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física",
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\n\n[[FIG2]]\nDisponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 (adaptado).\n\nAs temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o clima típico da seguinte cidade:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual."
+      },
+      {
+        "letter": "B",
+        "text": "Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano."
+      },
+      {
+        "letter": "C",
+        "text": "Mumbai (Índia), definido pelas chuvas monçônicas torrenciais."
+      },
+      {
+        "letter": "D",
+        "text": "Barcelona (Espanha), afetado por massas de ar seco."
+      },
+      {
+        "letter": "E",
+        "text": "Moscou (Rússia), influenciado pela localização geográfica em alta latitude."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q59-1.webp",
+      "FIG2": "data/figuras/enem-2017-q59-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O climograma apresenta temperaturas negativas nos meses de inverno (dezembro a março) e médias suaves no verão (julho), indicando elevada amplitude térmica anual. Além disso, as chuvas são bem distribuídas ao longo dos doze meses. Essas características são típicas do clima temperado continental de alta latitude, condizente com a localização de Moscou, na Rússia. Logo, a alternativa E está correta. A alternativa A está incorreta porque Cidade do Cabo fica no Hemisfério Sul, apresentando inverno no meio do ano. A alternativa B erra pois Sydney também está no Hemisfério Sul e possui clima mais ameno. A alternativa C é incorreta porque Mumbai apresenta clima tropical monçônico, com chuvas concentradas no verão asiático. A alternativa D erra pois Barcelona possui clima mediterrâneo, com verões secos e invernos mais suaves.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q71",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 71,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade",
+      "Geografia Agrária e Industrial"
+    ],
+    "statement": "[[FIG1]]\nTudo sobre a batalha de Belo Monte. Disponível em: http://arte.folha.uol.com.br. Acesso em: 10 jan. 2014.\n\nComparando os dados das hidrelétricas, uma característica territorial positiva de Belo Monte é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "reduzido espaço relativo inundado."
+      },
+      {
+        "letter": "B",
+        "text": "acentuado desnível do relevo local."
+      },
+      {
+        "letter": "C",
+        "text": "elevado índice de urbanização regional."
+      },
+      {
+        "letter": "D",
+        "text": "presença dos grandes parques industriais."
+      },
+      {
+        "letter": "E",
+        "text": "proximidade de fronteiras internacionais estratégicas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q71-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ao analisar o gráfico comparativo entre as maiores usinas hidrelétricas do Brasil, observa-se que Belo Monte possui uma potência instalada muito expressiva (11,2 mil MW), enquanto sua área alagada é de apenas 0,5 mil km². Essa relação resulta em um impacto ambiental menor por megawatt gerado quando comparada a reservatórios gigantescos como Tucuruí ou Sobradinho. Assim, a alternativa A está correta. A alternativa B está incorreta porque a região amazônica de Altamira apresenta relevo relativamente plano, necessitando de canais de desvio. A alternativa C erra pois a região possui baixa densidade populacional e urbanização. A alternativa D é incorreta visto que não há grandes parques industriais na região da usina. A alternativa E erra pois a usina não se localiza próxima a fronteiras internacionais estratégicas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
+  },
+  {
+    "id": "enem-2017-q90",
+    "exam": "enem",
+    "year": 2017,
+    "originalNumber": 90,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "História da Arte",
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "Figura 1\nRecorte fotográfico de Maria Bonita, década de 1930.\n\n[[FIG1]]\nABRAÃO, B. Disponível em: www.brasilcult.pro.br.\nAcesso em: 18 maio 2013.\n\nFigura 2\nTraje de coleção de Zuzu Angel.\n\n[[FIG2]]\nDisponível em: www.zuzuangel.com.br.\nAcesso em: 18 maio 2013.\n\nElaborada em 1969, a releitura contida na Figura 2 revela aspectos de uma trajetória e obra dedicadas à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "valorização de uma representação tradicional da mulher."
+      },
+      {
+        "letter": "B",
+        "text": "descaracterização de referências do folclore nordestino."
+      },
+      {
+        "letter": "C",
+        "text": "fusão de elementos brasileiros à moda da Europa."
+      },
+      {
+        "letter": "D",
+        "text": "massificação do consumo de uma arte local."
+      },
+      {
+        "letter": "E",
+        "text": "criação de uma estética de resistência."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2017-q90-1.webp",
+      "FIG2": "data/figuras/enem-2017-q90-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em 1969, em pleno regime militar no Brasil, a estilista Zuzu Angel inspirou-se na figura de Maria Bonita para criar um figurino que resgatava a imagem do cangaço como símbolo de rebeldia e coragem. Essa releitura transformou a moda em um veículo de protesto e denúncia política, consolidando uma estética de resistência. Portanto, a alternativa E está correta. A alternativa A está incorreta porque a imagem de Maria Bonita rompia com o papel feminino tradicional. A alternativa B erra pois a obra valoriza, e não descaracteriza, o folclore nordestino. A alternativa C é incorreta porque a criação busca raízes populares brasileiras, sem submissão à moda europeia. A alternativa D erra pois não se tratava de produção em massa ou comercialização em larga escala.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2017 – 1º dia, 1 - Azul"
+    }
   }
 ]
