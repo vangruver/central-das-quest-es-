@@ -121814,5 +121814,1163 @@
       "institution": "INEP",
       "note": "ENEM 2023 – 1º dia, 1"
     }
+  },
+  {
+    "id": "enem-2023-q97",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 97,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\nConsidere: R = 0,082 (L · atm)/(mol · K)\n\nA pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "756."
+      },
+      {
+        "letter": "B",
+        "text": "533."
+      },
+      {
+        "letter": "C",
+        "text": "76."
+      },
+      {
+        "letter": "D",
+        "text": "53."
+      },
+      {
+        "letter": "E",
+        "text": "13."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para determinar a pressão no interior do frasco, utiliza-se a Equação de Clapeyron: P · V = n · R · T.\nOs dados fornecidos são:\nV = 100 mL = 0,1 L\nn = 0,1 mol\nT = 650 °C = 650 + 273 = 923 K\nR = 0,082 (L · atm)/(mol · K)\n\nSubstituindo os valores na equação:\nP · 0,1 = 0,1 · 0,082 · 923\nP = 0,082 · 923 = 75,686 atm ≈ 76 atm.\nPortanto, a pressão mais próxima é 76 atm, o que torna a alternativa C correta.\n\nAs alternativas A, B, D e E trazem valores incorretos decorrentes de erros de conversão de unidades, como o esquecimento da conversão de Celsius para Kelvin ou de mililitros para litros.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q98",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 98,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L₁, L₂ e L₃) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L₂ queima, enquanto as demais permanecem acesas.\n\n[[FIG1]]\n\nEm relação à situação em que todas as lâmpadas funcionam, após a queima de L₂, os brilhos das lâmpadas serão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "os mesmos."
+      },
+      {
+        "letter": "B",
+        "text": "mais intensos."
+      },
+      {
+        "letter": "C",
+        "text": "menos intensos."
+      },
+      {
+        "letter": "D",
+        "text": "menos intenso para L₁ e o mesmo para L₃."
+      },
+      {
+        "letter": "E",
+        "text": "mais intenso para L₁ e menos intenso para L₃."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q98-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Inicialmente, o circuito é composto por três blocos idênticos em série, cada um formado por uma lâmpada em paralelo com um resistor R. Assim, a resistência equivalente de cada bloco é a mesma, dividindo a tensão total igualmente entre os três blocos.\nQuando a lâmpada L₂ queima, o ramo de L₂ é interrompido. No bloco intermediário, resta apenas a resistência R. Como a resistência em paralelo era menor que R, a resistência equivalente desse segundo bloco aumenta. Consequentemente, a resistência total do circuito aumenta, o que reduz a corrente total fornecida pela fonte.\nCom uma corrente total menor passando pelos blocos 1 e 3, a diferença de potencial sobre eles diminui. Como a tensão sobre as lâmpadas L₁ e L₃ é a mesma de seus respectivos blocos, essa tensão cai, fazendo com que a potência dissipada por elas diminua. Logo, o brilho de ambas se torna menos intenso, confirmando a alternativa C.\n\nA alternativa A é incorreta pois a queima altera a resistência total do circuito. A alternativa B é incorreta pois a corrente total diminui. As alternativas D e E estão erradas porque os blocos 1 e 3 permanecem simétricos e sofrem a mesma alteração.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q119",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 119,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Termologia"
+    ],
+    "statement": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P₀ no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T₀. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).\n\nDurante o processo de resfriamento, os valores de pressão em relação à temperatura (P × T) são representados pelo gráfico:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2023-q119-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2023-q119-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2023-q119-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2023-q119-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2023-q119-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q119-1.webp",
+      "FIG2": "data/figuras/enem-2023-q119-2.webp",
+      "FIG3": "data/figuras/enem-2023-q119-3.webp",
+      "FIG4": "data/figuras/enem-2023-q119-4.webp",
+      "FIG5": "data/figuras/enem-2023-q119-5.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "De acordo com o enunciado, o volume dos pneus e a quantidade de gás no interior permanecem constantes durante o resfriamento. Trata-se, portanto, de uma transformação isovolumétrica (ou isocórica) de um gás ideal.\nPela lei dos gases ideais, para volume e número de mols constantes, a relação entre pressão e temperatura absoluta é direta e linear: P/T = constante, ou P = k · T. Isso significa que o gráfico de P em função de T (em kelvin) deve ser um segmento de reta cuja projeção passa pela origem (0, 0).\nComo o processo é de resfriamento, a temperatura diminui de T₀ para T, e proporcionalmente a pressão diminui de P₀ para um valor inferior, seguindo o sentido da seta de T₀ para T sobre a reta. Esse comportamento é fielmente representado na Figura 5, correspondente à alternativa E.\n\nA alternativa A mostra um processo com etapas intermediárias não descritas no texto. A alternativa B mostra uma transformação isobárica. As alternativas C e D mostram um aumento de pressão com a diminuição da temperatura, violando a lei dos gases.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q129",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 129,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Geral e Inorgânica",
+      "Físico-Química"
+    ],
+    "statement": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg₂(NO₃)₂ dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg₂Cl₂ tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\nHg₂(NO₃)₂ (aq) + 2 NaCl (aq) ⟶ Hg₂Cl₂ (s) + 2 NaNO₃ (aq)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n[[FIG1]]\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg₂Cl₂ obtida em cada frasco. A massa molar do Hg₂(NO₃)₂ é 525 g mol⁻¹, a do NaCl é 58 g mol⁻¹ e a do Hg₂Cl₂ é 472 g mol⁻¹.\n\nQual foi o gráfico obtido pelo assistente de laboratório?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2023-q129-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2023-q129-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2023-q129-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2023-q129-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2023-q129-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q129-1.webp",
+      "FIG2": "data/figuras/enem-2023-q129-2.webp",
+      "FIG3": "data/figuras/enem-2023-q129-3.webp",
+      "FIG4": "data/figuras/enem-2023-q129-4.webp",
+      "FIG5": "data/figuras/enem-2023-q129-5.webp",
+      "FIG6": "data/figuras/enem-2023-q129-6.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela estequiometria da reação dada: 1 mol de Hg₂(NO₃)₂ reage com 2 mol de NaCl produzindo 1 mol de Hg₂Cl₂.\nCada frasco contém 5,25 g de Hg₂(NO₃)₂. Calculando a quantidade de matéria:\nn = 5,25 g / 525 g/mol = 0,01 mol de Hg₂(NO₃)₂.\nPara consumir totalmente esse reagente, são necessários:\n0,01 · 2 = 0,02 mol de NaCl.\nA massa correspondente de NaCl é: m = 0,02 mol · 58 g/mol = 1,16 g.\nA massa de Hg₂Cl₂ formada nessa condição estequiométrica máxima é: m(Hg₂Cl₂) = 0,01 mol · 472 g/mol = 4,72 g.\nAssim, de 0 até 1,16 g de NaCl adicionado, a massa de precipitado cresce linearmente a partir da origem (0 g de NaCl geram 0 g de Hg₂Cl₂). A partir de 1,16 g de NaCl, todo o nitrato de mercúrio(I) já reagiu (reagente limitante), e a massa de Hg₂Cl₂ permanece constante em aproximadamente 4,7 g.\nEssa curva que parte de (0;0), cresce até x = 1,16 g com y ≈ 4,7 g e depois se mantém horizontal é exatamente a da Figura 3, portanto a alternativa B é a correta.\n\nA alternativa A tem o ponto de inflexão em torno de 0,58 g. A alternativa C não apresenta o platô limite. As alternativas D e E não partem da origem.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q132",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 132,
+    "day": 2,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n[[FIG1]]\n\nSe o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q132-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Os microrganismos decompositores (bactérias e fungos) têm como papel fundamental degradar a matéria orgânica presente nos detritos (restos orgânicos e excretas), convertendo o nitrogênio orgânico em amônia. Esse processo é chamado de amonificação, indicado na figura pela etapa 2 (a seta que vai de 'Detritos' para 'Amônia').\nPortanto, na ausência dos organismos decompositores, a etapa 2 deixaria de ocorrer, o que valida a alternativa B.\n\nA alternativa A é incorreta pois a etapa 1 representa a fixação biológica do nitrogênio atmosférico, realizada por bactérias fixadoras. A alternativa C é incorreta pois a etapa 3 é a nitrosação, realizada por bactérias nitrosantes. A alternativa D é incorreta pois a etapa 4 é a nitratação, realizada por bactérias nitratantes. A alternativa E é incorreta pois a etapa 5 é a desnitrificação, realizada por bactérias desnitrificantes.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q134",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 134,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n[[FIG1]]\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n[[FIG2]]\n\nO princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "fenacetina."
+      },
+      {
+        "letter": "B",
+        "text": "paracetamol."
+      },
+      {
+        "letter": "C",
+        "text": "dipirona sódica."
+      },
+      {
+        "letter": "D",
+        "text": "diclofenaco sódico."
+      },
+      {
+        "letter": "E",
+        "text": "butilbrometo de escopolamina."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q134-1.webp",
+      "FIG2": "data/figuras/enem-2023-q134-2.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O enunciado informa que o ibuprofeno apresenta quiralidade e isomeria óptica devido à presença de um carbono quiral (assimétrico) — ligado a -H, -CH₃, -COOH e ao anel aromático.\nPara apresentar o mesmo tipo de isomeria espacial (isomeria óptica), a molécula precisa ter pelo menos um carbono assimétrico (ligado a quatro ligantes distintos) ou centro quiral.\nAnalisando as estruturas:\n- Fenacetina e Paracetamol: possuem apenas carbonos trigonais planares (anel e carbonila) ou sp³ com três hidrogênios (-CH₃), não apresentando carbono quiral.\n- Dipirona sódica: não possui carbono sp³ com quatro grupos diferentes.\n- Diclofenaco sódico: o único carbono sp³ alifático é um grupo -CH₂-, ligado a dois hidrogênios, logo não quiral.\n- Butilbrometo de escopolamina: possui carbonos assimétricos, como o carbono ligado à hidroxila, ao hidrogênio, ao grupo fenil e à porção éster, além do arranjo espacial no esqueleto tropânico.\nLogo, o butilbrometo de escopolamina apresenta isomeria óptica, estando correta a alternativa E.\n\nAs alternativas A, B, C e D são incorretas pois nenhuma dessas estruturas possui carbono assimétrico ou assimetria molecular capaz de gerar atividade óptica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q137",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 137,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n[[FIG1]]\n\nOs cabos de aço formam um ângulo α com o plano do chão.\n\nPor medida de segurança, há apenas três opções de instalação:\n\n• opção I: h = 11 m e α = 30°\n• opção II: h = 12 m e α = 45°\n• opção III: h = 18 m e α = 60°\n\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.\n\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22√3 / 3",
+        "image": "data/figuras/enem-2023-q137-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "11√2"
+      },
+      {
+        "letter": "C",
+        "text": "12√2"
+      },
+      {
+        "letter": "D",
+        "text": "12√3"
+      },
+      {
+        "letter": "E",
+        "text": "22"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q137-1.webp",
+      "FIG2": "data/figuras/enem-2023-q137-2.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Em cada triângulo retângulo formado pelo mastro vertical, pelo solo e pelo cabo esticado de comprimento C, temos:\nsen(α) = h / C  ⟹  C = h / sen(α).\nCalculando o comprimento C para cada opção:\n• Opção I: h = 11 m e α = 30°:\nC₁ = 11 / sen(30°) = 11 / 0,5 = 22 m.\n• Opção II: h = 12 m e α = 45°:\nC₂ = 12 / sen(45°) = 12 / (√2 / 2) = 24 / √2 = 12√2 m ≈ 12 · 1,414 = 16,97 m.\n• Opção III: h = 18 m e α = 60°:\nC₃ = 18 / sen(60°) = 18 / (√3 / 2) = 36 / √3 = 12√3 m ≈ 12 · 1,732 = 20,78 m.\n\nA menor medida possível para os cabos é a da Opção II, igual a 12√2 metros. Portanto, a alternativa correta é a C.\n\nAs alternativas A, D e E trazem medidas maiores que 12√2 (aproximadamente 12,7 m para a opção A se fosse viável, 20,78 m para a D e 22 m para a E), não correspondendo à menor opção das três configurações dadas. A alternativa B traz um valor inexistente nas opções.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q138",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n[[FIG1]]\n\nEssa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.\n\nA escala em que essa tela representa as medidas reais é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1 : 5."
+      },
+      {
+        "letter": "B",
+        "text": "1 : 11."
+      },
+      {
+        "letter": "C",
+        "text": "1 : 55."
+      },
+      {
+        "letter": "D",
+        "text": "1 : 5 000."
+      },
+      {
+        "letter": "E",
+        "text": "1 : 500 000."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q138-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A tela do instrumento mostra uma malha quadriculada em que cada quadradinho mede 1 cm de lado. Observando a altura do gráfico na tela, a maior altitude alcançada corresponde a 1 quadradinho, ou seja, 1 cm no desenho.\nO enunciado estabelece que a maior altitude real alcançada pelo avião foi de 5 km.\nPara encontrar a escala, convertemos ambas as medidas para a mesma unidade (centímetros):\n5 km = 5 · 1 000 m = 5 000 m\n5 000 m = 5 000 · 100 cm = 500 000 cm.\nA escala é a razão entre a distância no desenho e a distância real:\nEscala = 1 cm / 500 000 cm = 1 : 500 000.\nLogo, a alternativa correta é a E.\n\nAs alternativas A, B, C e D apresentam erros de conversão de unidades ou utilizam medidas do eixo horizontal (como a contagem do número de divisões) sem a devida correspondência à altitude dada no enunciado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q139",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n[[FIG1]]\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n[[FIG2]]\n\nO dia da semana em que será comemorado o aniversário é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "segunda-feira."
+      },
+      {
+        "letter": "B",
+        "text": "terça-feira."
+      },
+      {
+        "letter": "C",
+        "text": "quarta-feira."
+      },
+      {
+        "letter": "D",
+        "text": "quinta-feira."
+      },
+      {
+        "letter": "E",
+        "text": "sexta-feira."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q139-1.webp",
+      "FIG2": "data/figuras/enem-2023-q139-2.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Calcula-se o gasto calórico total para cada dia da semana multiplicando as horas de cada atividade pelo seu respectivo gasto calórico por hora (Caminhar: 248 cal/h; Correr: 764 cal/h; Bicicleta: 356 cal/h; Futebol: 492 cal/h):\n• Segunda-feira: 1,0 · 248 + 0,5 · 764 + 0,0 · 356 + 2,0 · 492 = 248 + 382 + 984 = 1 614 cal.\n• Terça-feira: 0,5 · 248 + 1,0 · 764 + 0,5 · 356 + 1,0 · 492 = 124 + 764 + 178 + 492 = 1 558 cal.\n• Quarta-feira: 0,0 · 248 + 1,5 · 764 + 1,0 · 356 + 0,5 · 492 = 1 146 + 356 + 246 = 1 748 cal.\n• Quinta-feira: 2,0 · 764 = 1 528 cal.\n• Sexta-feira: 0,5 · 764 + 2,5 · 492 = 382 + 1 230 = 1 612 cal.\n\nO maior valor ocorre na quarta-feira (1 748 cal), logo o aniversário será comemorado na quarta-feira, correspondendo à alternativa C.\n\nAs alternativas A, B, D e E trazem dias com consumo calórico inferior: 1 614 cal (segunda), 1 558 cal (terça), 1 528 cal (quinta) e 1 612 cal (sexta).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q143",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 143,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.\n\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\n\nUm maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.\n\nA unidade de medida da grandeza descrita pelo parâmetro EC é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "min / (mL · kg)",
+        "image": "data/figuras/enem-2023-q143-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "mL / (min · kg)",
+        "image": "data/figuras/enem-2023-q143-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "(min · mL) / kg",
+        "image": "data/figuras/enem-2023-q143-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "(min · kg) / mL",
+        "image": "data/figuras/enem-2023-q143-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "(mL · kg) / min",
+        "image": "data/figuras/enem-2023-q143-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q143-1.webp",
+      "FIG2": "data/figuras/enem-2023-q143-2.webp",
+      "FIG3": "data/figuras/enem-2023-q143-3.webp",
+      "FIG4": "data/figuras/enem-2023-q143-4.webp",
+      "FIG5": "data/figuras/enem-2023-q143-5.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O parâmetro de economia de corrida (EC) é definido pela razão entre o consumo de oxigênio por minuto e a massa do atleta.\nO consumo de oxigênio por minuto possui unidade expressa por mililitro por minuto: mL/min.\nA massa do atleta é dada em quilogramas: kg.\nPortanto, a razão é expressa por:\nEC = (mL / min) / kg = mL / (min · kg).\nEssa unidade corresponde à indicada na alternativa B.\n\nA alternativa A inverte a razão entre o volume e o tempo/massa. As alternativas C, D e E trazem produtos e quocientes incorretos entre essas três grandezas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q145",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n[[FIG1]]\n\nComparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mediana = média < moda."
+      },
+      {
+        "letter": "B",
+        "text": "mediana = moda < média."
+      },
+      {
+        "letter": "C",
+        "text": "mediana < média < moda."
+      },
+      {
+        "letter": "D",
+        "text": "moda < média < mediana."
+      },
+      {
+        "letter": "E",
+        "text": "moda < mediana < média."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q145-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Para comparar as medidas da distribuição, analisamos o gráfico de frequências:\n- Viagens (x): 1, 2, 3, 4, 6, 7 (5 viagens tem frequência 0)\n- Número de motoristas (f): 10, 10, 55, 25, 50, 10, totalizando 160 motoristas.\n\nModa: É o valor de maior frequência, que é 3 viagens (com 55 motoristas). Logo, Moda = 3.\n\nMediana: Corresponde à média entre o 80º e o 81º termo do rol ordenado.\nFrequência acumulada:\nAté 1: 10\nAté 2: 20\nAté 3: 75\nAté 4: 100\nComo as posições 80 e 81 estão no intervalo de 4 viagens, Mediana = 4.\n\nMédia: É a média ponderada das viagens pelos motoristas:\nMédia = (1·10 + 2·10 + 3·55 + 4·25 + 6·50 + 7·10) / 160\nMédia = (10 + 20 + 165 + 100 + 300 + 70) / 160 = 665 / 160 ≈ 4,16.\n\nComparando os valores obtidos:\n3 < 4 < 4,16, ou seja, moda < mediana < média.\nPortanto, a alternativa correta é a E.\n\nAs alternativas A, B, C e D erram as relações de ordem entre essas três medidas estatísticas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q147",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 147,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q₁ representa a posição de um jogador que está com a bola, os pontos Q₂, Q₃, Q₄, Q₅ e Q₆ também indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q₁ tem a posse da bola, que será passada para um dos outros jogadores das posições Qₙ, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ̂ₙB tenha a mesma medida do ângulo α = AQ̂₁B.\n\n[[FIG1]]\n\nQual é o jogador que receberá a bola?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Q₂"
+      },
+      {
+        "letter": "B",
+        "text": "Q₃"
+      },
+      {
+        "letter": "C",
+        "text": "Q₄"
+      },
+      {
+        "letter": "D",
+        "text": "Q₅"
+      },
+      {
+        "letter": "E",
+        "text": "Q₆"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q147-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para que dois pontos no mesmo semiplano em relação ao segmento AB enxerguem a trave (segmento AB) sob o mesmo ângulo visual α, eles devem pertencer ao mesmo arco capaz relativo a AB. Geometricamente, o arco capaz é uma circunferência (ou arco de circunferência) que passa pelos pontos A e B. Pela Lei dos Senos aplicada ao triângulo AQ₁B, temos que sen(α) = AB / (2R), em que R é o raio da circunferência circunscrita. Assim, o ângulo α depende exclusivamente do raio da circunferência que passa por A, B e pelo jogador. Observando a figura, cada circunferência tracejada passa pelos pontos A e B. Ao acompanhar o traçado da circunferência que passa pelo ponto Q₁, nota-se que ela também passa pelo ponto Q₃. Portanto, o ângulo AQ₃B tem exatamente a mesma medida do ângulo AQ₁B = α, indicando que o jogador a receber a bola é Q₃ (alternativa B).\n\nAs demais alternativas estão incorretas pois os jogadores Q₂, Q₄, Q₅ e Q₆ encontram-se em circunferências tracejadas distintas daquela em que está Q₁, possuindo raios diferentes e, consequentemente, ângulos visuais diferentes de α em relação à trave AB.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q148",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 148,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Álgebra"
+    ],
+    "statement": "O triângulo da figura é denominado triângulo mágico. Nos círculos, escrevem-se os números de 1 a 6, sem repetição, com um número em cada círculo. O objetivo é distribuir os números de forma que as somas dos números em cada lado do triângulo sejam iguais.\n\n[[FIG1]]\n\nConsidere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\n\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7."
+      },
+      {
+        "letter": "B",
+        "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9."
+      },
+      {
+        "letter": "C",
+        "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9."
+      },
+      {
+        "letter": "D",
+        "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12."
+      },
+      {
+        "letter": "E",
+        "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q148-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Os números de 1 a 6 somam 1 + 2 + 3 + 4 + 5 + 6 = 21.\nSeja S a soma dos números em cada um dos 3 lados, e V a soma dos três vértices. Como cada vértice pertence a 2 lados, somando os 3 lados temos:\n3S = 21 + V  ⟹  S = (21 + V) / 3 = 7 + V/3.\nPara que S seja inteiro, V deve ser múltiplo de 3.\nOs vértices estão em P.A. de razão 2. As possíveis trincas de números distintos escolhidos de {1, 2, 3, 4, 5, 6} em P.A. de razão 2 são:\n1) {1, 3, 5}: V = 1 + 3 + 5 = 9. Como 9 é divisível por 3, temos S = 7 + 9/3 = 10. Os números restantes para o meio dos lados são {2, 4, 6}. Podemos parear: lado (1, 6, 3) soma 10; lado (3, 2, 5) soma 10; lado (5, 4, 1) soma 10. Essa solução é válida.\n2) {2, 4, 6}: V = 2 + 4 + 6 = 12. Como 12 é divisível por 3, temos S = 7 + 12/3 = 11. Os números restantes são {1, 3, 5}. Podemos parear: lado (2, 5, 4) soma 11; lado (4, 1, 6) soma 11; lado (6, 3, 2) soma 11. Essa solução também é válida.\nAssim, há somente duas soluções possíveis, com somas iguais a 10 e 11, tornando correta a alternativa E.\n\nAs alternativas A, B, C e D indicam somas incorretas (como 7, 9 ou 12), que violam a partição dos números dados ou a condição de P.A. de razão 2.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q153",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n[[FIG1]]\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.\n\nO gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2023-q153-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2023-q153-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2023-q153-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2023-q153-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2023-q153-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q153-1.webp",
+      "FIG2": "data/figuras/enem-2023-q153-2.webp",
+      "FIG3": "data/figuras/enem-2023-q153-3.webp",
+      "FIG4": "data/figuras/enem-2023-q153-4.webp",
+      "FIG5": "data/figuras/enem-2023-q153-5.webp",
+      "FIG6": "data/figuras/enem-2023-q153-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O movimento da cadeira é circular e uniforme, com velocidade angular constante ω. A altura h(t) em relação ao solo em função do tempo t é dada por uma função senoidal (harmônica simples):\nh(t) = h_centro + R · cos(ωt),\nonde h_centro é a altura do eixo e R é o raio da roda-gigante. No instante t = 0, a cadeira está na posição mais alta (h = h_max). À medida que o tempo passa, h(t) decresce suavemente até atingir a altura mínima (ponto mais baixo) e em seguida volta a subir até o ponto máximo, completando um ciclo senoidal suave e contínuo com concavidades arredondadas nos máximos e mínimos.\nEsse formato é perfeitamente retratado no gráfico senoidal da Figura 2, o que corresponde à alternativa A.\n\nAs alternativas B, C, D e E trazem gráficos formados por segmentos retilíneos (com velocidade vertical constante) ou com cúspides (bicos) nos pontos de inversão, o que não representa o movimento harmônico proveniente da projeção vertical do movimento circular.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q154",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 154,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade.\n\n[[FIG1]]\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.\n\nQual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10"
+      },
+      {
+        "letter": "B",
+        "text": "20"
+      },
+      {
+        "letter": "C",
+        "text": "30"
+      },
+      {
+        "letter": "D",
+        "text": "50"
+      },
+      {
+        "letter": "E",
+        "text": "70"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q154-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A amostra é composta por 10 estudantes. As médias informadas no enunciado são:\n- Média da massa corporal: 80 kg\n- Média da altura: 1,65 m\n\nBuscamos o percentual de estudantes com massa corporal menor que 80 kg e altura estritamente maior que 1,65 m.\nNo gráfico de dispersão, isso corresponde à região onde x < 80 e y > 1,65:\n- Estudante em (50; 1,60): altura < 1,65 m.\n- Estudante em (55; 1,65): altura = 1,65 m (não é acima da média).\n- Estudante em (60; 1,65): altura = 1,65 m (não é acima da média).\n- Estudante em (65; 1,68): massa < 80 kg e altura > 1,65 m (atende ao critério).\n- Estudante em (68; 1,70): massa < 80 kg e altura > 1,65 m (atende ao critério).\nOs demais 5 estudantes têm massa corporal superior a 80 kg.\nPortanto, exatamente 2 dos 10 estudantes atendem a ambas as condições simultaneamente.\nO percentual correspondente é:\n(2 / 10) · 100% = 20%.\nLogo, a alternativa correta é a B.\n\nA alternativa A consideraria apenas 1 aluno. A alternativa C incluiria indevidamente alunos sobre a linha da média. As alternativas D e E consideram parcelas bem maiores do conjunto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q158",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.\n\nAs probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/50 e 1/60"
+      },
+      {
+        "letter": "B",
+        "text": "1/50 e 1/50"
+      },
+      {
+        "letter": "C",
+        "text": "1/50 e 1/10"
+      },
+      {
+        "letter": "D",
+        "text": "1/55 e 1/54"
+      },
+      {
+        "letter": "E",
+        "text": "1/100 e 1/100"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para o candidato 50 ser sorteado, o algarismo das unidades deve ser 0, cuja probabilidade na primeira urna é 1/10. Os números de 01 a 55 terminados em 0 são 10, 20, 30, 40 e 50, logo a segunda urna conterá 5 bolas (1, 2, 3, 4 e 5). A probabilidade de sair a dezena 5 é 1/5. Assim, a probabilidade conjunta para o 50 é (1/10) * (1/5) = 1/50.\nPara o candidato 02, o algarismo das unidades deve ser 2, com probabilidade de 1/10. Os números de 01 a 55 terminados em 2 são 02, 12, 22, 32, 42 e 52, colocando 6 bolas na segunda urna (0, 1, 2, 3, 4 e 5). Para o 02 ser sorteado, a dezena deve ser 0, com probabilidade de 1/6. A probabilidade conjunta para o 02 é (1/10) * (1/6) = 1/60. Portanto, a alternativa A está correta.\nA alternativa B erra ao considerar que a segunda urna teria 5 opções em ambos os casos. A C erra o cálculo da segunda probabilidade. As alternativas D e E utilizam modelos de espaço amostral que ignoram a dinâmica das urnas descrita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q159",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 159,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Álgebra"
+    ],
+    "statement": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo L₀ a intensidade na sua superfície.\n\n[[FIG1]]\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.\n\nA intensidade luminosa correspondente à profundidade de 6 m é igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1/9 L₀"
+      },
+      {
+        "letter": "B",
+        "text": "16/27 L₀"
+      },
+      {
+        "letter": "C",
+        "text": "32/243 L₀"
+      },
+      {
+        "letter": "D",
+        "text": "64/729 L₀"
+      },
+      {
+        "letter": "E",
+        "text": "128/2187 L₀"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q159-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A intensidade luminosa diminui com a profundidade seguindo uma progressão geométrica em que a cada metro a intensidade é multiplicada pela razão 2/3. A 0 m temos L0, a 1 m temos (2/3) L0, a 2 m temos (4/9) L0 = (2/3)^2 L0 e a 3 m temos (8/27) L0 = (2/3)^3 L0.\nGeneralizando o padrão para a profundidade de 6 metros, a intensidade luminosa é dada por L(6) = L0 * (2/3)^6.\nCalculando as potências de numerador e denominador:\n2^6 = 64\n3^6 = 729\nAssim, a intensidade luminosa a 6 m de profundidade é igual a 64/729 L0, o que torna a alternativa D correta.\nA alternativa A supõe uma redução incorreta. A alternativa B calcula a intensidade correspondente a uma profundidade menor. A alternativa C calcula (2/3)^5 L0, que seria referente a 5 m. A alternativa E calcula (2/3)^7 L0, que corresponderia a 7 m de profundidade.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q160",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 160,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão V(x) = x²/4 − 10x + 105, em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário V₀ arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n• Ótimo: V₀ ≥ 24\n• Bom: 20 ≤ V₀ < 24\n• Normal: 10 ≤ V₀ < 20\n• Ruim: 4 ≤ V₀ < 10\n• Péssimo: V₀ < 4\n\nNo caso analisado, qual seria a classificação do desempenho da empresa?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Ótimo."
+      },
+      {
+        "letter": "B",
+        "text": "Bom."
+      },
+      {
+        "letter": "C",
+        "text": "Normal."
+      },
+      {
+        "letter": "D",
+        "text": "Ruim."
+      },
+      {
+        "letter": "E",
+        "text": "Péssimo."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A função V(x) = x^2/4 - 10x + 105 é quadrática com coeficiente a = 1/4 > 0, tendo concavidade voltada para cima. O valor mínimo de arrecadação ocorre no vértice da parábola:\nxv = -b / (2a) = -(-10) / (2 * 1/4) = 10 / 0,5 = 20.\nComo x = 20 está dentro do intervalo dos dias do mês (1 a 30), calculamos o montante mínimo V0 = V(20):\nV(20) = (20^2)/4 - 10(20) + 105 = 400/4 - 200 + 105 = 100 - 200 + 105 = 5 milhares de reais.\nAnalisando as categorias de classificação dadas no enunciado, como 4 <= 5 < 10, o desempenho da empresa enquadra-se na categoria Ruim, o que confirma a alternativa D.\nA alternativa A está incorreta, pois Ótimo exige V0 >= 24. A alternativa B requer 20 <= V0 < 24. A alternativa C exige 10 <= V0 < 20. A alternativa E classifica apenas valores estritamente menores que 4.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q162",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 162,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n[[FIG1]]\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.\n\nEm quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "6"
+      },
+      {
+        "letter": "D",
+        "text": "7"
+      },
+      {
+        "letter": "E",
+        "text": "9"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q162-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No gráfico, a criptomoeda A está no eixo horizontal e a criptomoeda B no eixo vertical. A criptomoeda A estava mais valorizada que a B nos instantes em que o valor da coordenada horizontal é estritamente maior que o da coordenada vertical (A > B).\nAnalisando as coordenadas (A, B) nos 9 instantes:\n9 h: (3; 0,5) -> A > B (1º instante)\n10 h: (2; 2) -> A = B\n11 h: (4; 4) -> A = B\n12 h: (5,5; 3) -> A > B (2º instante)\n13 h: (6; 1,5) -> A > B (3º instante)\n14 h: (3,5; 2) -> A > B (4º instante)\n15 h: (2,5; 4) -> A < B\n16 h: (1; 5) -> A < B\n17 h: (0,5; 3,5) -> A < B\nConclui-se que em exatamente 4 instantes a moeda A esteve mais valorizada do que a moeda B, validando a alternativa B.\nA alternativa A subestima os instantes. As alternativas C, D e E erram por incluir momentos de igualdade (como 10 h e 11 h) ou por inverter a leitura das moedas nos eixos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q167",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 167,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (t), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2023-q167-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2023-q167-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2023-q167-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2023-q167-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2023-q167-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q167-1.webp",
+      "FIG2": "data/figuras/enem-2023-q167-2.webp",
+      "FIG3": "data/figuras/enem-2023-q167-3.webp",
+      "FIG4": "data/figuras/enem-2023-q167-4.webp",
+      "FIG5": "data/figuras/enem-2023-q167-5.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O gráfico deve descrever o volume de água acumulado em função do tempo.\nNos primeiros 3 segundos, a torneira libera água com vazão constante, de modo que o volume acumulado cresce linearmente a partir do zero até uma quantidade V.\nDos 3 aos 8 segundos (intervalo de 5 segundos), o fornecimento é interrompido. Nenhum volume adicional é liberado, logo o volume acumulado permanece constante no valor V, formando um patamar horizontal.\nDos 8 aos 11 segundos (intervalo de mais 3 segundos), a torneira volta a liberar água na mesma vazão, fazendo o volume acumulado crescer linearmente de V até 2V com a mesma inclinação da primeira etapa.\nEsse comportamento corresponde à FIG2, tornando correta a alternativa B.\nA alternativa A apresenta descontinuidade que não existe no acúmulo de volume. A alternativa C representa a vazão instantânea, não o volume acumulado. A alternativa D supõe fornecimento ininterrupto. A alternativa E zera o volume acumulado de forma errônea.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q168",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 168,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Álgebra"
+    ],
+    "statement": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n[[FIG1]]\nSegundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "okosa urapum urapum urapum e okosa okosa urapum urapum urapum."
+      },
+      {
+        "letter": "B",
+        "text": "okosa okosa urapum e okosa okosa okosa okosa urapum."
+      },
+      {
+        "letter": "C",
+        "text": "okosa okosa urapum e okosa okosa okosa urapum."
+      },
+      {
+        "letter": "D",
+        "text": "okosa urapum urapum e okosa urapum okosa urapum urapum."
+      },
+      {
+        "letter": "E",
+        "text": "okosa okosa urapum e okosa okosa okosa okosa."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q168-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Analisando a tirinha, nota-se que o sistema de contagem é baseado em agrupamentos de 2:\n1 é urapum;\n2 é okosa;\n3 é 2 + 1, ou seja, okosa urapum;\n4 é 2 + 2, ou seja, okosa okosa;\n6 é 2 + 2 + 2, ou seja, okosa okosa okosa.\nO número 5 corresponde a 2 + 2 + 1, devendo ser representado por okosa okosa urapum.\nO número 7 corresponde a 2 + 2 + 2 + 1, devendo ser representado por okosa okosa okosa urapum.\nAssim, a alternativa C expressa corretamente ambas as representações.\nA alternativa A falha por repetir urapum em vez de agrupar em okosa. A alternativa B traz okosa okosa okosa okosa urapum para o 7, o que equivaleria a 9. A alternativa D inverte e fragmenta a ordem das palavras. A alternativa E traz okosa okosa okosa okosa, que representaria o número 8.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q172",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 172,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana",
+      "Funções"
+    ],
+    "statement": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n[[FIG1]]\nA vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2023-q172-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2023-q172-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2023-q172-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2023-q172-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2023-q172-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q172-1.webp",
+      "FIG2": "data/figuras/enem-2023-q172-2.webp",
+      "FIG3": "data/figuras/enem-2023-q172-3.webp",
+      "FIG4": "data/figuras/enem-2023-q172-4.webp",
+      "FIG5": "data/figuras/enem-2023-q172-5.webp",
+      "FIG6": "data/figuras/enem-2023-q172-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O vigilante desloca-se a uma velocidade constante durante 30 minutos.\nNos primeiros 10 minutos, sua distância até a base cresce linearmente de 0 a 3 km, indicando que ele percorre uma trajetória retilínea afastando-se da base (segmento radial).\nDos 10 aos 20 minutos, a distância em relação à base permanece constante e igual a 3 km. Como ele continua se deslocando com velocidade constante, a trajetória percorrida deve ser um arco de circunferência de raio 3 km centrado na base.\nDos 20 aos 30 minutos, a distância à base decresce linearmente de 3 km até 0 km, o que corresponde a um retorno em linha reta até a base (outro segmento radial).\nA junção desses três movimentos forma um setor circular fechado, como mostrado na FIG2, validando a alternativa A.\nAs alternativas B, C e E apresentam trechos retos onde a distância à base variaria em vez de se manter constante em 3 km. A alternativa D omite o trajeto percorrido entre os minutos 10 e 20.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q176",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 176,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n[[FIG1]]\nPor quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "10"
+      },
+      {
+        "letter": "D",
+        "text": "14"
+      },
+      {
+        "letter": "E",
+        "text": "24"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q176-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Ficar sem receber sinal de internet corresponde aos momentos em que a intensidade do sinal no gráfico é igual a zero, ou seja, quando a curva coincide com o eixo horizontal do tempo.\nObservando o gráfico:\nO primeiro período com intensidade nula ocorre de t = 10 min a t = 12 min, totalizando 12 - 10 = 2 minutos.\nO segundo período com intensidade nula ocorre de t = 16 min a t = 20 min, totalizando 20 - 16 = 4 minutos.\nSomando a duração desses dois intervalos:\n2 min + 4 min = 6 minutos.\nLogo, a alternativa A é a correta.\nA alternativa B erra ao contabilizar os momentos em que o sinal estava diminuindo. As alternativas C e D superestimam o tempo sem sinal incluindo trechos em que a intensidade era baixa, porém positiva (como entre 6 e 8 min). A alternativa E indicaria praticamente quase todo o tempo de percurso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q178",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 178,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Geometria Plana"
+    ],
+    "statement": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n[[FIG1]]\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.\nA área a ser revestida em cerâmica, em metro quadrado, mede",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,20."
+      },
+      {
+        "letter": "B",
+        "text": "1,35."
+      },
+      {
+        "letter": "C",
+        "text": "1,65."
+      },
+      {
+        "letter": "D",
+        "text": "1,80."
+      },
+      {
+        "letter": "E",
+        "text": "1,95."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q178-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A área total a ser revestida em cerâmica é a soma das superfícies dos pisos, dos espelhos e das duas paredes laterais da escada:\nPisos: 3 retângulos de 1,0 m por 0,25 m, cuja área é 3 * (1,0 * 0,25) = 0,75 m².\nEspelhos: 3 retângulos de 1,0 m por 0,20 m, cuja área é 3 * (1,0 * 0,20) = 0,60 m².\nParedes laterais: cada lateral é formada por três faixas verticais de base 0,25 m e alturas 0,20 m, 0,40 m e 0,60 m. A área de uma parede lateral é 0,25 * (0,20 + 0,40 + 0,60) = 0,25 * 1,20 = 0,30 m². Como o texto cita as paredes laterais no plural, calculam-se as duas faces: 2 * 0,30 = 0,60 m².\nSomando todas as partes revestidas:\n0,75 + 0,60 + 0,60 = 1,95 m².\nPortanto, a alternativa E está correta.\nA alternativa A calcula apenas o dobro da área dos espelhos. A alternativa B (1,35 m²) esquece ambas as paredes laterais. A alternativa C (1,65 m²) considera apenas uma parede lateral. A alternativa D comete erro na adição das medidas dos degraus.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2023-q179",
+    "exam": "enem",
+    "year": 2023,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.\n[[FIG1]]\nNesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente.\nA poltrona dessa pessoa é a identificada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "A6."
+      },
+      {
+        "letter": "B",
+        "text": "H1."
+      },
+      {
+        "letter": "C",
+        "text": "H6."
+      },
+      {
+        "letter": "D",
+        "text": "I1."
+      },
+      {
+        "letter": "E",
+        "text": "I6."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2023-q179-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A pessoa está na escada da esquerda, na altura da fileira E, virada para o norte.\nSubindo a escada na direção norte por mais quatro fileiras, ela avança sucessivamente pelas fileiras F (1ª), G (2ª), H (3ª) e atinge a fileira I (4ª fileira).\nParada na escada da esquerda na fileira I e olhando para a sua direita, ela observa o bloco central de assentos, composto pelas posições de 4 a 9.\nA contagem das poltronas à direita a partir do corredor é:\n1ª poltrona à direita: posição 4;\n2ª poltrona à direita: posição 5;\n3ª poltrona à direita: posição 6.\nPortanto, a poltrona procurada é a I6, confirmando a alternativa E.\nA alternativa A traz a fileira A, situada no sentido sul. As alternativas B e C indicam a fileira H, que corresponderia a subir apenas 3 fileiras. A alternativa D aponta a poltrona I1, que fica no bloco à esquerda da escada e não à direita.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2023 – 2º dia, 5 Amarelo"
+    }
   }
 ]
