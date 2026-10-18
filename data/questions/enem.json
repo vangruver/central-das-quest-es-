@@ -96095,5 +96095,782 @@
       "institution": "INEP",
       "note": "ENEM 2013 – 2º dia, CADERNO 7 - AZUL"
     }
+  },
+  {
+    "id": "enem-2014-q05",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Trabalho e Sociedade"
+    ],
+    "statement": "[[FIG1]]\nNEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.\n\nConsiderando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ideia de progresso."
+      },
+      {
+        "letter": "B",
+        "text": "concentração do capital."
+      },
+      {
+        "letter": "C",
+        "text": "noção de sustentabilidade."
+      },
+      {
+        "letter": "D",
+        "text": "organização dos sindicatos."
+      },
+      {
+        "letter": "E",
+        "text": "obsolescência dos equipamentos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q05-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O cartum retrata uma inversão e substituição do trabalho humano pela tecnologia, onde um homem trabalha engraxando os sapatos de um robô diante de uma placa com os dizeres 'NÃO HÁ VAGAS'. A charge critica de forma irônica a substituição do trabalho humano por máquinas e o desemprego estrutural decorrente desse processo, demonstrando um pessimismo quanto à ideia de que o avanço tecnológico e o progresso trazem benefício social para todos. As demais alternativas estão incorretas pois a charge não aborda a concentração do capital financeiro, a questão da sustentabilidade ambiental, a atuação dos sindicatos ou a obsolescência de equipamentos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q16",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 16,
+    "day": 1,
+    "subjectId": "artes",
+    "topics": [
+      "Multiculturalismo e Identidade"
+    ],
+    "statement": "Queijo de Minas vira patrimônio cultural brasileiro\n\nO modo artesanal da fabricação do queijo em Minas Gerais foi registrado nesta quinta-feira (15) como patrimônio cultural imaterial brasileiro pelo Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan). O veredicto foi dado em reunião do conselho realizada no Museu de Artes e Ofícios, em Belo Horizonte. O presidente do Iphan e do conselho ressaltou que a técnica de fabricação artesanal do queijo está “inserida na cultura do que é ser mineiro”.\nFolha de S. Paulo, 15 maio 2008.\n\nEntre os bens que compõem o patrimônio nacional, o que pertence à mesma categoria citada no texto está representado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Mosteiro de São Bento (RJ)",
+        "image": "data/figuras/enem-2014-q16-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "Tiradentes esquartejado (1893), de Pedro Américo",
+        "image": "data/figuras/enem-2014-q16-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "Ofício das paneleiras de Goiabeiras (ES)",
+        "image": "data/figuras/enem-2014-q16-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "Conjunto arquitetônico e urbanístico da cidade de Ouro Preto (MG)",
+        "image": "data/figuras/enem-2014-q16-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "Sítio arqueológico e paisagístico da Ilha do Campeche (SC)",
+        "image": "data/figuras/enem-2014-q16-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q16-1.webp",
+      "FIG2": "data/figuras/enem-2014-q16-2.webp",
+      "FIG3": "data/figuras/enem-2014-q16-3.webp",
+      "FIG4": "data/figuras/enem-2014-q16-4.webp",
+      "FIG5": "data/figuras/enem-2014-q16-5.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto trata do registro do modo artesanal de fabricação do queijo de Minas como patrimônio cultural imaterial do Brasil. Bens imateriais dizem respeito aos saberes, modos de fazer, celebrações e expressões da tradição cultural. O 'Ofício das paneleiras de Goiabeiras' (ES) representa um saber e modo de fazer tradicional, pertencendo exatamente à mesma categoria de patrimônio imaterial. As alternativas A, B, D e E estão incorretas porque apresentam patrimônios materiais, tais como construções arquitetônicas, obras de arte pictóricas, conjuntos urbanísticos ou sítios paisagísticos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q17",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "sociologia",
+    "topics": [
+      "Cidadania e Democracia"
+    ],
+    "statement": "[[FIG1]]\nPAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014.\n\nA discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Civis, como o direito à vida, à liberdade de expressão e à propriedade."
+      },
+      {
+        "letter": "B",
+        "text": "Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância."
+      },
+      {
+        "letter": "C",
+        "text": "Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável."
+      },
+      {
+        "letter": "D",
+        "text": "Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa."
+      },
+      {
+        "letter": "E",
+        "text": "Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q17-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A charge faz referência aos direitos sociais garantidos pela Constituição Federal de 1988 em seu Artigo 6º, que incluem moradia, alimentação, saúde, educação, trabalho, segurança e assistência aos desamparados. A ironia da cartunista decorre do contraste entre a previsão legal desses direitos e a realidade de exclusão vivida por muitos brasileiros. As alternativas A, C, D e E estão incorretas pois citam direitos civis (liberdade, propriedade), difusos (meio ambiente), coletivos ou políticos (voto e participação eleitoral), que não correspondem aos elementos destacados na fala dos personagens (moradia, comida, saúde).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q34",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 34,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.banktrack.org. Acesso em: 7 maio 2013 (adaptado).\n\nA imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Expansão das áreas agricultáveis, com uso intensivo de maquinário e insumos agrícolas."
+      },
+      {
+        "letter": "B",
+        "text": "Recuperação de águas eutrofizadas em decorrência da contaminação por esgoto doméstico."
+      },
+      {
+        "letter": "C",
+        "text": "Ampliação da capacidade de geração de energia, com alteração do ecossistema local."
+      },
+      {
+        "letter": "D",
+        "text": "Impermeabilização do solo pela construção civil nas áreas de expansão urbana."
+      },
+      {
+        "letter": "E",
+        "text": "Criação recente de grandes parques industriais de mediano potencial poluidor."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q34-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os pontos destacados no mapa correspondem a grandes empreendimentos de infraestrutura energética no Brasil, tais como as usinas hidrelétricas na Bacia Amazônica (Belo Monte no Pará, Jirau e Santo Antônio em Rondônia) e usinas nucleares/térmicas no Rio de Janeiro. Tais obras ampliam a capacidade de geração de energia no país, gerando impactos e alterações nos ecossistemas locais. As alternativas A, B, D e E estão incorretas pois esses pontos específicos no mapa não indicam expansão agrícola, tratamento de esgoto, obras de impermeabilização urbana nem zonas estritamente industriais.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q36",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 36,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.telescopionaescola.pro.br. Acesso em: 3 abr. 2014 (adaptado).\n\nA partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "separação da Pangeia a partir do período Permiano."
+      },
+      {
+        "letter": "B",
+        "text": "deslocamento de fraturas no período Triássico."
+      },
+      {
+        "letter": "C",
+        "text": "afastamento da Europa no período Jurássico."
+      },
+      {
+        "letter": "D",
+        "text": "formação do Atlântico Sul no período Cretáceo."
+      },
+      {
+        "letter": "E",
+        "text": "constituição de orogêneses no período Quaternário."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q36-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao analisar a sequência temporal apresentada na imagem, verifica-se que no período Cretáceo (cerca de 65 milhões de anos atrás) ocorre a separação entre a América do Sul e a África, culminando no surgimento do Oceano Atlântico Sul e da cordilheira mesoatlântica (Dorsal Mesoatlântica). As demais alternativas estão incorretas porque a separação inicial da Pangeia (Permiano/Triássico) ou formações em outros períodos não marcam a abertura específica do Atlântico Sul representada na etapa 4.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q37",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 37,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geopolítica"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.ipea.gov.br. Acesso em: 2 ago. 2013.\n\nNa imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "adotarem o liberalismo político na dinâmica dos seus setores públicos."
+      },
+      {
+        "letter": "B",
+        "text": "constituírem modelos de ações decisórias vinculadas à social-democracia."
+      },
+      {
+        "letter": "C",
+        "text": "instituírem fóruns de discussão sobre intercâmbio multilateral de economias emergentes."
+      },
+      {
+        "letter": "D",
+        "text": "promoverem a integração representativa dos diversos povos integrantes de seus territórios."
+      },
+      {
+        "letter": "E",
+        "text": "apresentarem uma frente de desalinhamento político aos polos dominantes do sistema-mundo."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q37-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Os países destacados no mapa em tom mais escuro são Brasil, Rússia, Índia, China e África do Sul, componentes do bloco informal conhecido como BRICS. Esse grupo reúne grandes economias emergentes com o objetivo de fortalecer a cooperação mútua e constituir fóruns de discussão sobre intercâmbio econômico, financeiro e político no cenário global. As alternativas A, B, D e E estão incorretas pois o BRICS não é um bloco focado em liberalismo homogêneo, social-democracia, integração étnico-cultural ou desalinhamento total no estilo da Guerra Fria.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q38",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 38,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Meio Ambiente e Sustentabilidade"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://sys2.sbgf.org.br. Acesso em: 13 maio 2013 (adaptado).\n\nA preservação da sustentabilidade do recurso natural exposto pressupõe",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "impedir a perfuração de poços."
+      },
+      {
+        "letter": "B",
+        "text": "coibir o uso pelo setor residencial."
+      },
+      {
+        "letter": "C",
+        "text": "substituir as leis ambientais vigentes."
+      },
+      {
+        "letter": "D",
+        "text": "reduzir o contingente populacional na área."
+      },
+      {
+        "letter": "E",
+        "text": "introduzir a gestão participativa entre os municípios."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q38-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Aquífero Alter do Chão abrange territórios de múltiplos municípios nos estados do Amazonas, Pará e Amapá. Como se trata de uma reserva subterrânea contínua de água doce, sua preservação requer uma gestão participativa e integrada entre os diferentes municípios e esferas de governo para evitar a superexploração e a contaminação. As alternativas A, B, C e D apresentam medidas inadequadas ou irrealistas, como proibir totalmente a perfuração de poços ou reduzir a população da região.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q55",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 55,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).\n\n[[FIG1]]\n\nNessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.\n\nAo final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "69 120."
+      },
+      {
+        "letter": "B",
+        "text": "17 280."
+      },
+      {
+        "letter": "C",
+        "text": "11 520."
+      },
+      {
+        "letter": "D",
+        "text": "8 640."
+      },
+      {
+        "letter": "E",
+        "text": "2 880."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q55-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Com a ducha instalada a 6 metros abaixo do nível da água, a pressão estática é de 6 mca. Consultando o gráfico, a essa pressão corresponde uma vazão de 12 L/min. A casa possui 4 pessoas, e cada uma toma 1 banho diário de 8 minutos durante 30 dias. O tempo total de uso da ducha é 4 x 1 x 8 x 30 = 960 minutos. O volume total consumido é 960 min x 12 L/min = 11.520 litros. As alternativas A, B, D e E decorrem de erros nos cálculos das multiplicações ou da leitura incorreta da vazão no gráfico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q57",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 57,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um sistema de iluminação foi construído com um circuito de três lâmpadas iguais conectadas a um gerador (G) de tensão constante. Esse gerador possui uma chave que pode ser ligada nas posições A ou B.\n\n[[FIG1]]\n\nConsiderando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "B, pois a corrente será maior nesse caso."
+      },
+      {
+        "letter": "B",
+        "text": "B, pois a potência total será maior nesse caso."
+      },
+      {
+        "letter": "C",
+        "text": "A, pois a resistência equivalente será menor nesse caso."
+      },
+      {
+        "letter": "D",
+        "text": "B, pois o gerador fornecerá uma maior tensão nesse caso."
+      },
+      {
+        "letter": "E",
+        "text": "A, pois a potência dissipada pelo gerador será menor nesse caso."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q57-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Na posição A, a chave conecta diretamente o polo negativo aos terminais comuns das lâmpadas 1 e 3. Assim, as lâmpadas 1 e 3 ficam em paralelo ligadas diretamente à tensão total do gerador G (enquanto a lâmpada 2 fica em circuito aberto). Nessa configuração, a resistência equivalente é R/2. Na posição B, a lâmpada 2 entra em série com o conjunto em paralelo de 1 e 3, resultando em uma resistência equivalente maior (1,5 R) e reduzindo a tensão sobre a lâmpada 1. Logo, na posição A a resistência equivalente é menor e a lâmpada 1 submete-se à tensão máxima, brilhando mais. As opções A, B, D e E afirmam incorretamente sobre a posição B ou justificam erroneamente a posição A.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q62",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 62,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Físico-Química"
+    ],
+    "statement": "Um sistema de pistão contendo um gás é mostrado na figura. Sobre a extremidade superior do êmbolo, que pode movimentar-se livremente sem atrito, encontra-se um objeto. Através de uma chapa de aquecimento é possível fornecer calor ao gás e, com auxílio de um manômetro, medir sua pressão. A partir de diferentes valores de calor fornecido, considerando o sistema como hermético, o objeto elevou-se em valores Δh, como mostrado no gráfico. Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e V.\n\n[[FIG1]]\n\nA diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "maior pressão de vapor."
+      },
+      {
+        "letter": "B",
+        "text": "menor massa molecular."
+      },
+      {
+        "letter": "C",
+        "text": "maior compressibilidade."
+      },
+      {
+        "letter": "D",
+        "text": "menor energia de ativação."
+      },
+      {
+        "letter": "E",
+        "text": "menor capacidade calorífica."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q62-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "No experimento de expansão isobárica (pressão constante mantida pelo peso do êmbolo e objeto), a variação de volume (e consequentemente de altura Delta h) está relacionada à variação de temperatura decorrente do calor absorvido: Q = n x Cp x Delta T. Para uma mesma quantidade de calor fornecida Q, quanto menor for a capacidade calorífica (Cp) do gás, maior será o aumento de sua temperatura Delta T e, portanto, maior será o deslocamento Delta h do êmbolo. Como o gás M apresenta uma maior inclinação no gráfico (maior Delta h por calor fornecido), conclui-se que o gás M possui menor capacidade calorífica que o gás V. As demais alternativas não justificam diretamente a relação entre calor fornecido e expansão volumétrica.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q63",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 63,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Ecologia"
+    ],
+    "statement": "A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.\n\n[[FIG1]]\n\nO processo citado está representado na etapa",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q63-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "A espécie nitrogenada mais oxidada no ciclo é o nox do nitrato (NO3-), onde o nitrogênio possui nox +5. A desnitrificação consiste na conversão/redução do nitrato (NO3-) a nitrogênio gasoso (N2), realizada por bactérias desnitrificantes para fechar o ciclo. No diagrama, a passagem de NO3- para N2 é representada na etapa V. As etapas I (fixação), II (amonação), III e IV (nitrificação/nitritação e nitratação) representam outros processos do ciclo do nitrogênio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q64",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 64,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "O pêndulo de Newton pode ser constituído por cinco pêndulos idênticos suspensos em um mesmo suporte. Em um dado instante, as esferas de três pêndulos são deslocadas para a esquerda e liberadas, deslocando-se para a direita e colidindo elasticamente com as outras duas esferas, que inicialmente estavam paradas.\n\n[[FIG1]]\n\nO movimento dos pêndulos após a primeira colisão está representado em:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2014-q64-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2014-q64-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2014-q64-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2014-q64-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2014-q64-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q64-1.webp",
+      "FIG2": "data/figuras/enem-2014-q64-2.webp",
+      "FIG3": "data/figuras/enem-2014-q64-3.webp",
+      "FIG4": "data/figuras/enem-2014-q64-4.webp",
+      "FIG5": "data/figuras/enem-2014-q64-5.webp",
+      "FIG6": "data/figuras/enem-2014-q64-6.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O pêndulo de Newton opera segundo os princípios da conservação da quantidade de movimento e da energia cinética em colisões perfeitamente elásticas entre massas iguais. Ao abandonar 3 esferas à esquerda, a quantidade de movimento transmitida através do conjunto faz com que exatamente 3 esferas se desloquem para a direita com a mesma velocidade das esferas incidentes, enquanto as 2 esferas restantes permanecem em repouso no centro. Esse comportamento está corretamente ilustrado na Figura 4 (correspondente à alternativa C). As demais alternativas mostram um número incorreto de esferas em movimento ou direções equivocadas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q65",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 65,
+    "day": 1,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fármaco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo substituintes planares são inativas.\n\nO grupo responsável pela bioatividade desse fármaco é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2014-q65-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2014-q65-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2014-q65-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2014-q65-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2014-q65-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q65-1.webp",
+      "FIG2": "data/figuras/enem-2014-q65-2.webp",
+      "FIG3": "data/figuras/enem-2014-q65-3.webp",
+      "FIG4": "data/figuras/enem-2014-q65-4.webp",
+      "FIG5": "data/figuras/enem-2014-q65-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A questão busca identificar entre as opções o grupo funcional que possui geometria não planar. O anel ciclohexano (Figura 1) é formado por carbonos com hibridização sp3, adotando conformações tridimensionais (como a cadeira) e sendo, portanto, não planar. Por outro lado, as figuras 2 (tiofeno), 3 (ciclobutadieno), 4 (benzeno) e 5 (grupo formila/carbonila) possuem geometria planar devido às ligações duplas e hibridizações sp2. Assim, a opção A é a correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q72",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 72,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "O funcionamento dos geradores de usinas elétricas baseia-se no fenômeno da indução eletromagnética, descoberto por Michael Faraday no século XIX. Pode-se observar esse fenômeno ao se movimentar um ímã e uma espira em sentidos opostos com módulo da velocidade igual a v, induzindo uma corrente elétrica de intensidade i, como ilustrado na figura.\n\n[[FIG1]]\n\nA fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "esquerda e o ímã para a direita com polaridade invertida."
+      },
+      {
+        "letter": "B",
+        "text": "direita e o ímã para a esquerda com polaridade invertida."
+      },
+      {
+        "letter": "C",
+        "text": "esquerda e o ímã para a esquerda com mesma polaridade."
+      },
+      {
+        "letter": "D",
+        "text": "direita e manter o ímã em repouso com polaridade invertida."
+      },
+      {
+        "letter": "E",
+        "text": "esquerda e manter o ímã em repouso com mesma polaridade."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q72-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pela Lei de Lenz, a corrente induzida opõe-se à variação do fluxo magnético. Na situação inicial, o polo Norte do ímã aponta para a espira e a distância entre eles aumenta, reduzindo o fluxo apontado para a direita. Para manter essa mesma corrente induzida, deve-se gerar idêntica variação de fluxo. Na alternativa A, invertendo a polaridade (polo Sul voltado para a espira, campo para a esquerda) e aproximando a espira e o ímã (espira para a esquerda e ímã para a direita), o campo magnético para a esquerda aumenta, o que induz um campo para a direita para opor-se ao aumento, resultando exatamente no mesmo sentido de corrente induzida i. As outras alternativas geram correntes em sentido oposto ou nulas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q74",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 74,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Genética"
+    ],
+    "statement": "[[FIG1]]\n\nNo heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.\n\nQual é o padrão de herança observado para essa doença?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "Dominante autossômico, pois a doença aparece em ambos os sexos."
+      },
+      {
+        "letter": "B",
+        "text": "Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos."
+      },
+      {
+        "letter": "C",
+        "text": "Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos."
+      },
+      {
+        "letter": "D",
+        "text": "Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença."
+      },
+      {
+        "letter": "E",
+        "text": "Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q74-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Ao analisar o heredograma, nota-se que todos os homens afetados (quadrados pretos) transmitem a condição para 100% de suas filhas mulheres, enquanto nenhum de seus filhos homens é afetado. Isso ocorre porque o pai transmite obrigatoriamente seu único cromossomo X afetado às filhas, e o cromossomo Y aos filhos. Esse padrão é característico da herança dominante ligada ao cromossomo X. As alternativas A, B, C e E estão incorretas pois não explicam a transmissão afetando obrigatoriamente todas as filhas de pais afetados nem a ausência de transmissão de pai para filho homem.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q82",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 82,
+    "day": 1,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "Um professor utiliza essa história em quadrinhos para discutir com os estudantes o movimento de satélites. Nesse sentido, pede a eles que analisem o movimento do coelhinho, considerando o módulo da velocidade constante.\n[[FIG1]]\nSOUSA, M. Cebolinha, n. 240, jun. 2006.\nDesprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "nulo."
+      },
+      {
+        "letter": "B",
+        "text": "paralelo à sua velocidade linear e no mesmo sentido."
+      },
+      {
+        "letter": "C",
+        "text": "paralelo à sua velocidade linear e no sentido oposto."
+      },
+      {
+        "letter": "D",
+        "text": "perpendicular à sua velocidade linear e dirigido para o centro da Terra."
+      },
+      {
+        "letter": "E",
+        "text": "perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q82-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A aceleração tangencial é a componente da aceleração responsável por alterar o módulo da velocidade de um corpo. Como o enunciado estabelece que o módulo da velocidade do coelhinho é mantido constante em seu movimento circular ao redor da Terra, a taxa de variação do módulo da velocidade em relação ao tempo é igual a zero. Por essa razão, a aceleração tangencial do coelhinho é nula, confirmando a alternativa A como correta. A alternativa B descreve um movimento acelerado, enquanto a alternativa C descreve um movimento retardado, situações nas quais a velocidade variaria em módulo. Já as alternativas D e E referem-se a componentes perpendiculares à velocidade linear, o que caracteriza a aceleração centrípeta, e não a aceleração tangencial solicitada pelo enunciado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2014-q85",
+    "exam": "enem",
+    "year": 2014,
+    "originalNumber": 85,
+    "day": 1,
+    "subjectId": "biologia",
+    "topics": [
+      "Fisiologia Humana",
+      "Saúde Pública e Epidemiologia"
+    ],
+    "statement": "Imunobiológicos:\ndiferentes formas de produção, diferentes aplicações\n[[FIG1]]\nEmbora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conferem imunidade passiva."
+      },
+      {
+        "letter": "B",
+        "text": "transferem células de defesa."
+      },
+      {
+        "letter": "C",
+        "text": "suprimem a resposta imunológica."
+      },
+      {
+        "letter": "D",
+        "text": "estimulam a produção de anticorpos."
+      },
+      {
+        "letter": "E",
+        "text": "desencadeiam a produção de antígenos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2014-q85-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O imunobiológico I representa uma vacina, composta por vírus ou bactérias, enquanto o imunobiológico II representa uma toxina ou veneno injetado no equino. Ambos atuam como antígenos, ou seja, agentes estranhos que ativam o sistema imune do organismo em que foram inoculados, estimulando a resposta imune primária e a produção ativa de anticorpos específicos. Por isso, a alternativa D está correta. A alternativa A está incorreta porque a imunização passiva é promovida pelo imunobiológico III (soro), que fornece anticorpos já prontos. A alternativa B está errada pois não há transferência de células de defesa. A alternativa C é incorreta porque esses compostos ativam a resposta imune, em vez de suprimi-la. A alternativa E está errada porque o organismo produz anticorpos ao reagir aos antígenos, e não produz antígenos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2014 – 1º dia, 1 - AZUL"
+    }
   }
 ]
