@@ -118521,5 +118521,1809 @@
       "institution": "INEP",
       "note": "ENEM 2021 – 1º dia, 1 AZUL"
     }
+  },
+  {
+    "id": "enem-2021-q94",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 94,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.\n\nROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações.\nQuímica Nova na Escola, n. 12, 2000 (adaptado).\n\nUm exemplo desse polímero é representado pela estrutura",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q94-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q94-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q94-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q94-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q94-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q94-1.webp",
+      "FIG2": "data/figuras/enem-2021-q94-2.webp",
+      "FIG3": "data/figuras/enem-2021-q94-3.webp",
+      "FIG4": "data/figuras/enem-2021-q94-4.webp",
+      "FIG5": "data/figuras/enem-2021-q94-5.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para que um polímero seja condutor de eletricidade, ele deve apresentar elétrons deslocalizados, o que ocorre pela presença de ligações duplas conjugadas (duplas alternadas com ligações simples) ao longo de toda a sua cadeia principal. Analisando as alternativas, a estrutura D representa o poliacetileno, cuja unidade de repetição (-CH=CH-) gera uma cadeia contínua com alternância regular de ligações simples e duplas (-CH=CH-CH=CH-), permitindo a deslocalização dos elétrons pi e, consequentemente, a condução elétrica. A alternativa D é a correta.\n\nA alternativa A está incorreta, pois a cadeia principal do poliestireno apresenta apenas ligações simples. A alternativa B está incorreta, pois contém grupos carbonila e a cadeia carbônica principal não possui duplas conjugadas. A alternativa C está incorreta, pois as ligações duplas do polibutadieno ficam intercaladas por duas ligações simples sucessivas (-CH2-CH2-), quebrando a conjugação. A alternativa E está incorreta, pois a presença de carbono quaternário saturado na cadeia principal interrompe a conjugação do polímero.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q99",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 99,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Ondulatória",
+      "Eletricidade"
+    ],
+    "statement": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindos do coração. A imagem apresenta o resultado típico obtido em um paciente saudável e a intensidade do sinal (V_EC) em função do tempo.\n\n[[FIG1]]\n\nDe acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30"
+      },
+      {
+        "letter": "B",
+        "text": "60"
+      },
+      {
+        "letter": "C",
+        "text": "100"
+      },
+      {
+        "letter": "D",
+        "text": "120"
+      },
+      {
+        "letter": "E",
+        "text": "180"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q99-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O eletrocardiograma apresenta o traçado de repetição dos batimentos cardíacos. Observando a escala horizontal, o segmento indicado com a marcação 0,2 s corresponde à largura de uma divisão da grade (1 quadrado grande). No retângulo tracejado, que delimita exatamente um ciclo cardíaco completo entre dois picos sucessivos da onda R, contam-se 5 quadrados de largura. Portanto, o período T de cada batimento é T = 5 × 0,2 s = 1,0 s. Como a frequência cardíaca expressa o número de batimentos por minuto (60 s), calcula-se f = 60 / T = 60 / 1,0 = 60 batimentos por minuto (bpm), o que torna a alternativa B correta.\n\nA alternativa A (30 bpm) consideraria incorretamente um período de 2,0 s (10 quadrados). A alternativa C (100 bpm) assumiria um período de 0,6 s. A alternativa D (120 bpm) resultaria de considerar um período de 0,5 s. A alternativa E (180 bpm) decorreria de um cálculo errôneo do período em torno de 0,33 s.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q103",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 103,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "A icterícia, popularmente conhecida por amarelão, é uma patologia frequente em recém-nascidos. Um bebê com icterícia não consegue metabolizar e excretar de forma eficiente a bilirrubina. Com isso, o acúmulo dessa substância deixa-o com a pele amarelada. A fototerapia é um tratamento da icterícia neonatal, que consiste na irradiação de luz no bebê. Na presença de luz, a bilirrubina é convertida no seu isômero lumirrubina que, por ser mais solúvel em água, é excretada pela bile ou pela urina. A imagem ilustra o que ocorre nesse tratamento.\nMOREIRA, M. et al. O recém-nascido de alto risco: teoria e prática do cuidar [on-line]. Rio de Janeiro: Fiocruz, 2004 (adaptado).\n\n[[FIG1]]\nWANG, J. et al. Challenges of phototherapy for neonatal hyperbilirubinemia (Review). Experimental and Therapeutic Medicine, n. 21, 2021 (adaptado).\n\nNa fototerapia, a luz provoca a conversão da bilirrubina no seu isômero",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ótico."
+      },
+      {
+        "letter": "B",
+        "text": "funcional."
+      },
+      {
+        "letter": "C",
+        "text": "de cadeia."
+      },
+      {
+        "letter": "D",
+        "text": "de posição."
+      },
+      {
+        "letter": "E",
+        "text": "geométrico."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q103-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A conversão da bilirrubina em lumirrubina pela radiação luminosa é evidenciada na imagem pela formação de um novo anel de sete membros na porção esquerda da molécula, por meio de uma ciclização intramolecular entre uma ligação vinílica e o anel vizinho. Como houve alteração no esqueleto carbônico (fechamento de uma cadeia aberta local), a relação entre as duas estruturas configura uma isomeria plana de cadeia. Portanto, a alternativa C está correta.\n\nA alternativa A está incorreta, pois a formação do novo anel envolve conectividade estrutural diferente, não apenas rearranjo espacial de enantiômeros. A alternativa B está incorreta, pois ambas as moléculas continuam apresentando as mesmas funções orgânicas (ácido carboxílico e amida/lactama). A alternativa D está incorreta, pois não se trata de mera mudança de posição de uma ramificação, insaturação ou grupo funcional em uma mesma cadeia. A alternativa E está incorreta, pois a lumirrubina difere da bilirrubina pela formação de um novo ciclo, e não apenas pela isomeria cis-trans (geométrica).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q105",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 105,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.\n\n[[FIG1]]\n\nO garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q105-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q105-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q105-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q105-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q105-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q105-1.webp",
+      "FIG2": "data/figuras/enem-2021-q105-2.webp",
+      "FIG3": "data/figuras/enem-2021-q105-3.webp",
+      "FIG4": "data/figuras/enem-2021-q105-4.webp",
+      "FIG5": "data/figuras/enem-2021-q105-5.webp",
+      "FIG6": "data/figuras/enem-2021-q105-6.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O interruptor de três terminais (A, B e C) conecta o polo central B alternadamente a A ou a C. Para acender três lâmpadas de forma independente, uma de cada vez, o circuito deve direcionar a corrente da bateria primeiro a uma das lâmpadas ou ao segundo interruptor. No circuito D (FIG5), o polo negativo da bateria é ligado ao terminal B do primeiro interruptor. Quando este fecha AB, a lâmpada Verde acende sozinha, pois C fica desconectado. Ao mudar o primeiro interruptor para BC, a corrente segue para o terminal B do segundo interruptor. Este, por sua vez, ao fechar BA acende a lâmpada Vermelha, e ao fechar BC acende a lâmpada Azul. Assim, é possível acender qualquer uma das três lâmpadas isoladamente, validando a alternativa D.\n\nA alternativa A está incorreta, pois na posição em que o primeiro interruptor fecha BC, a lâmpada Vermelha recebe corrente diretamente e pode ficar acesa junto com a Azul. As alternativas B e C estão incorretas, pois não há interligação em cascata adequada entre os interruptores para selecionar as três lâmpadas individualmente. A alternativa E está incorreta, pois fecha caminhos em paralelo que não permitem acender apenas uma lâmpada por vez.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q108",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 108,
+    "day": 2,
+    "subjectId": "quimica",
+    "topics": [
+      "Química Orgânica"
+    ],
+    "statement": "As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.\n[[FIG1]]\nO teste positivo será observado com o pesticida",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q108-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O hidróxido de sódio (NaOH) é uma base forte e reage em meio aquoso por transferência de prótons (teoria ácido-base de Brönsted-Lowry) com compostos que possuem hidrogênios suficientemente ácidos. A estrutura III corresponde a um derivado bisfenólico clorado, contendo anéis aromáticos ligados a hidroxilas (função fenol). Os fenóis apresentam caráter ácido acentuado devido à estabilização por ressonância da base conjugada (fenolato), especialmente reforçado pelos átomos de cloro eletronegativos no anel. Assim, o composto III reage prontamente com o NaOH formando fenolato de sódio solúvel, permitindo sua identificação qualitativa. Portanto, a alternativa C está correta.\n\nA alternativa A está incorreta, pois o composto I é uma ureia/amida, que não apresenta acidez compatível para reagir com NaOH em teste ácido-base comum. A alternativa B está incorreta, pois o composto II possui anéis nitrogenados de caráter básico, não reagindo como ácido com o NaOH. As alternativas D e E estão incorretas, pois os compostos IV e V não possuem hidrogênios ionizáveis ácidos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q121",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 121,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme (B⃗), da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade (g⃗) que atua na região.\n[[FIG1]]\nVisto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q121-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q121-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q121-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q121-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q121-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q121-1.webp",
+      "FIG2": "data/figuras/enem-2021-q121-2.webp",
+      "FIG3": "data/figuras/enem-2021-q121-3.webp",
+      "FIG4": "data/figuras/enem-2021-q121-4.webp",
+      "FIG5": "data/figuras/enem-2021-q121-5.webp",
+      "FIG6": "data/figuras/enem-2021-q121-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A força magnética sobre uma carga pontual q com velocidade v em um campo magnético B é dada por F = q (v × B). O sistema cai sob a ação da gravidade, de modo que sua velocidade inicial v aponta para dentro do plano da página (direção coincidente com g, representada por ⊗). O campo magnético B é horizontal para a direita. Pela regra da mão direita para o produto vetorial (v × B), o indicador apontando para dentro do plano e o dedo médio para a direita resultam no polegar apontando para baixo. Para a carga positiva (+), a força tem o mesmo sentido do produto vetorial, apontando para baixo. Para a carga negativa (-), a inversão do sinal da carga faz com que a força magnética aponte no sentido oposto, isto é, para cima. Logo, a representação correta é a da alternativa A (FIG2).\n\nA alternativa B está incorreta, pois representa ambas as forças magnéticas para baixo. A alternativa C está incorreta, pois as forças magnéticas aparecem na direção da haste, o que não corresponde ao produto v × B. A alternativa D está incorreta, pois mostra ambas as forças magnéticas para cima. A alternativa E está incorreta, pois inverte os sentidos das forças em cada carga.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q127",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 127,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Eletricidade"
+    ],
+    "statement": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.\n[[FIG1]]\nUtilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q127-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q127-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q127-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q127-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q127-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q127-1.webp",
+      "FIG2": "data/figuras/enem-2021-q127-2.webp",
+      "FIG3": "data/figuras/enem-2021-q127-3.webp",
+      "FIG4": "data/figuras/enem-2021-q127-4.webp",
+      "FIG5": "data/figuras/enem-2021-q127-5.webp",
+      "FIG6": "data/figuras/enem-2021-q127-6.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Na montagem, há duas pilhas de Daniell ligadas em série: o eletrodo de cobre (polo positivo, cátodo) da primeira cuba está conectado ao cronômetro, enquanto o eletrodo de zinco (polo negativo, ânodo) da primeira cuba é ligado ao cobre da segunda cuba. O zinco da segunda cuba conecta-se ao outro terminal do cronômetro. A tensão total medida no voltímetro é 2,20 V, correspondente à soma dos potenciais de duas pilhas em série concordante (1,10 V + 1,10 V). O voltímetro está conectado em paralelo com o cronômetro (representado pelo resistor). No esquema elétrico correspondente, isso equivale a duas fontes de tensão associadas em série na mesma polaridade, em paralelo com o voltímetro e com o resistor. Essa configuração está representada na alternativa B (FIG3).\n\nA alternativa A está incorreta, pois apresenta apenas uma pilha e coloca o voltímetro em série. A alternativa C está incorreta, pois as fontes de tensão estão em oposição, resultando em força eletromotriz nula. A alternativa D está incorreta, pois insere quatro resistores internos adicionais e tem representação inadequada da fonte. A alternativa E está incorreta, pois coloca o voltímetro em série com o circuito e exibe quatro células.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q128",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 128,
+    "day": 2,
+    "subjectId": "fisica",
+    "topics": [
+      "Mecânica"
+    ],
+    "statement": "A figura foi extraída de um antigo jogo para computadores, chamado Bang! Bang!\n[[FIG1]]\nNo jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo da velocidade inicial de disparo (|v⃗₀|) e para o ângulo de disparo (θ).\nEm determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, θ = 53°, passou tangenciando o ponto P.\nNo jogo, |g⃗| é igual a 10 m/s². Considere sen 53° = 0,8, cos 53° = 0,6 e desprezível a ação de forças dissipativas.\nDisponível em: http://mebdownloads.butzke.net.br. Acesso em: 18 abr. 2015 (adaptado).\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de |v⃗₀| que permitiria ao disparo efetuado pelo canhão B atingir o canhão A?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "30 m/s."
+      },
+      {
+        "letter": "B",
+        "text": "35 m/s."
+      },
+      {
+        "letter": "C",
+        "text": "40 m/s."
+      },
+      {
+        "letter": "D",
+        "text": "45 m/s."
+      },
+      {
+        "letter": "E",
+        "text": "50 m/s."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q128-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Adotando o canhão B como origem (0, 0), o canhão A está situado na posição horizontal x = 120 m e vertical y = 35 m. A equação da trajetória de um projétil é y = x·tg(θ) - (g·x²) / [2·(v0·cos θ)²]. Substituindo os valores dados: tg(53°) = sen(53°)/cos(53°) = 0,8 / 0,6 = 4/3; cos(53°) = 0,6; g = 10 m/s²; x = 120 m e y = 35 m, obtém-se:\n35 = 120·(4/3) - [10·(120)²] / [2·v0²·(0,6)²]\n35 = 160 - 144.000 / [0,72·v0²]\n35 = 160 - 200.000 / v0²\n200.000 / v0² = 160 - 35 = 125\nv0² = 200.000 / 125 = 1.600\nv0 = 40 m/s.\nNessa velocidade, a altura máxima atingida é (v0·sen θ)² / (2g) = (40·0,8)² / 20 = 1.024 / 20 = 51,2 m, superando a elevação do terreno no ponto P (45 m). Logo, o menor valor de v0 é 40 m/s, o que corresponde à alternativa C.\n\nAs alternativas A (30 m/s) e B (35 m/s) fornecem alcance insuficiente para atingir a posição de A nas condições especificadas. As alternativas D (45 m/s) e E (50 m/s) apresentam valores superiores ao mínimo necessário para alcançar o alvo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q136",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 136,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe símbolo correspondente ao zero;\n2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 – 1 = 9;\n4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em 2050?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "379"
+      },
+      {
+        "letter": "B",
+        "text": "381"
+      },
+      {
+        "letter": "C",
+        "text": "579"
+      },
+      {
+        "letter": "D",
+        "text": "581"
+      },
+      {
+        "letter": "E",
+        "text": "601"
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Para decodificar o número romano MCDLXIX, aplicam-se as regras de composição fornecidas:\n- M = 1 000;\n- CD = 500 - 100 = 400;\n- LX = 50 + 10 = 60;\n- IX = 10 - 1 = 9.\nSomando essas partes, o ano de fundação da cidade é 1 000 + 400 + 60 + 9 = 1 469.\nPara descobrir quantos anos a cidade comemorará no ano de 2050, basta subtrair o ano de fundação de 2050:\n2050 - 1469 = 581 anos.\nPortanto, a resposta correta é a alternativa D.\n\nA alternativa A (379) e a alternativa B (381) resultam de erros na leitura das centenas do numeral romano (como considerar DCCC em vez de CD). A alternativa C (579) decorre de um erro de subtração ao subtrair 1 469 de 2 050 ou ao avaliar incorretamente o IX final como 11. A alternativa E (601) decorre de erro na interpretação de CD e LX.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q137",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 137,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binária, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n[[FIG1]]\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n[[FIG2]]\nConsiderando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "101."
+      },
+      {
+        "letter": "B",
+        "text": "1101."
+      },
+      {
+        "letter": "C",
+        "text": "1111."
+      },
+      {
+        "letter": "D",
+        "text": "10101."
+      },
+      {
+        "letter": "E",
+        "text": "11001."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q137-1.webp",
+      "FIG2": "data/figuras/enem-2021-q137-2.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Na base decimal, a soma pedida é 9 + 12 = 21. Para expressar 21 na base binária, decompõe-se o número em potências de base 2:\n21 = 16 + 4 + 1 = 1·2⁴ + 0·2³ + 1·2² + 0·2¹ + 1·2⁰, o que resulta no número binário 10101.\nAlternativamente, somando-se diretamente na base binária com o algoritmo fornecido:\n  1001 (9)\n+ 1100 (12)\n-------\nColuna das unidades: 1 + 0 = 1.\nColuna dos dois: 0 + 0 = 0.\nColuna dos quatros: 0 + 1 = 1.\nColuna dos oitos: 1 + 1 = 10 (vai 1 e fica 0).\nColuna dos dezesseis: 1.\nO resultado é 10101, validando a alternativa D.\n\nA alternativa A (101) equivale a 5 em decimal. A alternativa B (1101) equivale a 13 em decimal. A alternativa C (1111) equivale a 15 em decimal. A alternativa E (11001) equivale a 25 em decimal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q138",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 138,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção",
+      "Álgebra"
+    ],
+    "statement": "Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.\nNas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "700 000."
+      },
+      {
+        "letter": "B",
+        "text": "1 600 000."
+      },
+      {
+        "letter": "C",
+        "text": "1 900 000."
+      },
+      {
+        "letter": "D",
+        "text": "2 200 000."
+      },
+      {
+        "letter": "E",
+        "text": "2 800 000."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A área total utilizada para o loteamento é de 3 hectares, ou seja, 3 × 10 000 m² = 30 000 m². Descontando-se a área destinada a ruas e calçadas (0,9 hectare = 9 000 m²), resta para os lotes uma área de 30 000 - 9 000 = 21 000 m². Como cada terreno possui 300 m², o total de terrenos disponíveis é 21 000 / 300 = 70 terrenos.\nDe acordo com a política de preços:\n- Os 20 primeiros terrenos custam R$ 20 000,00 cada, gerando 20 × 20 000 = R$ 400 000,00;\n- Os 50 terrenos restantes (70 - 20) custam R$ 30 000,00 cada, gerando 50 × 30 000 = R$ 1 500 000,00.\nSomando esses dois valores, obtém-se o total de R$ 400 000,00 + R$ 1 500 000,00 = R$ 1 900 000,00. Assim, a alternativa correta é a C.\n\nA alternativa A (700 000) subestima amplamente a arrecadação. A alternativa B (1 600 000) considera incorretamente 60 terrenos no total. A alternativa D (2 200 000) e a alternativa E (2 800 000) superestimam o total de lotes ou não descontam a área de vias públicas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q139",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 139,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Análise Combinatória"
+    ],
+    "statement": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas.\nA quantidade de fantasias com materiais diferentes que podem ser produzidas é representada pela expressão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q139-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q139-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q139-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q139-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q139-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q139-1.webp",
+      "FIG2": "data/figuras/enem-2021-q139-2.webp",
+      "FIG3": "data/figuras/enem-2021-q139-3.webp",
+      "FIG4": "data/figuras/enem-2021-q139-4.webp",
+      "FIG5": "data/figuras/enem-2021-q139-5.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para a confecção da fantasia, devem ser escolhidos 2 tecidos diferentes a partir de um conjunto de 6 opções disponíveis, e 5 tipos de pedras ornamentais a partir de 15 tipos distintos. A ordem de seleção dos materiais não altera o resultado da fantasia, tratando-se, portanto, de combinações simples.\nO número de maneiras de escolher os tecidos é dado por C(6, 2) = 6! / [2!(6 - 2)!] = 6! / (4! 2!).\nO número de maneiras de escolher as pedras é dado por C(15, 5) = 15! / [5!(15 - 5)!] = 15! / (10! 5!).\nPelo princípio fundamental da contagem, como a pessoa deve escolher os tecidos E as pedras, multiplicam-se as possibilidades:\n[6! / (4! 2!)] · [15! / (10! 5!)].\nEssa expressão corresponde exatamente à alternativa A (FIG1).\n\nAs alternativas B e C estão incorretas porque somam as combinações em vez de multiplicá-las. A alternativa D está incorreta porque omite os termos 4! e 10! nos denominadores, o que corresponderia a arranjos em vez de combinações. A alternativa E agrupa incorretamente os elementos de naturezas distintas em uma única combinação.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q140",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 140,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n(i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;\n(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.\nConsidera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade.\nA economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,31 mil reais."
+      },
+      {
+        "letter": "B",
+        "text": "1,90 mil reais."
+      },
+      {
+        "letter": "C",
+        "text": "2,30 mil reais."
+      },
+      {
+        "letter": "D",
+        "text": "2,36 mil reais."
+      },
+      {
+        "letter": "E",
+        "text": "2,95 mil reais."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Calcula-se o custo total de cada laboratório em 4 anos e divide-se pela respectiva capacidade máxima de usuários para encontrar o custo por usuário:\nPara o laboratório A:\nCusto de implantação = 180 mil reais.\nManutenção em 4 anos = 4 × 60 = 240 mil reais.\nCusto total de A = 180 + 240 = 420 mil reais.\nCusto por usuário de A = 420 / 100 = 4,20 mil reais.\n\nPara o laboratório B:\nCusto de implantação = 120 mil reais.\nManutenção em 4 anos = 4 × 16 = 64 mil reais.\nCusto total de B = 120 + 64 = 184 mil reais.\nCusto por usuário de B = 184 / 80 = 2,30 mil reais.\n\nA economia por usuário ao optar pelo tipo B é dada pela diferença:\n4,20 - 2,30 = 1,90 mil reais.\nPortanto, a alternativa correta é a B.\n\nA alternativa A (1,31) resulta de divisões incorretas de parcelas isoladas. A alternativa C (2,30) corresponde apenas ao custo por usuário do laboratório B, e não à economia. As alternativas D (2,36) e E (2,95) decorrem de erros nos cálculos de manutenção anual ou na consideração do número de usuários.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q141",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 141,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n[[FIG1]]\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada pela fórmula:\nFc máx. = 220 – idade,\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "leve no plano, forte no plano, subida moderada e subida forte."
+      },
+      {
+        "letter": "B",
+        "text": "leve no plano, forte no plano e subida moderada."
+      },
+      {
+        "letter": "C",
+        "text": "forte no plano, subida moderada e subida forte."
+      },
+      {
+        "letter": "D",
+        "text": "forte no plano e subida moderada."
+      },
+      {
+        "letter": "E",
+        "text": "leve no plano e subida forte."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q141-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "Primeiramente, calcula-se a frequência cardíaca máxima teórica do ciclista de 61 anos:\nFc máx. = 220 - 61 = 159 bpm.\nA faixa aeróbica ideal está compreendida entre 65% e 85% dessa frequência máxima:\nLimite inferior: 0,65 × 159 = 103,35 bpm.\nLimite superior: 0,85 × 159 = 135,15 bpm.\nAnalisando os valores medidos em cada trecho:\n- Leve no plano: 90 bpm (abaixo de 103,35 bpm, fora da faixa);\n- Forte no plano: 120 bpm (entre 103,35 e 135,15 bpm, dentro da faixa);\n- Subida moderada: 130 bpm (entre 103,35 e 135,15 bpm, dentro da faixa);\n- Subida forte: 140 bpm (acima de 135,15 bpm, fora da faixa).\nLogo, o ciclista manteve-se dentro da sua faixa aeróbica ideal nos trechos forte no plano e subida moderada, o que valida a alternativa D.\n\nAs alternativas A, B e E estão incorretas porque incluem o trecho leve no plano (90 bpm), que está abaixo do limite mínimo. A alternativa C está incorreta porque inclui o trecho subida forte (140 bpm), que ultrapassa o limite máximo ideal.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q142",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 142,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$ 300,00.\nPara não ter prejuízo, o menor número de lavagens diárias que o lava-rápido deve efetuar é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6."
+      },
+      {
+        "letter": "B",
+        "text": "8."
+      },
+      {
+        "letter": "C",
+        "text": "9."
+      },
+      {
+        "letter": "D",
+        "text": "15."
+      },
+      {
+        "letter": "E",
+        "text": "20."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Para que o número total de lavagens diárias seja o menor possível e gere uma receita mínima de R$ 300,00, deve-se priorizar o serviço de maior valor unitário, que é a lavagem completa a R$ 35,00 por veículo.\nDividindo o valor mínimo necessário pelo preço da lavagem completa:\n300 / 35 ≈ 8,57.\nComo a quantidade de veículos lavados deve ser um número inteiro, 8 lavagens completas renderiam apenas 8 × 35 = R$ 280,00, valor insuficiente para atingir a meta de R$ 300,00. Assim, são necessárias no mínimo 9 lavagens (todas completas resultam em 9 × 35 = R$ 315,00, cobrindo as despesas).\nPortanto, a alternativa C é a correta.\n\nAs alternativas A (6) e B (8) estão incorretas, pois mesmo com lavagens completas atingiriam no máximo R$ 210,00 e R$ 280,00, respectivamente, gerando prejuízo. As alternativas D (15) e E (20) trariam o número mínimo de lavagens caso todas ou a maioria fossem simples, mas não representam o menor número absoluto possível de lavagens diárias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q143",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 143,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira"
+    ],
+    "statement": "Após consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.\n[[FIG1]]\nDessas farmácias, algumas oferecem descontos:\n• na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;\n• na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.\nO paciente deseja efetuar a compra de modo a minimizar sua despesa com os medicamentos.\nDe acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "X, Y e Z na Farmácia 1."
+      },
+      {
+        "letter": "B",
+        "text": "X e Y na Farmácia 1, e Z na Farmácia 3."
+      },
+      {
+        "letter": "C",
+        "text": "X e Y na Farmácia 2, e Z na Farmácia 3."
+      },
+      {
+        "letter": "D",
+        "text": "X na Farmácia 2, e Y e Z na Farmácia 3."
+      },
+      {
+        "letter": "E",
+        "text": "X, Y e Z na Farmácia 3."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q143-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Analisando o custo de aquisição dos medicamentos para cada alternativa:\nOpção A (todos na Farmácia 1): 45 + 40 + 50 = R$ 135,00.\nOpção B (X e Y na Farmácia 1 e Z na Farmácia 3): 45 + 40 + 35 = R$ 120,00.\nOpção C (X e Y na Farmácia 2 e Z na Farmácia 3): comprando X e Y na Farmácia 2, aplica-se o desconto de 20%, custando (50 + 50) * 0,80 = R$ 80,00. Somando ao valor de Z na Farmácia 3 (R$ 35,00), o total é 80 + 35 = R$ 115,00.\nOpção D (X na Farmácia 2 e Y e Z na Farmácia 3): sem os descontos dessas farmácias, o total seria 50 + 45 + 35 = R$ 130,00.\nOpção E (todos na Farmácia 3): com desconto de 20% no total, temos (65 + 45 + 35) * 0,80 = 145 * 0,80 = R$ 116,00.\nPortanto, a menor despesa possível é de R$ 115,00, obtida ao comprar X e Y na Farmácia 2 e Z na Farmácia 3, tornando a alternativa C correta.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q144",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 144,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial",
+      "Geometria Plana"
+    ],
+    "statement": "Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.\n[[FIG1]]\nCom base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12 trapézios isósceles e 12 quadrados."
+      },
+      {
+        "letter": "B",
+        "text": "24 trapézios isósceles e 12 quadrados."
+      },
+      {
+        "letter": "C",
+        "text": "12 paralelogramos e 12 quadrados."
+      },
+      {
+        "letter": "D",
+        "text": "8 trapézios isósceles e 12 quadrados."
+      },
+      {
+        "letter": "E",
+        "text": "12 trapézios escalenos e 12 retângulos."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q144-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "A estrutura é formada por um cubo interno e um cubo externo com faces correspondentes paralelas. Cada cubo possui 6 faces quadradas, totalizando 6 + 6 = 12 quadrados.\nAs hastes oblíquas que ligam os 8 vértices correspondentes dos dois cubos têm o mesmo comprimento. Cada uma das 12 arestas do cubo externo conecta-se à aresta correspondente do cubo interno por meio de duas dessas hastes congruentes, formando 12 quadriláteros planos com lados opostos paralelos de medidas distintas e lados oblíquos iguais. Cada uma dessas faces é, portanto, um trapézio isósceles. Assim, a união das hastes forma 12 trapézios isósceles e 12 quadrados, confirmando a alternativa A.\nA alternativa B erra ao duplicar o número de trapézios para 24. A alternativa C erra ao classificar os trapézios como paralelogramos. A alternativa D indica incorretamente apenas 8 trapézios. A alternativa E classifica erroneamente as figuras como trapézios escalenos e retângulos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q145",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 145,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.\n[[FIG1]]\nQual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação dada?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1, 2, 3 e 4"
+      },
+      {
+        "letter": "B",
+        "text": "1 e 3"
+      },
+      {
+        "letter": "C",
+        "text": "1"
+      },
+      {
+        "letter": "D",
+        "text": "2"
+      },
+      {
+        "letter": "E",
+        "text": "4"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q145-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Em um octaedro regular, existem 6 vértices e 8 faces triangulares. Duas faces são consideradas opostas quando não compartilham nenhuma aresta nem vértice, o que significa que seus vértices formam conjuntos disjuntos de 3 vértices cada.\nAo dobrar a planificação dada no espaço tridimensional, tomando uma das faces centrais como referência (por exemplo, a face 4), podemos mapear a posição relativa das demais. Os três vértices que compõem a face cinza escuro correspondem exatamente aos vértices opostos aos que formam a face 4. Desse modo, ao reconstruir o poliedro, a única face que não possui vértices nem arestas em comum com a face cinza escuro é a face 4, validando a alternativa E.\nAs alternativas A e B estão incorretas porque cada face de um octaedro regular se opõe a apenas uma única face. As alternativas C e D indicam as faces 1 e 2, que compartilham vértices com a face cinza após o fechamento do poliedro.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q146",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 146,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O instrumento de percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.\n[[FIG1]]\nUma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.\nConsidere 1,7 como valor aproximado para √3.\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "9,07."
+      },
+      {
+        "letter": "B",
+        "text": "13,60."
+      },
+      {
+        "letter": "C",
+        "text": "20,40."
+      },
+      {
+        "letter": "D",
+        "text": "27,18."
+      },
+      {
+        "letter": "E",
+        "text": "36,24."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q146-1.webp"
+    },
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A altura h de um triângulo equilátero de lado L é dada pela relação h = (L * raiz de 3) / 2. Sabendo que h = 8 cm e adotando 1,7 para raiz de 3, temos:\n8 = (L * 1,7) / 2 => L * 1,7 = 16 => L = 16 / 1,7 cm.\nComo o comprimento da barra equivale ao perímetro do triângulo equilátero, calcula-se P = 3 * L:\nP = 3 * (16 / 1,7) = 48 / 1,7.\nAo efetuar a racionalização da fórmula teórica do perímetro, obtém-se P = 2 * h * raiz de 3 = 16 * 1,7 = 27,2 cm. O valor das alternativas que mais se aproxima dessa medida é 27,18 cm, tornando correta a alternativa D.\nA alternativa A (9,07) representa apenas a medida aproximada do lado do triângulo, e não o perímetro. A alternativa B (13,60) resulta de 8 * 1,7, desconsiderando a divisão por raiz de 3 na relação do lado. A alternativa C (20,40) e a alternativa E (36,24) decorrem de erros nas relações métricas do triângulo equilátero.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q147",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 147,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n[[FIG1]]\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\nUtilize 3 como aproximação para π.\nQual é a capacidade volumétrica, em mililitro, dessa caneca?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "216"
+      },
+      {
+        "letter": "B",
+        "text": "408"
+      },
+      {
+        "letter": "C",
+        "text": "732"
+      },
+      {
+        "letter": "D",
+        "text": "2 196"
+      },
+      {
+        "letter": "E",
+        "text": "2 928"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q147-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A caneca tem o formato de um tronco de cone circular reto de altura h = 12 cm. Os diâmetros são D = 10 cm e d = 8 cm, de modo que os raios das bases medem R = 5 cm e r = 4 cm.\nA fórmula para o volume do tronco de cone é V = (pi * h / 3) * (R^2 + R * r + r^2). Substituindo os valores com a aproximação pi = 3:\nV = (3 * 12 / 3) * (5^2 + 5 * 4 + 4^2)\nV = 12 * (25 + 20 + 16) = 12 * 61 = 732 cm^3.\nComo 1 cm^3 equivale a 1 mL, a capacidade volumétrica é de 732 mL, confirmando a alternativa C.\nA alternativa A (216) decorre da aplicação equivocada da diferença entre os raios. A alternativa B (408) subestima a área do tronco. As alternativas D (2 196) e E (2 928) esquecem de dividir a altura ou pi por 3 no cálculo volumétrico do tronco.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q148",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 148,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Plana"
+    ],
+    "statement": "O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$ 0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:\n• um triângulo equilátero de lado 12 cm;\n• um quadrado de lado 8 cm;\n• um retângulo de lados 11 cm e 8 cm;\n• um hexágono regular de lado 6 cm;\n• um círculo de diâmetro 10 cm.\nO dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão.\nUse 3 como aproximação para π e use 1,7 como aproximação para √3.\nNessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "triângulo."
+      },
+      {
+        "letter": "B",
+        "text": "quadrado."
+      },
+      {
+        "letter": "C",
+        "text": "retângulo."
+      },
+      {
+        "letter": "D",
+        "text": "hexágono."
+      },
+      {
+        "letter": "E",
+        "text": "círculo."
+      }
+    ],
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Com o limite de gasto de R$ 0,80 por cartão e custo de R$ 0,01 por centímetro quadrado, a área máxima permitida é 0,80 / 0,01 = 80 cm^2. Calculando a área de cada modelo:\n- Triângulo equilátero (lado 12 cm): (12^2 * 1,7) / 4 = 144 * 1,7 / 4 = 61,2 cm^2.\n- Quadrado (lado 8 cm): 8^2 = 64 cm^2.\n- Retângulo (11 cm por 8 cm): 11 * 8 = 88 cm^2 (ultrapassa o limite de 80 cm^2).\n- Hexágono regular (lado 6 cm): 6 * (6^2 * 1,7) / 4 = 6 * 15,3 = 91,8 cm^2 (ultrapassa o limite).\n- Círculo (diâmetro 10 cm, raio 5 cm): 3 * 5^2 = 75 cm^2.\nEntre os modelos que atendem à restrição de custo (triângulo, quadrado e círculo), o círculo proporciona a maior área de impressão (75 cm^2), sendo a escolha correta na alternativa E.\nAs opções C e D ultrapassam o custo máximo de R$ 0,80. As opções A e B apresentam áreas inferiores à do círculo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q149",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 149,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra",
+      "Razão e Proporção"
+    ],
+    "statement": "A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluido é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por metro cúbico), com uma constante de proporcionalidade adimensional.\nNessa relação, a unidade de medida adequada para o módulo volumétrico é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "kg·m⁻²·s⁻¹"
+      },
+      {
+        "letter": "B",
+        "text": "kg·m⁻¹·s⁻²"
+      },
+      {
+        "letter": "C",
+        "text": "kg·m⁻⁵·s²"
+      },
+      {
+        "letter": "D",
+        "text": "kg⁻¹·m¹·s²"
+      },
+      {
+        "letter": "E",
+        "text": "kg⁻¹·m⁵·s⁻²"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Pela relação de Newton-Laplace, o módulo volumétrico K é dado por K = C * v^2 * rho, onde C é adimensional. A velocidade v é medida em metro por segundo (m * s^(-1)) e a densidade rho em quilograma por metro cúbico (kg * m^(-3)).\nDeterminando a unidade dimensional de K a partir do produto:\n[K] = [v]^2 * [rho] = (m * s^(-1))^2 * (kg * m^(-3)) = (m^2 * s^(-2)) * (kg * m^(-3)) = kg * m^(2 - 3) * s^(-2) = kg * m^(-1) * s^(-2).\nPortanto, a unidade correta para o módulo volumétrico é kg * m^(-1) * s^(-2), conforme apresentado na alternativa B.\nA alternativa A apresenta s^(-1) e m^(-2). A alternativa C traz expoentes incorretos m^(-5) e s^2. As alternativas D e E invertem a unidade de massa, resultando em kg^(-1).",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q150",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 150,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10 kg.\nEm duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n[[FIG1]]\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.\nQual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "22"
+      },
+      {
+        "letter": "B",
+        "text": "24"
+      },
+      {
+        "letter": "C",
+        "text": "26"
+      },
+      {
+        "letter": "D",
+        "text": "33"
+      },
+      {
+        "letter": "E",
+        "text": "39"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q150-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Sejam c, p e s as massas de uma camiseta, uma calça e um par de sapatos, respectivamente. Seja M a capacidade de carga dos itens (10 kg menos a massa da mala). Pelas informações fornecidas:\n12c + 4p + 3s = M (I)\n18c + 3p + 2s = M (II)\nMultiplicando a equação (II) por 2 e subtraindo a equação (I), temos:\n2 * (18c + 3p + 2s) - (12c + 4p + 3s) = 2M - M\n(36c - 12c) + (6p - 4p) + (4s - 3s) = M\n24c + 2p + 1s = M.\nLogo, ao levar exatamente duas calças e um sapato, a quantidade máxima de camisetas que completa a carga máxima permitida é 24, o que valida a alternativa B.\nAs alternativas A (22) e C (26) resultam de erros algébricos na combinação linear dos sistemas. As alternativas D (33) e E (39) desconsideram as massas das calças ou sapatos na soma limite.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q151",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 151,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.\nO valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "15,9."
+      },
+      {
+        "letter": "B",
+        "text": "16,1."
+      },
+      {
+        "letter": "C",
+        "text": "16,4."
+      },
+      {
+        "letter": "D",
+        "text": "17,4."
+      },
+      {
+        "letter": "E",
+        "text": "18,0."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O automóvel original possui desempenho de 16 km/L, o que equivale a um consumo de 20 / 16 = 1,25 litro a cada 20 km.\nO novo motor economiza 0,1 L a cada 20 km, consumindo 1,25 - 0,1 = 1,15 litro a cada 20 km rodados.\nPara encontrar o novo desempenho em quilômetros por litro, divide-se a distância percorrida pelo novo consumo de combustível correspondente:\nDesempenho = 20 km / 1,15 L = 2000 / 115 = 400 / 23 ≈ 17,391... km/L.\nCom uma casa decimal, o valor aproxima-se de 17,4 km/L, o que torna correta a alternativa D.\nA alternativa A (15,9) indica redução do desempenho. A alternativa B (16,1) apenas soma 0,1 ao valor do rendimento inicial. As alternativas C (16,4) e E (18,0) decorrem de erros nos cálculos de proporção entre distância e volume de combustível.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q152",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 152,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n• Fornecedor I: “O dobro, tanto para as paredes quanto para o piso.”\n• Fornecedor II: “O dobro para as paredes e quatro vezes para o piso.”\n• Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”\n• Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”\n• Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\nQual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para a aquisição do material?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I"
+      },
+      {
+        "letter": "B",
+        "text": "II"
+      },
+      {
+        "letter": "C",
+        "text": "III"
+      },
+      {
+        "letter": "D",
+        "text": "IV"
+      },
+      {
+        "letter": "E",
+        "text": "V"
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A área lateral das quatro paredes de um paralelepípedo de comprimento C, largura L e altura H é dada por A_paredes = 2 * (C * H) + 2 * (L * H) = 2 * H * (C + L). Ao dobrar o comprimento para 2C e a largura para 2L mantendo H inalterado, a nova área das paredes passa a ser 2 * H * (2C + 2L) = 2 * [2 * H * (C + L)], ou seja, o dobro da área original.\nJá a área do piso retangular original é A_piso = C * L. Com as novas dimensões, a nova área torna-se (2C) * (2L) = 4 * (C * L), correspondendo a quatro vezes a área inicial.\nAssim, a quantidade de tinta necessária deve ser o dobro para as paredes e quatro vezes para o piso, exatamente como informou o Fornecedor II, tornando correta a alternativa B.\nAs alternativas A, C, D e E indicam combinações erradas de fatores de ampliação para as áreas de parede ou piso.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q153",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 153,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\nConsidere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π.\nNas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1,12."
+      },
+      {
+        "letter": "B",
+        "text": "3,10."
+      },
+      {
+        "letter": "C",
+        "text": "4,35."
+      },
+      {
+        "letter": "D",
+        "text": "4,48."
+      },
+      {
+        "letter": "E",
+        "text": "5,60."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O consumo de água da população de 100 habitantes a 120 litros por habitante ao dia é de 100 * 120 = 12 000 litros/dia. Durante o período de 7 dias, a demanda total é de 12 000 * 7 = 84 000 litros, correspondendo a um volume de 84 m^3 (pois 1 m^3 = 1 000 litros).\nO reservatório tem formato de cilindro circular reto com diâmetro interno de 5 metros, logo o raio mede r = 2,5 metros. Adotando pi = 3, o volume do cilindro é V = pi * r^2 * h. Substituindo os valores conhecidos:\n84 = 3 * (2,5)^2 * h\n84 = 3 * 6,25 * h\n84 = 18,75 * h\nh = 84 / 18,75 = 4,48 m.\nA altura interna mínima do reservatório deve ser de 4,48 metros, confirmando a alternativa D.\nA alternativa A (1,12) decorre do uso de um raio incorreto (5 m). As alternativas B (3,10), C (4,35) e E (5,60) provêm de erros de arredondamento ou de conversão das unidades de volume.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q154",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 154,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (I).\n[[FIG1]]\nO gráfico que melhor representa essa relação é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q154-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q154-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q154-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q154-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q154-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q154-1.webp",
+      "FIG2": "data/figuras/enem-2021-q154-2.webp",
+      "FIG3": "data/figuras/enem-2021-q154-3.webp",
+      "FIG4": "data/figuras/enem-2021-q154-4.webp",
+      "FIG5": "data/figuras/enem-2021-q154-5.webp",
+      "FIG6": "data/figuras/enem-2021-q154-6.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Analisando o imposto devido I em função do preço R:\n1) Para R <= 5 000, I = 0 (isento), correspondendo a um segmento horizontal nulo no intervalo [0, 5000].\n2) Para 5 000 < R <= 10 000, I = 0,10 * (R - 5 000). Trata-se de um segmento de reta com inclinação 0,10 que liga o ponto (5000, 0) ao ponto (10000, 500).\n3) Para 10 000 < R <= 15 000, I = 500 + 0,30 * (R - 10 000). Trata-se de uma reta mais inclinada (inclinação 0,30) que parte de (10000, 500) e atinge I = 500 + 0,30 * 5000 = 2 000 quando R = 15 000.\nO gráfico da alternativa A ilustra com fidelidade todos esses intervalos e seus respectivos pontos finais contínuos.\nA alternativa B erra ao terminar em 1 000 no lugar de 2 000. A alternativa C não mostra o intervalo de isenção de 0 a 5 000. A alternativa D mostra funções em degrau descontínuas. A alternativa E erra a inclinação final e o início do gráfico.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q155",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 155,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00, um show conseguia atrair 200 pessoas e que, a cada R$ 1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.\nO gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q155-1.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q155-2.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q155-3.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q155-4.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q155-5.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q155-1.webp",
+      "FIG2": "data/figuras/enem-2021-q155-2.webp",
+      "FIG3": "data/figuras/enem-2021-q155-3.webp",
+      "FIG4": "data/figuras/enem-2021-q155-4.webp",
+      "FIG5": "data/figuras/enem-2021-q155-5.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Seja x o valor do desconto em reais no preço original de R$ 20,00. O novo preço é (20 - x) e o público total passa a ser (200 + 40x). A receita de arrecadação em função de x é dada por:\nA(x) = (20 - x) * (200 + 40x) = 4 000 + 600x - 40x^2.\nTrata-se de uma função quadrática com concavidade voltada para baixo cujo vértice ocorre em x = -600 / (2 * (-40)) = 7,5, gerando arrecadação máxima para descontos de 7 ou 8 reais, decrescendo até anular-se em x = 20.\nComo a administração exige que os ingressos tenham valores inteiros, o desconto x só pode assumir valores inteiros, resultando em um domínio discreto. O gráfico correto deve ser composto por pontos isolados ao longo da curva parabólica, como ilustra a Figura 5 (alternativa E).\nAs alternativas A, B e C mostram comportamento linear, incorreto para a função receita. A alternativa D apresenta uma curva contínua, desconsiderando a exigência de valores inteiros para os ingressos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q156",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 156,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = [aij], i, j ∈ {1, 2, 3, 4, 5}, em que o elemento aij corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento aii é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n[[FIG1]]\nQual região foi selecionada para o investimento da construtora?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "1"
+      },
+      {
+        "letter": "B",
+        "text": "2"
+      },
+      {
+        "letter": "C",
+        "text": "3"
+      },
+      {
+        "letter": "D",
+        "text": "4"
+      },
+      {
+        "letter": "E",
+        "text": "5"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q156-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O elemento a_ij representa a quantidade de famílias que se mudaram da região i (origem) para a região j (destino). Para saber qual região recebeu o maior fluxo de entrada, deve-se somar os elementos de cada coluna j da matriz:\n- Coluna 1 (Região 1): 0 + 0 + 2 + 1 + 1 = 4\n- Coluna 2 (Região 2): 4 + 0 + 2 + 0 + 2 = 8\n- Coluna 3 (Região 3): 2 + 6 + 0 + 2 + 0 = 10\n- Coluna 4 (Região 4): 2 + 2 + 3 + 0 + 4 = 11\n- Coluna 5 (Região 5): 5 + 3 + 0 + 4 + 0 = 12\nA região 5 foi o destino do maior total de famílias (12 dezenas), justificando a escolha dessa região para os investimentos da construtora, o que torna correta a alternativa E.\nAs alternativas A, B, C e D indicam regiões com fluxos totais de destino menores (4, 8, 10 e 11, respectivamente). Somar as linhas forneceria o fluxo de saída da região, contrariando o enunciado.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q157",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 157,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Matemática Financeira",
+      "Razão e Proporção"
+    ],
+    "statement": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.\nA quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "10% menor."
+      },
+      {
+        "letter": "B",
+        "text": "1% menor."
+      },
+      {
+        "letter": "C",
+        "text": "igual."
+      },
+      {
+        "letter": "D",
+        "text": "1% maior."
+      },
+      {
+        "letter": "E",
+        "text": "11% maior."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para a aeronave A em voo lotado ao longo de 2 000 km, com 200 passageiros e consumo de 0,02 L/(km * passageiro), o consumo total de combustível é:\nConsumo A = 2 000 * 200 * 0,02 = 8 000 L.\nA aeronave B transporta 10% mais passageiros (200 * 1,10 = 220 passageiros) e consome 10% menos combustível por quilômetro e passageiro (0,02 * 0,90 = 0,018 L/(km * passageiro)). O consumo total de B em voo lotado é:\nConsumo B = 2 000 * 220 * 0,018 = 7 920 L.\nComparando diretamente os consumos:\nConsumo B / Consumo A = (1,10 * 0,90) = 0,99 = 99%.\nO consumo do modelo B representa 99% do consumo do modelo A, sendo 1% menor que o modelo original, o que valida a alternativa B.\nA alternativa A desconsidera o aumento no número de passageiros. A alternativa C assume incorretamente que as alterações percentuais se anulam. As alternativas D e E apontam erroneamente um consumo superior para a aeronave B.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q158",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 158,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.\nNessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "6,0"
+      },
+      {
+        "letter": "B",
+        "text": "5,7"
+      },
+      {
+        "letter": "C",
+        "text": "5,0"
+      },
+      {
+        "letter": "D",
+        "text": "4,5"
+      },
+      {
+        "letter": "E",
+        "text": "4,4"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Como o tempo gasto para a troca de um pneu é inversamente proporcional à quantidade de pessoas, o produto entre o tempo e o número de pessoas é constante. Com a equipe completa de 3 pessoas em 4 segundos, temos a constante 3 vezes 4 = 12 pessoa-segundos. No grupo reduzido para 2 pessoas, o tempo necessário para trocar o respectivo pneu passa a ser 12 / 2 = 6,0 segundos. Como os grupos atuam simultaneamente em pneus distintos, o tempo total da parada é determinado pelo grupo mais lento, resultando em 6,0 segundos, o que torna correta a alternativa A.\n\nA alternativa B é incorreta pois 5,7 não corresponde à divisão exata de 12 por 2. As alternativas C (5,0), D (4,5) e E (4,4) são incorretas por considerarem reduções proporcionais errôneas ou médias inadequadas entre os tempos das equipes completas e da equipe reduzida.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q159",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 159,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Um nutricionista verificou, na dieta diária do seu cliente, a falta de 800 mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.\nO cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir:\n• Suplemento I: contém 50 mg do mineral A, 100 mg do mineral B e 200 mg do mineral C e custa R$ 2,00;\n• Suplemento II: contém 800 mg do mineral A, 250 mg do mineral B e 200 mg do mineral C e custa R$ 3,00;\n• Suplemento III: contém 250 mg do mineral A, 1 000 mg do mineral B e 300 mg do mineral C e custa R$ 5,00;\n• Suplemento IV: contém 600 mg do mineral A, 500 mg do mineral B e 1 000 mg do mineral C e custa R$ 6,00;\n• Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do mineral C e custa R$ 8,00.\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.\nNessas condições, o cliente deverá comprar sachês do suplemento",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "O cliente precisa de pelo menos 800 mg de A, 1 000 mg de B e 1 200 mg de C. Avaliando a quantidade mínima de sachês inteiros necessários para cada suplemento:\n- Suplemento I: A precisa de 800/50 = 16 sachês; custo = 16 x R$ 2,00 = R$ 32,00.\n- Suplemento II: C precisa de 1200/200 = 6 sachês; custo = 6 x R$ 3,00 = R$ 18,00.\n- Suplemento III: A precisa de 800/250 = 3,2, logo 4 sachês; custo = 4 x R$ 5,00 = R$ 20,00.\n- Suplemento IV: A precisa de 800/600 = 1,33 (2 sachês), B precisa de 1000/500 = 2 sachês e C de 1200/1000 = 1,2 (2 sachês), totalizando 2 sachês; custo = 2 x R$ 6,00 = R$ 12,00.\n- Suplemento V: A precisa de 800/400 = 2 sachês, B de 1000/800 = 1,25 (2 sachês) e C de 1 sachê, totalizando 2 sachês; custo = 2 x R$ 8,00 = R$ 16,00.\nO menor custo total é obtido com o Suplemento IV, justificando a alternativa D.\n\nAs alternativas A, B, C e E são incorretas pois os custos totais mínimos para suprir as exigências com os suplementos I, II, III e V são R$ 32,00, R$ 18,00, R$ 20,00 e R$ 16,00, todos superiores a R$ 12,00.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q160",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 160,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Razão e Proporção"
+    ],
+    "statement": "Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400 g de frango, 600 g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:\n[[FIG1]]\nEm relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.\nQual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "12,5"
+      },
+      {
+        "letter": "B",
+        "text": "28,0"
+      },
+      {
+        "letter": "C",
+        "text": "30,0"
+      },
+      {
+        "letter": "D",
+        "text": "50,0"
+      },
+      {
+        "letter": "E",
+        "text": "70,0"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q160-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "Inicialmente, os custos eram:\n- Frango: 0,4 kg x R$ 12,50 = R$ 5,00;\n- Batata-doce: 0,6 kg x R$ 5,00 = R$ 3,00;\n- Hortaliça: 1 unidade x R$ 2,00 = R$ 2,00.\nCom o aumento de 50% no quilo da batata-doce, o novo preço passa para R$ 7,50 por kg, e os 600 g passam a custar 0,6 x R$ 7,50 = R$ 4,50. Mantendo a hortaliça a R$ 2,00 e o custo total em R$ 10,00, o valor restante para o frango será 10,00 - 4,50 - 2,00 = R$ 3,50. Com o quilo do frango a R$ 12,50, essa quantia permite comprar 3,50 / 12,50 = 0,28 kg = 280 g. A redução na quantidade de frango é de 400 g - 280 g = 120 g, o que representa uma diminuição percentual de 120 / 400 = 0,30, ou seja, 30%. Isso torna correta a alternativa C.\n\nA alternativa A (12,5%) confunde a redução com a divisão direta de valores. A alternativa B (28,0%) calcula a massa final em porcentagem da massa inicial (280/1000 g). As alternativas D (50,0%) e E (70,0%) superestimam a redução necessária ou tomam o complemento percentual.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q161",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 161,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Funções"
+    ],
+    "statement": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm) da massa m em função do tempo t (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ± A cos (ωt) ou P(t) = ± A sen (ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com o período T pela fórmula ω = 2π / T .\nConsidere a ausência de quaisquer forças dissipativas.\n[[FIG1]]\nA expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "–3 cos (2t)"
+      },
+      {
+        "letter": "B",
+        "text": "–3 sen (2t)"
+      },
+      {
+        "letter": "C",
+        "text": "3 cos (2t)"
+      },
+      {
+        "letter": "D",
+        "text": "–6 cos (2t)"
+      },
+      {
+        "letter": "E",
+        "text": "6 sen (2t)"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q161-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Pelo gráfico, a amplitude do movimento é A = 3 cm, pois oscila entre -3 e 3. Em t = 0, a posição é mínima, P(0) = -3. Como cos(0) = 1 e sen(0) = 0, a função deve ter a forma P(t) = -A cos(ωt) = -3 cos(ωt). O período T é o intervalo de tempo para completar um ciclo, que vai de t = 0 a t = π, logo T = π s. A frequência angular é dada por ω = 2π / T = 2π / π = 2 rad/s. Dessa forma, a lei horária é P(t) = -3 cos(2t), confirmando a alternativa A.\n\nA alternativa B é incorreta porque a função seno resultaria em P(0) = 0, contrariando o gráfico. A alternativa C traz coeficiente positivo, o que geraria P(0) = +3. As alternativas D e E estão erradas por utilizarem amplitude 6, valor que representa a variação total de pico a pico, e não a amplitude em relação à posição de equilíbrio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q174",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 174,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído definitivamente no cardápio. Terminado o período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.\n\n[[FIG1]]\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q174-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Como as três franquias atuaram pelo mesmo período, o lanche com maior média de vendas por franquia é aquele com a maior soma total de vendas. Calculando o total para cada lanche:\n- Lanche I: 415 + 415 + 415 = 1 245\n- Lanche II: 395 + 445 + 390 = 1 230\n- Lanche III: 425 + 370 + 425 = 1 220\n- Lanche IV: 430 + 370 + 433 = 1 233\n- Lanche V: 435 + 425 + 420 = 1 280\nO lanche de tipo V obteve a maior quantidade total de vendas (1 280 unidades) e, consequentemente, a maior média por franquia (aproximadamente 426,7 unidades), sendo correta a alternativa E.\n\nAs alternativas A, B, C e D são incorretas pois os totais dos lanches I, II, III e IV foram, respectivamente, 1 245, 1 230, 1 220 e 1 233, todos inferiores ao total alcançado pelo tipo V.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q175",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 175,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (M), conforme apresentado no quadro.\n\n[[FIG1]]\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\n[[FIG2]]\n\nNas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte, a comissão de tipo",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "I."
+      },
+      {
+        "letter": "B",
+        "text": "II."
+      },
+      {
+        "letter": "C",
+        "text": "III."
+      },
+      {
+        "letter": "D",
+        "text": "IV."
+      },
+      {
+        "letter": "E",
+        "text": "V."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q175-1.webp",
+      "FIG2": "data/figuras/enem-2021-q175-2.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Para determinar a média de faturamento mensal M, calcula-se a média ponderada dos faturamentos mensais pela quantidade de meses em que ocorreram, somando 12 meses no total:\nSoma = (3,5 x 3) + (2,5 x 2) + (5 x 2) + (3 x 4) + (7,5 x 1)\nSoma = 10,5 + 5,0 + 10,0 + 12,0 + 7,5 = 45,0 milhões de reais.\nA média mensal é M = 45,0 / 12 = 3,75 milhões de reais. Comparando com os intervalos de comissão, 3,75 está na faixa 2 <= M < 4, que corresponde à comissão de tipo II. Portanto, a alternativa correta é a B.\n\nA alternativa A é incorreta pois a faixa I atende valores de 1 a menos de 2. As alternativas C, D e E são incorretas pois exigem médias mínimas de 4, 5 e 6 milhões, respectivamente, valores superiores aos 3,75 milhões atingidos pela filial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q176",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 176,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Álgebra"
+    ],
+    "statement": "Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias.\n\nNessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "P = d · n + L + d · n · s"
+      },
+      {
+        "letter": "B",
+        "text": "P = d · n + L + d · s"
+      },
+      {
+        "letter": "C",
+        "text": "P = d + L + s"
+      },
+      {
+        "letter": "D",
+        "text": "P = d · n · s + L"
+      },
+      {
+        "letter": "E",
+        "text": "P = d · n + L + s"
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Para uma hospedagem de n diárias com preço diário d, o custo total das diárias é dado pelo produto d · n. A esse valor somam-se a taxa fixa de limpeza L e a taxa de serviço. Como a taxa de serviço é calculada aplicando o percentual s sobre o total das diárias, o seu valor monetário é expresso por (d · n) · s = d · n · s. Somando todas essas parcelas, o preço total P pago pelo cliente é dado por P = d · n + L + d · n · s, o que valida a alternativa A.\n\nA alternativa B é incorreta porque aplica a taxa de serviço sobre apenas uma diária (d · s), e não sobre o total. A alternativa C considera apenas uma diária e soma o percentual s diretamente como valor fixo. A alternativa D não soma o valor principal das diárias (d · n). A alternativa E soma a taxa s como um valor monetário fixo, sem multiplicá-la pelo total das diárias.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q177",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 177,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Estatística e Probabilidade"
+    ],
+    "statement": "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.\n\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\n\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "2."
+      },
+      {
+        "letter": "B",
+        "text": "4."
+      },
+      {
+        "letter": "C",
+        "text": "6."
+      },
+      {
+        "letter": "D",
+        "text": "9."
+      },
+      {
+        "letter": "E",
+        "text": "10."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A probabilidade de errar um lançamento é 1 - 1/2 = 1/2. Para n lançamentos independentes, a probabilidade de errar todos os dardos é (1/2)^n. Como o jogador pontua se acertar pelo menos um dardo, a probabilidade de pontuar é o evento complementar: P(pontuar) = 1 - (1/2)^n. Deseja-se que essa probabilidade seja de no mínimo 9/10: 1 - (1/2)^n >= 9/10, o que equivale a (1/2)^n <= 1/10, ou seja, 2^n >= 10. Testando valores inteiros de n: 2^1 = 2; 2^2 = 4; 2^3 = 8; 2^4 = 16. O menor número inteiro que satisfaz a desigualdade é n = 4, tornando correta a alternativa B.\n\nA alternativa A (2) é incorreta pois para 2 dardos a probabilidade é 1 - 1/4 = 3/4 = 0,75 < 0,9. As alternativas C (6), D (9) e E (10) também satisfazem a condição de probabilidade, mas não representam a quantidade mínima solicitada.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q179",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 179,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Sequências e Progressões",
+      "Álgebra"
+    ],
+    "statement": "Um segmento de reta está dividido em duas partes na proporção áurea quando o todo está para uma das partes na mesma razão em que essa parte está para a outra. Essa constante de proporcionalidade é comumente representada pela letra grega φ, e seu valor é dado pela solução positiva da equação φ² = φ + 1.\n\nAssim como a potência φ², as potências superiores de φ podem ser expressas da forma aφ + b, em que a e b são inteiros positivos, como apresentado no quadro.\n\n[[FIG1]]\n\nA potência φ⁷, escrita na forma aφ + b (a e b são inteiros positivos), é",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "5φ + 3"
+      },
+      {
+        "letter": "B",
+        "text": "7φ + 2"
+      },
+      {
+        "letter": "C",
+        "text": "9φ + 6"
+      },
+      {
+        "letter": "D",
+        "text": "11φ + 7"
+      },
+      {
+        "letter": "E",
+        "text": "13φ + 8"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q179-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "Sabendo que φ² = φ + 1, podemos obter potências superiores multiplicando a expressão anterior por φ:\nφ⁶ = 8φ + 5\nMultiplicando ambos os lados por φ, temos:\nφ⁷ = φ · (8φ + 5) = 8φ² + 5φ\nSubstituindo φ² por φ + 1:\nφ⁷ = 8(φ + 1) + 5φ = 8φ + 8 + 5φ = 13φ + 8.\nObserva-se também que os coeficientes a e b seguem a sequência de Fibonacci: para φ², a = 1, b = 1; para φ³, a = 2, b = 1; para φ⁴, a = 3, b = 2; para φ⁵, a = 5, b = 3; para φ⁶, a = 8, b = 5; portanto, para φ⁷, a = 5 + 8 = 13 e b = 3 + 5 = 8, confirmando a alternativa E.\n\nAs alternativas A (5φ + 3) e C (9φ + 6) não correspondem à progressão de Fibonacci. A alternativa B (7φ + 2) e a alternativa D (11φ + 7) apresentam coeficientes incorretos que não satisfazem a relação algébrica de recorrência φ⁷ = φ⁶ + φ⁵.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
+  },
+  {
+    "id": "enem-2021-q180",
+    "exam": "enem",
+    "year": 2021,
+    "originalNumber": 180,
+    "day": 2,
+    "subjectId": "matematica",
+    "topics": [
+      "Geometria Espacial"
+    ],
+    "statement": "O Atomium, representado na imagem, é um dos principais pontos turísticos de Bruxelas. Ele foi construído em 1958 para a primeira grande exposição mundial depois da Segunda Guerra Mundial, a Feira Mundial de Bruxelas.\n\nTrata-se de uma estrutura metálica construída no formato de um cubo. Essa estrutura está apoiada por um dos vértices sobre uma base paralela ao plano do solo, e a diagonal do cubo, contendo esse vértice, é ortogonal ao plano da base. Centradas nos vértices desse cubo, foram construídas oito esferas metálicas, e uma outra esfera foi construída no ponto de interseção das diagonais do cubo. As oito esferas sobre os vértices são interligadas segundo suas arestas, e a esfera central se conecta a elas pelas diagonais do cubo.\n\nTodas essas interligações são feitas por tubos cilíndricos que possuem escadas em seu interior, permitindo o deslocamento de pessoas pela parte interna da estrutura. Na diagonal ortogonal à base, o deslocamento é feito por um elevador, que permite o deslocamento entre as esferas da base e a esfera do ponto mais alto, passando pela esfera central.\n\nConsidere um visitante que se deslocou pelo interior do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas as diagonais do cubo.\n\n[[FIG1]]\n\nDisponível em: http://trupedatrip.com. Acesso em: 25 out. 2019.\n\nA projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "data/figuras/enem-2021-q180-2.webp"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "data/figuras/enem-2021-q180-3.webp"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "data/figuras/enem-2021-q180-4.webp"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "data/figuras/enem-2021-q180-5.webp"
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "image": "data/figuras/enem-2021-q180-6.webp"
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2021-q180-1.webp",
+      "FIG2": "data/figuras/enem-2021-q180-2.webp",
+      "FIG3": "data/figuras/enem-2021-q180-3.webp",
+      "FIG4": "data/figuras/enem-2021-q180-4.webp",
+      "FIG5": "data/figuras/enem-2021-q180-5.webp",
+      "FIG6": "data/figuras/enem-2021-q180-6.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O cubo está posicionado de modo que uma de suas diagonais espaciais é perpendicular ao plano da base. Quando um cubo é projetado ortogonalmente ao longo dessa diagonal, os vértices superior e inferior projetam-se no centro geométrico da figura, enquanto os outros seis vértices projetam-se formando os vértices de um hexágono regular. As 12 arestas do cubo projetam-se como o contorno desse hexágono regular (6 lados) e 3 segmentos que ligam o centro a vértices alternados (arestas vindas do vértice superior) mais 3 segmentos ligando o centro aos outros 3 vértices (arestas vindas do vértice inferior), completando 6 raios que vão do centro a cada um dos vértices do hexágono. As diagonais do cubo até a esfera central coincidem com esses mesmos raios e com o ponto central. Portanto, a projeção resultante é um hexágono regular dividido em seis triângulos equiláteros com segmentos ligando todos os vértices ao centro, exatamente como representado na FIG6 (alternativa E).\n\nA alternativa A mostra ligações internas cruzadas inexistentes na projeção ortogonal. As alternativas B, C e D mostram contornos quadrangulares e retangulares, incompatíveis com a simetria de ordem 3 da projeção ao longo da diagonal do cubo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2021 – 2º dia, 5 Amarelo"
+    }
   }
 ]
