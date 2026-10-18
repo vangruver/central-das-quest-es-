@@ -113869,5 +113869,686 @@
       "institution": "INEP",
       "note": "ENEM 2018 – 2º dia, 7 Azul"
     }
+  },
+  {
+    "id": "enem-2019-esp-q01",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Adelfos\n\nYo soy como las gentes que a mi tierra vinieron\n— soy de la raza mora, vieja amiga del sol —,\nque todo lo ganaron y todo lo perdieron.\nTengo el alma de nardo del árabe español.\n\nMACHADO, M. Disponível em: www.poetasandaluces.com.\nAcesso em: 22 out. 2015 (fragmento).\n\nNessa estrofe, o poeta e dramaturgo espanhol Manuel Machado reflete acerca",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "de sua formação identitária plural."
+      },
+      {
+        "letter": "B",
+        "text": "da condição nômade de seus antepassados."
+      },
+      {
+        "letter": "C",
+        "text": "da perda sofrida com o processo de migração."
+      },
+      {
+        "letter": "D",
+        "text": "da dívida do povo espanhol para com o povo árabe."
+      },
+      {
+        "letter": "E",
+        "text": "de sua identificação com os elementos da natureza."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No poema 'Adelfos', Manuel Machado destaca as diferentes heranças que compõem sua ancestralidade e sua cultura ao afirmar: 'soy de la raza mora... Tengo el alma de nardo del árabe español'. Ao articular elementos da tradição moura e da cultura espanhola, o eu lírico reconhece a miscigenação histórica da Península Ibérica como parte constitutiva de seu próprio ser, refletindo sobre sua identidade múltipla e plural, o que valida a alternativa A.\n\nA alternativa B é incorreta, pois o poema não tematiza o nomadismo, mas sim a conquista e fixação territorial na Espanha. A alternativa C está errada, pois a perda mencionada ('todo lo ganaron y todo lo perdieron') refere-se à história dos mouros na região, e não ao sofrimento pessoal decorrente de migração recente. A alternativa D é incorreta, uma vez que o texto não estabelece cobrança ou dívida histórica, mas sim integração cultural. A alternativa E está incorreta porque o foco central reside na ancestralidade étnica e cultural, sendo as imagens naturais apenas figuras metafóricas de apoio.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2019-q01",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 1,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "5 Ways Pets Can Improve Your Health\n\nA pet is certainly a great friend. After a difficult day, pet owners quite literally feel the love.\n\nIn fact, for nearly 25 years, research has shown that living with pets provides certain health benefits. Pets help lower blood pressure and lessen anxiety. They boost our immunity. They can even help you get dates.\n\nAllergy Fighters: A growing number of studies have suggested that kids growing up in a home with \"furred animals\" will have less risk of allergies and asthma.\n\nDate Magnets: Dogs are great for making love connections. Forget Internet matchmaking — a dog is a natural conversation starter.\n\nDogs for the Aged: Walking a dog or just caring for a pet — for elderly people who are able — can provide exercise and companionship.\n\nGood for Mind and Soul: Like any enjoyable activity, playing with a dog can elevate levels of serotonin and dopamine — nerve transmitters that are known to have pleasurable and calming properties.\n\nGood for the Heart: Heart attack patients who have pets survive longer than those without, according to several studies.\n\nDAVIS, J. L. Disponível em: www.webmd.com.\nAcesso em: 21 abr. 2013 (adaptado).\n\nAo discutir sobre a influência de animais de estimação no bem-estar do ser humano, a autora, a fim de fortalecer seus argumentos, utiliza palavras e expressões como research, a growing number of research e several studies com o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "mostrar que animais de estimação ajudam na cura de doenças como alergias e asma."
+      },
+      {
+        "letter": "B",
+        "text": "convencer sobre os benefícios da adoção de animais de estimação para a saúde."
+      },
+      {
+        "letter": "C",
+        "text": "fornecer dados sobre os impactos de animais de estimação nas relações amorosas."
+      },
+      {
+        "letter": "D",
+        "text": "explicar como o contato com animais de estimação pode prevenir ataques cardíacos."
+      },
+      {
+        "letter": "E",
+        "text": "esclarecer sobre o modo como idosos devem se relacionar com animais de estimação."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "Ao recorrer a termos e expressões que remetem à produção científica, como 'research' (pesquisa), 'a growing number of studies' (um número crescente de estudos) e 'several studies' (diversos estudos), a autora constrói um argumento de autoridade. O objetivo desse recurso persuasivo é conferir credibilidade e convencer o leitor de que a convivência com animais de estimação realmente traz benefícios comprovados à saúde humana, validando a alternativa B.\n\nA alternativa A está incorreta, pois o texto cita a redução de riscos de desenvolver alergias e asma, e não a cura dessas enfermidades. A alternativa C é incorreta porque o texto apenas menciona de forma bem-humorada que cães facilitam o início de conversas, sem apresentar dados estatísticos de impacto amoroso. A alternativa D está errada, visto que o estudo citado aborda a sobrevida após um infarto, e não a prevenção primária da ocorrência de ataques cardíacos. A alternativa E é incorreta, pois o texto cita os benefícios das tarefas simples para idosos, sem prescrever regras de conduta ou relacionamento.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2019-esp-q02",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Millennials: Así es la generación que ya no recuerda cómo era el mundo sin Internet\n\nAlgunos los llaman generación Y, otros \"Millennials\", generación del milenio o incluso \"Echo Boomers\".\n\nNacieron y crecieron en una era de rápido desarrollo de las nuevas tecnologías, y casi no recuerdan cómo era el mundo sin Internet.\n\nSon idealistas, impacientes y están bien preparados académicamente. Muchos de ellos han tenido oportunidad de viajar por el mundo a una edad temprana, de estudiar en las mejores universidades y de trabajar en empresas multinacionales y extranjeras.\n\nLa generación Y se compone de este tipo de personas que quieren todo a la vez. No están dispuestos a soportar un trabajo poco interesante y rutinario, no quieren dejar las cosas buenas para luego. Lo que sí quieren es dejar su huella en la historia, vivir una vida interesante, formar parte de algo grande, crecer y desarrollarse, cambiar el mundo que les rodea, y no solo ganar dinero.\n\nDisponível em: https://actualidad.rt.com. Acesso em: 4 dez. 2018.\n\nO texto aponta características e interesses da \"Geração Y\". Nele, a expressão dejar su huella refere-se a um dos desejos dessa geração, que é o de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "conhecer diferentes lugares."
+      },
+      {
+        "letter": "B",
+        "text": "fazer a diferença no mundo."
+      },
+      {
+        "letter": "C",
+        "text": "aproveitar todas as oportunidades."
+      },
+      {
+        "letter": "D",
+        "text": "obter uma formação acadêmica de excelência."
+      },
+      {
+        "letter": "E",
+        "text": "conquistar boas colocações no mundo do trabalho."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "No último parágrafo, o texto sintetiza as aspirações da Geração Y: 'Lo que sí quieren es dejar su huella en la historia... formar parte de algo grande... cambiar el mundo que les rodea'. A expressão idiomática 'dejar su huella' (deixar sua marca ou pegada) simboliza o desejo desses jovens de ter relevância social, exercer impacto duradouro e transformar positivamente a realidade ao seu redor, ou seja, fazer a diferença no mundo, confirmando a alternativa B.\n\nA alternativa A é incorreta, pois viajar pelo mundo é mencionado como uma oportunidade já vivida por muitos, e não o significado da expressão destacada. A alternativa C está errada, pois a expressão não se resume a um pragmatismo oportunista, mas a um legado histórico transformador. A alternativa D é incorreta, visto que a excelente formação acadêmica é descrita como uma característica prévia, não como o sentido de 'dejar su huella'. A alternativa E é incorreta, pois o texto explicita que essa geração busca propósitos maiores, recusando a mera inserção corporativa com foco salarial.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2019-q02",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 2,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "LETTER TO THE EDITOR: Sugar fear-mongering unhelpful\nBy The Washington Times Tuesday, June 25, 2013\n\nIn his recent piece \"Is obesity a disease?\" (Web, June 19), Dr. Peter Lind refers to high-fructose corn syrup and other \"manufactured sugars\" as \"poison\" that will \"guarantee storage of fat in the body.\" Current scientific research strongly indicates that obesity results from excessive calorie intake combined with a sedentary lifestyle. The fact is Americans are consuming more total calories now than ever before. According to the U.S. Department of Agriculture, our total per-capita daily caloric intake increased by 22 percent from 2,076 calories per day in 1970 to 2,534 calories per day in 2010 — an additional 458 calories, only 34 of which come from increased added sugar intake. A vast majority of these calories come from increased fats and flour/cereals. Surprisingly, the amount of caloric sweeteners (i.e. sugar, high-fructose, corn syrup, honey, etc.). Americans consume has actually decreased over the past decade. We need to continue to study the obesity epidemic to see what more can be done, but demonizing one specific ingredient accomplishes nothing and raises unnecessary fears that get in the way of real solutions.\n\nJAMES M. RIPPE\nShrewsbury, Mass.\nDisponível em: www.washingtontimes.com.\nAcesso em: 29 jul. 2013 (adaptado).\n\nAo abordar o assunto \"obesidade\", em uma seção de jornal, o autor",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "defende o consumo liberado de açúcar."
+      },
+      {
+        "letter": "B",
+        "text": "aponta a gordura como o grande vilão da saúde."
+      },
+      {
+        "letter": "C",
+        "text": "demonstra acreditar que a obesidade não é preocupante."
+      },
+      {
+        "letter": "D",
+        "text": "indica a necessidade de mais pesquisas sobre o assunto."
+      },
+      {
+        "letter": "E",
+        "text": "enfatiza a redução de ingestão de calorias pelos americanos."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "No trecho final de sua carta, James M. Rippe pondera sobre a complexidade do problema da obesidade ao afirmar: 'We need to continue to study the obesity epidemic to see what more can be done' (Precisamos continuar a estudar a epidemia de obesidade para ver o que mais pode ser feito). Ele adverte que demonizar um único ingrediente, como o açúcar, impede soluções reais e eficazes. Portanto, o autor indica expressamente a urgência de mais investigações científicas sobre o tema, justificando a alternativa D.\n\nA alternativa A é incorreta, pois o autor não incentiva o consumo irrestrito de açúcar, apenas contesta que ele seja o único culpado. A alternativa B é incorreta, já que o autor atribui a obesidade ao balanço calórico global e ao sedentarismo, sem eleger a gordura como vilã exclusiva. A alternativa C está errada, visto que ele qualifica a obesidade como uma 'epidemia' séria. A alternativa E é incorreta, pois o texto mostra que o consumo calórico médio dos americanos aumentou, e não diminuiu.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2019-esp-q03",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Que hay de cierto en la fábula de la cigarra y la hormiga\n\nCuenta una conocida fábula que, tras pasar todo un verano cantando y ociosa, una cigarra se encontró sin alimento y decidió pedir a su vecina, la hormiga algo que llevarse a la boca. Esta le ofreció granos de arroz acompañados de una moraleja: más vale prevenir que lamentar. ¿Merecen su fama de previsoras y afanosas las hormigas? Sin duda. Las hormigas cortadoras de hojas (Atta cephalotes), por exemplo, son consideradas las primeras agricultoras del planeta, dedicadas a cortar, acarrear e integrar hojas en el jardín de hongos del que se alimentan. Otro dato curioso es que se ha comprobado que, prácticamente en todas las especies de hormigas, las más ancianas asumen trabajos de mayor riesgo. De acuerdo con Dawid Moron de la Universidad de Jagiellonian (Polonia), esto se debe a que es mejor para la colonia sacrificar una vida que está cerca de su fin que a un individuo joven.\n\nEn cuanto a las cigarras, no se les puede acusar de perezosas. Lo que sí es cierto es que los machos pasan el verano \"cantando\" — un sonido que producen con unas membranas llamadas timbales — y encaramados a un árbol, de cuya savia se alimentan.\n\nDisponível em: www.muyinteresante.es.\nAcesso em: 31 out. 2012 (adaptado).\n\nA fábula é um gênero de ampla divulgação frequentemente revisitado com diversos objetivos. No texto, a fábula A cigarra e a formiga é retomada para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentar ao leitor um ensinamento moral."
+      },
+      {
+        "letter": "B",
+        "text": "reforçar o estereótipo associado às cigarras."
+      },
+      {
+        "letter": "C",
+        "text": "descrever o comportamento dos insetos na natureza."
+      },
+      {
+        "letter": "D",
+        "text": "expor a superioridade das formigas em relação às cigarras."
+      },
+      {
+        "letter": "E",
+        "text": "descrever a relação social entre formigas e cigarras na natureza."
+      }
+    ],
+    "correct": "C",
+    "annulled": false,
+    "explanation": "O texto parte da clássica fábula moralista de Esopo e La Fontaine para contrapor a ficção alegórica aos fatos científicos observados na natureza. O autor descreve como as formigas operam como agricultoras organizadas e como as cigarras na realidade não são preguiçosas, mas emitem sons por meio de membranas timpânicas enquanto se alimentam de seiva vegetal. Logo, o gênero fábula serve de pretexto para detalhar o comportamento biológico real dos insetos, justificando a alternativa C.\n\nA alternativa A é incorreta, pois o texto não pretende transmitir uma lição de conduta moral, mas sim desmistificá-la com base na ciência. A alternativa B está errada, já que o autor refuta a ideia de preguiça comumente associada às cigarras ('no se les puede acusar de perezosas'). A alternativa D é incorreta, pois não há juízo de valor biológico estabelecendo hierarquia de superioridade entre as espécies. A alternativa E está errada porque o texto analisa cada espécie de forma isolada, sem abordar relações de cooperação ou convivência social direta entre elas.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2019-q03",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 3,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "In this life\n\nSitting on a park bench\nThinking about a friend of mine\nHe was only twenty-three\nGone before he had his time.\nIt came without a warning\nDidn't want his friends to see him cry\nHe knew the day was dawning\nAnd I didn't have a chance to say goodbye.\n\nMADONNA. Erotica. Estados Unidos: Maverick, 1992.\n\nA canção, muitas vezes, é uma forma de manifestar sentimentos e emoções da vida cotidiana. Por exemplo, o sofrimento retratado nessa canção foi causado",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "pela morte precoce de um amigo jovem."
+      },
+      {
+        "letter": "B",
+        "text": "pelo término de um relacionamento amoroso."
+      },
+      {
+        "letter": "C",
+        "text": "pela mudança de um amigo para outro país."
+      },
+      {
+        "letter": "D",
+        "text": "pelo fim de uma amizade de mais de vinte anos."
+      },
+      {
+        "letter": "E",
+        "text": "pela traição por parte de pessoa próxima."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "Os versos da canção evidenciam que o eu lírico chora a perda de alguém que partiu antes da hora: 'He was only twenty-three / Gone before he had his time' (Ele tinha apenas vinte e três anos / Foi-se antes de cumprir seu tempo). A expressão 'gone' associada à impossibilidade de se despedir ('didn't have a chance to say goodbye') expressa a dor causada pelo falecimento precoce de um jovem companheiro, o que confirma a alternativa A.\n\nA alternativa B está incorreta porque o texto não trata de separação ou desilusão amorosa, mas sim de um amigo ('a friend of mine'). A alternativa C é incorreta, pois a partida tratada tem caráter definitivo e trágico, incompatível com uma simples viagem ou mudança de residência. A alternativa D é incorreta, visto que o jovem tinha 23 anos de idade, o que não significa que a amizade tenha durado mais de vinte anos. A alternativa E está errada, pois a letra não faz qualquer menção a traição ou quebra de confiança.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2019-esp-q04",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "Empanada\n\nOvera en bayo claro,\nvaquilla echada,\neres del vino tinto\nla camarada.\n\n[...]\n\nVienes llena de pino,\ncebolla y carne,\ncon pasas, huevo duro,\ny aliño de hambre.\n\nCon el primer mordisco\npor una oreja,\nse abre tu boca ardiente\ncomo sorpresa.\n\nTe la lleno de pebre\nquedas picante\nsi te beso muy fuerte,\nno me reclames.\n\nBusco, loco, en tu vientre,\ndelicia oscura,\nla traición exquisita\nde tu aceituna.\n\n[...]\n\nY repite el ataque\npor andanadas:\nNadie queda con hambre\nsi hay empanadas.\n\nANTRIX, J. Disponível em: http://versado-en-la-cocina.blogspot.com.\nAcesso em: 8 dez. 2018 (fragmento).\n\nA gastronomia é uma das formas de expressão cultural de um povo. Nesse poema, ao personificar as empanadas, o escritor chileno Antrix",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "enaltece esse prato da culinária hispânica."
+      },
+      {
+        "letter": "B",
+        "text": "descreve algumas etapas de preparação dessa receita."
+      },
+      {
+        "letter": "C",
+        "text": "destaca a importância do vinho na alimentação hispânica."
+      },
+      {
+        "letter": "D",
+        "text": "resgata o papel histórico desse alimento em tempos de fome."
+      },
+      {
+        "letter": "E",
+        "text": "evidencia a relevância de alguns condimentos na cozinha hispânica."
+      }
+    ],
+    "correct": "A",
+    "annulled": false,
+    "explanation": "No poema, Antrix dirige-se diretamente à empanada por meio de figuras de personificação e metáforas sensoriais ('eres del vino tinto la camarada', 'se abre tu boca ardiente', 'si te beso muy fuerte'). O eu lírico expressa fascínio, carinho e apetite fervoroso pela iguaria tradicional, exaltando seus recheios típicos e seu valor afetivo e gastronômico para a cultura chilena, o que torna correta a alternativa A.\n\nA alternativa B é incorreta, pois o poema lista ingredientes e sensações ao saborear a iguaria, e não o método técnico de preparo da receita culinária. A alternativa C está errada, pois o vinho tinto é citado apenas como acompanhante parceiro ('camarada') do prato principal. A alternativa D é incorreta, visto que a menção a 'aliño de hambre' e 'Nadie queda con hambre' refere-se ao poder saciante da comida, sem contextualizar crises históricas de escassez alimentar. A alternativa E é incorreta porque especiarias como o pebre são apenas detalhes dentro do enaltecimento do prato como um todo.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2019-q04",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 4,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "If children live with criticism, they learn to condemn.\nIf children live with fear, they learn to be apprehensive.\nIf children live with pity, they learn to feel sorry for themselves.\nIf children live with ridicule, they learn to feel shy.\nIf children live with tolerance, they learn patience.\nIf children live with praise, they learn appreciation.\nIf children live with acceptance, they learn to love.\nIf children live with approval, they learn to like themselves.\nIf children live with recognition, they learn it is good to have a goal.\nIf children live with sharing, they learn generosity.\nIf children live with fairness, they learn justice.\nIf children live with kindness and consideration, they learn respect.\nIf children live with friendliness, they learn the world is a nice place in which to live.\n\nNOLTE, D. L. Disponível em: www.americanfamilytraditions.com.\nAcesso em: 30 jul. 2012.\n\nValores culturais de um povo revelam sua forma de ser, agir e pensar. Na concepção da autora, as diferentes formas de educar crianças nos Estados Unidos confirmam que as crianças",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "temem quem as amedronta."
+      },
+      {
+        "letter": "B",
+        "text": "aprendem com o que vivem."
+      },
+      {
+        "letter": "C",
+        "text": "amam aqueles que as aceitam."
+      },
+      {
+        "letter": "D",
+        "text": "são gentis quando respeitadas."
+      },
+      {
+        "letter": "E",
+        "text": "ridicularizam quem as intimida."
+      }
+    ],
+    "correct": "B",
+    "annulled": false,
+    "explanation": "O poema constrói sua mensagem por meio de uma estrutura paralelística condicional ('If children live with..., they learn...'), na qual o ambiente em que a criança cresce e as experiências vivenciadas determinam diretamente seus valores, posturas e comportamentos no futuro. Assim, conclui-se que o aprendizado infantil é reflexo direto do meio em que a criança vive e com o qual convive, tornando correta a alternativa B.\n\nA alternativa A está incorreta, pois o texto afirma que viver com medo gera apreensão, e não necessariamente o temor a indivíduos específicos. A alternativa C é incorreta porque a convivência com a aceitação ensina a amar de maneira geral, e não restrita a quem as aceita. A alternativa D está errada, pois o poema pontua que a convivência com gentileza e consideração ensina o respeito, invertendo a lógica da alternativa. A alternativa E é incorreta, já que a exposição ao ridículo produz timidez ('they learn to feel shy'), e não conduta intimidadora.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2019-esp-q05",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "espanhol",
+    "topics": [
+      "Interpretação de Texto em Língua Espanhola"
+    ],
+    "statement": "El Hombre Electrónico\n\n¿Cuántas veces has cambiado de móvil? ¿Cuántos ordenadores has tenido ya? ¿Tienes cámara digital, IPOD, Nintendo Wii y televisión de pantalla de plasma? Ordenadores, teléfonos móviles, GPS, walkmans, televisiones, lavadoras, tostadores, aspiradores y un larguísimo etcétera. Todos usamos aparatos eléctricos que tarde o temprano se convertirán en residuos. El Hombre Electrónico mide 7 metros de altura y pesa 3,3 toneladas. Es una escultura hecha con la cantidad de residuos eléctricos y electrónicos que un ciudadano medio (en el Reino Unido) tirará a la basura a lo largo de su vida, si se sigue consumiendo este tipo de productos al ritmo actual. El Hombre Electrónico ha sido diseñado por el escultor Paul Bomini con objetivo de aumentar la conciencia de los ciudadanos a la hora de consumir aparatos eléctricos. Esta campaña parte de la base de que todos compramos aparatos electrónicos como herramientas de trabajo u ocio, pero haciéndonos unas cuantas preguntas podemos inducir cambios en nuestro comportamiento que beneficiarán al medio ambiente, otras personas y a nosotros mismos: ¿Tienes algún aparato eléctrico o electrónico que no necesitas? ¿Podrías ser más responsable a la hora de comprar un nuevo producto electrónico? ¿Podrías reciclar o reparar estos productos una vez que se han quedado obsoletos o se han roto? ¿Intentas ahorrar energia en tu vida diaria?\n\nDisponível em: www.verdecito.es. Acesso em: 20 fev. 2009 (adaptado).\n\nConsiderando a necessidade de assumir uma conduta mais responsável com o meio ambiente, Paul Bomini criou a escultura O homem eletrônico para",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "incentivar inovações em reciclagem para a construção de máquinas."
+      },
+      {
+        "letter": "B",
+        "text": "propor a criação de objetos a partir de aparelhos descartados."
+      },
+      {
+        "letter": "C",
+        "text": "divulgar o lançamento de produtos eletrônicos sustentáveis."
+      },
+      {
+        "letter": "D",
+        "text": "problematizar o descarte inconsequente de equipamentos."
+      },
+      {
+        "letter": "E",
+        "text": "alertar sobre as escolhas tecnológicas da população."
+      }
+    ],
+    "correct": "D",
+    "annulled": false,
+    "explanation": "A escultura de Paul Bomini impressiona por sua escala monumental (7 metros de altura e 3,3 toneladas), reunindo o volume de lixo eletrônico descartado ao longo da vida por um cidadão médio. A obra visa conscientizar o público sobre o ritmo acelerado de obsolescência e consumo, provocando reflexões sobre a necessidade de reutilização, reparo e descarte responsável. Assim, o objetivo da escultura é problematizar o descarte inconsequente de aparelhos, validando a alternativa D.\n\nA alternativa A é incorreta, pois o artista utilizou sucata para criar uma obra de arte provocativa, sem finalidade de inovação tecnológica industrial. A alternativa B está errada, pois a escultura é uma intervenção de alerta ecológico, não uma proposta de design para utilitários domésticos. A alternativa C é incorreta, já que o texto não divulga marcas nem novos aparelhos sustentáveis. A alternativa E está errada, pois o foco central não reside na escolha da marca ou tecnologia, mas no impacto ambiental gerado pelo consumo excessivo e descarte contínuo de resíduos.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Espanhol)"
+    }
+  },
+  {
+    "id": "enem-2019-q05",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 5,
+    "day": 1,
+    "subjectId": "ingles",
+    "topics": [
+      "Interpretação de Texto em Língua Inglesa"
+    ],
+    "statement": "[[FIG1]]\nKEEFER, M. Disponível em: www.nj.com. Acesso em: 3 dez. 2018.\n\nNo cartum, o estudante faz uma pergunta usando turn this thing on por",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "suspeitar que o colega está com seu material por engano."
+      },
+      {
+        "letter": "B",
+        "text": "duvidar que o colega possa se tornar um bom aluno."
+      },
+      {
+        "letter": "C",
+        "text": "desconfiar que o livro levado é de outra matéria."
+      },
+      {
+        "letter": "D",
+        "text": "entender como desligada a postura do colega."
+      },
+      {
+        "letter": "E",
+        "text": "desconhecer como usar um livro impresso."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q05-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O efeito cômico e crítico do cartum baseia-se no contraste entre a cultura digital contemporânea e o ambiente escolar tradicional. Ao se deparar com um livro impresso convencional sobre a carteira escolar, o estudante pergunta ao colega 'how do you turn this thing on?' (como você liga essa coisa?), revelando estar tão habituado a telas e dispositivos eletrônicos que não sabe como manusear um suporte físico de leitura em papel. Dessa forma, a alternativa E está correta.\n\nA alternativa A é incorreta, pois o aluno apenas não compreende a operação do objeto em suas mãos. A alternativa B é incorreta, já que a fala não expressa julgamento sobre o rendimento acadêmico do colega. A alternativa C está errada, pois a dúvida refere-se ao funcionamento mecânico do artefato e não à disciplina a que pertence. A alternativa D é incorreta, pois o termo verbal 'turn on' refere-se estritamente ao ato de ligar um aparelho, sem conotação comportamental de distração.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL (opção Inglês)"
+    }
+  },
+  {
+    "id": "enem-2019-q06",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 6,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://palavrastempoder.org. Acesso em: 20 abr. 2015.\n\nPela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "propagar a imagem positiva do Ministério Público."
+      },
+      {
+        "letter": "B",
+        "text": "conscientizar a população que direitos implicam deveres."
+      },
+      {
+        "letter": "C",
+        "text": "coibir violações de direitos humanos nos meios de comunicação."
+      },
+      {
+        "letter": "D",
+        "text": "divulgar políticas sociais que combatem a intolerância e o preconceito."
+      },
+      {
+        "letter": "E",
+        "text": "instruir as pessoas sobre a forma correta de expressão nas redes sociais."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q06-1.webp"
+    },
+    "correct": "B",
+    "annulled": false,
+    "explanation": "A campanha institucional do Ministério Público de Pernambuco estabelece uma relação dialética entre direito e responsabilidade individual: embora a liberdade de expressão seja uma garantia constitucional fundamental e inquestionável, seu exercício não pode violar a lei, propagar ódio nem desrespeitar os Direitos Humanos. Logo, a função social do cartaz é conscientizar os cidadãos de que o gozo de direitos fundamentais traz consigo deveres cívicos e legais indispensáveis, o que justifica a alternativa B.\n\nA alternativa A está incorreta, pois a finalidade prioritária da peça de comunicação pública é educativa e preventiva, e não a promoção de autoimagem do órgão público. A alternativa C é incorreta, visto que o cartaz por si só não coíbe infrações diretamente, apenas orienta a população e estimula denúncias. A alternativa D está errada, já que o texto não apresenta programas ou políticas governamentais específicas, focando na conscientização civil. A alternativa E é incorreta, pois a mensagem não traz manuais técnicos de etiqueta digital ou uso de redes, abrangendo a manifestação social de modo geral.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q10",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 10,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Gêneros Textuais",
+      "Gramática e Morfossintaxe"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: www.essl.pt. Acesso em: 9 maio 2019 (adaptado).\n\nEssa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade de se acabar com o bullying. Tal estratégia está centrada no(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas."
+      },
+      {
+        "letter": "B",
+        "text": "variedade linguística caracterizadora do português europeu."
+      },
+      {
+        "letter": "C",
+        "text": "restrição a um grupo específico de vítimas ao apresentar marcas gráficas de identificação de gênero como “o(a)”."
+      },
+      {
+        "letter": "D",
+        "text": "combinação do significado de palavras escritas em línguas inglesa e portuguesa."
+      },
+      {
+        "letter": "E",
+        "text": "enunciado de cunho esperançoso “passe à história” no título do cartaz."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q10-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O cartaz orienta o leitor dividindo suas recomendações entre diferentes agentes envolvidos no contexto escolar: a própria vítima, os colegas que presenciam a agressão e os que conhecem o agressor. Para direcionar a postura de cada um desses grupos, o texto emprega predominantemente verbos na forma injuntiva (imperativo), tais como 'fica', 'finge', 'evita', 'conta', 'ajuda' e 'denuncia'. Assim, a estratégia persuasiva e educativa ancora-se no chamamento de múltiplos atores sociais mediante estruturas injuntivas, tornando correta a alternativa A.\n\nA alternativa B é incorreta, pois, embora o texto esteja formulado na norma europeia, isso reflete apenas a origem do material, não sendo a estratégia argumentativa central da campanha. A alternativa C está errada, pois a marcação gráfica 'o(a)' atua para ampliar e incluir ambos os gêneros, e não para restringir o grupo atendido. A alternativa D é incorreta, já que o uso pontual de 'STOP' e 'Bullying' consiste apenas em empréstimos linguísticos usuais no tema. A alternativa E está incorreta porque o título apenas sumariza a meta, mas não constitui a estratégia central de engajamento articulada no cartaz.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q17",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 17,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Gêneros Textuais"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.\nDe acordo com esse infográfico, as redes sociais estimulam diferentes comportamentos dos usuários que revelam",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "exposição exagerada dos indivíduos."
+      },
+      {
+        "letter": "B",
+        "text": "comicidade ingênua dos usuários."
+      },
+      {
+        "letter": "C",
+        "text": "engajamento social das pessoas."
+      },
+      {
+        "letter": "D",
+        "text": "disfarce do sujeito por meio de avatares."
+      },
+      {
+        "letter": "E",
+        "text": "autocrítica dos internautas."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q17-1.webp"
+    },
+    "correct": "A",
+    "annulled": false,
+    "explanation": "O infográfico ironiza arquétipos clássicos dos ambientes virtuais ('turista em tempo integral', 'o gourmet de aparências', 'a mãe orgulhosa demais', 'o baladeiro vida louca'), demonstrando como as pessoas sentem uma necessidade incessante de publicizar momentos triviais de suas rotinas para obter validação, aplauso ou atenção. Essa compulsão por mostrar viagens, pratos, relacionamentos e fotos pessoais reflete a superexposição da intimidade e da vida privada nas redes, legitimando a alternativa A.\n\nA alternativa B está incorreta, pois o comportamento satirizado revela vaidade e egocentrismo conscientes ('cheios de si'), não ingenuidade cômica. A alternativa C é incorreta, já que os hábitos listados representam interesses individuais e fúteis, desprovidos de ativismo ou engajamento social comunitário. A alternativa D está errada, visto que as pessoas retratadas expõem a si mesmas de forma deliberada, e não protegidas por pseudônimos ou disfarces anônimos. A alternativa E é incorreta, pois as atitudes ilustradas denotam vaidade desmedida e carência de autocrítica em relação à própria imagem pública.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q23",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 23,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto",
+      "Semântica e Figuras de Linguagem"
+    ],
+    "statement": "[[FIG1]]\n\nDisponível em: www.acnur.org. Acesso em: 11 dez. 2018.\n\nNesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "criticar as difíceis condições de vida dos refugiados."
+      },
+      {
+        "letter": "B",
+        "text": "revelar a longa trajetória percorrida pelos refugiados."
+      },
+      {
+        "letter": "C",
+        "text": "incentivar a campanha de doações para os refugiados."
+      },
+      {
+        "letter": "D",
+        "text": "denunciar a situação de carência vivida pelos refugiados."
+      },
+      {
+        "letter": "E",
+        "text": "simbolizar a necessidade de adesão à causa dos refugiados."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q23-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O cartaz articula a linguagem não verbal (um par de tênis gastos e enlameados) com a linguagem verbal, valendo-se da metáfora popular de 'se colocar no lugar do outro' ('vamos calçar os sapatos dos refugiados'). Esse apelo busca despertar a empatia do público para que ele compreenda as adversidades enfrentadas por essas populações e se engaje na defesa e no apoio humanitário aos refugiados. O calçado simboliza, portanto, a conclamação à adesão e solidariedade à causa, validando a alternativa E.\n\nA alternativa A é incorreta, pois a intenção central não é apenas fazer uma crítica formal às condições de acolhimento, mas mobilizar a população em prol da empatia. A alternativa B está errada, pois o percurso físico percorrido é um elemento ilustrativo secundário da metáfora de empatia. A alternativa C é incorreta, visto que o cartaz convida à conscientização institucional e social, sem caráter de arrecadação material direta de donativos. A alternativa D é incorreta, pois a peça transcende a mera denúncia factual de carência, tendo como cerne a sensibilização afetiva e cívica do interlocutor.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q26",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 26,
+    "day": 1,
+    "subjectId": "portugues",
+    "topics": [
+      "Interpretação de Texto"
+    ],
+    "statement": "TEXTO I\n\nO Estatuto do Idoso completou 15 anos em 2018 e só no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violação de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes.\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\nTEXTO II\n\n[[FIG1]]\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.\n\nNa comparação entre os textos, conclui-se que as regras do Estatuto do Idoso",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "apresentam vantagens em relação às de outros países."
+      },
+      {
+        "letter": "B",
+        "text": "são ignoradas pelas famílias responsáveis por idosos."
+      },
+      {
+        "letter": "C",
+        "text": "alteram a qualidade de vida das pessoas com mais de 60 anos."
+      },
+      {
+        "letter": "D",
+        "text": "precisam ser revistas em razão do envelhecimento da população."
+      },
+      {
+        "letter": "E",
+        "text": "contrastam com as condições de vida proporcionadas pelo País."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q26-1.webp"
+    },
+    "correct": "E",
+    "annulled": false,
+    "explanation": "O Texto II apresenta um elenco de direitos assegurados por lei aos idosos no Brasil, tais como atendimento preferencial no SUS, gratuidade em transportes, prioridade jurídica e vagas reservadas. Em contrapartida, o Texto I expõe o alarmante número de denúncias de violência contra idosos (16 mil em apenas um semestre) e ressalta o despreparo estrutural do País para atender a essa população em expansão. Dessa comparação, nota-se o contraste flagrante entre os avanços formais da legislação e a dura realidade social vivenciada na prática, confirmando a alternativa E.\n\nA alternativa A é incorreta, pois os textos não realizam análises comparativas de teor legislativo com outros países. A alternativa B é incorreta, já que o texto I indica a violência familiar como apenas uma das hipóteses, sem generalizar que todas as famílias ignoram as leis. A alternativa C está errada, pois a mera existência do estatuto não garantiu a plena transformação da qualidade de vida prática, como evidenciam as denúncias. A alternativa D é incorreta, pois o texto I defende o fortalecimento de políticas públicas e da rede de proteção, e não a alteração do texto legal do Estatuto.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
+  },
+  {
+    "id": "enem-2019-q59",
+    "exam": "enem",
+    "year": 2019,
+    "originalNumber": 59,
+    "day": 1,
+    "subjectId": "geografia",
+    "topics": [
+      "Geografia Física"
+    ],
+    "statement": "[[FIG1]]\nDisponível em: https://hypescience.com. Acesso em: 1 dez. 2018 (adaptado).\n\nA divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
+    "alternatives": [
+      {
+        "letter": "A",
+        "text": "ciclo hidrológico."
+      },
+      {
+        "letter": "B",
+        "text": "processo erosivo."
+      },
+      {
+        "letter": "C",
+        "text": "estrutura geológica."
+      },
+      {
+        "letter": "D",
+        "text": "índice pluviométrico."
+      },
+      {
+        "letter": "E",
+        "text": "pressão atmosférica."
+      }
+    ],
+    "figures": {
+      "FIG1": "data/figuras/enem-2019-q59-1.webp"
+    },
+    "correct": "C",
+    "annulled": false,
+    "explanation": "A imagem ilustra os países atuais delimitados sobre o supercontinente Pangeia, que existiu há centenas de milhões de anos. A fragmentação e a separação dos continentes até a configuração atual ocorreram devido à tectônica de placas e à dinâmica interna da Terra, que movimentam a litosfera. Portanto, a permanência de uma massa continental unificada abrigando os Estados modernos só existiria caso houvesse estabilidade da estrutura geológica do planeta, impedindo a deriva continental. Assim, a alternativa C está correta.\n\nAs alternativas A, D e E estão incorretas porque o ciclo hidrológico, o índice pluviométrico e a pressão atmosférica são fatores climáticos e meteorológicos que atuam na atmosfera e hidrosfera, sem capacidade de deslocar placas continentais. A alternativa B está incorreta porque os processos erosivos são agentes exógenos que modelam o relevo superficial, mas não promovem a união ou a separação de massas continentais inteiras.",
+    "source": {
+      "institution": "INEP",
+      "note": "ENEM 2019 – 1º dia, 1 - AZUL"
+    }
   }
 ]
